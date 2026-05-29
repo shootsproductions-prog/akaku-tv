@@ -131,7 +131,16 @@ export default function NewCatalogEntryPage() {
       const chunked = UpChunk.createUpload({
         endpoint: async () => {
           const res = await fetch("/api/mux/upload-url", { method: "POST" });
-          const data = (await res.json()) as { uploadId?: string; url?: string; error?: string };
+          const rawBody = await res.text();
+          let data: { uploadId?: string; url?: string; error?: string } = {};
+          try {
+            data = JSON.parse(rawBody);
+          } catch {
+            const snippet = rawBody.slice(0, 200).replace(/\s+/g, " ").trim();
+            throw new Error(
+              `HTTP ${res.status} from /api/mux/upload-url returned non-JSON. Body starts: ${snippet}`
+            );
+          }
           if (!res.ok || !data.url || !data.uploadId) {
             throw new Error(data.error ?? `Failed to get upload URL (HTTP ${res.status})`);
           }
