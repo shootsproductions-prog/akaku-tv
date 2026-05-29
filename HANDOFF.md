@@ -8,6 +8,24 @@ don't reset.
 
 ---
 
+## Update — 2026-05-29 (session 2)
+
+- Repo bootstrapped: 2-commit history from the prior session imported via
+  `git am`; HANDOFF.md committed at root.
+- `npm run all` in `roku-channel/` passes clean (5 videos, 0 warnings,
+  0 errors).
+- **Mux credentials received** — Akakū Archive token (Production env)
+  with `Mux Video: R+W` and `Mux Data: R`. Stored in `.env.local` at the
+  repo root (gitignored). `.env.example` committed as the template. The
+  immediate blocker below is cleared; the next blocker is decision #4
+  (where the catalog/upload app lives).
+- Session containers are ephemeral — when this session ends, `.env.local`
+  goes with it. The token must also be stored in 1Password under
+  "Akakū — Mux Archive token" so it survives across sessions and
+  developers. Producer to confirm that's done.
+
+---
+
 ## Who & what
 
 I'm **Vini**, producer at **Akakū Maui Community Media** (PEG / community
