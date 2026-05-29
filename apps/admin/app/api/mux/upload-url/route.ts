@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { mux } from "@/lib/mux";
+import { getMux } from "@/lib/mux";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
@@ -14,6 +14,7 @@ export async function POST(request: NextRequest) {
   }
 
   try {
+    const mux = getMux();
     const upload = await mux.video.uploads.create({
       cors_origin: origin,
       new_asset_settings: {
