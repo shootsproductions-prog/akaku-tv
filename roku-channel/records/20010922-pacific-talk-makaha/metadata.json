@@ -1,0 +1,29 @@
+{
+  "record_id": "20010922-pacific-talk-makaha",
+  "mux_playback_id": "MOCK4PacificTalkMakaha2001yzABCdef",
+  "start_time": null,
+  "end_time": null,
+  "title": "Pacific Talk: Interview with Auntie Makaha",
+  "description": "Talk-show episode from September 22, 2001 featuring an extended interview with community elder Auntie Makaha about education and youth programs on the Hāmākua coast.",
+  "content_type": "talk_show",
+  "tags": ["Pacific Talk", "interview", "kūpuna", "Hāmākua", "education"],
+  "has_olelo_hawaii": false,
+  "thumbnail_time": 180.0,
+  "estimated_date": "2001-09-22",
+  "duration_seconds": 1812.0,
+  "roku": {
+    "media_type": "shortFormVideo",
+    "short_description": "Talk-show interview with community elder Auntie Makaha about Hāmākua coast education programs.",
+    "long_description": "Pacific Talk episode from September 22, 2001 featuring an extended interview with community elder Auntie Makaha about education and youth programs on the Hāmākua coast. Includes audience Q&A in the second half.",
+    "release_date": "2001-09-22",
+    "genres": ["talk"],
+    "thumbnail_url": "https://image.mux.com/MOCK4PacificTalkMakaha2001yzABCdef/thumbnail.jpg?time=180&width=1280&height=720&fit_mode=smartcrop",
+    "playback": {
+      "url": "https://stream.mux.com/MOCK4PacificTalkMakaha2001yzABCdef.m3u8",
+      "videoType": "HLS",
+      "quality": "HD"
+    },
+    "captions_in_manifest": true,
+    "clip_required": false
+  }
+}

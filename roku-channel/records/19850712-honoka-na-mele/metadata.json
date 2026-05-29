@@ -1,0 +1,29 @@
+{
+  "record_id": "19850712-honoka-na-mele",
+  "mux_playback_id": "MOCK2naMeleSlackKey1985ghiJKLmno",
+  "start_time": null,
+  "end_time": null,
+  "title": "Nā Mele: An Evening of Slack-Key with Honokaʻa Musicians",
+  "description": "Live concert recording from July 12, 1985 featuring slack-key guitar and falsetto vocals from Honokaʻa-based musicians. Includes traditional mele and original compositions.",
+  "content_type": "music",
+  "tags": ["slack key", "kī hōʻalu", "Honokaʻa", "falsetto", "mele"],
+  "has_olelo_hawaii": false,
+  "thumbnail_time": 412.5,
+  "estimated_date": "1985-07-12",
+  "duration_seconds": 4187.0,
+  "roku": {
+    "media_type": "shortFormVideo",
+    "short_description": "Live slack-key and falsetto concert with Honokaʻa musicians, July 12, 1985.",
+    "long_description": "Live concert recording from July 12, 1985 featuring kī hōʻalu (slack-key guitar) and falsetto vocals from Honokaʻa-based musicians. Includes traditional mele and original compositions performed in front of a small community audience.",
+    "release_date": "1985-07-12",
+    "genres": ["music"],
+    "thumbnail_url": "https://image.mux.com/MOCK2naMeleSlackKey1985ghiJKLmno/thumbnail.jpg?time=412.5&width=1280&height=720&fit_mode=smartcrop",
+    "playback": {
+      "url": "https://stream.mux.com/MOCK2naMeleSlackKey1985ghiJKLmno.m3u8",
+      "videoType": "HLS",
+      "quality": "HD"
+    },
+    "captions_in_manifest": true,
+    "clip_required": false
+  }
+}

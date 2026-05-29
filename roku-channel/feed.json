@@ -1,0 +1,226 @@
+{
+  "providerName": "Akakū Community Media",
+  "language": "en",
+  "lastUpdated": "2026-05-29T00:55:30Z",
+  "shortFormVideos": [
+    {
+      "id": "19700816-hoolaulea-o-hana",
+      "title": "Hoʻolauleʻa O Hāna (1970)",
+      "shortDescription": "Community celebration in Hāna with hula hālau, oli, and kūpuna remarks. August 16, 1970.",
+      "longDescription": "Community celebration in Hāna featuring hula hālau, traditional chant, and remarks from kūpuna. Filmed on August 16, 1970. Contains extended segments in ʻōlelo Hawaiʻi; auto-captions may be approximate where Hawaiian is spoken.",
+      "thumbnail": "https://image.mux.com/MOCK1xQ8hooLauLeaOHana1970abcDEF/thumbnail.jpg?time=95&width=1280&height=720&fit_mode=smartcrop",
+      "releaseDate": "1970-08-16",
+      "tags": [
+        "Hāna",
+        "hoʻolauleʻa",
+        "hula",
+        "kūpuna",
+        "oli"
+      ],
+      "genres": [
+        "special",
+        "documentary"
+      ],
+      "content": {
+        "dateAdded": "2026-05-29T00:52:14Z",
+        "duration": 5123,
+        "language": "en",
+        "videos": [
+          {
+            "url": "https://stream.mux.com/MOCK1xQ8hooLauLeaOHana1970abcDEF.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "19850712-honoka-na-mele",
+      "title": "Nā Mele: An Evening of Slack-Key with Honokaʻa Musicians",
+      "shortDescription": "Live slack-key and falsetto concert with Honokaʻa musicians, July 12, 1985.",
+      "longDescription": "Live concert recording from July 12, 1985 featuring kī hōʻalu (slack-key guitar) and falsetto vocals from Honokaʻa-based musicians. Includes traditional mele and original compositions performed in front of a small community audience.",
+      "thumbnail": "https://image.mux.com/MOCK2naMeleSlackKey1985ghiJKLmno/thumbnail.jpg?time=412.5&width=1280&height=720&fit_mode=smartcrop",
+      "releaseDate": "1985-07-12",
+      "tags": [
+        "slack key",
+        "kī hōʻalu",
+        "Honokaʻa",
+        "falsetto",
+        "mele"
+      ],
+      "genres": [
+        "music"
+      ],
+      "content": {
+        "dateAdded": "2026-05-29T00:52:21Z",
+        "duration": 4187,
+        "language": "en",
+        "videos": [
+          {
+            "url": "https://stream.mux.com/MOCK2naMeleSlackKey1985ghiJKLmno.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "19920304-maui-county-fair-psa",
+      "title": "Maui County Fair 1992 — Community PSA",
+      "shortDescription": "PSA for the 1992 Maui County Fair with volunteer sign-up info and parade schedule.",
+      "longDescription": "Public service announcement promoting the 1992 Maui County Fair, with volunteer sign-up information and parade schedule. Produced at Akakū studios in Kahului. Approximately one minute.",
+      "thumbnail": "https://image.mux.com/MOCK3MauiCountyFair1992pqrSTUvwx/thumbnail.jpg?time=12&width=1280&height=720&fit_mode=smartcrop",
+      "releaseDate": "1992-03-04",
+      "tags": [
+        "Maui County Fair",
+        "Kahului",
+        "PSA",
+        "volunteer"
+      ],
+      "genres": [
+        "special"
+      ],
+      "content": {
+        "dateAdded": "2026-05-29T00:52:28Z",
+        "duration": 59,
+        "language": "en",
+        "videos": [
+          {
+            "url": "https://stream.mux.com/MOCK3MauiCountyFair1992pqrSTUvwx.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "20010922-pacific-talk-makaha",
+      "title": "Pacific Talk: Interview with Auntie Makaha",
+      "shortDescription": "Talk-show interview with community elder Auntie Makaha about Hāmākua coast education programs.",
+      "longDescription": "Pacific Talk episode from September 22, 2001 featuring an extended interview with community elder Auntie Makaha about education and youth programs on the Hāmākua coast. Includes audience Q&A in the second half.",
+      "thumbnail": "https://image.mux.com/MOCK4PacificTalkMakaha2001yzABCdef/thumbnail.jpg?time=180&width=1280&height=720&fit_mode=smartcrop",
+      "releaseDate": "2001-09-22",
+      "tags": [
+        "Pacific Talk",
+        "interview",
+        "kūpuna",
+        "Hāmākua",
+        "education"
+      ],
+      "genres": [
+        "talk"
+      ],
+      "content": {
+        "dateAdded": "2026-05-29T00:52:35Z",
+        "duration": 1812,
+        "language": "en",
+        "videos": [
+          {
+            "url": "https://stream.mux.com/MOCK4PacificTalkMakaha2001yzABCdef.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "20191108-na-leo-news-segment",
+      "title": "Nā Leo News: Lahaina Banyan Tree Restoration Update",
+      "shortDescription": "News segment on the Lahaina banyan tree restoration from the November 8, 2019 broadcast.",
+      "longDescription": "Segment from the November 8, 2019 edition of Nā Leo News covering the ongoing restoration of the historic Lahaina banyan tree. Pulled from the full broadcast as a standalone Mux clip asset.",
+      "thumbnail": "https://image.mux.com/MOCK5NaLeoNewsClip2019ghiJKLmnop/thumbnail.jpg?time=22&width=1280&height=720&fit_mode=smartcrop",
+      "releaseDate": "2019-11-08",
+      "tags": [
+        "Nā Leo News",
+        "Lahaina",
+        "banyan tree",
+        "restoration"
+      ],
+      "genres": [
+        "news"
+      ],
+      "content": {
+        "dateAdded": "2026-05-29T00:52:42Z",
+        "duration": 189,
+        "language": "en",
+        "videos": [
+          {
+            "url": "https://stream.mux.com/MOCK5NaLeoNewsClip2019ghiJKLmnop.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    }
+  ],
+  "playlists": [
+    {
+      "name": "row_news",
+      "itemIds": [
+        "20191108-na-leo-news-segment"
+      ]
+    },
+    {
+      "name": "row_cultural",
+      "itemIds": [
+        "19700816-hoolaulea-o-hana"
+      ]
+    },
+    {
+      "name": "row_music",
+      "itemIds": [
+        "19850712-honoka-na-mele"
+      ]
+    },
+    {
+      "name": "row_community",
+      "itemIds": [
+        "19920304-maui-county-fair-psa"
+      ]
+    },
+    {
+      "name": "row_talk_show",
+      "itemIds": [
+        "20010922-pacific-talk-makaha"
+      ]
+    },
+    {
+      "name": "row_olelo_hawaii",
+      "itemIds": [
+        "19700816-hoolaulea-o-hana"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "name": "Local News",
+      "playlistName": "row_news",
+      "order": "manual"
+    },
+    {
+      "name": "Hawaiian Culture",
+      "playlistName": "row_cultural",
+      "order": "manual"
+    },
+    {
+      "name": "Music",
+      "playlistName": "row_music",
+      "order": "manual"
+    },
+    {
+      "name": "Community",
+      "playlistName": "row_community",
+      "order": "manual"
+    },
+    {
+      "name": "Talk Shows",
+      "playlistName": "row_talk_show",
+      "order": "manual"
+    },
+    {
+      "name": "ʻŌlelo Hawaiʻi",
+      "playlistName": "row_olelo_hawaii",
+      "order": "manual"
+    }
+  ]
+}

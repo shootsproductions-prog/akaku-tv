@@ -1,0 +1,15 @@
+{
+  "name": "akaku-roku-feed",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Direct Publisher feed generator for the Akakū Community Archive Roku channel.",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-feed.mjs",
+    "validate": "node scripts/validate-feed.mjs",
+    "all": "npm run build && npm run validate"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
