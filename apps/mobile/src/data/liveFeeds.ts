@@ -11,7 +11,7 @@ type Feed = { hlsUrl: string; thumbnailUrl: string };
 export const LIVE_FEEDS: Record<number, Feed> = {
   53: { hlsUrl: 'https://dlttx48mxf9m3.cloudfront.net/vod_clients/akaku/live/ch1/video.m3u8', thumbnailUrl: '' },
   54: { hlsUrl: 'https://dlttx48mxf9m3.cloudfront.net/vod_clients/akaku/live/ch2/video.m3u8', thumbnailUrl: '' },
-  55: { hlsUrl: '', thumbnailUrl: '' },
+  55: { hlsUrl: 'https://dlttx48mxf9m3.cloudfront.net/vod_clients/akaku/live/ch3/video.m3u8', thumbnailUrl: '' },
 };
 
 /** Returns the URL only if it is a real https URL (not empty or a TODO). */
