@@ -1,7 +1,78 @@
 {
   "providerName": "Akakū Community Media",
   "language": "en",
-  "lastUpdated": "2026-05-29T00:55:30Z",
+  "lastUpdated": "2026-10-05T21:35:00Z",
+  "liveFeeds": [
+    {
+      "id": "akaku-ch53",
+      "title": "Government & Public Affairs — Spectrum 53",
+      "content": {
+        "dateAdded": "2026-10-05T21:34:54Z",
+        "videos": [
+          {
+            "url": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/akaku/live/ch1/video.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      },
+      "shortDescription": "Live stream of Akakū Channel 53 — Maui County Council, boards and commissions, gavel to gavel.",
+      "longDescription": "Akakū Maui Community Media's Government & Public Affairs channel (Spectrum 53), carrying live and recorded Maui County Council meetings, Planning Commission hearings, boards and commissions, and other civic programming. 24-hour live simulcast of the cable broadcast.",
+      "thumbnail": "https://raw.githubusercontent.com/shootsproductions-prog/akaku-tv/2c76043efebcd1ec464d3f1aa78166d2863b0a7d/roku-channel/posters/53.png",
+      "genres": [
+        "special"
+      ],
+      "releaseDate": "2026-10-05",
+      "branded": false,
+      "tags": []
+    },
+    {
+      "id": "akaku-ch54",
+      "title": "All Access All The Time — Spectrum 54",
+      "content": {
+        "dateAdded": "2026-10-05T21:34:54Z",
+        "videos": [
+          {
+            "url": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/akaku/live/ch2/video.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      },
+      "shortDescription": "Live stream of Akakū Channel 54 — community-made shows, all the time.",
+      "longDescription": "Akakū Maui Community Media's All Access All The Time channel (Spectrum 54), carrying community-made shows produced by Akakū members from across Maui County. 24-hour live simulcast of the cable broadcast.",
+      "thumbnail": "https://raw.githubusercontent.com/shootsproductions-prog/akaku-tv/2c76043efebcd1ec464d3f1aa78166d2863b0a7d/roku-channel/posters/54.png",
+      "genres": [
+        "special"
+      ],
+      "releaseDate": "2026-10-05",
+      "branded": false,
+      "tags": []
+    },
+    {
+      "id": "akaku-ch55",
+      "title": "Live & Local — Spectrum 55",
+      "content": {
+        "dateAdded": "2026-10-05T21:34:54Z",
+        "videos": [
+          {
+            "url": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/akaku/live/ch3/video.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      },
+      "shortDescription": "Live stream of Akakū Channel 55 — local shows and live community events from Maui.",
+      "longDescription": "Akakū Maui Community Media's Live & Local channel (Spectrum 55), carrying local shows and live community events from across Maui County. 24-hour live simulcast of the cable broadcast.",
+      "thumbnail": "https://raw.githubusercontent.com/shootsproductions-prog/akaku-tv/2c76043efebcd1ec464d3f1aa78166d2863b0a7d/roku-channel/posters/55.png",
+      "genres": [
+        "special"
+      ],
+      "releaseDate": "2026-10-05",
+      "branded": false,
+      "tags": []
+    }
+  ],
   "shortFormVideos": [
     {
       "id": "19700816-hoolaulea-o-hana",
@@ -22,7 +93,7 @@
         "documentary"
       ],
       "content": {
-        "dateAdded": "2026-05-29T00:52:14Z",
+        "dateAdded": "2026-10-05T08:47:48Z",
         "duration": 5123,
         "language": "en",
         "videos": [
@@ -52,7 +123,7 @@
         "music"
       ],
       "content": {
-        "dateAdded": "2026-05-29T00:52:21Z",
+        "dateAdded": "2026-10-05T08:47:48Z",
         "duration": 4187,
         "language": "en",
         "videos": [
@@ -81,7 +152,7 @@
         "special"
       ],
       "content": {
-        "dateAdded": "2026-05-29T00:52:28Z",
+        "dateAdded": "2026-10-05T08:47:48Z",
         "duration": 59,
         "language": "en",
         "videos": [
@@ -111,7 +182,7 @@
         "talk"
       ],
       "content": {
-        "dateAdded": "2026-05-29T00:52:35Z",
+        "dateAdded": "2026-10-05T08:47:48Z",
         "duration": 1812,
         "language": "en",
         "videos": [
@@ -140,7 +211,7 @@
         "news"
       ],
       "content": {
-        "dateAdded": "2026-05-29T00:52:42Z",
+        "dateAdded": "2026-10-05T08:47:48Z",
         "duration": 189,
         "language": "en",
         "videos": [

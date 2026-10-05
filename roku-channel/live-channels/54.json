@@ -1,11 +1,13 @@
 {
   "channel_number": 54,
-  "name_todo_verify": "Akakū Educational",
-  "short_description": "Live stream of Akakū Educational access channel — Maui schools, UH-Maui, and educational programming.",
-  "long_description": "Akakū Maui Community Media's Educational access channel (Spectrum 54), carrying programming from Maui public and charter schools, University of Hawaiʻi Maui College, and other educational institutions. 24-hour live simulcast of the cable broadcast.",
+  "name": "All Access All The Time",
+  "short_description": "Live stream of Akakū Channel 54 — community-made shows, all the time.",
+  "long_description": "Akakū Maui Community Media's All Access All The Time channel (Spectrum 54), carrying community-made shows produced by Akakū members from across Maui County. 24-hour live simulcast of the cable broadcast.",
   "castus_player_url": "https://cloud.castus.tv/vod/akaku/video/5fb42f138c4e7763d72b6ff1?page=HOME&type=live",
-  "hls_url": "TODO: paste https:// .m3u8 URL from Castus admin or DevTools",
-  "thumbnail_url": "TODO: paste https:// URL to channel 54 poster (1280x720 JPG/PNG)",
-  "genres": ["educational"],
+  "hls_url": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/akaku/live/ch2/video.m3u8",
+  "thumbnail_url": "https://raw.githubusercontent.com/shootsproductions-prog/akaku-tv/2c76043efebcd1ec464d3f1aa78166d2863b0a7d/roku-channel/posters/54.png",
+  "genres": [
+    "special"
+  ],
   "live_since": "2026-10-05"
 }

@@ -8,6 +8,18 @@ don't reset.
 
 ---
 
+## Update — 2026-10-05 (session 4): mobile app
+
+New `apps/mobile/`: an Expo / React Native app (iOS + Android) built from
+the Claude Design "Akakū App" handoff. It has the Live, Meetings (County
+Watch / Akakū Intelligence), Videos, Radio and Support tabs, dark/light,
+Kūpuna large-type mode, and AirPlay (iOS) / Cast (Android). It runs on
+demo data behind typed seams. The Castus `hls_url`s needed for Roku also
+light up the in-app player. See `apps/mobile/README.md` for what is wired
+and what is still mocked.
+
+---
+
 ## Update — 2026-10-05 (session 3): pivot to live-first
 
 After a ~4-month pause we revisited the direction. Big change: **the Roku
