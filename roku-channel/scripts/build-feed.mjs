@@ -12,6 +12,7 @@ import { fileURLToPath } from "node:url";
 const HERE = dirname(fileURLToPath(import.meta.url));
 const ROOT = resolve(HERE, "..");
 const RECORDS_DIR = join(ROOT, "records");
+const LIVE_CHANNELS_DIR = join(ROOT, "live-channels");
 const OUTPUT_FILE = join(ROOT, "feed.json");
 
 // Per the AGENTS spec from the catalog project.
@@ -53,7 +54,13 @@ function isoFromDate(d) {
 }
 
 async function loadRecords() {
-  const entries = await readdir(RECORDS_DIR, { withFileTypes: true });
+  let entries;
+  try {
+    entries = await readdir(RECORDS_DIR, { withFileTypes: true });
+  } catch (err) {
+    if (err.code === "ENOENT") return [];
+    throw err;
+  }
   const records = [];
   for (const entry of entries) {
     if (!entry.isDirectory()) continue;
@@ -70,6 +77,84 @@ async function loadRecords() {
     records.push({ folder: entry.name, path, data, mtime: st.mtime });
   }
   return records;
+}
+
+async function loadLiveChannels() {
+  let entries;
+  try {
+    entries = await readdir(LIVE_CHANNELS_DIR, { withFileTypes: true });
+  } catch (err) {
+    if (err.code === "ENOENT") return [];
+    throw err;
+  }
+  const channels = [];
+  for (const entry of entries) {
+    if (!entry.isFile() || !entry.name.endsWith(".json")) continue;
+    const path = join(LIVE_CHANNELS_DIR, entry.name);
+    const data = JSON.parse(await readFile(path, "utf8"));
+    const st = await stat(path);
+    channels.push({ file: entry.name, path, data, mtime: st.mtime });
+  }
+  // Deterministic order by channel_number ascending so the Roku home-screen
+  // tile order doesn't flap between regenerations.
+  channels.sort((a, b) => (a.data.channel_number ?? 0) - (b.data.channel_number ?? 0));
+  return channels;
+}
+
+function assertLiveChannel({ file, data }) {
+  const required = [
+    "channel_number",
+    "short_description",
+    "long_description",
+    "hls_url",
+    "thumbnail_url",
+  ];
+  for (const k of required) {
+    if (data[k] === undefined || data[k] === null || data[k] === "") {
+      throw new Error(`live-channels/${file}: missing required field "${k}"`);
+    }
+  }
+  if (typeof data.channel_number !== "number") {
+    throw new Error(`live-channels/${file}: channel_number must be a number`);
+  }
+  // Build-time refuses to emit a feed with TODO placeholders — those get
+  // caught here, not at Roku certification. hls_url and thumbnail_url must
+  // be real https URLs, not reminders to future-you.
+  for (const k of ["hls_url", "thumbnail_url"]) {
+    if (/^TODO/i.test(data[k])) {
+      throw new Error(
+        `live-channels/${file}: ${k} still a TODO placeholder — paste the real URL first`
+      );
+    }
+    if (!/^https:\/\//.test(data[k])) {
+      throw new Error(`live-channels/${file}: ${k} must start with https://`);
+    }
+  }
+}
+
+function toLiveFeed({ data, mtime }) {
+  const channelName = data.name_todo_verify ?? data.name ?? `Akakū ${data.channel_number}`;
+  return {
+    id: `akaku-ch${data.channel_number}`,
+    title: `${channelName} — Spectrum ${data.channel_number}`,
+    content: {
+      dateAdded: isoFromDate(mtime),
+      videos: [
+        {
+          url: data.hls_url,
+          quality: data.quality ?? "HD",
+          videoType: data.videoType ?? "HLS",
+        },
+      ],
+    },
+    shortDescription: clamp(data.short_description, 200),
+    longDescription: clamp(data.long_description, 500),
+    thumbnail: data.thumbnail_url,
+    genres: Array.isArray(data.genres) && data.genres.length ? data.genres : ["special"],
+    releaseDate: data.live_since,
+    branded: false,
+    tags: [],
+  };
 }
 
 function assertRecord({ folder, data }) {
@@ -174,14 +259,17 @@ function buildPlaylistsAndCategories(records) {
 }
 
 async function main() {
-  const records = await loadRecords();
-  if (!records.length) {
-    throw new Error(`No records found under ${RECORDS_DIR}`);
+  const [records, liveChannels] = await Promise.all([loadRecords(), loadLiveChannels()]);
+  if (!records.length && !liveChannels.length) {
+    throw new Error(
+      `No input found. Expected records/ under ${RECORDS_DIR} or live-channels/ under ${LIVE_CHANNELS_DIR}.`
+    );
   }
 
-  // Validate first so a bad record fails the build rather than producing a
+  // Validate first so a bad input fails the build rather than producing a
   // half-broken feed.
   for (const rec of records) assertRecord(rec);
+  for (const ch of liveChannels) assertLiveChannel(ch);
 
   // Stable order by release_date asc, record_id asc — keeps the feed diff-able
   // across regenerations.
@@ -193,22 +281,24 @@ async function main() {
   });
 
   const shortFormVideos = records.map(toShortFormVideo);
+  const liveFeeds = liveChannels.map(toLiveFeed);
   const { playlists, categories } = buildPlaylistsAndCategories(records);
 
   const feed = {
     providerName: PROVIDER_NAME,
     language: FEED_LANGUAGE,
     lastUpdated: isoFromDate(new Date()),
-    shortFormVideos,
-    playlists,
-    categories,
+    ...(liveFeeds.length ? { liveFeeds } : {}),
+    ...(shortFormVideos.length ? { shortFormVideos } : {}),
+    ...(playlists.length ? { playlists } : {}),
+    ...(categories.length ? { categories } : {}),
   };
 
   await mkdir(dirname(OUTPUT_FILE), { recursive: true });
   await writeFile(OUTPUT_FILE, JSON.stringify(feed, null, 2) + "\n", "utf8");
 
   console.log(
-    `wrote ${OUTPUT_FILE}: ${shortFormVideos.length} videos, ` +
+    `wrote ${OUTPUT_FILE}: ${liveFeeds.length} live channels, ${shortFormVideos.length} videos, ` +
       `${playlists.length} playlists, ${categories.length} categories`
   );
 }

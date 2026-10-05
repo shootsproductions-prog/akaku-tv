@@ -1,13 +1,22 @@
 # Akakū Community Archive — Roku channel (Stage 1: Direct Publisher)
 
 Stage 1 of the Akakū Community Media Roku channel. This folder generates a
-[Roku Direct Publisher][dp-overview] JSON feed from per-record catalog files,
-so the channel can be published without writing any BrightScript. Stage 2
+[Roku Direct Publisher][dp-overview] JSON feed from two kinds of input:
+
+- **Live channels** — Akakū's Spectrum 53/54/55 PEG broadcasts, simulcast
+  live via Castus. One `live-channels/<n>.json` per channel → one Roku
+  `liveFeed` tile. This is the primary launch surface.
+- **Records (VOD, optional)** — archive programs with pre-mapped Mux
+  playback IDs. One `records/<record_id>/metadata.json` per piece →
+  one `shortFormVideos` item with curated category rows.
+
+The channel can be published without writing any BrightScript. Stage 2
 (native SceneGraph + Mux Data SDK) is deferred — see "Stage 2" at the bottom.
 
 ```
 roku-channel/
-├── records/<record_id>/metadata.json   ← input: one file per program/segment
+├── live-channels/<n>.json              ← input: one file per Spectrum channel (53/54/55)
+├── records/<record_id>/metadata.json   ← input: one file per archive program (optional)
 ├── scripts/build-feed.mjs              ← generator
 ├── scripts/validate-feed.mjs           ← Direct Publisher schema checker
 ├── feed.json                           ← output (committed for review)
@@ -21,28 +30,44 @@ zero dependencies).
 
 ```sh
 cd roku-channel
-npm run build      # records/ → feed.json
+npm run build      # live-channels/ + records/ → feed.json
 npm run validate   # schema-check feed.json (exits non-zero on errors)
 npm run all        # build then validate
 ```
 
 The generator:
 
-- reads every `records/<record_id>/metadata.json`,
-- validates each record against the schema contract in `AGENTS.md`,
-- maps each one to a Direct Publisher `shortFormVideos` item using the
-  record's pre-mapped `roku.*` block as authoritative
+- reads every `live-channels/*.json` and emits one Direct Publisher
+  `liveFeed` item per channel, sorted by `channel_number` ascending so
+  tile order is deterministic;
+- reads every `records/<record_id>/metadata.json`, validates against the
+  schema contract in `AGENTS.md`, and emits one `shortFormVideos` item
+  per record using its pre-mapped `roku.*` block as authoritative
   (`record.roku.playback.url` overrides any derived URL — segments with
-  `clip_required: true` already carry their own Mux clip playback ID),
-- sorts items by `releaseDate` ASC then `record_id` ASC so regenerations
-  produce diff-able output,
+  `clip_required: true` already carry their own Mux clip playback ID);
+- sorts records by `releaseDate` ASC then `record_id` ASC so
+  regenerations produce diff-able output;
 - emits browsable rows: one `categories` row per `content_type` plus a
   curated **ʻŌlelo Hawaiʻi** row pulling any record with
   `has_olelo_hawaii: true`.
 
-Item `id`s are the `record_id`, which is stable across regenerations — Roku
-uses `id` to track watch progress per device, so changing it would erase
-viewer progress for that title.
+Item `id`s are stable across regenerations (`akaku-ch<n>` for live,
+`record_id` for VOD) — Roku uses `id` to track watch progress per
+device, so changing it would erase viewer progress for that title.
+
+### Filling in a live channel
+
+Each `live-channels/<n>.json` ships with `TODO:` placeholders for the
+fields that need real values before the feed can ship:
+
+- `hls_url` — the direct `.m3u8` manifest URL from Castus (find it in
+  Castus admin's channel-stream settings, or sniff it from the player
+  page via browser DevTools → Network → filter `m3u8`).
+- `thumbnail_url` — a public HTTPS URL to a 1280×720 channel poster
+  (channel logo over an Akakū-branded card).
+
+The generator **refuses** to emit a feed with `TODO` placeholders still
+in it, so you can't accidentally submit a half-filled feed to Roku.
 
 ## What the validator catches
 

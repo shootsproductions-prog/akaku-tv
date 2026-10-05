@@ -8,6 +8,62 @@ don't reset.
 
 ---
 
+## Update — 2026-10-05 (session 3): pivot to live-first
+
+After a ~4-month pause we revisited the direction. Big change: **the Roku
+channel is now live-first, not archive-first.** Rationale: Akakū is
+fundamentally a live PEG broadcaster, the cable feed is the mission, and
+Akakū's playout already runs on **Castus** (`cloud.castus.tv/vod/akaku/…`)
+which outputs HLS on its own. Routing the existing live cable broadcast
+to Roku is a shorter path to a shipped channel than building a VOD
+catalog + producer upload flow.
+
+What this changes in the plan:
+
+- **The Roku channel surfaces three live tiles**, one per Spectrum PEG
+  channel: 53 (Government), 54 (Educational), 55 (Community). Castus
+  provides the HLS endpoint for each; our feed just points at them.
+- **VOD / archive becomes Stage 1.5** — the records/ + feed-generator
+  pipe still works and can be re-enabled by dropping real
+  `records/<id>/metadata.json` files in whenever we want. The 5 mock
+  records are kept as fixtures for now; delete them before Roku cert
+  submission.
+- **The `apps/admin/` catalog uploader is paused.** It works end-to-end
+  as of session 2 (producer form + direct-to-Mux + records writer), but
+  isn't on the critical path for the live-first launch. Pick it back up
+  when there's a real producer workflow asking for it.
+- **Mux Live is NOT needed** — Castus already handles live encoding
+  and HLS delivery. The Mux account is still useful for VOD if/when we
+  revive the archive flow.
+
+Code changes shipped this session:
+
+- `roku-channel/live-channels/{53,54,55}.json` — one source file per
+  channel. Each carries the Castus player URL (for reference), plus
+  `TODO:` placeholders for `hls_url` and `thumbnail_url` that the
+  generator refuses to emit a feed with. Name fields are
+  `name_todo_verify` — Vini to confirm the official channel assignments.
+- `scripts/build-feed.mjs` — now loads `live-channels/*.json` and emits
+  Roku `liveFeeds`, in addition to the existing `shortFormVideos`
+  from records. Fails cleanly if either input dir is empty.
+- `scripts/validate-feed.mjs` — new `checkLiveFeed` enforces the DP
+  cert rules on live entries (https URL, HLS/DASH only, no TODO
+  placeholders, description caps, 16:9 thumbnail requirement).
+- `README.md` — updated to document the live-first path alongside VOD.
+
+Immediate blocker (small): need the **direct `.m3u8` URLs** for each of
+the three Castus channels. Either from Castus admin's channel-stream
+settings page, or sniffed from the player URL via browser DevTools
+(Network tab → filter `m3u8` → refresh). Also need three channel-poster
+images (1280×720) hosted somewhere public.
+
+Once those land, `npm run all` in `roku-channel/` goes green and we
+have a submittable live-first feed. Remaining launch work after that is
+hosting the feed, Roku dev account setup, channel art bundle for the
+Roku dashboard, and cert submission.
+
+---
+
 ## Update — 2026-05-29 (session 2)
 
 - Repo bootstrapped: 2-commit history from the prior session imported via
