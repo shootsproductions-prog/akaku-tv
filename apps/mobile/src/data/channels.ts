@@ -2,8 +2,9 @@
 // County releases and Maui Recovers links are real; meeting quotes, votes and
 // follow-ups are illustrative until Akakū Intelligence is wired in.
 import type { Channel } from './types';
+import { LIVE_FEEDS, liveUrl } from './liveFeeds';
 
-export const CHANNELS: Channel[] = [
+const BASE_CHANNELS: Channel[] = [
   {
     num: 55,
     name: "Live & Local",
@@ -86,3 +87,9 @@ export const CHANNELS: Channel[] = [
     thumbnailUrl: null
   }
 ];
+
+export const CHANNELS: Channel[] = BASE_CHANNELS.map(ch => ({
+  ...ch,
+  hlsUrl: liveUrl(LIVE_FEEDS[ch.num]?.hlsUrl),
+  thumbnailUrl: liveUrl(LIVE_FEEDS[ch.num]?.thumbnailUrl),
+}));

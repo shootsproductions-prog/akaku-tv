@@ -9,6 +9,7 @@ import { ICON } from '../../src/components/icons';
 import { Txt } from '../../src/components/Txt';
 import { Button, Card, Eyebrow, H2, LiveBadge, OverlayLabel, Press, Thumb } from '../../src/components/ui';
 import { CHANNELS } from '../../src/data/channels';
+import { freshFrame } from '../../src/data/liveFeeds';
 import { openPlayer } from '../../src/lib/navigate';
 import { useApp } from '../../src/state/AppState';
 import { BLUE } from '../../src/theme';
@@ -18,6 +19,7 @@ export default function LiveScreen() {
   const insets = useSafeAreaInsets();
   // "Live frame · Ns ago" — frames refresh on every open, like akaku.org.
   const [ago, setAgo] = useState(4);
+  const [frameStamp] = useState(() => Date.now());
   useEffect(() => {
     const t = setInterval(() => setAgo(a => (a + 1) % 15), 1000);
     return () => clearInterval(t);
@@ -57,7 +59,7 @@ export default function LiveScreen() {
         {CHANNELS.map(ch => (
           <Card key={ch.num} style={{ backgroundColor: colors.bg }}>
             <Press onPress={() => openPlayer(ch.num)} accessibilityLabel={`Watch Channel ${ch.num}`}>
-              <Thumb uri={ch.thumbnailUrl} label={`Channel ${ch.num} live frame`}>
+              <Thumb uri={freshFrame(ch.thumbnailUrl, frameStamp)} label={`Channel ${ch.num} live frame`}>
                 <View style={styles.liveTag}>
                   <LiveBadge />
                 </View>
