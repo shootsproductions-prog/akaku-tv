@@ -10,7 +10,7 @@ type Feed = { hlsUrl: string; thumbnailUrl: string };
 
 export const LIVE_FEEDS: Record<number, Feed> = {
   53: { hlsUrl: 'https://dlttx48mxf9m3.cloudfront.net/vod_clients/akaku/live/ch1/video.m3u8', thumbnailUrl: '' },
-  54: { hlsUrl: '', thumbnailUrl: '' },
+  54: { hlsUrl: 'https://dlttx48mxf9m3.cloudfront.net/vod_clients/akaku/live/ch2/video.m3u8', thumbnailUrl: '' },
   55: { hlsUrl: '', thumbnailUrl: '' },
 };
 
