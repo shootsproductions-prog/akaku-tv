@@ -133,7 +133,7 @@ function assertLiveChannel({ file, data }) {
 }
 
 function toLiveFeed({ data, mtime }) {
-  const channelName = data.name_todo_verify ?? data.name ?? `Akakū ${data.channel_number}`;
+  const channelName = data.name ?? data.name_todo_verify ?? `Akakū ${data.channel_number}`;
   return {
     id: `akaku-ch${data.channel_number}`,
     title: `${channelName} — Spectrum ${data.channel_number}`,

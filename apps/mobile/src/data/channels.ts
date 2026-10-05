@@ -35,7 +35,7 @@ const BASE_CHANNELS: Channel[] = [
   },
   {
     num: 54,
-    name: "All Access",
+    name: "All Access All The Time",
     short: "All Access",
     now: "Nā Mele: Slack-Key with Honokaʻa Musicians",
     next: "8:10 Pacific Talk",

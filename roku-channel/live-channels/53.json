@@ -1,11 +1,13 @@
 {
   "channel_number": 53,
-  "name_todo_verify": "Akakū Government",
-  "short_description": "Live stream of Akakū Government access channel — Maui County meetings, public hearings, and civic coverage.",
-  "long_description": "Akakū Maui Community Media's Government access channel (Spectrum 53), carrying live and recorded Maui County Council meetings, Planning Commission hearings, Mayor's briefings, and other civic programming. 24-hour live simulcast of the cable broadcast.",
+  "name": "Government & Public Affairs",
+  "short_description": "Live stream of Akakū Channel 53 — Maui County Council, boards and commissions, gavel to gavel.",
+  "long_description": "Akakū Maui Community Media's Government & Public Affairs channel (Spectrum 53), carrying live and recorded Maui County Council meetings, Planning Commission hearings, boards and commissions, and other civic programming. 24-hour live simulcast of the cable broadcast.",
   "castus_player_url": "https://cloud.castus.tv/vod/akaku/video/5fb42f138c4e7763d72b6ff0?page=HOME&type=live",
   "hls_url": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/akaku/live/ch1/video.m3u8",
   "thumbnail_url": "https://raw.githubusercontent.com/shootsproductions-prog/akaku-tv/2c76043efebcd1ec464d3f1aa78166d2863b0a7d/roku-channel/posters/53.png",
-  "genres": ["special"],
+  "genres": [
+    "special"
+  ],
   "live_since": "2026-10-05"
 }
