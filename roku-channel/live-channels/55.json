@@ -5,7 +5,7 @@
   "long_description": "Akakū Maui Community Media's Community access channel (Spectrum 55), carrying community-produced programming — cultural, music, talk, news, and local events from across Maui County. 24-hour live simulcast of the cable broadcast.",
   "castus_player_url": "https://cloud.castus.tv/vod/akaku/video/5fb42f138c4e7763d72b6fef?page=HOME&type=live",
   "hls_url": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/akaku/live/ch3/video.m3u8",
-  "thumbnail_url": "TODO: paste https:// URL to channel 55 poster (1280x720 JPG/PNG)",
+  "thumbnail_url": "https://raw.githubusercontent.com/shootsproductions-prog/akaku-tv/2c76043efebcd1ec464d3f1aa78166d2863b0a7d/roku-channel/posters/55.png",
   "genres": ["special"],
   "live_since": "2026-10-05"
 }

@@ -9,9 +9,9 @@
 type Feed = { hlsUrl: string; thumbnailUrl: string };
 
 export const LIVE_FEEDS: Record<number, Feed> = {
-  53: { hlsUrl: 'https://dlttx48mxf9m3.cloudfront.net/vod_clients/akaku/live/ch1/video.m3u8', thumbnailUrl: '' },
-  54: { hlsUrl: 'https://dlttx48mxf9m3.cloudfront.net/vod_clients/akaku/live/ch2/video.m3u8', thumbnailUrl: '' },
-  55: { hlsUrl: 'https://dlttx48mxf9m3.cloudfront.net/vod_clients/akaku/live/ch3/video.m3u8', thumbnailUrl: '' },
+  53: { hlsUrl: 'https://dlttx48mxf9m3.cloudfront.net/vod_clients/akaku/live/ch1/video.m3u8', thumbnailUrl: 'https://raw.githubusercontent.com/shootsproductions-prog/akaku-tv/2c76043efebcd1ec464d3f1aa78166d2863b0a7d/roku-channel/posters/53.png' },
+  54: { hlsUrl: 'https://dlttx48mxf9m3.cloudfront.net/vod_clients/akaku/live/ch2/video.m3u8', thumbnailUrl: 'https://raw.githubusercontent.com/shootsproductions-prog/akaku-tv/2c76043efebcd1ec464d3f1aa78166d2863b0a7d/roku-channel/posters/54.png' },
+  55: { hlsUrl: 'https://dlttx48mxf9m3.cloudfront.net/vod_clients/akaku/live/ch3/video.m3u8', thumbnailUrl: 'https://raw.githubusercontent.com/shootsproductions-prog/akaku-tv/2c76043efebcd1ec464d3f1aa78166d2863b0a7d/roku-channel/posters/55.png' },
 };
 
 /** Returns the URL only if it is a real https URL (not empty or a TODO). */
