@@ -90,18 +90,12 @@ certification reviewers actually reject feeds for:
 
 Run it after every regeneration. CI hook is on the Stage 2 todo list.
 
-## Mock records included
+## Archive records
 
-| record_id                            | content_type | notes                                                  |
-| ------------------------------------ | ------------ | ------------------------------------------------------ |
-| `19700816-hoolaulea-o-hana`          | cultural     | `has_olelo_hawaii: true`                               |
-| `19850712-honoka-na-mele`            | music        |                                                        |
-| `19920304-maui-county-fair-psa`      | community    | very short (~60s)                                      |
-| `20010922-pacific-talk-makaha`       | talk_show    |                                                        |
-| `20191108-na-leo-news-segment`       | news         | `clip_required: true` — Mux clip asset playback ID     |
-
-The `mux_playback_id` values are obviously fake (`MOCK1…`/`MOCK2…`) — replace
-with real public playback IDs from the catalog project before publishing.
+`records/` is currently empty: the feed is live-first and ships only the three
+`liveFeeds`. Drop a real `records/<record_id>/metadata.json` per program (with a
+real public Mux playback ID) to re-enable the VOD side; the build and validator
+handle both.
 
 ## Hosting the feed
 
