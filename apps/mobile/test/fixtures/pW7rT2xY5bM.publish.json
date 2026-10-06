@@ -1,0 +1,107 @@
+{
+  "videoId": "pW7rT2xY5bM",
+  "status": "auto-published: only claims that passed both checks",
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
+  "generatedAt": "2026-09-25T06:00:00.000Z",
+  "meetingDateISO": "2026-09-25",
+  "headline": "The Board set a Lahaina water timeline.",
+  "topics": [
+    "Water"
+  ],
+  "meeting": {
+    "id": "pW7rT2xY5bM",
+    "mon": "Sep",
+    "day": "25",
+    "date": "Fri, Sep 25, 2026",
+    "body": "Board of Water Supply",
+    "dur": "27 m",
+    "voteCount": 3,
+    "voteItem": "Motion to go into executive session",
+    "ayes": 5,
+    "noes": null,
+    "summary": "The Board set a Lahaina water timeline.",
+    "recap": "A test sentence.[[0:01:00]]",
+    "decided": [
+      "The commission voted to go into executive session (a closed-door discussion).",
+      "The motion to invite DPS employees to take part in the selection process carried.",
+      "The commission voted to adjourn the meeting."
+    ],
+    "next": "Yukari will draft the invitation email to DPS employees. A final email will tell candidates their interview time may be earlier or later depending on public testimony. The October 7 meeting will include a vote on a decision being sent to the commission and a check for new appeals. Final choices on who asks which question must be made after the meeting starts at 9:00.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:05:00",
+        "q": "Draft interview schedule read aloud"
+      },
+      {
+        "t": "0:12:35",
+        "q": "Vote to go into executive session"
+      },
+      {
+        "t": "0:17:26",
+        "q": "Vote to invite DPS employees into the selection process"
+      },
+      {
+        "t": "0:19:39",
+        "q": "\"It was never intended to suggest that DPS leadership or staff are not important stakeholders\""
+      }
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Water",
+      "since": "Sep 25, 2026",
+      "oneLine": "The Board accepted a revised Lahaina water restoration timeline.",
+      "why": "Restoration dates decide when homes can reconnect.",
+      "deadlines": [
+        {
+          "d": "Q2 2027",
+          "t": "Target for restoration"
+        }
+      ],
+      "next": "",
+      "brief": "The Board accepted a revised restoration timeline.[[#1]] The target is the second quarter of 2027.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Sep",
+          "day": "25",
+          "source": "Akakū recording",
+          "kind": "tv",
+          "title": "The Board accepted a revised Lahaina water restoration timeline.",
+          "note": "",
+          "proof": "Watch the moment",
+          "view": {
+            "type": "meeting",
+            "id": "pW7rT2xY5bM"
+          },
+          "seek": "1:02:14"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Meeting video",
+          "where": "Recording at 1:02:14",
+          "view": {
+            "type": "meeting",
+            "id": "pW7rT2xY5bM"
+          },
+          "seek": "1:02:14"
+        },
+        {
+          "n": 2,
+          "title": "Meeting video",
+          "where": "Recording at 1:02:40",
+          "view": {
+            "type": "meeting",
+            "id": "pW7rT2xY5bM"
+          },
+          "seek": "1:02:40"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "youtubeUrl": "https://youtu.be/pW7rT2xY5bM"
+  }
+}

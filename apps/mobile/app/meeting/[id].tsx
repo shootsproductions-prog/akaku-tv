@@ -1,10 +1,14 @@
 import { useLocalSearchParams } from 'expo-router';
 import { useEffect, useState } from 'react';
-import { ScrollView, StyleSheet, View } from 'react-native';
+import { Pressable, ScrollView, StyleSheet, View } from 'react-native';
 
 import { CastButton } from '../../src/components/media';
 import { Txt } from '../../src/components/Txt';
 import { Card, DetailHeader, Eyebrow, OverlayLabel, ProofText, ReadAloudButton, Thumb } from '../../src/components/ui';
+import { DEFAULT_DISCLAIMER } from '../../src/data/issues.ts';
+import { isYoutubeId, youtubeThumb } from '../../src/lib/recaps.ts';
+import { voteSides } from '../../src/lib/votes.ts';
+import { openVideo } from '../../src/lib/navigate';
 import { useContent } from '../../src/state/Content';
 import { useApp } from '../../src/state/AppState';
 import { BLUE, GREEN, RED } from '../../src/theme';
@@ -12,11 +16,19 @@ import { BLUE, GREEN, RED } from '../../src/theme';
 export default function MeetingScreen() {
   const params = useLocalSearchParams<{ id: string; seek?: string }>();
   const { colors } = useApp();
-  const { meetings } = useContent();
+  const { meetings, recapFor } = useContent();
   const m = meetings.find(x => x.id === params.id) ?? meetings[0];
+  const disclaimer = recapFor(m.id)?.disclaimer ?? DEFAULT_DISCLAIMER;
+  const real = isYoutubeId(m.id);
+  const sides = voteSides(m);
   // Where the recording is cued. Proof marks and moments move it.
   const [seek, setSeek] = useState(params.seek || '0:00:00');
   useEffect(() => setSeek(params.seek || '0:00:00'), [params.id, params.seek]);
+  // Cue the recording; for a real YouTube recording, also open it at that moment.
+  const mark = (t: string) => {
+    setSeek(t);
+    if (real) openVideo(m.id, t);
+  };
 
   return (
     <View style={{ flex: 1, backgroundColor: colors.bg }}>
@@ -27,21 +39,21 @@ export default function MeetingScreen() {
         </Txt>
       </DetailHeader>
       <ScrollView contentContainerStyle={{ paddingBottom: 32 }}>
-        <Thumb label="Meeting recording" dark>
-          <OverlayLabel>
-            <Txt style={{ fontSize: 12, color: '#fff' }}>▶ {seek}</Txt>
-          </OverlayLabel>
-        </Thumb>
+        <Pressable onPress={() => mark(seek)} disabled={!real} accessibilityRole="button" accessibilityLabel={`Watch the meeting recording from ${seek}`}>
+          <Thumb uri={real ? youtubeThumb(m.id) : null} label="Meeting recording" dark>
+            <OverlayLabel>
+              <Txt style={{ fontSize: 12, color: '#fff' }}>{real ? `▶ Watch from ${seek}` : `▶ ${seek}`}</Txt>
+            </OverlayLabel>
+          </Thumb>
+        </Pressable>
         <View style={{ padding: 20, gap: 24 }}>
           <View style={{ gap: 10 }}>
             <View style={styles.spread}>
               <Eyebrow>The 90-second version</Eyebrow>
               <ReadAloudButton text={m.recap} />
             </View>
-            <ProofText text={m.recap} active={seek} onRef={setSeek} />
-            <Txt style={{ fontSize: 12, lineHeight: 17, color: colors.mist }}>
-              Summarized by Akakū Intelligence. It can make mistakes. Tap a number to check the moment in the recording.
-            </Txt>
+            <ProofText text={m.recap} active={seek} onRef={mark} />
+            <Txt style={{ fontSize: 12, lineHeight: 17, color: colors.mist }}>{disclaimer} Tap a number to check the moment in the recording.</Txt>
             <Txt style={{ fontSize: 12, lineHeight: 18, color: colors.mist }}>
               Every numbered mark is a timestamp in the recording — tap it to watch the proof. The transcript and video are the record; the recap is a guide to them.
             </Txt>
@@ -65,13 +77,10 @@ export default function MeetingScreen() {
           <View style={{ gap: 10 }}>
             <Txt style={styles.h}>How they voted · {m.voteItem}</Txt>
             <View style={{ flexDirection: 'row', gap: 16 }}>
-              {m.ayes === null && m.noes === null ? (
+              {sides.length === 0 ? (
                 <Txt style={{ fontSize: 15, color: colors.mist }}>No count was stated in the meeting (likely a voice vote).</Txt>
               ) : (
-                <>
-                  {m.ayes !== null ? <Tally n={m.ayes} label="Aye" /> : null}
-                  {m.noes !== null ? <Tally n={m.noes} label="No" /> : null}
-                </>
+                sides.map(side => <Tally key={side.label} n={side.n} label={side.label} />)
               )}
             </View>
             <View style={{ borderTopWidth: 1, borderTopColor: colors.border }}>
@@ -88,23 +97,28 @@ export default function MeetingScreen() {
           <View style={{ gap: 10 }}>
             <Txt style={styles.h}>Jump to a moment</Txt>
             {m.moments.map(mo => (
-              <Card key={mo.t} onPress={() => setSeek(mo.t)} style={[styles.moment, seek === mo.t && { borderColor: BLUE }]}>
+              <Card key={mo.t} onPress={() => mark(mo.t)} style={[styles.moment, seek === mo.t && { borderColor: BLUE }]}>
                 <Txt style={{ fontSize: 14, fontWeight: '600', color: BLUE, minWidth: 60, fontVariant: ['tabular-nums'] }}>{mo.t}</Txt>
                 <Txt style={{ fontSize: 14, lineHeight: 21, flex: 1 }}>{mo.q}</Txt>
               </Card>
             ))}
           </View>
+          <Txt style={{ fontSize: 12, lineHeight: 18, color: colors.mist }}>{disclaimer}</Txt>
         </View>
       </ScrollView>
     </View>
   );
 }
 
-function Tally({ n, label }: { n: number; label: string }) {
+function Tally({ n, label }: { n: number | null; label: string }) {
   const { colors } = useApp();
   return (
     <View>
-      <Txt style={{ fontSize: 28, fontWeight: '700', lineHeight: 28, letterSpacing: -0.56 }}>{n}</Txt>
+      {n === null ? (
+        <Txt style={{ fontSize: 15, fontWeight: '600', lineHeight: 28, color: colors.mist }}>Not stated</Txt>
+      ) : (
+        <Txt style={{ fontSize: 28, fontWeight: '700', lineHeight: 28, letterSpacing: -0.56 }}>{n}</Txt>
+      )}
       <Txt style={{ fontSize: 10, fontWeight: '500', letterSpacing: 1.5, textTransform: 'uppercase', color: colors.mist, marginTop: 2 }}>{label}</Txt>
     </View>
   );

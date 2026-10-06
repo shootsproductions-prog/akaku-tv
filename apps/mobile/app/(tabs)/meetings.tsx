@@ -6,7 +6,8 @@ import { Icon } from '../../src/components/Icon';
 import { ICON } from '../../src/components/icons';
 import { Txt } from '../../src/components/Txt';
 import { AIBadge, Card, Chip, Deadlines, Eyebrow, Panel, Press, SectionHeader, Tag } from '../../src/components/ui';
-import { CAL_DAYS, CALENDAR, EXPLAINERS, FOLLOWUPS, FU_COLORS, TOPICS, WEEKLY } from '../../src/data/countyWatch';
+import { CAL_DAYS, CALENDAR, EXPLAINERS, FOLLOWUPS, FU_COLORS, WEEKLY } from '../../src/data/countyWatch';
+import { ISSUE_BLURBS, ISSUE_LABELS } from '../../src/data/issues.ts';
 import { HITS } from '../../src/data/meetings';
 import { useContent } from '../../src/state/Content';
 import type { FollowUpStatus } from '../../src/data/types';
@@ -90,7 +91,7 @@ export default function MeetingsScreen() {
 
 function CountyWatchHome() {
   const { colors } = useApp();
-  const { meetings } = useContent();
+  const { meetings, issuesByLabel } = useContent();
   return (
     <>
       <NewTermCounter />
@@ -117,16 +118,19 @@ function CountyWatchHome() {
 
       {/* Topics */}
       <View style={styles.section}>
-        <SectionHeader title="Browse by topic" aside="Everything the County put out" />
+        <SectionHeader title="Issues we track" aside="From our recorded meetings" />
         <View style={styles.grid}>
-          {TOPICS.map(tp => (
-            <Press key={tp.name} onPress={() => openIssue(tp.name)} style={[styles.topic, { borderColor: colors.border, backgroundColor: colors.bg }]}>
-              <Txt style={{ fontSize: 15, fontWeight: '700', lineHeight: 18 }}>{tp.name}</Txt>
-              <Txt style={{ fontSize: 12, lineHeight: 16.8, color: colors.mist }}>{tp.sub}</Txt>
-              <View style={{ flex: 1 }} />
-              <Txt style={{ fontSize: 12, fontWeight: '700', color: BLUE }}>{tp.badge}</Txt>
-            </Press>
-          ))}
+          {ISSUE_LABELS.map(label => {
+            const n = issuesByLabel[label].length;
+            return (
+              <Press key={label} onPress={() => openIssue(label)} style={[styles.topic, { borderColor: colors.border, backgroundColor: colors.bg }]}>
+                <Txt style={{ fontSize: 15, fontWeight: '700', lineHeight: 18 }}>{label}</Txt>
+                <Txt style={{ fontSize: 12, lineHeight: 16.8, color: colors.mist }}>{ISSUE_BLURBS[label]}</Txt>
+                <View style={{ flex: 1 }} />
+                <Txt style={{ fontSize: 12, fontWeight: '700', color: BLUE }}>{n ? `${n} ${n === 1 ? 'development' : 'developments'}` : 'Nothing yet'}</Txt>
+              </Press>
+            );
+          })}
         </View>
       </View>
 
