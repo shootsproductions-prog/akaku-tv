@@ -69,8 +69,8 @@ export default function MeetingScreen() {
                 <Txt style={{ fontSize: 15, color: colors.mist }}>No count was stated in the meeting (likely a voice vote).</Txt>
               ) : (
                 <>
-                  <Tally n={m.ayes ?? 0} label="Aye" />
-                  <Tally n={m.noes ?? 0} label="No" />
+                  {m.ayes !== null ? <Tally n={m.ayes} label="Aye" /> : null}
+                  {m.noes !== null ? <Tally n={m.noes} label="No" /> : null}
                 </>
               )}
             </View>
