@@ -1,0 +1,140 @@
+{
+  "videoId": "kQ3vN0w8aZc",
+  "status": "auto-published: only claims that passed both checks",
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-02T06:00:00.000Z",
+  "meetingDateISO": "2026-10-02",
+  "headline": "The Council took up water and rental bills.",
+  "topics": [
+    "Housing",
+    "Water"
+  ],
+  "meeting": {
+    "id": "kQ3vN0w8aZc",
+    "mon": "Oct",
+    "day": "2",
+    "date": "Fri, Oct 2, 2026",
+    "body": "Maui County Council",
+    "dur": "27 m",
+    "voteCount": 3,
+    "voteItem": "Motion to go into executive session under HRS 92-5",
+    "ayes": 5,
+    "noes": null,
+    "summary": "The Council took up water and rental bills.",
+    "recap": "A test sentence.[[0:01:00]]",
+    "decided": [
+      "The commission voted to go into executive session (a closed-door discussion) with its attorney.",
+      "The commission voted to invite DPS employees to be part of the selection process by watching the interviews and sending anonymous written comments.",
+      "The commission voted to adjourn."
+    ],
+    "next": "Staff will draft the invitation email to DPS employees.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:05:00",
+        "q": "Draft interview schedule read aloud"
+      },
+      {
+        "t": "0:12:08",
+        "q": "Vote to go into executive session"
+      },
+      {
+        "t": "0:17:26",
+        "q": "Vote to invite DPS employees to take part"
+      },
+      {
+        "t": "0:19:00",
+        "q": "A commissioner clarifies an earlier statement"
+      },
+      {
+        "t": "0:21:46",
+        "q": "What happens on October 7"
+      },
+      {
+        "t": "0:24:06",
+        "q": "Interview questions divided up"
+      }
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Water",
+      "since": "Oct 2, 2026",
+      "oneLine": "The Council heard that water infrastructure has to come before new permits.",
+      "why": "Permits and pipes are linked.",
+      "deadlines": [],
+      "next": "",
+      "brief": "A testifier said water infrastructure must come first.[[#1]]",
+      "timeline": [
+        {
+          "mon": "Oct",
+          "day": "2",
+          "source": "Akakū recording",
+          "kind": "tv",
+          "title": "The Council heard that water infrastructure has to come before new permits.",
+          "note": "",
+          "proof": "Watch the moment",
+          "view": {
+            "type": "meeting",
+            "id": "kQ3vN0w8aZc"
+          },
+          "seek": "3:15:48"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Meeting video",
+          "where": "Recording at 3:15:48",
+          "view": {
+            "type": "meeting",
+            "id": "kQ3vN0w8aZc"
+          },
+          "seek": "3:15:48"
+        }
+      ]
+    },
+    {
+      "issue": "Housing",
+      "since": "Oct 2, 2026",
+      "oneLine": "The Council deferred the short-term rental phase-out to October 16.",
+      "why": "Rental rules affect rents and supply.",
+      "deadlines": [
+        {
+          "d": "Oct 16",
+          "t": "Phase-out amendment returns"
+        }
+      ],
+      "next": "",
+      "brief": "The phase-out amendment was deferred to October 16.[[#1]]",
+      "timeline": [
+        {
+          "mon": "Oct",
+          "day": "2",
+          "source": "Akakū recording",
+          "kind": "tv",
+          "title": "The Council deferred the short-term rental phase-out to October 16.",
+          "note": "",
+          "proof": "Watch the moment",
+          "view": {
+            "type": "meeting",
+            "id": "kQ3vN0w8aZc"
+          },
+          "seek": "4:48:05"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Meeting video",
+          "where": "Recording at 4:48:05",
+          "view": {
+            "type": "meeting",
+            "id": "kQ3vN0w8aZc"
+          },
+          "seek": "4:48:05"
+        }
+      ]
+    }
+  ]
+}

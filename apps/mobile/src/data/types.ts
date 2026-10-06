@@ -105,7 +105,11 @@ export type Source = Target & {
   cta?: string;
 };
 
+export type IssueLabel = 'Water' | 'Housing' | 'Food Security' | 'Disaster Recovery';
+
 export type Issue = {
+  /** Which of the four tracked issues this is about (published recaps only). */
+  issue?: IssueLabel;
   since: string;
   oneLine: string;
   why: string;
@@ -168,3 +172,22 @@ export type FollowUp = Target & {
 };
 
 export type CastDevice = { name: string; kind: string };
+
+/** A reviewed or auto-published County Watch recap, as written to content/meetings/. */
+export type PublishedRecap = {
+  /** YouTube video ID. Proof links are https://youtu.be/<id>?t=<seconds>. */
+  videoId: string;
+  status: string;
+  /** Shown on every recap. */
+  disclaimer: string;
+  generatedAt: string;
+  /** `YYYY-MM-DD`; used for sorting. */
+  meetingDateISO: string;
+  headline: string;
+  /** The issue labels present in this meeting. */
+  topics: IssueLabel[];
+  meeting: Meeting;
+  /** Can be empty: a meeting about none of the four issues still publishes. */
+  issues: Issue[];
+  source?: { youtubeUrl?: string };
+};

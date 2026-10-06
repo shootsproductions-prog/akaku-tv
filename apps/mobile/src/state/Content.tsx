@@ -2,36 +2,55 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 import { createContext, ReactNode, useContext, useEffect, useMemo, useState } from 'react';
 
 import { MEETINGS } from '../data/meetings';
-import { CONTENT_BASE_URL, fetchMeetings } from '../data/remote';
-import type { Meeting } from '../data/types';
+import { ISSUE_LABELS } from '../data/issues.ts';
+import { CONTENT_BASE_URL, fetchRecaps, parseRecap } from '../data/remote.ts';
+import type { IssueLabel, Meeting, PublishedRecap } from '../data/types';
+import { groupIssues, IssueEntry, sortRecaps } from '../lib/recaps.ts';
 
-const CACHE_KEY = 'akaku.countywatch.meetings.v1';
+const CACHE_KEY = 'akaku.countywatch.recaps.v2';
 
 type ContentState = {
+  /** Newest first. Demo meetings until real recaps are published and load. */
   meetings: Meeting[];
+  /** Published recaps, newest first. Empty while the demo content shows. */
+  recaps: PublishedRecap[];
+  /** The four issue pages: every published meeting's entries for that issue. */
+  issuesByLabel: Record<IssueLabel, IssueEntry[]>;
+  recapFor: (meetingId: string) => PublishedRecap | undefined;
   /** 'demo' until real recaps are published and load successfully. */
   source: 'demo' | 'live';
 };
 
-const Ctx = createContext<ContentState>({ meetings: MEETINGS, source: 'demo' });
+const build = (recaps: PublishedRecap[]): ContentState => {
+  const sorted = sortRecaps(recaps);
+  return {
+    meetings: sorted.length ? sorted.map(r => r.meeting) : MEETINGS,
+    recaps: sorted,
+    issuesByLabel: groupIssues(sorted, ISSUE_LABELS),
+    recapFor: id => sorted.find(r => r.meeting.id === id || r.videoId === id),
+    source: sorted.length ? 'live' : 'demo',
+  };
+};
+
+const Ctx = createContext<ContentState>(build([]));
 
 export function ContentProvider({ children }: { children: ReactNode }) {
-  const [state, setState] = useState<ContentState>({ meetings: MEETINGS, source: 'demo' });
+  const [recaps, setRecaps] = useState<PublishedRecap[]>([]);
 
   useEffect(() => {
     if (!CONTENT_BASE_URL) return;
     let alive = true;
-    const apply = (meetings: Meeting[]) => {
-      if (alive && meetings.length) setState({ meetings, source: 'live' });
+    const apply = (list: PublishedRecap[]) => {
+      if (alive && list.length) setRecaps(list);
     };
     // Show the last good copy right away, then refresh from the network.
     AsyncStorage.getItem(CACHE_KEY)
-      .then(raw => (raw ? apply(JSON.parse(raw) as Meeting[]) : undefined))
+      .then(raw => (raw ? apply((JSON.parse(raw) as unknown[]).map(parseRecap).filter((r): r is PublishedRecap => r !== null)) : undefined))
       .catch(() => undefined);
-    fetchMeetings()
-      .then(meetings => {
-        apply(meetings);
-        if (meetings.length) AsyncStorage.setItem(CACHE_KEY, JSON.stringify(meetings)).catch(() => undefined);
+    fetchRecaps()
+      .then(list => {
+        apply(list);
+        if (list.length) AsyncStorage.setItem(CACHE_KEY, JSON.stringify(list)).catch(() => undefined);
       })
       .catch(() => undefined); // offline or unpublished: keep whatever is showing
     return () => {
@@ -39,7 +58,7 @@ export function ContentProvider({ children }: { children: ReactNode }) {
     };
   }, []);
 
-  const value = useMemo(() => state, [state]);
+  const value = useMemo(() => build(recaps), [recaps]);
   return <Ctx.Provider value={value}>{children}</Ctx.Provider>;
 }
 

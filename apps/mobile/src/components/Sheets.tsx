@@ -1,4 +1,5 @@
 import { useState, type ReactNode } from 'react';
+import { ISSUE_LABELS } from '../data/issues.ts';
 import { KeyboardAvoidingView, Modal, Platform, Pressable, ScrollView, Share, StyleSheet, TextInput, View } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
@@ -238,31 +239,33 @@ function ReportSheet() {
 
 function FollowSheet() {
   const { colors, toggleFollow, isFollowing, closeSheet } = useApp();
-  const [name, setName] = useState('');
-  const submit = () => {
-    const n = name.trim();
-    if (!n) return;
-    if (!isFollowing(n)) toggleFollow(n);
-    closeSheet();
-  };
   return (
     <SheetFrame>
       <SheetTitle eyebrow="Follow an issue" title="What should we watch for?">
         <Txt style={{ fontSize: 14, lineHeight: 21, color: colors.mist }}>
-          A word or phrase. Akakū Intelligence watches every meeting and County release for it and alerts you the first time it comes up.
+          Pick the issues you care about. Akakū Intelligence watches our recorded meetings for them and adds each new development to the issue page.
         </Txt>
       </SheetTitle>
-      <TextInput
-        autoFocus
-        value={name}
-        onChangeText={setName}
-        onSubmitEditing={submit}
-        returnKeyType="done"
-        placeholder="e.g. Kula water meters"
-        placeholderTextColor={colors.mist}
-        style={[styles.input, { borderColor: colors.border, color: colors.text, backgroundColor: colors.bg }]}
-      />
-      <Button label="Follow" onPress={submit} height={50} bg={name.trim() ? BLUE : colors.mist} />
+      <View style={{ gap: 10 }}>
+        {ISSUE_LABELS.map(label => {
+          const on = isFollowing(label);
+          return (
+            <Pressable
+              key={label}
+              onPress={() => toggleFollow(label)}
+              accessibilityRole="switch"
+              accessibilityState={{ checked: on }}
+              style={[styles.input, { borderColor: on ? BLUE : colors.border, backgroundColor: on ? BLUE : colors.bg, justifyContent: 'center' }]}
+            >
+              <Txt style={{ fontSize: 16, fontWeight: '600', color: on ? '#fff' : colors.text }}>
+                {on ? '✓ ' : ''}
+                {label}
+              </Txt>
+            </Pressable>
+          );
+        })}
+      </View>
+      <Button label="Done" onPress={closeSheet} height={50} bg={BLUE} />
     </SheetFrame>
   );
 }

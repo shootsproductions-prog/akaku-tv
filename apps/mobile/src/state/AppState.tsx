@@ -1,4 +1,5 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
+import { ISSUE_LABELS } from '../data/issues.ts';
 import { createContext, useCallback, useContext, useEffect, useMemo, useState, type ReactNode } from 'react';
 import { useColorScheme } from 'react-native';
 
@@ -53,12 +54,8 @@ type AppState = {
 const Ctx = createContext<AppState | null>(null);
 const PREFS_KEY = 'akaku.prefs.v1';
 
-const INITIAL_ISSUES: FollowedIssue[] = [
-  { name: 'Lahaina water', on: true, count: 3 },
-  { name: 'Short-term rentals', on: true, count: 1 },
-  { name: 'Kīhei high school', on: true, count: 0 },
-  { name: 'Upcountry water meters', on: false, count: 0 },
-];
+// People follow from a fixed list, so nobody can follow something unrelated to Maui.
+const INITIAL_ISSUES: FollowedIssue[] = ISSUE_LABELS.map(name => ({ name, on: false, count: 0 }));
 
 export function AppStateProvider({ children }: { children: ReactNode }) {
   const scheme = useColorScheme();
