@@ -2,17 +2,21 @@
   "videoId": "H9lx2zorcDM",
   "status": "draft — needs review, not published",
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
-  "generatedAt": "2026-10-06T05:10:00.000Z",
+  "generatedAt": "2026-10-06T04:46:18.801Z",
   "meetingDateISO": "2026-09-28",
   "source": {
     "youtubeUrl": "https://youtu.be/H9lx2zorcDM",
     "title": "Civil Service Commission | Sept 28",
-    "publishedAt": "2026-09-29T01:00:00Z",
-    "meetingDateFrom": "title",
-    "captions": "corrected captions",
+    "publishedAt": null,
+    "meetingDateFrom": "given",
+    "captions": {
+      "id": null,
+      "kind": "standard",
+      "name": "H9lx2zorcDM-corrected.srt"
+    },
     "models": {
-      "writer": "claude-opus-5-5",
-      "checker": "claude-sonnet-5-5"
+      "recap": "claude-opus-5-5",
+      "factCheck": "claude-sonnet-5-5"
     }
   },
   "headline": "Commission sets interview plan for new department director",
@@ -25,17 +29,17 @@
     "body": "Civil Service Commission",
     "dur": "27 m",
     "voteCount": 3,
-    "voteItem": "Motion to go into executive session under HRS 92-5",
+    "voteItem": "Motion to go into executive session",
     "ayes": 5,
     "noes": null,
     "summary": "The Civil Service Commission set interviews for the 30th and voted to invite DPS employees to take part in the selection process.",
-    "recap": "The Civil Service Commission met to finalize the selection process for a new DPS director.[[0:03:10]] A draft schedule set candidate interviews at 10:00, 12:00 and 2:00, with public testimony before each.[[0:05:00]] Commissioners agreed to keep the schedule as prepared and be flexible.[[0:07:09]] The commission voted to go into executive session, a closed-door discussion.[[0:12:08]] Interviews are set for the 30th.[[0:13:59]] DPS staff may send written testimony that will be kept anonymous.[[0:14:06]] Each applicant will give a three-to-five-minute summary statement, then answer questions.[[0:15:16]] The invitation asks DPS employees to watch the interviews live and send anonymous comments afterward.[[0:16:23]] The commission voted to invite DPS employees to take part in the selection process.[[0:17:26]] A commissioner said an earlier call to keep DPS staff out applied only to an earlier stage.[[0:19:00]] The vice chair left during the closed-door session around 11:16 a.m.[[0:21:11]] On October 7, the commission will vote on a pending decision and check for new appeals.[[0:21:46]] A training postponed for six months will go on the November agenda.[[0:22:13]] Commissioners split up the interview questions, with the vice chair taking question two.[[0:24:06]]",
+    "recap": "The Civil Service Commission met in person and online through Microsoft Teams.[[0:00:30]] The goal was to finalize the timeline and selection process for the department's new leader.[[0:03:10]] A draft schedule sets interviews at 10:00, 12:00 and 2:00.[[0:05:00]] Commissioners agreed to keep the schedule as prepared and stay flexible.[[0:07:09]] Candidates will be told their interview times may be earlier or later, depending on public testimony.[[0:09:50]] The commission voted to go into executive session (a closed-door discussion).[[0:12:35]] Interviews are set for the 30th.[[0:13:59]] All applicants will arrive at 9:00, be kept in a separate room, and be interviewed one at a time.[[0:15:06]] Each applicant will give a 3- to 5-minute summary of their statement before answering questions.[[0:15:20]] Employees are invited to watch the interviews live and send anonymous comments afterward.[[0:16:23]] The commission approved a motion to invite DPS employees to take part in the selection process.[[0:17:26]] A commissioner said an earlier call to keep DPS staff out applied only to an earlier stage.[[0:19:00]] The next meeting, on October 7, will have no hearing.[[0:21:33]] A long-postponed training was added to the November meeting agenda.[[0:22:13]] Commissioners divided five interview questions among themselves.[[0:24:24]] The meeting was adjourned.[[0:26:05]]",
     "decided": [
-      "The commission voted to go into executive session (a closed-door discussion) with its attorney.",
-      "The commission voted to invite DPS employees to be part of the selection process by watching the interviews and sending anonymous written comments.",
-      "The commission voted to adjourn."
+      "The commission voted to go into executive session (a closed-door discussion).",
+      "The motion to invite DPS employees to take part in the selection process carried.",
+      "The commission voted to adjourn the meeting."
     ],
-    "next": "Staff will draft the invitation email to DPS employees.",
+    "next": "Yukari will draft the invitation email to DPS employees. A final email will tell candidates their interview time may be earlier or later depending on public testimony. The October 7 meeting will include a vote on a decision being sent to the commission and a check for new appeals. Final choices on who asks which question must be made after the meeting starts at 9:00.",
     "votes": [],
     "moments": [
       {
@@ -43,24 +47,16 @@
         "q": "Draft interview schedule read aloud"
       },
       {
-        "t": "0:12:08",
+        "t": "0:12:35",
         "q": "Vote to go into executive session"
       },
       {
         "t": "0:17:26",
-        "q": "Vote to invite DPS employees to take part"
+        "q": "Vote to invite DPS employees into the selection process"
       },
       {
-        "t": "0:19:00",
-        "q": "A commissioner clarifies an earlier statement"
-      },
-      {
-        "t": "0:21:46",
-        "q": "What happens on October 7"
-      },
-      {
-        "t": "0:24:06",
-        "q": "Interview questions divided up"
+        "t": "0:19:39",
+        "q": "\"It was never intended to suggest that DPS leadership or staff are not important stakeholders\""
       }
     ]
   },

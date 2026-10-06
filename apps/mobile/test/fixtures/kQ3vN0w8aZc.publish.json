@@ -17,17 +17,17 @@
     "body": "Maui County Council",
     "dur": "27 m",
     "voteCount": 3,
-    "voteItem": "Motion to go into executive session under HRS 92-5",
+    "voteItem": "Motion to go into executive session",
     "ayes": 5,
     "noes": null,
     "summary": "The Council took up water and rental bills.",
     "recap": "A test sentence.[[0:01:00]]",
     "decided": [
-      "The commission voted to go into executive session (a closed-door discussion) with its attorney.",
-      "The commission voted to invite DPS employees to be part of the selection process by watching the interviews and sending anonymous written comments.",
-      "The commission voted to adjourn."
+      "The commission voted to go into executive session (a closed-door discussion).",
+      "The motion to invite DPS employees to take part in the selection process carried.",
+      "The commission voted to adjourn the meeting."
     ],
-    "next": "Staff will draft the invitation email to DPS employees.",
+    "next": "Yukari will draft the invitation email to DPS employees. A final email will tell candidates their interview time may be earlier or later depending on public testimony. The October 7 meeting will include a vote on a decision being sent to the commission and a check for new appeals. Final choices on who asks which question must be made after the meeting starts at 9:00.",
     "votes": [],
     "moments": [
       {
@@ -35,24 +35,16 @@
         "q": "Draft interview schedule read aloud"
       },
       {
-        "t": "0:12:08",
+        "t": "0:12:35",
         "q": "Vote to go into executive session"
       },
       {
         "t": "0:17:26",
-        "q": "Vote to invite DPS employees to take part"
+        "q": "Vote to invite DPS employees into the selection process"
       },
       {
-        "t": "0:19:00",
-        "q": "A commissioner clarifies an earlier statement"
-      },
-      {
-        "t": "0:21:46",
-        "q": "What happens on October 7"
-      },
-      {
-        "t": "0:24:06",
-        "q": "Interview questions divided up"
+        "t": "0:19:39",
+        "q": "\"It was never intended to suggest that DPS leadership or staff are not important stakeholders\""
       }
     ]
   },
@@ -136,5 +128,8 @@
         }
       ]
     }
-  ]
+  ],
+  "source": {
+    "youtubeUrl": "https://youtu.be/kQ3vN0w8aZc"
+  }
 }

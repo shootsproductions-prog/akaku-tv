@@ -21,11 +21,13 @@ test('the Sept 28 publishable file loads', () => {
   assert.equal(r.meeting.body, 'Civil Service Commission');
   assert.equal(r.meeting.dur, '27 m');
   assert.equal(r.source.youtubeUrl, 'https://youtu.be/H9lx2zorcDM');
+  assert.equal(r.headline, 'Commission sets interview plan for new department director');
+  assert.equal(r.status.startsWith('auto-published'), true);
   assert.match(r.disclaimer, /Summarized by Akakū Intelligence\. It can make mistakes\./);
   assert.deepEqual(r.meeting.votes, []);
-  // every recap sentence carries a proof marker, in time order
+  // every recap sentence in this real file carries a proof marker, in time order
   const marks = [...r.meeting.recap.matchAll(/\[\[(\d+:\d{2}:\d{2})\]\]/g)].map(m => seekSeconds(m[1]));
-  assert.equal(marks.length, 14);
+  assert.equal(marks.length, 16);
   assert.deepEqual(marks, [...marks].sort((a, b) => a - b));
 });
 
