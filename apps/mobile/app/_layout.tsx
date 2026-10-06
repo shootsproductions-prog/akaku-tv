@@ -4,12 +4,15 @@ import { SafeAreaProvider } from 'react-native-safe-area-context';
 
 import { SheetHost } from '../src/components/Sheets';
 import { AppStateProvider, useApp } from '../src/state/AppState';
+import { ContentProvider } from '../src/state/Content';
 
 export default function RootLayout() {
   return (
     <SafeAreaProvider>
       <AppStateProvider>
-        <Root />
+        <ContentProvider>
+          <Root />
+        </ContentProvider>
       </AppStateProvider>
     </SafeAreaProvider>
   );

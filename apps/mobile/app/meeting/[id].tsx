@@ -5,14 +5,15 @@ import { ScrollView, StyleSheet, View } from 'react-native';
 import { CastButton } from '../../src/components/media';
 import { Txt } from '../../src/components/Txt';
 import { Card, DetailHeader, Eyebrow, OverlayLabel, ProofText, ReadAloudButton, Thumb } from '../../src/components/ui';
-import { MEETINGS } from '../../src/data/meetings';
+import { useContent } from '../../src/state/Content';
 import { useApp } from '../../src/state/AppState';
 import { BLUE, GREEN, RED } from '../../src/theme';
 
 export default function MeetingScreen() {
   const params = useLocalSearchParams<{ id: string; seek?: string }>();
   const { colors } = useApp();
-  const m = MEETINGS.find(x => x.id === params.id) ?? MEETINGS[0];
+  const { meetings } = useContent();
+  const m = meetings.find(x => x.id === params.id) ?? meetings[0];
   // Where the recording is cued. Proof marks and moments move it.
   const [seek, setSeek] = useState(params.seek || '0:00:00');
   useEffect(() => setSeek(params.seek || '0:00:00'), [params.id, params.seek]);
@@ -38,6 +39,9 @@ export default function MeetingScreen() {
               <ReadAloudButton text={m.recap} />
             </View>
             <ProofText text={m.recap} active={seek} onRef={setSeek} />
+            <Txt style={{ fontSize: 12, lineHeight: 17, color: colors.mist }}>
+              Summarized by Akakū Intelligence. It can make mistakes. Tap a number to check the moment in the recording.
+            </Txt>
             <Txt style={{ fontSize: 12, lineHeight: 18, color: colors.mist }}>
               Every numbered mark is a timestamp in the recording — tap it to watch the proof. The transcript and video are the record; the recap is a guide to them.
             </Txt>
@@ -61,8 +65,14 @@ export default function MeetingScreen() {
           <View style={{ gap: 10 }}>
             <Txt style={styles.h}>How they voted · {m.voteItem}</Txt>
             <View style={{ flexDirection: 'row', gap: 16 }}>
-              <Tally n={m.ayes} label="Aye" />
-              <Tally n={m.noes} label="No" />
+              {m.ayes === null && m.noes === null ? (
+                <Txt style={{ fontSize: 15, color: colors.mist }}>No count was stated in the meeting (likely a voice vote).</Txt>
+              ) : (
+                <>
+                  <Tally n={m.ayes ?? 0} label="Aye" />
+                  <Tally n={m.noes ?? 0} label="No" />
+                </>
+              )}
             </View>
             <View style={{ borderTopWidth: 1, borderTopColor: colors.border }}>
               {m.votes.map(v => (

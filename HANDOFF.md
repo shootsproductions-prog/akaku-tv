@@ -38,8 +38,8 @@ What this changes in the plan:
 - **VOD / archive becomes Stage 1.5** — the records/ + feed-generator
   pipe still works and can be re-enabled by dropping real
   `records/<id>/metadata.json` files in whenever we want. The 5 mock
-  records are kept as fixtures for now; delete them before Roku cert
-  submission.
+  records have since been deleted (`records/` is empty; the feed is
+  live-only until real records are added).
 - **The `apps/admin/` catalog uploader is paused.** It works end-to-end
   as of session 2 (producer form + direct-to-Mux + records writer), but
   isn't on the critical path for the live-first launch. Pick it back up

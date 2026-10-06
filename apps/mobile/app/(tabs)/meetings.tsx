@@ -7,7 +7,8 @@ import { ICON } from '../../src/components/icons';
 import { Txt } from '../../src/components/Txt';
 import { AIBadge, Card, Chip, Deadlines, Eyebrow, Panel, Press, SectionHeader, Tag } from '../../src/components/ui';
 import { CAL_DAYS, CALENDAR, EXPLAINERS, FOLLOWUPS, FU_COLORS, TOPICS, WEEKLY } from '../../src/data/countyWatch';
-import { HITS, MEETINGS } from '../../src/data/meetings';
+import { HITS } from '../../src/data/meetings';
+import { useContent } from '../../src/state/Content';
 import type { FollowUpStatus } from '../../src/data/types';
 import { openExplainer, openIssue, openMeeting, openTarget } from '../../src/lib/navigate';
 import { useApp } from '../../src/state/AppState';
@@ -89,6 +90,7 @@ export default function MeetingsScreen() {
 
 function CountyWatchHome() {
   const { colors } = useApp();
+  const { meetings } = useContent();
   return (
     <>
       <NewTermCounter />
@@ -135,7 +137,7 @@ function CountyWatchHome() {
       {/* Recent meetings */}
       <View style={styles.section}>
         <Txt style={{ fontSize: 17, fontWeight: '700' }}>Recent meetings</Txt>
-        {MEETINGS.map(m => (
+        {meetings.map(m => (
           <Card key={m.id} onPress={() => openMeeting(m.id)} style={{ padding: 16, flexDirection: 'row', gap: 14 }}>
             <View style={{ alignItems: 'center', minWidth: 44 }}>
               <Txt style={{ fontSize: 11, letterSpacing: 1.65, textTransform: 'uppercase', color: BLUE, fontWeight: '600' }}>{m.mon}</Txt>
@@ -147,7 +149,7 @@ function CountyWatchHome() {
               <View style={[styles.wrap, { gap: 6, marginTop: 2 }]}>
                 <MeetingChip label={m.dur} />
                 <MeetingChip label="90-sec recap" blue />
-                <MeetingChip label={`${m.voteCount} votes`} />
+                {m.voteCount > 0 ? <MeetingChip label={`${m.voteCount} ${m.voteCount === 1 ? 'vote' : 'votes'}`} /> : null}
               </View>
             </View>
           </Card>
