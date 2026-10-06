@@ -42,8 +42,9 @@ export type Meeting = {
   dur: string;
   voteCount: number;
   voteItem: string;
-  ayes: number;
-  noes: number;
+  /** `null` when the meeting never stated a count (e.g. a voice vote). */
+  ayes: number | null;
+  noes: number | null;
   summary: string;
   /** Plain-language recap with `[[h:mm:ss]]` proof markers. */
   recap: string;
