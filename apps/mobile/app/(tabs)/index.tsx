@@ -13,7 +13,7 @@ import { freshFrame } from '../../src/data/liveFeeds';
 import { openPlayer } from '../../src/lib/navigate';
 import { useApp } from '../../src/state/AppState';
 import { useContent } from '../../src/state/Content';
-import { BLUE } from '../../src/theme';
+import { BLUE, GUTTER } from '../../src/theme';
 
 export default function LiveScreen() {
   const { colors, isDark, toggleTheme, kupuna, toggleKupuna } = useApp();
@@ -58,7 +58,7 @@ export default function LiveScreen() {
         </View>
       </LinearGradient>
 
-      <View style={{ gap: 16, paddingHorizontal: 20, paddingTop: 12 }}>
+      <View style={{ gap: 16, paddingHorizontal: GUTTER, paddingTop: 12 }}>
         {CHANNELS.map(ch => (
           <Card key={ch.num} style={{ backgroundColor: colors.bg }}>
             <Press onPress={() => openPlayer(ch.num)} accessibilityLabel={`Watch Channel ${ch.num}`}>
@@ -125,12 +125,12 @@ export default function LiveScreen() {
 }
 
 const styles = StyleSheet.create({
-  hero: { paddingTop: 12, paddingHorizontal: 20, paddingBottom: 8 },
+  hero: { paddingTop: 12, paddingHorizontal: GUTTER, paddingBottom: 8 },
   brandRow: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', gap: 12 },
   brand: { flexDirection: 'row', alignItems: 'center', gap: 10 },
   logo: { height: 28, width: 36, resizeMode: 'contain' },
   roundBtn: { height: 44, width: 44, borderRadius: 999, borderWidth: 1, alignItems: 'center', justifyContent: 'center' },
   liveTag: { position: 'absolute', top: 10, left: 10 },
   chRow: { flexDirection: 'row', alignItems: 'center', gap: 14, paddingVertical: 14, paddingHorizontal: 16 },
-  section: { marginTop: 28, marginHorizontal: 20, gap: 12 },
+  section: { marginTop: 28, marginHorizontal: GUTTER, gap: 12 },
 });

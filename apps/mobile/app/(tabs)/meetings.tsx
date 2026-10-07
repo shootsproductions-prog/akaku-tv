@@ -13,7 +13,7 @@ import { useContent } from '../../src/state/Content';
 import type { FollowUpStatus } from '../../src/data/types';
 import { openExplainer, openIssue, openMeeting, openTarget } from '../../src/lib/navigate';
 import { useApp } from '../../src/state/AppState';
-import { BLUE, BLUE_SOFT, BLUE_WASH, FONT } from '../../src/theme';
+import { BLUE, BLUE_SOFT, BLUE_WASH, FONT, GUTTER } from '../../src/theme';
 
 const STATUSES: FollowUpStatus[] = ['Done', 'In progress', 'Scheduled', 'Overdue'];
 
@@ -32,7 +32,7 @@ export default function MeetingsScreen() {
 
   return (
     <ScrollView style={{ backgroundColor: colors.bg }} contentContainerStyle={{ paddingTop: insets.top, paddingBottom: 32 }} keyboardShouldPersistTaps="handled">
-      <View style={{ paddingTop: 12, paddingHorizontal: 20, gap: 6 }}>
+      <View style={{ paddingTop: 12, paddingHorizontal: GUTTER, gap: 6 }}>
         <Eyebrow>County Watch</Eyebrow>
         <Txt style={{ fontSize: 28, fontWeight: '700', lineHeight: 29.4, letterSpacing: -0.42 }}>
           Maui County, <Txt style={{ fontSize: 28, lineHeight: 29.4, color: BLUE }}>finally readable.</Txt>
@@ -64,7 +64,7 @@ export default function MeetingsScreen() {
       ) : null}
 
       {q ? (
-        <View style={{ marginTop: 14, marginHorizontal: 20, gap: 10 }}>
+        <View style={{ marginTop: 14, marginHorizontal: GUTTER, gap: 10 }}>
           <Press onPress={() => openExplainer(explainerFor(query))} style={[styles.explain, { backgroundColor: colors.panel }]}>
             <View style={styles.sparkCircle}>
               <Icon d={ICON.spark} size={20} color={BLUE_SOFT} />
@@ -108,7 +108,7 @@ function CountyWatchHome({ demo }: { demo: boolean }) {
       {demo ? (
       <View style={{ marginTop: 28, gap: 12 }}>
         <SectionHeader title="The big questions" aside="Answered from 14 years of meetings" inset />
-        <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={{ gap: 12, paddingHorizontal: 20, paddingBottom: 4 }}>
+        <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={{ gap: 12, paddingHorizontal: GUTTER, paddingBottom: 4 }}>
           {EXPLAINERS.map(e => (
             <Press key={e.id} onPress={() => openExplainer(e.id)} style={[styles.bigQ, { backgroundColor: colors.panel }]}>
               <Txt style={{ fontSize: 10, letterSpacing: 1.5, textTransform: 'uppercase', color: BLUE_SOFT, fontWeight: '700' }}>{e.tag}</Txt>
@@ -119,7 +119,7 @@ function CountyWatchHome({ demo }: { demo: boolean }) {
             </Press>
           ))}
         </ScrollView>
-        <Txt style={{ fontSize: 13, lineHeight: 19.5, color: colors.mist, marginHorizontal: 20 }}>
+        <Txt style={{ fontSize: 13, lineHeight: 19.5, color: colors.mist, marginHorizontal: GUTTER }}>
           Not opinions. Each explainer is built only from what was said on the record in Council and commission meetings since 2012, with the clip for every claim.
         </Txt>
       </View>
@@ -259,7 +259,7 @@ function HearingsCalendar() {
   return (
     <View style={{ marginTop: 28, gap: 12 }}>
       <SectionHeader title="Hearings & meetings" aside={`${upcoming.length} coming up · ${reminderCount} reminders`} inset />
-      <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={{ gap: 6, paddingHorizontal: 20, paddingBottom: 4 }}>
+      <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={{ gap: 6, paddingHorizontal: GUTTER, paddingBottom: 4 }}>
         {CAL_DAYS.map(d => {
           const has = CALENDAR.some(c => c.day === d.key);
           const sel = day === d.key;
@@ -280,7 +280,7 @@ function HearingsCalendar() {
           );
         })}
       </ScrollView>
-      <View style={{ paddingHorizontal: 20 }}>
+      <View style={{ paddingHorizontal: GUTTER }}>
         {upcoming.slice(0, 4).map(ev => {
           const on = !!reminders[ev.id];
           return (
@@ -309,7 +309,7 @@ function HearingsCalendar() {
           );
         })}
       </View>
-      <Txt style={{ fontSize: 12, lineHeight: 18, color: colors.mist, marginHorizontal: 20 }}>
+      <Txt style={{ fontSize: 12, lineHeight: 18, color: colors.mist, marginHorizontal: GUTTER }}>
         Council and committee agendas, boards and commissions, and County community meetings — pulled from the County calendar and agenda postings the hour they go up. Reminders arrive 24 h before and when the gavel drops.
       </Txt>
     </View>
@@ -340,7 +340,7 @@ function FollowUps() {
           ))}
         </View>
       </Panel>
-      <ScrollView horizontal showsHorizontalScrollIndicator={false} style={{ marginHorizontal: -20 }} contentContainerStyle={{ gap: 8, paddingHorizontal: 20 }}>
+      <ScrollView horizontal showsHorizontalScrollIndicator={false} style={{ marginHorizontal: -GUTTER }} contentContainerStyle={{ gap: 8, paddingHorizontal: GUTTER }}>
         {(['All', 'Overdue', 'In progress', 'Done'] as const).map(k => (
           <Chip key={k} label={k} selected={filter === k} onPress={() => setFilter(k)} height={34} fontSize={12} />
         ))}
@@ -377,16 +377,16 @@ function FollowUps() {
 }
 
 const styles = StyleSheet.create({
-  section: { marginTop: 28, marginHorizontal: 20, gap: 12 },
+  section: { marginTop: 28, marginHorizontal: GUTTER, gap: 12 },
   spread: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', gap: 10 },
   wrap: { flexDirection: 'row', flexWrap: 'wrap', gap: 8 },
-  search: { marginTop: 16, marginHorizontal: 20, flexDirection: 'row', alignItems: 'center', gap: 10, borderWidth: 1, borderRadius: 8, paddingHorizontal: 14, height: 48 },
+  search: { marginTop: 16, marginHorizontal: GUTTER, flexDirection: 'row', alignItems: 'center', gap: 10, borderWidth: 1, borderRadius: 8, paddingHorizontal: 14, height: 48 },
   searchInput: { flex: 1, minWidth: 0, fontSize: 16, fontFamily: FONT, paddingVertical: 0 },
   mic: { width: 36, height: 36, alignItems: 'center', justifyContent: 'center' },
   explain: { flexDirection: 'row', gap: 14, alignItems: 'center', paddingVertical: 14, paddingHorizontal: 16, borderRadius: 14 },
   sparkCircle: { width: 40, height: 40, borderRadius: 20, backgroundColor: 'rgba(77,163,240,0.2)', alignItems: 'center', justifyContent: 'center' },
-  counter: { marginTop: 20, marginHorizontal: 20, flexDirection: 'row', alignItems: 'center', gap: 14, borderWidth: 1, borderRadius: 14, paddingVertical: 14, paddingHorizontal: 16 },
-  weekly: { marginTop: 24, marginHorizontal: 20, borderRadius: 14, overflow: 'hidden', borderWidth: 1 },
+  counter: { marginTop: 20, marginHorizontal: GUTTER, flexDirection: 'row', alignItems: 'center', gap: 14, borderWidth: 1, borderRadius: 14, paddingVertical: 14, paddingHorizontal: 16 },
+  weekly: { marginTop: 24, marginHorizontal: GUTTER, borderRadius: 14, overflow: 'hidden', borderWidth: 1 },
   weeklyRow: { flexDirection: 'row', gap: 14, paddingVertical: 14, paddingHorizontal: 18, borderBottomWidth: 1 },
   bigQ: { width: 250, minHeight: 168, padding: 18, borderRadius: 14, gap: 10 },
   grid: { flexDirection: 'row', flexWrap: 'wrap', gap: 10 },

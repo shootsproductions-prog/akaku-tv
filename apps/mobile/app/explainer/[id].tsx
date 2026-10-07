@@ -9,7 +9,7 @@ import { EXPLAINERS } from '../../src/data/countyWatch';
 import { plainText } from '../../src/lib/segments';
 import { openTarget } from '../../src/lib/navigate';
 import { useApp } from '../../src/state/AppState';
-import { BLUE, BLUE_SOFT, FONT } from '../../src/theme';
+import { BLUE, BLUE_SOFT, FONT, GUTTER } from '../../src/theme';
 
 export default function ExplainerScreen() {
   const { id } = useLocalSearchParams<{ id: string }>();
@@ -34,7 +34,7 @@ export default function ExplainerScreen() {
         <Txt style={{ fontSize: 12, color: colors.mist }}>{ex.basis}</Txt>
       </DetailHeader>
 
-      <ScrollView contentContainerStyle={{ padding: 20, paddingBottom: 32, gap: 26 }} keyboardShouldPersistTaps="handled">
+      <ScrollView contentContainerStyle={{ paddingHorizontal: GUTTER, paddingVertical: 20, paddingBottom: 32, gap: 26 }} keyboardShouldPersistTaps="handled">
         <Txt style={{ fontSize: 28, fontWeight: '700', lineHeight: 30.8, letterSpacing: -0.42 }}>{ex.q}</Txt>
 
         <Panel style={{ gap: 8 }}>

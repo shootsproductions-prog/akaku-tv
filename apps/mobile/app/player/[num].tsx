@@ -7,7 +7,7 @@ import { Txt } from '../../src/components/Txt';
 import { DetailHeader, Eyebrow, LiveBadge, Press, Thumb } from '../../src/components/ui';
 import { CHANNELS } from '../../src/data/channels';
 import { useApp } from '../../src/state/AppState';
-import { BLUE, BLUE_TINT } from '../../src/theme';
+import { BLUE, BLUE_TINT, GUTTER } from '../../src/theme';
 
 export default function PlayerScreen() {
   const { num } = useLocalSearchParams<{ num: string }>();
@@ -59,7 +59,7 @@ export default function PlayerScreen() {
         </ScrollView>
       </View>
 
-      <ScrollView contentContainerStyle={{ padding: 20, paddingBottom: 40 }}>
+      <ScrollView contentContainerStyle={{ paddingHorizontal: GUTTER, paddingVertical: 20, paddingBottom: 40 }}>
         {/* The schedule and live-transcript copy below is demo content. Show it only until a real stream is wired. */}
         {ch.hlsUrl ? (
           <Txt style={{ fontSize: 14, lineHeight: 21, color: colors.mist }}>{ch.desc}</Txt>

@@ -9,7 +9,7 @@ import { YouTubeEmbed } from '../../src/components/media';
 import { Txt } from '../../src/components/Txt';
 import { Button, Eyebrow, Panel, Press } from '../../src/components/ui';
 import { useApp } from '../../src/state/AppState';
-import { BLUE, BLUE_INK, BLUE_SOFT, FONT } from '../../src/theme';
+import { BLUE, BLUE_INK, BLUE_SOFT, FONT, GUTTER } from '../../src/theme';
 
 /** "Our story" — the welcome video on akaku.org/about. */
 const STORY_VIDEO = '84dtX0NDPN0';
@@ -42,7 +42,7 @@ export default function SupportScreen() {
         </Txt>
       </LinearGradient>
 
-      <View style={{ paddingHorizontal: 20, paddingBottom: 24, gap: 14 }}>
+      <View style={{ paddingHorizontal: GUTTER, paddingBottom: 24, gap: 14 }}>
         <View style={styles.story}>
           {story ? (
             <YouTubeEmbed id={STORY_VIDEO} title="Our story — Akakū" />
@@ -83,7 +83,7 @@ export default function SupportScreen() {
         </Panel>
       </View>
 
-      <View style={{ paddingHorizontal: 20, gap: 16 }}>
+      <View style={{ paddingHorizontal: GUTTER, gap: 16 }}>
         <Txt style={{ fontSize: 17, fontWeight: '700' }}>Become a sustaining member</Txt>
         <View style={[styles.segmented, { backgroundColor: colors.surface }]}>
           {(['Monthly', 'One-time'] as const).map(c => {
@@ -155,7 +155,7 @@ export default function SupportScreen() {
 }
 
 const styles = StyleSheet.create({
-  hero: { paddingTop: 12, paddingHorizontal: 20, paddingBottom: 24, gap: 6 },
+  hero: { paddingTop: 12, paddingHorizontal: GUTTER, paddingBottom: 24, gap: 6 },
   story: { aspectRatio: 16 / 9, borderRadius: 14, overflow: 'hidden', backgroundColor: '#000', alignItems: 'center', justifyContent: 'center' },
   storyPlay: { width: 64, height: 64, borderRadius: 32, backgroundColor: BLUE, alignItems: 'center', justifyContent: 'center', shadowColor: BLUE, shadowOpacity: 0.45, shadowRadius: 24, shadowOffset: { width: 0, height: 8 }, elevation: 8 },
   storyCaption: { position: 'absolute', left: 16, right: 16, bottom: 14, gap: 2 },

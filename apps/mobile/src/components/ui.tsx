@@ -6,7 +6,7 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { toSegments } from '../lib/segments';
 import { useReadAloud } from '../lib/speech';
 import { useApp } from '../state/AppState';
-import { BADGE_BG, BLUE, BLUE_WASH, RADIUS } from '../theme';
+import { BADGE_BG, BLUE, BLUE_WASH, RADIUS, GUTTER } from '../theme';
 import { Icon } from './Icon';
 import { ICON } from './icons';
 import { Txt } from './Txt';
@@ -40,7 +40,7 @@ export function H2({ children }: { children: ReactNode }) {
 export function SectionHeader({ title, aside, inset }: { title: string; aside?: ReactNode; inset?: boolean }) {
   const { colors } = useApp();
   return (
-    <View style={[styles.sectionHeader, inset && { paddingHorizontal: 20 }]}>
+    <View style={[styles.sectionHeader, inset && { paddingHorizontal: GUTTER }]}>
       <Txt style={{ fontSize: 17, fontWeight: '700' }}>{title}</Txt>
       {typeof aside === 'string' ? <Txt style={{ fontSize: 13, color: colors.mist }}>{aside}</Txt> : aside}
     </View>
