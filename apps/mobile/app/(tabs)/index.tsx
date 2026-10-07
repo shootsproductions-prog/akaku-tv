@@ -32,7 +32,7 @@ export default function LiveScreen() {
     let alive = true;
     const load = () => fetchSchedule().then(r => alive && r && setSchedule(r));
     load();
-    const poll = setInterval(load, 5 * 60 * 1000);
+    const poll = setInterval(load, 60 * 1000);
     const tick = setInterval(() => setClock(Date.now()), 30 * 1000);
     return () => { alive = false; clearInterval(poll); clearInterval(tick); };
   }, []);
@@ -74,7 +74,7 @@ export default function LiveScreen() {
           return (
             <View key={ch.num} style={{ borderTopWidth: 4, borderTopColor: edge, marginBottom: 14, backgroundColor: colors.bg }}>
               <Press onPress={() => openPlayer(ch.num)} accessibilityLabel={`Watch Channel ${ch.num}${now ? `, on now ${now.title}` : ''}`}>
-                <Thumb uri={freshFrame(ch.thumbnailUrl, frameStamp)} label={`Channel ${ch.num} live frame`}>
+                <Thumb uri={schedule?.[ch.num]?.thumb ?? freshFrame(ch.thumbnailUrl, frameStamp)} label={`Channel ${ch.num} live frame`}>
                   <View style={styles.playWrap} pointerEvents="none">
                     <View style={styles.play}>
                       <Icon d={ICON.play} size={26} color={BLUE} />

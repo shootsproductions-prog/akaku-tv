@@ -1,53 +1,64 @@
-// Per-channel program schedule: what is on now, what is next, how far in.
+// What is on now / next per channel, from akaku.org's own live feed (the same
+// one the website's Watch Live section polls). Times are epoch seconds.
 //
-//   <SCHEDULE_URL>  ->  { "53": [{ "start": ISO, "end": ISO, "title": "..." }, ...], "54": [...], "55": [...] }
-//
-// Set SCHEDULE_URL to '' until a real feed exists: the app then shows no
-// "On now" text at all rather than a made-up one.
-export const SCHEDULE_URL = '';
+//   { generated, channels: { "53": { now: {title, live, start, end},
+//       next: [{title, live, start, at}], thumb: {url, updated} }, ... } }
+export const SCHEDULE_URL = 'https://www.akaku.org/?rest_route=/akaku/v1/now';
 
-export type Program = { start: number; end: number; title: string };
-export type Schedule = Record<number, Program[]>;
-
+export type Program = { title: string; live: boolean; start: number; end: number | null };
+export type ChannelSchedule = { now: Program | null; next: Program[]; thumb: string | null };
+export type Schedule = Record<number, ChannelSchedule>;
 export type NowNext = { now: Program | null; next: Program | null; progress: number };
+
+const rec = (v: unknown): Record<string, unknown> | null => (v && typeof v === 'object' && !Array.isArray(v) ? (v as Record<string, unknown>) : null);
+const sec = (v: unknown) => (typeof v === 'number' && Number.isFinite(v) ? v * 1000 : null);
+
+function parseProgram(v: unknown): Program | null {
+  const o = rec(v);
+  const start = o ? sec(o.start) : null;
+  if (!o || typeof o.title !== 'string' || !o.title || start === null) return null;
+  return { title: o.title, live: o.live === true, start, end: sec(o.end) };
+}
 
 export function parseSchedule(raw: unknown): Schedule {
   const out: Schedule = {};
-  if (!raw || typeof raw !== 'object') return out;
-  for (const [k, v] of Object.entries(raw as Record<string, unknown>)) {
+  const channels = rec(rec(raw)?.channels);
+  if (!channels) return out;
+  for (const [k, v] of Object.entries(channels)) {
     const num = Number(k);
-    if (!Number.isInteger(num) || !Array.isArray(v)) continue;
-    const list: Program[] = [];
-    for (const p of v) {
-      const o = p as Record<string, unknown> | null;
-      if (!o || typeof o.title !== 'string' || !o.title) continue;
-      const start = Date.parse(String(o.start));
-      const end = Date.parse(String(o.end));
-      if (Number.isFinite(start) && Number.isFinite(end) && end > start) list.push({ start, end, title: o.title });
-    }
-    out[num] = list.sort((a, b) => a.start - b.start);
+    const o = rec(v);
+    if (!Number.isInteger(num) || !o) continue;
+    const thumb = rec(o.thumb)?.url;
+    out[num] = {
+      now: parseProgram(o.now),
+      next: (Array.isArray(o.next) ? o.next : []).map(parseProgram).filter((p): p is Program => !!p).sort((a, b) => a.start - b.start),
+      thumb: typeof thumb === 'string' && thumb.startsWith('https://') ? thumb : null,
+    };
   }
   return out;
 }
 
-export function nowNext(programs: Program[] | undefined, at: number): NowNext {
-  const list = programs ?? [];
-  const now = list.find(p => p.start <= at && at < p.end) ?? null;
-  const next = list.find(p => p.start > at) ?? null;
-  const progress = now ? Math.min(1, Math.max(0, (at - now.start) / (now.end - now.start))) : 0;
+/** `at` is ms. A program that has already ended is not "on now"; the next poll replaces it. */
+export function nowNext(ch: ChannelSchedule | undefined, at: number): NowNext {
+  if (!ch) return { now: null, next: null, progress: 0 };
+  const now = ch.now && ch.now.start <= at && (ch.now.end === null || at < ch.now.end) ? ch.now : null;
+  const next = ch.next.find(p => p.start > at) ?? null;
+  const progress = now && now.end ? Math.min(1, Math.max(0, (at - now.start) / (now.end - now.start))) : 0;
   return { now, next, progress };
 }
 
 export async function fetchSchedule(url = SCHEDULE_URL): Promise<Schedule | null> {
   if (!url) return null;
+  const ctl = new AbortController();
+  const t = setTimeout(() => ctl.abort(), 8000);
   try {
-    const ctl = new AbortController();
-    const t = setTimeout(() => ctl.abort(), 8000);
     const res = await fetch(url, { signal: ctl.signal });
-    clearTimeout(t);
     if (!res.ok) return null;
-    return parseSchedule(await res.json());
+    const s = parseSchedule(await res.json());
+    return Object.keys(s).length ? s : null;
   } catch {
     return null;
+  } finally {
+    clearTimeout(t);
   }
 }
