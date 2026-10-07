@@ -8,6 +8,10 @@ don't reset.
 
 ---
 
+> **Shared status with Pipeline:** see `docs/SYNC.md`. Read it at the start of a session and update it at the end.
+
+---
+
 ## Update — 2026-10-05 (session 4): mobile app
 
 New `apps/mobile/`: an Expo / React Native app (iOS + Android) built from
