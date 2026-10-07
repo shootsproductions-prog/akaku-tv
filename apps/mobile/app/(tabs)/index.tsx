@@ -81,7 +81,7 @@ export default function LiveScreen() {
                     </View>
                   </View>
                   {now ? (
-                    <LinearGradient colors={['rgba(0,0,0,0)', 'rgba(0,0,0,0.78)']} style={styles.onNow}>
+                    <LinearGradient colors={['rgba(0,0,0,0)', 'rgba(0,0,0,0.6)', 'rgba(0,0,0,0.88)']} locations={[0, 0.45, 1]} style={styles.onNow}>
                       <Eyebrow color="rgba(255,255,255,0.8)">On now</Eyebrow>
                       <Txt style={{ fontSize: 20, fontWeight: '800', lineHeight: 24, color: '#fff' }} numberOfLines={2}>{now.title}</Txt>
                       <View style={styles.track}>
@@ -96,7 +96,7 @@ export default function LiveScreen() {
                 <View style={{ flex: 1, minWidth: 0, gap: 2 }}>
                   <Txt style={{ fontSize: 18, fontWeight: '700', lineHeight: 22 }} numberOfLines={1}>{ch.name}</Txt>
                   {next ? (
-                    <Txt style={{ fontSize: 14, color: colors.mist }} numberOfLines={1}>Next {clockTime(next.start)} · {next.title}</Txt>
+                    <Txt style={{ fontSize: 14, color: colors.mist }} numberOfLines={2}>Next {clockTime(next.start)} · {next.title}</Txt>
                   ) : ch.hlsUrl ? null : (
                     <Txt style={{ fontSize: 14, color: colors.mist }} numberOfLines={1}>Next · {ch.next}</Txt>
                   )}
@@ -154,7 +154,7 @@ const styles = StyleSheet.create({
   roundBtn: { height: 44, width: 44, borderRadius: 999, borderWidth: 1, alignItems: 'center', justifyContent: 'center' },
   playWrap: { ...StyleSheet.absoluteFill, alignItems: 'center', justifyContent: 'center' },
   play: { height: 64, width: 64, borderRadius: 32, backgroundColor: 'rgba(255,255,255,0.94)', alignItems: 'center', justifyContent: 'center', paddingLeft: 4 },
-  onNow: { position: 'absolute', left: 0, right: 0, bottom: 0, paddingHorizontal: GUTTER, paddingTop: 28, paddingBottom: 12, gap: 2 },
+  onNow: { position: 'absolute', left: 0, right: 0, bottom: 0, paddingHorizontal: GUTTER, paddingTop: 48, paddingBottom: 12, gap: 2 },
   track: { height: 4, borderRadius: 2, backgroundColor: 'rgba(255,255,255,0.3)', marginTop: 8, overflow: 'hidden' },
   fill: { height: 4, backgroundColor: '#fff' },
   chRow: { flexDirection: 'row', alignItems: 'center', gap: 12, paddingVertical: 14, paddingHorizontal: GUTTER },
