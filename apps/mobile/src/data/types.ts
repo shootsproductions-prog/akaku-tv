@@ -64,27 +64,6 @@ export type TranscriptHit = {
 
 export type RadioSlot = { time: string; show: string; host: string; now?: boolean };
 
-export type FeedCategory = 'daily' | 'community' | 'elections' | 'molokai' | 'archive';
-
-export type FeedItem = {
-  id: string;
-  pl: string;
-  producer: string;
-  av: string;
-  community?: boolean;
-  title: string;
-  meta: string;
-  dur: string;
-  likes: number;
-  comments: number;
-  ph: string;
-  cat: FeedCategory;
-  /** Set once the feed is pulled from YouTube; enables inline play + thumbnail. */
-  youtubeId?: string;
-  thumbnailUrl?: string;
-};
-
-export type FeedFilter = { id: 'all' | FeedCategory; label: string };
 
 export type Deadline = { d: string; t: string };
 
