@@ -1,0 +1,27 @@
+{
+  "slug": "example-issue",
+  "title": "Example issue (test fixture, not real)",
+  "summary": "Made-up content used only by the tests. It states no real facts.",
+  "topics": ["water"],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-09-28",
+  "lastSeenISO": "2026-10-06",
+  "internalNotes": "must not ship",
+  "signals": { "meetingsLast30d": 3, "meetingsLast90d": 3, "mentionsLast30d": 5, "upcomingEvent": null },
+  "timeline": [
+    {
+      "dateISO": "2026-09-28",
+      "text": "A speaker said something. (Made up.)",
+      "basis": "said-at-meeting",
+      "source": { "type": "meeting", "videoId": "H9lx2zorcDM", "ts": "1:02:33", "retrievedISO": "2026-10-06T08:00:00Z" }
+    },
+    {
+      "dateISO": "2026-10-06",
+      "text": "A County page said another thing. (Made up.)",
+      "basis": "said-at-meeting",
+      "source": { "type": "county-page", "url": "https://www.mauicounty.gov/example", "publisher": "County of Maui", "quote": "Made-up quote.", "retrievedISO": "2026-10-06T08:00:00Z" }
+    }
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
