@@ -61,7 +61,7 @@ export default function RadioScreen() {
 }
 
 const styles = StyleSheet.create({
-  hero: { paddingHorizontal: GUTTER, paddingBottom: 28, gap: 20 },
+  hero: { paddingHorizontal: GUTTER, paddingBottom: 28, gap: 20, borderBottomWidth: 4, borderBottomColor: BLUE },
   playerRow: { flexDirection: 'row', alignItems: 'center', gap: 16 },
   play: { width: 64, height: 64, borderRadius: 32, backgroundColor: BLUE, alignItems: 'center', justifyContent: 'center' },
   slot: { flexDirection: 'row', gap: 16, paddingVertical: 12, borderBottomWidth: 1, alignItems: 'baseline' },

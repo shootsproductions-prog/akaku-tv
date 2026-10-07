@@ -156,7 +156,7 @@ export default function SupportScreen() {
 
 const styles = StyleSheet.create({
   hero: { paddingTop: 12, paddingHorizontal: GUTTER, paddingBottom: 24, gap: 6 },
-  story: { aspectRatio: 16 / 9, borderRadius: 14, overflow: 'hidden', backgroundColor: '#000', alignItems: 'center', justifyContent: 'center' },
+  story: { aspectRatio: 16 / 9, marginHorizontal: -GUTTER, overflow: 'hidden', backgroundColor: '#000', alignItems: 'center', justifyContent: 'center' },
   storyPlay: { width: 64, height: 64, borderRadius: 32, backgroundColor: BLUE, alignItems: 'center', justifyContent: 'center', shadowColor: BLUE, shadowOpacity: 0.45, shadowRadius: 24, shadowOffset: { width: 0, height: 8 }, elevation: 8 },
   storyCaption: { position: 'absolute', left: 16, right: 16, bottom: 14, gap: 2 },
   facts: { flexDirection: 'row', flexWrap: 'wrap', gap: 10 },

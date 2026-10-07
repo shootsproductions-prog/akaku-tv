@@ -79,14 +79,14 @@ function FeedPost({ v }: { v: FeedItem }) {
         ) : null}
       </View>
 
-      <Pressable onPress={() => v.youtubeId && setPlaying(true)} accessibilityRole="button" accessibilityLabel={`Play ${v.title}`}>
-        <Thumb uri={v.thumbnailUrl ?? (v.youtubeId ? `https://i.ytimg.com/vi/${v.youtubeId}/hqdefault.jpg` : null)} radius={14}>
+      <Pressable onPress={() => v.youtubeId && setPlaying(true)} accessibilityRole="button" accessibilityLabel={`Play ${v.title}`} style={{ marginHorizontal: -GUTTER }}>
+        <Thumb uri={v.thumbnailUrl ?? (v.youtubeId ? `https://i.ytimg.com/vi/${v.youtubeId}/hqdefault.jpg` : null)}>
           {playing && v.youtubeId ? (
             <YouTubeEmbed id={v.youtubeId} title={v.title} />
           ) : (
             <>
               <View style={styles.playDisc}>
-                <Icon d={ICON.play} size={22} color="#fff" filled />
+                <Icon d={ICON.play} size={26} color={BLUE} filled />
               </View>
               <OverlayLabel style={{ right: 8, bottom: 8, paddingVertical: 2, paddingHorizontal: 6 }}>{v.dur}</OverlayLabel>
             </>
@@ -119,11 +119,11 @@ function FeedPost({ v }: { v: FeedItem }) {
 const styles = StyleSheet.create({
   header: { paddingTop: 12, paddingHorizontal: GUTTER, flexDirection: 'row', alignItems: 'flex-start', justifyContent: 'space-between', gap: 12 },
   submit: { height: 44, flexDirection: 'row', alignItems: 'center', gap: 6, paddingHorizontal: 14, borderRadius: 999, backgroundColor: BLUE, marginTop: 4 },
-  post: { gap: 12, paddingVertical: 16, paddingHorizontal: GUTTER, borderBottomWidth: 1 },
+  post: { gap: 12, paddingVertical: 16, paddingHorizontal: GUTTER, borderBottomWidth: 4 },
   byline: { flexDirection: 'row', alignItems: 'center', gap: 10 },
   avatar: { width: 36, height: 36, borderRadius: 18, alignItems: 'center', justifyContent: 'center' },
   communityTag: { borderRadius: 999, paddingVertical: 3, paddingHorizontal: 9 },
-  playDisc: { position: 'absolute', width: 56, height: 56, borderRadius: 28, backgroundColor: 'rgba(14,18,24,0.6)', alignItems: 'center', justifyContent: 'center' },
+  playDisc: { position: 'absolute', width: 64, height: 64, borderRadius: 32, backgroundColor: 'rgba(255,255,255,0.94)', alignItems: 'center', justifyContent: 'center' },
   actions: { flexDirection: 'row', alignItems: 'center', gap: 4, marginHorizontal: -8 },
   action: { height: 40, flexDirection: 'row', alignItems: 'center', gap: 6, paddingHorizontal: 10 },
 });
