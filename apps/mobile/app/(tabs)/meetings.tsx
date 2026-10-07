@@ -137,7 +137,7 @@ function HowItWorks() {
         </View>
       ))}
       <Txt style={{ fontSize: 13, lineHeight: 19, color: colors.mist }}>
-        Written by Akakū Intelligence, an AI, and spot-checked by our team. It can make mistakes, so the proof is always one tap away. More sources, like the County’s own releases, are coming.
+        Written by Akakū Intelligence, an AI. AI can make mistakes, so check the proof. More sources, like the County’s own releases, are coming.
       </Txt>
       <Press onPress={() => set(false)} accessibilityRole="button" style={{ alignSelf: 'flex-start', paddingVertical: 6 }}>
         <Txt style={{ fontSize: 15, fontWeight: '700', color: BLUE }}>Got it</Txt>
