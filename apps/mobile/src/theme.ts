@@ -34,4 +34,7 @@ export const FONT = Platform.select({ ios: 'Helvetica Neue', default: undefined 
 /** Kūpuna mode enlarges every type size by this factor. */
 export const KUPUNA_SCALE = 1.18;
 
+/** Side margin of every screen. One number to tune how close content sits to the screen edge. */
+export const GUTTER = 14;
+
 export const RADIUS = { card: 14, control: 8, sheet: 20 };

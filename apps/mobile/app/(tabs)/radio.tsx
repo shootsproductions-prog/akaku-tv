@@ -10,7 +10,7 @@ import { Txt } from '../../src/components/Txt';
 import { Eyebrow, Press } from '../../src/components/ui';
 import { RADIO_SCHEDULE } from '../../src/data/radio';
 import { useApp } from '../../src/state/AppState';
-import { BLUE } from '../../src/theme';
+import { BLUE, GUTTER } from '../../src/theme';
 
 export default function RadioScreen() {
   const { colors, radioOn, toggleRadio } = useApp();
@@ -41,7 +41,7 @@ export default function RadioScreen() {
         </View>
       </View>
 
-      <View style={{ paddingTop: 24, paddingHorizontal: 20, gap: 12 }}>
+      <View style={{ paddingTop: 24, paddingHorizontal: GUTTER, gap: 12 }}>
         <Txt style={{ fontSize: 17, fontWeight: '700' }}>Today on KAKU</Txt>
         <View>
           {RADIO_SCHEDULE.map(r => (
@@ -61,7 +61,7 @@ export default function RadioScreen() {
 }
 
 const styles = StyleSheet.create({
-  hero: { paddingHorizontal: 20, paddingBottom: 28, gap: 20 },
+  hero: { paddingHorizontal: GUTTER, paddingBottom: 28, gap: 20, borderBottomWidth: 4, borderBottomColor: BLUE },
   playerRow: { flexDirection: 'row', alignItems: 'center', gap: 16 },
   play: { width: 64, height: 64, borderRadius: 32, backgroundColor: BLUE, alignItems: 'center', justifyContent: 'center' },
   slot: { flexDirection: 'row', gap: 16, paddingVertical: 12, borderBottomWidth: 1, alignItems: 'baseline' },

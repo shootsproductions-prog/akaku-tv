@@ -1,5 +1,5 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import { ISSUE_LABELS } from '../data/issues.ts';
+import { ISSUE_LABELS, isIssueLabel } from '../data/issues.ts';
 import { createContext, useCallback, useContext, useEffect, useMemo, useState, type ReactNode } from 'react';
 import { useColorScheme } from 'react-native';
 
@@ -88,6 +88,7 @@ export function AppStateProvider({ children }: { children: ReactNode }) {
   const isDark = themePref === 'dark' || (themePref === 'system' && scheme === 'dark');
 
   const toggleFollow = useCallback((name: string) => {
+    if (!isIssueLabel(name)) return; // only the four tracked issues can be followed
     setIssues(list =>
       list.some(x => x.name === name)
         ? list.map(x => (x.name === name ? { ...x, on: !x.on } : x))

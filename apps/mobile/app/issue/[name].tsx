@@ -14,7 +14,7 @@ import type { IssueEntry } from '../../src/lib/recaps.ts';
 import { useContent } from '../../src/state/Content';
 import { openTarget } from '../../src/lib/navigate';
 import { useApp } from '../../src/state/AppState';
-import { BLUE, BLUE_SOFT, BLUE_TINT } from '../../src/theme';
+import { BLUE, BLUE_SOFT, BLUE_TINT, GUTTER } from '../../src/theme';
 
 export default function IssueScreen() {
   const { name } = useLocalSearchParams<{ name: string }>();
@@ -52,7 +52,7 @@ function LiveIssueScreen({ label }: { label: IssueLabel }) {
         <Txt style={{ fontSize: 11, letterSpacing: 3.3, textTransform: 'uppercase', color: BLUE, fontWeight: '600' }}>Issue</Txt>
         <Txt style={{ fontSize: 18, fontWeight: '700', lineHeight: 21.6 }}>{label}</Txt>
       </DetailHeader>
-      <ScrollView contentContainerStyle={{ padding: 20, paddingBottom: 32, gap: 26 }}>
+      <ScrollView contentContainerStyle={{ paddingHorizontal: GUTTER, paddingVertical: 20, paddingBottom: 32, gap: 26 }}>
         <View style={{ flexDirection: 'row', gap: 18 }}>
           <Stat n={entries.length} label="developments" />
           <Stat n={sourceCount} label="sources" />
@@ -136,24 +136,12 @@ function DemoIssueScreen({ name }: { name: string }) {
 
   return (
     <View style={{ flex: 1, backgroundColor: colors.bg }}>
-      <DetailHeader
-        right={
-          <Pressable
-            onPress={() => toggleFollow(name)}
-            accessibilityRole="switch"
-            accessibilityState={{ checked: following }}
-            style={[styles.follow, { borderColor: following ? BLUE : colors.border, backgroundColor: following ? BLUE : 'transparent' }]}
-          >
-            <Icon d={ICON.bell} size={13} color={following ? '#fff' : colors.text} strokeWidth={2.2} />
-            <Txt style={{ fontSize: 12, fontWeight: '700', color: following ? '#fff' : colors.text }}>{following ? 'Following' : 'Follow'}</Txt>
-          </Pressable>
-        }
-      >
+      <DetailHeader>
         <Txt style={{ fontSize: 11, letterSpacing: 3.3, textTransform: 'uppercase', color: BLUE, fontWeight: '600' }}>Issue</Txt>
         <Txt style={{ fontSize: 18, fontWeight: '700', lineHeight: 21.6 }}>{name}</Txt>
       </DetailHeader>
 
-      <ScrollView contentContainerStyle={{ padding: 20, paddingBottom: 32, gap: 26 }}>
+      <ScrollView contentContainerStyle={{ paddingHorizontal: GUTTER, paddingVertical: 20, paddingBottom: 32, gap: 26 }}>
         <View style={{ flexDirection: 'row', gap: 18 }}>
           <Stat n={data.timeline.length} label="developments" />
           <Stat n={data.sources.length} label="sources" />

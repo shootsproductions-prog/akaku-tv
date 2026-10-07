@@ -8,7 +8,7 @@ import { EMPTY_ISSUE, ISSUES } from '../data/countyWatch';
 import { SUB_KINDS } from '../data/videos';
 import { plainText } from '../lib/segments';
 import { useApp } from '../state/AppState';
-import { BLUE, BLUE_TINT, BLUE_WASH, FONT, GREEN, RADIUS, SCRIM } from '../theme';
+import { BLUE, BLUE_TINT, BLUE_WASH, FONT, GREEN, RADIUS, SCRIM, GUTTER } from '../theme';
 import { Icon } from './Icon';
 import { CAST, ICON } from './icons';
 import { Txt } from './Txt';
@@ -37,7 +37,7 @@ export function SheetHost() {
 function SheetFrame({ children, scroll, maxHeight = '88%' }: { children: ReactNode; scroll?: boolean; maxHeight?: `${number}%` }) {
   const { colors } = useApp();
   const insets = useSafeAreaInsets();
-  const pad = { paddingHorizontal: 20, paddingBottom: Math.max(insets.bottom, 8) + 20 };
+  const pad = { paddingHorizontal: GUTTER, paddingBottom: Math.max(insets.bottom, 8) + 20 };
   return (
     <View style={[styles.sheet, { backgroundColor: colors.bg, maxHeight }]}>
       <View style={styles.grabberRow}>

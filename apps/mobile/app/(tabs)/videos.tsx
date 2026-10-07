@@ -10,7 +10,7 @@ import { Chip, Eyebrow, H2, OverlayLabel, Press, Thumb } from '../../src/compone
 import { FEED, FEED_FILTERS } from '../../src/data/videos';
 import type { FeedFilter, FeedItem } from '../../src/data/types';
 import { useApp } from '../../src/state/AppState';
-import { BLUE, RED } from '../../src/theme';
+import { BLUE, RED, GUTTER } from '../../src/theme';
 
 export default function VideosScreen() {
   const { colors, user, openSubmit } = useApp();
@@ -31,7 +31,7 @@ export default function VideosScreen() {
         </Press>
       </View>
 
-      <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={{ gap: 8, paddingTop: 16, paddingHorizontal: 20, paddingBottom: 4 }}>
+      <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={{ gap: 8, paddingTop: 16, paddingHorizontal: GUTTER, paddingBottom: 4 }}>
         {FEED_FILTERS.map(f => (
           <Chip key={f.id} label={f.label} selected={filter === f.id} onPress={() => setFilter(f.id)} />
         ))}
@@ -41,7 +41,7 @@ export default function VideosScreen() {
         <FeedPost key={v.id} v={v} />
       ))}
 
-      <View style={{ padding: 20 }}>
+      <View style={{ paddingHorizontal: GUTTER, paddingVertical: 20 }}>
         <Txt style={{ fontSize: 13, lineHeight: 19.5, color: colors.mist }}>
           Videos stream from Akakū's YouTube channel. Community submissions air on Channel 54 and here. Akakū doesn't edit for viewpoint — only for the{' '}
           <Txt style={{ fontSize: 13, color: BLUE, fontWeight: '600' }} onPress={() => Linking.openURL('https://www.akaku.org/policies-procedures/')}>
@@ -79,14 +79,14 @@ function FeedPost({ v }: { v: FeedItem }) {
         ) : null}
       </View>
 
-      <Pressable onPress={() => v.youtubeId && setPlaying(true)} accessibilityRole="button" accessibilityLabel={`Play ${v.title}`}>
-        <Thumb uri={v.thumbnailUrl ?? (v.youtubeId ? `https://i.ytimg.com/vi/${v.youtubeId}/hqdefault.jpg` : null)} radius={14}>
+      <Pressable onPress={() => v.youtubeId && setPlaying(true)} accessibilityRole="button" accessibilityLabel={`Play ${v.title}`} style={{ marginHorizontal: -GUTTER }}>
+        <Thumb uri={v.thumbnailUrl ?? (v.youtubeId ? `https://i.ytimg.com/vi/${v.youtubeId}/hqdefault.jpg` : null)}>
           {playing && v.youtubeId ? (
             <YouTubeEmbed id={v.youtubeId} title={v.title} />
           ) : (
             <>
               <View style={styles.playDisc}>
-                <Icon d={ICON.play} size={22} color="#fff" filled />
+                <Icon d={ICON.play} size={26} color={BLUE} filled />
               </View>
               <OverlayLabel style={{ right: 8, bottom: 8, paddingVertical: 2, paddingHorizontal: 6 }}>{v.dur}</OverlayLabel>
             </>
@@ -117,13 +117,13 @@ function FeedPost({ v }: { v: FeedItem }) {
 }
 
 const styles = StyleSheet.create({
-  header: { paddingTop: 12, paddingHorizontal: 20, flexDirection: 'row', alignItems: 'flex-start', justifyContent: 'space-between', gap: 12 },
+  header: { paddingTop: 12, paddingHorizontal: GUTTER, flexDirection: 'row', alignItems: 'flex-start', justifyContent: 'space-between', gap: 12 },
   submit: { height: 44, flexDirection: 'row', alignItems: 'center', gap: 6, paddingHorizontal: 14, borderRadius: 999, backgroundColor: BLUE, marginTop: 4 },
-  post: { gap: 12, paddingVertical: 16, paddingHorizontal: 20, borderBottomWidth: 1 },
+  post: { gap: 12, paddingVertical: 16, paddingHorizontal: GUTTER, borderBottomWidth: 4 },
   byline: { flexDirection: 'row', alignItems: 'center', gap: 10 },
   avatar: { width: 36, height: 36, borderRadius: 18, alignItems: 'center', justifyContent: 'center' },
   communityTag: { borderRadius: 999, paddingVertical: 3, paddingHorizontal: 9 },
-  playDisc: { position: 'absolute', width: 56, height: 56, borderRadius: 28, backgroundColor: 'rgba(14,18,24,0.6)', alignItems: 'center', justifyContent: 'center' },
+  playDisc: { position: 'absolute', width: 64, height: 64, borderRadius: 32, backgroundColor: 'rgba(255,255,255,0.94)', alignItems: 'center', justifyContent: 'center' },
   actions: { flexDirection: 'row', alignItems: 'center', gap: 4, marginHorizontal: -8 },
   action: { height: 40, flexDirection: 'row', alignItems: 'center', gap: 6, paddingHorizontal: 10 },
 });

@@ -11,7 +11,7 @@ import { voteSides } from '../../src/lib/votes.ts';
 import { openVideo } from '../../src/lib/navigate';
 import { useContent } from '../../src/state/Content';
 import { useApp } from '../../src/state/AppState';
-import { BLUE, GREEN, RED } from '../../src/theme';
+import { BLUE, GREEN, RED, GUTTER } from '../../src/theme';
 
 export default function MeetingScreen() {
   const params = useLocalSearchParams<{ id: string; seek?: string }>();
@@ -46,7 +46,7 @@ export default function MeetingScreen() {
             </OverlayLabel>
           </Thumb>
         </Pressable>
-        <View style={{ padding: 20, gap: 24 }}>
+        <View style={{ paddingHorizontal: GUTTER, paddingVertical: 20, gap: 24 }}>
           <View style={{ gap: 10 }}>
             <View style={styles.spread}>
               <Eyebrow>The 90-second version</Eyebrow>
