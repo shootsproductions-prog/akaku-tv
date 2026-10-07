@@ -1,4 +1,5 @@
-import { useState } from 'react';
+import AsyncStorage from '@react-native-async-storage/async-storage';
+import { useEffect, useState } from 'react';
 import { Pressable, ScrollView, StyleSheet, TextInput, View } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
@@ -35,14 +36,15 @@ export default function MeetingsScreen() {
       <View style={{ paddingTop: 12, paddingHorizontal: GUTTER, gap: 6 }}>
         <Eyebrow>County Watch</Eyebrow>
         <Txt style={{ fontSize: 28, fontWeight: '700', lineHeight: 29.4, letterSpacing: -0.42 }}>
-          Maui County, <Txt style={{ fontSize: 28, lineHeight: 29.4, color: BLUE }}>finally readable.</Txt>
+          Maui County, <Txt style={{ fontSize: 28, lineHeight: 29.4, color: BLUE }}>trackable.</Txt>
         </Txt>
-        <Txt style={{ fontSize: 14, lineHeight: 21, color: colors.mist, marginTop: 4 }}>
-          {demo
-            ? 'Every meeting on Channel 53, every County release, every deadline — read, cross-checked and written down in plain English, with the proof one tap away.'
-            : 'Meetings from Akakū’s own recordings, written down in plain English, with the proof one tap away.'}
-        </Txt>
+        {demo ? (
+          <Txt style={{ fontSize: 14, lineHeight: 21, color: colors.mist, marginTop: 4 }}>
+            Every meeting on Channel 53, every County release, every deadline — read, cross-checked and written down in plain English, with the proof one tap away.
+          </Txt>
+        ) : null}
       </View>
+      {demo ? null : <HowItWorks />}
 
       {demo ? (
       <View style={[styles.search, { borderColor: colors.border, backgroundColor: colors.bg }]}>
@@ -92,6 +94,55 @@ export default function MeetingsScreen() {
         <CountyWatchHome demo={demo} />
       )}
     </ScrollView>
+  );
+}
+
+const HOW_KEY = 'akaku.countywatch.howItWorks.v1';
+const STEPS = [
+  ['We watch the meetings', 'Council, committees and commissions that Akakū records.'],
+  ['We write it in plain English', 'Every line has a timestamp. Tap it and you are at that moment in the video, so you can check us.'],
+  ['You follow what matters', 'Pick the issues you care about and see what is new on them.'],
+] as const;
+
+/** Short explainer: open until dismissed, then a one-line link to bring it back. */
+function HowItWorks() {
+  const { colors } = useApp();
+  const [open, setOpen] = useState(true);
+  useEffect(() => {
+    AsyncStorage.getItem(HOW_KEY).then(v => v === 'closed' && setOpen(false)).catch(() => {});
+  }, []);
+  const set = (next: boolean) => {
+    setOpen(next);
+    AsyncStorage.setItem(HOW_KEY, next ? 'open' : 'closed').catch(() => {});
+  };
+  if (!open) {
+    return (
+      <Press onPress={() => set(true)} accessibilityRole="button" style={{ marginHorizontal: GUTTER, marginTop: 10, paddingVertical: 8 }}>
+        <Txt style={{ fontSize: 14, fontWeight: '600', color: BLUE }}>How County Watch works →</Txt>
+      </Press>
+    );
+  }
+  return (
+    <View style={[styles.how, { borderColor: colors.border, backgroundColor: colors.bg }]}>
+      <Txt style={{ fontSize: 13, fontWeight: '700', letterSpacing: 1.2, textTransform: 'uppercase', color: colors.mist }}>How it works</Txt>
+      {STEPS.map(([title, body], i) => (
+        <View key={title} style={styles.step}>
+          <View style={styles.stepNum}>
+            <Txt style={{ fontSize: 14, fontWeight: '800', color: '#fff' }}>{i + 1}</Txt>
+          </View>
+          <View style={{ flex: 1, gap: 2 }}>
+            <Txt style={{ fontSize: 16, fontWeight: '700', lineHeight: 20 }}>{title}</Txt>
+            <Txt style={{ fontSize: 14, lineHeight: 20, color: colors.mist }}>{body}</Txt>
+          </View>
+        </View>
+      ))}
+      <Txt style={{ fontSize: 13, lineHeight: 19, color: colors.mist }}>
+        Written by Akakū Intelligence, an AI. AI can make mistakes, so check the proof. More sources, like the County’s own releases, are coming.
+      </Txt>
+      <Press onPress={() => set(false)} accessibilityRole="button" style={{ alignSelf: 'flex-start', paddingVertical: 6 }}>
+        <Txt style={{ fontSize: 15, fontWeight: '700', color: BLUE }}>Got it</Txt>
+      </Press>
+    </View>
   );
 }
 
@@ -377,6 +428,9 @@ function FollowUps() {
 }
 
 const styles = StyleSheet.create({
+  how: { marginTop: 16, marginHorizontal: GUTTER, borderWidth: 1, borderRadius: 14, padding: 16, gap: 14 },
+  step: { flexDirection: 'row', gap: 12 },
+  stepNum: { width: 28, height: 28, borderRadius: 14, backgroundColor: BLUE, alignItems: 'center', justifyContent: 'center', marginTop: 1 },
   section: { marginTop: 28, marginHorizontal: GUTTER, gap: 12 },
   spread: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', gap: 10 },
   wrap: { flexDirection: 'row', flexWrap: 'wrap', gap: 8 },
