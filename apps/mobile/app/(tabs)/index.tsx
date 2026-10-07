@@ -116,7 +116,7 @@ export default function LiveScreen() {
             <Txt style={{ fontSize: 15, fontWeight: '600', color: BLUE }}>Read the recap →</Txt>
           </Card>
         </View>
-      ) : (
+      ) : __DEV__ ? (
         <>
           <View style={styles.section}>
             <Eyebrow>County Watch</Eyebrow>
@@ -140,7 +140,7 @@ export default function LiveScreen() {
             </Card>
           </View>
         </>
-      )}
+      ) : null}
     </ScrollView>
   );
 }

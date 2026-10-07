@@ -10,6 +10,8 @@ import { AIBadge, Card, Chip, Deadlines, Eyebrow, Panel, Press, SectionHeader, T
 import { CAL_DAYS, CALENDAR, EXPLAINERS, FOLLOWUPS, FU_COLORS, WEEKLY } from '../../src/data/countyWatch';
 import { ISSUE_BLURBS, ISSUE_LABELS } from '../../src/data/issues.ts';
 import { HITS } from '../../src/data/meetings';
+import { IssueRow, SampleTag } from '../../src/components/IssueBits';
+import { useCatalog } from '../../src/state/Catalog';
 import { useContent } from '../../src/state/Content';
 import type { FollowUpStatus } from '../../src/data/types';
 import { openExplainer, openIssue, openMeeting, openTarget } from '../../src/lib/navigate';
@@ -25,7 +27,8 @@ const explainerFor = (q: string) =>
 export default function MeetingsScreen() {
   const { colors } = useApp();
   const { source } = useContent();
-  const demo = source === 'demo';
+  // Made-up demo sections exist for development only. A real user never sees them.
+  const demo = __DEV__ && source === 'demo';
   const insets = useSafeAreaInsets();
   const [query, setQuery] = useState('');
   const q = query.trim().toLowerCase();
@@ -150,6 +153,7 @@ function HowItWorks() {
 function CountyWatchHome({ demo }: { demo: boolean }) {
   const { colors } = useApp();
   const { meetings, issuesByLabel } = useContent();
+  const { catalog } = useCatalog();
   return (
     <>
       {demo ? <NewTermCounter /> : null}
@@ -176,6 +180,10 @@ function CountyWatchHome({ demo }: { demo: boolean }) {
       </View>
       ) : null}
 
+      {catalog ? (
+        <CatalogSections />
+      ) : (
+        <>
       {/* Topics */}
       <View style={styles.section}>
         <SectionHeader title="Issues we track" aside="From our recorded meetings" />
@@ -195,12 +203,17 @@ function CountyWatchHome({ demo }: { demo: boolean }) {
       </View>
 
       <FollowedIssues />
+        </>
+      )}
       {demo ? <HearingsCalendar /> : null}
       {demo ? <FollowUps /> : null}
 
       {/* Recent meetings */}
       <View style={styles.section}>
         <Txt style={{ fontSize: 17, fontWeight: '700' }}>Recent meetings</Txt>
+        {meetings.length === 0 ? (
+          <Txt style={{ fontSize: 14, lineHeight: 21, color: colors.mist }}>Meeting recaps will appear here. If you just opened the app, check your connection and reopen it.</Txt>
+        ) : null}
         {meetings.map(m => (
           <Card key={m.id} onPress={() => openMeeting(m.id)} style={{ padding: 16, flexDirection: 'row', gap: 14 }}>
             <View style={{ alignItems: 'center', minWidth: 44 }}>
@@ -219,6 +232,42 @@ function CountyWatchHome({ demo }: { demo: boolean }) {
           </Card>
         ))}
       </View>
+    </>
+  );
+}
+
+/** Once real issues are published: what you follow first, then everything else we track. */
+function CatalogSections() {
+  const { colors, openSheet } = useApp();
+  const { catalog, followed } = useCatalog();
+  const others = (catalog?.list ?? []).filter(i => !followed.some(f => f.slug === i.slug));
+  return (
+    <>
+      <View style={styles.section}>
+        <SectionHeader title="Issues you follow" aside={<SampleTag />} />
+        {followed.length === 0 ? (
+          <Txt style={{ fontSize: 14, lineHeight: 21, color: colors.mist }}>You aren’t following any issues yet. Pick some below and they’ll show up here.</Txt>
+        ) : (
+          <View>
+            {followed.map(i => (
+              <IssueRow key={i.slug} issue={i} onOpen={() => openIssue(i.slug)} />
+            ))}
+          </View>
+        )}
+      </View>
+      {others.length ? (
+        <View style={styles.section}>
+          <SectionHeader title="More issues to follow" aside="Ranked by recent meetings" />
+          <View>
+            {others.map(i => (
+              <IssueRow key={i.slug} issue={i} onOpen={() => openIssue(i.slug)} />
+            ))}
+          </View>
+        </View>
+      ) : null}
+      <Pressable onPress={() => openSheet('follow')} accessibilityRole="button" style={{ marginHorizontal: GUTTER, marginTop: 12, paddingVertical: 8 }}>
+        <Txt style={{ fontSize: 14, fontWeight: '600', color: BLUE }}>Edit what you follow →</Txt>
+      </Pressable>
     </>
   );
 }

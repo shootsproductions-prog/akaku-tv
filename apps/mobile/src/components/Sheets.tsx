@@ -9,7 +9,9 @@ import { SUB_KINDS } from '../data/videos';
 import { plainText } from '../lib/segments';
 import { useApp } from '../state/AppState';
 import { BLUE, BLUE_TINT, BLUE_WASH, FONT, GREEN, RADIUS, SCRIM, GUTTER } from '../theme';
+import { useCatalog } from '../state/Catalog';
 import { Icon } from './Icon';
+import { IssuePool, SampleTag } from './IssueBits';
 import { CAST, ICON } from './icons';
 import { Txt } from './Txt';
 import { Button, Chip, Eyebrow, ProofText } from './ui';
@@ -22,7 +24,8 @@ export function SheetHost() {
     sheet === 'signup' ? <SignupSheet /> :
     sheet === 'submit' ? <SubmitSheet /> :
     sheet === 'report' ? <ReportSheet /> :
-    sheet === 'follow' ? <FollowSheet /> : null;
+    sheet === 'follow' ? <FollowSheet /> :
+    sheet === 'welcome' ? <WelcomeSheet /> : null;
   return (
     <Modal visible={!!sheet} transparent animationType="fade" onRequestClose={closeSheet} statusBarTranslucent>
       <KeyboardAvoidingView behavior={Platform.OS === 'ios' ? 'padding' : undefined} style={{ flex: 1 }}>
@@ -239,6 +242,21 @@ function ReportSheet() {
 
 function FollowSheet() {
   const { colors, toggleFollow, isFollowing, closeSheet } = useApp();
+  const { catalog } = useCatalog();
+  if (catalog) {
+    return (
+      <SheetFrame scroll>
+        <SheetTitle eyebrow="Follow an issue" title="What should we watch for?">
+          <Txt style={{ fontSize: 14, lineHeight: 21, color: colors.mist }}>
+            Pick the issues you care about. They are ranked by how much our recorded meetings have talked about them lately.
+          </Txt>
+          <SampleTag />
+        </SheetTitle>
+        <IssuePool />
+        <Button label="Done" onPress={closeSheet} height={50} bg={BLUE} />
+      </SheetFrame>
+    );
+  }
   return (
     <SheetFrame>
       <SheetTitle eyebrow="Follow an issue" title="What should we watch for?">
@@ -266,6 +284,25 @@ function FollowSheet() {
         })}
       </View>
       <Button label="Done" onPress={closeSheet} height={50} bg={BLUE} />
+    </SheetFrame>
+  );
+}
+
+/** Shown once, the first time the app opens with a catalog: we have already started tracking for you. */
+function WelcomeSheet() {
+  const { colors, closeSheet } = useApp();
+  const { followed } = useCatalog();
+  const n = followed.length;
+  return (
+    <SheetFrame scroll>
+      <SheetTitle eyebrow="Welcome" title="We’re already keeping track.">
+        <Txt style={{ fontSize: 14, lineHeight: 21, color: colors.mist }}>
+          {n === 1 ? 'We’ve started you on 1 issue' : `We’ve started you on ${n} issues`}, so you’ll see what’s new the moment you open County Watch. Add or remove anything below. You can change it any time.
+        </Txt>
+        <SampleTag />
+      </SheetTitle>
+      <IssuePool />
+      <Button label="Show me what’s new" onPress={closeSheet} height={50} bg={BLUE} />
     </SheetFrame>
   );
 }

@@ -11,6 +11,8 @@ import { EMPTY_ISSUE, ISSUES } from '../../src/data/countyWatch';
 import { DEFAULT_DISCLAIMER, isIssueLabel } from '../../src/data/issues.ts';
 import type { IssueLabel } from '../../src/data/types';
 import type { IssueEntry } from '../../src/lib/recaps.ts';
+import { CatalogIssueScreen } from '../../src/components/CatalogIssue';
+import { useCatalog } from '../../src/state/Catalog';
 import { useContent } from '../../src/state/Content';
 import { openTarget } from '../../src/lib/navigate';
 import { useApp } from '../../src/state/AppState';
@@ -18,6 +20,9 @@ import { BLUE, BLUE_SOFT, BLUE_TINT, GUTTER } from '../../src/theme';
 
 export default function IssueScreen() {
   const { name } = useLocalSearchParams<{ name: string }>();
+  const { bySlug } = useCatalog();
+  const catalogIssue = bySlug(name);
+  if (catalogIssue) return <CatalogIssueScreen issue={catalogIssue} />;
   // The four tracked issues are built from published meetings. Other names are the demo issue pages.
   if (isIssueLabel(name)) return <LiveIssueScreen label={name} />;
   return <DemoIssueScreen name={name} />;

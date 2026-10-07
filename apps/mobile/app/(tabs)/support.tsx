@@ -1,6 +1,6 @@
 import { LinearGradient } from 'expo-linear-gradient';
 import { useState } from 'react';
-import { Image, Linking, Pressable, ScrollView, StyleSheet, TextInput, View } from 'react-native';
+import { Image, Linking, ScrollView, StyleSheet, View } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import { Icon } from '../../src/components/Icon';
@@ -9,11 +9,10 @@ import { YouTubeEmbed } from '../../src/components/media';
 import { Txt } from '../../src/components/Txt';
 import { Button, Eyebrow, Panel, Press } from '../../src/components/ui';
 import { useApp } from '../../src/state/AppState';
-import { BLUE, BLUE_INK, BLUE_SOFT, FONT, GUTTER } from '../../src/theme';
+import { BLUE, BLUE_SOFT, GUTTER } from '../../src/theme';
 
 /** "Our story" — the welcome video on akaku.org/about. */
 const STORY_VIDEO = '84dtX0NDPN0';
-const AMOUNTS = [3, 5, 10, 25];
 const FACTS = [
   { n: '1992', label: 'On the air since' },
   { n: '3 + 1', label: 'TV channels + KAKU 88.5' },
@@ -25,10 +24,6 @@ export default function SupportScreen() {
   const { colors } = useApp();
   const insets = useSafeAreaInsets();
   const [story, setStory] = useState(false);
-  const [cadence, setCadence] = useState<'Monthly' | 'One-time'>('Monthly');
-  const [amount, setAmount] = useState(5);
-  const [custom, setCustom] = useState('');
-  const give = custom ? `$${custom}` : `$${amount}`;
 
   return (
     <ScrollView style={{ backgroundColor: colors.bg }} contentContainerStyle={{ paddingTop: insets.top, paddingBottom: 32 }} keyboardShouldPersistTaps="handled">
@@ -83,72 +78,10 @@ export default function SupportScreen() {
         </Panel>
       </View>
 
-      <View style={{ paddingHorizontal: GUTTER, gap: 16 }}>
+      <View style={{ paddingHorizontal: GUTTER, gap: 14 }}>
         <Txt style={{ fontSize: 17, fontWeight: '700' }}>Become a sustaining member</Txt>
-        <View style={[styles.segmented, { backgroundColor: colors.surface }]}>
-          {(['Monthly', 'One-time'] as const).map(c => {
-            const on = cadence === c;
-            return (
-              <Pressable key={c} onPress={() => setCadence(c)} accessibilityRole="button" accessibilityState={{ selected: on }} style={[styles.segment, on && [styles.segmentOn, { backgroundColor: colors.bg }]]}>
-                <Txt style={{ fontSize: 14, fontWeight: '600' }}>{c}</Txt>
-              </Pressable>
-            );
-          })}
-        </View>
-
-        <View style={{ gap: 10 }}>
-          <Txt style={{ fontSize: 13, color: colors.mist }}>Pay what you want</Txt>
-          <View style={{ flexDirection: 'row', gap: 8 }}>
-            {AMOUNTS.map(a => {
-              const on = !custom && amount === a;
-              return (
-                <Press
-                  key={a}
-                  onPress={() => {
-                    setAmount(a);
-                    setCustom('');
-                  }}
-                  accessibilityRole="button"
-                  accessibilityState={{ selected: on }}
-                  style={[styles.amount, { borderColor: on ? BLUE : colors.border, backgroundColor: on ? BLUE : colors.bg }]}
-                >
-                  <Txt style={{ fontSize: 20, fontWeight: '700', color: on ? '#fff' : colors.text }}>${a}</Txt>
-                </Press>
-              );
-            })}
-          </View>
-          <View style={[styles.custom, { borderColor: colors.border }]}>
-            <Txt style={{ color: colors.mist }}>$</Txt>
-            <TextInput
-              value={custom}
-              onChangeText={t => setCustom(t.replace(/[^0-9.]/g, ''))}
-              placeholder="Other amount"
-              placeholderTextColor={colors.mist}
-              keyboardType="decimal-pad"
-              style={{ flex: 1, minWidth: 0, fontSize: 16, fontFamily: FONT, color: colors.text, paddingVertical: 0 }}
-            />
-          </View>
-        </View>
-
-        <View style={{ gap: 10, borderTopWidth: 1, borderTopColor: colors.border, paddingTop: 16 }}>
-          <Txt style={{ fontSize: 15, fontWeight: '700' }}>Member perks</Txt>
-          <Txt style={{ fontSize: 14, lineHeight: 22.4, color: colors.mist }}>
-            Your name read on air during The Maui Daily · invitations to Akakū Upstairs salons · a member card for studio, gear and class discounts · the good feeling of a county you can actually watch.
-          </Txt>
-        </View>
-
-        {/* Payment provider (Stripe / store billing) is not wired yet. */}
-        <Button label={`Give ${give}${cadence === 'Monthly' ? ' / month' : ' once'} →`} height={52} fontSize={17} />
-
-        <View style={[styles.protect, { borderColor: colors.border }]}>
-          <Eyebrow color={BLUE_INK}>Protect community media</Eyebrow>
-          <Txt style={{ fontSize: 17, fontWeight: '700', lineHeight: 21.25 }}>Akakū's funding could be cut in half in January.</Txt>
-          <Txt style={{ fontSize: 14, lineHeight: 21, color: colors.mist }}>The state DCCA plans to return half of Akakū's PEG funding to Spectrum. If you want it restored, say so.</Txt>
-          <View style={{ flexDirection: 'row', gap: 8, flexWrap: 'wrap' }}>
-            <Button label="Email the Governor" variant="outline" fontSize={14} onPress={() => Linking.openURL('mailto:governor@hawaii.gov')} />
-            <Button label="Call (808) 586-0034" variant="quiet" fontSize={14} onPress={() => Linking.openURL('tel:+18085860034')} />
-          </View>
-        </View>
+        <Txt style={{ fontSize: 14, lineHeight: 22, color: colors.mist }}>Memberships and gifts are handled securely on akaku.org.</Txt>
+        <Button label="Give or join at akaku.org →" height={52} fontSize={17} onPress={() => Linking.openURL('https://www.akaku.org/')} />
       </View>
     </ScrollView>
   );
