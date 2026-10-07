@@ -12,10 +12,13 @@ import { CHANNELS } from '../../src/data/channels';
 import { freshFrame } from '../../src/data/liveFeeds';
 import { openPlayer } from '../../src/lib/navigate';
 import { useApp } from '../../src/state/AppState';
+import { useContent } from '../../src/state/Content';
 import { BLUE } from '../../src/theme';
 
 export default function LiveScreen() {
   const { colors, isDark, toggleTheme, kupuna, toggleKupuna } = useApp();
+  const { source, meetings } = useContent();
+  const latest = meetings[0];
   const insets = useSafeAreaInsets();
   // "Live frame · Ns ago" — frames refresh on every open, like akaku.org.
   const [ago, setAgo] = useState(4);
@@ -63,15 +66,19 @@ export default function LiveScreen() {
                 <View style={styles.liveTag}>
                   <LiveBadge />
                 </View>
-                <OverlayLabel>Live frame · {ago === 0 ? 'just now' : `${ago}s ago`}</OverlayLabel>
+                {ch.hlsUrl ? null : <OverlayLabel>Live frame · {ago === 0 ? 'just now' : `${ago}s ago`}</OverlayLabel>}
               </Thumb>
             </Press>
             <View style={styles.chRow}>
               <Txt style={{ fontSize: 34, fontWeight: '700', lineHeight: 34, letterSpacing: -1, color: BLUE, minWidth: 48 }}>{ch.num}</Txt>
               <View style={{ flex: 1, minWidth: 0, gap: 2 }}>
                 <Txt style={{ fontSize: 17, fontWeight: '700', lineHeight: 20.4 }}>{ch.name}</Txt>
-                <Txt style={{ fontSize: 14, color: colors.mist }} numberOfLines={1}>On now · {ch.now}</Txt>
-                <Txt style={{ fontSize: 13, color: colors.mist }}>Next · {ch.next}</Txt>
+                {ch.hlsUrl ? null : (
+                  <>
+                    <Txt style={{ fontSize: 14, color: colors.mist }} numberOfLines={1}>On now · {ch.now}</Txt>
+                    <Txt style={{ fontSize: 13, color: colors.mist }}>Next · {ch.next}</Txt>
+                  </>
+                )}
               </View>
               <Button label="Watch" onPress={() => openPlayer(ch.num)} />
             </View>
@@ -79,27 +86,40 @@ export default function LiveScreen() {
         ))}
       </View>
 
-      <View style={styles.section}>
-        <Eyebrow>County Watch</Eyebrow>
-        <Card onPress={() => router.navigate('/meetings')} style={{ padding: 18, gap: 10 }}>
-          <Txt style={{ fontSize: 19, fontWeight: '700', lineHeight: 22.8 }}>Your county, this week: 3 things happened, 2 deadlines, 1 thing to watch.</Txt>
-          <Txt style={{ fontSize: 14, lineHeight: 21, color: colors.mist }}>
-            Storm recovery money, a new housing program, and a vote that got pushed. Read it in 90 seconds — every line linked to its proof. Powered by Akakū Intelligence.
-          </Txt>
-          <Txt style={{ fontSize: 15, fontWeight: '600', color: BLUE }}>Read this week's brief →</Txt>
-        </Card>
-      </View>
-
-      <View style={styles.section}>
-        <Eyebrow>Maui's daily news show</Eyebrow>
-        <Card>
-          <Thumb label="Latest Maui Daily thumbnail" />
-          <View style={{ padding: 16, gap: 6 }}>
-            <Txt style={{ fontSize: 19, fontWeight: '700', lineHeight: 22.8 }}>The Maui Daily</Txt>
-            <Txt style={{ fontSize: 14, lineHeight: 21, color: colors.mist }}>Latest episode · Friday, October 2. New episodes 7 PM across all Akakū platforms.</Txt>
+      {source === 'live' ? (
+        <View style={styles.section}>
+          <Eyebrow>Latest from County Watch</Eyebrow>
+          <Card onPress={() => router.navigate({ pathname: '/meeting/[id]', params: { id: latest.id, seek: '0:00:00' } })} style={{ padding: 18, gap: 10 }}>
+            <Txt style={{ fontSize: 12, fontWeight: '600', color: colors.mist }}>{latest.date} · {latest.body}</Txt>
+            <Txt style={{ fontSize: 17, fontWeight: '700', lineHeight: 22 }}>{latest.summary}</Txt>
+            <Txt style={{ fontSize: 15, fontWeight: '600', color: BLUE }}>Read the recap →</Txt>
+          </Card>
+        </View>
+      ) : (
+        <>
+          <View style={styles.section}>
+            <Eyebrow>County Watch</Eyebrow>
+            <Card onPress={() => router.navigate('/meetings')} style={{ padding: 18, gap: 10 }}>
+              <Txt style={{ fontSize: 19, fontWeight: '700', lineHeight: 22.8 }}>Your county, this week: 3 things happened, 2 deadlines, 1 thing to watch.</Txt>
+              <Txt style={{ fontSize: 14, lineHeight: 21, color: colors.mist }}>
+                Storm recovery money, a new housing program, and a vote that got pushed. Read it in 90 seconds — every line linked to its proof. Powered by Akakū Intelligence.
+              </Txt>
+              <Txt style={{ fontSize: 15, fontWeight: '600', color: BLUE }}>Read this week's brief →</Txt>
+            </Card>
           </View>
-        </Card>
-      </View>
+
+          <View style={styles.section}>
+            <Eyebrow>Maui's daily news show</Eyebrow>
+            <Card>
+              <Thumb label="Latest Maui Daily thumbnail" />
+              <View style={{ padding: 16, gap: 6 }}>
+                <Txt style={{ fontSize: 19, fontWeight: '700', lineHeight: 22.8 }}>The Maui Daily</Txt>
+                <Txt style={{ fontSize: 14, lineHeight: 21, color: colors.mist }}>Latest episode · Friday, October 2. New episodes 7 PM across all Akakū platforms.</Txt>
+              </View>
+            </Card>
+          </View>
+        </>
+      )}
     </ScrollView>
   );
 }

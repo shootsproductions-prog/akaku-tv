@@ -60,22 +60,29 @@ export default function PlayerScreen() {
       </View>
 
       <ScrollView contentContainerStyle={{ padding: 20, paddingBottom: 40 }}>
-        <Eyebrow>On now</Eyebrow>
-        <Txt style={{ fontSize: 22, fontWeight: '700', lineHeight: 25.3, marginTop: 6, marginBottom: 4 }}>{ch.now}</Txt>
-        <Txt style={{ fontSize: 14, lineHeight: 21, color: colors.mist, marginBottom: 20 }}>{ch.desc}</Txt>
-        {ch.isGov ? (
-          <Press onPress={() => router.navigate('/meetings')} style={styles.transcript}>
-            <Txt style={{ fontSize: 15, fontWeight: '700' }}>Live transcript running</Txt>
-            <Txt style={{ fontSize: 14, lineHeight: 21, color: colors.mist }}>Search this meeting while it happens. Recap and vote record post within an hour of adjournment.</Txt>
-          </Press>
-        ) : null}
-        <Txt style={{ fontSize: 15, fontWeight: '700', marginBottom: 8 }}>Tonight on {ch.num}</Txt>
-        {ch.guide.map(g => (
-          <View key={g.t + g.s} style={[styles.guideRow, { borderBottomColor: colors.border }]}>
-            <Txt style={{ fontSize: 14, fontWeight: '600', minWidth: 68, color: colors.mist, fontVariant: ['tabular-nums'] }}>{g.t}</Txt>
-            <Txt style={{ fontSize: 15, flex: 1 }}>{g.s}</Txt>
-          </View>
-        ))}
+        {/* The schedule and live-transcript copy below is demo content. Show it only until a real stream is wired. */}
+        {ch.hlsUrl ? (
+          <Txt style={{ fontSize: 14, lineHeight: 21, color: colors.mist }}>{ch.desc}</Txt>
+        ) : (
+          <>
+            <Eyebrow>On now</Eyebrow>
+            <Txt style={{ fontSize: 22, fontWeight: '700', lineHeight: 25.3, marginTop: 6, marginBottom: 4 }}>{ch.now}</Txt>
+            <Txt style={{ fontSize: 14, lineHeight: 21, color: colors.mist, marginBottom: 20 }}>{ch.desc}</Txt>
+            {ch.isGov ? (
+              <Press onPress={() => router.navigate('/meetings')} style={styles.transcript}>
+                <Txt style={{ fontSize: 15, fontWeight: '700' }}>Live transcript running</Txt>
+                <Txt style={{ fontSize: 14, lineHeight: 21, color: colors.mist }}>Search this meeting while it happens. Recap and vote record post within an hour of adjournment.</Txt>
+              </Press>
+            ) : null}
+            <Txt style={{ fontSize: 15, fontWeight: '700', marginBottom: 8 }}>Tonight on {ch.num}</Txt>
+            {ch.guide.map(g => (
+              <View key={g.t + g.s} style={[styles.guideRow, { borderBottomColor: colors.border }]}>
+                <Txt style={{ fontSize: 14, fontWeight: '600', minWidth: 68, color: colors.mist, fontVariant: ['tabular-nums'] }}>{g.t}</Txt>
+                <Txt style={{ fontSize: 15, flex: 1 }}>{g.s}</Txt>
+              </View>
+            ))}
+          </>
+        )}
       </ScrollView>
     </View>
   );

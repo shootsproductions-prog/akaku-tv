@@ -136,19 +136,7 @@ function DemoIssueScreen({ name }: { name: string }) {
 
   return (
     <View style={{ flex: 1, backgroundColor: colors.bg }}>
-      <DetailHeader
-        right={
-          <Pressable
-            onPress={() => toggleFollow(name)}
-            accessibilityRole="switch"
-            accessibilityState={{ checked: following }}
-            style={[styles.follow, { borderColor: following ? BLUE : colors.border, backgroundColor: following ? BLUE : 'transparent' }]}
-          >
-            <Icon d={ICON.bell} size={13} color={following ? '#fff' : colors.text} strokeWidth={2.2} />
-            <Txt style={{ fontSize: 12, fontWeight: '700', color: following ? '#fff' : colors.text }}>{following ? 'Following' : 'Follow'}</Txt>
-          </Pressable>
-        }
-      >
+      <DetailHeader>
         <Txt style={{ fontSize: 11, letterSpacing: 3.3, textTransform: 'uppercase', color: BLUE, fontWeight: '600' }}>Issue</Txt>
         <Txt style={{ fontSize: 18, fontWeight: '700', lineHeight: 21.6 }}>{name}</Txt>
       </DetailHeader>

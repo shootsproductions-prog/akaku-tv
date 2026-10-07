@@ -21,7 +21,7 @@ export function Press({ style, children, ...rest }: React.ComponentProps<typeof 
 }
 
 export function Eyebrow({ children, color = BLUE, spacing = 3.3 }: { children: ReactNode; color?: string; spacing?: number }) {
-  return <Txt style={{ fontSize: 11, fontWeight: '600', letterSpacing: spacing, textTransform: 'uppercase', color }}>{children}</Txt>;
+  return <Txt style={{ fontSize: 11, fontWeight: '600', letterSpacing: spacing, textTransform: 'uppercase', color, flexShrink: 1 }}>{children}</Txt>;
 }
 
 export function AIBadge({ color = BLUE }: { color?: string }) {
@@ -245,7 +245,7 @@ export const styles = StyleSheet.create({
   thumb: { aspectRatio: 16 / 9, width: '100%', overflow: 'hidden', alignItems: 'center', justifyContent: 'center' },
   card: { borderWidth: 1, borderRadius: RADIUS.card, overflow: 'hidden' },
   panel: { borderRadius: RADIUS.card, padding: 18, gap: 12 },
-  pillButton: { height: 36, flexDirection: 'row', alignItems: 'center', gap: 6, paddingHorizontal: 12, borderRadius: 999, borderWidth: 1 },
+  pillButton: { height: 36, flexDirection: 'row', alignItems: 'center', gap: 6, paddingHorizontal: 12, borderRadius: 999, borderWidth: 1, flexShrink: 0 },
   detailRow: { flexDirection: 'row', alignItems: 'center', gap: 4, paddingVertical: 6, paddingHorizontal: 12 },
   markWrap: { paddingHorizontal: 2, transform: [{ translateY: 3 }] },
   mark: { paddingHorizontal: 6, borderRadius: 999, alignItems: 'center', justifyContent: 'center' },

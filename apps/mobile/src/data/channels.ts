@@ -68,7 +68,7 @@ const BASE_CHANNELS: Channel[] = [
     now: "Maui County Council — Budget, Finance & Economic Development Committee",
     next: "9:00 Planning Commission (replay)",
     isGov: true,
-    desc: "County Council, boards and commissions, gavel to gavel. Every meeting here is transcribed for Meeting Watch.",
+    desc: "County Council, boards and commissions, gavel to gavel.",
     guide: [
       {
         t: "Now",

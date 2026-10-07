@@ -23,6 +23,8 @@ const explainerFor = (q: string) =>
 
 export default function MeetingsScreen() {
   const { colors } = useApp();
+  const { source } = useContent();
+  const demo = source === 'demo';
   const insets = useSafeAreaInsets();
   const [query, setQuery] = useState('');
   const q = query.trim().toLowerCase();
@@ -36,10 +38,13 @@ export default function MeetingsScreen() {
           Maui County, <Txt style={{ fontSize: 28, lineHeight: 29.4, color: BLUE }}>finally readable.</Txt>
         </Txt>
         <Txt style={{ fontSize: 14, lineHeight: 21, color: colors.mist, marginTop: 4 }}>
-          Every meeting on Channel 53, every County release, every deadline — read, cross-checked and written down in plain English, with the proof one tap away.
+          {demo
+            ? 'Every meeting on Channel 53, every County release, every deadline — read, cross-checked and written down in plain English, with the proof one tap away.'
+            : 'Meetings from Akakū’s own recordings, written down in plain English, with the proof one tap away.'}
         </Txt>
       </View>
 
+      {demo ? (
       <View style={[styles.search, { borderColor: colors.border, backgroundColor: colors.bg }]}>
         <Icon d={ICON.search} size={18} color={colors.mist} strokeWidth={1.5} />
         <TextInput
@@ -56,6 +61,7 @@ export default function MeetingsScreen() {
           <Icon d={ICON.mic} size={18} color={BLUE} strokeWidth={1.5} />
         </View>
       </View>
+      ) : null}
 
       {q ? (
         <View style={{ marginTop: 14, marginHorizontal: 20, gap: 10 }}>
@@ -83,21 +89,23 @@ export default function MeetingsScreen() {
           ))}
         </View>
       ) : (
-        <CountyWatchHome />
+        <CountyWatchHome demo={demo} />
       )}
     </ScrollView>
   );
 }
 
-function CountyWatchHome() {
+/** `demo` is true until a real recap is published; the sections marked demo-only hold illustrative content. */
+function CountyWatchHome({ demo }: { demo: boolean }) {
   const { colors } = useApp();
   const { meetings, issuesByLabel } = useContent();
   return (
     <>
-      <NewTermCounter />
-      <WeeklyBrief />
+      {demo ? <NewTermCounter /> : null}
+      {demo ? <WeeklyBrief /> : null}
 
-      {/* Big questions */}
+      {/* Big questions (demo-only) */}
+      {demo ? (
       <View style={{ marginTop: 28, gap: 12 }}>
         <SectionHeader title="The big questions" aside="Answered from 14 years of meetings" inset />
         <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={{ gap: 12, paddingHorizontal: 20, paddingBottom: 4 }}>
@@ -115,6 +123,7 @@ function CountyWatchHome() {
           Not opinions. Each explainer is built only from what was said on the record in Council and commission meetings since 2012, with the clip for every claim.
         </Txt>
       </View>
+      ) : null}
 
       {/* Topics */}
       <View style={styles.section}>
@@ -135,8 +144,8 @@ function CountyWatchHome() {
       </View>
 
       <FollowedIssues />
-      <HearingsCalendar />
-      <FollowUps />
+      {demo ? <HearingsCalendar /> : null}
+      {demo ? <FollowUps /> : null}
 
       {/* Recent meetings */}
       <View style={styles.section}>
