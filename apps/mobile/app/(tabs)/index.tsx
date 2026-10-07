@@ -61,9 +61,8 @@ export default function LiveScreen() {
             </Press>
           </View>
         </View>
-        <View style={{ marginTop: 22, gap: 6 }}>
+        <View style={{ marginTop: 18 }}>
           <Eyebrow>Watch live</Eyebrow>
-          <H2>Three channels, streaming now from Maui Nui.</H2>
         </View>
       </LinearGradient>
 
