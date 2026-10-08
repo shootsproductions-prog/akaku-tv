@@ -1,0 +1,85 @@
+{
+  "slug": "board-of-water-supply-opposes-bill-1",
+  "title": "Board of Water Supply opposes Bill 1",
+  "summary": "A council member's letter seeking the board's further comments on Bill 1 was placed on the board's agenda. In September a testifier said the water department should keep its discretion, and the board voted five ayes to tell Council Member Cook's office it does not support Bill 1.",
+  "topics": [
+    "water",
+    "government"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-08-20",
+  "lastSeenISO": "2026-09-17",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 2,
+    "mentionsLast30d": 3,
+    "upcomingEvent": null
+  },
+  "timeline": [
+    {
+      "dateISO": "2026-09-17",
+      "text": "The motion passed with five ayes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mJyIAre9As4",
+        "ts": "0:35:25",
+        "retrievedISO": "2026-10-07T23:03:55.224Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-09-17",
+      "text": "A motion was made to tell Council Member Cook's office the board does not support Bill 1.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mJyIAre9As4",
+        "ts": "0:33:31",
+        "retrievedISO": "2026-10-07T23:03:55.224Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-09-17",
+      "text": "Another testifier opposed the Bill 1 amendment, saying the water department should keep its discretion.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mJyIAre9As4",
+        "ts": "0:09:44",
+        "retrievedISO": "2026-10-07T23:03:55.224Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-08-20",
+      "text": "Members who plan to draft a response should say so to learn the deadline.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UjHForbD6sQ",
+        "ts": "0:54:16",
+        "retrievedISO": "2026-10-07T23:26:10.862Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-08-20",
+      "text": "A council member's letter about the board's further comments on Bill 1 will be on the next meeting's agenda.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UjHForbD6sQ",
+        "ts": "0:53:58",
+        "retrievedISO": "2026-10-07T23:26:10.862Z"
+      },
+      "body": "Board of Water Supply"
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
