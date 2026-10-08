@@ -1,1 +1,14 @@
-{ "issues": [], "aliases": {}, "defaultFollows": [] }
+{
+  "issues": [
+    "board-of-water-supply-opposes-bill-1.json",
+    "contested-case-on-mahi-pono-east-maui-water-permits.json",
+    "east-maui-ditch-system-ownership-and-county-takeover-bid.json",
+    "lahaina-water-use-permit-applications-and-tig-report.json",
+    "new-west-maui-wells-timeline.json"
+  ],
+  "aliases": {},
+  "defaultFollows": [
+    "board-of-water-supply-opposes-bill-1",
+    "new-west-maui-wells-timeline"
+  ]
+}

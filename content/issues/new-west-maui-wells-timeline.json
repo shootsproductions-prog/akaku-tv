@@ -1,0 +1,97 @@
+{
+  "slug": "new-west-maui-wells-timeline",
+  "title": "New West Maui wells timeline",
+  "summary": "The board asked for West Maui drilling schedule information, and staff presented a timeline showing several wells on overlapping schedules, with the Kahana well projected for the fourth quarter of this year and H2 not until early 2032. Staff said the wells are funded through federal grants or the water system development fund and are a top priority for fire protection and peak demand.",
+  "topics": [
+    "water",
+    "disaster-recovery"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-09-17",
+  "lastSeenISO": "2026-09-17",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 3,
+    "upcomingEvent": null
+  },
+  "timeline": [
+    {
+      "dateISO": "2026-09-17",
+      "text": "Staff said the four wells are a top priority for West Maui residents, for reliable water for fire protection and peak demand.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mJyIAre9As4",
+        "ts": "0:58:42",
+        "retrievedISO": "2026-10-07T23:03:55.224Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-09-17",
+      "text": "Staff said all four wells will be funded through federal grants or the department's water system development fund.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mJyIAre9As4",
+        "ts": "0:57:58",
+        "retrievedISO": "2026-10-07T23:03:55.224Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-09-17",
+      "text": "Staff said the L1 and H1 wells are fully funded.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mJyIAre9As4",
+        "ts": "0:57:09",
+        "retrievedISO": "2026-10-07T23:03:55.224Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-09-17",
+      "text": "The well called H2 is projected to be finished in early 2032.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mJyIAre9As4",
+        "ts": "0:54:31",
+        "retrievedISO": "2026-10-07T23:03:55.224Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-09-17",
+      "text": "The Kahana well is projected to be finished in the fourth quarter of this year.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mJyIAre9As4",
+        "ts": "0:49:04",
+        "retrievedISO": "2026-10-07T23:03:55.224Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-09-17",
+      "text": "The water department is working on several new West Maui wells on overlapping timelines.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mJyIAre9As4",
+        "ts": "0:48:19",
+        "retrievedISO": "2026-10-07T23:03:55.224Z"
+      },
+      "body": "Board of Water Supply"
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
