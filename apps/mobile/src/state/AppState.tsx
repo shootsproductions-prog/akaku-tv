@@ -47,8 +47,6 @@ type AppState = {
   toggleReminder: (id: string) => void;
 
   // Videos
-  liked: Record<string, boolean>;
-  toggleLike: (id: string) => void;
 };
 
 const Ctx = createContext<AppState | null>(null);
@@ -68,7 +66,6 @@ export function AppStateProvider({ children }: { children: ReactNode }) {
   const [user, setUser] = useState<string | null>(null);
   const [issues, setIssues] = useState(INITIAL_ISSUES);
   const [reminders, setReminders] = useState<Record<string, boolean>>({ c4: true });
-  const [liked, setLiked] = useState<Record<string, boolean>>({});
 
   useEffect(() => {
     AsyncStorage.getItem(PREFS_KEY)
@@ -128,10 +125,8 @@ export function AppStateProvider({ children }: { children: ReactNode }) {
       isFollowing: name => issues.some(x => x.name === name && x.on),
       reminders,
       toggleReminder: id => setReminders(r => ({ ...r, [id]: !r[id] })),
-      liked,
-      toggleLike: id => setLiked(l => ({ ...l, [id]: !l[id] })),
     }),
-    [themePref, isDark, kupuna, radioOn, castDevice, sheet, reportIssue, user, issues, toggleFollow, reminders, liked],
+    [themePref, isDark, kupuna, radioOn, castDevice, sheet, reportIssue, user, issues, toggleFollow, reminders],
   );
 
   return <Ctx.Provider value={value}>{children}</Ctx.Provider>;
