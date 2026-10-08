@@ -26,7 +26,7 @@ const raw = [
     lastSeenISO: '2026-10-06',
     signals: { meetingsLast30d: 3, meetingsLast90d: 5, mentionsLast30d: 6, upcomingEvent: null },
     timeline: [
-      { dateISO: '2026-10-06', text: 'Sample entry: something was said at a meeting.', basis: 'said-at-meeting', source: meeting('0:12:40') },
+      { dateISO: '2026-10-06', body: 'Sample board', text: 'Sample entry: something was said at a meeting.', basis: 'said-at-meeting', source: meeting('0:12:40') },
       { dateISO: '2026-09-28', text: 'Sample entry: a vote seen in the video and in the minutes.', basis: 'confirmed', source: page('Sample County page') },
       { dateISO: '2026-09-15', text: 'Sample entry: one source gives a number.', basis: 'conflicting', conflictGroup: 'g1', source: meeting('1:02:33') },
       { dateISO: '2026-09-15', text: 'Sample entry: another source gives a different number.', basis: 'conflicting', conflictGroup: 'g1', source: page('Sample County release') },

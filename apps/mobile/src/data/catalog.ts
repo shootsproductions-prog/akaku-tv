@@ -17,7 +17,8 @@ export type EntrySource =
   | { type: 'meeting'; videoId: string; ts: string; retrievedISO: string }
   | { type: Exclude<SourceType, 'meeting'>; url: string; publisher: string; quote: string; retrievedISO: string };
 
-export type TimelineEntry = { dateISO: string; text: string; basis: Basis; source: EntrySource; conflictGroup?: string };
+/** `body` is the board or body the fact came from, for example "Board of Water Supply". */
+export type TimelineEntry = { dateISO: string; text: string; basis: Basis; source: EntrySource; conflictGroup?: string; body?: string };
 
 export type UpcomingEvent = { dateISO: string; what: string; source: EntrySource };
 
@@ -74,6 +75,7 @@ function parseEntry(v: unknown): TimelineEntry | null {
   if (!o || !source || !isStr(o.dateISO) || !DATE.test(o.dateISO) || !isStr(o.text) || !BASES.includes(o.basis as Basis)) return null;
   const e: TimelineEntry = { dateISO: o.dateISO, text: o.text, basis: o.basis as Basis, source };
   if (isStr(o.conflictGroup)) e.conflictGroup = o.conflictGroup;
+  if (isStr(o.body)) e.body = o.body;
   if (e.basis === 'conflicting' && !e.conflictGroup) return null;
   return e;
 }
