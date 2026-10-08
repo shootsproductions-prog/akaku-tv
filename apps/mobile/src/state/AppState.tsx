@@ -6,7 +6,7 @@ import { useColorScheme } from 'react-native';
 import { KUPUNA_SCALE, THEMES, type Palette } from '../theme';
 
 export type ThemePref = 'system' | 'light' | 'dark';
-export type SheetName = 'cast' | 'signup' | 'submit' | 'report' | 'follow' | null;
+export type SheetName = 'cast' | 'signup' | 'submit' | 'report' | 'follow' | 'welcome' | null;
 export type FollowedIssue = { name: string; on: boolean; count: number };
 
 type AppState = {

@@ -130,12 +130,17 @@ export function isHeatingUp(s: Signals): boolean {
   return s.meetingsLast30d >= 2 && s.meetingsLast30d >= (2 * s.meetingsLast90d) / 3;
 }
 
+const shortDate = (iso: string) => {
+  const d = new Date(`${iso.slice(0, 10)}T12:00:00`);
+  return Number.isNaN(d.getTime()) ? iso : d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+};
+
 /** The reason an issue ranks where it does, in words, taken straight from the counts. */
 export function whyRanked(i: CatalogIssue): string {
   const n = i.signals.meetingsLast30d;
   const parts = [n === 0 ? 'Not discussed in a meeting this month' : `Discussed in ${n} ${n === 1 ? 'meeting' : 'meetings'} this month`];
   const ev = i.signals.upcomingEvent;
-  if (ev) parts.push(`${ev.what} on ${ev.dateISO}`);
+  if (ev) parts.push(`${ev.what} ${shortDate(ev.dateISO)}`);
   return parts.join(' · ');
 }
 

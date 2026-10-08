@@ -24,7 +24,7 @@ type ContentState = {
 const build = (recaps: PublishedRecap[]): ContentState => {
   const sorted = sortRecaps(recaps);
   return {
-    meetings: sorted.length ? sorted.map(r => r.meeting) : MEETINGS,
+    meetings: sorted.length ? sorted.map(r => r.meeting) : __DEV__ ? MEETINGS : [],
     recaps: sorted,
     issuesByLabel: groupIssues(sorted, ISSUE_LABELS),
     recapFor: id => sorted.find(r => r.meeting.id === id || r.videoId === id),
