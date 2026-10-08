@@ -40,7 +40,7 @@ export default function MeetingsScreen() {
         </Txt>
         {demo ? (
           <Txt style={{ fontSize: 14, lineHeight: 21, color: colors.mist, marginTop: 4 }}>
-            Every meeting on Channel 53, every County release, every deadline — read, cross-checked and written down in plain English, with the proof one tap away.
+            County meetings from Channel 53, written up in plain English. Every line links to the moment in the video, so you can check it yourself.
           </Txt>
         ) : null}
       </View>
