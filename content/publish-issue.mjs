@@ -66,6 +66,7 @@ export function buildPublishedIssue(file) {
     if (!nonEmpty(e.dateISO) || !DATE.test(e.dateISO)) throw new Error(`${where}: dateISO must be a date`);
     if (!BASES.includes(e.basis)) throw new Error(`${where}: basis must be one of ${BASES.join(', ')}`);
     const out = { dateISO: e.dateISO, text: e.text, basis: e.basis, source: checkSource(e.source, where) };
+    if (nonEmpty(e.body)) out.body = e.body;
     if (e.basis === 'conflicting') {
       if (!nonEmpty(e.conflictGroup)) throw new Error(`${where}: a conflicting entry needs a conflictGroup shared with the entry it disagrees with`);
       out.conflictGroup = e.conflictGroup;

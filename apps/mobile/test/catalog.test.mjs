@@ -119,3 +119,15 @@ test('heating up and ranking follow the raw counts', () => {
   assert.equal(whyRanked(mk('x', { signals: sig(4, 6) })), 'Discussed in 4 meetings this month');
   assert.equal(whyRanked(mk('x', { signals: sig(0, 2) })), 'Not discussed in a meeting this month');
 });
+
+test('an entry may name the board it came from', () => {
+  const { dir, run, put } = sandbox();
+  const withBody = EX();
+  withBody.timeline[0].body = 'Board of Water Supply';
+  withBody.timeline[1].body = '   ';
+  assert.equal(run(put('b.json', withBody)).status, 0);
+  const out = readJson(join(dir, 'example-issue.json'));
+  assert.equal(out.timeline[0].body, 'Board of Water Supply');
+  assert.ok(!('body' in out.timeline[1]));
+  assert.equal(parseCatalogIssue(out).timeline.find(e => e.dateISO === '2026-09-28').body, 'Board of Water Supply');
+});

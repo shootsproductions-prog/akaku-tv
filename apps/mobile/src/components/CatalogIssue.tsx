@@ -67,7 +67,7 @@ function Entry({ e }: { e: TimelineEntry }) {
   return (
     <View style={{ gap: 6 }}>
       <View style={{ flexDirection: 'row', alignItems: 'center', gap: 8, flexWrap: 'wrap' }}>
-        <Txt style={{ fontSize: 12, fontWeight: '600', color: colors.mist }}>{day(e.dateISO)}</Txt>
+        <Txt style={{ fontSize: 12, fontWeight: '600', color: colors.mist }}>{e.body ? `${day(e.dateISO)} · ${e.body}` : day(e.dateISO)}</Txt>
         <Tag label={BASIS_LABEL[e.basis]} tone={e.basis === 'confirmed' ? 'blue' : 'wash'} />
       </View>
       <Txt style={{ fontSize: 16, lineHeight: 24 }}>{e.text}</Txt>
