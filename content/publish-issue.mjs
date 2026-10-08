@@ -47,6 +47,7 @@ export function buildPublishedIssue(file) {
   if (!nonEmpty(file.disclaimer)) throw new Error('the disclaimer is missing. Every issue must carry "Summarized by Akakū Intelligence. It can make mistakes."');
   if (!Array.isArray(file.topics) || !file.topics.length || !file.topics.every(nonEmpty)) throw new Error('topics must be a list with at least one topic');
   for (const k of ['firstSeenISO', 'lastSeenISO']) if (!nonEmpty(file[k]) || !DATE.test(file[k])) throw new Error(`${k} must be a date like 2026-10-06`);
+  if (file.asOfISO != null && (!nonEmpty(file.asOfISO) || !DATE.test(file.asOfISO))) throw new Error('asOfISO must be a date like 2026-10-06 (when the sources were last checked)');
 
   const sig = file.signals;
   if (!sig || !['meetingsLast30d', 'meetingsLast90d', 'mentionsLast30d'].every(k => count(sig[k]))) {
@@ -67,6 +68,7 @@ export function buildPublishedIssue(file) {
     if (!BASES.includes(e.basis)) throw new Error(`${where}: basis must be one of ${BASES.join(', ')}`);
     const out = { dateISO: e.dateISO, text: e.text, basis: e.basis, source: checkSource(e.source, where) };
     if (nonEmpty(e.body)) out.body = e.body;
+    if (nonEmpty(e.speaker)) out.speaker = e.speaker.trim();
     if (e.basis === 'conflicting') {
       if (!nonEmpty(e.conflictGroup)) throw new Error(`${where}: a conflicting entry needs a conflictGroup shared with the entry it disagrees with`);
       out.conflictGroup = e.conflictGroup;
@@ -87,6 +89,7 @@ export function buildPublishedIssue(file) {
     firstSeenISO: file.firstSeenISO,
     lastSeenISO: file.lastSeenISO,
     signals: { meetingsLast30d: sig.meetingsLast30d, meetingsLast90d: sig.meetingsLast90d, mentionsLast30d: sig.mentionsLast30d, upcomingEvent },
+    ...(nonEmpty(file.asOfISO) ? { asOfISO: file.asOfISO.slice(0, 10) } : {}),
     timeline,
     sourceTypes: [...new Set(timeline.map(e => e.source.type))],
     disclaimer: file.disclaimer,

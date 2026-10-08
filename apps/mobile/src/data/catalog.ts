@@ -17,8 +17,8 @@ export type EntrySource =
   | { type: 'meeting'; videoId: string; ts: string; retrievedISO: string }
   | { type: Exclude<SourceType, 'meeting'>; url: string; publisher: string; quote: string; retrievedISO: string };
 
-/** `body` is the board or body the fact came from, for example "Board of Water Supply". */
-export type TimelineEntry = { dateISO: string; text: string; basis: Basis; source: EntrySource; conflictGroup?: string; body?: string };
+/** `body` is the board or body the fact came from, for example "Board of Water Supply". `speaker` names who said it, when known. */
+export type TimelineEntry = { dateISO: string; text: string; basis: Basis; source: EntrySource; conflictGroup?: string; body?: string; speaker?: string };
 
 export type UpcomingEvent = { dateISO: string; what: string; source: EntrySource };
 
@@ -42,6 +42,8 @@ export type CatalogIssue = {
   timeline: TimelineEntry[];
   disclaimer: string;
   sourceTypes: SourceType[];
+  /** When Pipeline last checked the sources (a date). Falls back to the newest source retrieval, then to lastSeenISO. */
+  asOfISO: string;
 };
 
 export type CatalogIndex = { issues: string[]; aliases: Record<string, string>; defaultFollows: string[] };
@@ -76,6 +78,7 @@ function parseEntry(v: unknown): TimelineEntry | null {
   const e: TimelineEntry = { dateISO: o.dateISO, text: o.text, basis: o.basis as Basis, source };
   if (isStr(o.conflictGroup)) e.conflictGroup = o.conflictGroup;
   if (isStr(o.body)) e.body = o.body;
+  if (isStr(o.speaker)) e.speaker = o.speaker.trim();
   if (e.basis === 'conflicting' && !e.conflictGroup) return null;
   return e;
 }
@@ -106,6 +109,7 @@ export function parseCatalogIssue(raw: unknown): CatalogIssue | null {
     timeline,
     disclaimer: isStr(o.disclaimer) ? o.disclaimer : 'Summarized by Akakū Intelligence. It can make mistakes.',
     sourceTypes: [...new Set(timeline.map(e => e.source.type))],
+    asOfISO: isStr(o.asOfISO) && DATE.test(o.asOfISO) ? o.asOfISO.slice(0, 10) : timeline.map(e => e.source.retrievedISO).filter(d => DATE.test(d)).sort().at(-1)?.slice(0, 10) ?? o.lastSeenISO.slice(0, 10),
   };
 }
 
@@ -136,6 +140,9 @@ const shortDate = (iso: string) => {
   const d = new Date(`${iso.slice(0, 10)}T12:00:00`);
   return Number.isNaN(d.getTime()) ? iso : d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
 };
+
+/** True when the sources were last checked more than `days` ago, so "this month" counts may be out of date. */
+export const isStale = (i: CatalogIssue, now = Date.now(), days = 14) => now - Date.parse(`${i.asOfISO}T12:00:00`) > days * 86_400_000;
 
 /** The reason an issue ranks where it does, in words, taken straight from the counts. */
 export function whyRanked(i: CatalogIssue): string {

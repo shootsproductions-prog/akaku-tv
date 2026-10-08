@@ -6,7 +6,7 @@ import { join } from 'node:path';
 import { test } from 'node:test';
 import { fileURLToPath } from 'node:url';
 
-import { isHeatingUp, parseCatalogIssue, parseIndex, rankIssues, resolveSlug, whyRanked } from '../src/data/catalog.ts';
+import { isHeatingUp, isStale, parseCatalogIssue, parseIndex, rankIssues, resolveSlug, whyRanked } from '../src/data/catalog.ts';
 
 const script = fileURLToPath(new URL('../../../content/publish-issue.mjs', import.meta.url));
 const fixture = name => fileURLToPath(new URL(`./fixtures/${name}`, import.meta.url));
@@ -130,4 +130,26 @@ test('an entry may name the board it came from', () => {
   assert.equal(out.timeline[0].body, 'Board of Water Supply');
   assert.ok(!('body' in out.timeline[1]));
   assert.equal(parseCatalogIssue(out).timeline.find(e => e.dateISO === '2026-09-28').body, 'Board of Water Supply');
+});
+
+test('speaker and as-of date are optional, validated, and have sensible fallbacks', () => {
+  const { dir, run, put } = sandbox();
+  const f = EX();
+  f.asOfISO = '2026-10-08T09:00:00Z';
+  f.timeline[0].speaker = '  Board chair ';
+  assert.equal(run(put('s.json', f)).status, 0);
+  const out = readJson(join(dir, 'example-issue.json'));
+  assert.equal(out.asOfISO, '2026-10-08');
+  assert.equal(out.timeline[0].speaker, 'Board chair');
+  assert.equal(parseCatalogIssue(out).asOfISO, '2026-10-08');
+  assert.match(run(put('bad.json', { ...EX(), asOfISO: 'yesterday' })).stderr, /asOfISO/);
+  // No asOfISO: newest source retrieval, then lastSeenISO.
+  assert.equal(parseCatalogIssue(EX()).asOfISO, '2026-10-06');
+  assert.equal(parseCatalogIssue({ ...EX(), timeline: [] }).asOfISO, '2026-10-06');
+});
+
+test('a page is stale after two weeks without a refresh', () => {
+  const i = parseCatalogIssue({ ...EX(), asOfISO: '2026-10-01' });
+  assert.equal(isStale(i, Date.parse('2026-10-10T00:00:00Z')), false);
+  assert.equal(isStale(i, Date.parse('2026-10-20T00:00:00Z')), true);
 });

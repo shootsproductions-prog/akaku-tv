@@ -1,6 +1,6 @@
 import { ScrollView, View } from 'react-native';
 
-import { isHeatingUp, whyRanked, type Basis, type CatalogIssue, type TimelineEntry } from '../data/catalog.ts';
+import { isHeatingUp, isStale, whyRanked, type Basis, type CatalogIssue, type EntrySource, type TimelineEntry } from '../data/catalog.ts';
 import { openUrl, openVideo } from '../lib/navigate';
 import { useApp } from '../state/AppState';
 import { BLUE, GUTTER } from '../theme';
@@ -42,9 +42,8 @@ function group(entries: TimelineEntry[]): TimelineEntry[][] {
   return out;
 }
 
-function Proof({ e }: { e: TimelineEntry }) {
+function Proof({ source: s }: { source: EntrySource }) {
   const { colors } = useApp();
-  const s = e.source;
   if (s.type === 'meeting') {
     return (
       <Press onPress={() => openVideo(s.videoId, s.ts)} accessibilityRole="link" style={{ alignSelf: 'flex-start', paddingVertical: 4 }}>
@@ -71,7 +70,8 @@ function Entry({ e }: { e: TimelineEntry }) {
         <Tag label={BASIS_LABEL[e.basis]} tone={e.basis === 'confirmed' ? 'blue' : 'wash'} />
       </View>
       <Txt style={{ fontSize: 16, lineHeight: 24 }}>{e.text}</Txt>
-      <Proof e={e} />
+      {e.speaker ? <Txt style={{ fontSize: 13, color: colors.mist }}>— {e.speaker}</Txt> : null}
+      <Proof source={e.source} />
     </View>
   );
 }
@@ -109,6 +109,10 @@ export function CatalogIssueScreen({ issue }: { issue: CatalogIssue }) {
             <Txt style={{ fontSize: 18, fontWeight: '700', color: '#fff' }}>
               {issue.signals.upcomingEvent.what} · {day(issue.signals.upcomingEvent.dateISO)}
             </Txt>
+            <Txt style={{ fontSize: 13, color: 'rgba(255,255,255,0.7)' }}>
+              {issue.signals.upcomingEvent.source.type === 'meeting' ? 'Said at a meeting. Dates can change.' : 'From a public notice. Dates can change.'}
+            </Txt>
+            <Proof source={issue.signals.upcomingEvent.source} />
           </Panel>
         ) : null}
 
@@ -139,8 +143,11 @@ export function CatalogIssueScreen({ issue }: { issue: CatalogIssue }) {
 
         <View style={{ gap: 6 }}>
           <Txt style={{ fontSize: 12, lineHeight: 18, color: colors.mist }}>
-            From Akakū’s recorded meetings{issue.sourceTypes.some(t => t !== 'meeting') ? ` and ${issue.sourceTypes.filter(t => t !== 'meeting').map(t => SOURCE_LABEL[t].toLowerCase()).join(', ')}` : ''}. Last updated {day(issue.lastSeenISO)}.
+            From Akakū’s recorded meetings{issue.sourceTypes.some(t => t !== 'meeting') ? ` and ${issue.sourceTypes.filter(t => t !== 'meeting').map(t => SOURCE_LABEL[t].toLowerCase()).join(', ')}` : ''}. Sources last checked {day(issue.asOfISO)}.
           </Txt>
+          {isStale(issue) ? (
+            <Txt style={{ fontSize: 12, lineHeight: 18, color: colors.mist }}>This page hasn’t been refreshed lately, so newer meetings may not be included yet.</Txt>
+          ) : null}
           <Txt style={{ fontSize: 12, lineHeight: 18, color: colors.mist }}>{issue.disclaimer}</Txt>
         </View>
       </ScrollView>
