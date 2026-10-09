@@ -7,6 +7,8 @@ import { ICON } from '../../src/components/icons';
 import { CastButton, YouTubeEmbed } from '../../src/components/media';
 import { Txt } from '../../src/components/Txt';
 import { Eyebrow, H2, OverlayLabel, Press, Thumb } from '../../src/components/ui';
+import { SUBMIT_URL } from '../../src/data/links';
+import { openUrl } from '../../src/lib/navigate';
 import { durationLabel, fetchAllVideos, timeAgo, VIDEO_SOURCES, type VideoPost } from '../../src/data/youtubeFeed';
 import { useApp } from '../../src/state/AppState';
 import { BLUE, GUTTER } from '../../src/theme';
@@ -14,7 +16,7 @@ import { BLUE, GUTTER } from '../../src/theme';
 const PAGE = 15;
 
 export default function VideosScreen() {
-  const { colors, user, openSubmit } = useApp();
+  const { colors } = useApp();
   const insets = useSafeAreaInsets();
   // undefined = loading, null = could not load.
   const [videos, setVideos] = useState<VideoPost[] | null | undefined>(undefined);
@@ -34,10 +36,12 @@ export default function VideosScreen() {
           <Eyebrow>Videos</Eyebrow>
           <H2>Maui, by the people who live here.</H2>
         </View>
-        <Press onPress={openSubmit} accessibilityRole="button" accessibilityLabel={user ? 'Submit a video' : 'Sign up to submit'} style={styles.submit}>
-          <Icon d={ICON.plus} size={18} color="#fff" strokeWidth={2.2} />
-          <Txt style={{ fontSize: 14, fontWeight: '600', color: '#fff' }}>Submit</Txt>
-        </Press>
+        {SUBMIT_URL ? (
+          <Press onPress={() => openUrl(SUBMIT_URL)} accessibilityRole="link" accessibilityLabel="Submit a video to Akakū" style={styles.submit}>
+            <Icon d={ICON.plus} size={18} color="#fff" strokeWidth={2.2} />
+            <Txt style={{ fontSize: 14, fontWeight: '600', color: '#fff' }}>Submit</Txt>
+          </Press>
+        ) : null}
       </View>
 
       {videos === undefined ? (
