@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // Builds the app's privacy policy and support page as plain, fast HTML (no scripts, no trackers).
 //
-//   node docs/site/build.mjs        -> docs/site/dist/privacy.html and support.html
+//   node docs/site/build.mjs        -> docs/site/dist/{privacy,support}.html (whole page) and .body.html (just the text)
 //
 // Set "contactEmail" in docs/site/config.json first: the build refuses to run with it empty,
 // so a page can never go live with a blank placeholder. Host the two files anywhere
@@ -94,7 +94,9 @@ function main() {
       process.exit(1);
     }
     writeFileSync(join(dir, 'dist', `${file}.html`), page(title, body));
-    console.log(`Built docs/site/dist/${file}.html`);
+    // Just the text, for pasting into a WordPress "Custom HTML" block so the site's own look applies.
+    writeFileSync(join(dir, 'dist', `${file}.body.html`), body + '\n');
+    console.log(`Built docs/site/dist/${file}.html and ${file}.body.html`);
   }
 }
 
