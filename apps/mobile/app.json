@@ -12,7 +12,8 @@
       "infoPlist": {
         "UIBackgroundModes": [
           "audio"
-        ]
+        ],
+        "ITSAppUsesNonExemptEncryption": false
       }
     },
     "android": {
@@ -35,7 +36,8 @@
       [
         "expo-audio",
         {
-          "microphonePermission": false
+          "microphonePermission": false,
+          "recordAudioAndroid": false
         }
       ]
     ],
@@ -48,6 +50,7 @@
         "backgroundColor": "#0e1218"
       }
     },
-    "owner": "shootsproductions"
+    "owner": "shootsproductions",
+    "description": "Watch Akakū's channels live, listen to KAKU 88.5, and follow the issues in Maui County."
   }
 }
