@@ -6,6 +6,7 @@ import { CastButton } from '../../src/components/media';
 import { Txt } from '../../src/components/Txt';
 import { Card, DetailHeader, Eyebrow, OverlayLabel, ProofText, ReadAloudButton, Thumb } from '../../src/components/ui';
 import { DEFAULT_DISCLAIMER } from '../../src/data/issues.ts';
+import { ReportLink } from '../../src/components/IssueBits';
 import { isYoutubeId, youtubeThumb } from '../../src/lib/recaps.ts';
 import { voteSides } from '../../src/lib/votes.ts';
 import { openVideo } from '../../src/lib/navigate';
@@ -104,6 +105,7 @@ export default function MeetingScreen() {
             ))}
           </View>
           <Txt style={{ fontSize: 12, lineHeight: 18, color: colors.mist }}>{disclaimer}</Txt>
+          <ReportLink ctx={{ kind: 'recap', id: m.id, label: `${m.body}, ${m.date}` }} />
         </View>
       </ScrollView>
     </View>

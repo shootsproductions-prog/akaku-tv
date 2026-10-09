@@ -1,5 +1,7 @@
 import { View } from 'react-native';
 
+import { feedbackConfigured, type FeedbackContext } from '../lib/feedback.ts';
+
 import { isHeatingUp, whyRanked, type CatalogIssue } from '../data/catalog.ts';
 import { useApp } from '../state/AppState';
 import { useCatalog } from '../state/Catalog';
@@ -8,6 +10,17 @@ import { Icon } from './Icon';
 import { ICON } from './icons';
 import { Txt } from './Txt';
 import { Press, Tag } from './ui';
+
+/** "Report an error". Hidden in real builds until the report form is set up. */
+export function ReportLink({ ctx, label = 'Report an error' }: { ctx: FeedbackContext; label?: string }) {
+  const { colors, openFeedback } = useApp();
+  if (!feedbackConfigured() && !__DEV__) return null;
+  return (
+    <Press onPress={() => openFeedback(ctx)} accessibilityRole="button" accessibilityLabel={`${label}: ${ctx.label}`} style={{ alignSelf: 'flex-start', paddingVertical: 4 }}>
+      <Txt style={{ fontSize: 13, color: colors.mist, textDecorationLine: 'underline' }}>{label}</Txt>
+    </Press>
+  );
+}
 
 /** Shown wherever sample issues appear, so they are never mistaken for real ones. */
 export function SampleTag() {

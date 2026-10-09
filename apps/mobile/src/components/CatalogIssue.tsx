@@ -4,7 +4,7 @@ import { isHeatingUp, isStale, whyRanked, type Basis, type CatalogIssue, type En
 import { openUrl, openVideo } from '../lib/navigate';
 import { useApp } from '../state/AppState';
 import { BLUE, GUTTER } from '../theme';
-import { FollowToggle, IssueTags, SampleTag } from './IssueBits';
+import { FollowToggle, IssueTags, ReportLink, SampleTag } from './IssueBits';
 import { Txt } from './Txt';
 import { DetailHeader, Eyebrow, Panel, Press, Stat, Tag } from './ui';
 
@@ -61,7 +61,7 @@ function Proof({ source: s }: { source: EntrySource }) {
   );
 }
 
-function Entry({ e }: { e: TimelineEntry }) {
+function Entry({ e, slug }: { e: TimelineEntry; slug: string }) {
   const { colors } = useApp();
   return (
     <View style={{ gap: 6 }}>
@@ -71,10 +71,15 @@ function Entry({ e }: { e: TimelineEntry }) {
       </View>
       <Txt style={{ fontSize: 16, lineHeight: 24 }}>{e.text}</Txt>
       {e.speaker ? <Txt style={{ fontSize: 13, color: colors.mist }}>— {e.speaker}</Txt> : null}
-      <Proof source={e.source} />
+      <View style={{ flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', gap: 12 }}>
+        <Proof source={e.source} />
+        <ReportLink ctx={{ kind: 'entry', id: slug, label: e.text, where: whereOf(e) }} />
+      </View>
     </View>
   );
 }
+
+const whereOf = (e: TimelineEntry) => (e.source.type === 'meeting' ? `${e.source.videoId} at ${e.source.ts}` : e.source.url);
 
 export function CatalogIssueScreen({ issue }: { issue: CatalogIssue }) {
   const { colors } = useApp();
@@ -131,11 +136,11 @@ export function CatalogIssueScreen({ issue }: { issue: CatalogIssue }) {
                 <View key={i} style={{ gap: 14, padding: 14, borderRadius: 14, borderWidth: 1, borderColor: colors.border }}>
                   <Txt style={{ fontSize: 13, fontWeight: '700', color: colors.text }}>Sources disagree. Here is each one.</Txt>
                   {g.map((e, j) => (
-                    <Entry key={j} e={e} />
+                    <Entry key={j} e={e} slug={issue.slug} />
                   ))}
                 </View>
               ) : (
-                <Entry key={i} e={g[0]} />
+                <Entry key={i} e={g[0]} slug={issue.slug} />
               ),
             )}
           </View>
@@ -149,6 +154,7 @@ export function CatalogIssueScreen({ issue }: { issue: CatalogIssue }) {
             <Txt style={{ fontSize: 12, lineHeight: 18, color: colors.mist }}>This page hasn’t been refreshed lately, so newer meetings may not be included yet.</Txt>
           ) : null}
           <Txt style={{ fontSize: 12, lineHeight: 18, color: colors.mist }}>{issue.disclaimer}</Txt>
+          <ReportLink ctx={{ kind: 'issue', id: issue.slug, label: issue.title }} />
         </View>
       </ScrollView>
     </View>

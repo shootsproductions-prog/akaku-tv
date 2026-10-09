@@ -8,8 +8,12 @@ import { ICON } from '../../src/components/icons';
 import { YouTubeEmbed } from '../../src/components/media';
 import { Txt } from '../../src/components/Txt';
 import { Button, Eyebrow, Panel, Press } from '../../src/components/ui';
+import { openUrl } from '../../src/lib/navigate';
 import { useApp } from '../../src/state/AppState';
 import { BLUE, BLUE_SOFT, GUTTER } from '../../src/theme';
+
+/** Akakū's own giving page: one-time gifts and monthly membership. */
+const DONATE_URL = 'https://www.akaku.org/give/';
 
 /** "Our story" — the welcome video on akaku.org/about. */
 const STORY_VIDEO = '84dtX0NDPN0';
@@ -80,8 +84,8 @@ export default function SupportScreen() {
 
       <View style={{ paddingHorizontal: GUTTER, gap: 14 }}>
         <Txt style={{ fontSize: 17, fontWeight: '700' }}>Become a sustaining member</Txt>
-        <Txt style={{ fontSize: 14, lineHeight: 22, color: colors.mist }}>Memberships and gifts are handled securely on akaku.org.</Txt>
-        <Button label="Give or join at akaku.org →" height={52} fontSize={17} onPress={() => Linking.openURL('https://www.akaku.org/')} />
+        <Txt style={{ fontSize: 14, lineHeight: 22, color: colors.mist }}>Give once, or become a monthly member. Gifts are handled securely on akaku.org.</Txt>
+        <Button label="Give or become a member →" height={52} fontSize={17} onPress={() => openUrl(DONATE_URL)} />
       </View>
     </ScrollView>
   );

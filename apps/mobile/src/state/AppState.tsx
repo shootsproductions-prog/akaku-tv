@@ -3,10 +3,11 @@ import { ISSUE_LABELS, isIssueLabel } from '../data/issues.ts';
 import { createContext, useCallback, useContext, useEffect, useMemo, useState, type ReactNode } from 'react';
 import { useColorScheme } from 'react-native';
 
+import type { FeedbackContext } from '../lib/feedback.ts';
 import { KUPUNA_SCALE, THEMES, type Palette } from '../theme';
 
 export type ThemePref = 'system' | 'light' | 'dark';
-export type SheetName = 'cast' | 'signup' | 'submit' | 'report' | 'follow' | 'welcome' | null;
+export type SheetName = 'cast' | 'signup' | 'submit' | 'report' | 'follow' | 'welcome' | 'feedback' | null;
 export type FollowedIssue = { name: string; on: boolean; count: number };
 
 type AppState = {
@@ -28,6 +29,9 @@ type AppState = {
   /** Issue name the weekly-report sheet is showing. */
   reportIssue: string | null;
   openSheet: (name: Exclude<SheetName, null>, opts?: { issue?: string }) => void;
+  /** What the "Report an error" sheet is about. */
+  feedbackCtx: FeedbackContext | null;
+  openFeedback: (ctx: FeedbackContext) => void;
   closeSheet: () => void;
 
   // Account — required to publish, not to watch
@@ -58,6 +62,7 @@ export function AppStateProvider({ children }: { children: ReactNode }) {
   const [castDevice, setCastDevice] = useState<string | null>(null);
   const [sheet, setSheet] = useState<SheetName>(null);
   const [reportIssue, setReportIssue] = useState<string | null>(null);
+  const [feedbackCtx, setFeedbackCtx] = useState<FeedbackContext | null>(null);
   const [user, setUser] = useState<string | null>(null);
   const [issues, setIssues] = useState(INITIAL_ISSUES);
   const [reminders, setReminders] = useState<Record<string, boolean>>({ c4: true });
@@ -105,6 +110,11 @@ export function AppStateProvider({ children }: { children: ReactNode }) {
         if (opts?.issue) setReportIssue(opts.issue);
         setSheet(name);
       },
+      feedbackCtx,
+      openFeedback: ctx => {
+        setFeedbackCtx(ctx);
+        setSheet('feedback');
+      },
       closeSheet: () => setSheet(null),
       user,
       signIn: () => {
@@ -119,7 +129,7 @@ export function AppStateProvider({ children }: { children: ReactNode }) {
       reminders,
       toggleReminder: id => setReminders(r => ({ ...r, [id]: !r[id] })),
     }),
-    [themePref, isDark, kupuna, castDevice, sheet, reportIssue, user, issues, toggleFollow, reminders],
+    [themePref, isDark, kupuna, castDevice, sheet, reportIssue, feedbackCtx, user, issues, toggleFollow, reminders],
   );
 
   return <Ctx.Provider value={value}>{children}</Ctx.Provider>;
