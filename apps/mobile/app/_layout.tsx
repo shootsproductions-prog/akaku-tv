@@ -5,6 +5,7 @@ import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { SheetHost } from '../src/components/Sheets';
 import { AppStateProvider, useApp } from '../src/state/AppState';
 import { CatalogProvider } from '../src/state/Catalog';
+import { RadioProvider } from '../src/state/Radio';
 import { ContentProvider } from '../src/state/Content';
 
 export default function RootLayout() {
@@ -13,7 +14,9 @@ export default function RootLayout() {
       <AppStateProvider>
         <ContentProvider>
           <CatalogProvider>
-            <Root />
+            <RadioProvider>
+              <Root />
+            </RadioProvider>
           </CatalogProvider>
         </ContentProvider>
       </AppStateProvider>
