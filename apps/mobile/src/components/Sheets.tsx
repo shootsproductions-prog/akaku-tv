@@ -1,9 +1,11 @@
+import Constants from 'expo-constants';
 import { useState, type ReactNode } from 'react';
 import { ISSUE_LABELS } from '../data/issues.ts';
-import { KeyboardAvoidingView, Modal, Platform, Pressable, ScrollView, Share, StyleSheet, TextInput, View } from 'react-native';
+import { KeyboardAvoidingView, Linking, Modal, Platform, Pressable, ScrollView, Share, StyleSheet, TextInput, View } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import { CAST_DEVICES } from '../data/cast';
+import { MAX_COMMENT, sendReport } from '../lib/feedback.ts';
 import { EMPTY_ISSUE, ISSUES } from '../data/countyWatch';
 import { SUB_KINDS } from '../data/videos';
 import { plainText } from '../lib/segments';
@@ -25,7 +27,8 @@ export function SheetHost() {
     sheet === 'submit' ? <SubmitSheet /> :
     sheet === 'report' ? <ReportSheet /> :
     sheet === 'follow' ? <FollowSheet /> :
-    sheet === 'welcome' ? <WelcomeSheet /> : null;
+    sheet === 'welcome' ? <WelcomeSheet /> :
+    sheet === 'feedback' ? <FeedbackSheet /> : null;
   return (
     <Modal visible={!!sheet} transparent animationType="fade" onRequestClose={closeSheet} statusBarTranslucent>
       <KeyboardAvoidingView behavior={Platform.OS === 'ios' ? 'padding' : undefined} style={{ flex: 1 }}>
@@ -303,6 +306,52 @@ function WelcomeSheet() {
       </SheetTitle>
       <IssuePool />
       <Button label="Show me what’s new" onPress={closeSheet} height={50} bg={BLUE} />
+    </SheetFrame>
+  );
+}
+
+/** "Report an error": see what you are reporting, add a comment if you like, send. */
+function FeedbackSheet() {
+  const { colors, feedbackCtx, closeSheet } = useApp();
+  const [comment, setComment] = useState('');
+  const [state, setState] = useState<'idle' | 'sending' | 'sent' | 'failed'>('idle');
+  if (!feedbackCtx) return null;
+  const send = async () => {
+    setState('sending');
+    const meta = { platform: Platform.OS, version: String(Constants.expoConfig?.version ?? '') };
+    const r = await sendReport(feedbackCtx, comment, meta);
+    if (r.result === 'mail') {
+      Linking.openURL(r.url).catch(() => undefined);
+      setState('sent');
+    } else setState(r.result);
+  };
+  return (
+    <SheetFrame scroll>
+      <SheetTitle eyebrow="Report an error" title={state === 'sent' ? 'Thank you.' : 'Something look wrong?'}>
+        <Txt style={{ fontSize: 14, lineHeight: 21, color: colors.mist }}>
+          {state === 'sent' ? 'We’ll look into it and fix it if it’s wrong.' : 'Tell us what you saw and we’ll look into it.'}
+        </Txt>
+      </SheetTitle>
+      <View style={[styles.airRow, { backgroundColor: colors.surface }]}>
+        <Txt style={{ flex: 1, fontSize: 14, lineHeight: 21 }} numberOfLines={4}>{feedbackCtx.label}</Txt>
+      </View>
+      {state === 'sent' ? (
+        <Button label="Done" onPress={closeSheet} height={50} bg={BLUE} />
+      ) : (
+        <>
+          <TextInput
+            value={comment}
+            onChangeText={t => setComment(t.slice(0, MAX_COMMENT))}
+            placeholder="What’s wrong? (optional)"
+            placeholderTextColor={colors.mist}
+            multiline
+            accessibilityLabel="What’s wrong? (optional)"
+            style={[styles.input, { height: 110, paddingTop: 12, textAlignVertical: 'top', borderColor: colors.border, color: colors.text }]}
+          />
+          {state === 'failed' ? <Txt style={{ fontSize: 13, color: colors.mist }}>That didn’t send. Check your connection and try again.</Txt> : null}
+          <Button label={state === 'sending' ? 'Sending…' : 'Send'} onPress={state === 'sending' ? () => {} : send} height={50} bg={BLUE} />
+        </>
+      )}
     </SheetFrame>
   );
 }
