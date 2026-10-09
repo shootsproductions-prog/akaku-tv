@@ -5,7 +5,7 @@
 //   { title, host?, start, end }  with start and end as epoch seconds or ISO dates.
 // Both stay '' until Akakū provides them; the Radio tab then says listening here is coming
 // and never shows made-up shows.
-export const RADIO_STREAM_URL = '';
+export const RADIO_STREAM_URL = 'https://ice5.securenetsystems.net/KAKU';
 export const RADIO_SCHEDULE_URL = '';
 
 export type RadioShow = { title: string; host: string | null; start: number; end: number };
