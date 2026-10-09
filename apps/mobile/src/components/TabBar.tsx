@@ -3,8 +3,8 @@ import { useEffect, useRef } from 'react';
 import { Animated, Easing, Pressable, StyleSheet, View } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
-import { RADIO_SCHEDULE } from '../data/radio';
 import { useApp } from '../state/AppState';
+import { useRadio } from '../state/Radio';
 import { BLUE } from '../theme';
 import { Icon } from './Icon';
 import { ICON, TAB_ICON } from './icons';
@@ -19,7 +19,8 @@ const LABELS: Record<string, { label: string; icon: string }> = {
 };
 
 export function TabBar({ state, navigation }: BottomTabBarProps) {
-  const { colors, radioOn } = useApp();
+  const { colors } = useApp();
+  const { playing: radioOn } = useRadio();
   const insets = useSafeAreaInsets();
   const current = state.routes[state.index]?.name;
 
@@ -56,13 +57,13 @@ export function TabBar({ state, navigation }: BottomTabBarProps) {
 
 /** KAKU 88.5 keeps playing above the tab bar while you browse. */
 function MiniPlayer() {
-  const { colors, toggleRadio } = useApp();
-  const now = RADIO_SCHEDULE.find(r => r.now);
+  const { colors } = useApp();
+  const { toggle: toggleRadio, now } = useRadio();
   return (
     <View style={[styles.mini, { backgroundColor: colors.panel }]}>
       <Txt style={{ fontSize: 15, fontWeight: '700', color: '#fff' }}>88.5</Txt>
       <View style={{ flex: 1, minWidth: 0 }}>
-        <Txt style={{ fontSize: 13, fontWeight: '600', color: '#fff' }} numberOfLines={1}>{now?.show}</Txt>
+        <Txt style={{ fontSize: 13, fontWeight: '600', color: '#fff' }} numberOfLines={1}>{now?.title ?? 'KAKU 88.5 FM'}</Txt>
         <Txt style={{ fontSize: 11, color: 'rgba(255,255,255,0.7)' }}>KAKU 88.5 FM · live</Txt>
       </View>
       <LevelBars />

@@ -6,19 +6,22 @@ import { Icon } from '../../src/components/Icon';
 import { ICON } from '../../src/components/icons';
 import { CastButton, YouTubeEmbed } from '../../src/components/media';
 import { Txt } from '../../src/components/Txt';
-import { Eyebrow, H2, Press, Thumb } from '../../src/components/ui';
-import { fetchVideos, timeAgo, VIDEO_SOURCES, type VideoPost } from '../../src/data/youtubeFeed';
+import { Eyebrow, H2, OverlayLabel, Press, Thumb } from '../../src/components/ui';
+import { durationLabel, fetchAllVideos, timeAgo, VIDEO_SOURCES, type VideoPost } from '../../src/data/youtubeFeed';
 import { useApp } from '../../src/state/AppState';
 import { BLUE, GUTTER } from '../../src/theme';
+
+const PAGE = 15;
 
 export default function VideosScreen() {
   const { colors, user, openSubmit } = useApp();
   const insets = useSafeAreaInsets();
   // undefined = loading, null = could not load.
   const [videos, setVideos] = useState<VideoPost[] | null | undefined>(undefined);
+  const [shown, setShown] = useState(PAGE);
   useEffect(() => {
     let alive = true;
-    fetchVideos().then(v => alive && setVideos(v));
+    fetchAllVideos().then(v => alive && setVideos(v));
     return () => {
       alive = false;
     };
@@ -53,7 +56,16 @@ export default function VideosScreen() {
           </Press>
         </View>
       ) : (
-        videos.map(v => <Post key={v.id} v={v} />)
+        <>
+          {videos.slice(0, shown).map(v => (
+            <Post key={v.id} v={v} />
+          ))}
+          {shown < videos.length ? (
+            <Press onPress={() => setShown(n => n + PAGE)} accessibilityRole="button" style={{ alignSelf: 'center', paddingVertical: 16, paddingHorizontal: 24 }}>
+              <Txt style={{ fontSize: 15, fontWeight: '700', color: BLUE }}>Show more videos</Txt>
+            </Press>
+          ) : null}
+        </>
       )}
 
       <View style={{ paddingHorizontal: GUTTER, paddingVertical: 20 }}>
@@ -82,9 +94,12 @@ function Post({ v }: { v: VideoPost }) {
           {playing ? (
             <YouTubeEmbed id={v.id} title={v.title} />
           ) : (
-            <View style={styles.playDisc}>
-              <Icon d={ICON.play} size={26} color={BLUE} filled />
-            </View>
+            <>
+              <View style={styles.playDisc}>
+                <Icon d={ICON.play} size={26} color={BLUE} filled />
+              </View>
+              {v.durationSeconds ? <OverlayLabel style={{ right: 8, bottom: 8, paddingVertical: 2, paddingHorizontal: 6 }}>{durationLabel(v.durationSeconds)}</OverlayLabel> : null}
+            </>
           )}
         </Thumb>
       </Pressable>
