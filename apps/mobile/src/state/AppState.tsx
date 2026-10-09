@@ -20,10 +20,6 @@ type AppState = {
   scale: number;
   toggleKupuna: () => void;
 
-  // KAKU 88.5 — keeps playing across tabs
-  radioOn: boolean;
-  toggleRadio: () => void;
-
   // AirPlay / Cast
   castDevice: string | null;
   setCastDevice: (name: string | null) => void;
@@ -63,7 +59,6 @@ export function AppStateProvider({ children }: { children: ReactNode }) {
   const scheme = useColorScheme();
   const [themePref, setThemePref] = useState<ThemePref>('system');
   const [kupuna, setKupuna] = useState(false);
-  const [radioOn, setRadioOn] = useState(false);
   const [castDevice, setCastDevice] = useState<string | null>(null);
   const [sheet, setSheet] = useState<SheetName>(null);
   const [reportIssue, setReportIssue] = useState<string | null>(null);
@@ -107,8 +102,6 @@ export function AppStateProvider({ children }: { children: ReactNode }) {
       kupuna,
       scale: kupuna ? KUPUNA_SCALE : 1,
       toggleKupuna: () => setKupuna(k => !k),
-      radioOn,
-      toggleRadio: () => setRadioOn(r => !r),
       castDevice,
       setCastDevice,
       sheet,
@@ -136,7 +129,7 @@ export function AppStateProvider({ children }: { children: ReactNode }) {
       reminders,
       toggleReminder: id => setReminders(r => ({ ...r, [id]: !r[id] })),
     }),
-    [themePref, isDark, kupuna, radioOn, castDevice, sheet, reportIssue, feedbackCtx, user, issues, toggleFollow, reminders],
+    [themePref, isDark, kupuna, castDevice, sheet, reportIssue, feedbackCtx, user, issues, toggleFollow, reminders],
   );
 
   return <Ctx.Provider value={value}>{children}</Ctx.Provider>;
