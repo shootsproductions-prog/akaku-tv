@@ -7,7 +7,6 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { CAST_DEVICES } from '../data/cast';
 import { MAX_COMMENT, sendReport } from '../lib/feedback.ts';
 import { EMPTY_ISSUE, ISSUES } from '../data/countyWatch';
-import { SUB_KINDS } from '../data/videos';
 import { plainText } from '../lib/segments';
 import { useApp } from '../state/AppState';
 import { BLUE, BLUE_TINT, BLUE_WASH, FONT, GREEN, RADIUS, SCRIM, GUTTER } from '../theme';
@@ -23,8 +22,6 @@ export function SheetHost() {
   const { sheet, closeSheet } = useApp();
   const body =
     sheet === 'cast' ? <CastSheet /> :
-    sheet === 'signup' ? <SignupSheet /> :
-    sheet === 'submit' ? <SubmitSheet /> :
     sheet === 'report' ? <ReportSheet /> :
     sheet === 'follow' ? <FollowSheet /> :
     sheet === 'welcome' ? <WelcomeSheet /> :
@@ -100,106 +97,6 @@ function CastSheet() {
           </Pressable>
         ))}
       </View>
-    </SheetFrame>
-  );
-}
-
-function SignupSheet() {
-  const { colors, signIn } = useApp();
-  return (
-    <SheetFrame>
-      <SheetTitle eyebrow="Join Akakū" title="Watching is free. Publishing needs a name.">
-        <Txt style={{ fontSize: 14, lineHeight: 21, color: colors.mist }}>
-          Anyone can watch. To submit video, comment or follow issues with alerts, create a free Akakū account — your work airs under your real name, the way community media always has.
-        </Txt>
-      </SheetTitle>
-      <Button label="Continue with Apple" onPress={signIn} height={50} bg={colors.text} />
-      <Button label="Continue with Google" onPress={signIn} variant="quiet" height={50} />
-      <Button label="Use email" onPress={signIn} variant="outline" height={50} />
-      <Txt style={{ fontSize: 12, lineHeight: 18, color: colors.mist, textAlign: 'center' }}>Already a member or producer? The same login works at akaku.org.</Txt>
-    </SheetFrame>
-  );
-}
-
-function SubmitSheet() {
-  const { colors, user, closeSheet } = useApp();
-  const [file, setFile] = useState(false);
-  const [title, setTitle] = useState('');
-  const [kind, setKind] = useState(SUB_KINDS[0]);
-  const [air, setAir] = useState(true);
-  const [sent, setSent] = useState(false);
-
-  const send = () => {
-    if (sent) return closeSheet();
-    if (file) setSent(true);
-  };
-
-  return (
-    <SheetFrame scroll maxHeight="90%">
-      <SheetTitle eyebrow="Submit a video" title="Your story, on the air.">
-        <Txt style={{ fontSize: 12, color: colors.mist }}>
-          Publishing as <Txt style={{ fontSize: 12, fontWeight: '700' }}>{user ?? 'Guest'}</Txt>
-        </Txt>
-        <Txt style={{ fontSize: 14, lineHeight: 21, color: colors.mist }}>
-          Public comment, protest footage, a hula recital, a town hall your neighbors missed. It runs on Channel 54, the app and YouTube — your name on it, unedited.
-        </Txt>
-      </SheetTitle>
-
-      {/* Demo: production opens the camera roll / files picker and uploads direct to Mux. */}
-      <Pressable
-        onPress={() => setFile(true)}
-        accessibilityRole="button"
-        style={[styles.filePick, { borderColor: file ? BLUE : colors.mist, backgroundColor: file ? BLUE_TINT : 'transparent' }]}
-      >
-        <View style={styles.fileIcon}>
-          <Icon d={ICON.camera} size={22} color={BLUE} />
-        </View>
-        <View style={{ flex: 1, gap: 2 }}>
-          <Txt style={{ fontSize: 15, fontWeight: '700' }}>{file ? 'IMG_4821.mov · 2 min 14 s' : 'Choose a video'}</Txt>
-          <Txt style={{ fontSize: 12, color: colors.mist }}>{file ? 'Ready to upload · 412 MB' : 'From your camera roll or files · up to 2 hours'}</Txt>
-        </View>
-      </Pressable>
-
-      <View style={{ gap: 8 }}>
-        <Txt style={{ fontSize: 13, color: colors.mist }}>Title</Txt>
-        <TextInput
-          value={title}
-          onChangeText={setTitle}
-          placeholder="What is this, and where?"
-          placeholderTextColor={colors.mist}
-          style={[styles.input, { borderColor: colors.border, color: colors.text, backgroundColor: colors.bg }]}
-        />
-      </View>
-
-      <View style={{ gap: 8 }}>
-        <Txt style={{ fontSize: 13, color: colors.mist }}>Kind of video</Txt>
-        <View style={styles.wrap}>
-          {SUB_KINDS.map(k => (
-            <Chip key={k} label={k} selected={kind === k} onPress={() => setKind(k)} height={40} />
-          ))}
-        </View>
-      </View>
-
-      <View style={[styles.airRow, { backgroundColor: colors.surface }]}>
-        <Pressable
-          onPress={() => setAir(a => !a)}
-          accessibilityRole="switch"
-          accessibilityState={{ checked: air }}
-          accessibilityLabel="Also air on Channel 54"
-          style={[styles.toggle, { backgroundColor: air ? BLUE : colors.border }]}
-        >
-          <View style={[styles.knob, { left: air ? 21 : 3 }]} />
-        </Pressable>
-        <View style={{ flex: 1, gap: 2 }}>
-          <Txt style={{ fontSize: 14, fontWeight: '600' }}>Also air on Channel 54</Txt>
-          <Txt style={{ fontSize: 12, lineHeight: 17.4, color: colors.mist }}>Scheduled into the next community block. You'll get the air date by text.</Txt>
-        </View>
-      </View>
-
-      <Txt style={{ fontSize: 12, lineHeight: 18, color: colors.mist }}>
-        By submitting you confirm this is your work (or you have permission) and agree to Akakū's community media policies. Akakū does not review for viewpoint.
-      </Txt>
-      <Button label={sent ? "Submitted — we'll text you the air date" : 'Submit to Akakū →'} onPress={send} height={52} fontSize={17} bg={sent ? GREEN : file ? BLUE : colors.mist} />
     </SheetFrame>
   );
 }

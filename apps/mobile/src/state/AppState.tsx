@@ -7,7 +7,7 @@ import type { FeedbackContext } from '../lib/feedback.ts';
 import { KUPUNA_SCALE, THEMES, type Palette } from '../theme';
 
 export type ThemePref = 'system' | 'light' | 'dark';
-export type SheetName = 'cast' | 'signup' | 'submit' | 'report' | 'follow' | 'welcome' | 'feedback' | null;
+export type SheetName = 'cast' | 'report' | 'follow' | 'welcome' | 'feedback' | null;
 export type FollowedIssue = { name: string; on: boolean; count: number };
 
 type AppState = {
@@ -34,11 +34,6 @@ type AppState = {
   openFeedback: (ctx: FeedbackContext) => void;
   closeSheet: () => void;
 
-  // Account — required to publish, not to watch
-  user: string | null;
-  signIn: () => void;
-  openSubmit: () => void;
-
   // County Watch personalisation
   issues: FollowedIssue[];
   toggleFollow: (name: string) => void;
@@ -63,7 +58,6 @@ export function AppStateProvider({ children }: { children: ReactNode }) {
   const [sheet, setSheet] = useState<SheetName>(null);
   const [reportIssue, setReportIssue] = useState<string | null>(null);
   const [feedbackCtx, setFeedbackCtx] = useState<FeedbackContext | null>(null);
-  const [user, setUser] = useState<string | null>(null);
   const [issues, setIssues] = useState(INITIAL_ISSUES);
   const [reminders, setReminders] = useState<Record<string, boolean>>({ c4: true });
 
@@ -116,20 +110,13 @@ export function AppStateProvider({ children }: { children: ReactNode }) {
         setSheet('feedback');
       },
       closeSheet: () => setSheet(null),
-      user,
-      signIn: () => {
-        // Demo: Apple / Google / email all resolve to the same account.
-        setUser('Vini K.');
-        setSheet('submit');
-      },
-      openSubmit: () => setSheet(user ? 'submit' : 'signup'),
       issues,
       toggleFollow,
       isFollowing: name => issues.some(x => x.name === name && x.on),
       reminders,
       toggleReminder: id => setReminders(r => ({ ...r, [id]: !r[id] })),
     }),
-    [themePref, isDark, kupuna, castDevice, sheet, reportIssue, feedbackCtx, user, issues, toggleFollow, reminders],
+    [themePref, isDark, kupuna, castDevice, sheet, reportIssue, feedbackCtx, issues, toggleFollow, reminders],
   );
 
   return <Ctx.Provider value={value}>{children}</Ctx.Provider>;

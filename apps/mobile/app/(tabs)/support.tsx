@@ -8,12 +8,11 @@ import { ICON } from '../../src/components/icons';
 import { YouTubeEmbed } from '../../src/components/media';
 import { Txt } from '../../src/components/Txt';
 import { Button, Eyebrow, Panel, Press } from '../../src/components/ui';
+import Constants from 'expo-constants';
+import { DONATE_URL, PRIVACY_URL, SUPPORT_URL } from '../../src/data/links';
 import { openUrl } from '../../src/lib/navigate';
 import { useApp } from '../../src/state/AppState';
 import { BLUE, BLUE_SOFT, GUTTER } from '../../src/theme';
-
-/** Akakū's own giving page: one-time gifts and monthly membership. */
-const DONATE_URL = 'https://www.akaku.org/give/';
 
 /** "Our story" — the welcome video on akaku.org/about. */
 const STORY_VIDEO = '84dtX0NDPN0';
@@ -86,6 +85,19 @@ export default function SupportScreen() {
         <Txt style={{ fontSize: 17, fontWeight: '700' }}>Become a sustaining member</Txt>
         <Txt style={{ fontSize: 14, lineHeight: 22, color: colors.mist }}>Give once, or become a monthly member. Gifts are handled securely on akaku.org.</Txt>
         <Button label="Give or become a member →" height={52} fontSize={17} onPress={() => openUrl(DONATE_URL)} />
+      </View>
+      <View style={{ paddingHorizontal: GUTTER, paddingTop: 28, gap: 8 }}>
+        {SUPPORT_URL ? (
+          <Press onPress={() => openUrl(SUPPORT_URL)} accessibilityRole="link" style={{ alignSelf: 'flex-start', paddingVertical: 6 }}>
+            <Txt style={{ fontSize: 14, fontWeight: '600', color: BLUE }}>Help and support</Txt>
+          </Press>
+        ) : null}
+        {PRIVACY_URL ? (
+          <Press onPress={() => openUrl(PRIVACY_URL)} accessibilityRole="link" style={{ alignSelf: 'flex-start', paddingVertical: 6 }}>
+            <Txt style={{ fontSize: 14, fontWeight: '600', color: BLUE }}>Privacy policy</Txt>
+          </Press>
+        ) : null}
+        <Txt style={{ fontSize: 12, color: colors.mist }}>Akakū app {String(Constants.expoConfig?.version ?? '')}</Txt>
       </View>
     </ScrollView>
   );

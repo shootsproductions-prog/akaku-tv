@@ -36,3 +36,30 @@ Biggest risk: account enrollment. D-U-N-S and organization verification are the 
 - Support tab: one-time gift and monthly sustaining membership, handled on Akakū's existing donation page (opened in the in-app browser). No payment processing is built into the app.
 - Per-user cost is near zero (issues are prepared ahead of time and published as files), so free scales.
 - Revisit after the election with real numbers: opens, follows per person, return visits, gifts started from the app, and a short survey. Possible later member perks that cost real money to run (alerts, a weekly email digest) can be tested then; paywalling facts about county government is not planned.
+
+## Store privacy forms (draft answers, Oct 10; have Akakū's counsel review)
+Both stores ask what the app collects. This is what the app does today (the policy in `docs/site/privacy.md` says the same). A test fails if analytics, notifications, location, camera or contacts libraries are added without updating this.
+
+**Apple "App Privacy" (nutrition label)**
+- Tracking: **no**. The app does not track people across apps or sites.
+- Data collected: the only data Akakū receives is an optional "Report an error" (what was reported, an optional comment, device type and app version). Declare it as *Other User Content*, **not linked to identity, not used for tracking**, purpose *App Functionality / Customer Support*. If the stores treat the optional comment as "Customer Support" data, choose that. Everything else (follows, display settings) stays on the phone.
+- Third-party content (YouTube player, streams) may collect data under their own policies; the policy page says so. Check Apple's current wording on embedded players before submitting.
+- Age rating: no objectionable content; general audience. Not directed to children.
+- Also required: a **Support URL** (`SUPPORT_URL`) and a **Privacy Policy URL** (`PRIVACY_URL`) once the pages in `docs/site/` are hosted.
+
+**Google Play "Data safety"**
+- Data collected: **User content** (optional error reports) only; optional, not shared with third parties for their own use, encrypted in transit, can be deleted on request by emailing the contact address.
+- Data shared: none beyond the services needed to play video and audio (YouTube, streaming providers), which collect data under their own policies.
+- The app has no account, so the account-deletion question is "not applicable".
+- Same privacy policy URL.
+- Content rating questionnaire: news and civic information; no user-to-user communication.
+
+**Both stores**
+- The Support-tab "Give" button opens akaku.org in a browser (a nonprofit donation link). Apple has specific rules for nonprofit fundraising; confirm the current text and, if asked, state that Akakū is a registered nonprofit and gifts are processed on its website.
+- Disclose that summaries are AI-generated and may contain errors (store description, and the in-app disclaimer already says it).
+
+## Accounts: where things stand (Oct 10)
+- Apple Developer Program: nonprofit enrollment submitted, waiting for Apple to verify the organization and the signer's authority (they may phone or email).
+- Google Play: organization account created. Before publishing, change the public developer name from a person's name to Akakū and use shared organization contact details (the profile shows an email and phone number publicly).
+- Expo: username `shootsproductions` is set as the project owner in `apps/mobile/app.json`. It is a personal account; consider moving the project to an organization named `akaku` before launch so it does not depend on one person (an organization `shoots-productions` also exists on that account).
+- Next steps for a first build: `cd apps/mobile && npx eas-cli login && npx eas-cli init` (creates the project id), then `eas build --profile preview --platform ios`.

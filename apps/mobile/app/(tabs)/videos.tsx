@@ -14,7 +14,7 @@ import { BLUE, GUTTER } from '../../src/theme';
 const PAGE = 15;
 
 export default function VideosScreen() {
-  const { colors, user, openSubmit } = useApp();
+  const { colors } = useApp();
   const insets = useSafeAreaInsets();
   // undefined = loading, null = could not load.
   const [videos, setVideos] = useState<VideoPost[] | null | undefined>(undefined);
@@ -34,10 +34,6 @@ export default function VideosScreen() {
           <Eyebrow>Videos</Eyebrow>
           <H2>Maui, by the people who live here.</H2>
         </View>
-        <Press onPress={openSubmit} accessibilityRole="button" accessibilityLabel={user ? 'Submit a video' : 'Sign up to submit'} style={styles.submit}>
-          <Icon d={ICON.plus} size={18} color="#fff" strokeWidth={2.2} />
-          <Txt style={{ fontSize: 14, fontWeight: '600', color: '#fff' }}>Submit</Txt>
-        </Press>
       </View>
 
       {videos === undefined ? (
@@ -70,7 +66,7 @@ export default function VideosScreen() {
 
       <View style={{ paddingHorizontal: GUTTER, paddingVertical: 20 }}>
         <Txt style={{ fontSize: 13, lineHeight: 19.5, color: colors.mist }}>
-          Videos play from Akakū’s YouTube channel. Likes and comments are on YouTube. Community submissions air on Channel 54. Akakū doesn’t edit for viewpoint — only for the{' '}
+          Videos play from Akakū’s YouTube channel. Likes and comments are on YouTube. Akakū doesn’t edit for viewpoint — only for the{' '}
           <Txt style={{ fontSize: 13, color: BLUE, fontWeight: '600' }} onPress={() => Linking.openURL('https://www.akaku.org/policies-procedures/')}>
             community media policies
           </Txt>
@@ -126,7 +122,6 @@ function Post({ v }: { v: VideoPost }) {
 
 const styles = StyleSheet.create({
   header: { paddingTop: 12, paddingHorizontal: GUTTER, flexDirection: 'row', alignItems: 'flex-start', justifyContent: 'space-between', gap: 12 },
-  submit: { height: 44, flexDirection: 'row', alignItems: 'center', gap: 6, paddingHorizontal: 14, borderRadius: 999, backgroundColor: BLUE, marginTop: 4 },
   post: { gap: 12, paddingVertical: 16, paddingHorizontal: GUTTER, borderBottomWidth: 4 },
   playDisc: { position: 'absolute', width: 64, height: 64, borderRadius: 32, backgroundColor: 'rgba(255,255,255,0.94)', alignItems: 'center', justifyContent: 'center' },
   actions: { flexDirection: 'row', alignItems: 'center', gap: 4, marginHorizontal: -8 },
