@@ -39,7 +39,7 @@ export default function RadioScreen() {
               <Txt style={{ fontSize: 18, fontWeight: '700', lineHeight: 21.6, color: '#fff' }} numberOfLines={2}>
                 {now?.title ?? 'KAKU 88.5 FM'}
               </Txt>
-              {now?.host ? <Txt style={{ fontSize: 14, color: 'rgba(255,255,255,0.75)' }}>{now.host}</Txt> : null}
+              {now?.host || now?.desc ? <Txt style={{ fontSize: 14, color: 'rgba(255,255,255,0.75)' }}>{now.host ?? now.desc}</Txt> : null}
             </View>
             <CastButton color="#fff" iconSize={20} border="rgba(255,255,255,0.25)" />
           </View>
@@ -66,7 +66,7 @@ export default function RadioScreen() {
               <View key={s.start} style={[styles.slot, { borderBottomColor: colors.border }]}>
                 <Txt style={{ fontSize: 14, fontWeight: '600', minWidth: 76, color: colors.mist, fontVariant: ['tabular-nums'] }}>{clock(s.start)}</Txt>
                 <View style={{ flex: 1, gap: 2 }}>
-                  <Txt style={{ fontSize: 15, fontWeight: '600' }}>{s.title}</Txt>
+                  <Txt style={{ fontSize: 15, fontWeight: '600' }}>{s.title}{s.replay ? ' (Replay)' : ''}</Txt>
                   {s.host ? <Txt style={{ fontSize: 13, color: colors.mist }}>{s.host}</Txt> : null}
                 </View>
               </View>

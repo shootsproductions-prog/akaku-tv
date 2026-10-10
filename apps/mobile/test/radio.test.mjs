@@ -31,3 +31,18 @@ test('on air now and what is coming up', () => {
   assert.deepEqual(r.upcoming.map(s => s.title), ['C']);
   assert.equal(radioNowNext(shows, 9000 * 1000).now, null);
 });
+
+test('reads the akaku.org { ready, now, next } shape', () => {
+  const raw = {
+    ready: true,
+    now: { title: 'A', desc: ' One line. ', start: 1000, end: 2000, replay: false },
+    next: [{ title: 'B', desc: '', start: 2000, end: 3000, replay: true }],
+  };
+  const a = parseRadioSchedule(raw);
+  assert.deepEqual(a.map(s => s.title), ['A', 'B']);
+  assert.equal(a[0].desc, 'One line.');
+  assert.equal(a[1].replay, true);
+  assert.equal(a[1].desc, null);
+  assert.deepEqual(parseRadioSchedule({ ready: false, now: raw.now, next: raw.next }), []);
+  assert.deepEqual(parseRadioSchedule({ ready: true, now: null, next: [] }), []);
+});
