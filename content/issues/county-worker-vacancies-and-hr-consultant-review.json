@@ -1,0 +1,98 @@
+{
+  "slug": "county-worker-vacancies-and-hr-consultant-review",
+  "title": "County worker vacancies and HR consultant review",
+  "summary": "A commissioner said on October 8 that urgent work lies ahead on vacancies, recruitment, retention and HR reform. The acting director said the department has had more staff turnover than usual and that the county does not do enough exit interviews to learn why employees leave. A consultant's review of recruitment and hiring, classification, and reorganization has done 46 interviews, with 20 more scheduled.",
+  "topics": [
+    "government",
+    "economy"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-09-02",
+  "lastSeenISO": "2026-10-08",
+  "signals": {
+    "meetingsLast30d": 2,
+    "meetingsLast90d": 3,
+    "mentionsLast30d": 3,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-10",
+  "timeline": [
+    {
+      "dateISO": "2026-10-08",
+      "text": "A commissioner said urgent work lies ahead on vacancies, recruitment, retention and HR reform.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fTuTemrBtCY",
+        "ts": "0:26:24",
+        "retrievedISO": "2026-10-11T05:51:21.505Z"
+      },
+      "body": "Civil Service Commission"
+    },
+    {
+      "dateISO": "2026-10-07",
+      "text": "The acting director said the department had more staff turnover than it usually sees.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "yMbc5cKnAGk",
+        "ts": "0:13:03",
+        "retrievedISO": "2026-10-11T05:47:59.118Z"
+      },
+      "body": "Civil Service Commission"
+    },
+    {
+      "dateISO": "2026-10-07",
+      "text": "The acting director said the county does not do enough exit interviews to learn why employees leave.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "yMbc5cKnAGk",
+        "ts": "0:10:14",
+        "retrievedISO": "2026-10-11T05:47:59.118Z"
+      },
+      "body": "Civil Service Commission"
+    },
+    {
+      "dateISO": "2026-09-02",
+      "text": "Staff said the consultant has done 46 interviews, with 20 more scheduled.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tTdredHGJvc",
+        "ts": "1:02:25",
+        "retrievedISO": "2026-10-07T23:04:03.757Z"
+      },
+      "body": "Civil Service Commission"
+    },
+    {
+      "dateISO": "2026-09-02",
+      "text": "Staff said a consultant's review covers recruitment and hiring, classification, and reorganization.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tTdredHGJvc",
+        "ts": "0:57:16",
+        "retrievedISO": "2026-10-07T23:04:03.757Z"
+      },
+      "body": "Civil Service Commission"
+    },
+    {
+      "dateISO": "2026-09-02",
+      "text": "She said a recent focus has been recruiting, because the County has many vacancies.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tTdredHGJvc",
+        "ts": "0:18:26",
+        "retrievedISO": "2026-10-07T23:04:03.757Z"
+      },
+      "body": "Civil Service Commission"
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
