@@ -6,7 +6,8 @@
 export const FEEDBACK: { endpoint: string; fields: { about: string; comment: string; where: string; app: string }; email: string } = {
   endpoint: '',
   fields: { about: '', comment: '', where: '', app: '' },
-  email: '',
+  // Until the form is set up, reports open the phone's mail app addressed here. Switch to info@akaku.org when it exists.
+  email: 'vini@akaku.org',
 };
 
 export type FeedbackContext = {
