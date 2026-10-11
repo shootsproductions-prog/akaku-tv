@@ -1,7 +1,7 @@
 {
   "slug": "contested-case-on-mahi-pono-east-maui-water-permits",
   "title": "Contested case on Mahi Pono East Maui water permits",
-  "summary": "After a judge ordered it, BLNR voted to appoint a hearings officer for a contested case on the 2026 and 2027 revocable water permits, and the operator has appealed in circuit court the denial of its own contested case request. A prehearing was set for October 1 with hearings in November, an estimated 15 days of hearings and a result hoped for by year's end, with the location and streaming still undecided.",
+  "summary": "After a judge ordered it, Board of Land and Natural Resources (BLNR) voted to appoint a hearings officer for a contested case on the 2026 and 2027 revocable water permits, and the operator has appealed in circuit court the denial of its own contested case request. A prehearing was set for October 1 with hearings in November, an estimated 15 days of hearings and a result hoped for by year's end, with the location and streaming still undecided.",
   "topics": [
     "water",
     "government"
@@ -14,8 +14,18 @@
     "meetingsLast30d": 1,
     "meetingsLast90d": 2,
     "mentionsLast30d": 3,
-    "upcomingEvent": null
+    "upcomingEvent": {
+      "dateISO": "2026-11-04",
+      "what": "hearings on November 4 and 5",
+      "source": {
+        "type": "meeting",
+        "videoId": "jggU3kzKFQI",
+        "ts": "0:22:30",
+        "retrievedISO": "2026-10-07T23:03:54.314Z"
+      }
+    }
   },
+  "asOfISO": "2026-10-10",
   "timeline": [
     {
       "dateISO": "2026-09-18",
@@ -139,7 +149,7 @@
     },
     {
       "dateISO": "2026-09-18",
-      "text": "BLNR rejected the operator's request for a contested case (a trial-like hearing) after an executive session (a closed-door discussion).",
+      "text": "Board of Land and Natural Resources (BLNR) rejected the operator's request for a contested case (a trial-like hearing) after an executive session (a closed-door discussion).",
       "basis": "said-at-meeting",
       "source": {
         "type": "meeting",
@@ -158,7 +168,8 @@
         "videoId": "9vFQege7xis",
         "ts": "0:10:26",
         "retrievedISO": "2026-10-07T23:26:09.917Z"
-      }
+      },
+      "body": "East Maui Regional Community Board"
     },
     {
       "dateISO": "2026-08-23",
@@ -169,29 +180,32 @@
         "videoId": "9vFQege7xis",
         "ts": "0:10:15",
         "retrievedISO": "2026-10-07T23:26:09.917Z"
-      }
+      },
+      "body": "East Maui Regional Community Board"
     },
     {
       "dateISO": "2026-08-23",
-      "text": "BLNR unanimously let its chair appoint a hearings officer to start that contested case for 2026 and 2027 permits.",
+      "text": "Board of Land and Natural Resources (BLNR) unanimously let its chair appoint a hearings officer to start that contested case for 2026 and 2027 permits.",
       "basis": "said-at-meeting",
       "source": {
         "type": "meeting",
         "videoId": "9vFQege7xis",
         "ts": "0:09:55",
         "retrievedISO": "2026-10-07T23:26:09.917Z"
-      }
+      },
+      "body": "East Maui Regional Community Board"
     },
     {
       "dateISO": "2026-08-23",
-      "text": "About a month ago, a judge ordered BLNR to hold a contested case on the revocable permits.",
+      "text": "About a month ago, a judge ordered Board of Land and Natural Resources (BLNR) to hold a contested case on the revocable permits.",
       "basis": "said-at-meeting",
       "source": {
         "type": "meeting",
         "videoId": "9vFQege7xis",
         "ts": "0:09:28",
         "retrievedISO": "2026-10-07T23:26:09.917Z"
-      }
+      },
+      "body": "East Maui Regional Community Board"
     },
     {
       "dateISO": "2026-08-23",
@@ -202,7 +216,8 @@
         "videoId": "9vFQege7xis",
         "ts": "0:04:49",
         "retrievedISO": "2026-10-07T23:26:09.917Z"
-      }
+      },
+      "body": "East Maui Regional Community Board"
     }
   ],
   "sourceTypes": [
