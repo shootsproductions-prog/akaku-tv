@@ -1,0 +1,148 @@
+{
+  "slug": "children-and-youth-commission-family-survey-findings",
+  "title": "Children and Youth Commission family survey findings",
+  "summary": "At its September 21 meeting, the commission agreed to focus on building awareness of available behavioral health resources for youth and families, after a commissioner suggested the gap may be lack of awareness rather than lack of resources. The chair proposed an agenda item on annual survey reporting and a response goal. In August, the family survey ranked stable housing first, then mental health support and safe youth spaces.",
+  "topics": [
+    "health",
+    "housing",
+    "education"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-08-24",
+  "lastSeenISO": "2026-09-21",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 2,
+    "mentionsLast30d": 3,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-10",
+  "timeline": [
+    {
+      "dateISO": "2026-09-21",
+      "text": "The chair proposed an agenda item at the next meeting on annual survey reporting and a response goal.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "R72ep6UsQvk",
+        "ts": "0:59:31",
+        "retrievedISO": "2026-10-07T23:03:53.466Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-21",
+      "text": "Members discussed reporting survey results once a year or after reaching a set number of responses.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "R72ep6UsQvk",
+        "ts": "0:57:33",
+        "retrievedISO": "2026-10-07T23:03:53.466Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-21",
+      "text": "Members agreed to focus on building awareness of available resources.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "R72ep6UsQvk",
+        "ts": "0:40:14",
+        "retrievedISO": "2026-10-07T23:03:53.466Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-21",
+      "text": "A commissioner said the gap may be a lack of awareness of services, not a lack of resources.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "R72ep6UsQvk",
+        "ts": "0:37:56",
+        "retrievedISO": "2026-10-07T23:03:53.466Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-21",
+      "text": "The commission's community survey pointed to behavioral health supports for youth and families as a concern.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "R72ep6UsQvk",
+        "ts": "0:08:25",
+        "retrievedISO": "2026-10-07T23:03:53.466Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-24",
+      "text": "Community survey distribution update and results check-in: The family survey will stay on the agenda so commissioners can keep checking the data.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "_jJfabaKzgo",
+        "ts": "1:10:34",
+        "retrievedISO": "2026-10-09T06:35:13.605Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-24",
+      "text": "The vice chair will research what youth mental health resources are in place and report at the next meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "_jJfabaKzgo",
+        "ts": "1:07:14",
+        "retrievedISO": "2026-10-09T06:35:13.605Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-24",
+      "text": "Under cost of living, households above 50,000 still named housing as a concern.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "_jJfabaKzgo",
+        "ts": "1:01:10",
+        "retrievedISO": "2026-10-09T06:35:13.605Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-24",
+      "text": "A commissioner said stable housing is ongoing and will take a very long time for families to achieve.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "_jJfabaKzgo",
+        "ts": "0:58:06",
+        "retrievedISO": "2026-10-09T06:35:13.605Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-24",
+      "text": "A commissioner said most people who completed the survey are from \"out here on our side.\"",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "_jJfabaKzgo",
+        "ts": "0:56:48",
+        "retrievedISO": "2026-10-09T06:35:13.605Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-24",
+      "text": "In the commission's family survey, stable housing was the top priority, followed by mental health support and safe youth spaces.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "_jJfabaKzgo",
+        "ts": "0:56:38",
+        "retrievedISO": "2026-10-09T06:35:13.605Z"
+      }
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

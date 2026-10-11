@@ -1,18 +1,18 @@
 {
   "slug": "contested-case-on-mahi-pono-east-maui-water-permits",
   "title": "Contested case on Mahi Pono East Maui water permits",
-  "summary": "Board of Land and Natural Resources (BLNR) rejected the operator's request for a contested case, and the operator's attorney appealed that denial in circuit court on September 11. A judge-ordered contested case on the 2026 and 2027 revocable permits is moving ahead, with a prehearing October 1 and hearings November 4 and 5, and a result is hoped for by year's end. Permit applicants must show how much water they need, and where hearings are held is not yet decided.",
+  "summary": "Board of Land and Natural Resources (BLNR) rejected the operator's request for a contested case after a closed-door discussion, and the operator's attorney appealed that denial in circuit court on September 11. A judge earlier ordered a contested case on the 2026 and 2027 revocable permits, which is moving ahead with a prehearing October 1 and hearings set for November 4 and 5. Hearings are estimated at 15 days, with a result hoped for by year's end.",
   "topics": [
     "water",
     "government"
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-08-23",
+  "firstSeenISO": "2026-07-17",
   "lastSeenISO": "2026-09-18",
   "signals": {
     "meetingsLast30d": 1,
-    "meetingsLast90d": 2,
+    "meetingsLast90d": 3,
     "mentionsLast30d": 3,
     "upcomingEvent": {
       "dateISO": "2026-11-04",
@@ -218,6 +218,17 @@
         "retrievedISO": "2026-10-07T23:26:09.917Z"
       },
       "body": "East Maui Regional Community Board"
+    },
+    {
+      "dateISO": "2026-07-17",
+      "text": "An environmental court judge heard arguments on an appeal over an earlier permit and said a decision would come soon.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oDSa7vE18b8",
+        "ts": "0:26:42",
+        "retrievedISO": "2026-10-09T06:35:04.288Z"
+      }
     }
   ],
   "sourceTypes": [

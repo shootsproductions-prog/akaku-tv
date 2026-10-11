@@ -1,7 +1,7 @@
 {
   "slug": "proposed-maui-county-passenger-ferry-to-molokai-and-lanai",
   "title": "Proposed Maui County passenger ferry to Molokaʻi and Lānaʻi",
-  "summary": "At a September 17 community meeting, Maui County Department of Transportation staff said the passenger-only ferry project is \"not a done deal,\" and a draft environmental assessment will be released for public comment. Residents said they need an affordable ferry now, not by the hoped-for early 2029 Molokaʻi start. Lānaʻi service is estimated at about $5 million a year, with tickets covering about 60 percent, and the County Council will set fares.",
+  "summary": "At a September 17 community meeting, Maui County transportation staff said the Maui Ferry project is \"not a done deal\" and that a draft environmental assessment will be released for public comment. The passenger-only ferry, with boats holding 149 people, would be run by a private company under a county contract, with Molokaʻi service hoped for by early 2029. The Maui harbor is not chosen, and the County Council will set fares.",
   "topics": [
     "transportation"
   ],
@@ -17,6 +17,30 @@
   },
   "asOfISO": "2026-10-10",
   "timeline": [
+    {
+      "dateISO": "2026-09-17",
+      "text": "Project updates will be posted on the county website landing page.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pNKa-YoxirU",
+        "ts": "1:10:06",
+        "retrievedISO": "2026-10-07T23:03:47.562Z"
+      },
+      "body": "Maui County Department of Transportation"
+    },
+    {
+      "dateISO": "2026-09-17",
+      "text": "Residents were asked to fill out a questionnaire through a QR code in the brochure.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pNKa-YoxirU",
+        "ts": "1:09:35",
+        "retrievedISO": "2026-10-07T23:03:47.562Z"
+      },
+      "body": "Maui County Department of Transportation"
+    },
     {
       "dateISO": "2026-09-17",
       "text": "Staff said a transportation study of harbor connections will start next month.",
