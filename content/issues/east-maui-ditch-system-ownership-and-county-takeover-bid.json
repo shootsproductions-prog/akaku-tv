@@ -1,14 +1,14 @@
 {
   "slug": "east-maui-ditch-system-ownership-and-county-takeover-bid",
   "title": "East Maui ditch system ownership and county takeover bid",
-  "summary": "BLNR staff concluded the county was not qualified to take over and run the East Maui irrigation system and recommended a long-term water license for Mahi Pono, but the board voted unanimously to deny that recommendation, which the vice chair said keeps alive the county's effort through the East Maui Water Authority. Presenters at several meetings questioned whether a private company or the state owns the system, citing old licenses that said the aqueducts revert to the government and a state letter saying the land department does not own it, while state staff cited the company's ownership of one ditch section to reject the county's request.",
+  "summary": "Board of Land and Natural Resources (BLNR) staff concluded the county was not qualified to take over and run the East Maui irrigation system and recommended a long-term water license for Mahi Pono, but the board voted unanimously to deny that recommendation, which the vice chair said keeps alive the county's effort through the East Maui Water Authority. Presenters at several meetings questioned whether a private company or the state owns the system, citing old licenses that said the aqueducts revert to the government and a state letter saying the land department does not own it, while state staff cited the company's ownership of one ditch section to reject the county's request.",
   "topics": [
     "water",
     "government"
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-08-20",
+  "firstSeenISO": "2024-11-14",
   "lastSeenISO": "2026-09-18",
   "signals": {
     "meetingsLast30d": 1,
@@ -16,6 +16,7 @@
     "mentionsLast30d": 1,
     "upcomingEvent": null
   },
+  "asOfISO": "2026-10-10",
   "timeline": [
     {
       "dateISO": "2026-09-18",
@@ -42,18 +43,7 @@
     },
     {
       "dateISO": "2026-08-23",
-      "text": "The presenter said ownership changes how the state prices a license, which affects money for Hawaiian Homelands and Office of Hawaiian Affairs beneficiaries.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "xpuBwsHeXRw",
-        "ts": "0:21:41",
-        "retrievedISO": "2026-10-07T23:26:08.282Z"
-      }
-    },
-    {
-      "dateISO": "2026-08-23",
-      "text": "The presenter said ownership will change how the state prices a long-term water license through an appraisal.",
+      "text": "The presenter said ownership changes how the state prices a water license, which affects money for the Department of Hawaiian Homelands and the Office of Hawaiian Affairs.",
       "basis": "said-at-meeting",
       "source": {
         "type": "meeting",
@@ -75,24 +65,13 @@
     },
     {
       "dateISO": "2026-08-23",
-      "text": "Last week, state land board staff cited the company's ownership of one ditch section to reject the county's takeover request.",
+      "text": "The presenter said the company clearly owns only one stretch of the Wailoa ditch, which the county needs to reach a treatment plant.",
       "basis": "said-at-meeting",
       "source": {
         "type": "meeting",
-        "videoId": "xpuBwsHeXRw",
-        "ts": "0:15:16",
-        "retrievedISO": "2026-10-07T23:26:08.282Z"
-      }
-    },
-    {
-      "dateISO": "2026-08-23",
-      "text": "The presenter said the one part the company's owner clearly owns is a stretch of the Wailoa ditch.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "xpuBwsHeXRw",
-        "ts": "0:15:09",
-        "retrievedISO": "2026-10-07T23:26:08.282Z"
+        "videoId": "Yufg5sEmpnc",
+        "ts": "0:14:39",
+        "retrievedISO": "2026-10-07T23:26:09.149Z"
       }
     },
     {
@@ -163,24 +142,13 @@
     },
     {
       "dateISO": "2026-08-23",
-      "text": "A presenter questioned whether a private company or the state owns the East Maui irrigation system.",
+      "text": "A state land department letter said the system is privately owned, so the department cannot transfer it.",
       "basis": "said-at-meeting",
       "source": {
         "type": "meeting",
         "videoId": "Yufg5sEmpnc",
         "ts": "0:08:48",
         "retrievedISO": "2026-10-07T23:26:09.149Z"
-      }
-    },
-    {
-      "dateISO": "2026-08-23",
-      "text": "A state land department letter said the department does not own the system and cannot transfer it.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "xpuBwsHeXRw",
-        "ts": "0:08:45",
-        "retrievedISO": "2026-10-07T23:26:08.282Z"
       }
     },
     {
@@ -192,18 +160,20 @@
         "videoId": "9vFQege7xis",
         "ts": "0:06:51",
         "retrievedISO": "2026-10-07T23:26:09.917Z"
-      }
+      },
+      "body": "East Maui Regional Community Board"
     },
     {
       "dateISO": "2026-08-23",
-      "text": "BLNR voted to deny its staff's recommendation to start a long-term water license for Mahi Pono.",
+      "text": "Board of Land and Natural Resources (BLNR) voted to deny its staff's recommendation to start a long-term water license for Mahi Pono.",
       "basis": "said-at-meeting",
       "source": {
         "type": "meeting",
         "videoId": "9vFQege7xis",
         "ts": "0:06:43",
         "retrievedISO": "2026-10-07T23:26:09.917Z"
-      }
+      },
+      "body": "East Maui Regional Community Board"
     },
     {
       "dateISO": "2026-08-23",
@@ -236,7 +206,8 @@
         "videoId": "9vFQege7xis",
         "ts": "0:02:12",
         "retrievedISO": "2026-10-07T23:26:09.917Z"
-      }
+      },
+      "body": "East Maui Regional Community Board"
     },
     {
       "dateISO": "2026-08-23",
@@ -247,18 +218,20 @@
         "videoId": "9vFQege7xis",
         "ts": "0:02:04",
         "retrievedISO": "2026-10-07T23:26:09.917Z"
-      }
+      },
+      "body": "East Maui Regional Community Board"
     },
     {
       "dateISO": "2026-08-23",
-      "text": "BLNR staff concluded the county was not qualified to get a set aside of the assets and run the system.",
+      "text": "Board of Land and Natural Resources (BLNR) staff concluded the county was not qualified to get a set aside of the assets and run the system.",
       "basis": "said-at-meeting",
       "source": {
         "type": "meeting",
         "videoId": "9vFQege7xis",
         "ts": "0:01:56",
         "retrievedISO": "2026-10-07T23:26:09.917Z"
-      }
+      },
+      "body": "East Maui Regional Community Board"
     },
     {
       "dateISO": "2026-08-23",
@@ -280,17 +253,6 @@
         "videoId": "Yufg5sEmpnc",
         "ts": "0:00:31",
         "retrievedISO": "2026-10-07T23:26:09.149Z"
-      }
-    },
-    {
-      "dateISO": "2026-08-23",
-      "text": "A presenter gave a briefing on the East Maui irrigation system.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "xpuBwsHeXRw",
-        "ts": "0:00:00",
-        "retrievedISO": "2026-10-07T23:26:08.282Z"
       }
     },
     {
@@ -316,6 +278,150 @@
         "retrievedISO": "2026-10-07T23:26:10.862Z"
       },
       "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-05-15",
+      "text": "Motion to enter executive session on negotiations of real property related to the irrigation system: The board voted to go into executive session on property negotiations.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6QAT7xS4o6U",
+        "ts": "1:20:07",
+        "retrievedISO": "2026-10-09T06:35:05.182Z"
+      },
+      "body": "East Maui Regional Community Board"
+    },
+    {
+      "dateISO": "2026-05-15",
+      "text": "The board voted to go into executive session (a closed-door discussion) about property negotiations tied to the irrigation system.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6QAT7xS4o6U",
+        "ts": "1:19:38",
+        "retrievedISO": "2026-10-09T06:35:05.182Z"
+      },
+      "body": "East Maui Regional Community Board"
+    },
+    {
+      "dateISO": "2026-05-15",
+      "text": "The chair said the state needs to know who owns the system, whether it licenses the system or sets it aside to the county.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6QAT7xS4o6U",
+        "ts": "0:35:14",
+        "retrievedISO": "2026-10-09T06:35:05.182Z"
+      },
+      "body": "East Maui Regional Community Board"
+    },
+    {
+      "dateISO": "2026-05-15",
+      "text": "The chair said state deputy attorneys general have disagreed with the chair's ownership analysis.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6QAT7xS4o6U",
+        "ts": "0:20:14",
+        "retrievedISO": "2026-10-09T06:35:05.182Z"
+      },
+      "body": "East Maui Regional Community Board"
+    },
+    {
+      "dateISO": "2026-05-15",
+      "text": "The chair said the last four state water licenses all expired between the 1970s and the 1980s.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6QAT7xS4o6U",
+        "ts": "0:16:08",
+        "retrievedISO": "2026-10-09T06:35:05.182Z"
+      },
+      "body": "East Maui Regional Community Board"
+    },
+    {
+      "dateISO": "2026-05-15",
+      "text": "The mayor sent the state a letter saying the county is ready to take over the ditch system.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6QAT7xS4o6U",
+        "ts": "0:06:31",
+        "retrievedISO": "2026-10-09T06:35:05.182Z"
+      },
+      "body": "East Maui Regional Community Board"
+    },
+    {
+      "dateISO": "2024-12-12",
+      "text": "The board discussed a state land board item on the East Maui irrigation system set for December 13, 2024.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "2obBIqFggos",
+        "ts": "1:11:50",
+        "retrievedISO": "2026-10-09T06:35:06.415Z"
+      },
+      "body": "East Maui Regional Community Board"
+    },
+    {
+      "dateISO": "2024-11-21",
+      "text": "The East Maui speaker said the mayor wants to bring all stakeholders together to discuss a new way to manage East Maui water.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "XD60_Qatcxw",
+        "ts": "0:09:30",
+        "retrievedISO": "2026-10-09T06:35:07.486Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2024-11-14",
+      "text": "The chair said five land board members voted for a motion to deny the proposal.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5iHkOVL1-vQ",
+        "ts": "0:36:26",
+        "retrievedISO": "2026-10-09T06:35:08.811Z"
+      },
+      "body": "East Maui Regional Community Board"
+    },
+    {
+      "dateISO": "2024-11-14",
+      "text": "Over 200 pieces of testimony were submitted, and over 90% were opposed, the chair said.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5iHkOVL1-vQ",
+        "ts": "0:35:20",
+        "retrievedISO": "2026-10-09T06:35:08.811Z"
+      },
+      "body": "East Maui Regional Community Board"
+    },
+    {
+      "dateISO": "2024-11-14",
+      "text": "The chair said the proposal would effectively close off the board's ability to move forward.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5iHkOVL1-vQ",
+        "ts": "0:34:03",
+        "retrievedISO": "2026-10-09T06:35:08.811Z"
+      },
+      "body": "East Maui Regional Community Board"
+    },
+    {
+      "dateISO": "2024-11-14",
+      "text": "The chair said a long-term East Maui water license item returned to the state land board's agenda on November 1.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5iHkOVL1-vQ",
+        "ts": "0:31:50",
+        "retrievedISO": "2026-10-09T06:35:08.811Z"
+      },
+      "body": "East Maui Regional Community Board"
     }
   ],
   "sourceTypes": [

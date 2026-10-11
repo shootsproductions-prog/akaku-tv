@@ -8,14 +8,15 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-09-17",
+  "firstSeenISO": "2026-07-16",
   "lastSeenISO": "2026-09-17",
   "signals": {
     "meetingsLast30d": 1,
-    "meetingsLast90d": 1,
+    "meetingsLast90d": 2,
     "mentionsLast30d": 3,
     "upcomingEvent": null
   },
+  "asOfISO": "2026-10-10",
   "timeline": [
     {
       "dateISO": "2026-09-17",
@@ -86,6 +87,30 @@
         "videoId": "mJyIAre9As4",
         "ts": "0:48:19",
         "retrievedISO": "2026-10-07T23:03:55.224Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-07-16",
+      "text": "A board member asked to add the West Maui well schedule and desalination report release to a future agenda.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "zjBo8277OWs",
+        "ts": "0:33:17",
+        "retrievedISO": "2026-10-09T06:35:03.270Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-07-16",
+      "text": "The director said a West Maui well development schedule should be presented in September.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "zjBo8277OWs",
+        "ts": "0:16:26",
+        "retrievedISO": "2026-10-09T06:35:03.270Z"
       },
       "body": "Board of Water Supply"
     }
