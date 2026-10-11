@@ -5,6 +5,7 @@ import { Image, ScrollView, StyleSheet, View } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import { Icon } from '../../src/components/Icon';
+import { MauiDailyStrip } from '../../src/components/MauiDailyStrip';
 import { ICON } from '../../src/components/icons';
 import { Txt } from '../../src/components/Txt';
 import { Card, Eyebrow, H2, LiveBadge, Press, Thumb } from '../../src/components/ui';
@@ -106,6 +107,8 @@ export default function LiveScreen() {
           );
         })}
       </View>
+
+      <MauiDailyStrip />
 
       {source === 'live' ? (
         <View style={styles.section}>
