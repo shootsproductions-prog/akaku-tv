@@ -51,6 +51,11 @@
       }
     },
     "owner": "shootsproductions",
-    "description": "Watch Akakū's channels live, listen to KAKU 88.5, and follow the issues in Maui County."
+    "description": "Watch Akakū's channels live, listen to KAKU 88.5, and follow the issues in Maui County.",
+    "extra": {
+      "eas": {
+        "projectId": "a40b3068-06d6-46a6-b10c-0a8a6a7248b2"
+      }
+    }
   }
 }
