@@ -20,6 +20,13 @@ County workers following meetings; residents following a case that affects them;
 3. Underwriting and sponsors: public-media model; needs editorial-independence rules; after the election.
 4. "Pro" tier for professionals: alerts, saved searches, weekly digest, exports. Build only if the "Notify me" sign-ups show demand.
 
+## Growth: Google Ad Grants (once /track is live)
+Akakū has a Google Ad Grants credit (free search ads for nonprofits). Use it to point people at akaku.org/track, the web version of the tracker that can also be installed as an app from the home screen.
+- Start only after /track is live, fast, and measured (GA4 events linked to the Ads account).
+- Search ads only; neutral keywords about issues and meetings (Maui water, Bill 1, Lahaina permits, East Maui ditch, County Council meetings), never candidates or ballot measures.
+- Check the current Ad Grants rules in the account (account manager, minimum click rate, conversion tracking, election-ad policy).
+- Review after two weeks: clicks, top searches (may suggest new issues), installs, sign-ups. Details on the board: ask-website-google-ads-plan.
+
 ## What to measure in the first 60 days
 Installs, weekly active users, issues followed per person, return visits, "Notify me" sign-ups, donation taps, error reports. The producer decides with the boss which of these is the headline.
 
