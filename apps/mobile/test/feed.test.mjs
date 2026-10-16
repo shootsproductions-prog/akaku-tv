@@ -29,6 +29,7 @@ test('adds per-file updatedAt and sha256, a combined catalog and meta', () => {
   assert.deepEqual(Object.keys(idx.files), ['a.json', 'b.json']);
   assert.match(idx.files['a.json'].sha256, /^[0-9a-f]{64}$/);
   assert.deepEqual(read(d, 'catalog.json').issues.map(i => i.slug), ['a', 'b']);
+  assert.equal(read(d, 'catalog.json').count, 2);
   assert.deepEqual(read(d, 'meta.json'), { contract: 'issues-catalog', version: '0.2', updatedAt: '2026-10-16T10:00:00.000Z', issueCount: 2 });
 });
 

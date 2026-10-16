@@ -66,3 +66,12 @@ The feed's bookkeeping is rewritten on every publish (`content/feed.mjs`): `cont
 `updatedAt`, an `etag`, and `files` (each file's `updatedAt` and `sha256`, which move only when its content changes);
 `content/issues/catalog.json` holds every listed issue in one file; `content/issues/meta.json` is a small "anything new?"
 check. Readers can skip files whose `updatedAt` has not moved.
+
+### Withdrawing and meetings through `content/incoming/`
+
+- `content/incoming/<slug>.withdraw` (an empty file) takes a published issue down: its file, index entry, default follow,
+  and any merge that pointed at it.
+- `content/incoming/meetings/<videoId>.json` publishes an approved recap to `content/meetings/` with the same checks as
+  `publish-meeting.mjs`. It must carry a real 11-character YouTube id (never an internal recording id) and passes the
+  election hold. `content/incoming/meetings/<videoId>.withdraw` takes it down.
+- Failures land in `content/rejected/` (meetings: `content/rejected/meetings/`) with `<name>.reason.txt`.
