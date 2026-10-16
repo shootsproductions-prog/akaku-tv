@@ -12,7 +12,7 @@ import { Txt } from './Txt';
 
 const LABELS: Record<string, { label: string; icon: string }> = {
   index: { label: 'Live', icon: TAB_ICON.live },
-  meetings: { label: 'Meetings', icon: TAB_ICON.meetings },
+  meetings: { label: 'Issues', icon: TAB_ICON.meetings },
   videos: { label: 'Videos', icon: TAB_ICON.videos },
   radio: { label: 'Radio', icon: TAB_ICON.radio },
   support: { label: 'Support', icon: TAB_ICON.support },

@@ -153,3 +153,14 @@ test('a page is stale after two weeks without a refresh', () => {
   assert.equal(isStale(i, Date.parse('2026-10-10T00:00:00Z')), false);
   assert.equal(isStale(i, Date.parse('2026-10-20T00:00:00Z')), true);
 });
+
+test('groupByStatus: active, quiet, and resolved newest first; resolved says so', async () => {
+  const { groupByStatus } = await import('../src/data/catalog.ts');
+  const mk = (slug, status, last) => parseCatalogIssue({ ...readJson(fixture('example-issue.publish.json')), slug, status, lastSeenISO: last, firstSeenISO: '2026-01-01' });
+  const list = [mk('a', 'active', '2026-10-01'), mk('r-old', 'resolved', '2026-08-01'), mk('q', 'quiet', '2026-06-01'), mk('r-new', 'resolved', '2026-09-20')];
+  const g = groupByStatus(list);
+  assert.deepEqual(g.active.map(i => i.slug), ['a']);
+  assert.deepEqual(g.quiet.map(i => i.slug), ['q']);
+  assert.deepEqual(g.resolved.map(i => i.slug), ['r-new', 'r-old']);
+  assert.match(whyRanked(g.resolved[0]), /^Resolved · last discussed/);
+});
