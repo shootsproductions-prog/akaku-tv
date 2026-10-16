@@ -61,3 +61,8 @@ within about 15 minutes of the approval.
 A file that fails a check is moved to `content/rejected/<slug>.json` with `<slug>.reason.txt` saying why; nothing
 about it goes live and the workflow run turns red. Fix the cause in Pipeline and approve again. Aliases, default
 follows and unpublishing still use `publish-issue.mjs` by hand (rare).
+
+The feed's bookkeeping is rewritten on every publish (`content/feed.mjs`): `content/issues/index.json` also carries
+`updatedAt`, an `etag`, and `files` (each file's `updatedAt` and `sha256`, which move only when its content changes);
+`content/issues/catalog.json` holds every listed issue in one file; `content/issues/meta.json` is a small "anything new?"
+check. Readers can skip files whose `updatedAt` has not moved.

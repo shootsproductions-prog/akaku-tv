@@ -1,0 +1,3644 @@
+{
+  "updatedAt": "2026-10-16T07:40:19.182Z",
+  "issues": [
+    {
+      "slug": "board-of-water-supply-opposes-bill-1",
+      "title": "Board of Water Supply opposes Bill 1",
+      "summary": "On September 17, the board passed a motion, with five ayes, to tell Council Member Cook's office it does not support Bill 1. Another testifier opposed the amendment, saying the water department should keep its discretion. One remark at the meeting held that if that's the case, Bill 1 is not necessary.",
+      "topics": [
+        "water",
+        "government"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-08-20",
+      "lastSeenISO": "2026-09-17",
+      "signals": {
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 2,
+        "mentionsLast30d": 3,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-12",
+      "timeline": [
+        {
+          "dateISO": "2026-09-17",
+          "text": "The motion passed with five ayes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mJyIAre9As4",
+            "ts": "0:35:25",
+            "retrievedISO": "2026-10-07T23:03:55.224Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "A motion was made to tell Council Member Cook's office the board does not support Bill 1.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mJyIAre9As4",
+            "ts": "0:33:31",
+            "retrievedISO": "2026-10-07T23:03:55.224Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "Another testifier opposed the Bill 1 amendment, saying the water department should keep its discretion.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mJyIAre9As4",
+            "ts": "0:09:44",
+            "retrievedISO": "2026-10-07T23:03:55.224Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-08-20",
+          "text": "Members who plan to draft a response should say so to learn the deadline.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "UjHForbD6sQ",
+            "ts": "0:54:16",
+            "retrievedISO": "2026-10-07T23:26:10.862Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-08-20",
+          "text": "A council member's letter about the board's further comments on Bill 1 will be on the next meeting's agenda.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "UjHForbD6sQ",
+            "ts": "0:53:58",
+            "retrievedISO": "2026-10-07T23:26:10.862Z"
+          },
+          "body": "Board of Water Supply"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "contested-case-on-mahi-pono-east-maui-water-permits",
+      "title": "Contested case on Mahi Pono East Maui water permits",
+      "summary": "Board of Land and Natural Resources (BLNR) rejected the operator's request for a contested case after a closed-door discussion, and the operator's attorney appealed that denial in circuit court on September 11. A judge earlier ordered a contested case on the 2026 and 2027 revocable permits, which is moving ahead with a prehearing October 1 and hearings set for November 4 and 5. Hearings are estimated at 15 days, with a result hoped for by year's end.",
+      "topics": [
+        "water",
+        "government"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-07-17",
+      "lastSeenISO": "2026-09-18",
+      "signals": {
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 3,
+        "mentionsLast30d": 3,
+        "upcomingEvent": {
+          "dateISO": "2026-11-04",
+          "what": "hearings November 4 and 5",
+          "source": {
+            "type": "meeting",
+            "videoId": "jggU3kzKFQI",
+            "ts": "0:22:30",
+            "retrievedISO": "2026-10-07T23:03:54.314Z"
+          }
+        }
+      },
+      "asOfISO": "2026-10-12",
+      "timeline": [
+        {
+          "dateISO": "2026-09-18",
+          "text": "The director was asked to look into a short online special meeting for a contested case update after October 1.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jggU3kzKFQI",
+            "ts": "0:52:18",
+            "retrievedISO": "2026-10-07T23:03:54.314Z"
+          },
+          "body": "Aha Moku o Maui Hikina"
+        },
+        {
+          "dateISO": "2026-09-18",
+          "text": "Hearings are estimated at 15 days, with a result hoped for by the end of the year.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jggU3kzKFQI",
+            "ts": "0:49:22",
+            "retrievedISO": "2026-10-07T23:03:54.314Z"
+          },
+          "body": "Aha Moku o Maui Hikina"
+        },
+        {
+          "dateISO": "2026-09-18",
+          "text": "Witness testimony will be submitted in writing, and witnesses will then face cross-examination (questions from other parties).",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jggU3kzKFQI",
+            "ts": "0:44:53",
+            "retrievedISO": "2026-10-07T23:03:54.314Z"
+          },
+          "body": "Aha Moku o Maui Hikina"
+        },
+        {
+          "dateISO": "2026-09-18",
+          "text": "Open questions, including where hearings are held and whether they are streamed, will be decided after an October 1 prehearing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jggU3kzKFQI",
+            "ts": "0:39:15",
+            "retrievedISO": "2026-10-07T23:03:54.314Z"
+          },
+          "body": "Aha Moku o Maui Hikina"
+        },
+        {
+          "dateISO": "2026-09-18",
+          "text": "The county attorney will update the board after the October 1 prehearing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jggU3kzKFQI",
+            "ts": "0:39:02",
+            "retrievedISO": "2026-10-07T23:03:54.314Z"
+          },
+          "body": "Aha Moku o Maui Hikina"
+        },
+        {
+          "dateISO": "2026-09-18",
+          "text": "The permit applicants carry the burden to show how much water they need.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jggU3kzKFQI",
+            "ts": "0:37:46",
+            "retrievedISO": "2026-10-07T23:03:54.314Z"
+          },
+          "body": "Aha Moku o Maui Hikina"
+        },
+        {
+          "dateISO": "2026-09-18",
+          "text": "The attorney said the case is only about the 2026 and 2027 permits, not the long-term license.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jggU3kzKFQI",
+            "ts": "0:35:03",
+            "retrievedISO": "2026-10-07T23:03:54.314Z"
+          },
+          "body": "Aha Moku o Maui Hikina"
+        },
+        {
+          "dateISO": "2026-09-18",
+          "text": "Hearings are planned for Oʻahu, not Maui, but that is not yet decided.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jggU3kzKFQI",
+            "ts": "0:23:05",
+            "retrievedISO": "2026-10-07T23:03:54.314Z"
+          },
+          "body": "Aha Moku o Maui Hikina"
+        },
+        {
+          "dateISO": "2026-09-18",
+          "text": "A prehearing is set for October 1, with hearings November 4 and 5.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jggU3kzKFQI",
+            "ts": "0:22:30",
+            "retrievedISO": "2026-10-07T23:03:54.314Z"
+          },
+          "body": "Aha Moku o Maui Hikina"
+        },
+        {
+          "dateISO": "2026-09-18",
+          "text": "On September 11, the operator's attorney appealed the denial of its contested case request in circuit court.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jggU3kzKFQI",
+            "ts": "0:09:48",
+            "retrievedISO": "2026-10-07T23:03:54.314Z"
+          },
+          "body": "Aha Moku o Maui Hikina"
+        },
+        {
+          "dateISO": "2026-09-18",
+          "text": "Board of Land and Natural Resources (BLNR) rejected the operator's request for a contested case (a trial-like hearing) after an executive session (a closed-door discussion).",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jggU3kzKFQI",
+            "ts": "0:09:16",
+            "retrievedISO": "2026-10-07T23:03:54.314Z"
+          },
+          "body": "Aha Moku o Maui Hikina"
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "Mahi Pono may appeal the denial of its contested case request in court within a set number of days.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9vFQege7xis",
+            "ts": "0:10:26",
+            "retrievedISO": "2026-10-07T23:26:09.917Z"
+          },
+          "body": "East Maui Regional Community Board"
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "The contested case process on the revocable permits will now start.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9vFQege7xis",
+            "ts": "0:10:15",
+            "retrievedISO": "2026-10-07T23:26:09.917Z"
+          },
+          "body": "East Maui Regional Community Board"
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "Board of Land and Natural Resources (BLNR) unanimously let its chair appoint a hearings officer to start that contested case for 2026 and 2027 permits.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9vFQege7xis",
+            "ts": "0:09:55",
+            "retrievedISO": "2026-10-07T23:26:09.917Z"
+          },
+          "body": "East Maui Regional Community Board"
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "About a month ago, a judge ordered Board of Land and Natural Resources (BLNR) to hold a contested case on the revocable permits.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9vFQege7xis",
+            "ts": "0:09:28",
+            "retrievedISO": "2026-10-07T23:26:09.917Z"
+          },
+          "body": "East Maui Regional Community Board"
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "A community member withdrew a contested case request (a formal, trial-like hearing) so the board could vote.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9vFQege7xis",
+            "ts": "0:04:49",
+            "retrievedISO": "2026-10-07T23:26:09.917Z"
+          },
+          "body": "East Maui Regional Community Board"
+        },
+        {
+          "dateISO": "2026-07-17",
+          "text": "An environmental court judge heard arguments on an appeal over an earlier permit and said a decision would come soon.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "oDSa7vE18b8",
+            "ts": "0:26:42",
+            "retrievedISO": "2026-10-09T06:35:04.288Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "east-maui-ditch-system-ownership-and-county-takeover-bid",
+      "title": "East Maui ditch system ownership and county takeover bid",
+      "summary": "On September 18, 2026, there was nothing new to report on land negotiations for the East Maui irrigation system. On August 23, Board of Land and Natural Resources (BLNR) unanimously denied staff's recommendation to start a long-term water license for Mahi Pono, after staff found the county not qualified for a set aside; the vote keeps alive the county's effort to take over management. Ownership of the system remains disputed and affects how a license is priced.",
+      "topics": [
+        "water",
+        "government"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2024-11-14",
+      "lastSeenISO": "2026-09-18",
+      "signals": {
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 3,
+        "mentionsLast30d": 1,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-12",
+      "timeline": [
+        {
+          "dateISO": "2026-09-18",
+          "text": "There was nothing new to report on land negotiations for the East Maui irrigation system.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jggU3kzKFQI",
+            "ts": "0:55:03",
+            "retrievedISO": "2026-10-07T23:03:54.314Z"
+          },
+          "body": "Aha Moku o Maui Hikina"
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "That price affects money owed to the Department of Hawaiian Homelands and the Office of Hawaiian Affairs.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Yufg5sEmpnc",
+            "ts": "0:21:54",
+            "retrievedISO": "2026-10-07T23:26:09.149Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "The presenter said ownership changes how the state prices a water license, which affects money for the Department of Hawaiian Homelands and the Office of Hawaiian Affairs.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Yufg5sEmpnc",
+            "ts": "0:21:35",
+            "retrievedISO": "2026-10-07T23:26:09.149Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "State staff cited the company's ownership of one ditch stretch as a reason to reject the county's request to take over the system.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Yufg5sEmpnc",
+            "ts": "0:15:18",
+            "retrievedISO": "2026-10-07T23:26:09.149Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "The presenter said the company clearly owns only one stretch of the Wailoa ditch, which the county needs to reach a treatment plant.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Yufg5sEmpnc",
+            "ts": "0:14:39",
+            "retrievedISO": "2026-10-07T23:26:09.149Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "The presenter said those licenses say the aqueducts become government property when the license ends.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xpuBwsHeXRw",
+            "ts": "0:13:46",
+            "retrievedISO": "2026-10-07T23:26:08.282Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "Those licenses said the aqueduct system would revert to the government when they ended.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Yufg5sEmpnc",
+            "ts": "0:13:44",
+            "retrievedISO": "2026-10-07T23:26:09.149Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "The last water licenses for the four license areas expired between 1971 and 1986.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xpuBwsHeXRw",
+            "ts": "0:13:06",
+            "retrievedISO": "2026-10-07T23:26:08.282Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "The presenter said the state constitution holds all public natural resources in trust for the people.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Yufg5sEmpnc",
+            "ts": "0:10:55",
+            "retrievedISO": "2026-10-07T23:26:09.149Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "Just over 24 million gallons a day came from state lands from January through November 2025.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xpuBwsHeXRw",
+            "ts": "0:10:30",
+            "retrievedISO": "2026-10-07T23:26:08.282Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "The presenter said most of the system's water comes from state lands, not company lands.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Yufg5sEmpnc",
+            "ts": "0:10:12",
+            "retrievedISO": "2026-10-07T23:26:09.149Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "A state land department letter said the system is privately owned, so the department cannot transfer it.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Yufg5sEmpnc",
+            "ts": "0:08:48",
+            "retrievedISO": "2026-10-07T23:26:09.149Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "The vice chair said the vote keeps alive the county's effort, through the East Maui Water Authority, to take over management of the system.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9vFQege7xis",
+            "ts": "0:06:51",
+            "retrievedISO": "2026-10-07T23:26:09.917Z"
+          },
+          "body": "East Maui Regional Community Board"
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "Board of Land and Natural Resources (BLNR) voted to deny its staff's recommendation to start a long-term water license for Mahi Pono.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9vFQege7xis",
+            "ts": "0:06:43",
+            "retrievedISO": "2026-10-07T23:26:09.917Z"
+          },
+          "body": "East Maui Regional Community Board"
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "The presenter said the new owner is owned by a Canadian government pension investment board.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xpuBwsHeXRw",
+            "ts": "0:04:24",
+            "retrievedISO": "2026-10-07T23:26:08.282Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "One key ditch section feeds the largest of the county's three East Maui surface water treatment plants.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xpuBwsHeXRw",
+            "ts": "0:03:31",
+            "retrievedISO": "2026-10-07T23:26:08.282Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "There were about 8 hours of testimony, and oral testimony was about 95% opposed.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9vFQege7xis",
+            "ts": "0:02:12",
+            "retrievedISO": "2026-10-07T23:26:09.917Z"
+          },
+          "body": "East Maui Regional Community Board"
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "Staff instead recommended starting the process to issue a long-term water license to Mahi Pono.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9vFQege7xis",
+            "ts": "0:02:04",
+            "retrievedISO": "2026-10-07T23:26:09.917Z"
+          },
+          "body": "East Maui Regional Community Board"
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "Board of Land and Natural Resources (BLNR) staff concluded the county was not qualified to get a set aside of the assets and run the system.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9vFQege7xis",
+            "ts": "0:01:56",
+            "retrievedISO": "2026-10-07T23:26:09.917Z"
+          },
+          "body": "East Maui Regional Community Board"
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "In 2025, Alexander and Baldwin sold its full interest in the East Maui Irrigation Company.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xpuBwsHeXRw",
+            "ts": "0:01:13",
+            "retrievedISO": "2026-10-07T23:26:08.282Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "A presenter described the East Maui irrigation system, mostly built between the 1870s and 1920s.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Yufg5sEmpnc",
+            "ts": "0:00:31",
+            "retrievedISO": "2026-10-07T23:26:09.149Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-20",
+          "text": "He said ownership of the ditch system matters because the state must price any license through an appraisal.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "UjHForbD6sQ",
+            "ts": "0:39:45",
+            "retrievedISO": "2026-10-07T23:26:10.862Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-08-20",
+          "text": "In a presentation, he said most water in the system comes from state lands.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "UjHForbD6sQ",
+            "ts": "0:28:52",
+            "retrievedISO": "2026-10-07T23:26:10.862Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-05-15",
+          "text": "Motion to enter executive session on negotiations of real property related to the irrigation system: The board voted to go into executive session on property negotiations.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "6QAT7xS4o6U",
+            "ts": "1:20:07",
+            "retrievedISO": "2026-10-09T06:35:05.182Z"
+          },
+          "body": "East Maui Regional Community Board"
+        },
+        {
+          "dateISO": "2026-05-15",
+          "text": "The board voted to go into executive session (a closed-door discussion) about property negotiations tied to the irrigation system.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "6QAT7xS4o6U",
+            "ts": "1:19:38",
+            "retrievedISO": "2026-10-09T06:35:05.182Z"
+          },
+          "body": "East Maui Regional Community Board"
+        },
+        {
+          "dateISO": "2026-05-15",
+          "text": "The chair said the state needs to know who owns the system, whether it licenses the system or sets it aside to the county.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "6QAT7xS4o6U",
+            "ts": "0:35:14",
+            "retrievedISO": "2026-10-09T06:35:05.182Z"
+          },
+          "body": "East Maui Regional Community Board"
+        },
+        {
+          "dateISO": "2026-05-15",
+          "text": "The chair said state deputy attorneys general have disagreed with the chair's ownership analysis.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "6QAT7xS4o6U",
+            "ts": "0:20:14",
+            "retrievedISO": "2026-10-09T06:35:05.182Z"
+          },
+          "body": "East Maui Regional Community Board"
+        },
+        {
+          "dateISO": "2026-05-15",
+          "text": "The chair said the last four state water licenses all expired between the 1970s and the 1980s.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "6QAT7xS4o6U",
+            "ts": "0:16:08",
+            "retrievedISO": "2026-10-09T06:35:05.182Z"
+          },
+          "body": "East Maui Regional Community Board"
+        },
+        {
+          "dateISO": "2026-05-15",
+          "text": "The mayor sent the state a letter saying the county is ready to take over the ditch system.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "6QAT7xS4o6U",
+            "ts": "0:06:31",
+            "retrievedISO": "2026-10-09T06:35:05.182Z"
+          },
+          "body": "East Maui Regional Community Board"
+        },
+        {
+          "dateISO": "2024-12-12",
+          "text": "The director said this state item is different from a long-term license.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2obBIqFggos",
+            "ts": "1:21:20",
+            "retrievedISO": "2026-10-09T06:35:06.415Z"
+          },
+          "body": "East Maui Regional Community Board"
+        },
+        {
+          "dateISO": "2024-12-12",
+          "text": "The board discussed a state land board item on the East Maui irrigation system set for December 13, 2024.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2obBIqFggos",
+            "ts": "1:11:50",
+            "retrievedISO": "2026-10-09T06:35:06.415Z"
+          },
+          "body": "East Maui Regional Community Board"
+        },
+        {
+          "dateISO": "2024-11-21",
+          "text": "The East Maui speaker said the mayor wants to bring all stakeholders together to discuss a new way to manage East Maui water.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "XD60_Qatcxw",
+            "ts": "0:09:30",
+            "retrievedISO": "2026-10-09T06:35:07.486Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2024-11-14",
+          "text": "The director said the land board will probably want to hear results of talks in about six months.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "5iHkOVL1-vQ",
+            "ts": "0:37:32",
+            "retrievedISO": "2026-10-09T06:35:08.811Z"
+          },
+          "body": "East Maui Regional Community Board"
+        },
+        {
+          "dateISO": "2024-11-14",
+          "text": "The chair said five land board members voted for a motion to deny the proposal.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "5iHkOVL1-vQ",
+            "ts": "0:36:26",
+            "retrievedISO": "2026-10-09T06:35:08.811Z"
+          },
+          "body": "East Maui Regional Community Board"
+        },
+        {
+          "dateISO": "2024-11-14",
+          "text": "Over 200 pieces of testimony were submitted, and over 90% were opposed, the chair said.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "5iHkOVL1-vQ",
+            "ts": "0:35:20",
+            "retrievedISO": "2026-10-09T06:35:08.811Z"
+          },
+          "body": "East Maui Regional Community Board"
+        },
+        {
+          "dateISO": "2024-11-14",
+          "text": "The chair said the proposal would effectively close off the board's ability to move forward.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "5iHkOVL1-vQ",
+            "ts": "0:34:03",
+            "retrievedISO": "2026-10-09T06:35:08.811Z"
+          },
+          "body": "East Maui Regional Community Board"
+        },
+        {
+          "dateISO": "2024-11-14",
+          "text": "The chair said the board got no advance notice.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "5iHkOVL1-vQ",
+            "ts": "0:32:42",
+            "retrievedISO": "2026-10-09T06:35:08.811Z"
+          },
+          "body": "East Maui Regional Community Board"
+        },
+        {
+          "dateISO": "2024-11-14",
+          "text": "The chair said a long-term East Maui water license item returned to the state land board's agenda on November 1.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "5iHkOVL1-vQ",
+            "ts": "0:31:50",
+            "retrievedISO": "2026-10-09T06:35:08.811Z"
+          },
+          "body": "East Maui Regional Community Board"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "lahaina-water-use-permit-applications-and-tig-report",
+      "title": "Lahaina water use permit applications and TIG report",
+      "summary": "On August 23 the board voted unanimously to approve the Temporary Investigative Group (TIG) report on water use permit applications in the Lahaina surface and groundwater management area, and it is to be sent to Commission on Water Resource Management (CWRM). The report found requests of almost 9 million gallons a day, 213% of reported existing use, and called the sustainable yield numbers indefensible as regulatory rules. It recommends reviewing surface and groundwater applications together and a full monitoring program before non-conditional permits.",
+      "topics": [
+        "water",
+        "disaster-recovery"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-08-06",
+      "lastSeenISO": "2026-08-23",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 2,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-12",
+      "timeline": [
+        {
+          "dateISO": "2026-08-23",
+          "text": "Members voted by raising hands, and the chair said the vote was unanimous and the motion passed.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Uxd8in6m_XU",
+            "ts": "0:03:55",
+            "retrievedISO": "2026-10-07T23:26:07.567Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "The member said it will take attention over years, maybe decades, to fix some poor planning from the past.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Uxd8in6m_XU",
+            "ts": "0:03:15",
+            "retrievedISO": "2026-10-07T23:26:07.567Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "The member said the permit process is just the beginning and is only partially complete.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Uxd8in6m_XU",
+            "ts": "0:02:58",
+            "retrievedISO": "2026-10-07T23:26:07.567Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "The member said the report is meant as a reference for the board and the public as permitting goes forward.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Uxd8in6m_XU",
+            "ts": "0:02:49",
+            "retrievedISO": "2026-10-07T23:26:07.567Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "The member said the process is very complicated, even for an expert in water.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Uxd8in6m_XU",
+            "ts": "0:02:27",
+            "retrievedISO": "2026-10-07T23:26:07.567Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "A member said the report is meant to help the public understand a permit process that is hard even for experts.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Uxd8in6m_XU",
+            "ts": "0:02:13",
+            "retrievedISO": "2026-10-07T23:26:07.567Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "The chair thanked the group for the work and research behind the report.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Uxd8in6m_XU",
+            "ts": "0:01:39",
+            "retrievedISO": "2026-10-07T23:26:07.567Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "A board member moved to approve the Temporary Investigative Group (TIG) report, and another member seconded the motion.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Uxd8in6m_XU",
+            "ts": "0:00:57",
+            "retrievedISO": "2026-10-07T23:26:07.567Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "The chair closed testimony at 2:24 p.m.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Uxd8in6m_XU",
+            "ts": "0:00:40",
+            "retrievedISO": "2026-10-07T23:26:07.567Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "No one signed up to testify on this item.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Uxd8in6m_XU",
+            "ts": "0:00:25",
+            "retrievedISO": "2026-10-07T23:26:07.567Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "The approved report is to be sent to Commission on Water Resource Management (CWRM).",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Uxd8in6m_XU",
+            "ts": "0:00:18",
+            "retrievedISO": "2026-10-07T23:26:07.567Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "The chair said the board would vote to approve the report so it can be sent to Commission on Water Resource Management (CWRM).",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Uxd8in6m_XU",
+            "ts": "0:00:16",
+            "retrievedISO": "2026-10-07T23:26:07.567Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "The chair said the Temporary Investigative Group (TIG) presented its report to the board at the last meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Uxd8in6m_XU",
+            "ts": "0:00:11",
+            "retrievedISO": "2026-10-07T23:26:07.567Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-23",
+          "text": "The board took up the Temporary Investigative Group (TIG) report on water use permit applications in the Lahaina surface and groundwater management area.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Uxd8in6m_XU",
+            "ts": "0:00:00",
+            "retrievedISO": "2026-10-07T23:26:07.567Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "A member of the public was asked to send questions in writing to the board secretary before the next meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "uQiD8x_WZyY",
+            "ts": "0:58:27",
+            "retrievedISO": "2026-10-07T23:26:11.732Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "Whether to accept or reject the report, or send the whole report or just a letter, will be decided at the next meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "uQiD8x_WZyY",
+            "ts": "0:57:42",
+            "retrievedISO": "2026-10-07T23:26:11.732Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "Members are to write down questions and send them to the board secretary before the agenda posting deadline.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "uQiD8x_WZyY",
+            "ts": "0:56:39",
+            "retrievedISO": "2026-10-07T23:26:11.732Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "Counsel advised members to send written questions to the board secretary rather than contact group members individually, because of open-meeting rules.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "uQiD8x_WZyY",
+            "ts": "0:55:54",
+            "retrievedISO": "2026-10-07T23:26:11.732Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "At the next meeting, the board will be able to ask questions, discuss and vote on the report.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "uQiD8x_WZyY",
+            "ts": "0:50:16",
+            "retrievedISO": "2026-10-07T23:26:11.732Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "The group recommended a full water monitoring program before the state issues non-conditional water use permits.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "uQiD8x_WZyY",
+            "ts": "0:48:50",
+            "retrievedISO": "2026-10-07T23:26:11.732Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "The group recommended that surface water and groundwater applications be reviewed together, not in separate batches.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "uQiD8x_WZyY",
+            "ts": "0:46:59",
+            "retrievedISO": "2026-10-07T23:26:11.732Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "The group called the sustainable yield numbers (estimates of how much water can safely be used) indefensible as regulatory rules.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "uQiD8x_WZyY",
+            "ts": "0:45:15",
+            "retrievedISO": "2026-10-07T23:26:11.732Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "The group said the requests are basically incapable of being satisfied with existing surface water.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "uQiD8x_WZyY",
+            "ts": "0:44:43",
+            "retrievedISO": "2026-10-07T23:26:11.732Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "Total requests are almost 9 million gallons a day, which is 213% of reported existing use.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "uQiD8x_WZyY",
+            "ts": "0:44:20",
+            "retrievedISO": "2026-10-07T23:26:11.732Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "That application asks for 1.6 million gallons a day but claims to return 3 million, with no explanation.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "uQiD8x_WZyY",
+            "ts": "0:43:52",
+            "retrievedISO": "2026-10-07T23:26:11.732Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "One application, number 6065, requests 1.6 million gallons a day but claims a return of 3 million gallons a day.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "uQiD8x_WZyY",
+            "ts": "0:43:00",
+            "retrievedISO": "2026-10-07T23:26:11.732Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "The group found nothing objectionable in the applications except one.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "uQiD8x_WZyY",
+            "ts": "0:41:51",
+            "retrievedISO": "2026-10-07T23:26:11.732Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "The group said this batch held only surface water applications, but surface water and groundwater must be judged together.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "uQiD8x_WZyY",
+            "ts": "0:40:42",
+            "retrievedISO": "2026-10-07T23:26:11.732Z"
+          },
+          "body": "Board of Water Supply"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "new-west-maui-wells-timeline",
+      "title": "New West Maui wells timeline",
+      "summary": "On September 17, staff presented a timeline for new West Maui water source projects, as the director had said in July would happen. The Kahana well is projected to finish in the fourth quarter of this year and the H2 well in early 2032, with several wells on overlapping timelines. Staff said the L1 and H1 wells are fully funded and all four wells will be paid for through federal grants or the water system development fund.",
+      "topics": [
+        "water",
+        "disaster-recovery"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-07-16",
+      "lastSeenISO": "2026-09-17",
+      "signals": {
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 2,
+        "mentionsLast30d": 3,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-12",
+      "timeline": [
+        {
+          "dateISO": "2026-09-17",
+          "text": "Staff said the four wells are a top priority for West Maui residents, for reliable water for fire protection and peak demand.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mJyIAre9As4",
+            "ts": "0:58:42",
+            "retrievedISO": "2026-10-07T23:03:55.224Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "Staff said all four wells will be funded through federal grants or the department's water system development fund.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mJyIAre9As4",
+            "ts": "0:57:58",
+            "retrievedISO": "2026-10-07T23:03:55.224Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "Staff said the L1 and H1 wells are fully funded.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mJyIAre9As4",
+            "ts": "0:57:09",
+            "retrievedISO": "2026-10-07T23:03:55.224Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "The well called H2 is projected to be finished in early 2032.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mJyIAre9As4",
+            "ts": "0:54:31",
+            "retrievedISO": "2026-10-07T23:03:55.224Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "The Kahana well is projected to be finished in the fourth quarter of this year.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mJyIAre9As4",
+            "ts": "0:49:04",
+            "retrievedISO": "2026-10-07T23:03:55.224Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "The water department is working on several new West Maui wells on overlapping timelines.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mJyIAre9As4",
+            "ts": "0:48:19",
+            "retrievedISO": "2026-10-07T23:03:55.224Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-07-16",
+          "text": "A board member asked to add the West Maui well schedule and desalination report release to a future agenda.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "zjBo8277OWs",
+            "ts": "0:33:17",
+            "retrievedISO": "2026-10-09T06:35:03.270Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-07-16",
+          "text": "The director said a West Maui well development schedule should be presented in September.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "zjBo8277OWs",
+            "ts": "0:16:26",
+            "retrievedISO": "2026-10-09T06:35:03.270Z"
+          },
+          "body": "Board of Water Supply"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "proposed-maui-county-passenger-ferry-to-molokai-and-lanai",
+      "title": "Proposed Maui County passenger ferry to Molokaʻi and Lānaʻi",
+      "summary": "At a September 17 community meeting, Maui County transportation staff said the Maui Ferry project is \"not a done deal\" and that a draft environmental assessment will be released for public comment. The passenger-only ferry, with boats holding 149 people, would be run by a private company under a county contract, with Molokaʻi service hoped for by early 2029. The Maui harbor is not chosen, and the County Council will set fares.",
+      "topics": [
+        "transportation"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-09-03",
+      "lastSeenISO": "2026-09-17",
+      "signals": {
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 2,
+        "mentionsLast30d": 3,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-12",
+      "timeline": [
+        {
+          "dateISO": "2026-09-17",
+          "text": "Project updates will be posted on the county website landing page.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pNKa-YoxirU",
+            "ts": "1:10:06",
+            "retrievedISO": "2026-10-07T23:03:47.562Z"
+          },
+          "body": "Maui County Department of Transportation"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "Residents were asked to fill out a questionnaire through a QR code in the brochure.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pNKa-YoxirU",
+            "ts": "1:09:35",
+            "retrievedISO": "2026-10-07T23:03:47.562Z"
+          },
+          "body": "Maui County Department of Transportation"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "Staff said a transportation study of harbor connections will start next month.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pNKa-YoxirU",
+            "ts": "1:02:53",
+            "retrievedISO": "2026-10-07T23:03:47.562Z"
+          },
+          "body": "Maui County Department of Transportation"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "Staff said Molokaʻi fares would likely match Lānaʻi fares.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pNKa-YoxirU",
+            "ts": "0:55:13",
+            "retrievedISO": "2026-10-07T23:03:47.562Z"
+          },
+          "body": "Maui County Department of Transportation"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "A resident said supplies, including food, ran short on Molokaʻi after a winter storm.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pNKa-YoxirU",
+            "ts": "0:27:36",
+            "retrievedISO": "2026-10-07T23:03:47.562Z"
+          },
+          "body": "Maui County Department of Transportation"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "A draft environmental assessment will be released, and public comments will be added before it is finished.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pNKa-YoxirU",
+            "ts": "0:24:00",
+            "retrievedISO": "2026-10-07T23:03:47.562Z"
+          },
+          "body": "Maui County Department of Transportation"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "The County Council, not the department, will set fares through the budget process.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pNKa-YoxirU",
+            "ts": "0:23:06",
+            "retrievedISO": "2026-10-07T23:03:47.562Z"
+          },
+          "body": "Maui County Department of Transportation"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "The department will pass residents' fare suggestions to the County Council.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pNKa-YoxirU",
+            "ts": "0:23:02",
+            "retrievedISO": "2026-10-07T23:03:47.562Z"
+          },
+          "body": "Maui County Department of Transportation"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "The current adult fare to Lānaʻi is $40 one way.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pNKa-YoxirU",
+            "ts": "0:22:37",
+            "retrievedISO": "2026-10-07T23:03:47.562Z"
+          },
+          "body": "Maui County Department of Transportation"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "Ticket sales would cover about 60 percent of that, or about $3 million.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pNKa-YoxirU",
+            "ts": "0:21:26",
+            "retrievedISO": "2026-10-07T23:03:47.562Z"
+          },
+          "body": "Maui County Department of Transportation"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "The yearly operating cost for Lānaʻi service is estimated at about $5 million, not counting new boats.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pNKa-YoxirU",
+            "ts": "0:20:50",
+            "retrievedISO": "2026-10-07T23:03:47.562Z"
+          },
+          "body": "Maui County Department of Transportation"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "The Maui harbor has not been chosen; the county is waiting to see how the rebuild after the fires goes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pNKa-YoxirU",
+            "ts": "0:16:46",
+            "retrievedISO": "2026-10-07T23:03:47.562Z"
+          },
+          "body": "Maui County Department of Transportation"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "Molokaʻi service is hoped for by early 2029.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pNKa-YoxirU",
+            "ts": "0:15:21",
+            "retrievedISO": "2026-10-07T23:03:47.562Z"
+          },
+          "body": "Maui County Department of Transportation"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "A private company would run it under a county contract chosen through a call for bids.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pNKa-YoxirU",
+            "ts": "0:14:51",
+            "retrievedISO": "2026-10-07T23:03:47.562Z"
+          },
+          "body": "Maui County Department of Transportation"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "The ferry would carry passengers only, on vessels holding 149 people.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pNKa-YoxirU",
+            "ts": "0:14:34",
+            "retrievedISO": "2026-10-07T23:03:47.562Z"
+          },
+          "body": "Maui County Department of Transportation"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "Residents said they want an affordable ferry to visit family and reach medical care on Maui.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pNKa-YoxirU",
+            "ts": "0:03:30",
+            "retrievedISO": "2026-10-07T23:03:47.562Z"
+          },
+          "body": "Maui County Department of Transportation"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "A Maui County Department of Transportation staff member opened a community meeting on the proposed Maui Ferry project.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pNKa-YoxirU",
+            "ts": "0:00:03",
+            "retrievedISO": "2026-10-07T23:03:47.562Z"
+          },
+          "body": "Maui County Department of Transportation"
+        },
+        {
+          "dateISO": "2026-09-03",
+          "text": "Recommendations to the Department of Transportation on the Maui County ferry environmental study: The commission voted to send its recommendations on the ferry study to the Department of Transportation, with no opposition heard.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vhZUiN4y4Zw",
+            "ts": "1:12:40",
+            "retrievedISO": "2026-10-07T23:04:02.794Z"
+          },
+          "body": "Cultural Resources Commission"
+        },
+        {
+          "dateISO": "2026-09-03",
+          "text": "Planning staff said the commission's ferry comments would probably be sent sometime next week.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vhZUiN4y4Zw",
+            "ts": "0:25:40",
+            "retrievedISO": "2026-10-07T23:04:02.794Z"
+          },
+          "body": "Cultural Resources Commission"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "search-for-new-department-of-personnel-services-director",
+      "title": "Search for new Department of Personnel Services director",
+      "summary": "On October 8, the Civil Service Commission unanimously voted to appoint its top-ranked finalist as the new Department of Personnel Services (DPS) director, after the October 7 vote was put off because the chair was absent. The finalist scored 378 of 450 points among 17 applicants. The offer stands pending a post-offer background check, which DPS does not currently run, and the interim leaders will keep serving until the appointment is final.",
+      "topics": [
+        "government"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-08-12",
+      "lastSeenISO": "2026-10-08",
+      "signals": {
+        "meetingsLast30d": 3,
+        "meetingsLast90d": 6,
+        "mentionsLast30d": 7,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-12",
+      "timeline": [
+        {
+          "dateISO": "2026-10-08",
+          "text": "The acting commission secretary will continue until the new director selects a private secretary.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fTuTemrBtCY",
+            "ts": "0:27:22",
+            "retrievedISO": "2026-10-11T05:51:21.505Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-10-08",
+          "text": "Motion to assign a commissioner to lead drafting letters to the candidates and other offices: The commission assigned a commissioner to work with legal counsel on drafting letters to the candidates and other offices as required.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fTuTemrBtCY",
+            "ts": "0:23:41",
+            "retrievedISO": "2026-10-11T05:51:21.505Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-10-08",
+          "text": "Legal counsel said a press release may follow later, after the mayor's office is notified.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fTuTemrBtCY",
+            "ts": "0:23:12",
+            "retrievedISO": "2026-10-11T05:51:21.505Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-10-08",
+          "text": "Legal counsel said letters would also go to the mayor's office and the council.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fTuTemrBtCY",
+            "ts": "0:22:58",
+            "retrievedISO": "2026-10-11T05:51:21.505Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-10-08",
+          "text": "A commissioner will lead drafting letters to the selected finalist and the two other finalists.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fTuTemrBtCY",
+            "ts": "0:22:02",
+            "retrievedISO": "2026-10-11T05:51:21.505Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-10-08",
+          "text": "The chair said the job offer stands, pending a successful outcome of that process.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fTuTemrBtCY",
+            "ts": "0:20:12",
+            "retrievedISO": "2026-10-11T05:51:21.505Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-10-08",
+          "text": "Legal counsel said she can work with the interim director to set up the background check for Department of Personnel Services (DPS).",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fTuTemrBtCY",
+            "ts": "0:19:27",
+            "retrievedISO": "2026-10-11T05:51:21.505Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-10-08",
+          "text": "The interim director said Department of Personnel Services (DPS) does not currently run background checks.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fTuTemrBtCY",
+            "ts": "0:19:00",
+            "retrievedISO": "2026-10-11T05:51:21.505Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-10-08",
+          "text": "Counsel said a recent audit found the county lacked uniform screening and background checks.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fTuTemrBtCY",
+            "ts": "0:16:45",
+            "retrievedISO": "2026-10-11T05:51:21.505Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-10-08",
+          "text": "Legal counsel raised a post-offer background check, a check done after a job offer.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fTuTemrBtCY",
+            "ts": "0:14:59",
+            "retrievedISO": "2026-10-11T05:51:21.505Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-10-08",
+          "text": "The interim director and interim deputy director were asked to continue until the final appointment is made.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fTuTemrBtCY",
+            "ts": "0:14:07",
+            "retrievedISO": "2026-10-11T05:51:21.505Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-10-08",
+          "text": "Motion to appoint the top-ranked finalist as the new director: The commission approved appointing the top-ranked finalist as the new Department of Personnel Services (DPS) director on a roll call vote announced as unanimous.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fTuTemrBtCY",
+            "ts": "0:12:14",
+            "retrievedISO": "2026-10-11T05:51:21.505Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-10-08",
+          "text": "A commissioner moved to appoint the top-ranked finalist as director, and Commissioner Lee seconded.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fTuTemrBtCY",
+            "ts": "0:10:21",
+            "retrievedISO": "2026-10-11T05:51:21.505Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-10-08",
+          "text": "The top-ranked finalist received 378 of 450 points and ranked first overall.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fTuTemrBtCY",
+            "ts": "0:07:46",
+            "retrievedISO": "2026-10-11T05:51:21.505Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-10-08",
+          "text": "Each commissioner scored finalists out of 90 points, for a possible total of 450.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fTuTemrBtCY",
+            "ts": "0:06:23",
+            "retrievedISO": "2026-10-11T05:51:21.505Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-10-08",
+          "text": "The commission received 17 applications, with identifying details removed before review.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fTuTemrBtCY",
+            "ts": "0:04:00",
+            "retrievedISO": "2026-10-11T05:51:21.505Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-10-08",
+          "text": "The meeting's purpose was to choose a new director of Department of Personnel Services (DPS).",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fTuTemrBtCY",
+            "ts": "0:02:28",
+            "retrievedISO": "2026-10-11T05:51:21.505Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-10-08",
+          "text": "The Civil Service Commission reconvened a meeting that had been recessed on October 7.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fTuTemrBtCY",
+            "ts": "0:00:41",
+            "retrievedISO": "2026-10-11T05:51:21.505Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-10-07",
+          "text": "Old business item 5A: deliberation on selecting a new director of personnel services: The selection of a new director of personnel services was deferred because the chair was absent.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yMbc5cKnAGk",
+            "ts": "0:05:26",
+            "retrievedISO": "2026-10-11T05:47:59.118Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-30",
+          "text": "Motion to go into executive session under HRS 92-5A4: The commission voted to go into executive session to consult its attorney about including public testimony.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "sf2Uy63wJNE",
+            "ts": "3:46:48",
+            "retrievedISO": "2026-10-07T20:19:47.406Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-30",
+          "text": "A commissioner said if none of the three fits, the commission may start over.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "sf2Uy63wJNE",
+            "ts": "3:43:53",
+            "retrievedISO": "2026-10-07T20:19:47.406Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-30",
+          "text": "Scores may be discussed in executive session because they contain sensitive information.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "sf2Uy63wJNE",
+            "ts": "3:27:23",
+            "retrievedISO": "2026-10-07T20:19:47.406Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-30",
+          "text": "The final choice will be made by majority vote, not consensus.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "sf2Uy63wJNE",
+            "ts": "3:22:07",
+            "retrievedISO": "2026-10-07T20:19:47.406Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-30",
+          "text": "Public testimony will be accepted up to the day of the meeting, but earlier written testimony gives commissioners more time to review it.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "sf2Uy63wJNE",
+            "ts": "3:01:16",
+            "retrievedISO": "2026-10-07T20:19:47.406Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-30",
+          "text": "Commissioners may ask the candidates follow-up questions by phone and bring the answers back to the whole commission.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "sf2Uy63wJNE",
+            "ts": "2:49:04",
+            "retrievedISO": "2026-10-07T20:19:47.406Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-30",
+          "text": "Commissioners plan to meet October 7 to review the candidates and hopefully decide.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "sf2Uy63wJNE",
+            "ts": "2:48:53",
+            "retrievedISO": "2026-10-07T20:19:47.406Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-30",
+          "text": "Candidates will be told the commission's decision.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "sf2Uy63wJNE",
+            "ts": "2:47:25",
+            "retrievedISO": "2026-10-07T20:19:47.406Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-30",
+          "text": "She said she is applying because she worries the county's HR project could fall flat.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "sf2Uy63wJNE",
+            "ts": "2:35:55",
+            "retrievedISO": "2026-10-07T20:19:47.406Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-30",
+          "text": "He said Department of Personnel Services (DPS) turned down his department's retention incentive plan as too hard to negotiate.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "sf2Uy63wJNE",
+            "ts": "1:42:56",
+            "retrievedISO": "2026-10-07T20:19:47.406Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-30",
+          "text": "The second candidate said he is a public works deputy director with 11 years at the county.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "sf2Uy63wJNE",
+            "ts": "1:01:11",
+            "retrievedISO": "2026-10-07T20:19:47.406Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-30",
+          "text": "The first candidate said his approach would have a strong labor focus built on trust.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "sf2Uy63wJNE",
+            "ts": "0:05:13",
+            "retrievedISO": "2026-10-07T20:19:47.406Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-30",
+          "text": "The meeting was for interviews of candidates for Department of Personnel Services (DPS) director.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "sf2Uy63wJNE",
+            "ts": "0:01:34",
+            "retrievedISO": "2026-10-07T20:19:47.406Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-30",
+          "text": "The Civil Service Commission of the County of Maui met September 30, 2026, at about 9:02 a.m.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "sf2Uy63wJNE",
+            "ts": "0:00:31",
+            "retrievedISO": "2026-10-07T20:19:47.406Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-28",
+          "text": "Commissioners divided five interview questions among themselves.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "H9lx2zorcDM",
+            "ts": "0:24:24",
+            "retrievedISO": "2026-10-06T04:46:18.801Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-28",
+          "text": "Final choices on who asks which question must be made after the meeting starts at 9:00.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "H9lx2zorcDM",
+            "ts": "0:23:45",
+            "retrievedISO": "2026-10-06T04:46:18.801Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-28",
+          "text": "A commissioner said an earlier call to keep Department of Personnel Services (DPS) staff out applied only to an earlier stage.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "H9lx2zorcDM",
+            "ts": "0:19:00",
+            "retrievedISO": "2026-10-06T04:46:18.801Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-28",
+          "text": "Yukari will draft the invitation email to Department of Personnel Services (DPS) employees.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "H9lx2zorcDM",
+            "ts": "0:17:51",
+            "retrievedISO": "2026-10-06T04:46:18.801Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-28",
+          "text": "Motion to extend an invitation to members of Department of Personnel Services (DPS) to be a part of the selection process: The motion to invite DPS employees to take part in the selection process carried.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "H9lx2zorcDM",
+            "ts": "0:17:26",
+            "retrievedISO": "2026-10-06T04:46:18.801Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-28",
+          "text": "Employees are invited to watch the interviews live and send anonymous comments afterward.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "H9lx2zorcDM",
+            "ts": "0:16:23",
+            "retrievedISO": "2026-10-06T04:46:18.801Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-28",
+          "text": "Each applicant will give a 3- to 5-minute summary of their statement before answering questions.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "H9lx2zorcDM",
+            "ts": "0:15:20",
+            "retrievedISO": "2026-10-06T04:46:18.801Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-28",
+          "text": "All applicants will arrive at 9:00, be kept in a separate room, and be interviewed one at a time.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "H9lx2zorcDM",
+            "ts": "0:15:06",
+            "retrievedISO": "2026-10-06T04:46:18.801Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-28",
+          "text": "Interviews are set for the 30th.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "H9lx2zorcDM",
+            "ts": "0:13:59",
+            "retrievedISO": "2026-10-06T04:46:18.801Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-28",
+          "text": "A final email will tell candidates their interview time may be earlier or later depending on public testimony.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "H9lx2zorcDM",
+            "ts": "0:09:50",
+            "retrievedISO": "2026-10-06T04:46:18.801Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-28",
+          "text": "Commissioners agreed to keep the schedule as prepared and stay flexible.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "H9lx2zorcDM",
+            "ts": "0:07:09",
+            "retrievedISO": "2026-10-06T04:46:18.801Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-28",
+          "text": "A draft schedule sets interviews at 10:00, 12:00 and 2:00.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "H9lx2zorcDM",
+            "ts": "0:05:00",
+            "retrievedISO": "2026-10-06T04:46:18.801Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-28",
+          "text": "The goal was to finalize the timeline and selection process for the department's new leader.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "H9lx2zorcDM",
+            "ts": "0:03:10",
+            "retrievedISO": "2026-10-06T04:46:18.801Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-02",
+          "text": "Commissioners will work on interview questions between now and the 16th.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tTdredHGJvc",
+            "ts": "1:58:12",
+            "retrievedISO": "2026-10-07T23:04:03.757Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-02",
+          "text": "Commissioners discussed writing interview questions in groups of two.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tTdredHGJvc",
+            "ts": "1:57:31",
+            "retrievedISO": "2026-10-07T23:04:03.757Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-02",
+          "text": "The chair suggested putting the director search topic on the agenda for the 16th.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tTdredHGJvc",
+            "ts": "1:37:49",
+            "retrievedISO": "2026-10-07T23:04:03.757Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-02",
+          "text": "Commissioners discussed a full day of candidate interviews on the 30th.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tTdredHGJvc",
+            "ts": "1:26:14",
+            "retrievedISO": "2026-10-07T23:04:03.757Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-02",
+          "text": "A commissioner pointed to a 25-point gap between the fourth- and fifth-ranked candidates.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tTdredHGJvc",
+            "ts": "1:19:05",
+            "retrievedISO": "2026-10-07T23:04:03.757Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-02",
+          "text": "Staff said two director candidates had confirmed so far, with a deadline this Friday.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tTdredHGJvc",
+            "ts": "1:12:37",
+            "retrievedISO": "2026-10-07T23:04:03.757Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "Stakeholder engagement email: The commission authorized a commissioner to write the stakeholder email and send it with help from county lawyers and the personnel department.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "-MFOZYw7b7E",
+            "ts": "2:28:03",
+            "retrievedISO": "2026-10-07T23:04:04.593Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "Commissioners said the pick will be made by majority vote and need not be unanimous.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "-MFOZYw7b7E",
+            "ts": "2:04:04",
+            "retrievedISO": "2026-10-07T23:04:04.593Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "Staff will check with other departments on how post-offer background checks are done.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "-MFOZYw7b7E",
+            "ts": "2:01:08",
+            "retrievedISO": "2026-10-07T23:04:04.593Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "The September 2 meeting will be extended until 3 p.m. for an executive session.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "-MFOZYw7b7E",
+            "ts": "1:56:35",
+            "retrievedISO": "2026-10-07T23:04:04.593Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "A stakeholder meeting was set for September 16 from 1 to 4.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "-MFOZYw7b7E",
+            "ts": "1:54:05",
+            "retrievedISO": "2026-10-07T23:04:04.593Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "October 7 is listed as the selection date.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "-MFOZYw7b7E",
+            "ts": "1:42:09",
+            "retrievedISO": "2026-10-07T23:04:04.593Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "Interviews are set for September 30.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "-MFOZYw7b7E",
+            "ts": "1:42:05",
+            "retrievedISO": "2026-10-07T23:04:04.593Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "Leader's intent responses and reference questionnaire answers are due September 18.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "-MFOZYw7b7E",
+            "ts": "1:41:59",
+            "retrievedISO": "2026-10-07T23:04:04.593Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "Candidates must send their list of references by September 4.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "-MFOZYw7b7E",
+            "ts": "1:41:55",
+            "retrievedISO": "2026-10-07T23:04:04.593Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "Reference questionnaires will go out as candidates send in their reference lists.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "-MFOZYw7b7E",
+            "ts": "1:40:59",
+            "retrievedISO": "2026-10-07T23:04:04.593Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "Legal advice on interview questions can be discussed in executive session (a closed-door meeting).",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "-MFOZYw7b7E",
+            "ts": "1:29:04",
+            "retrievedISO": "2026-10-07T23:04:04.593Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "Leader's intent statement: The commission approved the leader's intent statement as drafted.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "-MFOZYw7b7E",
+            "ts": "1:19:58",
+            "retrievedISO": "2026-10-07T23:04:04.593Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "Topics for the candidate cover letter: The commission approved the list of topics for the candidate cover letter.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "-MFOZYw7b7E",
+            "ts": "1:19:22",
+            "retrievedISO": "2026-10-07T23:04:04.593Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "A commissioner moved to set the topics for a letter to candidates, including required in-person interviews.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "-MFOZYw7b7E",
+            "ts": "1:14:09",
+            "retrievedISO": "2026-10-07T23:04:04.593Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "Professional reference questionnaire as amended: The commission approved the professional reference questionnaire with the changes made at the meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "-MFOZYw7b7E",
+            "ts": "0:41:47",
+            "retrievedISO": "2026-10-07T23:04:04.593Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "The commission approved a professional reference questionnaire cut to nine questions.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "-MFOZYw7b7E",
+            "ts": "0:40:55",
+            "retrievedISO": "2026-10-07T23:04:04.593Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "Commissioners agreed that references should send answers directly to the commission, not through the candidate.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "-MFOZYw7b7E",
+            "ts": "0:38:45",
+            "retrievedISO": "2026-10-07T23:04:04.593Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "The commission reviewed its plan for hiring a new Department of Personnel Services director.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "-MFOZYw7b7E",
+            "ts": "0:02:01",
+            "retrievedISO": "2026-10-07T23:04:04.593Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-08-12",
+          "text": "A special meeting with resource people, such as the former director, may be held before the interviews.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jn-8_dj8Chs",
+            "ts": "2:00:07",
+            "retrievedISO": "2026-10-12T06:30:09.786Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-12",
+          "text": "Commissioners will bring their edits and a to-do list to the meeting on the 26th.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jn-8_dj8Chs",
+            "ts": "1:59:36",
+            "retrievedISO": "2026-10-12T06:30:09.786Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-12",
+          "text": "The 29th and 30th of September were held as possible interview dates.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jn-8_dj8Chs",
+            "ts": "1:56:41",
+            "retrievedISO": "2026-10-12T06:30:09.786Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-12",
+          "text": "The commission will research whether it can require candidates to interview in person.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jn-8_dj8Chs",
+            "ts": "1:39:07",
+            "retrievedISO": "2026-10-12T06:30:09.786Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-12",
+          "text": "A rough timeline has interviews starting the week of September 28.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jn-8_dj8Chs",
+            "ts": "1:37:24",
+            "retrievedISO": "2026-10-12T06:30:09.786Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-12",
+          "text": "Commissioners plan to meet on the 26th from 9 to 12 to finish the packet.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jn-8_dj8Chs",
+            "ts": "1:31:22",
+            "retrievedISO": "2026-10-12T06:30:09.786Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-12",
+          "text": "A commissioner will draft the candidate cover letter with dates left blank, working with corporation counsel.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jn-8_dj8Chs",
+            "ts": "1:13:06",
+            "retrievedISO": "2026-10-12T06:30:09.786Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-12",
+          "text": "Commissioners want to cut the 24-question reference questionnaire down to 10 questions.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jn-8_dj8Chs",
+            "ts": "1:08:45",
+            "retrievedISO": "2026-10-12T06:30:09.786Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-12",
+          "text": "The vice chair read an email from an absent commissioner who favored interviews by the full commission.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jn-8_dj8Chs",
+            "ts": "0:44:56",
+            "retrievedISO": "2026-10-12T06:30:09.786Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-12",
+          "text": "A commissioner said OIP advised against using executive session, a closed-door discussion, for the interviews.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jn-8_dj8Chs",
+            "ts": "0:39:47",
+            "retrievedISO": "2026-10-12T06:30:09.786Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-12",
+          "text": "If no candidates are left, the commission will meet again to decide next steps.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jn-8_dj8Chs",
+            "ts": "0:35:18",
+            "retrievedISO": "2026-10-12T06:30:09.786Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-12",
+          "text": "Replacements go only down to rank six; commission reconvenes if no candidates remain: The commission approved limiting replacements to candidates ranked down to six by voice vote.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jn-8_dj8Chs",
+            "ts": "0:35:10",
+            "retrievedISO": "2026-10-12T06:30:09.786Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-12",
+          "text": "Reduce the top six candidates to four, with dropouts replaced in ranked order: The commission approved interviewing the top four instead of six by voice vote.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jn-8_dj8Chs",
+            "ts": "0:29:30",
+            "retrievedISO": "2026-10-12T06:30:09.786Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-12",
+          "text": "The Civil Service Commission worked on the timeline and process for choosing a new department director.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jn-8_dj8Chs",
+            "ts": "0:01:48",
+            "retrievedISO": "2026-10-12T06:30:09.786Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "2027-mass-nominations-for-county-boards",
+      "title": "2027 mass nominations",
+      "summary": "On September 23, the board set recruiting plans for the 2027 mass nominations: applications are due November 11th, members will staff county fair shifts, and two will recruit at the senior fair on November 21st at the Cameron Center. The chair said 77 seats exist, with 64 open after removing members eligible for reappointment. On September 9, the board voted to form one small group (TIG) to interview, score and recommend applicants.",
+      "topics": [
+        "government"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-09-09",
+      "lastSeenISO": "2026-09-23",
+      "signals": {
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 2,
+        "mentionsLast30d": 3,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-13",
+      "timeline": [
+        {
+          "dateISO": "2026-09-23",
+          "text": "The chair said the list shows 77 seats, with 64 open after taking out members eligible for reappointment.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "3Jc9Mp68Wcs",
+            "ts": "0:20:12",
+            "retrievedISO": "2026-10-07T23:03:48.406Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-23",
+          "text": "A member suggested sending applications to the working group members as they come in.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "3Jc9Mp68Wcs",
+            "ts": "0:18:09",
+            "retrievedISO": "2026-10-07T23:03:48.406Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-23",
+          "text": "Members agreed to use the existing interview questions and grading.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "3Jc9Mp68Wcs",
+            "ts": "0:16:12",
+            "retrievedISO": "2026-10-07T23:03:48.406Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-23",
+          "text": "Applications for the 2027 mass nominations are due November 11th.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "3Jc9Mp68Wcs",
+            "ts": "0:13:58",
+            "retrievedISO": "2026-10-07T23:03:48.406Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-23",
+          "text": "Two members will recruit at the senior fair on November 21st at the Cameron Center.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "3Jc9Mp68Wcs",
+            "ts": "0:09:38",
+            "retrievedISO": "2026-10-07T23:03:48.406Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-23",
+          "text": "Board members will work recruiting shifts at the county fair.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "3Jc9Mp68Wcs",
+            "ts": "0:08:14",
+            "retrievedISO": "2026-10-07T23:03:48.406Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "Staff agreed to bring a plan and timeline for the Temporary Investigative Group (TIG) to the next meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "x2IjROxHuYY",
+            "ts": "1:06:01",
+            "retrievedISO": "2026-10-07T23:04:00.900Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "Motion to form one Temporary Investigative Group (TIG) for mass nominations: The board approved a new motion to form one TIG to interview, score and recommend applicants.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "x2IjROxHuYY",
+            "ts": "0:40:58",
+            "retrievedISO": "2026-10-07T23:04:00.900Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "The board voted, with five ayes, to form two TIGs, small groups of members, to interview, score and recommend applicants.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "x2IjROxHuYY",
+            "ts": "0:30:36",
+            "retrievedISO": "2026-10-07T23:04:00.900Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "central-maui-desalination-study-and-report-release",
+      "title": "Central Maui desalination study and report release",
+      "summary": "As of September 17, the director said the desalination report can't be released until the Department of Homeland Security approves it, after promising in July a redacted release by the next meeting. At an August 6 Kīhei meeting, the water department presented a study recommending reverse osmosis, with estimated costs of $119 million to $328 million. Staff said construction would be 10 years or more away.",
+      "topics": [
+        "water"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2024-11-21",
+      "lastSeenISO": "2026-09-17",
+      "signals": {
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 3,
+        "mentionsLast30d": 1,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-12",
+      "timeline": [
+        {
+          "dateISO": "2026-09-17",
+          "text": "The director said a desalination report can't be released until the Department of Homeland Security approves it.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mJyIAre9As4",
+            "ts": "1:05:54",
+            "retrievedISO": "2026-10-07T23:03:55.224Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "Another resident said they should seek any federal funding available for this.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "0XMHdbglvJw",
+            "ts": "1:02:46",
+            "retrievedISO": "2026-10-09T06:35:01.986Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "A consultant said a deeper study of the underground rock and water would be done for injection sites.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "0XMHdbglvJw",
+            "ts": "0:54:13",
+            "retrievedISO": "2026-10-09T06:35:01.986Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "A resident urged focusing on efficiency and infrastructure instead of desalination.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "0XMHdbglvJw",
+            "ts": "0:44:32",
+            "retrievedISO": "2026-10-09T06:35:01.986Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "Staff said construction would be 10 years or more away.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "0XMHdbglvJw",
+            "ts": "0:28:31",
+            "retrievedISO": "2026-10-09T06:35:01.986Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "If the community gives support, the department could select a site and apply for federal funding.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "0XMHdbglvJw",
+            "ts": "0:28:13",
+            "retrievedISO": "2026-10-09T06:35:01.986Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "A four million gallon a day seawater plant would cost an estimated $328 million to build.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "0XMHdbglvJw",
+            "ts": "0:26:17",
+            "retrievedISO": "2026-10-09T06:35:01.986Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "Its estimated building cost is $119 million at half a million gallons a day, or $261 million at two million.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "0XMHdbglvJw",
+            "ts": "0:25:44",
+            "retrievedISO": "2026-10-09T06:35:01.986Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "One option is a brackish water plant starting at half a million gallons a day, expandable to two million.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "0XMHdbglvJw",
+            "ts": "0:24:53",
+            "retrievedISO": "2026-10-09T06:35:01.986Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "It recommended injecting the leftover salty brine into deep wells.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "0XMHdbglvJw",
+            "ts": "0:23:33",
+            "retrievedISO": "2026-10-09T06:35:01.986Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "The study recommended reverse osmosis, a proven filter technology.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "0XMHdbglvJw",
+            "ts": "0:21:42",
+            "retrievedISO": "2026-10-09T06:35:01.986Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "Staff said the central and south Maui water system has been short on water sources for many years.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "0XMHdbglvJw",
+            "ts": "0:06:30",
+            "retrievedISO": "2026-10-09T06:35:01.986Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "The water department is studying desalination of brackish water and seawater as a possible new drinking water source.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "0XMHdbglvJw",
+            "ts": "0:04:49",
+            "retrievedISO": "2026-10-09T06:35:01.986Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "The water department presented findings of a study on desalination, which means removing salt from water.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "0XMHdbglvJw",
+            "ts": "0:00:05",
+            "retrievedISO": "2026-10-09T06:35:01.986Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-16",
+          "text": "A board member asked to add the West Maui well schedule and desalination report release to a future agenda.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "zjBo8277OWs",
+            "ts": "0:33:17",
+            "retrievedISO": "2026-10-09T06:35:03.270Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-07-16",
+          "text": "The director said desalination meetings on the east, south and west sides are in the first week of August.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "zjBo8277OWs",
+            "ts": "0:29:46",
+            "retrievedISO": "2026-10-09T06:35:03.270Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-07-16",
+          "text": "The director said there will be more public outreach before any desalination plant moves forward.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "zjBo8277OWs",
+            "ts": "0:29:16",
+            "retrievedISO": "2026-10-09T06:35:03.270Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-07-16",
+          "text": "The director said building a desalination plant would need much more money than this year's budget.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "zjBo8277OWs",
+            "ts": "0:29:03",
+            "retrievedISO": "2026-10-09T06:35:03.270Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-07-16",
+          "text": "The director said this fiscal year's capital budget money will update the study so it may qualify for federal funding.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "zjBo8277OWs",
+            "ts": "0:28:22",
+            "retrievedISO": "2026-10-09T06:35:03.270Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-07-16",
+          "text": "A member of the public agreed the final report should be out before public testimony.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "zjBo8277OWs",
+            "ts": "0:26:03",
+            "retrievedISO": "2026-10-09T06:35:03.270Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-07-16",
+          "text": "A board member said the public should get the report in time to be informed before public meetings.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "zjBo8277OWs",
+            "ts": "0:15:43",
+            "retrievedISO": "2026-10-09T06:35:03.270Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-07-16",
+          "text": "The director said a desalination grant application would be done early next calendar year if the department decides to go ahead.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "zjBo8277OWs",
+            "ts": "0:15:02",
+            "retrievedISO": "2026-10-09T06:35:03.270Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-07-16",
+          "text": "The director said public hearings on desalination are set for early August.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "zjBo8277OWs",
+            "ts": "0:13:46",
+            "retrievedISO": "2026-10-09T06:35:03.270Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-07-16",
+          "text": "The director said the report is being updated so possible projects could qualify for federal funding.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "zjBo8277OWs",
+            "ts": "0:13:14",
+            "retrievedISO": "2026-10-09T06:35:03.270Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-07-16",
+          "text": "The director said the report should be redacted, with sensitive parts removed, by the next meeting and then released.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "zjBo8277OWs",
+            "ts": "0:13:08",
+            "retrievedISO": "2026-10-09T06:35:03.270Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-07-16",
+          "text": "A board member asked when the desalination (turning salt water into fresh water) report would be released.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "zjBo8277OWs",
+            "ts": "0:12:36",
+            "retrievedISO": "2026-10-09T06:35:03.270Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2024-11-21",
+          "text": "The budget holds $75 million in fiscal year 2029 for possible desalination in Central Maui.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "XD60_Qatcxw",
+            "ts": "1:30:54",
+            "retrievedISO": "2026-10-09T06:35:07.486Z"
+          },
+          "body": "Board of Water Supply"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "children-and-youth-commission-family-survey-findings",
+      "title": "Children and Youth Commission family survey findings",
+      "summary": "At its September 21 meeting, the commission agreed to focus on building awareness of available behavioral health resources for youth and families, after a commissioner suggested the gap may be lack of awareness rather than lack of resources. The chair proposed an agenda item on annual survey reporting and a response goal. In August, the family survey ranked stable housing first, then mental health support and safe youth spaces.",
+      "topics": [
+        "health",
+        "housing",
+        "education"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-08-24",
+      "lastSeenISO": "2026-09-21",
+      "signals": {
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 2,
+        "mentionsLast30d": 3,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-12",
+      "timeline": [
+        {
+          "dateISO": "2026-09-21",
+          "text": "The chair proposed an agenda item at the next meeting on annual survey reporting and a response goal.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "R72ep6UsQvk",
+            "ts": "0:59:31",
+            "retrievedISO": "2026-10-07T23:03:53.466Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-21",
+          "text": "Members discussed reporting survey results once a year or after reaching a set number of responses.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "R72ep6UsQvk",
+            "ts": "0:57:33",
+            "retrievedISO": "2026-10-07T23:03:53.466Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-21",
+          "text": "Members agreed to focus on building awareness of available resources.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "R72ep6UsQvk",
+            "ts": "0:40:14",
+            "retrievedISO": "2026-10-07T23:03:53.466Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-21",
+          "text": "A commissioner said the gap may be a lack of awareness of services, not a lack of resources.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "R72ep6UsQvk",
+            "ts": "0:37:56",
+            "retrievedISO": "2026-10-07T23:03:53.466Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-21",
+          "text": "The commission's community survey pointed to behavioral health supports for youth and families as a concern.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "R72ep6UsQvk",
+            "ts": "0:08:25",
+            "retrievedISO": "2026-10-07T23:03:53.466Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-24",
+          "text": "Community survey distribution update and results check-in: The family survey will stay on the agenda so commissioners can keep checking the data.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "_jJfabaKzgo",
+            "ts": "1:10:34",
+            "retrievedISO": "2026-10-09T06:35:13.605Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-24",
+          "text": "The vice chair will research what youth mental health resources are in place and report at the next meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "_jJfabaKzgo",
+            "ts": "1:07:14",
+            "retrievedISO": "2026-10-09T06:35:13.605Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-24",
+          "text": "Under cost of living, households above 50,000 still named housing as a concern.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "_jJfabaKzgo",
+            "ts": "1:01:10",
+            "retrievedISO": "2026-10-09T06:35:13.605Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-24",
+          "text": "A commissioner said stable housing is ongoing and will take a very long time for families to achieve.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "_jJfabaKzgo",
+            "ts": "0:58:06",
+            "retrievedISO": "2026-10-09T06:35:13.605Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-24",
+          "text": "A commissioner said most people who completed the survey are from \"out here on our side.\"",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "_jJfabaKzgo",
+            "ts": "0:56:48",
+            "retrievedISO": "2026-10-09T06:35:13.605Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-24",
+          "text": "In the commission's family survey, stable housing was the top priority, followed by mental health support and safe youth spaces.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "_jJfabaKzgo",
+            "ts": "0:56:38",
+            "retrievedISO": "2026-10-09T06:35:13.605Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "county-worker-vacancies-and-hr-consultant-review",
+      "title": "County worker vacancies and HR consultant review",
+      "summary": "A commissioner said on October 8 that urgent work lies ahead on vacancies, recruitment, retention and HR reform. The acting director said the department has had more staff turnover than usual and that the county does not do enough exit interviews to learn why employees leave. A consultant's review of recruitment and hiring, classification, and reorganization has done 46 interviews, with 20 more scheduled.",
+      "topics": [
+        "government",
+        "economy"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-09-02",
+      "lastSeenISO": "2026-10-08",
+      "signals": {
+        "meetingsLast30d": 2,
+        "meetingsLast90d": 3,
+        "mentionsLast30d": 3,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-12",
+      "timeline": [
+        {
+          "dateISO": "2026-10-08",
+          "text": "A commissioner said urgent work lies ahead on vacancies, recruitment, retention and HR reform.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fTuTemrBtCY",
+            "ts": "0:26:24",
+            "retrievedISO": "2026-10-11T05:51:21.505Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-10-07",
+          "text": "The acting director said the department had more staff turnover than it usually sees.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yMbc5cKnAGk",
+            "ts": "0:13:03",
+            "retrievedISO": "2026-10-11T05:47:59.118Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-10-07",
+          "text": "The acting director said the county does not do enough exit interviews to learn why employees leave.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yMbc5cKnAGk",
+            "ts": "0:10:14",
+            "retrievedISO": "2026-10-11T05:47:59.118Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-02",
+          "text": "Staff said the consultant has done 46 interviews, with 20 more scheduled.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tTdredHGJvc",
+            "ts": "1:02:25",
+            "retrievedISO": "2026-10-07T23:04:03.757Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-02",
+          "text": "Staff said a consultant's review covers recruitment and hiring, classification, and reorganization.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tTdredHGJvc",
+            "ts": "0:57:16",
+            "retrievedISO": "2026-10-07T23:04:03.757Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-02",
+          "text": "She said a recent focus has been recruiting, because the County has many vacancies.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tTdredHGJvc",
+            "ts": "0:18:26",
+            "retrievedISO": "2026-10-07T23:04:03.757Z"
+          },
+          "body": "Civil Service Commission"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "liquor-control-director-retirement-and-replacement-search",
+      "title": "Liquor Control director retirement and replacement search",
+      "summary": "At a September 21 special meeting, the Liquor Control Commission voted unanimously for an open application process and for a temporary investigative group to hire a search firm and gather, screen and rank applicants. The director announced September 9 that he will retire December 31. The last search took about eight months, and November 23 is held for a possible interview-prep meeting.",
+      "topics": [
+        "government",
+        "public-safety"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-09-09",
+      "lastSeenISO": "2026-09-21",
+      "signals": {
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 2,
+        "mentionsLast30d": 3,
+        "upcomingEvent": {
+          "dateISO": "2026-11-23",
+          "what": "possible special meeting to prepare for interviews",
+          "source": {
+            "type": "meeting",
+            "videoId": "0NdqPwWtF4o",
+            "ts": "1:31:37",
+            "retrievedISO": "2026-10-07T23:03:50.760Z"
+          }
+        }
+      },
+      "asOfISO": "2026-10-12",
+      "timeline": [
+        {
+          "dateISO": "2026-09-21",
+          "text": "Director hiring is a standing item on the regular agenda and can be discussed at the October meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "0NdqPwWtF4o",
+            "ts": "1:34:19",
+            "retrievedISO": "2026-10-07T23:03:50.760Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-21",
+          "text": "November 23 was held for a possible special meeting to prepare for interviews.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "0NdqPwWtF4o",
+            "ts": "1:31:37",
+            "retrievedISO": "2026-10-07T23:03:50.760Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-21",
+          "text": "The group will hire a search firm and work with it to gather, screen and rank applications.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "0NdqPwWtF4o",
+            "ts": "1:10:08",
+            "retrievedISO": "2026-10-07T23:03:50.760Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-21",
+          "text": "The commission voted unanimously to create a temporary investigative group, a small team that works outside public meetings.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "0NdqPwWtF4o",
+            "ts": "1:10:02",
+            "retrievedISO": "2026-10-07T23:03:50.760Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-21",
+          "text": "The commission voted unanimously for an open application process.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "0NdqPwWtF4o",
+            "ts": "0:33:47",
+            "retrievedISO": "2026-10-07T23:03:50.760Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-21",
+          "text": "The director said the last search took about eight months.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "0NdqPwWtF4o",
+            "ts": "0:16:19",
+            "retrievedISO": "2026-10-07T23:03:50.760Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-21",
+          "text": "The job requires five years of law enforcement experience, three of them in administrative work.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "0NdqPwWtF4o",
+            "ts": "0:11:15",
+            "retrievedISO": "2026-10-07T23:03:50.760Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-21",
+          "text": "The deputy corporation counsel said the county rule calls for a hiring process open to any candidate.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "0NdqPwWtF4o",
+            "ts": "0:04:35",
+            "retrievedISO": "2026-10-07T23:03:50.760Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-21",
+          "text": "The director of the Department of Liquor Control announced his retirement at the commission's last meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "0NdqPwWtF4o",
+            "ts": "0:04:08",
+            "retrievedISO": "2026-10-07T23:03:50.760Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-21",
+          "text": "The Liquor Control Commission held a special meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "0NdqPwWtF4o",
+            "ts": "0:00:30",
+            "retrievedISO": "2026-10-07T23:03:50.760Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "A special meeting is set for September 21 at 1:30 p.m. to discuss how to find a new director.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vp8RrdPVBC0",
+            "ts": "1:40:09",
+            "retrievedISO": "2026-10-07T23:03:59.641Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "The department director said he will retire, with December 31 as his last day.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vp8RrdPVBC0",
+            "ts": "1:37:11",
+            "retrievedISO": "2026-10-07T23:03:59.641Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "new-youth-advisory-group-launch",
+      "title": "New youth advisory group launch",
+      "summary": "As of September 21, a youth advisory group not run by the commission has a sign-up flyer with a QR code and hopes to hold its first meeting in mid-October, later than the first week of October hoped for in August. The secretary will email commissioners the agenda and virtual link when available. Commissioners agreed in August the flyer needs no commission approval.",
+      "topics": [
+        "education",
+        "government"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-07-20",
+      "lastSeenISO": "2026-09-21",
+      "signals": {
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 3,
+        "mentionsLast30d": 3,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-12",
+      "timeline": [
+        {
+          "dateISO": "2026-09-21",
+          "text": "The secretary will email commissioners the youth advisory group's first meeting agenda and virtual link to share when it is available.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "R72ep6UsQvk",
+            "ts": "0:53:33",
+            "retrievedISO": "2026-10-07T23:03:53.466Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-21",
+          "text": "The group hopes to hold its first meeting in mid-October.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "R72ep6UsQvk",
+            "ts": "0:51:55",
+            "retrievedISO": "2026-10-07T23:03:53.466Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-21",
+          "text": "A youth advisory group, not run by the commission, has a sign-up flyer with a QR code.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "R72ep6UsQvk",
+            "ts": "0:51:20",
+            "retrievedISO": "2026-10-07T23:03:53.466Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-24",
+          "text": "Youth advisory group materials will be sent to the commission secretary so commissioners can share them.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "_jJfabaKzgo",
+            "ts": "0:39:46",
+            "retrievedISO": "2026-10-09T06:35:13.605Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-24",
+          "text": "Youth advisory group flyer and materials: Commissioners agreed the youth advisory group flyer does not need commission approval.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "_jJfabaKzgo",
+            "ts": "0:39:23",
+            "retrievedISO": "2026-10-09T06:35:13.605Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-24",
+          "text": "The group's first meeting is hoped for the first week of October.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "_jJfabaKzgo",
+            "ts": "0:38:00",
+            "retrievedISO": "2026-10-09T06:35:13.605Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-24",
+          "text": "A commissioner plans a flyer to recruit youth for a youth advisory group.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "_jJfabaKzgo",
+            "ts": "0:37:11",
+            "retrievedISO": "2026-10-09T06:35:13.605Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-20",
+          "text": "A youth group flyer may be added to the next meeting's agenda if a copy is ready.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9Qn8uXAUEl0",
+            "ts": "1:10:50",
+            "retrievedISO": "2026-10-12T06:30:17.159Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-20",
+          "text": "A commissioner agreed to create a flyer for the group and bring it to the next meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9Qn8uXAUEl0",
+            "ts": "1:10:14",
+            "retrievedISO": "2026-10-12T06:30:17.159Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-20",
+          "text": "A commissioner offered to help start the community-led youth advisory group.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9Qn8uXAUEl0",
+            "ts": "1:02:38",
+            "retrievedISO": "2026-10-12T06:30:17.159Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-20",
+          "text": "A youth testifier said she is leaving the proposed youth advisory group.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9Qn8uXAUEl0",
+            "ts": "0:03:52",
+            "retrievedISO": "2026-10-12T06:30:17.159Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "water-supply-role-in-county-planning-and-subdivisions",
+      "title": "Water supply role in county planning and subdivisions",
+      "summary": "On September 17, the board voted to ask the planning director to respond to its letter, with five ayes. It also voted unanimously to ask the planning and water supply directors to jointly attend a meeting and explain their roles in securing water supply for subdivision applications. The letter to the planning department on water supply in the planning process, with its problem statement and discussion questions, was approved unanimously on August 20.",
+      "topics": [
+        "water",
+        "land-use"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-07-16",
+      "lastSeenISO": "2026-09-17",
+      "signals": {
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 3,
+        "mentionsLast30d": 2,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-12",
+      "timeline": [
+        {
+          "dateISO": "2026-09-17",
+          "text": "Motion to request the planning director and the water supply director jointly attend a board meeting: The board voted to ask the planning director and the water supply director to jointly attend a meeting to explain their roles in securing water supply for subdivision applications.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mJyIAre9As4",
+            "ts": "1:23:16",
+            "retrievedISO": "2026-10-07T23:03:55.224Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "Motion to have the planning director respond to the board's letter: The board voted to ask the planning director to respond to the board's letter.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mJyIAre9As4",
+            "ts": "1:20:38",
+            "retrievedISO": "2026-10-07T23:03:55.224Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-08-20",
+          "text": "Attachments to the letter: problem statement and discussion questions: The board unanimously approved the problem statement and discussion questions attached to the letter.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "UjHForbD6sQ",
+            "ts": "0:46:24",
+            "retrievedISO": "2026-10-07T23:26:10.862Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-08-20",
+          "text": "Draft letter to the planning department on considering the water supply in the county's planning process: The board unanimously approved the draft letter to the planning department.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "UjHForbD6sQ",
+            "ts": "0:46:08",
+            "retrievedISO": "2026-10-07T23:26:10.862Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-07-16",
+          "text": "A board member asked to add an item on the need for a Department of Water Supply verification letter for subdivision development.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "zjBo8277OWs",
+            "ts": "0:34:36",
+            "retrievedISO": "2026-10-09T06:35:03.270Z"
+          },
+          "body": "Board of Water Supply"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    }
+  ]
+}
