@@ -1,0 +1,36 @@
+{
+  "slug": "east-maui-watershed-plan-based-on-ahupuaa",
+  "title": "East Maui watershed plan based on ahupuaʻa",
+  "summary": "Staff are starting a watershed plan built on the ahupuaʻa, a traditional Hawaiian resource management system. The work is just beginning and will continue in later meetings.",
+  "topics": [
+    "water",
+    "environment",
+    "culture"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-09-18",
+  "lastSeenISO": "2026-09-18",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 1,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-15",
+  "timeline": [
+    {
+      "dateISO": "2026-09-18",
+      "text": "Staff are starting a watershed plan based on the ahupuaʻa, a traditional Hawaiian resource management system.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jggU3kzKFQI",
+        "ts": "1:02:26",
+        "retrievedISO": "2026-10-07T23:03:54.314Z"
+      },
+      "body": "Aha Moku o Maui Hikina"
+    }
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
