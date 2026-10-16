@@ -197,7 +197,7 @@ function WelcomeSheet() {
     <SheetFrame scroll>
       <SheetTitle eyebrow="Welcome" title="We’re already keeping track.">
         <Txt style={{ fontSize: 14, lineHeight: 21, color: colors.mist }}>
-          {n === 1 ? 'We’ve started you on 1 issue' : `We’ve started you on ${n} issues`}, so you’ll see what’s new the moment you open County Watch. Add or remove anything below. You can change it any time.
+          {n === 1 ? 'We’ve started you on 1 issue' : `We’ve started you on ${n} issues`}, so you’ll see what’s new the moment you open the Issues tab. Add or remove anything below. You can change it any time.
         </Txt>
         <SampleTag />
       </SheetTitle>

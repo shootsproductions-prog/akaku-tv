@@ -4,6 +4,7 @@
 //   node content/publish-issue.mjs path/to/<slug>.json
 //   node content/publish-issue.mjs --remove <slug>
 //   node content/publish-issue.mjs --alias <old-slug>=<new-slug>      (record a merge)
+//   node content/publish-issue.mjs path/to/<slug>.json --allow-election      (only when the producer has lifted the election hold)
 //   node content/publish-issue.mjs --default-follow <slug> [--default-follow <slug2>]   (replace the list)
 //
 // Copies ONLY the app-facing fields into content/issues/ and lists the file in
@@ -18,6 +19,10 @@ const DATE = /^\d{4}-\d{2}-\d{2}/;
 const STATUSES = ['active', 'quiet', 'resolved'];
 const BASES = ['said-at-meeting', 'confirmed', 'conflicting'];
 const SOURCE_TYPES = ['meeting', 'county-release', 'county-page', 'other'];
+
+// Producer rule (Oct 13): nothing about elections, ballot measures or campaigns is published until the producer says ready.
+// Job "candidates" (a hiring search) are fine. Lift the hold for one run with --allow-election, only on the producer's say-so.
+const ELECTION = /\b(elections?|ballots?|voters?|campaigns?|charter vote)\b/i;
 
 const nonEmpty = v => typeof v === 'string' && v.trim().length > 0;
 const count = v => Number.isInteger(v) && v >= 0;
@@ -38,7 +43,7 @@ function checkSource(s, where) {
 }
 
 /** Validate an issue file and return the app-facing copy. Throws a plain-English Error if it must not be published. */
-export function buildPublishedIssue(file) {
+export function buildPublishedIssue(file, { allowElection = false } = {}) {
   if (!file || typeof file !== 'object') throw new Error('the file is not an issue');
   if (!nonEmpty(file.slug) || !SLUG.test(file.slug)) throw new Error('slug must be lowercase words joined by hyphens, like "kula-water-meters"');
   if (file.status === 'proposed') throw new Error('this issue is still "proposed". Proposed issues never leave Pipeline; the producer must approve it first.');
@@ -75,6 +80,11 @@ export function buildPublishedIssue(file) {
     }
     return out;
   });
+  if (!allowElection) {
+    const texts = [['title', file.title], ['summary', file.summary], ...file.topics.map(t => ['a topic', t]), ...timeline.map((e, i) => [`timeline[${i}]`, e.text])];
+    const hit = texts.find(([, t]) => ELECTION.test(t));
+    if (hit) throw new Error(`${hit[0]} mentions an election, ballot, voter or campaign ("${ELECTION.exec(hit[1])[0]}"). The producer's hold applies: nothing about elections is published until the producer says ready. If the producer has said ready, run again with --allow-election.`);
+  }
   for (const g of new Set(timeline.filter(e => e.conflictGroup).map(e => e.conflictGroup))) {
     if (timeline.filter(e => e.conflictGroup === g).length < 2) throw new Error(`conflictGroup "${g}" has only one entry; a conflict needs both sides`);
   }
@@ -152,7 +162,7 @@ function main(args) {
   }
   let out;
   try {
-    out = buildPublishedIssue(file);
+    out = buildPublishedIssue(file, { allowElection: flags.includes('--allow-election') });
   } catch (e) {
     fail(e.message);
   }

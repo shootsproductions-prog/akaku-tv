@@ -146,11 +146,21 @@ export const isStale = (i: CatalogIssue, now = Date.now(), days = 14) => now - D
 
 /** The reason an issue ranks where it does, in words, taken straight from the counts. */
 export function whyRanked(i: CatalogIssue): string {
+  if (i.status === 'resolved') return `Resolved · last discussed ${shortDate(i.lastSeenISO)}`;
   const n = i.signals.meetingsLast30d;
   const parts = [n === 0 ? 'Not discussed in a meeting this month' : `Discussed in ${n} ${n === 1 ? 'meeting' : 'meetings'} this month`];
   const ev = i.signals.upcomingEvent;
   if (ev) parts.push(`${ev.what} ${shortDate(ev.dateISO)}`);
   return parts.join(' · ');
+}
+
+/** Splits a ranked list: active issues, quiet ones (kept visible, lower), and resolved ones (their own collapsed list, newest first). */
+export function groupByStatus(list: CatalogIssue[]): { active: CatalogIssue[]; quiet: CatalogIssue[]; resolved: CatalogIssue[] } {
+  return {
+    active: list.filter(i => i.status === 'active'),
+    quiet: list.filter(i => i.status === 'quiet'),
+    resolved: list.filter(i => i.status === 'resolved').sort((a, b) => b.lastSeenISO.localeCompare(a.lastSeenISO)),
+  };
 }
 
 /** Resolved issues last; then pinned, then meetings in 30 days, then most recently seen. */

@@ -8,6 +8,7 @@ import { ICON } from '../../src/components/icons';
 import { Txt } from '../../src/components/Txt';
 import { AIBadge, Card, Chip, Deadlines, Eyebrow, Panel, Press, SectionHeader, Tag } from '../../src/components/ui';
 import { CAL_DAYS, CALENDAR, EXPLAINERS, FOLLOWUPS, FU_COLORS, WEEKLY } from '../../src/data/countyWatch';
+import { groupByStatus } from '../../src/data/catalog.ts';
 import { ISSUE_BLURBS, ISSUE_LABELS } from '../../src/data/issues.ts';
 import { HITS } from '../../src/data/meetings';
 import { IssueRow, SampleTag } from '../../src/components/IssueBits';
@@ -37,7 +38,7 @@ export default function MeetingsScreen() {
   return (
     <ScrollView style={{ backgroundColor: colors.bg }} contentContainerStyle={{ paddingTop: insets.top, paddingBottom: 32 }} keyboardShouldPersistTaps="handled">
       <View style={{ paddingTop: 12, paddingHorizontal: GUTTER, gap: 6 }}>
-        <Eyebrow>County Watch</Eyebrow>
+        <Eyebrow>Issues</Eyebrow>
         <Txt style={{ fontSize: 28, fontWeight: '700', lineHeight: 29.4, letterSpacing: -0.42 }}>
           Maui County, <Txt style={{ fontSize: 28, lineHeight: 29.4, color: BLUE }}>trackable.</Txt>
         </Txt>
@@ -121,7 +122,7 @@ function HowItWorks() {
   if (!open) {
     return (
       <Press onPress={() => set(true)} accessibilityRole="button" style={{ marginHorizontal: GUTTER, marginTop: 10, paddingVertical: 8 }}>
-        <Txt style={{ fontSize: 14, fontWeight: '600', color: BLUE }}>How County Watch works →</Txt>
+        <Txt style={{ fontSize: 14, fontWeight: '600', color: BLUE }}>How Issues work →</Txt>
       </Press>
     );
   }
@@ -240,7 +241,8 @@ function CountyWatchHome({ demo }: { demo: boolean }) {
 function CatalogSections() {
   const { colors, openSheet } = useApp();
   const { catalog, followed } = useCatalog();
-  const others = (catalog?.list ?? []).filter(i => !followed.some(f => f.slug === i.slug));
+  const [showResolved, setShowResolved] = useState(false);
+  const { active, quiet, resolved } = groupByStatus((catalog?.list ?? []).filter(i => !followed.some(f => f.slug === i.slug)));
   return (
     <>
       <View style={styles.section}>
@@ -255,14 +257,44 @@ function CatalogSections() {
           </View>
         )}
       </View>
-      {others.length ? (
+      {active.length ? (
         <View style={styles.section}>
           <SectionHeader title="More issues to follow" aside="Ranked by recent meetings" />
           <View>
-            {others.map(i => (
+            {active.map(i => (
               <IssueRow key={i.slug} issue={i} onOpen={() => openIssue(i.slug)} />
             ))}
           </View>
+        </View>
+      ) : null}
+      {quiet.length ? (
+        <View style={styles.section}>
+          <SectionHeader title="Quiet lately" aside="No new facts in a while" />
+          <View>
+            {quiet.map(i => (
+              <IssueRow key={i.slug} issue={i} onOpen={() => openIssue(i.slug)} />
+            ))}
+          </View>
+        </View>
+      ) : null}
+      {resolved.length ? (
+        <View style={styles.section}>
+          <Pressable
+            onPress={() => setShowResolved(v => !v)}
+            accessibilityRole="button"
+            accessibilityState={{ expanded: showResolved }}
+            accessibilityLabel={`Resolved, ${resolved.length} ${resolved.length === 1 ? 'issue' : 'issues'}`}
+            style={{ paddingVertical: 6 }}
+          >
+            <SectionHeader title={`Resolved (${resolved.length})`} aside={showResolved ? 'Hide' : 'Show'} />
+          </Pressable>
+          {showResolved ? (
+            <View>
+              {resolved.map(i => (
+                <IssueRow key={i.slug} issue={i} onOpen={() => openIssue(i.slug)} />
+              ))}
+            </View>
+          ) : null}
         </View>
       ) : null}
       <Pressable onPress={() => openSheet('follow')} accessibilityRole="button" style={{ marginHorizontal: GUTTER, marginTop: 12, paddingVertical: 8 }}>

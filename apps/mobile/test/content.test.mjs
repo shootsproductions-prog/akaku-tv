@@ -30,3 +30,12 @@ test('default follows and merges point at published issues', () => {
   for (const to of Object.values(index.aliases ?? {})) assert.ok(slugs.includes(to), `merge target ${to} is published`);
   assert.equal(new Set(slugs).size, slugs.length, 'no duplicate issues');
 });
+
+test('the election hold: election wording is refused unless the producer lifts it', () => {
+  const base = read(index.issues[0]);
+  assert.throws(() => buildPublishedIssue({ ...base, summary: 'The council discusses the November election.' }), /hold/);
+  assert.throws(() => buildPublishedIssue({ ...base, timeline: [{ ...base.timeline[0], text: 'Voters will decide a charter vote in November.' }, ...base.timeline.slice(1)] }), /hold/);
+  assert.doesNotThrow(() => buildPublishedIssue({ ...base, summary: 'The council discusses the November election.' }, { allowElection: true }));
+  // A hiring search for job candidates is not an election.
+  assert.doesNotThrow(() => buildPublishedIssue({ ...base, summary: 'The commission interviews three candidates for the director job.' }));
+});
