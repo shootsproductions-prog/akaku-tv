@@ -24,7 +24,7 @@ const SOURCE_TYPES = ['meeting', 'county-release', 'county-page', 'other'];
 
 // Producer rule (Oct 13): nothing about elections, ballot measures or campaigns is published until the producer says ready.
 // Job "candidates" (a hiring search) are fine. Lift the hold for one run with --allow-election, only on the producer's say-so.
-const ELECTION = /\b(elections?|ballots?|voters?|campaigns?|charter vote)\b/i;
+export const ELECTION = /\b(elections?|ballots?|voters?|campaigns?|charter vote)\b/i;
 
 const nonEmpty = v => typeof v === 'string' && v.trim().length > 0;
 const count = v => Number.isInteger(v) && v >= 0;

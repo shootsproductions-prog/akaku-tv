@@ -11,9 +11,12 @@ const fixture = name => JSON.parse(readFileSync(fileURLToPath(new URL(`./fixture
 
 function dirs() {
   const root = mkdtempSync(join(tmpdir(), 'incoming-'));
-  const d = { incomingDir: join(root, 'incoming'), issuesDir: join(root, 'issues'), rejectedDir: join(root, 'rejected') };
+  const d = { incomingDir: join(root, 'incoming'), issuesDir: join(root, 'issues'), rejectedDir: join(root, 'rejected'), meetingsDir: join(root, 'meetings') };
   mkdirSync(d.incomingDir);
+  mkdirSync(join(d.incomingDir, 'meetings'));
   mkdirSync(d.issuesDir);
+  mkdirSync(d.meetingsDir);
+  writeFileSync(join(d.meetingsDir, 'index.json'), '{ "meetings": [] }\n');
   writeFileSync(join(d.issuesDir, 'index.json'), '{ "issues": [], "aliases": {}, "defaultFollows": ["keep-me"] }\n');
   const drop = (slug, obj) => writeFileSync(join(d.incomingDir, `${slug}.json`), JSON.stringify(obj));
   return { ...d, drop };
@@ -73,5 +76,57 @@ test('one bad file does not stop the good ones, and a fixed file clears its old 
 
 test('nothing incoming is fine', () => {
   const d = dirs();
-  assert.deepEqual(processIncoming(d), { published: [], rejected: [] });
+  assert.deepEqual(processIncoming(d), { published: [], withdrawn: [], meetingsPublished: [], meetingsWithdrawn: [], rejected: [] });
+});
+
+test('withdrawing takes an issue down everywhere and clears what pointed at it', () => {
+  const d = dirs();
+  const base = ex();
+  d.drop(base.slug, base);
+  d.drop('other-issue', { ...base, slug: 'other-issue' });
+  processIncoming(d);
+  writeFileSync(join(d.issuesDir, 'index.json'), JSON.stringify({
+    issues: [`${base.slug}.json`, 'other-issue.json'], aliases: { 'old-name': base.slug, [base.slug + '-x']: 'other-issue' }, defaultFollows: [base.slug, 'other-issue'],
+  }));
+  writeFileSync(join(d.incomingDir, `${base.slug}.withdraw`), '');
+  const r = processIncoming(d);
+  assert.deepEqual(r.withdrawn, [base.slug]);
+  const idx = JSON.parse(readFileSync(join(d.issuesDir, 'index.json'), 'utf8'));
+  assert.deepEqual(idx.issues, ['other-issue.json']);
+  assert.deepEqual(idx.defaultFollows, ['other-issue']);
+  assert.deepEqual(idx.aliases, { [base.slug + '-x']: 'other-issue' });
+  assert.ok(!existsSync(join(d.issuesDir, `${base.slug}.json`)));
+  assert.deepEqual(JSON.parse(readFileSync(join(d.issuesDir, 'catalog.json'), 'utf8')).issues.map(i => i.slug), ['other-issue']);
+  assert.ok(!existsSync(join(d.incomingDir, `${base.slug}.withdraw`)));
+  // Withdrawing something that is not published is rejected with a reason.
+  writeFileSync(join(d.incomingDir, 'never-published.withdraw'), '');
+  const r2 = processIncoming(d);
+  assert.equal(r2.rejected.length, 1);
+  assert.match(readFileSync(join(d.rejectedDir, 'never-published.reason.txt'), 'utf8'), /nothing to withdraw/);
+});
+
+const meeting = (over = {}) => ({ ...JSON.parse(readFileSync(fileURLToPath(new URL('./fixtures/H9lx2zorcDM.publish.json', import.meta.url)), 'utf8')), ...over });
+
+test('meetings: published like issues, with real YouTube ids only, the election hold, and withdraw', () => {
+  const d = dirs();
+  const put = (name, obj) => writeFileSync(join(d.incomingDir, 'meetings', name), JSON.stringify(obj));
+  put('H9lx2zorcDM.json', meeting());
+  const bad = meeting();
+  bad.meeting = { ...bad.meeting, id: 'cc-2024-05-01' };
+  put('cc-2024-05-01.json', { ...bad, videoId: 'cc-2024-05-01' });
+  const hot = meeting();
+  hot.meeting = { ...hot.meeting, id: 'AAAAAAAAAAA', recap: `${hot.meeting.recap} The council discussed the November election.` };
+  put('AAAAAAAAAAA.json', { ...hot, videoId: 'AAAAAAAAAAA' });
+  const r = processIncoming(d);
+  assert.deepEqual(r.meetingsPublished, ['H9lx2zorcDM']);
+  assert.deepEqual(r.rejected.map(x => x.file).sort(), ['meetings/AAAAAAAAAAA.json', 'meetings/cc-2024-05-01.json']);
+  assert.match(readFileSync(join(d.rejectedDir, 'meetings', 'cc-2024-05-01.reason.txt'), 'utf8'), /YouTube/);
+  assert.match(readFileSync(join(d.rejectedDir, 'meetings', 'AAAAAAAAAAA.reason.txt'), 'utf8'), /hold/);
+  assert.deepEqual(JSON.parse(readFileSync(join(d.meetingsDir, 'index.json'), 'utf8')).meetings, ['H9lx2zorcDM.json']);
+  assert.equal(JSON.parse(readFileSync(join(d.meetingsDir, 'H9lx2zorcDM.json'), 'utf8')).meeting.id, 'H9lx2zorcDM');
+  writeFileSync(join(d.incomingDir, 'meetings', 'H9lx2zorcDM.withdraw'), '');
+  const r2 = processIncoming(d);
+  assert.deepEqual(r2.meetingsWithdrawn, ['H9lx2zorcDM']);
+  assert.deepEqual(JSON.parse(readFileSync(join(d.meetingsDir, 'index.json'), 'utf8')).meetings, []);
+  assert.ok(!existsSync(join(d.meetingsDir, 'H9lx2zorcDM.json')));
 });

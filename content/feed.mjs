@@ -1,7 +1,7 @@
 // Keeps the published feed's bookkeeping current, so readers (akaku.org/track and the app) fetch only what changed.
 //
 //   content/issues/index.json    gains  updatedAt, etag, files: { "<slug>.json": { updatedAt, sha256 } }
-//   content/issues/catalog.json  every listed issue in one file: { updatedAt, issues: [ ... ] }
+//   content/issues/catalog.json  every listed issue in one file: { updatedAt, count, issues: [ ... ] }
 //   content/issues/meta.json     { contract, version, updatedAt, issueCount } for a quick "anything new?" check
 //
 // A file's updatedAt moves only when its content changes (its sha256 differs from last time). The feed's
@@ -32,7 +32,7 @@ export function refreshFeed(issuesDir, now = process.env.FEED_NOW || new Date().
   const updatedAt = index.updatedAt && index.etag === etag ? index.updatedAt : now;
   const next = { ...index, updatedAt, etag, files };
   writeFileSync(indexPath, JSON.stringify(next, null, 2) + '\n');
-  writeFileSync(join(issuesDir, 'catalog.json'), JSON.stringify({ updatedAt, issues }, null, 2) + '\n');
+  writeFileSync(join(issuesDir, 'catalog.json'), JSON.stringify({ updatedAt, count: issues.length, issues }, null, 2) + '\n');
   writeFileSync(join(issuesDir, 'meta.json'), JSON.stringify({ contract: 'issues-catalog', version: '0.2', updatedAt, issueCount: issues.length }, null, 2) + '\n');
   return next;
 }
