@@ -1,0 +1,49 @@
+{
+  "slug": "front-street-project-shoreline-setback-variance",
+  "title": "Front Street project shoreline setback variance",
+  "summary": "At the October 6 meeting, a board member called the project's second submittal incomplete, saying the drawings did not show the building outside the 40-foot shoreline setback. The project team said it is not a rebuild because that part of the lot was undeveloped before.",
+  "topics": [
+    "land-use",
+    "disaster-recovery",
+    "environment"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-10-06",
+  "lastSeenISO": "2026-10-06",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 2,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-15",
+  "timeline": [
+    {
+      "dateISO": "2026-10-06",
+      "text": "A board member said the drawings did not show the building outside the 40-foot shoreline setback (the required distance from the shoreline).",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "rpNcZF7T7pM",
+        "ts": "1:14:48",
+        "retrievedISO": "2026-10-07T20:19:46.400Z"
+      }
+    },
+    {
+      "dateISO": "2026-10-06",
+      "text": "The project team said it is not a rebuild, because that part of the lot was undeveloped before.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "rpNcZF7T7pM",
+        "ts": "0:04:47",
+        "retrievedISO": "2026-10-07T20:19:46.400Z"
+      }
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

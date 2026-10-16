@@ -1,0 +1,48 @@
+{
+  "slug": "bed-and-breakfast-permit-closure-appeal",
+  "title": "Bed and breakfast permit closure appeal",
+  "summary": "The board has set November 12th to hear an appeal over the closure of a bed and breakfast permit. It set the date by unanimous consent at its September 10 meeting. The appeal was the second item taken up at that meeting.",
+  "topics": [
+    "land-use",
+    "housing"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-09-10",
+  "lastSeenISO": "2026-09-10",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-15",
+  "timeline": [
+    {
+      "dateISO": "2026-09-10",
+      "text": "Date for the bed and breakfast permit closure appeal: The board set November 12th for the bed and breakfast permit appeal by unanimous consent.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "4I6EFuhArJ0",
+        "ts": "0:05:31",
+        "retrievedISO": "2026-10-07T23:03:56.212Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-10",
+      "text": "The second item was an appeal over the closure of a bed and breakfast permit.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "4I6EFuhArJ0",
+        "ts": "0:03:00",
+        "retrievedISO": "2026-10-07T23:03:56.212Z"
+      }
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T07:40:19.182Z",
+  "updatedAt": "2026-10-16T07:42:25.431Z",
   "issues": [
     {
       "slug": "board-of-water-supply-opposes-bill-1",
@@ -19,7 +19,7 @@
         "mentionsLast30d": 3,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-12",
+      "asOfISO": "2026-10-15",
       "timeline": [
         {
           "dateISO": "2026-09-17",
@@ -101,7 +101,7 @@
       "lastSeenISO": "2026-09-18",
       "signals": {
         "meetingsLast30d": 1,
-        "meetingsLast90d": 3,
+        "meetingsLast90d": 2,
         "mentionsLast30d": 3,
         "upcomingEvent": {
           "dateISO": "2026-11-04",
@@ -114,7 +114,7 @@
           }
         }
       },
-      "asOfISO": "2026-10-12",
+      "asOfISO": "2026-10-15",
       "timeline": [
         {
           "dateISO": "2026-09-18",
@@ -343,7 +343,7 @@
         "mentionsLast30d": 1,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-12",
+      "asOfISO": "2026-10-15",
       "timeline": [
         {
           "dateISO": "2026-09-18",
@@ -810,7 +810,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-12",
+      "asOfISO": "2026-10-15",
       "timeline": [
         {
           "dateISO": "2026-08-23",
@@ -1154,11 +1154,11 @@
       "lastSeenISO": "2026-09-17",
       "signals": {
         "meetingsLast30d": 1,
-        "meetingsLast90d": 2,
+        "meetingsLast90d": 1,
         "mentionsLast30d": 3,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-12",
+      "asOfISO": "2026-10-15",
       "timeline": [
         {
           "dateISO": "2026-09-17",
@@ -1279,7 +1279,7 @@
         "mentionsLast30d": 3,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-12",
+      "asOfISO": "2026-10-15",
       "timeline": [
         {
           "dateISO": "2026-09-17",
@@ -1518,21 +1518,21 @@
     {
       "slug": "search-for-new-department-of-personnel-services-director",
       "title": "Search for new Department of Personnel Services director",
-      "summary": "On October 8, the Civil Service Commission unanimously voted to appoint its top-ranked finalist as the new Department of Personnel Services (DPS) director, after the October 7 vote was put off because the chair was absent. The finalist scored 378 of 450 points among 17 applicants. The offer stands pending a post-offer background check, which DPS does not currently run, and the interim leaders will keep serving until the appointment is final.",
+      "summary": "On October 8, the Civil Service Commission voted unanimously to appoint its top-ranked finalist, who scored 378 of 450 points, as the new Department of Personnel Services (DPS) director. The offer stands pending a post-offer background check, which DPS does not currently run, and letters will go to the finalists, the mayor's office and the council. The vote followed September 30 interviews and a decision put off on October 7 because the chair was absent.",
       "topics": [
         "government"
       ],
       "status": "active",
       "pinned": false,
-      "firstSeenISO": "2026-08-12",
+      "firstSeenISO": "2026-06-05",
       "lastSeenISO": "2026-10-08",
       "signals": {
         "meetingsLast30d": 3,
-        "meetingsLast90d": 6,
+        "meetingsLast90d": 7,
         "mentionsLast30d": 7,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-12",
+      "asOfISO": "2026-10-15",
       "timeline": [
         {
           "dateISO": "2026-10-08",
@@ -2527,6 +2527,270 @@
             "ts": "0:01:48",
             "retrievedISO": "2026-10-12T06:30:09.786Z"
           }
+        },
+        {
+          "dateISO": "2026-08-05",
+          "text": "Motion to enter executive session: The commission voted to go into executive session about candidate privacy and to consult its attorney.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "nIulYAJQPvU",
+            "ts": "0:31:16",
+            "retrievedISO": "2026-10-13T06:35:08.656Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-05",
+          "text": "The commission met in executive session (a closed-door discussion) about candidate privacy.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "nIulYAJQPvU",
+            "ts": "0:30:24",
+            "retrievedISO": "2026-10-13T06:35:08.656Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-05",
+          "text": "No contact with candidates will happen until on or after the 12th.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "nIulYAJQPvU",
+            "ts": "0:29:33",
+            "retrievedISO": "2026-10-13T06:35:08.656Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-05",
+          "text": "Interviews could be done in public by the full commission or in private by a new working group.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "nIulYAJQPvU",
+            "ts": "0:23:47",
+            "retrievedISO": "2026-10-13T06:35:08.656Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-05",
+          "text": "The group recommends interviewing the top six candidates.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "nIulYAJQPvU",
+            "ts": "0:16:03",
+            "retrievedISO": "2026-10-13T06:35:08.656Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-05",
+          "text": "The commission is expected to vote on the report at a special meeting planned for August 12.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "nIulYAJQPvU",
+            "ts": "0:13:23",
+            "retrievedISO": "2026-10-13T06:35:08.656Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-05",
+          "text": "The group received 17 applications.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "nIulYAJQPvU",
+            "ts": "0:10:47",
+            "retrievedISO": "2026-10-13T06:35:08.656Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-05",
+          "text": "A commissioner presented a working group report on hiring a new personnel director.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "nIulYAJQPvU",
+            "ts": "0:03:29",
+            "retrievedISO": "2026-10-13T06:35:08.656Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-01",
+          "text": "The posting is set to close July 31.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "qrQsEpbjdgA",
+            "ts": "0:10:54",
+            "retrievedISO": "2026-10-13T06:35:23.239Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-01",
+          "text": "Staff hope to open the job posting for a new Director of Personnel Services tomorrow.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "qrQsEpbjdgA",
+            "ts": "0:09:40",
+            "retrievedISO": "2026-10-13T06:35:23.239Z"
+          }
+        },
+        {
+          "dateISO": "2026-06-05",
+          "text": "The lawyer will look into which parts of the hiring process can be done in closed session and which must be done in open session.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "BOV1OZzPhyQ",
+            "ts": "1:31:08",
+            "retrievedISO": "2026-10-14T06:40:10.131Z"
+          }
+        },
+        {
+          "dateISO": "2026-06-05",
+          "text": "The commission's lawyer will research whether interviews can happen right after the working group's presentation, and if not, will recommend a special meeting for interviews.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "BOV1OZzPhyQ",
+            "ts": "1:29:24",
+            "retrievedISO": "2026-10-14T06:40:10.131Z"
+          }
+        },
+        {
+          "dateISO": "2026-06-05",
+          "text": "The commission's lawyer said recent court decisions favor open sessions over closed sessions.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "BOV1OZzPhyQ",
+            "ts": "1:28:33",
+            "retrievedISO": "2026-10-14T06:40:10.131Z"
+          }
+        },
+        {
+          "dateISO": "2026-06-05",
+          "text": "The commission voted to approve the working group.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "BOV1OZzPhyQ",
+            "ts": "1:27:00",
+            "retrievedISO": "2026-10-14T06:40:10.131Z"
+          }
+        },
+        {
+          "dateISO": "2026-06-05",
+          "text": "The group will send three top candidates to the full commission for interviews.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "BOV1OZzPhyQ",
+            "ts": "1:26:22",
+            "retrievedISO": "2026-10-14T06:40:10.131Z"
+          }
+        },
+        {
+          "dateISO": "2026-06-05",
+          "text": "Its tasks include setting the application process, timelines, a scoring rubric and interview stages.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "BOV1OZzPhyQ",
+            "ts": "1:25:28",
+            "retrievedISO": "2026-10-14T06:40:10.131Z"
+          }
+        },
+        {
+          "dateISO": "2026-06-05",
+          "text": "A motion was made to form a small working group, called a Temporary Investigative Group (TIG), made up of the vice chair and Commissioner Suzuki.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "BOV1OZzPhyQ",
+            "ts": "1:24:40",
+            "retrievedISO": "2026-10-14T06:40:10.131Z"
+          }
+        },
+        {
+          "dateISO": "2026-06-05",
+          "text": "One person testified in support of an open, competitive hiring process.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "BOV1OZzPhyQ",
+            "ts": "1:04:54",
+            "retrievedISO": "2026-10-14T06:40:10.131Z"
+          }
+        },
+        {
+          "dateISO": "2026-06-05",
+          "text": "Motion to redact identifying information from applications: The commission approved having identifying information removed from applications, with corporation counsel's support, before the first review.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "BOV1OZzPhyQ",
+            "ts": "0:49:17",
+            "retrievedISO": "2026-10-14T06:40:10.131Z"
+          }
+        },
+        {
+          "dateISO": "2026-06-05",
+          "text": "Motion on how applications will be received: The commission approved receiving applications by a designated email address or by mail, in care of a designee in the Department of Management.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "BOV1OZzPhyQ",
+            "ts": "0:47:44",
+            "retrievedISO": "2026-10-14T06:40:10.131Z"
+          }
+        },
+        {
+          "dateISO": "2026-06-05",
+          "text": "Motion on how to advertise the open recruitment: The commission approved advertising through the department's usual methods and a County press release that can be sent to professional organizations.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "BOV1OZzPhyQ",
+            "ts": "0:35:06",
+            "retrievedISO": "2026-10-14T06:40:10.131Z"
+          }
+        },
+        {
+          "dateISO": "2026-06-05",
+          "text": "Motion to use open recruitment for the new director of personnel services: The commission approved using open recruitment to find the new director.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "BOV1OZzPhyQ",
+            "ts": "0:21:29",
+            "retrievedISO": "2026-10-14T06:40:10.131Z"
+          }
+        },
+        {
+          "dateISO": "2026-06-05",
+          "text": "Amended motion to appoint an acting director of personnel services: The commission approved naming the deputy director as acting director if no new director is chosen by the current director's retirement date.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "BOV1OZzPhyQ",
+            "ts": "0:12:42",
+            "retrievedISO": "2026-10-14T06:40:10.131Z"
+          }
+        },
+        {
+          "dateISO": "2026-06-05",
+          "text": "The commission put off old business to focus on hiring a new personnel services director.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "BOV1OZzPhyQ",
+            "ts": "0:02:45",
+            "retrievedISO": "2026-10-14T06:40:10.131Z"
+          }
         }
       ],
       "sourceTypes": [
@@ -2671,11 +2935,11 @@
       "lastSeenISO": "2026-09-17",
       "signals": {
         "meetingsLast30d": 1,
-        "meetingsLast90d": 3,
+        "meetingsLast90d": 2,
         "mentionsLast30d": 1,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-12",
+      "asOfISO": "2026-10-15",
       "timeline": [
         {
           "dateISO": "2026-09-17",
@@ -3013,7 +3277,7 @@
         "mentionsLast30d": 3,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-12",
+      "asOfISO": "2026-10-15",
       "timeline": [
         {
           "dateISO": "2026-09-21",
@@ -3145,14 +3409,14 @@
     {
       "slug": "county-worker-vacancies-and-hr-consultant-review",
       "title": "County worker vacancies and HR consultant review",
-      "summary": "A commissioner said on October 8 that urgent work lies ahead on vacancies, recruitment, retention and HR reform. The acting director said the department has had more staff turnover than usual and that the county does not do enough exit interviews to learn why employees leave. A consultant's review of recruitment and hiring, classification, and reorganization has done 46 interviews, with 20 more scheduled.",
+      "summary": "A commissioner said on October 8 that urgent work lies ahead on vacancies, recruitment, retention and HR reform. The acting director said the department has seen more staff turnover than usual and that the county does not do enough exit interviews to learn why employees leave. A consultant's review of recruitment, hiring, classification and reorganization is under way, and the county had 962 open positions as of July.",
       "topics": [
         "government",
         "economy"
       ],
       "status": "active",
       "pinned": false,
-      "firstSeenISO": "2026-09-02",
+      "firstSeenISO": "2026-07-01",
       "lastSeenISO": "2026-10-08",
       "signals": {
         "meetingsLast30d": 2,
@@ -3160,7 +3424,7 @@
         "mentionsLast30d": 3,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-12",
+      "asOfISO": "2026-10-15",
       "timeline": [
         {
           "dateISO": "2026-10-08",
@@ -3233,6 +3497,61 @@
             "retrievedISO": "2026-10-07T23:04:03.757Z"
           },
           "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-07-01",
+          "text": "Departments have sent only 335 requests to fill vacant positions.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "qrQsEpbjdgA",
+            "ts": "0:31:49",
+            "retrievedISO": "2026-10-13T06:35:23.239Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-01",
+          "text": "The director agreed to give the commission a breakdown of the open positions.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "qrQsEpbjdgA",
+            "ts": "0:31:44",
+            "retrievedISO": "2026-10-13T06:35:23.239Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-01",
+          "text": "The county has 962 open positions.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "qrQsEpbjdgA",
+            "ts": "0:30:17",
+            "retrievedISO": "2026-10-13T06:35:23.239Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-01",
+          "text": "The commission's legal counsel will report back on whether commissioners working with the consultant can give a summary after each meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "qrQsEpbjdgA",
+            "ts": "0:20:15",
+            "retrievedISO": "2026-10-13T06:35:23.239Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-01",
+          "text": "The department's new consultant plans to present its work to county leaders July 13.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "qrQsEpbjdgA",
+            "ts": "0:15:34",
+            "retrievedISO": "2026-10-13T06:35:23.239Z"
+          }
         }
       ],
       "sourceTypes": [
@@ -3267,7 +3586,7 @@
           }
         }
       },
-      "asOfISO": "2026-10-12",
+      "asOfISO": "2026-10-15",
       "timeline": [
         {
           "dateISO": "2026-09-21",
@@ -3425,7 +3744,7 @@
         "mentionsLast30d": 3,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-12",
+      "asOfISO": "2026-10-15",
       "timeline": [
         {
           "dateISO": "2026-09-21",
@@ -3568,11 +3887,11 @@
       "lastSeenISO": "2026-09-17",
       "signals": {
         "meetingsLast30d": 1,
-        "meetingsLast90d": 3,
+        "meetingsLast90d": 2,
         "mentionsLast30d": 2,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-12",
+      "asOfISO": "2026-10-15",
       "timeline": [
         {
           "dateISO": "2026-09-17",
@@ -3631,6 +3950,3295 @@
             "videoId": "zjBo8277OWs",
             "ts": "0:34:36",
             "retrievedISO": "2026-10-09T06:35:03.270Z"
+          },
+          "body": "Board of Water Supply"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "accessibility-problem-at-maui-county-building",
+      "title": "Accessibility problem at Maui County Building",
+      "summary": "As of the September 10 meeting, the commission still has no response on an accessibility issue at the Maui County Building. The chair said they will personally contact public works and the management director, and will report back even though they will miss the next meeting.",
+      "topics": [
+        "government",
+        "health"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-09-10",
+      "lastSeenISO": "2026-09-10",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-15",
+      "timeline": [
+        {
+          "dateISO": "2026-09-10",
+          "text": "A commissioner said the county's ClickFix system has no category just for ADA (disability access) concerns.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MSPMjwDvQuo",
+            "ts": "1:19:57",
+            "retrievedISO": "2026-10-07T23:03:56.874Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-10",
+          "text": "The chair said they will get back to the commission on the building issue even though they will miss the next meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MSPMjwDvQuo",
+            "ts": "1:05:06",
+            "retrievedISO": "2026-10-07T23:03:56.874Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-10",
+          "text": "The chair will personally contact public works and the management director about it.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MSPMjwDvQuo",
+            "ts": "1:02:22",
+            "retrievedISO": "2026-10-07T23:03:56.874Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-10",
+          "text": "The chair said the commission had no response yet on an accessibility issue at the Maui County Building.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MSPMjwDvQuo",
+            "ts": "1:00:08",
+            "retrievedISO": "2026-10-07T23:03:56.874Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "aloha-spirits-brewery-liquor-license-and-zoning-limits",
+      "title": "Aloha Spirits brewery liquor license and zoning limits",
+      "summary": "The commission accepted the Aloha Spirits Brewing and Distilling liquor license application on September 9, but staff said the Planning Department has raised new zoning questions about the applicant's planned uses. The department is awaiting written confirmation of what the brewery may do at its location, and zoning may not allow selling kegs or cases to stores, restaurants or bars. No license will be issued until the zoning clearance requirement is met.",
+      "topics": [
+        "economy",
+        "land-use"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-09-09",
+      "lastSeenISO": "2026-09-09",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-15",
+      "timeline": [
+        {
+          "dateISO": "2026-09-09",
+          "text": "New liquor license application number seven (Aloha Spirits Brewing and Distilling): The commission accepted the Aloha Spirits Brewing and Distilling application, with zoning among the requirements still to be met.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vp8RrdPVBC0",
+            "ts": "1:06:59",
+            "retrievedISO": "2026-10-07T23:03:59.641Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "A motion to go into executive session (a closed-door discussion) about county liability failed, four to three.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vp8RrdPVBC0",
+            "ts": "1:04:28",
+            "retrievedISO": "2026-10-07T23:03:59.641Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "Staff said zoning may not let a brewery pub applicant sell beer directly to wholesalers, restaurants or stores.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vp8RrdPVBC0",
+            "ts": "0:37:06",
+            "retrievedISO": "2026-10-07T23:03:59.641Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "No liquor license will be issued to the brewery until it meets the zoning clearance requirement.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "JbnNdXeWXNo",
+            "ts": "0:34:18",
+            "retrievedISO": "2026-10-07T23:03:46.572Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "The applicant's attorney said zoning may not allow selling kegs or cases to stores, restaurants or bars.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "JbnNdXeWXNo",
+            "ts": "0:31:26",
+            "retrievedISO": "2026-10-07T23:03:46.572Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "The department is waiting for the planning department to confirm in writing what the brewery may do at its location.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vp8RrdPVBC0",
+            "ts": "0:29:59",
+            "retrievedISO": "2026-10-07T23:03:59.641Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "Staff said the Planning Department raised new zoning questions about one applicant's planned uses.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "JbnNdXeWXNo",
+            "ts": "0:29:33",
+            "retrievedISO": "2026-10-07T23:03:46.572Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "bed-and-breakfast-permit-closure-appeal",
+      "title": "Bed and breakfast permit closure appeal",
+      "summary": "The board has set November 12th to hear an appeal over the closure of a bed and breakfast permit. It set the date by unanimous consent at its September 10 meeting. The appeal was the second item taken up at that meeting.",
+      "topics": [
+        "land-use",
+        "housing"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-09-10",
+      "lastSeenISO": "2026-09-10",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-15",
+      "timeline": [
+        {
+          "dateISO": "2026-09-10",
+          "text": "Date for the bed and breakfast permit closure appeal: The board set November 12th for the bed and breakfast permit appeal by unanimous consent.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "4I6EFuhArJ0",
+            "ts": "0:05:31",
+            "retrievedISO": "2026-10-07T23:03:56.212Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-10",
+          "text": "The second item was an appeal over the closure of a bed and breakfast permit.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "4I6EFuhArJ0",
+            "ts": "0:03:00",
+            "retrievedISO": "2026-10-07T23:03:56.212Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "board-of-variances-short-on-members",
+      "title": "Board of Variances short on members",
+      "summary": "As of September 10, the board has six members instead of nine, and a commissioner warned that it could drop to four and never have quorum. Staff asked members who know interested applicants to email staff so staff can check with the office that appoints members.",
+      "topics": [
+        "government"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-09-10",
+      "lastSeenISO": "2026-09-10",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-15",
+      "timeline": [
+        {
+          "dateISO": "2026-09-10",
+          "text": "Staff asked members who know interested applicants to email staff so they can check with the office that appoints members.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "4I6EFuhArJ0",
+            "ts": "0:20:07",
+            "retrievedISO": "2026-10-07T23:03:56.212Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-10",
+          "text": "A commissioner said the board has six members instead of nine.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "4I6EFuhArJ0",
+            "ts": "0:17:56",
+            "retrievedISO": "2026-10-07T23:03:56.212Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "east-maui-water-authority-grant-program-funding",
+      "title": "East Maui Water Authority grant program funding",
+      "summary": "As of September 18, the East Maui Water Authority's grant program has $150,000 in funding this year, up from the $100,000 grant announced in July. Staff had said in July that the next round would give out $150,000. The money traces back to a foundation's $100,000 commitment for early planning work, with access to grant funds starting in July 2026.",
+      "topics": [
+        "water",
+        "government"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-05-15",
+      "lastSeenISO": "2026-09-18",
+      "signals": {
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 1,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-15",
+      "timeline": [
+        {
+          "dateISO": "2026-09-18",
+          "text": "The East Maui Water Authority grant program's funding doubled this year to $150,000.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jggU3kzKFQI",
+            "ts": "0:58:04",
+            "retrievedISO": "2026-10-07T23:03:54.314Z"
+          },
+          "body": "Aha Moku o Maui Hikina"
+        },
+        {
+          "dateISO": "2026-07-17",
+          "text": "Staff said the authority's next round of grants will give out $150,000.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "oDSa7vE18b8",
+            "ts": "1:19:30",
+            "retrievedISO": "2026-10-09T06:35:04.288Z"
+          }
+        },
+        {
+          "dateISO": "2026-05-15",
+          "text": "Staff are preparing a proposal with basic financial information for the foundation this month.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "6QAT7xS4o6U",
+            "ts": "1:01:09",
+            "retrievedISO": "2026-10-09T06:35:05.182Z"
+          },
+          "body": "East Maui Regional Community Board"
+        },
+        {
+          "dateISO": "2026-05-15",
+          "text": "Staff said a foundation committed $100,000 to the water authority for early planning work.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "6QAT7xS4o6U",
+            "ts": "1:00:57",
+            "retrievedISO": "2026-10-09T06:35:05.182Z"
+          },
+          "body": "East Maui Regional Community Board"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "east-maui-watershed-plan-based-on-ahupuaa",
+      "title": "East Maui watershed plan based on ahupuaʻa",
+      "summary": "Staff are starting a watershed plan built on the ahupuaʻa, a traditional Hawaiian resource management system. The work is just beginning and will continue in later meetings.",
+      "topics": [
+        "water",
+        "environment",
+        "culture"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-09-18",
+      "lastSeenISO": "2026-09-18",
+      "signals": {
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 1,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-15",
+      "timeline": [
+        {
+          "dateISO": "2026-09-18",
+          "text": "Staff are starting a watershed plan based on the ahupuaʻa, a traditional Hawaiian resource management system.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jggU3kzKFQI",
+            "ts": "1:02:26",
+            "retrievedISO": "2026-10-07T23:03:54.314Z"
+          },
+          "body": "Aha Moku o Maui Hikina"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "emergency-rule-for-relocating-fire-destroyed-liquor-licenses",
+      "title": "Emergency rule for relocating fire-destroyed liquor licenses",
+      "summary": "On September 9, 2026, the commission unanimously approved the seventh reauthorization of its emergency rule on relocating liquor licenses. The rule applies to license holders whose premises were destroyed in the August 2023 wildfires.",
+      "topics": [
+        "disaster-recovery",
+        "economy"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-09-09",
+      "lastSeenISO": "2026-09-09",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-15",
+      "timeline": [
+        {
+          "dateISO": "2026-09-09",
+          "text": "The commission approved the reauthorization unanimously.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vp8RrdPVBC0",
+            "ts": "2:00:55",
+            "retrievedISO": "2026-10-07T23:03:59.641Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "The item was the seventh reauthorization of the emergency rule.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vp8RrdPVBC0",
+            "ts": "2:00:44",
+            "retrievedISO": "2026-10-07T23:03:59.641Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "Seventh reauthorization of emergency rule on relocating liquor licenses: The commission approved the seventh reauthorization of the emergency rule for premises destroyed in the August 2023 wildfires.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vp8RrdPVBC0",
+            "ts": "2:00:03",
+            "retrievedISO": "2026-10-07T23:03:59.641Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "The vote to reauthorize the rule was unanimous.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "JbnNdXeWXNo",
+            "ts": "1:59:00",
+            "retrievedISO": "2026-10-07T23:03:46.572Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "The rule covers relocation for premises destroyed as a result of the August 2023 wildfires.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "JbnNdXeWXNo",
+            "ts": "1:57:56",
+            "retrievedISO": "2026-10-07T23:03:46.572Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p",
+      "title": "Ending apartment vacation rentals and hotel rezoning of 48 properties",
+      "summary": "On September 29, a council member said the Planning Commission approved five of the 48 properties from an earlier resolution. On September 22 the commission recommended approving the variance, all-timeshare and one Hāna property and denying the rest, and it must report to the council by November 24, 2026. The bills would move about 48 apartment-zoned properties into hotel zoning so they can keep vacation rentals; Bill 9 otherwise ends them in apartment districts.",
+      "topics": [
+        "housing",
+        "land-use"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-09-22",
+      "lastSeenISO": "2026-09-29",
+      "signals": {
+        "meetingsLast30d": 2,
+        "meetingsLast90d": 2,
+        "mentionsLast30d": 4,
+        "upcomingEvent": {
+          "dateISO": "2026-11-24",
+          "what": "Commission must report to the council",
+          "source": {
+            "type": "meeting",
+            "videoId": "bNmkTTI2aL0",
+            "ts": "0:16:23",
+            "retrievedISO": "2026-10-07T23:03:49.316Z"
+          }
+        }
+      },
+      "asOfISO": "2026-10-15",
+      "timeline": [
+        {
+          "dateISO": "2026-09-29",
+          "text": "A council member said the Planning Commission approved five of 48 properties from an earlier resolution.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "goNR3t5P1x8",
+            "ts": "0:49:30",
+            "retrievedISO": "2026-10-16T03:43:41.811Z"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-09-22",
+          "text": "The main motion passed with five yes votes, including one abstention, and one no.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bNmkTTI2aL0",
+            "ts": "8:15:08",
+            "retrievedISO": "2026-10-07T23:03:49.316Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-22",
+          "text": "Recommendation to the council on the two rezoning resolutions: The commission voted to recommend approval for the variance, all-timeshare and one Hāna property, and denial for the other property groups.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bNmkTTI2aL0",
+            "ts": "8:14:33",
+            "retrievedISO": "2026-10-07T23:03:49.316Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-22",
+          "text": "Recommendation that the council explore the use of public funds for the purpose of housing: The commission voted to ask the council to explore using public funds for housing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bNmkTTI2aL0",
+            "ts": "8:13:30",
+            "retrievedISO": "2026-10-07T23:03:49.316Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-22",
+          "text": "A separate motion asked the council to explore using public funds for housing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bNmkTTI2aL0",
+            "ts": "8:10:44",
+            "retrievedISO": "2026-10-07T23:03:49.316Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-22",
+          "text": "Friendly amendment requiring shoreline properties to get a certified shoreline survey within two years: A commissioner's proposal to require certified shoreline surveys for shoreline properties did not get a second.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bNmkTTI2aL0",
+            "ts": "8:04:15",
+            "retrievedISO": "2026-10-07T23:03:49.316Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-22",
+          "text": "The commission recommended denial for single-owner, mixed timeshare, leasehold and hotel-like properties.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bNmkTTI2aL0",
+            "ts": "7:54:43",
+            "retrievedISO": "2026-10-07T23:03:49.316Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-22",
+          "text": "The final motion recommends approving the two variance and two all-timeshare properties.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bNmkTTI2aL0",
+            "ts": "7:54:27",
+            "retrievedISO": "2026-10-07T23:03:49.316Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-22",
+          "text": "A friendly amendment added a hotel-like property in Hāna for approval.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bNmkTTI2aL0",
+            "ts": "7:46:51",
+            "retrievedISO": "2026-10-07T23:03:49.316Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-22",
+          "text": "Staff said he will transfer the motion information to the council.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bNmkTTI2aL0",
+            "ts": "7:45:06",
+            "retrievedISO": "2026-10-07T23:03:49.316Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-22",
+          "text": "A commissioner said the commission lacked enough information to evaluate the properties.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bNmkTTI2aL0",
+            "ts": "5:21:44",
+            "retrievedISO": "2026-10-07T23:03:49.316Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-22",
+          "text": "A Lahaina Community Land Trust staff member urged returning non-hotel units to housing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bNmkTTI2aL0",
+            "ts": "2:37:48",
+            "retrievedISO": "2026-10-07T23:03:49.316Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-22",
+          "text": "The president of the Maui Sunset timeshare association supported hotel zoning for that property.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bNmkTTI2aL0",
+            "ts": "1:20:43",
+            "retrievedISO": "2026-10-07T23:03:49.316Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-22",
+          "text": "The Office of Hawaiian Affairs opposed both resolutions.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bNmkTTI2aL0",
+            "ts": "0:51:07",
+            "retrievedISO": "2026-10-07T23:03:49.316Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-22",
+          "text": "Staff said some of the properties now have owner-occupied or long-term rental units.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bNmkTTI2aL0",
+            "ts": "0:26:47",
+            "retrievedISO": "2026-10-07T23:03:49.316Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-22",
+          "text": "The commission must report to the council by November 24, 2026.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bNmkTTI2aL0",
+            "ts": "0:16:23",
+            "retrievedISO": "2026-10-07T23:03:49.316Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-22",
+          "text": "Staff said their sole purpose is to let these properties keep vacation rentals.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bNmkTTI2aL0",
+            "ts": "0:14:27",
+            "retrievedISO": "2026-10-07T23:03:49.316Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-22",
+          "text": "Two council bills would move about 48 apartment-zoned properties into new hotel zoning districts.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bNmkTTI2aL0",
+            "ts": "0:13:29",
+            "retrievedISO": "2026-10-07T23:03:49.316Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-22",
+          "text": "Staff will take a report back to the council, which will decide on the bills at a future meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bNmkTTI2aL0",
+            "ts": "0:13:13",
+            "retrievedISO": "2026-10-07T23:03:49.316Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-22",
+          "text": "The commission reviewed two council resolutions to rezone specific properties into new H3 and H4 hotel districts.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bNmkTTI2aL0",
+            "ts": "0:13:08",
+            "retrievedISO": "2026-10-07T23:03:49.316Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-22",
+          "text": "Staff said the only change in hotel zoning is allowing vacation rental use to continue.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bNmkTTI2aL0",
+            "ts": "0:11:35",
+            "retrievedISO": "2026-10-07T23:03:49.316Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-22",
+          "text": "Bill 9 ends vacation rentals in apartment districts by December 31, 2028, in West Maui and December 31, 2030, elsewhere.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bNmkTTI2aL0",
+            "ts": "0:06:09",
+            "retrievedISO": "2026-10-07T23:03:49.316Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-22",
+          "text": "Bill 9 aimed to end vacation rentals in apartment districts to expand long-term housing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bNmkTTI2aL0",
+            "ts": "0:05:31",
+            "retrievedISO": "2026-10-07T23:03:49.316Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "exceptional-tree-list-update-after-the-fire",
+      "title": "Exceptional tree list update after the fire",
+      "summary": "As of September 9, 2026, members were asked to pick exceptional trees from the list, confirm their logins, and start measuring them. The chair said trees that died or burned in the fire will be removed from the list through an ordinance update, and is doing tree value assessments so families can recover more from the lawsuit. The list changes will go to the county council together with the tree removals.",
+      "topics": [
+        "environment",
+        "disaster-recovery"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2024-10-09",
+      "lastSeenISO": "2026-09-09",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-15",
+      "timeline": [
+        {
+          "dateISO": "2026-09-09",
+          "text": "The chair is doing tree value assessments so families can get more money back from the lawsuit.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "SVe2yERyBEk",
+            "ts": "0:08:43",
+            "retrievedISO": "2026-10-07T23:03:58.863Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "The chair said trees that died or burned in the fire will be removed from the list through an ordinance update.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "SVe2yERyBEk",
+            "ts": "0:08:11",
+            "retrievedISO": "2026-10-07T23:03:58.863Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "Members are asked to confirm once they have their logins and then start measuring their trees.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "SVe2yERyBEk",
+            "ts": "0:05:27",
+            "retrievedISO": "2026-10-07T23:03:58.863Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "Members were asked to pick trees from the exceptional tree list to measure.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "SVe2yERyBEk",
+            "ts": "0:04:16",
+            "retrievedISO": "2026-10-07T23:03:58.863Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-08",
+          "text": "The exceptional tree changes will go to the county council together with the tree removals.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Rhz4ecFDSAM",
+            "ts": "0:46:07",
+            "retrievedISO": "2026-10-13T06:35:20.466Z"
+          }
+        },
+        {
+          "dateISO": "2024-10-09",
+          "text": "The chair wants to update the list for lost trees so all list changes can be made at one time.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "gMnP3cc5PlY",
+            "ts": "0:10:13",
+            "retrievedISO": "2026-10-15T06:35:34.737Z"
+          }
+        },
+        {
+          "dateISO": "2024-10-09",
+          "text": "The committee may store exceptional tree data in Tree Plotter, an app the County already pays for, at no added cost.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "gMnP3cc5PlY",
+            "ts": "0:04:31",
+            "retrievedISO": "2026-10-15T06:35:34.737Z"
+          }
+        },
+        {
+          "dateISO": "2024-10-09",
+          "text": "The chair plans a December site visit so members can learn how to measure exceptional trees.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "gMnP3cc5PlY",
+            "ts": "0:03:54",
+            "retrievedISO": "2026-10-15T06:35:34.737Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "farm-land-subdivision-lessee-notice-bill",
+      "title": "Farm land subdivision lessee notice bill",
+      "summary": "On September 16, the commission voted unanimously to recommend approval of the County Council bill on notice for agricultural subdivisions, with the Planning Department's amendments, after a first motion fell one vote short. Owners would have to notify lessees by certified mail at least 10 business days before applying, and the rule would move to Title 18. The bill goes to the Molokaʻi Planning Commission next week, and commissioners asked the council to consider residential and commercial land too.",
+      "topics": [
+        "land-use",
+        "food-security"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-08-19",
+      "lastSeenISO": "2026-09-16",
+      "signals": {
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 2,
+        "mentionsLast30d": 3,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-15",
+      "timeline": [
+        {
+          "dateISO": "2026-09-16",
+          "text": "Commissioners asked that the council also consider notice for residential and commercial land.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "QMt5AreKorc",
+            "ts": "0:55:29",
+            "retrievedISO": "2026-10-07T23:03:51.628Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-16",
+          "text": "Second motion to recommend approval of the agricultural subdivision notice bill with the department's recommended amendments: The commission voted to recommend approval of the bill with the department's recommended amendments.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "QMt5AreKorc",
+            "ts": "0:52:01",
+            "retrievedISO": "2026-10-07T23:03:51.628Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-16",
+          "text": "Motion to defer action on the agricultural subdivision notice bill: A motion to defer the bill to get more information from the council died because no one seconded it.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "QMt5AreKorc",
+            "ts": "0:40:27",
+            "retrievedISO": "2026-10-07T23:03:51.628Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-16",
+          "text": "First motion to recommend approval of the agricultural subdivision notice bill with the department's recommended amendments: The first motion to approve got four votes and did not pass because five were needed.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "QMt5AreKorc",
+            "ts": "0:39:37",
+            "retrievedISO": "2026-10-07T23:03:51.628Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-16",
+          "text": "Staff will take all three planning commissions' recommendations to the council before it decides.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "QMt5AreKorc",
+            "ts": "0:26:36",
+            "retrievedISO": "2026-10-07T23:03:51.628Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-16",
+          "text": "The Planning Department recommended moving the rule to Title 18, the County's subdivision code.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "QMt5AreKorc",
+            "ts": "0:12:31",
+            "retrievedISO": "2026-10-07T23:03:51.628Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-16",
+          "text": "Owners would have to notify lessees (people renting the land) by certified mail at least 10 business days before applying.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "QMt5AreKorc",
+            "ts": "0:08:25",
+            "retrievedISO": "2026-10-07T23:03:51.628Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-16",
+          "text": "The bill goes to the Molokaʻi Planning Commission next week.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "QMt5AreKorc",
+            "ts": "0:05:30",
+            "retrievedISO": "2026-10-07T23:03:51.628Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-16",
+          "text": "The commission held a public hearing on a County Council bill about farm land subdivisions.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "QMt5AreKorc",
+            "ts": "0:02:46",
+            "retrievedISO": "2026-10-07T23:03:51.628Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-19",
+          "text": "Next month's agenda includes County Council resolution 26-68, which would require notice to lessees when agricultural land is subdivided.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Z4fnObg2c0I",
+            "ts": "1:07:56",
+            "retrievedISO": "2026-10-12T06:30:03.060Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "filling-a-vacant-board-of-water-supply-seat",
+      "title": "Filling a vacant Board of Water Supply seat",
+      "summary": "On September 23, staff reported resignations from the Liquor Control Adjudication Board, the Board of Water Supply and the Independent Nomination Board itself. The board's list for the Board of Water Supply seat is due October 19. Members agreed, without a formal vote, to cancel the October 14th meeting if no Board of Water Supply application arrives by the 8th.",
+      "topics": [
+        "water",
+        "government"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-09-23",
+      "lastSeenISO": "2026-09-23",
+      "signals": {
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 3,
+        "upcomingEvent": {
+          "dateISO": "2026-10-19",
+          "what": "board's list for Board of Water Supply seat due",
+          "source": {
+            "type": "meeting",
+            "videoId": "3Jc9Mp68Wcs",
+            "ts": "0:23:25",
+            "retrievedISO": "2026-10-07T23:03:48.406Z"
+          }
+        }
+      },
+      "asOfISO": "2026-10-15",
+      "timeline": [
+        {
+          "dateISO": "2026-09-23",
+          "text": "Whether to hold the October 14th meeting: Members agreed, without a formal vote, that the October 14th meeting will be canceled if no Board of Water Supply application arrives by the 8th.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "3Jc9Mp68Wcs",
+            "ts": "0:25:57",
+            "retrievedISO": "2026-10-07T23:03:48.406Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-23",
+          "text": "Staff said the board's list for the Board of Water Supply seat is due October 19.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "3Jc9Mp68Wcs",
+            "ts": "0:23:25",
+            "retrievedISO": "2026-10-07T23:03:48.406Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-23",
+          "text": "Staff reported resignations from the Liquor Control Adjudication Board, the Board of Water Supply and the Independent Nomination Board itself.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "3Jc9Mp68Wcs",
+            "ts": "0:02:26",
+            "retrievedISO": "2026-10-07T23:03:48.406Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "filling-liquor-control-adjudication-board-seats",
+      "title": "Filling Liquor Control Adjudication Board seats",
+      "summary": "The Independent Nomination Board set deadlines to submit applicant lists for two Liquor Control Adjudication Board seats, including one going to the mayor by September 30th. Members also reviewed the state law on who can serve on liquor boards.",
+      "topics": [
+        "government"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-09-09",
+      "lastSeenISO": "2026-09-23",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-15",
+      "timeline": [],
+      "sourceTypes": [],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "front-street-project-shoreline-setback-variance",
+      "title": "Front Street project shoreline setback variance",
+      "summary": "At the October 6 meeting, a board member called the project's second submittal incomplete, saying the drawings did not show the building outside the 40-foot shoreline setback. The project team said it is not a rebuild because that part of the lot was undeveloped before.",
+      "topics": [
+        "land-use",
+        "disaster-recovery",
+        "environment"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-10-06",
+      "lastSeenISO": "2026-10-06",
+      "signals": {
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 2,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-15",
+      "timeline": [
+        {
+          "dateISO": "2026-10-06",
+          "text": "A board member said the drawings did not show the building outside the 40-foot shoreline setback (the required distance from the shoreline).",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "rpNcZF7T7pM",
+            "ts": "1:14:48",
+            "retrievedISO": "2026-10-07T20:19:46.400Z"
+          }
+        },
+        {
+          "dateISO": "2026-10-06",
+          "text": "The project team said it is not a rebuild, because that part of the lot was undeveloped before.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "rpNcZF7T7pM",
+            "ts": "0:04:47",
+            "retrievedISO": "2026-10-07T20:19:46.400Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "full-rewrite-of-county-liquor-rules",
+      "title": "Full rewrite of county liquor rules",
+      "summary": "On September 9, commissioners agreed to pause new rule changes until the new rule book is adopted, while the department updates its full rewrite of the liquor rules. An updated draft will return on next month's agenda. Earlier, in July, a special meeting on the comprehensive rule changes was set for August 4 at 9:00.",
+      "topics": [
+        "government",
+        "economy"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-07-08",
+      "lastSeenISO": "2026-09-09",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-15",
+      "timeline": [
+        {
+          "dateISO": "2026-09-09",
+          "text": "An updated draft of the full rules rewrite will be back on next month's agenda.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vp8RrdPVBC0",
+            "ts": "2:25:07",
+            "retrievedISO": "2026-10-07T23:03:59.641Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "Commissioners agreed to pause new rule changes while the department updates a full rewrite of the liquor rules.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vp8RrdPVBC0",
+            "ts": "2:22:20",
+            "retrievedISO": "2026-10-07T23:03:59.641Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "Commissioners said they would pause new rule changes until the new rule book is adopted.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "JbnNdXeWXNo",
+            "ts": "2:20:12",
+            "retrievedISO": "2026-10-07T23:03:46.572Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-08",
+          "text": "A special meeting on the department's full rule rewrite is set for August 4 at 9:00.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "un-2pzYnRtQ",
+            "ts": "3:43:52",
+            "retrievedISO": "2026-10-13T06:35:19.455Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-08",
+          "text": "The special meeting will cover the department's comprehensive administrative rule changes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "un-2pzYnRtQ",
+            "ts": "3:36:11",
+            "retrievedISO": "2026-10-13T06:35:19.455Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "haiku-fire-station-awaits-county-council-approval",
+      "title": "Haʻikū fire station awaits County Council approval",
+      "summary": "As of September 17, 2026, the Haʻikū Fire Station was the subject of an update, but the facts provided give no details on what was said. On August 20, the fire chief said the station still needed final approval from the County Council.",
+      "topics": [
+        "public-safety"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-08-20",
+      "lastSeenISO": "2026-08-20",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-15",
+      "timeline": [
+        {
+          "dateISO": "2026-08-20",
+          "text": "The fire chief said the Haʻikū fire station still needs final approval from the County Council.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "XTkHNUi1mfA",
+            "ts": "0:09:58",
+            "retrievedISO": "2026-10-09T06:35:14.511Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "haiku-zipline-violation-appeal-continued-to-january",
+      "title": "Haʻikū zipline violation appeal continued to January",
+      "summary": "On September 24, the board unanimously agreed to continue the zipline notice-of-violation appeal to January 28th, a delay both sides had agreed to. The appeal concerns a violation notice over a zipline, related structures, statues, and photo sales. The appellant's representative said the conditional permit application was closed this year after a planner missed the department's deadline, and has since been refiled.",
+      "topics": [
+        "land-use"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-09-24",
+      "lastSeenISO": "2026-09-24",
+      "signals": {
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 3,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-15",
+      "timeline": [
+        {
+          "dateISO": "2026-09-24",
+          "text": "Continuance of the zipline notice-of-violation appeals: The board agreed by unanimous consent to continue the zipline appeal to January 28th.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "5tSUVNooio0",
+            "ts": "0:07:33",
+            "retrievedISO": "2026-10-07T23:03:45.801Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-24",
+          "text": "The planning department said it would ask in writing if it seeks a contested case (a formal hearing process).",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "5tSUVNooio0",
+            "ts": "0:07:06",
+            "retrievedISO": "2026-10-07T23:03:45.801Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-24",
+          "text": "The representative said a second planner helped refile the application and addressed all items the department had asked for.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "5tSUVNooio0",
+            "ts": "0:03:48",
+            "retrievedISO": "2026-10-07T23:03:45.801Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-24",
+          "text": "The representative said the conditional permit application was closed this year after their planner did not answer the department in time.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "5tSUVNooio0",
+            "ts": "0:03:24",
+            "retrievedISO": "2026-10-07T23:03:45.801Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-24",
+          "text": "The appellant's representative said both sides agreed to another continuance (a delay to a later date).",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "5tSUVNooio0",
+            "ts": "0:03:07",
+            "retrievedISO": "2026-10-07T23:03:45.801Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-24",
+          "text": "The first item was an appeal of a violation notice over a zipline, related structures, statues, and photo sales.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "5tSUVNooio0",
+            "ts": "0:02:20",
+            "retrievedISO": "2026-10-07T23:03:45.801Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "kula-burn-scar-fencing-and-native-replanting",
+      "title": "Kula burn scar fencing and native replanting",
+      "summary": "The Kula Community Watershed Alliance is fencing and replanting a steep burn scar, and as of September 9 over a thousand plants are in the fully fenced upper section. Its nursery holds over 30,000 plants, and over 200 deer have been removed in the past year. The group hopes more fencing will be finished by year's end so it can plant hundreds of thousands of native plants.",
+      "topics": [
+        "environment",
+        "disaster-recovery"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-07-08",
+      "lastSeenISO": "2026-09-09",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-15",
+      "timeline": [
+        {
+          "dateISO": "2026-09-09",
+          "text": "The chair will contact the watershed group next week about a volunteer app that is in development.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "SVe2yERyBEk",
+            "ts": "0:13:53",
+            "retrievedISO": "2026-10-07T23:03:58.863Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "The group aims to restore an ancient ecosystem that will one day become an old growth forest.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "SVe2yERyBEk",
+            "ts": "0:12:51",
+            "retrievedISO": "2026-10-07T23:03:58.863Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "The speaker said more native plants now grow in the gulch than before the fire.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "SVe2yERyBEk",
+            "ts": "0:12:30",
+            "retrievedISO": "2026-10-07T23:03:58.863Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "The group hopes more fencing will be done by the end of the year so it can plant hundreds of thousands of native plants.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "SVe2yERyBEk",
+            "ts": "0:12:17",
+            "retrievedISO": "2026-10-07T23:03:58.863Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "Over 200 deer have been removed from this part of Kula in the last year.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "SVe2yERyBEk",
+            "ts": "0:12:12",
+            "retrievedISO": "2026-10-07T23:03:58.863Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "The group's nursery has over 30,000 plants growing right now.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "SVe2yERyBEk",
+            "ts": "0:11:49",
+            "retrievedISO": "2026-10-07T23:03:58.863Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "Over a thousand plants have been planted in the fully fenced upper section.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "SVe2yERyBEk",
+            "ts": "0:11:33",
+            "retrievedISO": "2026-10-07T23:03:58.863Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "A Kula watershed group is fencing and replanting a steep area that burned in the fire.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "SVe2yERyBEk",
+            "ts": "0:11:20",
+            "retrievedISO": "2026-10-07T23:03:58.863Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "A member with the Kula Community Watershed Alliance said the group is putting deer fencing around the Kula burn scar.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "SVe2yERyBEk",
+            "ts": "0:11:10",
+            "retrievedISO": "2026-10-07T23:03:58.863Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-08",
+          "text": "A member said his group bought materials to fence the entire burn scar to keep deer out.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Rhz4ecFDSAM",
+            "ts": "0:52:08",
+            "retrievedISO": "2026-10-13T06:35:20.466Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "kula-park-renaming-headed-to-county-council",
+      "title": "Kula Park renaming headed to County Council",
+      "summary": "On August 26, the commission voted, five in favor, to recommend against renaming Kula Park after a person. One commissioner voted no, saying the honoree should be honored in some way. The Maui County Council can adopt, change, or reject the recommendation, and any name change must pass by ordinance.",
+      "topics": [
+        "culture",
+        "government"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-08-26",
+      "lastSeenISO": "2026-08-26",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-15",
+      "timeline": [
+        {
+          "dateISO": "2026-08-26",
+          "text": "The motion to recommend against the name change passed with five votes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8y2XW0ygha0",
+            "ts": "0:49:34",
+            "retrievedISO": "2026-10-07T23:04:05.548Z"
+          },
+          "body": "Public Works Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "One commissioner voted no, saying the honoree should be honored in some way.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8y2XW0ygha0",
+            "ts": "0:49:03",
+            "retrievedISO": "2026-10-07T23:04:05.548Z"
+          },
+          "body": "Public Works Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "The chair said the commission has until October 7th to act.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8y2XW0ygha0",
+            "ts": "0:47:05",
+            "retrievedISO": "2026-10-07T23:04:05.548Z"
+          },
+          "body": "Public Works Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "A motion to defer, or delay, the item was withdrawn after legal advice.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8y2XW0ygha0",
+            "ts": "0:44:12",
+            "retrievedISO": "2026-10-07T23:04:05.548Z"
+          },
+          "body": "Public Works Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "One commissioner said a new name would cost taxpayer money.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8y2XW0ygha0",
+            "ts": "0:42:18",
+            "retrievedISO": "2026-10-07T23:04:05.548Z"
+          },
+          "body": "Public Works Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "The County Council may adopt, change, or reject the commission's recommendation.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8y2XW0ygha0",
+            "ts": "0:41:38",
+            "retrievedISO": "2026-10-07T23:04:05.548Z"
+          },
+          "body": "Public Works Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "Members were told they have 60 days to make a recommendation.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8y2XW0ygha0",
+            "ts": "0:37:58",
+            "retrievedISO": "2026-10-07T23:04:05.548Z"
+          },
+          "body": "Public Works Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "The council would have to pass any name change by ordinance, a county law.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8y2XW0ygha0",
+            "ts": "0:37:49",
+            "retrievedISO": "2026-10-07T23:04:05.548Z"
+          },
+          "body": "Public Works Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "The council member said the renaming will go to the Maui County Council for a final vote.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8y2XW0ygha0",
+            "ts": "0:30:13",
+            "retrievedISO": "2026-10-07T23:04:05.548Z"
+          },
+          "body": "Public Works Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "A council member asked the commission to move the renaming forward.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8y2XW0ygha0",
+            "ts": "0:30:06",
+            "retrievedISO": "2026-10-07T23:04:05.548Z"
+          },
+          "body": "Public Works Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "Another testifier said the park should keep the name Kula Park.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8y2XW0ygha0",
+            "ts": "0:18:44",
+            "retrievedISO": "2026-10-07T23:04:05.548Z"
+          },
+          "body": "Public Works Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "A family member said the family supports the renaming.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8y2XW0ygha0",
+            "ts": "0:14:51",
+            "retrievedISO": "2026-10-07T23:04:05.548Z"
+          },
+          "body": "Public Works Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "Park renamings also go to the Cultural Resources Commission before the council.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8y2XW0ygha0",
+            "ts": "0:11:37",
+            "retrievedISO": "2026-10-07T23:04:05.548Z"
+          },
+          "body": "Public Works Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "The commission heard an application to rename Kula Park after a person.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8y2XW0ygha0",
+            "ts": "0:06:02",
+            "retrievedISO": "2026-10-07T23:04:05.548Z"
+          },
+          "body": "Public Works Commission"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "kupuna-locally-grown-produce-pilot",
+      "title": "Kūpuna locally grown produce pilot",
+      "summary": "A small pilot program that delivers locally grown fruits and vegetables to kūpuna began last week, and its next distribution is set for tomorrow at a community center. The first delivery included bananas, dragon fruit and carrots, plus a jar of squash and sweet potato soup. The idea was raised at the Council on Aging almost two years ago; the program aims to reach rural communities, and the office wants good data before expanding it.",
+      "topics": [
+        "food-security",
+        "health"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-09-08",
+      "lastSeenISO": "2026-09-08",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-15",
+      "timeline": [
+        {
+          "dateISO": "2026-09-08",
+          "text": "The idea was raised at the Council on Aging almost two years ago, with a call for more fruits and vegetables for kūpuna.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Cqu5kcGNyBc",
+            "ts": "1:07:41",
+            "retrievedISO": "2026-10-07T23:04:01.841Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-08",
+          "text": "The next distribution is scheduled for tomorrow at a community center.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Cqu5kcGNyBc",
+            "ts": "1:07:31",
+            "retrievedISO": "2026-10-07T23:04:01.841Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-08",
+          "text": "Participants also received a jar of squash and sweet potato soup.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Cqu5kcGNyBc",
+            "ts": "1:07:26",
+            "retrievedISO": "2026-10-07T23:04:01.841Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-08",
+          "text": "The first delivery included bananas, dragon fruit and carrots.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Cqu5kcGNyBc",
+            "ts": "1:06:58",
+            "retrievedISO": "2026-10-07T23:04:01.841Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-08",
+          "text": "The office wants good data before expanding the program.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Cqu5kcGNyBc",
+            "ts": "1:06:39",
+            "retrievedISO": "2026-10-07T23:04:01.841Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-08",
+          "text": "A program bringing locally grown fruits and vegetables to kūpuna (elders) started last week.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Cqu5kcGNyBc",
+            "ts": "1:06:18",
+            "retrievedISO": "2026-10-07T23:04:01.841Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "lahaina-banyan-tree-recovery",
+      "title": "Lahaina banyan tree recovery",
+      "summary": "Eight of 16 planned supports were added to the banyan tree's side branches about two weeks before the September 9 meeting. An arborist will return with a spider lift for more trimming once it is scheduled. The chair said the tree will stay closed another year and a half, after a July decision that no one would enter the park for two years so the tree can heal.",
+      "topics": [
+        "disaster-recovery",
+        "culture",
+        "environment"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-07-08",
+      "lastSeenISO": "2026-09-09",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-15",
+      "timeline": [
+        {
+          "dateISO": "2026-09-09",
+          "text": "The chair said the banyan tree will stay closed for another year and a half.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "SVe2yERyBEk",
+            "ts": "0:03:56",
+            "retrievedISO": "2026-10-07T23:03:58.863Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "An arborist will return with a spider lift to do more trimming on the banyan tree once it is scheduled.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "SVe2yERyBEk",
+            "ts": "0:03:45",
+            "retrievedISO": "2026-10-07T23:03:58.863Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "The chair said eight of 16 supports were added to the banyan tree's side branches about two weeks ago.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "SVe2yERyBEk",
+            "ts": "0:02:31",
+            "retrievedISO": "2026-10-07T23:03:58.863Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-08",
+          "text": "No one will enter the banyan tree's park for two years so the tree can heal.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Rhz4ecFDSAM",
+            "ts": "0:17:25",
+            "retrievedISO": "2026-10-13T06:35:20.466Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "lanai-property-appeal-of-planning-director-decision",
+      "title": "Lānaʻi property appeal of planning director decision",
+      "summary": "On September 10, 2026, the board unanimously approved moving the scheduling conference for an appeal of a planning director's decision about a Lānaʻi property to December 10th, 2026. The parties had agreed to the delay. The appeal was the first item taken up at that meeting.",
+      "topics": [
+        "land-use"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-09-10",
+      "lastSeenISO": "2026-09-10",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-15",
+      "timeline": [
+        {
+          "dateISO": "2026-09-10",
+          "text": "The board approved the delay by unanimous consent.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "4I6EFuhArJ0",
+            "ts": "0:02:45",
+            "retrievedISO": "2026-10-07T23:03:56.212Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-10",
+          "text": "The parties agreed to move its scheduling conference to December 10th, 2026.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "4I6EFuhArJ0",
+            "ts": "0:02:06",
+            "retrievedISO": "2026-10-07T23:03:56.212Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-10",
+          "text": "The first item was an appeal of a planning director's decision about a Lānaʻi property.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "4I6EFuhArJ0",
+            "ts": "0:01:27",
+            "retrievedISO": "2026-10-07T23:03:56.212Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "mema-community-resiliency-hub-network-plan",
+      "title": "MEMA community resiliency hub network plan",
+      "summary": "Maui Emergency Management Agency (MEMA) has selected a contractor to write a strategic plan for a community resiliency hub network, and the administrator said the plan should be finished in two to three months. The network would connect nonprofits whose facilities and services can help with response and recovery. The request for proposals had been delayed about a year by problems with procurement language.",
+      "topics": [
+        "disaster-recovery",
+        "public-safety"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-09-17",
+      "lastSeenISO": "2026-09-17",
+      "signals": {
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 3,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-15",
+      "timeline": [
+        {
+          "dateISO": "2026-09-17",
+          "text": "The administrator said the strategic plan would be completed in two to three months.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fDPADbFyXaI",
+            "ts": "0:33:44",
+            "retrievedISO": "2026-10-07T23:03:52.575Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "He said vendors submitted bids and one vendor was selected.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fDPADbFyXaI",
+            "ts": "0:33:15",
+            "retrievedISO": "2026-10-07T23:03:52.575Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "He said the request for proposals was delayed about a year by problems with procurement language.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fDPADbFyXaI",
+            "ts": "0:32:50",
+            "retrievedISO": "2026-10-07T23:03:52.575Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "The administrator said the network would connect nonprofits that have facilities and services that can help in response and recovery.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fDPADbFyXaI",
+            "ts": "0:20:32",
+            "retrievedISO": "2026-10-07T23:03:52.575Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "Maui Emergency Management Agency (MEMA) has picked a contractor to write a strategic plan for a community resiliency hub network.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fDPADbFyXaI",
+            "ts": "0:20:19",
+            "retrievedISO": "2026-10-07T23:03:52.575Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "mpo-project-ranking-changes-and-crash-maps",
+      "title": "MPO project ranking changes and crash maps",
+      "summary": "Maui MPO staff proposed draft goals for ranking transportation projects, including tracking roads with serious injuries and deaths, and will send the changes to committee members for feedback. Staff have raw crash data but need to remove sensitive details before posting crash maps publicly.",
+      "topics": [
+        "transportation",
+        "public-safety"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-10-06",
+      "lastSeenISO": "2026-10-06",
+      "signals": {
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 3,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-15",
+      "timeline": [
+        {
+          "dateISO": "2026-10-06",
+          "text": "Staff offered to show crash maps to individual members, with notes on how the data was collected.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "f_ubbsOcBHI",
+            "ts": "0:33:06",
+            "retrievedISO": "2026-10-07T20:19:45.348Z"
+          }
+        },
+        {
+          "dateISO": "2026-10-06",
+          "text": "Staff said they have raw crash data but need to remove sensitive details before posting maps publicly.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "f_ubbsOcBHI",
+            "ts": "0:32:35",
+            "retrievedISO": "2026-10-07T20:19:45.348Z"
+          }
+        },
+        {
+          "dateISO": "2026-10-06",
+          "text": "Staff will send the draft project ranking changes to committee members for feedback.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "f_ubbsOcBHI",
+            "ts": "0:28:57",
+            "retrievedISO": "2026-10-07T20:19:45.348Z"
+          }
+        },
+        {
+          "dateISO": "2026-10-06",
+          "text": "Staff shared draft goals for ranking projects, including tracking roads where serious injuries and deaths happen.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "f_ubbsOcBHI",
+            "ts": "0:22:29",
+            "retrievedISO": "2026-10-07T20:19:45.348Z"
+          }
+        },
+        {
+          "dateISO": "2026-10-06",
+          "text": "Staff proposed giving committee members a full month to review Transportation Improvement Program items before they go to the policy board.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "f_ubbsOcBHI",
+            "ts": "0:17:46",
+            "retrievedISO": "2026-10-07T20:19:45.348Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "mrc-partners-violation-appeal-nearing-final-continuance",
+      "title": "MRC Partners violation appeal nearing final continuance",
+      "summary": "On September 24, the appeal by MRC Partners LLC, which challenges a notice of violation, stayed unresolved, with the appellant's representative saying talks with the county are ongoing and another meeting may follow the last proposal. The chair recalled having called the last hearing's continuance the last one, and asked whether the parties are close. The chair set November 27th as the deadline for any added documents.",
+      "topics": [
+        "land-use"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-09-24",
+      "lastSeenISO": "2026-09-24",
+      "signals": {
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 3,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-15",
+      "timeline": [
+        {
+          "dateISO": "2026-09-24",
+          "text": "The chair set November 27th as the deadline for any added documents.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "5tSUVNooio0",
+            "ts": "0:10:58",
+            "retrievedISO": "2026-10-07T23:03:45.801Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-24",
+          "text": "The appellant's representative said there may be another meeting with the county after the last proposal.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "5tSUVNooio0",
+            "ts": "0:10:14",
+            "retrievedISO": "2026-10-07T23:03:45.801Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-24",
+          "text": "The chair recalled saying at the last hearing that it was the last continuance.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "5tSUVNooio0",
+            "ts": "0:09:37",
+            "retrievedISO": "2026-10-07T23:03:45.801Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-24",
+          "text": "That appeal is by MRC Partners LLC, challenging a notice of violation.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "5tSUVNooio0",
+            "ts": "0:09:03",
+            "retrievedISO": "2026-10-07T23:03:45.801Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-24",
+          "text": "On the second appeal, the appellant's representative said talks with the county are ongoing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "5tSUVNooio0",
+            "ts": "0:08:47",
+            "retrievedISO": "2026-10-07T23:03:45.801Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "paia-40-acre-housing-project-rezoning",
+      "title": "Pāʻia 40-acre housing project rezoning",
+      "summary": "The Maui Planning Commission voted 5 to 3 to recommend that the County Council approve a zoning change, with conditions, for about 170 homes on 40.392 acres in Pāʻia, after unanimously backing the community plan change. The council will review the recommendations, the commission's attorney advised waiting for state Land Use Commission approval, and the project may return for a coastal permit, with drinking water planned from two private wells because the county system is basically at capacity.",
+      "topics": [
+        "housing",
+        "land-use",
+        "water"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-09-08",
+      "lastSeenISO": "2026-09-08",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-15",
+      "timeline": [
+        {
+          "dateISO": "2026-09-08",
+          "text": "Motion to recommend approval of the change in zoning with the council's three conditions, the owner's build order (infrastructure, parking lot, then workforce and gap-group housing) and added gap-group housing, as amended: The commission voted to recommend that the council approve the change in zoning with conditions, as amended.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tcJLaiUZhjo",
+            "ts": "6:52:52",
+            "retrievedISO": "2026-10-07T23:03:57.780Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-08",
+          "text": "The owner's representative said the project must show its water source at subdivision or it won't be approved.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tcJLaiUZhjo",
+            "ts": "6:51:50",
+            "retrievedISO": "2026-10-07T23:03:57.780Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-08",
+          "text": "Comment requesting additional affordable housing: A proposed comment asking the council to request more affordable housing was not added.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tcJLaiUZhjo",
+            "ts": "6:37:26",
+            "retrievedISO": "2026-10-07T23:03:57.780Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-08",
+          "text": "Amendment: owner to commit to meaningful additional community engagement in Pāʻia: Commissioners added a request that the property owner commit to meaningful, additional community engagement in Pāʻia.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tcJLaiUZhjo",
+            "ts": "6:18:41",
+            "retrievedISO": "2026-10-07T23:03:57.780Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-08",
+          "text": "Amendment: free parking for Maui residents at the proposed public parking lot: Commissioners added to the main motion that Maui residents can park free in the planned public parking lot.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tcJLaiUZhjo",
+            "ts": "6:08:26",
+            "retrievedISO": "2026-10-07T23:03:57.780Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-08",
+          "text": "Motion to recommend denial of the proposed change in zoning: A motion to recommend that the council deny the change in zoning failed.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tcJLaiUZhjo",
+            "ts": "5:50:48",
+            "retrievedISO": "2026-10-07T23:03:57.780Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-08",
+          "text": "The planning department, which first recommended deferral, said it could now recommend zoning approval.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tcJLaiUZhjo",
+            "ts": "5:26:00",
+            "retrievedISO": "2026-10-07T23:03:57.780Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-08",
+          "text": "Recommendation on the Pāʻia–Haʻikū community plan amendment from open space, agriculture and heavy industrial to public/quasi-public, multifamily, business commercial and single family: Commissioners voted unanimously to recommend that the County Council approve the community plan amendment.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tcJLaiUZhjo",
+            "ts": "5:17:06",
+            "retrievedISO": "2026-10-07T23:03:57.780Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-08",
+          "text": "The project may return to the commission later for an Special Management Area (SMA) (coastal area) permit.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tcJLaiUZhjo",
+            "ts": "3:29:30",
+            "retrievedISO": "2026-10-07T23:03:57.780Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-08",
+          "text": "The commission's attorney advised the council to hold the zoning until the state Land Use Commission approves a change from agriculture to urban.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tcJLaiUZhjo",
+            "ts": "3:29:07",
+            "retrievedISO": "2026-10-07T23:03:57.780Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-08",
+          "text": "The County Council will review the commission's recommendations.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tcJLaiUZhjo",
+            "ts": "3:26:11",
+            "retrievedISO": "2026-10-07T23:03:57.780Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-08",
+          "text": "A Pāʻia homeowner of 25 years testified in opposition.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tcJLaiUZhjo",
+            "ts": "1:36:35",
+            "retrievedISO": "2026-10-07T23:03:57.780Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-08",
+          "text": "A small business owner who works in Pāʻia testified in strong support.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tcJLaiUZhjo",
+            "ts": "1:33:39",
+            "retrievedISO": "2026-10-07T23:03:57.780Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-08",
+          "text": "The landowner's team plans two private wells for drinking water because the county system is basically at capacity.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tcJLaiUZhjo",
+            "ts": "0:55:47",
+            "retrievedISO": "2026-10-07T23:03:57.780Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-08",
+          "text": "Non-drinking water would come from an existing brackish well and treated wastewater.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tcJLaiUZhjo",
+            "ts": "0:55:21",
+            "retrievedISO": "2026-10-07T23:03:57.780Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-08",
+          "text": "The projected drinking water demand is 75,738 gallons per day.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tcJLaiUZhjo",
+            "ts": "0:53:53",
+            "retrievedISO": "2026-10-07T23:03:57.780Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-08",
+          "text": "At least 34 workforce rentals would stay affordable forever for households earning up to 120% of the area median income.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tcJLaiUZhjo",
+            "ts": "0:35:35",
+            "retrievedISO": "2026-10-07T23:03:57.780Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-08",
+          "text": "The landowner's team described about 170 homes: 120 single-family and 50 multifamily.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tcJLaiUZhjo",
+            "ts": "0:34:34",
+            "retrievedISO": "2026-10-07T23:03:57.780Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-08",
+          "text": "The landowner said the plan targets people priced out, including a 'gap group' that earns too much for traditional affordable housing but can't afford today's market.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tcJLaiUZhjo",
+            "ts": "0:16:49",
+            "retrievedISO": "2026-10-07T23:03:57.780Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-08",
+          "text": "The commission was asked only for a recommendation to the council, not a final approval.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tcJLaiUZhjo",
+            "ts": "0:09:04",
+            "retrievedISO": "2026-10-07T23:03:57.780Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-08",
+          "text": "The main item was a County Council proposal to change the community plan and zoning (land-use rules) for 40.392 acres in Pāʻia.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tcJLaiUZhjo",
+            "ts": "0:02:48",
+            "retrievedISO": "2026-10-07T23:03:57.780Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "post-hurricane-review-for-people-with-disabilities",
+      "title": "Post-hurricane review for people with disabilities",
+      "summary": "A request for a post-hurricane review will go on the next meeting's agenda, after written public testimony raised the idea on September 10. Commissioners discussed asking the emergency management agency how the recent hurricane affected people with disabilities and for information it collected after the storm. One commissioner said a review could show whether welfare checks were done and help prepare for future storms.",
+      "topics": [
+        "disaster-recovery",
+        "health"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-09-10",
+      "lastSeenISO": "2026-09-10",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-15",
+      "timeline": [
+        {
+          "dateISO": "2026-09-10",
+          "text": "A post-hurricane review request will be placed on the next meeting's agenda.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MSPMjwDvQuo",
+            "ts": "1:43:10",
+            "retrievedISO": "2026-10-07T23:03:56.874Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-10",
+          "text": "Commissioners were told the topic could be put on the next meeting's agenda for discussion.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MSPMjwDvQuo",
+            "ts": "1:42:56",
+            "retrievedISO": "2026-10-07T23:03:56.874Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-10",
+          "text": "A commissioner said the review could show whether welfare checks were done and how to better prepare for future storms.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MSPMjwDvQuo",
+            "ts": "1:42:07",
+            "retrievedISO": "2026-10-07T23:03:56.874Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-10",
+          "text": "A commissioner proposed asking the emergency management agency for a post-hurricane review focused on people with disabilities.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MSPMjwDvQuo",
+            "ts": "1:41:16",
+            "retrievedISO": "2026-10-07T23:03:56.874Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-10",
+          "text": "A commissioner proposed asking the emergency management agency how the recent hurricane affected people with disabilities.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MSPMjwDvQuo",
+            "ts": "1:41:12",
+            "retrievedISO": "2026-10-07T23:03:56.874Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-10",
+          "text": "Written public testimony raised a possible formal post-hurricane review.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MSPMjwDvQuo",
+            "ts": "1:40:32",
+            "retrievedISO": "2026-10-07T23:03:56.874Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "proposed-170-million-electric-rate-increase",
+      "title": "Proposed $170 million electric rate increase",
+      "summary": "The utilities are seeking a $170 million increase, about $29.3 million of it for Maui Electric, in two steps starting January 2027 and January 2028, which would raise typical Maui home bills about $14 a month. Testifiers opposed the increase, and the commission will issue a written decision after it and the Consumer Advocate finish their review.",
+      "topics": [
+        "economy"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-10-02",
+      "lastSeenISO": "2026-10-02",
+      "signals": {
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 3,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-15",
+      "timeline": [
+        {
+          "dateISO": "2026-10-02",
+          "text": "The commission will issue a written decision after it and the Consumer Advocate finish reviewing the request.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "M_5S-cKHK18",
+            "ts": "0:27:01",
+            "retrievedISO": "2026-10-07T23:03:44.974Z"
+          }
+        },
+        {
+          "dateISO": "2026-10-02",
+          "text": "The testifier asked the commission to find better ways to reach the community.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "M_5S-cKHK18",
+            "ts": "0:26:08",
+            "retrievedISO": "2026-10-07T23:03:44.974Z"
+          }
+        },
+        {
+          "dateISO": "2026-10-02",
+          "text": "That testifier opposed any rate increase.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "M_5S-cKHK18",
+            "ts": "0:23:06",
+            "retrievedISO": "2026-10-07T23:03:44.974Z"
+          }
+        },
+        {
+          "dateISO": "2026-10-02",
+          "text": "A second testifier said her group gives batteries to fire survivors for free.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "M_5S-cKHK18",
+            "ts": "0:22:40",
+            "retrievedISO": "2026-10-07T23:03:44.974Z"
+          }
+        },
+        {
+          "dateISO": "2026-10-02",
+          "text": "The resident asked the commission to use its investigative powers to look into a bank sale before approving higher rates.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "M_5S-cKHK18",
+            "ts": "0:20:05",
+            "retrievedISO": "2026-10-07T23:03:44.974Z"
+          }
+        },
+        {
+          "dateISO": "2026-10-02",
+          "text": "A resident testified against the request.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "M_5S-cKHK18",
+            "ts": "0:14:08",
+            "retrievedISO": "2026-10-07T23:03:44.974Z"
+          }
+        },
+        {
+          "dateISO": "2026-10-02",
+          "text": "A Consumer Advocate analyst said the office will independently review the proposal and send recommendations to the commission.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "M_5S-cKHK18",
+            "ts": "0:12:23",
+            "retrievedISO": "2026-10-07T23:03:44.974Z"
+          }
+        },
+        {
+          "dateISO": "2026-10-02",
+          "text": "The representative said the company cut its request by $5 million.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "M_5S-cKHK18",
+            "ts": "0:10:29",
+            "retrievedISO": "2026-10-07T23:03:44.974Z"
+          }
+        },
+        {
+          "dateISO": "2026-10-02",
+          "text": "People can send written comments to the commission by email or regular mail.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "M_5S-cKHK18",
+            "ts": "0:06:44",
+            "retrievedISO": "2026-10-07T23:03:44.974Z"
+          }
+        },
+        {
+          "dateISO": "2026-10-02",
+          "text": "The companies estimate typical home bills would rise about $14 a month on Maui and $11 on Molokaʻi and Lānaʻi.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "M_5S-cKHK18",
+            "ts": "0:04:12",
+            "retrievedISO": "2026-10-07T23:03:44.974Z"
+          }
+        },
+        {
+          "dateISO": "2026-10-02",
+          "text": "The increase would start in two steps, on January 1st, 2027, and January 1st, 2028.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "M_5S-cKHK18",
+            "ts": "0:03:36",
+            "retrievedISO": "2026-10-07T23:03:44.974Z"
+          }
+        },
+        {
+          "dateISO": "2026-10-02",
+          "text": "About $29.3 million, or 6.4%, would go to Maui Electric.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "M_5S-cKHK18",
+            "ts": "0:03:26",
+            "retrievedISO": "2026-10-07T23:03:44.974Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "rebuild-of-burned-1429-front-street-home-deferred",
+      "title": "Rebuild of burned 1429 Front Street home deferred",
+      "summary": "On October 6, the board deferred its design review of a proposal to rebuild a home at 1429 Front Street, which burned in the Lāhainā fire, until more accurate drawings are ready; the owner said he will have them redone. 2 feet) and the drawings put the 40-foot shoreline setback line through the main house, so a setback variance is needed, which the Maui Planning Commission will decide.",
+      "topics": [
+        "disaster-recovery",
+        "land-use"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-10-06",
+      "lastSeenISO": "2026-10-06",
+      "signals": {
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 3,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-15",
+      "timeline": [
+        {
+          "dateISO": "2026-10-06",
+          "text": "The chair said the board looks forward to seeing the project back in the future.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "rpNcZF7T7pM",
+            "ts": "2:02:54",
+            "retrievedISO": "2026-10-07T20:19:46.400Z"
+          }
+        },
+        {
+          "dateISO": "2026-10-06",
+          "text": "The board voted to defer, or postpone, its review until more accurate drawings are ready.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ea2l7ovZtF8",
+            "ts": "2:01:51",
+            "retrievedISO": "2026-10-09T06:35:10.693Z"
+          }
+        },
+        {
+          "dateISO": "2026-10-06",
+          "text": "The owner said he will make sure the drawings are redone.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "rpNcZF7T7pM",
+            "ts": "2:01:02",
+            "retrievedISO": "2026-10-07T20:19:46.400Z"
+          }
+        },
+        {
+          "dateISO": "2026-10-06",
+          "text": "The chair said one plan sheet shows the home at 10.2 feet above sea level, but the owner described 14.2 feet.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ea2l7ovZtF8",
+            "ts": "1:56:48",
+            "retrievedISO": "2026-10-09T06:35:10.693Z"
+          }
+        },
+        {
+          "dateISO": "2026-10-06",
+          "text": "The owner said he was told in writing that the county sewer line would not be extended down Front Street.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ea2l7ovZtF8",
+            "ts": "1:27:30",
+            "retrievedISO": "2026-10-09T06:35:10.693Z"
+          }
+        },
+        {
+          "dateISO": "2026-10-06",
+          "text": "The planner said the Maui Planning Commission will decide whether to grant the variance (an exception to the rules).",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "rpNcZF7T7pM",
+            "ts": "1:21:29",
+            "retrievedISO": "2026-10-07T20:19:46.400Z"
+          }
+        },
+        {
+          "dateISO": "2026-10-06",
+          "text": "The planner said the setback variance is a discretionary permit the Maui Planning Commission could vote down or change.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ea2l7ovZtF8",
+            "ts": "1:21:28",
+            "retrievedISO": "2026-10-09T06:35:10.693Z"
+          }
+        },
+        {
+          "dateISO": "2026-10-06",
+          "text": "A board member said the drawings did not show the building outside the 40-foot shoreline setback (the required distance from the shoreline).",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "rpNcZF7T7pM",
+            "ts": "1:14:48",
+            "retrievedISO": "2026-10-07T20:19:46.400Z"
+          }
+        },
+        {
+          "dateISO": "2026-10-06",
+          "text": "The planner said the on-site wastewater system pushes the home past what shoreline rules allow, so a variance is needed.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "rpNcZF7T7pM",
+            "ts": "1:12:01",
+            "retrievedISO": "2026-10-07T20:19:46.400Z"
+          }
+        },
+        {
+          "dateISO": "2026-10-06",
+          "text": "Staff said a new on-site wastewater system must go in the corner where parking will be, which limits where the house can sit.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ea2l7ovZtF8",
+            "ts": "1:10:37",
+            "retrievedISO": "2026-10-09T06:35:10.693Z"
+          }
+        },
+        {
+          "dateISO": "2026-10-06",
+          "text": "The owner plans to raise the home above flood level plus 3.2 feet for projected sea level rise and one foot more.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ea2l7ovZtF8",
+            "ts": "0:49:00",
+            "retrievedISO": "2026-10-09T06:35:10.693Z"
+          }
+        },
+        {
+          "dateISO": "2026-10-06",
+          "text": "Staff said the board's design recommendations on the second item go to the Maui Planning Commission, which will take public testimony at a future date.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ea2l7ovZtF8",
+            "ts": "0:46:39",
+            "retrievedISO": "2026-10-09T06:35:10.693Z"
+          }
+        },
+        {
+          "dateISO": "2026-10-06",
+          "text": "The second item was a home at 1429 Front Street that burned in the Lāhainā fire and is being rebuilt.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "rpNcZF7T7pM",
+            "ts": "0:45:57",
+            "retrievedISO": "2026-10-07T20:19:46.400Z"
+          }
+        },
+        {
+          "dateISO": "2026-10-06",
+          "text": "The second project also asks for a shoreline setback variance, which is permission to build closer to the ocean than rules allow.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ea2l7ovZtF8",
+            "ts": "0:44:47",
+            "retrievedISO": "2026-10-09T06:35:10.693Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "seven-new-homes-in-lahaina-historic-district",
+      "title": "Seven new homes in Lahaina historic district",
+      "summary": "On Sept. 3, the commission approved the plan for seven new single-family homes in a Lahaina historic district, requiring an archaeological monitor for all initial ground-disturbing work. A commissioner had noted a known burial on an adjacent lot, and a new consultant proposed no ground disturbance until a new archaeological study and monitoring plan are done.",
+      "topics": [
+        "culture",
+        "land-use",
+        "disaster-recovery"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-07-02",
+      "lastSeenISO": "2026-09-03",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-15",
+      "timeline": [
+        {
+          "dateISO": "2026-09-03",
+          "text": "The commission approved the plan, adding that an archaeological monitor be present for all initial ground-disturbing work.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vhZUiN4y4Zw",
+            "ts": "1:49:16",
+            "retrievedISO": "2026-10-07T23:04:02.794Z"
+          },
+          "body": "Cultural Resources Commission"
+        },
+        {
+          "dateISO": "2026-09-03",
+          "text": "The consultant said the team could at least send its proposal to the burial council for its consideration.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vhZUiN4y4Zw",
+            "ts": "1:42:26",
+            "retrievedISO": "2026-10-07T23:04:02.794Z"
+          },
+          "body": "Cultural Resources Commission"
+        },
+        {
+          "dateISO": "2026-09-03",
+          "text": "A commissioner noted a known burial on an adjacent lot.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vhZUiN4y4Zw",
+            "ts": "1:37:00",
+            "retrievedISO": "2026-10-07T23:04:02.794Z"
+          },
+          "body": "Cultural Resources Commission"
+        },
+        {
+          "dateISO": "2026-09-03",
+          "text": "The consultant proposed no ground disturbance until a new archaeological study and monitoring plan are done.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vhZUiN4y4Zw",
+            "ts": "1:32:44",
+            "retrievedISO": "2026-10-07T23:04:02.794Z"
+          },
+          "body": "Cultural Resources Commission"
+        },
+        {
+          "dateISO": "2026-09-03",
+          "text": "A new consultant said the team will start a new archaeological study in place of the earlier firm's work.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vhZUiN4y4Zw",
+            "ts": "1:19:12",
+            "retrievedISO": "2026-10-07T23:04:02.794Z"
+          },
+          "body": "Cultural Resources Commission"
+        },
+        {
+          "dateISO": "2026-09-03",
+          "text": "About five people came to a small public hearing at the site, with no negative comments.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vhZUiN4y4Zw",
+            "ts": "1:16:20",
+            "retrievedISO": "2026-10-07T23:04:02.794Z"
+          },
+          "body": "Cultural Resources Commission"
+        },
+        {
+          "dateISO": "2026-09-03",
+          "text": "The commission heard an update on seven new single-family homes planned in a Lahaina historic district.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vhZUiN4y4Zw",
+            "ts": "1:14:24",
+            "retrievedISO": "2026-10-07T23:04:02.794Z"
+          },
+          "body": "Cultural Resources Commission"
+        },
+        {
+          "dateISO": "2026-07-02",
+          "text": "The owners have not heard back from the state historic preservation division.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "F1fUs_ROA_Q",
+            "ts": "1:44:59",
+            "retrievedISO": "2026-10-13T06:35:22.251Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-02",
+          "text": "The representative could not say the owners reached out to the people who raised concerns in 2022.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "F1fUs_ROA_Q",
+            "ts": "1:39:35",
+            "retrievedISO": "2026-10-13T06:35:22.251Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-02",
+          "text": "Test trenches on the planned home sites found no burials.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "F1fUs_ROA_Q",
+            "ts": "1:25:54",
+            "retrievedISO": "2026-10-13T06:35:22.251Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-02",
+          "text": "Planning staff said the single-story home designs fit the historic district and range from about 900 to 1,500 square feet.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "F1fUs_ROA_Q",
+            "ts": "1:13:39",
+            "retrievedISO": "2026-10-13T06:35:22.251Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "union-complaint-over-travel-language-in-agreement",
+      "title": "Union complaint over travel language in agreement",
+      "summary": "A union has filed a formal complaint against the employer group over proposed travel language in an agreement. A deputy corporation counsel attorney has been assigned to handle the complaint. Both developments were reported at the October 7, 2026 meeting.",
+      "topics": [
+        "government"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-10-07",
+      "lastSeenISO": "2026-10-07",
+      "signals": {
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 2,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-15",
+      "timeline": [
+        {
+          "dateISO": "2026-10-07",
+          "text": "A deputy corporation counsel attorney has been assigned to the union complaint.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yMbc5cKnAGk",
+            "ts": "0:14:29",
+            "retrievedISO": "2026-10-11T05:47:59.118Z"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-10-07",
+          "text": "A union filed a formal complaint against the employer group over proposed travel language in an agreement.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yMbc5cKnAGk",
+            "ts": "0:14:05",
+            "retrievedISO": "2026-10-11T05:47:59.118Z"
+          },
+          "body": "Civil Service Commission"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "upcountry-water-shortage-conservation-plan",
+      "title": "Upcountry water shortage conservation plan",
+      "summary": "At a January 24, 2024 meeting, Upcountry residents weighed in on a draft water conservation plan, using stickers to mark which of 19 possible measures the department should prioritize. The department aims to finish the plan by the end of March and to reach a 20% conservation goal by 2040. Staff said a new ordinance, possibly setting watering schedules, could go to the council in March at the earliest.",
+      "topics": [
+        "water"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2024-01-24",
+      "lastSeenISO": "2024-01-24",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-15",
+      "timeline": [
+        {
+          "dateISO": "2024-01-24",
+          "text": "Staff said the earliest a new ordinance bill could go to the council is March.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Qk0CE0sVrAw",
+            "ts": "1:09:30",
+            "retrievedISO": "2026-10-09T06:35:09.669Z"
+          }
+        },
+        {
+          "dateISO": "2024-01-24",
+          "text": "The plan goes to the department's advisory board and the state Water Commission for feedback.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Qk0CE0sVrAw",
+            "ts": "1:09:16",
+            "retrievedISO": "2026-10-09T06:35:09.669Z"
+          }
+        },
+        {
+          "dateISO": "2024-01-24",
+          "text": "Attendees got four stickers each to mark which measures the department should prioritize.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Qk0CE0sVrAw",
+            "ts": "0:36:23",
+            "retrievedISO": "2026-10-09T06:35:09.669Z"
+          }
+        },
+        {
+          "dateISO": "2024-01-24",
+          "text": "One proposed ordinance (a county law) could set watering schedules by time of day or day of the week.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Qk0CE0sVrAw",
+            "ts": "0:29:42",
+            "retrievedISO": "2026-10-09T06:35:09.669Z"
+          }
+        },
+        {
+          "dateISO": "2024-01-24",
+          "text": "The consultant said smart meters could save between 8 and 15% of water demand.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Qk0CE0sVrAw",
+            "ts": "0:24:54",
+            "retrievedISO": "2026-10-09T06:35:09.669Z"
+          }
+        },
+        {
+          "dateISO": "2024-01-24",
+          "text": "An engineering consultant described 19 possible conservation measures in nine categories.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Qk0CE0sVrAw",
+            "ts": "0:22:28",
+            "retrievedISO": "2026-10-09T06:35:09.669Z"
+          }
+        },
+        {
+          "dateISO": "2024-01-24",
+          "text": "The department is aiming for a 20% water conservation goal by 2040.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Qk0CE0sVrAw",
+            "ts": "0:18:29",
+            "retrievedISO": "2026-10-09T06:35:09.669Z"
+          }
+        },
+        {
+          "dateISO": "2024-01-24",
+          "text": "Staff said low-flow fixture programs have saved about 300,000 gallons of water per day so far.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Qk0CE0sVrAw",
+            "ts": "0:07:13",
+            "retrievedISO": "2026-10-09T06:35:09.669Z"
+          }
+        },
+        {
+          "dateISO": "2024-01-24",
+          "text": "The department hopes to finish the plan by the end of March.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Qk0CE0sVrAw",
+            "ts": "0:05:51",
+            "retrievedISO": "2026-10-09T06:35:09.669Z"
+          }
+        },
+        {
+          "dateISO": "2024-01-24",
+          "text": "Staff said new water supply has become more and more expensive, so using existing water more efficiently helps avoid or delay new sources.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Qk0CE0sVrAw",
+            "ts": "0:03:10",
+            "retrievedISO": "2026-10-09T06:35:09.669Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "water-board-letter-on-housing-for-fire-survivors",
+      "title": "Water board letter on housing for fire survivors",
+      "summary": "On November 21, 2024, the chair deferred a draft letter of support to the state water commission, about water for temporary housing, to the next meeting without a vote so new members can give input. Testifiers urged prioritizing water for housing for displaced fire survivors, noting 87% were renters, while one suggested not sending the letter. A member argued against long-term commitments to permanent new construction until the water supply is known.",
+      "topics": [
+        "water",
+        "housing",
+        "disaster-recovery"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2024-11-21",
+      "lastSeenISO": "2024-11-21",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-15",
+      "timeline": [
+        {
+          "dateISO": "2024-11-21",
+          "text": "The board will discuss the draft letter at its next meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "XD60_Qatcxw",
+            "ts": "0:53:52",
+            "retrievedISO": "2026-10-09T06:35:07.486Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2024-11-21",
+          "text": "Draft letter of support to the state water commission about water for temporary housing: The chair deferred the draft letter, with changes, to the next meeting without a vote.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "XD60_Qatcxw",
+            "ts": "0:53:46",
+            "retrievedISO": "2026-10-09T06:35:07.486Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2024-11-21",
+          "text": "The testifier suggested not sending the letter at all.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "XD60_Qatcxw",
+            "ts": "0:53:17",
+            "retrievedISO": "2026-10-09T06:35:07.486Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2024-11-21",
+          "text": "A testifier said 87% of the people displaced by the fire were renters.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "XD60_Qatcxw",
+            "ts": "0:52:27",
+            "retrievedISO": "2026-10-09T06:35:07.486Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2024-11-21",
+          "text": "A testifier urged the board to prioritize water for housing for displaced fire survivors.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "XD60_Qatcxw",
+            "ts": "0:52:14",
+            "retrievedISO": "2026-10-09T06:35:07.486Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2024-11-21",
+          "text": "A testifier said asking for a moratorium on new construction would be inappropriate.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "XD60_Qatcxw",
+            "ts": "0:52:02",
+            "retrievedISO": "2026-10-09T06:35:07.486Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2024-11-21",
+          "text": "He said his position is not opposition to development or construction.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "XD60_Qatcxw",
+            "ts": "0:44:35",
+            "retrievedISO": "2026-10-09T06:35:07.486Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2024-11-21",
+          "text": "The member argued against long-term commitments to permanent new construction until the water supply is known.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "XD60_Qatcxw",
+            "ts": "0:44:23",
+            "retrievedISO": "2026-10-09T06:35:07.486Z"
           },
           "body": "Board of Water Supply"
         }

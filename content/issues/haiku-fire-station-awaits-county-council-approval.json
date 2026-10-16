@@ -1,0 +1,36 @@
+{
+  "slug": "haiku-fire-station-awaits-county-council-approval",
+  "title": "Haʻikū fire station awaits County Council approval",
+  "summary": "As of September 17, 2026, the Haʻikū Fire Station was the subject of an update, but the facts provided give no details on what was said. On August 20, the fire chief said the station still needed final approval from the County Council.",
+  "topics": [
+    "public-safety"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-08-20",
+  "lastSeenISO": "2026-08-20",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-15",
+  "timeline": [
+    {
+      "dateISO": "2026-08-20",
+      "text": "The fire chief said the Haʻikū fire station still needs final approval from the County Council.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "XTkHNUi1mfA",
+        "ts": "0:09:58",
+        "retrievedISO": "2026-10-09T06:35:14.511Z"
+      }
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
