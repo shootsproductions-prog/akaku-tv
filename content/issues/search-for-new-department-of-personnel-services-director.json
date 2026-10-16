@@ -1,21 +1,21 @@
 {
   "slug": "search-for-new-department-of-personnel-services-director",
   "title": "Search for new Department of Personnel Services director",
-  "summary": "On October 8, the Civil Service Commission unanimously appointed the top-ranked finalist as the new Department of Personnel Services (DPS) director, after the October 7 vote was put off because the chair was absent. The finalist scored 378 of 450 points, and the offer stands pending a post-offer background check, which DPS does not currently run. The interim leaders will keep serving until the appointment is final, and letters will go to the finalists, the mayor's office and the council.",
+  "summary": "On October 8, the Civil Service Commission unanimously voted to appoint its top-ranked finalist as the new Department of Personnel Services (DPS) director, after the October 7 vote was put off because the chair was absent. The finalist scored 378 of 450 points among 17 applicants. The offer stands pending a post-offer background check, which DPS does not currently run, and the interim leaders will keep serving until the appointment is final.",
   "topics": [
     "government"
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-08-26",
+  "firstSeenISO": "2026-08-12",
   "lastSeenISO": "2026-10-08",
   "signals": {
     "meetingsLast30d": 3,
-    "meetingsLast90d": 5,
+    "meetingsLast90d": 6,
     "mentionsLast30d": 7,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-10",
+  "asOfISO": "2026-10-12",
   "timeline": [
     {
       "dateISO": "2026-10-08",
@@ -856,6 +856,160 @@
         "retrievedISO": "2026-10-07T23:04:04.593Z"
       },
       "body": "Civil Service Commission"
+    },
+    {
+      "dateISO": "2026-08-12",
+      "text": "A special meeting with resource people, such as the former director, may be held before the interviews.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jn-8_dj8Chs",
+        "ts": "2:00:07",
+        "retrievedISO": "2026-10-12T06:30:09.786Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-12",
+      "text": "Commissioners will bring their edits and a to-do list to the meeting on the 26th.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jn-8_dj8Chs",
+        "ts": "1:59:36",
+        "retrievedISO": "2026-10-12T06:30:09.786Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-12",
+      "text": "The 29th and 30th of September were held as possible interview dates.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jn-8_dj8Chs",
+        "ts": "1:56:41",
+        "retrievedISO": "2026-10-12T06:30:09.786Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-12",
+      "text": "The commission will research whether it can require candidates to interview in person.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jn-8_dj8Chs",
+        "ts": "1:39:07",
+        "retrievedISO": "2026-10-12T06:30:09.786Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-12",
+      "text": "A rough timeline has interviews starting the week of September 28.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jn-8_dj8Chs",
+        "ts": "1:37:24",
+        "retrievedISO": "2026-10-12T06:30:09.786Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-12",
+      "text": "Commissioners plan to meet on the 26th from 9 to 12 to finish the packet.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jn-8_dj8Chs",
+        "ts": "1:31:22",
+        "retrievedISO": "2026-10-12T06:30:09.786Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-12",
+      "text": "A commissioner will draft the candidate cover letter with dates left blank, working with corporation counsel.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jn-8_dj8Chs",
+        "ts": "1:13:06",
+        "retrievedISO": "2026-10-12T06:30:09.786Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-12",
+      "text": "Commissioners want to cut the 24-question reference questionnaire down to 10 questions.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jn-8_dj8Chs",
+        "ts": "1:08:45",
+        "retrievedISO": "2026-10-12T06:30:09.786Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-12",
+      "text": "The vice chair read an email from an absent commissioner who favored interviews by the full commission.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jn-8_dj8Chs",
+        "ts": "0:44:56",
+        "retrievedISO": "2026-10-12T06:30:09.786Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-12",
+      "text": "A commissioner said OIP advised against using executive session, a closed-door discussion, for the interviews.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jn-8_dj8Chs",
+        "ts": "0:39:47",
+        "retrievedISO": "2026-10-12T06:30:09.786Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-12",
+      "text": "If no candidates are left, the commission will meet again to decide next steps.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jn-8_dj8Chs",
+        "ts": "0:35:18",
+        "retrievedISO": "2026-10-12T06:30:09.786Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-12",
+      "text": "Replacements go only down to rank six; commission reconvenes if no candidates remain: The commission approved limiting replacements to candidates ranked down to six by voice vote.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jn-8_dj8Chs",
+        "ts": "0:35:10",
+        "retrievedISO": "2026-10-12T06:30:09.786Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-12",
+      "text": "Reduce the top six candidates to four, with dropouts replaced in ranked order: The commission approved interviewing the top four instead of six by voice vote.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jn-8_dj8Chs",
+        "ts": "0:29:30",
+        "retrievedISO": "2026-10-12T06:30:09.786Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-12",
+      "text": "The Civil Service Commission worked on the timeline and process for choosing a new department director.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jn-8_dj8Chs",
+        "ts": "0:01:48",
+        "retrievedISO": "2026-10-12T06:30:09.786Z"
+      }
     }
   ],
   "sourceTypes": [
