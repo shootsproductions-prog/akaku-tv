@@ -12,6 +12,7 @@ import { existsSync, mkdirSync, readdirSync, readFileSync, renameSync, rmSync, w
 import { dirname, join } from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 
+import { refreshFeed } from './feed.mjs';
 import { buildPublishedIssue } from './publish-issue.mjs';
 
 /** Returns { published: [slug], rejected: [{ file, reason }] }. */
@@ -44,6 +45,7 @@ export function processIncoming({ incomingDir, issuesDir, rejectedDir }) {
       rejected.push({ file: name, reason: e.message });
     }
   }
+  if (published.length) refreshFeed(issuesDir);
   return { published, rejected };
 }
 

@@ -14,6 +14,8 @@ import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 
+import { refreshFeed } from './feed.mjs';
+
 const SLUG = /^[a-z0-9]+(-[a-z0-9]+)*$/;
 const DATE = /^\d{4}-\d{2}-\d{2}/;
 const STATUSES = ['active', 'quiet', 'resolved'];
@@ -117,7 +119,10 @@ function main(args) {
     const i = existsSync(indexPath) ? JSON.parse(readFileSync(indexPath, 'utf8')) : {};
     return { issues: i.issues ?? [], aliases: i.aliases ?? {}, defaultFollows: i.defaultFollows ?? [] };
   };
-  const writeIndex = i => writeFileSync(indexPath, JSON.stringify(i, null, 2) + '\n');
+  const writeIndex = i => {
+    writeFileSync(indexPath, JSON.stringify(i, null, 2) + '\n');
+  };
+  const refresh = () => refreshFeed(dir);
 
   const flags = args.filter(a => a.startsWith('--'));
   const takes = flag => args.flatMap((a, n) => (a === flag ? [args[n + 1] ?? fail(`usage: ${flag} <value>`)] : []));
@@ -128,6 +133,7 @@ function main(args) {
     const name = `${slug}.json`;
     if (!idx.issues.includes(name)) fail(`${name} is not published`);
     writeIndex({ ...idx, issues: idx.issues.filter(n => n !== name), defaultFollows: idx.defaultFollows.filter(s => s !== slug) });
+    refresh();
     console.log(`Unpublished ${name}. (The file stays in content/issues/ until you delete it. Record a merge with --alias instead if followers should move.)`);
     return;
   }
@@ -141,6 +147,7 @@ function main(args) {
       idx.issues = idx.issues.filter(n => n !== `${from}.json`);
     }
     writeIndex(idx);
+    refresh();
     console.log('Recorded the merge. Followers of the old slug now follow the new one.');
     return;
   }
@@ -149,6 +156,7 @@ function main(args) {
     const slugs = takes('--default-follow');
     for (const s of slugs) if (!idx.issues.includes(`${s}.json`)) fail(`${s} is not published, so it cannot be a default follow`);
     writeIndex({ ...idx, defaultFollows: slugs });
+    refresh();
     console.log(`New users will start out following: ${slugs.join(', ')}.`);
     return;
   }
@@ -171,6 +179,7 @@ function main(args) {
   const idx = readIndex();
   if (!idx.issues.includes(name)) idx.issues = [...idx.issues, name];
   writeIndex(idx);
+  refresh();
   console.log(`Published ${name} (${out.title}) as "${out.status}" with ${out.timeline.length} timeline entries.`);
 }
 
