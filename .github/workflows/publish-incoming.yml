@@ -1,0 +1,50 @@
+name: Publish approved issues
+
+# Pipeline drops approved issue files into content/incoming/. This checks them with the same rules as
+# content/publish-issue.mjs (including the election hold), publishes the good ones to content/issues/, and
+# moves any that fail to content/rejected/ with the reason. The app and akaku.org/track read content/issues/.
+on:
+  push:
+    paths:
+      - 'content/incoming/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-incoming
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    if: github.ref_name == github.event.repository.default_branch
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Process incoming issues
+        id: process
+        run: |
+          set +e
+          node content/process-incoming.mjs | tee "$RUNNER_TEMP/report.txt"
+          echo "code=${PIPESTATUS[0]}" >> "$GITHUB_OUTPUT"
+          exit 0
+      - name: Check that every published issue still passes the tests
+        run: node --test apps/mobile/test/content.test.mjs apps/mobile/test/incoming.test.mjs
+      - name: Commit what was published
+        run: |
+          git config user.name "akaku-publisher[bot]"
+          git config user.email "actions@users.noreply.github.com"
+          git add content
+          if git diff --cached --quiet; then echo "Nothing to commit."; exit 0; fi
+          git commit -m "Publish approved issues from Pipeline" -m "$(cat "$RUNNER_TEMP/report.txt")"
+          git pull --rebase origin "${{ github.ref_name }}"
+          git push origin "HEAD:${{ github.ref_name }}"
+      - name: Fail loudly if any file was rejected
+        if: steps.process.outputs.code != '0'
+        run: |
+          echo "One or more files were rejected. See content/rejected/ and the report above."
+          exit 1

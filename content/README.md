@@ -48,3 +48,16 @@ empty, the app keeps showing the four fixed topics.
 Rankings use the raw counts in `signals` (pinned first, then meetings in the last 30 days, then
 most recently seen); the app shows the reason in words and computes "Heating up" itself. Test
 fixtures are made up and must never be copied into `content/issues/`.
+
+## Automatic publishing from Pipeline (`content/incoming/`)
+
+When the producer approves an issue in Pipeline, Pipeline puts the file at `content/incoming/<slug>.json`
+(through the GitHub API, using a token limited to this repo). `.github/workflows/publish-incoming.yml` then runs
+`node content/process-incoming.mjs`, which applies the same checks as `publish-issue.mjs` (including the election
+hold), writes the app-facing copy to `content/issues/`, lists it in `index.json`, runs the content tests, and commits
+to the default branch. The app and akaku.org/track read `content/issues/`, so both update on their own, usually
+within about 15 minutes of the approval.
+
+A file that fails a check is moved to `content/rejected/<slug>.json` with `<slug>.reason.txt` saying why; nothing
+about it goes live and the workflow run turns red. Fix the cause in Pipeline and approve again. Aliases, default
+follows and unpublishing still use `publish-issue.mjs` by hand (rare).
