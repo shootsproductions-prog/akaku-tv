@@ -164,3 +164,10 @@ test('groupByStatus: active, quiet, and resolved newest first; resolved says so'
   assert.deepEqual(g.resolved.map(i => i.slug), ['r-new', 'r-old']);
   assert.match(whyRanked(g.resolved[0]), /^Resolved · last discussed/);
 });
+
+test('the app parser keeps https agenda/meeting links on upcomingEvent and ignores others', () => {
+  const source = { type: 'county-page', url: 'https://example.gov/a', publisher: 'County', quote: 'q', retrievedISO: '2026-10-16' };
+  const ev = x => parseCatalogIssue({ ...EX(), signals: { ...EX().signals, upcomingEvent: { dateISO: '2026-10-21', what: 'Vote', source, ...x } } }).signals.upcomingEvent;
+  assert.equal(ev({ agendaUrl: 'https://example.gov/a.pdf' }).agendaUrl, 'https://example.gov/a.pdf');
+  assert.equal(ev({ meetingUrl: 'javascript:alert(1)' }).meetingUrl, undefined);
+});

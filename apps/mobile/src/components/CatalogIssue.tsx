@@ -118,6 +118,16 @@ export function CatalogIssueScreen({ issue }: { issue: CatalogIssue }) {
               {issue.signals.upcomingEvent.source.type === 'meeting' ? 'Said at a meeting. Dates can change.' : 'From a public notice. Dates can change.'}
             </Txt>
             <Proof source={issue.signals.upcomingEvent.source} />
+            {issue.signals.upcomingEvent.agendaUrl ? (
+              <Press onPress={() => openUrl(issue.signals.upcomingEvent!.agendaUrl!)} accessibilityRole="link" style={{ alignSelf: 'flex-start', paddingVertical: 4 }}>
+                <Txt style={{ fontSize: 14, fontWeight: '700', color: '#fff', textDecorationLine: 'underline' }}>Read the agenda →</Txt>
+              </Press>
+            ) : null}
+            {issue.signals.upcomingEvent.meetingUrl ? (
+              <Press onPress={() => openUrl(issue.signals.upcomingEvent!.meetingUrl!)} accessibilityRole="link" style={{ alignSelf: 'flex-start', paddingVertical: 4 }}>
+                <Txt style={{ fontSize: 14, fontWeight: '700', color: '#fff', textDecorationLine: 'underline' }}>How to testify →</Txt>
+              </Press>
+            ) : null}
           </Panel>
         ) : null}
 

@@ -39,3 +39,16 @@ test('the election hold: election wording is refused unless the producer lifts i
   // A hiring search for job candidates is not an election.
   assert.doesNotThrow(() => buildPublishedIssue({ ...base, summary: 'The commission interviews three candidates for the director job.' }));
 });
+
+test('upcomingEvent keeps only stable agenda and meeting links', () => {
+  const base = read(index.issues[0]);
+  const source = { type: 'county-page', url: 'https://example.gov/a.pdf', publisher: 'County of Maui (Legistar)', quote: 'Bill 116', retrievedISO: '2026-10-16' };
+  const sig = ev => ({ ...base.signals, upcomingEvent: { dateISO: '2026-10-21', what: 'Committee: Bill 116', source, ...ev } });
+  const ok = buildPublishedIssue({ ...base, signals: sig({ agendaUrl: 'https://example.gov/a.pdf', meetingUrl: 'https://example.gov/m', junk: 1 }) });
+  assert.equal(ok.signals.upcomingEvent.agendaUrl, 'https://example.gov/a.pdf');
+  assert.equal(ok.signals.upcomingEvent.meetingUrl, 'https://example.gov/m');
+  assert.equal('junk' in ok.signals.upcomingEvent, false);
+  assert.throws(() => buildPublishedIssue({ ...base, signals: sig({ agendaUrl: 'http://example.gov/a.pdf' }) }), /agendaUrl/);
+  assert.throws(() => buildPublishedIssue({ ...base, signals: sig({ agendaUrl: 'https://x.gov/f?sig=abc' }) }), /agendaUrl/);
+  assert.throws(() => buildPublishedIssue({ ...base, signals: sig({ what: 'x'.repeat(141) }) }), /140/);
+});
