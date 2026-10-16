@@ -20,7 +20,7 @@ export type EntrySource =
 /** `body` is the board or body the fact came from, for example "Board of Water Supply". `speaker` names who said it, when known. */
 export type TimelineEntry = { dateISO: string; text: string; basis: Basis; source: EntrySource; conflictGroup?: string; body?: string; speaker?: string };
 
-export type UpcomingEvent = { dateISO: string; what: string; source: EntrySource };
+export type UpcomingEvent = { dateISO: string; what: string; source: EntrySource; agendaUrl?: string; meetingUrl?: string };
 
 export type Signals = {
   meetingsLast30d: number;
@@ -83,6 +83,8 @@ function parseEntry(v: unknown): TimelineEntry | null {
   return e;
 }
 
+const isHttps = (v: unknown): v is string => typeof v === 'string' && v.startsWith('https://');
+
 /** Returns a CatalogIssue, or null if the file is unusable. Unusable timeline entries are dropped, never guessed. */
 export function parseCatalogIssue(raw: unknown): CatalogIssue | null {
   const o = rec(raw);
@@ -94,7 +96,7 @@ export function parseCatalogIssue(raw: unknown): CatalogIssue | null {
   if (!sig || m30 === null || m90 === null || mm === null) return null;
   const ev = rec(sig.upcomingEvent);
   const evSource = ev ? parseSource(ev.source) : null;
-  const upcomingEvent = ev && evSource && isStr(ev.dateISO) && isStr(ev.what) ? { dateISO: ev.dateISO, what: ev.what, source: evSource } : null;
+  const upcomingEvent = ev && evSource && isStr(ev.dateISO) && isStr(ev.what) ? { dateISO: ev.dateISO, what: ev.what, source: evSource, ...(isHttps(ev.agendaUrl) ? { agendaUrl: ev.agendaUrl } : {}), ...(isHttps(ev.meetingUrl) ? { meetingUrl: ev.meetingUrl } : {}) } : null;
   const timeline = (Array.isArray(o.timeline) ? o.timeline : []).map(parseEntry).filter((e): e is TimelineEntry => !!e).sort((a, b) => b.dateISO.localeCompare(a.dateISO));
   return {
     slug: o.slug,

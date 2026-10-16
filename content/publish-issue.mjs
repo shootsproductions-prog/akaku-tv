@@ -64,7 +64,13 @@ export function buildPublishedIssue(file, { allowElection = false } = {}) {
   if (sig.upcomingEvent != null) {
     const ev = sig.upcomingEvent;
     if (!nonEmpty(ev.dateISO) || !nonEmpty(ev.what)) throw new Error('signals.upcomingEvent needs dateISO and what');
+    if (ev.what.length > 140) throw new Error('signals.upcomingEvent.what must be at most 140 characters');
     upcomingEvent = { dateISO: ev.dateISO, what: ev.what, source: checkSource(ev.source, 'signals.upcomingEvent') };
+    for (const k of ['agendaUrl', 'meetingUrl']) {
+      if (ev[k] == null) continue;
+      if (!nonEmpty(ev[k]) || !ev[k].startsWith('https://') || /[?#]/.test(ev[k]) && /sig=|token=|signature/i.test(ev[k])) throw new Error(`signals.upcomingEvent.${k} must be a stable https link (no signed URLs)`);
+      upcomingEvent[k] = ev[k];
+    }
   }
 
   if (!Array.isArray(file.timeline)) throw new Error('timeline must be a list (it can be empty)');
