@@ -1,0 +1,78 @@
+{
+  "slug": "full-rewrite-of-county-liquor-rules",
+  "title": "Full rewrite of county liquor rules",
+  "summary": "On September 9, commissioners agreed to pause new rule changes until the new rule book is adopted, while the department updates its full rewrite of the liquor rules. An updated draft will return on next month's agenda. Earlier, in July, a special meeting on the comprehensive rule changes was set for August 4 at 9:00.",
+  "topics": [
+    "government",
+    "economy"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-07-08",
+  "lastSeenISO": "2026-09-09",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-16",
+  "timeline": [
+    {
+      "dateISO": "2026-09-09",
+      "text": "An updated draft of the full rules rewrite will be back on next month's agenda.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "vp8RrdPVBC0",
+        "ts": "2:25:07",
+        "retrievedISO": "2026-10-07T23:03:59.641Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "Commissioners agreed to pause new rule changes while the department updates a full rewrite of the liquor rules.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "vp8RrdPVBC0",
+        "ts": "2:22:20",
+        "retrievedISO": "2026-10-07T23:03:59.641Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "Commissioners said they would pause new rule changes until the new rule book is adopted.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "JbnNdXeWXNo",
+        "ts": "2:20:12",
+        "retrievedISO": "2026-10-07T23:03:46.572Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-08",
+      "text": "A special meeting on the department's full rule rewrite is set for August 4 at 9:00.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "un-2pzYnRtQ",
+        "ts": "3:43:52",
+        "retrievedISO": "2026-10-13T06:35:19.455Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-08",
+      "text": "The special meeting will cover the department's comprehensive administrative rule changes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "un-2pzYnRtQ",
+        "ts": "3:36:11",
+        "retrievedISO": "2026-10-13T06:35:19.455Z"
+      }
+    }
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

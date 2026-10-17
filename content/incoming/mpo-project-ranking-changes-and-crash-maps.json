@@ -1,0 +1,78 @@
+{
+  "slug": "mpo-project-ranking-changes-and-crash-maps",
+  "title": "MPO project ranking changes and crash maps",
+  "summary": "Maui MPO staff proposed draft goals for ranking transportation projects, including tracking roads with serious injuries and deaths, and will send the changes to committee members for feedback. Staff have raw crash data but need to remove sensitive details before posting crash maps publicly.",
+  "topics": [
+    "transportation",
+    "public-safety"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-10-06",
+  "lastSeenISO": "2026-10-06",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 3,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-16",
+  "timeline": [
+    {
+      "dateISO": "2026-10-06",
+      "text": "Staff offered to show crash maps to individual members, with notes on how the data was collected.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "f_ubbsOcBHI",
+        "ts": "0:33:06",
+        "retrievedISO": "2026-10-07T20:19:45.348Z"
+      }
+    },
+    {
+      "dateISO": "2026-10-06",
+      "text": "Staff said they have raw crash data but need to remove sensitive details before posting maps publicly.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "f_ubbsOcBHI",
+        "ts": "0:32:35",
+        "retrievedISO": "2026-10-07T20:19:45.348Z"
+      }
+    },
+    {
+      "dateISO": "2026-10-06",
+      "text": "Staff will send the draft project ranking changes to committee members for feedback.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "f_ubbsOcBHI",
+        "ts": "0:28:57",
+        "retrievedISO": "2026-10-07T20:19:45.348Z"
+      }
+    },
+    {
+      "dateISO": "2026-10-06",
+      "text": "Staff shared draft goals for ranking projects, including tracking roads where serious injuries and deaths happen.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "f_ubbsOcBHI",
+        "ts": "0:22:29",
+        "retrievedISO": "2026-10-07T20:19:45.348Z"
+      }
+    },
+    {
+      "dateISO": "2026-10-06",
+      "text": "Staff proposed giving committee members a full month to review Transportation Improvement Program items before they go to the policy board.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "f_ubbsOcBHI",
+        "ts": "0:17:46",
+        "retrievedISO": "2026-10-07T20:19:45.348Z"
+      }
+    }
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
