@@ -15,7 +15,7 @@
     "mentionsLast30d": 7,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-15",
+  "asOfISO": "2026-10-16",
   "timeline": [
     {
       "dateISO": "2026-10-08",
@@ -235,7 +235,7 @@
     },
     {
       "dateISO": "2026-10-07",
-      "text": "Old business item 5A: deliberation on selecting a new director of personnel services: The selection of a new director of personnel services was deferred because the chair was absent.",
+      "text": "The selection of a new director of personnel services was put off because the chair was not present.",
       "basis": "said-at-meeting",
       "source": {
         "type": "meeting",
