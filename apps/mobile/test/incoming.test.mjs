@@ -76,7 +76,7 @@ test('one bad file does not stop the good ones, and a fixed file clears its old 
 
 test('nothing incoming is fine', () => {
   const d = dirs();
-  assert.deepEqual(processIncoming(d), { published: [], withdrawn: [], meetingsPublished: [], meetingsWithdrawn: [], rejected: [] });
+  assert.deepEqual(processIncoming(d), { published: [], withdrawn: [], meetingsPublished: [], meetingsWithdrawn: [], indexChanged: false, rejected: [] });
 });
 
 test('withdrawing takes an issue down everywhere and clears what pointed at it', () => {
@@ -129,4 +129,43 @@ test('meetings: published like issues, with real YouTube ids only, the election 
   assert.deepEqual(r2.meetingsWithdrawn, ['H9lx2zorcDM']);
   assert.deepEqual(JSON.parse(readFileSync(join(d.meetingsDir, 'index.json'), 'utf8')).meetings, []);
   assert.ok(!existsSync(join(d.meetingsDir, 'H9lx2zorcDM.json')));
+});
+
+test('index-changes.json: merges and default follows are validated against what is published', () => {
+  const d = dirs();
+  const a = ex(), b = ex({ slug: 'second-issue', title: 'Second' });
+  d.drop(a.slug, a);
+  d.drop(b.slug, b);
+  processIncoming(d);
+  const idxPath = join(d.issuesDir, 'index.json');
+  const change = obj => { writeFileSync(join(d.incomingDir, 'index-changes.json'), JSON.stringify(obj)); return processIncoming(d); };
+
+  let r = change({ merge: { 'old-name': b.slug }, defaultFollows: [a.slug, b.slug] });
+  assert.deepEqual(r.rejected, []);
+  let idx = JSON.parse(readFileSync(idxPath, 'utf8'));
+  assert.deepEqual(idx.aliases, { 'old-name': b.slug });
+  assert.deepEqual(idx.defaultFollows, [a.slug, b.slug]);
+  assert.ok(!existsSync(join(d.incomingDir, 'index-changes.json')));
+  assert.ok(existsSync(join(d.issuesDir, 'catalog.json')));
+
+  // Refused: unpublished target, a published address, a chain, too many follows, unknown fields. Index stays as it was.
+  for (const bad of [
+    { merge: { x: 'nope' } },
+    { merge: { [a.slug]: b.slug } },
+    { merge: { y: 'old-name' } },
+    { defaultFollows: ['a', 'b', 'c', 'd', 'e', 'f'] },
+    { defaultFollows: ['nope'] },
+    { unmerge: ['never-merged'] },
+    { delete: true },
+  ]) {
+    r = change(bad);
+    assert.equal(r.rejected.length, 1, JSON.stringify(bad));
+    assert.deepEqual(JSON.parse(readFileSync(idxPath, 'utf8')), idx, JSON.stringify(bad));
+  }
+  assert.match(readFileSync(join(d.rejectedDir, 'index-changes.reason.txt'), 'utf8'), /unknown field/);
+
+  r = change({ unmerge: ['old-name'] });
+  assert.deepEqual(r.rejected, []);
+  assert.deepEqual(JSON.parse(readFileSync(idxPath, 'utf8')).aliases, {});
+  assert.ok(!existsSync(join(d.rejectedDir, 'index-changes.reason.txt')));
 });

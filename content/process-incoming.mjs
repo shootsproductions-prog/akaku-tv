@@ -8,6 +8,9 @@
 // MEETINGS content/incoming/meetings/<videoId>.json      an approved recap -> content/meetings/<videoId>.json
 //          content/incoming/meetings/<videoId>.withdraw  take the meeting down
 //
+// INDEX    content/incoming/index-changes.json  { "merge": {"old-slug": "new-slug"}, "unmerge": ["old-slug"], "defaultFollows": ["slug", ...] }
+//          merges point an old address at a published issue; defaultFollows REPLACES the list new users follow (max 5).
+//
 // Every file goes through the same checks as `publish-issue.mjs` / `publish-meeting.mjs`, including the producer's
 // election hold. Good files leave incoming/. A file that fails a check is moved to content/rejected/ (meetings:
 // content/rejected/meetings/) with <name>.reason.txt saying why, and nothing about it goes live.
@@ -20,6 +23,8 @@ import { refreshFeed } from './feed.mjs';
 import { buildPublishedIssue, ELECTION } from './publish-issue.mjs';
 import { buildPublished as buildPublishedMeeting } from './publish-meeting.mjs';
 
+const SLUG = /^[a-z0-9][a-z0-9-]*$/;
+const INDEX_CHANGES = 'index-changes.json';
 const YOUTUBE_ID = /^[A-Za-z0-9_-]{11}$/;
 const readJson = p => JSON.parse(readFileSync(p, 'utf8'));
 const writeJson = (p, v) => writeFileSync(p, JSON.stringify(v, null, 2) + '\n');
@@ -55,7 +60,7 @@ function clearRejection(rejectedDir, stem) {
 
 /** Returns { published, withdrawn, meetingsPublished, meetingsWithdrawn, rejected: [{ file, reason }] }. */
 export function processIncoming({ incomingDir, issuesDir, rejectedDir, meetingsDir = null }) {
-  const out = { published: [], withdrawn: [], meetingsPublished: [], meetingsWithdrawn: [], rejected: [] };
+  const out = { published: [], withdrawn: [], meetingsPublished: [], meetingsWithdrawn: [], indexChanged: false, rejected: [] };
   const issueIndexPath = join(issuesDir, 'index.json');
   const readIssueIndex = () => {
     const i = existsSync(issueIndexPath) ? readJson(issueIndexPath) : {};
@@ -63,7 +68,7 @@ export function processIncoming({ incomingDir, issuesDir, rejectedDir, meetingsD
   };
 
   // Issues: publish or update.
-  for (const name of sweep(incomingDir, '.json')) {
+  for (const name of sweep(incomingDir, '.json').filter(n => n !== INDEX_CHANGES)) {
     const from = join(incomingDir, name);
     try {
       const out1 = buildPublishedIssue(readJson(from));
@@ -97,6 +102,45 @@ export function processIncoming({ incomingDir, issuesDir, rejectedDir, meetingsD
     } catch (e) {
       reject(from, rejectedDir, name, e.message);
       out.rejected.push({ file: name, reason: e.message });
+    }
+  }
+
+  // Index changes: merges (aliases) and the default follows. Runs after publish/withdraw so one push can do both.
+  if (existsSync(join(incomingDir, INDEX_CHANGES))) {
+    const from = join(incomingDir, INDEX_CHANGES);
+    try {
+      const ch = readJson(from);
+      const idx = readIssueIndex();
+      const published = new Set(idx.issues.map(n => n.replace(/\.json$/, '')));
+      const aliases = { ...idx.aliases };
+      const known = new Set(['merge', 'unmerge', 'defaultFollows']);
+      for (const k of Object.keys(ch)) if (!known.has(k)) throw new Error(`unknown field "${k}" (allowed: merge, unmerge, defaultFollows)`);
+      for (const old of ch.unmerge ?? []) {
+        if (!(old in aliases)) throw new Error(`"${old}" is not a merged address, so there is nothing to unmerge`);
+        delete aliases[old];
+      }
+      for (const [old, to] of Object.entries(ch.merge ?? {})) {
+        if (!SLUG.test(old) || !SLUG.test(to)) throw new Error(`merge ${old} -> ${to}: slugs must be lowercase letters, numbers and hyphens`);
+        if (old === to) throw new Error(`merge ${old}: cannot merge an issue into itself`);
+        if (published.has(old)) throw new Error(`merge ${old} -> ${to}: "${old}" is still published. Withdraw it first (or in the same push), then merge.`);
+        if (!published.has(to)) throw new Error(`merge ${old} -> ${to}: "${to}" is not a published issue`);
+        aliases[old] = to;
+      }
+      for (const [old, to] of Object.entries(aliases)) if (aliases[to] || !published.has(to)) throw new Error(`merge ${old} -> ${to}: must point at a published issue, not at another merge`);
+      let defaultFollows = idx.defaultFollows;
+      if (ch.defaultFollows !== undefined) {
+        if (!Array.isArray(ch.defaultFollows) || ch.defaultFollows.length > 5) throw new Error('defaultFollows must be a list of at most 5 slugs');
+        if (new Set(ch.defaultFollows).size !== ch.defaultFollows.length) throw new Error('defaultFollows has a duplicate');
+        for (const slug of ch.defaultFollows) if (!published.has(slug)) throw new Error(`defaultFollows: "${slug}" is not a published issue`);
+        defaultFollows = ch.defaultFollows;
+      }
+      writeJson(issueIndexPath, { ...idx, aliases, defaultFollows });
+      rmSync(from);
+      clearRejection(rejectedDir, 'index-changes');
+      out.indexChanged = true;
+    } catch (e) {
+      reject(from, rejectedDir, INDEX_CHANGES, e.message);
+      out.rejected.push({ file: INDEX_CHANGES, reason: e.message });
     }
   }
 
@@ -147,7 +191,7 @@ export function processIncoming({ incomingDir, issuesDir, rejectedDir, meetingsD
     }
   }
 
-  if (out.published.length || out.withdrawn.length) refreshFeed(issuesDir);
+  if (out.published.length || out.withdrawn.length || out.indexChanged) refreshFeed(issuesDir);
   return out;
 }
 
@@ -162,6 +206,7 @@ function main() {
   const list = a => a.join(', ') || 'none';
   console.log(`Issues published ${r.published.length}: ${list(r.published)}.`);
   console.log(`Issues withdrawn ${r.withdrawn.length}: ${list(r.withdrawn)}.`);
+  console.log(`Merges / default follows changed: ${r.indexChanged ? 'yes' : 'no'}.`);
   console.log(`Meetings published ${r.meetingsPublished.length}: ${list(r.meetingsPublished)}.`);
   console.log(`Meetings withdrawn ${r.meetingsWithdrawn.length}: ${list(r.meetingsWithdrawn)}.`);
   for (const x of r.rejected) console.log(`REJECTED ${x.file}: ${x.reason}`);
