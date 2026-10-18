@@ -71,6 +71,9 @@ check. Readers can skip files whose `updatedAt` has not moved.
 
 - `content/incoming/<slug>.withdraw` (an empty file) takes a published issue down: its file, index entry, default follow,
   and any merge that pointed at it.
+- `content/incoming/index-changes.json` changes the index: `{ "merge": {"old-slug": "new-slug"}, "unmerge": ["old-slug"],
+  "defaultFollows": ["slug"] }`. A merge needs the old slug withdrawn (it may be in the same push) and a published
+  target, with no chains; `defaultFollows` replaces the list (at most 5, all published). Anything else is rejected whole.
 - `content/incoming/meetings/<videoId>.json` publishes an approved recap to `content/meetings/` with the same checks as
   `publish-meeting.mjs`. It must carry a real 11-character YouTube id (never an internal recording id) and passes the
   election hold. `content/incoming/meetings/<videoId>.withdraw` takes it down.
