@@ -10,12 +10,12 @@
   "firstSeenISO": "2024-11-21",
   "lastSeenISO": "2026-09-17",
   "signals": {
-    "meetingsLast30d": 1,
+    "meetingsLast30d": 0,
     "meetingsLast90d": 2,
-    "mentionsLast30d": 1,
+    "mentionsLast30d": 0,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-16",
+  "asOfISO": "2026-10-17",
   "timeline": [
     {
       "dateISO": "2026-09-17",

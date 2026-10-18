@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T06:44:11.194Z",
+  "updatedAt": "2026-10-18T06:38:10.565Z",
   "count": 46,
   "issues": [
     {
@@ -15,12 +15,12 @@
       "firstSeenISO": "2026-08-20",
       "lastSeenISO": "2026-09-17",
       "signals": {
-        "meetingsLast30d": 1,
+        "meetingsLast30d": 0,
         "meetingsLast90d": 2,
-        "mentionsLast30d": 3,
+        "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-09-17",
@@ -115,7 +115,7 @@
           }
         }
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-09-18",
@@ -329,7 +329,7 @@
     {
       "slug": "east-maui-ditch-system-ownership-and-county-takeover-bid",
       "title": "East Maui ditch system ownership and county takeover bid",
-      "summary": "As of September 18, 2026, there was nothing new to report on land negotiations for the East Maui irrigation system. On August 23, Board of Land and Natural Resources (BLNR) unanimously denied staff's recommendation to start a long-term water license for Mahi Pono, keeping alive the county's effort to take over management through the East Maui Water Authority. Ownership is disputed, since the last licenses expired between 1971 and 1986 and a state letter says the system is private.",
+      "summary": "As of September 18, 2026, there was nothing new to report on land negotiations for the East Maui irrigation system. On August 23, Board of Land and Natural Resources (BLNR) voted unanimously, all six members present, to deny staff's recommendation to start a long-term water license for Mahi Pono, which keeps alive the county's effort, through the East Maui Water Authority, to take over management. Ownership of the system remains disputed.",
       "topics": [
         "water",
         "government"
@@ -344,7 +344,7 @@
         "mentionsLast30d": 1,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-09-18",
@@ -811,7 +811,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-08-23",
@@ -1154,12 +1154,12 @@
       "firstSeenISO": "2026-07-16",
       "lastSeenISO": "2026-09-17",
       "signals": {
-        "meetingsLast30d": 1,
+        "meetingsLast30d": 0,
         "meetingsLast90d": 1,
-        "mentionsLast30d": 3,
+        "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-09-17",
@@ -1275,12 +1275,12 @@
       "firstSeenISO": "2026-09-03",
       "lastSeenISO": "2026-09-17",
       "signals": {
-        "meetingsLast30d": 1,
+        "meetingsLast30d": 0,
         "meetingsLast90d": 2,
-        "mentionsLast30d": 3,
+        "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-09-17",
@@ -1533,7 +1533,7 @@
         "mentionsLast30d": 7,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-10-08",
@@ -2935,12 +2935,12 @@
       "firstSeenISO": "2024-11-21",
       "lastSeenISO": "2026-09-17",
       "signals": {
-        "meetingsLast30d": 1,
+        "meetingsLast30d": 0,
         "meetingsLast90d": 2,
-        "mentionsLast30d": 1,
+        "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-09-17",
@@ -3278,7 +3278,7 @@
         "mentionsLast30d": 3,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-09-21",
@@ -3425,7 +3425,7 @@
         "mentionsLast30d": 3,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-10-08",
@@ -3587,7 +3587,7 @@
           }
         }
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-09-21",
@@ -3745,7 +3745,7 @@
         "mentionsLast30d": 3,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-09-21",
@@ -3887,12 +3887,12 @@
       "firstSeenISO": "2026-07-16",
       "lastSeenISO": "2026-09-17",
       "signals": {
-        "meetingsLast30d": 1,
+        "meetingsLast30d": 0,
         "meetingsLast90d": 2,
-        "mentionsLast30d": 2,
+        "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-09-17",
@@ -3978,7 +3978,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-09-10",
@@ -4048,7 +4048,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-09-09",
@@ -4151,7 +4151,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-09-10",
@@ -4198,7 +4198,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-09-10",
@@ -4231,7 +4231,7 @@
     {
       "slug": "east-maui-water-authority-grant-program-funding",
       "title": "East Maui Water Authority grant program funding",
-      "summary": "As of September 18, the East Maui Water Authority's grant program has $150,000 in funding this year, up from the $100,000 grant announced in July. Staff had said in July that the next round would give out $150,000. The money traces back to a foundation's $100,000 commitment for early planning work, with access to grant funds starting in July 2026.",
+      "summary": "The East Maui Water Authority grant program's funding doubled this year to $150,000, and staff said the next round will give out that amount. A $100,000 grant was announced in July, after a foundation committed $100,000 for early planning work. Earlier, the authority awarded $75,000 to five grantees, while requests topped $200,000.",
       "topics": [
         "water",
         "government"
@@ -4246,7 +4246,7 @@
         "mentionsLast30d": 1,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-09-18",
@@ -4320,7 +4320,7 @@
         "mentionsLast30d": 1,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-09-18",
@@ -4358,7 +4358,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-09-09",
@@ -4424,7 +4424,7 @@
     {
       "slug": "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p",
       "title": "Ending apartment vacation rentals and hotel rezoning of 48 properties",
-      "summary": "On Sept. 29, the Council heard Resolution 26-129, which would send some apartment-zoned coastal properties forward for possible permanent hotel zoning. The Office of Hawaiian Affairs and a resident opposed it, the Realtors Association of Maui supported it, and an amendment was postponed.",
+      "summary": "On September 29, the Council took up Resolution 26-129, which could send some apartment-zoned coastal properties forward for permanent hotel zoning; the Office of Hawaiian Affairs and a resident opposed it, and a proposed amendment was postponed. A council member said the Planning Commission approved five of 48 properties from an earlier resolution. On September 22 the commission recommended approving some properties and denying others, and must report by November 24, 2026.",
       "topics": [
         "housing",
         "land-use"
@@ -4448,7 +4448,7 @@
           }
         }
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-09-29",
@@ -5352,7 +5352,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-09-09",
@@ -5466,7 +5466,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-09-16",
@@ -5611,7 +5611,7 @@
           }
         }
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-09-23",
@@ -5669,7 +5669,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [],
       "sourceTypes": [],
       "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
@@ -5693,7 +5693,7 @@
         "mentionsLast30d": 2,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-10-06",
@@ -5741,7 +5741,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-09-09",
@@ -5807,7 +5807,7 @@
     {
       "slug": "haiku-fire-station-awaits-county-council-approval",
       "title": "Haʻikū fire station awaits County Council approval",
-      "summary": "As of September 17, 2026, the Haʻikū Fire Station was the subject of an update, but the facts provided give no details on what was said. On August 20, the fire chief said the station still needed final approval from the County Council.",
+      "summary": "On Aug. 24 the committee recommended Bills 90 and 91 for first reading on the Haʻikū Fire Station, with Bill 90 passing 6–2 with one excused. It required the parcel's remaining farm land to be used for subsistence agriculture.",
       "topics": [
         "public-safety"
       ],
@@ -5821,7 +5821,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-08-20",
@@ -5857,7 +5857,7 @@
         "mentionsLast30d": 3,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-09-24",
@@ -5949,7 +5949,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-09-09",
@@ -6085,7 +6085,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-08-26",
@@ -6279,7 +6279,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-09-08",
@@ -6372,7 +6372,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-09-09",
@@ -6441,7 +6441,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-09-10",
@@ -6495,12 +6495,12 @@
       "firstSeenISO": "2026-09-17",
       "lastSeenISO": "2026-09-17",
       "signals": {
-        "meetingsLast30d": 1,
+        "meetingsLast30d": 0,
         "meetingsLast90d": 1,
-        "mentionsLast30d": 3,
+        "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-09-17",
@@ -6581,7 +6581,7 @@
         "mentionsLast30d": 3,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-10-06",
@@ -6661,7 +6661,7 @@
         "mentionsLast30d": 3,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-09-24",
@@ -6743,7 +6743,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-09-08",
@@ -7288,7 +7288,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-09-10",
@@ -7379,7 +7379,7 @@
         "mentionsLast30d": 3,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-10-02",
@@ -7537,7 +7537,7 @@
         "mentionsLast30d": 3,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-10-06",
@@ -7718,7 +7718,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-09-03",
@@ -7871,7 +7871,7 @@
         "mentionsLast30d": 2,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2026-10-07",
@@ -7920,7 +7920,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2024-01-24",
@@ -8057,7 +8057,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-16",
+      "asOfISO": "2026-10-17",
       "timeline": [
         {
           "dateISO": "2024-11-21",
