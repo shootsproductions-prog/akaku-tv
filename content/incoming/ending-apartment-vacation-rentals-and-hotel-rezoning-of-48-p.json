@@ -1,0 +1,910 @@
+{
+  "slug": "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p",
+  "title": "Ending apartment vacation rentals and hotel rezoning of 48 properties",
+  "summary": "On Sept. 29, Resolution 26-129 drew opposition from the Office of Hawaiian Affairs and a resident, while the Realtors Association of Maui supported it; an amendment was postponed until Committee Report 26-68. A council member said the Planning Commission approved five of 48 properties from an earlier resolution.",
+  "topics": [
+    "housing",
+    "land-use"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-09-09",
+  "lastSeenISO": "2026-09-29",
+  "signals": {
+    "meetingsLast30d": 3,
+    "meetingsLast90d": 6,
+    "mentionsLast30d": 7,
+    "upcomingEvent": {
+      "dateISO": "2026-11-24",
+      "what": "Commission must report to the council",
+      "source": {
+        "type": "meeting",
+        "videoId": "bNmkTTI2aL0",
+        "ts": "0:16:23",
+        "retrievedISO": "2026-10-07T23:03:49.316Z"
+      }
+    }
+  },
+  "asOfISO": "2026-10-18",
+  "timeline": [
+    {
+      "dateISO": "2026-09-29",
+      "text": "A proposed amendment to the resolution was postponed until the Council takes up Committee Report 26-68.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "osd2kNYTO0c",
+        "ts": "2:25:42",
+        "retrievedISO": "2026-10-16T18:23:02.372Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-09-29",
+      "text": "One resident opposed the resolution, saying “we are in a housing crisis.”",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "osd2kNYTO0c",
+        "ts": "2:07:22",
+        "retrievedISO": "2026-10-16T18:23:02.372Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-09-29",
+      "text": "The Realtors Association of Maui testified in support of the resolution.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "osd2kNYTO0c",
+        "ts": "1:29:43",
+        "retrievedISO": "2026-10-16T18:23:02.372Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-09-29",
+      "text": "Resolution 26-129 would send some apartment-zoned coastal properties forward for possible permanent hotel zoning.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "osd2kNYTO0c",
+        "ts": "1:14:46",
+        "retrievedISO": "2026-10-16T18:23:02.372Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-09-29",
+      "text": "The Office of Hawaiian Affairs opposed Resolution 26-129, which could move apartment-zoned coastal properties toward hotel zoning.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "osd2kNYTO0c",
+        "ts": "1:14:40",
+        "retrievedISO": "2026-10-16T18:23:02.372Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-09-29",
+      "text": "A council member said the Planning Commission approved five of 48 properties from an earlier resolution.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "goNR3t5P1x8",
+        "ts": "0:49:30",
+        "retrievedISO": "2026-10-16T03:43:41.811Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-09-22",
+      "text": "The main motion passed with five yes votes, including one abstention, and one no.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bNmkTTI2aL0",
+        "ts": "8:15:08",
+        "retrievedISO": "2026-10-07T23:03:49.316Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-22",
+      "text": "Recommendation to the council on the two rezoning resolutions: The commission voted to recommend approval for the variance, all-timeshare and one Hāna property, and denial for the other property groups.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bNmkTTI2aL0",
+        "ts": "8:14:33",
+        "retrievedISO": "2026-10-07T23:03:49.316Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-22",
+      "text": "Recommendation that the council explore the use of public funds for the purpose of housing: The commission voted to ask the council to explore using public funds for housing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bNmkTTI2aL0",
+        "ts": "8:13:30",
+        "retrievedISO": "2026-10-07T23:03:49.316Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-22",
+      "text": "A separate motion asked the council to explore using public funds for housing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bNmkTTI2aL0",
+        "ts": "8:10:44",
+        "retrievedISO": "2026-10-07T23:03:49.316Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-22",
+      "text": "Friendly amendment requiring shoreline properties to get a certified shoreline survey within two years: A commissioner's proposal to require certified shoreline surveys for shoreline properties did not get a second.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bNmkTTI2aL0",
+        "ts": "8:04:15",
+        "retrievedISO": "2026-10-07T23:03:49.316Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-22",
+      "text": "The commission recommended denial for single-owner, mixed timeshare, leasehold and hotel-like properties.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bNmkTTI2aL0",
+        "ts": "7:54:43",
+        "retrievedISO": "2026-10-07T23:03:49.316Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-22",
+      "text": "The final motion recommends approving the two variance and two all-timeshare properties.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bNmkTTI2aL0",
+        "ts": "7:54:27",
+        "retrievedISO": "2026-10-07T23:03:49.316Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-22",
+      "text": "A friendly amendment added a hotel-like property in Hāna for approval.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bNmkTTI2aL0",
+        "ts": "7:46:51",
+        "retrievedISO": "2026-10-07T23:03:49.316Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-22",
+      "text": "Staff said he will transfer the motion information to the council.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bNmkTTI2aL0",
+        "ts": "7:45:06",
+        "retrievedISO": "2026-10-07T23:03:49.316Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-22",
+      "text": "A commissioner said the commission lacked enough information to evaluate the properties.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bNmkTTI2aL0",
+        "ts": "5:21:44",
+        "retrievedISO": "2026-10-07T23:03:49.316Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-22",
+      "text": "A Lahaina Community Land Trust staff member urged returning non-hotel units to housing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bNmkTTI2aL0",
+        "ts": "2:37:48",
+        "retrievedISO": "2026-10-07T23:03:49.316Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-22",
+      "text": "The president of the Maui Sunset timeshare association supported hotel zoning for that property.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bNmkTTI2aL0",
+        "ts": "1:20:43",
+        "retrievedISO": "2026-10-07T23:03:49.316Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-22",
+      "text": "The Office of Hawaiian Affairs opposed both resolutions.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bNmkTTI2aL0",
+        "ts": "0:51:07",
+        "retrievedISO": "2026-10-07T23:03:49.316Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-22",
+      "text": "Staff said some of the properties now have owner-occupied or long-term rental units.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bNmkTTI2aL0",
+        "ts": "0:26:47",
+        "retrievedISO": "2026-10-07T23:03:49.316Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-22",
+      "text": "The commission must report to the council by November 24, 2026.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bNmkTTI2aL0",
+        "ts": "0:16:23",
+        "retrievedISO": "2026-10-07T23:03:49.316Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-22",
+      "text": "Staff said their sole purpose is to let these properties keep vacation rentals.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bNmkTTI2aL0",
+        "ts": "0:14:27",
+        "retrievedISO": "2026-10-07T23:03:49.316Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-22",
+      "text": "Two council bills would move about 48 apartment-zoned properties into new hotel zoning districts.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bNmkTTI2aL0",
+        "ts": "0:13:29",
+        "retrievedISO": "2026-10-07T23:03:49.316Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-22",
+      "text": "Staff will take a report back to the council, which will decide on the bills at a future meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bNmkTTI2aL0",
+        "ts": "0:13:13",
+        "retrievedISO": "2026-10-07T23:03:49.316Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-22",
+      "text": "The commission reviewed two council resolutions to rezone specific properties into new H3 and H4 hotel districts.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bNmkTTI2aL0",
+        "ts": "0:13:08",
+        "retrievedISO": "2026-10-07T23:03:49.316Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-22",
+      "text": "Staff said the only change in hotel zoning is allowing vacation rental use to continue.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bNmkTTI2aL0",
+        "ts": "0:11:35",
+        "retrievedISO": "2026-10-07T23:03:49.316Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-22",
+      "text": "Bill 9 ends vacation rentals in apartment districts by December 31, 2028, in West Maui and December 31, 2030, elsewhere.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bNmkTTI2aL0",
+        "ts": "0:06:09",
+        "retrievedISO": "2026-10-07T23:03:49.316Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-22",
+      "text": "Bill 9 aimed to end vacation rentals in apartment districts to expand long-term housing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bNmkTTI2aL0",
+        "ts": "0:05:31",
+        "retrievedISO": "2026-10-07T23:03:49.316Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "Motion to adopt Resolution 26-130: A motion to adopt Resolution 26-130 was on the floor when the recording ended, with no vote heard.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "q7BT6e0tKXE",
+        "ts": "3:08:35",
+        "retrievedISO": "2026-10-16T19:09:53.659Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "That proposal failed, 4 to 5.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "q7BT6e0tKXE",
+        "ts": "2:35:33",
+        "retrievedISO": "2026-10-16T19:09:53.659Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "The committee took a two-minute recess before any vote on the resolution.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "nm5iTgbK7LQ",
+        "ts": "2:22:48",
+        "retrievedISO": "2026-10-16T10:10:28.815Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "The chair said the passed flood-zone criterion affects three properties.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "nm5iTgbK7LQ",
+        "ts": "2:19:53",
+        "retrievedISO": "2026-10-16T10:10:28.815Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "Motion to recommend adoption of resolution 26-129: A motion to recommend adoption of resolution 26-129 was made and seconded, but no vote was taken in this recording.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "nm5iTgbK7LQ",
+        "ts": "2:18:09",
+        "retrievedISO": "2026-10-16T10:10:28.815Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "Finance data showed eight properties had more than 25% residential use.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "q7BT6e0tKXE",
+        "ts": "2:10:45",
+        "retrievedISO": "2026-10-16T19:09:53.659Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "Another council member proposed limiting rezoning to properties with no more than 25% resident use in 2008.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "q7BT6e0tKXE",
+        "ts": "2:09:37",
+        "retrievedISO": "2026-10-16T19:09:53.659Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "The chair said the discussed conditions will be sent to the Maui Planning Commission as ideas in the committee report.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "nm5iTgbK7LQ",
+        "ts": "2:08:36",
+        "retrievedISO": "2026-10-16T10:10:28.815Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "The committee passed, 5 to 4, a residential-use criterion that does not apply to properties in the flood hazard area.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "nm5iTgbK7LQ",
+        "ts": "2:07:55",
+        "retrievedISO": "2026-10-16T10:10:28.815Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "The committee report will note the South Kīhei Road proposal and ask the Planning Commission for its view.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "q7BT6e0tKXE",
+        "ts": "2:07:19",
+        "retrievedISO": "2026-10-16T19:09:53.659Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "The committee is voting on criteria for which properties go to the Planning Commission for possible rezoning from A1, A2 to H3, H4.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "nm5iTgbK7LQ",
+        "ts": "1:56:50",
+        "retrievedISO": "2026-10-16T10:10:28.815Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "A council member said the goal is to reclaim housing from the tourism industry.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "nm5iTgbK7LQ",
+        "ts": "1:42:09",
+        "retrievedISO": "2026-10-16T10:10:28.815Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "A council member proposed leaving off the list eight properties with more than 25% residential use by owners or long-term renters.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "nm5iTgbK7LQ",
+        "ts": "1:41:16",
+        "retrievedISO": "2026-10-16T10:10:28.815Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "Councilmember Sugimura asked staff to look at which properties the proposals would affect, and the chair said she plans to do that during a longer recess.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HI-AxI-uLL0",
+        "ts": "1:09:28",
+        "retrievedISO": "2026-10-16T04:25:50.977Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "Staff restated Paltin's criterion as Kīhei properties must be makai of South Kīhei Road to be included.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HI-AxI-uLL0",
+        "ts": "1:04:35",
+        "retrievedISO": "2026-10-16T04:25:50.977Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "Member Paltin moved to leave out properties mauka (toward the mountain) of South Kīhei Road.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "nm5iTgbK7LQ",
+        "ts": "1:00:37",
+        "retrievedISO": "2026-10-16T10:10:28.815Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "That councilmember proposed owners agree to remove buildings, pools and other human-made objects.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HI-AxI-uLL0",
+        "ts": "1:00:34",
+        "retrievedISO": "2026-10-16T04:25:50.977Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "A councilmember proposed that properties with no more than 25% of units classified as homeowner or apartment in 2008 be treated as historically visitor lodging.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HI-AxI-uLL0",
+        "ts": "1:00:00",
+        "retrievedISO": "2026-10-16T04:25:50.977Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "Staff said a property met a criterion if more than half of its building footprint was in that area.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "nm5iTgbK7LQ",
+        "ts": "0:59:50",
+        "retrievedISO": "2026-10-16T10:10:28.815Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "Another councilmember proposed a 25% test on 2008 unit records to show a property historically served visitors.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HI-AxI-uLL0",
+        "ts": "0:59:06",
+        "retrievedISO": "2026-10-16T04:25:50.977Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "Members are weighing criteria and conditions for rezoning some apartment-zoned properties to hotel zoning.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HI-AxI-uLL0",
+        "ts": "0:51:59",
+        "retrievedISO": "2026-10-16T04:25:50.977Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "The chair asked planning staff to explain, after the recess, a straight line on the flood designation map.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oxeqJ2H8XQA",
+        "ts": "0:51:16",
+        "retrievedISO": "2026-10-16T04:41:38.847Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "Corporation counsel said zoning conditions must be clearly linked and proportional to the change's impact.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HI-AxI-uLL0",
+        "ts": "0:51:10",
+        "retrievedISO": "2026-10-16T04:25:50.977Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "Staff handed out a list showing which properties are in the sea level rise exposure area, flood zones, or shoreline setback area.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "nm5iTgbK7LQ",
+        "ts": "0:48:09",
+        "retrievedISO": "2026-10-16T10:10:28.815Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "Staff said they are creating one master list of all the properties.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oxeqJ2H8XQA",
+        "ts": "0:47:43",
+        "retrievedISO": "2026-10-16T04:41:38.847Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "The chair said conditions would be set later, after the Maui Planning Commission reviews them.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "q7BT6e0tKXE",
+        "ts": "0:46:28",
+        "retrievedISO": "2026-10-16T19:09:53.659Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "Paltin proposed requiring an updated state certified shoreline assessment for properties moving from apartment to hotel zoning.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HI-AxI-uLL0",
+        "ts": "0:45:23",
+        "retrievedISO": "2026-10-16T04:25:50.977Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "Member Cook distributed information on Shores of Maui.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oxeqJ2H8XQA",
+        "ts": "0:45:23",
+        "retrievedISO": "2026-10-16T04:41:38.847Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "Paltin proposed a condition requiring public beach access from 8 a.m. to 10 p.m.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HI-AxI-uLL0",
+        "ts": "0:44:43",
+        "retrievedISO": "2026-10-16T04:25:50.977Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "Members were told the lawyer advised that criteria be objective and apply to all properties.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oxeqJ2H8XQA",
+        "ts": "0:42:44",
+        "retrievedISO": "2026-10-16T04:41:38.847Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "The chair said only one of the five, Shores of Maui, had been proposed by a council member.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oxeqJ2H8XQA",
+        "ts": "0:42:04",
+        "retrievedISO": "2026-10-16T04:41:38.847Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "The chair said the new criteria could, in part, remove properties members expected to be on the list.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oxeqJ2H8XQA",
+        "ts": "0:41:24",
+        "retrievedISO": "2026-10-16T04:41:38.847Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "Members are considering added criteria that shape which Kīhei properties go on a recommendation list for the Planning Commission.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oxeqJ2H8XQA",
+        "ts": "0:41:11",
+        "retrievedISO": "2026-10-16T04:41:38.847Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "Council Member Paltin proposed conditions such as public beach access and an updated state-certified shoreline assessment.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "q7BT6e0tKXE",
+        "ts": "0:38:59",
+        "retrievedISO": "2026-10-16T19:09:53.659Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "Under the draft criteria, a property must not have been originally intended for affordable workforce housing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HI-AxI-uLL0",
+        "ts": "0:36:48",
+        "retrievedISO": "2026-10-16T04:25:50.977Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "Draft criteria require most of a property's structures to be in a sea level rise, flood or shoreline setback area.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HI-AxI-uLL0",
+        "ts": "0:36:42",
+        "retrievedISO": "2026-10-16T04:25:50.977Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "The chair said Member Paltin's criteria adds to the existing criteria and does not undo it.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oxeqJ2H8XQA",
+        "ts": "0:30:19",
+        "retrievedISO": "2026-10-16T04:41:38.847Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "Staff said a checked flood box means over 50% of a structure's footprint is in a special flood hazard area.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oxeqJ2H8XQA",
+        "ts": "0:28:21",
+        "retrievedISO": "2026-10-16T04:41:38.847Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "Members received a list of Kīhei apartment district properties with TVR uses phasing out.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oxeqJ2H8XQA",
+        "ts": "0:26:40",
+        "retrievedISO": "2026-10-16T04:41:38.847Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "The chair said the committee will then move to Resolution 130, where Member Cook has changes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oxeqJ2H8XQA",
+        "ts": "0:25:25",
+        "retrievedISO": "2026-10-16T04:41:38.847Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "The chair said that after a short recess for staff to compile qualifying properties, the committee will vote on Resolution 129.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oxeqJ2H8XQA",
+        "ts": "0:25:12",
+        "retrievedISO": "2026-10-16T04:41:38.847Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "The chair said the committee will vote on the criteria, then on Resolution 129.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oxeqJ2H8XQA",
+        "ts": "0:25:06",
+        "retrievedISO": "2026-10-16T04:41:38.847Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "The chair said the conditions had no unanimous support and would be sent as ideas.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oxeqJ2H8XQA",
+        "ts": "0:21:34",
+        "retrievedISO": "2026-10-16T04:41:38.847Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "One member said they did not agree with the proposed conditions.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oxeqJ2H8XQA",
+        "ts": "0:21:11",
+        "retrievedISO": "2026-10-16T04:41:38.847Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "The chair said proposed conditions would go to the Maui Planning Commission for review.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oxeqJ2H8XQA",
+        "ts": "0:20:10",
+        "retrievedISO": "2026-10-16T04:41:38.847Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "The chair said the committee would vote on criteria proposed by Member Paltin and another member.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oxeqJ2H8XQA",
+        "ts": "0:20:04",
+        "retrievedISO": "2026-10-16T04:41:38.847Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "The committee is deciding which apartment properties with vacation rentals get rezoned to hotel districts.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "q7BT6e0tKXE",
+        "ts": "0:19:27",
+        "retrievedISO": "2026-10-16T19:09:53.659Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    }
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

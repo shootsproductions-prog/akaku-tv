@@ -1,0 +1,164 @@
+{
+  "slug": "liquor-control-director-retirement-and-replacement-search",
+  "title": "Liquor Control director retirement and replacement search",
+  "summary": "At a September 21 special meeting, the Liquor Control Commission voted unanimously for an open application process and for a temporary investigative group to hire a search firm and gather, screen and rank applicants. The director announced September 9 that he will retire December 31. The last search took about eight months, and November 23 is held for a possible interview-prep meeting.",
+  "topics": [
+    "government",
+    "public-safety"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-09-09",
+  "lastSeenISO": "2026-09-21",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 2,
+    "mentionsLast30d": 3,
+    "upcomingEvent": {
+      "dateISO": "2026-11-23",
+      "what": "possible special meeting to prepare for interviews",
+      "source": {
+        "type": "meeting",
+        "videoId": "0NdqPwWtF4o",
+        "ts": "1:31:37",
+        "retrievedISO": "2026-10-07T23:03:50.760Z"
+      }
+    }
+  },
+  "asOfISO": "2026-10-18",
+  "timeline": [
+    {
+      "dateISO": "2026-09-21",
+      "text": "Director hiring is a standing item on the regular agenda and can be discussed at the October meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0NdqPwWtF4o",
+        "ts": "1:34:19",
+        "retrievedISO": "2026-10-07T23:03:50.760Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-21",
+      "text": "November 23 was held for a possible special meeting to prepare for interviews.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0NdqPwWtF4o",
+        "ts": "1:31:37",
+        "retrievedISO": "2026-10-07T23:03:50.760Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-21",
+      "text": "The group will hire a search firm and work with it to gather, screen and rank applications.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0NdqPwWtF4o",
+        "ts": "1:10:08",
+        "retrievedISO": "2026-10-07T23:03:50.760Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-21",
+      "text": "The commission voted unanimously to create a temporary investigative group, a small team that works outside public meetings.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0NdqPwWtF4o",
+        "ts": "1:10:02",
+        "retrievedISO": "2026-10-07T23:03:50.760Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-21",
+      "text": "The commission voted unanimously for an open application process.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0NdqPwWtF4o",
+        "ts": "0:33:47",
+        "retrievedISO": "2026-10-07T23:03:50.760Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-21",
+      "text": "The director said the last search took about eight months.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0NdqPwWtF4o",
+        "ts": "0:16:19",
+        "retrievedISO": "2026-10-07T23:03:50.760Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-21",
+      "text": "The job requires five years of law enforcement experience, three of them in administrative work.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0NdqPwWtF4o",
+        "ts": "0:11:15",
+        "retrievedISO": "2026-10-07T23:03:50.760Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-21",
+      "text": "The deputy corporation counsel said the county rule calls for a hiring process open to any candidate.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0NdqPwWtF4o",
+        "ts": "0:04:35",
+        "retrievedISO": "2026-10-07T23:03:50.760Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-21",
+      "text": "The director of the Department of Liquor Control announced his retirement at the commission's last meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0NdqPwWtF4o",
+        "ts": "0:04:08",
+        "retrievedISO": "2026-10-07T23:03:50.760Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-21",
+      "text": "The Liquor Control Commission held a special meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0NdqPwWtF4o",
+        "ts": "0:00:30",
+        "retrievedISO": "2026-10-07T23:03:50.760Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "A special meeting is set for September 21 at 1:30 p.m. to discuss how to find a new director.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "vp8RrdPVBC0",
+        "ts": "1:40:09",
+        "retrievedISO": "2026-10-07T23:03:59.641Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "The department director said he will retire, with December 31 as his last day.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "vp8RrdPVBC0",
+        "ts": "1:37:11",
+        "retrievedISO": "2026-10-07T23:03:59.641Z"
+      }
+    }
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
