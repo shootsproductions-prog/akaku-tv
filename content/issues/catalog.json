@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-18T06:38:10.565Z",
+  "updatedAt": "2026-10-19T06:46:10.333Z",
   "count": 46,
   "issues": [
     {
       "slug": "board-of-water-supply-opposes-bill-1",
       "title": "Board of Water Supply opposes Bill 1",
-      "summary": "On September 17, the board passed a motion, with five ayes, to tell Council Member Cook's office it does not support Bill 1. Another testifier opposed the amendment, saying the water department should keep its discretion. One remark at the meeting held that if that's the case, Bill 1 is not necessary.",
+      "summary": "The Board of Water Supply voted, five ayes, to tell Council Member Cook's office it does not support Bill 1, after testifiers said the water department should keep its discretion. The bill would let the department review subdivision construction plans before water is verified, at the developer's risk. The committee had deferred it in August so the board could comment.",
       "topics": [
         "water",
         "government"
@@ -20,7 +20,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-09-17",
@@ -101,9 +101,9 @@
       "firstSeenISO": "2026-07-17",
       "lastSeenISO": "2026-09-18",
       "signals": {
-        "meetingsLast30d": 1,
+        "meetingsLast30d": 0,
         "meetingsLast90d": 2,
-        "mentionsLast30d": 3,
+        "mentionsLast30d": 0,
         "upcomingEvent": {
           "dateISO": "2026-11-04",
           "what": "hearings November 4 and 5",
@@ -115,7 +115,7 @@
           }
         }
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-09-18",
@@ -339,12 +339,12 @@
       "firstSeenISO": "2024-11-14",
       "lastSeenISO": "2026-09-18",
       "signals": {
-        "meetingsLast30d": 1,
+        "meetingsLast30d": 0,
         "meetingsLast90d": 3,
-        "mentionsLast30d": 1,
+        "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-09-18",
@@ -811,7 +811,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-08-23",
@@ -1159,7 +1159,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-09-17",
@@ -1266,7 +1266,7 @@
     {
       "slug": "proposed-maui-county-passenger-ferry-to-molokai-and-lanai",
       "title": "Proposed Maui County passenger ferry to Molokaʻi and Lānaʻi",
-      "summary": "At a September 17 community meeting, county transportation staff said the Maui Ferry is \"not a done deal\" and that a draft environmental assessment will be released for public comment. The passenger-only ferry would be run by a private company under a county contract, with Molokaʻi service hoped for by early 2029. Lānaʻi service is estimated to cost about $5 million a year, with tickets covering about $3 million, and the County Council will set fares.",
+      "summary": "At a September 17 community meeting, Maui County transportation staff said the proposed passenger-only ferry is \"not a done deal,\" and a draft environmental assessment will be released for public comment. Molokaʻi service is hoped for by early 2029, and the Maui harbor is not chosen. Lānaʻi service would cost about $5 million a year, with fares covering about 60 percent; the County Council will set fares.",
       "topics": [
         "transportation"
       ],
@@ -1280,7 +1280,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-09-17",
@@ -1533,7 +1533,7 @@
         "mentionsLast30d": 7,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-10-08",
@@ -2940,7 +2940,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-09-17",
@@ -3278,7 +3278,7 @@
         "mentionsLast30d": 3,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-09-21",
@@ -3425,7 +3425,7 @@
         "mentionsLast30d": 3,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-10-08",
@@ -3587,7 +3587,7 @@
           }
         }
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-09-21",
@@ -3741,11 +3741,11 @@
       "lastSeenISO": "2026-09-21",
       "signals": {
         "meetingsLast30d": 1,
-        "meetingsLast90d": 3,
+        "meetingsLast90d": 2,
         "mentionsLast30d": 3,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-09-21",
@@ -3892,7 +3892,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-09-17",
@@ -3978,7 +3978,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-09-10",
@@ -4048,7 +4048,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-09-09",
@@ -4151,7 +4151,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-09-10",
@@ -4198,7 +4198,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-09-10",
@@ -4241,12 +4241,12 @@
       "firstSeenISO": "2026-05-15",
       "lastSeenISO": "2026-09-18",
       "signals": {
-        "meetingsLast30d": 1,
+        "meetingsLast30d": 0,
         "meetingsLast90d": 1,
-        "mentionsLast30d": 1,
+        "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-09-18",
@@ -4315,12 +4315,12 @@
       "firstSeenISO": "2026-09-18",
       "lastSeenISO": "2026-09-18",
       "signals": {
-        "meetingsLast30d": 1,
+        "meetingsLast30d": 0,
         "meetingsLast90d": 1,
-        "mentionsLast30d": 1,
+        "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-09-18",
@@ -4358,7 +4358,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-09-09",
@@ -4424,7 +4424,7 @@
     {
       "slug": "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p",
       "title": "Ending apartment vacation rentals and hotel rezoning of 48 properties",
-      "summary": "On September 29, the Council took up Resolution 26-129, which could send some apartment-zoned coastal properties forward for permanent hotel zoning; the Office of Hawaiian Affairs and a resident opposed it, and a proposed amendment was postponed. A council member said the Planning Commission approved five of 48 properties from an earlier resolution. On September 22 the commission recommended approving some properties and denying others, and must report by November 24, 2026.",
+      "summary": "On Sept. 29, Resolution 26-129 drew opposition from the Office of Hawaiian Affairs and a resident, while the Realtors Association of Maui supported it; an amendment was postponed until Committee Report 26-68. A council member said the Planning Commission approved five of 48 properties from an earlier resolution.",
       "topics": [
         "housing",
         "land-use"
@@ -4448,7 +4448,7 @@
           }
         }
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-09-29",
@@ -5352,7 +5352,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-09-09",
@@ -5466,7 +5466,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-09-16",
@@ -5611,7 +5611,7 @@
           }
         }
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-09-23",
@@ -5669,7 +5669,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [],
       "sourceTypes": [],
       "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
@@ -5693,7 +5693,7 @@
         "mentionsLast30d": 2,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-10-06",
@@ -5741,7 +5741,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-09-09",
@@ -5821,7 +5821,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-08-20",
@@ -5857,7 +5857,7 @@
         "mentionsLast30d": 3,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-09-24",
@@ -5949,7 +5949,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-09-09",
@@ -6085,7 +6085,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-08-26",
@@ -6279,7 +6279,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-09-08",
@@ -6372,7 +6372,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-09-09",
@@ -6441,7 +6441,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-09-10",
@@ -6500,7 +6500,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-09-17",
@@ -6581,7 +6581,7 @@
         "mentionsLast30d": 3,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-10-06",
@@ -6661,7 +6661,7 @@
         "mentionsLast30d": 3,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-09-24",
@@ -6743,7 +6743,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-09-08",
@@ -7288,7 +7288,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-09-10",
@@ -7379,7 +7379,7 @@
         "mentionsLast30d": 3,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-10-02",
@@ -7537,7 +7537,7 @@
         "mentionsLast30d": 3,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-10-06",
@@ -7718,7 +7718,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-09-03",
@@ -7871,7 +7871,7 @@
         "mentionsLast30d": 2,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2026-10-07",
@@ -7920,7 +7920,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2024-01-24",
@@ -8057,7 +8057,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-17",
+      "asOfISO": "2026-10-18",
       "timeline": [
         {
           "dateISO": "2024-11-21",

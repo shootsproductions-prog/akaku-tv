@@ -11,9 +11,9 @@
   "firstSeenISO": "2026-07-17",
   "lastSeenISO": "2026-09-18",
   "signals": {
-    "meetingsLast30d": 1,
+    "meetingsLast30d": 0,
     "meetingsLast90d": 2,
-    "mentionsLast30d": 3,
+    "mentionsLast30d": 0,
     "upcomingEvent": {
       "dateISO": "2026-11-04",
       "what": "hearings November 4 and 5",
@@ -25,7 +25,7 @@
       }
     }
   },
-  "asOfISO": "2026-10-17",
+  "asOfISO": "2026-10-18",
   "timeline": [
     {
       "dateISO": "2026-09-18",
