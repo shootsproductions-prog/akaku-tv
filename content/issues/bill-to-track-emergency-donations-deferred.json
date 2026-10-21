@@ -20,18 +20,6 @@
   "timeline": [
     {
       "dateISO": "2026-09-01",
-      "text": "The committee chair deferred the bill, so no vote was taken.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "MjxK8A0xoG8",
-        "ts": "1:00:10",
-        "retrievedISO": "2026-10-16T05:09:44.606Z"
-      },
-      "body": "County Council Budget, Finance, and Economic Development Committee"
-    },
-    {
-      "dateISO": "2026-09-01",
       "text": "The next committee meeting is October 20th.",
       "basis": "said-at-meeting",
       "source": {
@@ -39,6 +27,18 @@
         "videoId": "MjxK8A0xoG8",
         "ts": "0:56:01",
         "retrievedISO": "2026-10-16T05:09:44.606Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-09-01",
+      "text": "The committee deferred the bill, meaning it put off a decision.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "x6KG7KwLCAY",
+        "ts": "0:55:13",
+        "retrievedISO": "2026-10-16T12:24:33.830Z"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
     },
@@ -92,18 +92,6 @@
     },
     {
       "dateISO": "2026-09-01",
-      "text": "The money could be used only for emergency management work.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "MjxK8A0xoG8",
-        "ts": "0:09:32",
-        "retrievedISO": "2026-10-16T05:09:44.606Z"
-      },
-      "body": "County Council Budget, Finance, and Economic Development Committee"
-    },
-    {
-      "dateISO": "2026-09-01",
       "text": "A bill would let the County accept emergency donations without first getting Council approval.",
       "basis": "said-at-meeting",
       "source": {
@@ -123,6 +111,54 @@
         "videoId": "MjxK8A0xoG8",
         "ts": "0:08:55",
         "retrievedISO": "2026-10-16T05:09:44.606Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-09-01",
+      "text": "Finance officials prefer a grant fund so donations do not show up as County revenue.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "x6KG7KwLCAY",
+        "ts": "0:08:30",
+        "retrievedISO": "2026-10-16T12:24:33.830Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-09-01",
+      "text": "Finance officials asked that donations go into a grant fund, not a special revolving fund.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "x6KG7KwLCAY",
+        "ts": "0:08:04",
+        "retrievedISO": "2026-10-16T12:24:33.830Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-09-01",
+      "text": "The money could be used only for emergency management, with quarterly reports to the Council.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "x6KG7KwLCAY",
+        "ts": "0:04:36",
+        "retrievedISO": "2026-10-16T12:24:33.830Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-09-01",
+      "text": "The committee took up two items: an emergency donations bill and the vehicle disposal fee fund.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "x6KG7KwLCAY",
+        "ts": "0:02:56",
+        "retrievedISO": "2026-10-16T12:24:33.830Z"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
     }

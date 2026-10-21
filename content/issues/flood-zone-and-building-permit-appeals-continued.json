@@ -19,12 +19,23 @@
   "timeline": [
     {
       "dateISO": "2026-07-23",
-      "text": "The board voted to continue the case to December 10th, 2026.",
+      "text": "Motion to continue the two combined notice-of-violation appeals to December 10th, 2026: The board approved continuing the combined appeals to December 10th, 2026.",
       "basis": "said-at-meeting",
       "source": {
         "type": "meeting",
         "videoId": "JDZtlQ-ojPk",
         "ts": "0:07:23",
+        "retrievedISO": "2026-10-12T06:30:05.130Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-23",
+      "text": "The attorney said December 10th would work because he has a trial on Kauaʻi in late November.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "JDZtlQ-ojPk",
+        "ts": "0:06:53",
         "retrievedISO": "2026-10-12T06:30:05.130Z"
       }
     },
@@ -52,7 +63,7 @@
     },
     {
       "dateISO": "2026-07-23",
-      "text": "The appellants' attorney said the planning department asked for an archaeological survey.",
+      "text": "The appellants plan to have an archaeologist complete the survey the planning department requested.",
       "basis": "said-at-meeting",
       "source": {
         "type": "meeting",

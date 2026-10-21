@@ -8,11 +8,11 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-09-02",
+  "firstSeenISO": "2026-08-25",
   "lastSeenISO": "2026-09-02",
   "signals": {
     "meetingsLast30d": 0,
-    "meetingsLast90d": 1,
+    "meetingsLast90d": 2,
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
@@ -92,6 +92,18 @@
     },
     {
       "dateISO": "2026-09-02",
+      "text": "The open space amendment passed with seven ayes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "E8RNq6wUE1Y",
+        "ts": "1:54:10",
+        "retrievedISO": "2026-10-16T08:22:23.095Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-02",
       "text": "One amendment removed uses such as bed-and-breakfasts, animal kennels, and car lots.",
       "basis": "said-at-meeting",
       "source": {
@@ -116,6 +128,18 @@
     },
     {
       "dateISO": "2026-09-02",
+      "text": "The applicant said the 20 percent rule is a burden on the project.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "E8RNq6wUE1Y",
+        "ts": "1:35:12",
+        "retrievedISO": "2026-10-16T08:22:23.095Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-02",
       "text": "The owners said current zoning keeps them from building a food processing center and cold storage.",
       "basis": "said-at-meeting",
       "source": {
@@ -123,6 +147,114 @@
         "videoId": "k-_ISK9hdeQ",
         "ts": "1:09:33",
         "retrievedISO": "2026-10-16T16:43:03.917Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-02",
+      "text": "Members discussed banning chain businesses, called formula businesses.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "E8RNq6wUE1Y",
+        "ts": "1:05:35",
+        "retrievedISO": "2026-10-16T08:22:23.095Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-02",
+      "text": "Members discussed a condition requiring water-saving practices, enforced by the Department of Water Supply.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "E8RNq6wUE1Y",
+        "ts": "1:01:19",
+        "retrievedISO": "2026-10-16T08:22:23.095Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-02",
+      "text": "This amendment passed with seven ayes and two members excused.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "E8RNq6wUE1Y",
+        "ts": "1:00:56",
+        "retrievedISO": "2026-10-16T08:22:23.095Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-02",
+      "text": "Homes must be in the same building as a business or other non-home use.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "E8RNq6wUE1Y",
+        "ts": "0:58:53",
+        "retrievedISO": "2026-10-16T08:22:23.095Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-02",
+      "text": "Live-work units, with a shop below and a home above, would be allowed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "E8RNq6wUE1Y",
+        "ts": "0:58:27",
+        "retrievedISO": "2026-10-16T08:22:23.095Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-02",
+      "text": "Under the proposed M1 zoning, the owners could build apartments but not single-family homes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "E8RNq6wUE1Y",
+        "ts": "0:57:58",
+        "retrievedISO": "2026-10-16T08:22:23.095Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-02",
+      "text": "A member said that after the fire, people were moved around a lot, so B&B space could serve as temporary housing in a disaster.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "E8RNq6wUE1Y",
+        "ts": "0:48:27",
+        "retrievedISO": "2026-10-16T08:22:23.095Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-02",
+      "text": "Bed-and-breakfasts would not be allowed, except for temporary humanitarian housing in a disaster.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "E8RNq6wUE1Y",
+        "ts": "0:47:52",
+        "retrievedISO": "2026-10-16T08:22:23.095Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-02",
+      "text": "The chair proposed using the M1 light industrial zoning uses, minus some uses.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "E8RNq6wUE1Y",
+        "ts": "0:47:12",
+        "retrievedISO": "2026-10-16T08:22:23.095Z"
       },
       "body": "County Council Housing and Land Use Committee"
     },
@@ -209,6 +341,18 @@
         "retrievedISO": "2026-10-16T16:43:03.917Z"
       },
       "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-25",
+      "text": "Referral of Bill 109 (2026): Bill 109, on the Pāʻia Sugar Mill Redevelopment Project, was sent to the Housing and Land Use Committee.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pRcBgWNK6vM",
+        "ts": "2:19:33",
+        "retrievedISO": "2026-10-16T15:11:48.128Z"
+      },
+      "body": "County Council Meeting"
     }
   ],
   "sourceTypes": [

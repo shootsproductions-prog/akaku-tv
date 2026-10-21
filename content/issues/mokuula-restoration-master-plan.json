@@ -31,12 +31,56 @@
     },
     {
       "dateISO": "2026-08-08",
+      "text": "The presenter said the department will pursue some of the commission's 2019 initiatives before June 2027.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "S_ruE2fklRg",
+        "ts": "0:18:34",
+        "retrievedISO": "2026-10-12T06:30:15.308Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-08",
       "text": "The presenter said this commission's 2019 recommendations will be built into the master plan.",
       "basis": "said-at-meeting",
       "source": {
         "type": "meeting",
         "videoId": "S_ruE2fklRg",
         "ts": "0:18:08",
+        "retrievedISO": "2026-10-12T06:30:15.308Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-08",
+      "text": "An archaeologist said topsoil will be placed over areas where hard surfaces are removed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "S_ruE2fklRg",
+        "ts": "0:16:04",
+        "retrievedISO": "2026-10-12T06:30:15.308Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-08",
+      "text": "The presenter said the work will not disturb the ground.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "S_ruE2fklRg",
+        "ts": "0:13:12",
+        "retrievedISO": "2026-10-12T06:30:15.308Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-08",
+      "text": "The department is working with the Salvation Army on a land acquisition.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "S_ruE2fklRg",
+        "ts": "0:12:08",
         "retrievedISO": "2026-10-12T06:30:15.308Z"
       }
     },
@@ -64,7 +108,7 @@
     },
     {
       "dateISO": "2026-08-08",
-      "text": "The first step would remove two tennis courts, a basketball court and a parking lot.",
+      "text": "The department's first action item is removing the courts and parking lot to prepare the land for restoration.",
       "basis": "said-at-meeting",
       "source": {
         "type": "meeting",

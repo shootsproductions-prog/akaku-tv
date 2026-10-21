@@ -11,7 +11,7 @@
   "lastSeenISO": "2026-09-04",
   "signals": {
     "meetingsLast30d": 0,
-    "meetingsLast90d": 2,
+    "meetingsLast90d": 3,
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
@@ -54,13 +54,73 @@
       "body": "County Council Meeting"
     },
     {
+      "dateISO": "2026-08-25",
+      "text": "A council member said a plan is important to help the community stay healthy by eating healthy.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pRcBgWNK6vM",
+        "ts": "1:05:56",
+        "retrievedISO": "2026-10-16T15:11:48.128Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-08-25",
+      "text": "An online dashboard on the County website would track the plan's progress.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pRcBgWNK6vM",
+        "ts": "1:05:19",
+        "retrievedISO": "2026-10-16T15:11:48.128Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-08-25",
+      "text": "The managing director would manage and help update the plan.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pRcBgWNK6vM",
+        "ts": "1:05:10",
+        "retrievedISO": "2026-10-16T15:11:48.128Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
       "dateISO": "2026-08-06",
-      "text": "Members voted to have each five-year plan update sent to the council instead of the county.",
+      "text": "The committee's final motion on the bill passed with six ayes and one member excused.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "elf0DfB_afI",
+        "ts": "1:32:20",
+        "retrievedISO": "2026-10-16T07:24:07.396Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "Amendment to section F on where the five-year updated plan is submitted: The committee approved changing the bill so each five-year updated plan is submitted to the council instead of the county.",
       "basis": "said-at-meeting",
       "source": {
         "type": "meeting",
         "videoId": "elf0DfB_afI",
         "ts": "1:27:10",
+        "retrievedISO": "2026-10-16T07:24:07.396Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "The chair called for a motion to recommend passing Bill 98 on first reading.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "elf0DfB_afI",
+        "ts": "1:24:19",
         "retrievedISO": "2026-10-16T07:24:07.396Z"
       },
       "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
@@ -73,6 +133,54 @@
         "type": "meeting",
         "videoId": "elf0DfB_afI",
         "ts": "0:43:14",
+        "retrievedISO": "2026-10-16T07:24:07.396Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "Department staff said they will share an annual progress update on the dashboard.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "elf0DfB_afI",
+        "ts": "0:43:02",
+        "retrievedISO": "2026-10-16T07:24:07.396Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "The chair said there is a chance to make changes at first and second reading.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "elf0DfB_afI",
+        "ts": "0:26:37",
+        "retrievedISO": "2026-10-16T07:24:07.396Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "The chair said first reading of the bill happens at the full council.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "elf0DfB_afI",
+        "ts": "0:24:21",
+        "retrievedISO": "2026-10-16T07:24:07.396Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "The speaker said the Farm Bureau does not want to stop the bill and hopes to weigh in before a later reading.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "elf0DfB_afI",
+        "ts": "0:23:08",
         "retrievedISO": "2026-10-16T07:24:07.396Z"
       },
       "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
@@ -97,6 +205,18 @@
         "type": "meeting",
         "videoId": "elf0DfB_afI",
         "ts": "0:20:33",
+        "retrievedISO": "2026-10-16T07:24:07.396Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "The Department of Agriculture director said the department supports adding the plan to the county code.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "elf0DfB_afI",
+        "ts": "0:10:19",
         "retrievedISO": "2026-10-16T07:24:07.396Z"
       },
       "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"

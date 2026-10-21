@@ -53,7 +53,40 @@
     },
     {
       "dateISO": "2026-07-21",
-      "text": "Fire survivors were invited to attend the conference for free.",
+      "text": "The chair said video from the women's conference will be shared at or before the August meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ci_wpSc8AlI",
+        "ts": "0:45:35",
+        "retrievedISO": "2026-10-13T06:35:10.688Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-21",
+      "text": "The vice chair opened day two of the conference with a disaster preparedness presentation for the Maui Emergency Management Agency.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ci_wpSc8AlI",
+        "ts": "0:43:47",
+        "retrievedISO": "2026-10-13T06:35:10.688Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-21",
+      "text": "The chair said inviting fire survivors helped with their healing and gathered their responses.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ci_wpSc8AlI",
+        "ts": "0:43:11",
+        "retrievedISO": "2026-10-13T06:35:10.688Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-21",
+      "text": "Fire survivors were invited to the committee's women's conference for free.",
       "basis": "said-at-meeting",
       "source": {
         "type": "meeting",

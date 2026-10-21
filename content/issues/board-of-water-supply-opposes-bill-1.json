@@ -104,12 +104,36 @@
     },
     {
       "dateISO": "2026-08-03",
+      "text": "A member asked that the department be asked how it prioritizes reviews, and the chair said this was noted.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Nf0ZFxKZsEU",
+        "ts": "1:43:00",
+        "retrievedISO": "2026-10-16T15:26:46.426Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-03",
       "text": "The chair supported sending the bill back to the Board of Water Supply for review.",
       "basis": "said-at-meeting",
       "source": {
         "type": "meeting",
         "videoId": "Nf0ZFxKZsEU",
         "ts": "1:40:38",
+        "retrievedISO": "2026-10-16T15:26:46.426Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-03",
+      "text": "The chief engineer for water said water supply has often been the last department to finish its review.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Nf0ZFxKZsEU",
+        "ts": "0:44:33",
         "retrievedISO": "2026-10-16T15:26:46.426Z"
       },
       "body": "County Council Water and Infrastructure Committee"

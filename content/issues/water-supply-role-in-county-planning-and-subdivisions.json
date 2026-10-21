@@ -77,6 +77,18 @@
         "retrievedISO": "2026-10-09T06:35:03.270Z"
       },
       "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-07-16",
+      "text": "A member of the public asked the water and planning departments to meet on a regular basis.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "zjBo8277OWs",
+        "ts": "0:03:53",
+        "retrievedISO": "2026-10-09T06:35:03.270Z"
+      },
+      "body": "Board of Water Supply"
     }
   ],
   "sourceTypes": [

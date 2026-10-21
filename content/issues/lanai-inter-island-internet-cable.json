@@ -42,6 +42,17 @@
     },
     {
       "dateISO": "2026-08-19",
+      "text": "A commissioner asked about digging near a harbor road that was once closed for years.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Z4fnObg2c0I",
+        "ts": "0:39:24",
+        "retrievedISO": "2026-10-12T06:30:03.060Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-19",
       "text": "The state historic preservation division asked for an archaeological survey with digging tests.",
       "basis": "said-at-meeting",
       "source": {

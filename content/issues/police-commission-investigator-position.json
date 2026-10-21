@@ -31,7 +31,18 @@
     },
     {
       "dateISO": "2026-07-29",
-      "text": "The commission voted to defer the matter until its next meeting.",
+      "text": "The next meeting is scheduled for August 19th at 10:00 a.m.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3I1tm_EQnTA",
+        "ts": "0:06:07",
+        "retrievedISO": "2026-10-12T06:30:16.193Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-29",
+      "text": "Motion to defer consideration of the investigator matter until the next meeting: A motion to defer the investigator matter until the next meeting passed.",
       "basis": "said-at-meeting",
       "source": {
         "type": "meeting",
@@ -53,7 +64,7 @@
     },
     {
       "dateISO": "2026-07-29",
-      "text": "A motion to accept the group's recommendation was also defeated by a vote stated as four to one.",
+      "text": "Motion to accept the group's recommendation for the investigator: A motion to accept the group's recommendation for the investigator was defeated.",
       "basis": "said-at-meeting",
       "source": {
         "type": "meeting",
@@ -64,7 +75,7 @@
     },
     {
       "dateISO": "2026-07-29",
-      "text": "A motion to bring applicants two and three before the full board for questions was rejected by a vote stated as four to one.",
+      "text": "Motion to bring in applicant number two and applicant number three to be questioned by the full board: A motion to have applicants two and three questioned by the full board was rejected.",
       "basis": "said-at-meeting",
       "source": {
         "type": "meeting",

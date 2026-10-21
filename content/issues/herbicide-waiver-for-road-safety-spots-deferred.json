@@ -12,12 +12,36 @@
   "lastSeenISO": "2026-08-31",
   "signals": {
     "meetingsLast30d": 0,
-    "meetingsLast90d": 1,
+    "meetingsLast90d": 2,
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-20",
   "timeline": [
+    {
+      "dateISO": "2026-08-31",
+      "text": "The chair said the herbicide waiver will be deferred.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "x1bWmSajuIM",
+        "ts": "2:12:06",
+        "retrievedISO": "2026-10-16T12:27:11.063Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "When the herbicide waiver returns, a council member wants specific areas and a shorter time period.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "x1bWmSajuIM",
+        "ts": "2:09:37",
+        "retrievedISO": "2026-10-16T12:27:11.063Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
     {
       "dateISO": "2026-08-31",
       "text": "The chair said the committee will defer the resolution, meaning put it off to a later meeting.",
@@ -51,6 +75,18 @@
         "videoId": "2oq6VqJ13h4",
         "ts": "1:03:30",
         "retrievedISO": "2026-10-16T05:43:53.105Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Public Works asked for a temporary waiver to use weed killer (herbicide) in safety areas along county roads.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "x1bWmSajuIM",
+        "ts": "1:00:30",
+        "retrievedISO": "2026-10-16T12:27:11.063Z"
       },
       "body": "County Council Water and Infrastructure Committee"
     },

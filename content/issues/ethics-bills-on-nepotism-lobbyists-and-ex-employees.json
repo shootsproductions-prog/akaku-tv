@@ -19,12 +19,24 @@
   "timeline": [
     {
       "dateISO": "2026-07-28",
-      "text": "The chair said the bills will come back, but there is no date yet.",
+      "text": "The chair will work with staff to bring back the two deferred bills, with no date set yet.",
       "basis": "said-at-meeting",
       "source": {
         "type": "meeting",
         "videoId": "G8BjVaIQGNw",
         "ts": "2:31:27",
+        "retrievedISO": "2026-10-16T16:24:48.490Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-07-28",
+      "text": "Staff will send the Board of Ethics a written question on how often its lobbyist list is updated.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "G8BjVaIQGNw",
+        "ts": "2:30:52",
         "retrievedISO": "2026-10-16T16:24:48.490Z"
       },
       "body": "County Council Government Relations, Ethics, and Transparency Committee"
@@ -49,6 +61,18 @@
         "type": "meeting",
         "videoId": "G8BjVaIQGNw",
         "ts": "2:19:13",
+        "retrievedISO": "2026-10-16T16:24:48.490Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-07-28",
+      "text": "Motion to amend Bill 55-2025 with the proposed CD1 version: A motion to replace Bill 55 with the proposed new (CD1) version was made and seconded; the captions do not clearly show its vote.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "G8BjVaIQGNw",
+        "ts": "2:11:30",
         "retrievedISO": "2026-10-16T16:24:48.490Z"
       },
       "body": "County Council Government Relations, Ethics, and Transparency Committee"

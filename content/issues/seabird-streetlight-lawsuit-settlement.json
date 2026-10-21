@@ -44,6 +44,30 @@
     },
     {
       "dateISO": "2026-08-04",
+      "text": "The case is set for trial on September 14, 2026.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "j0NxyxCiC5E",
+        "ts": "0:37:49",
+        "retrievedISO": "2026-10-16T15:24:37.953Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-08-04",
+      "text": "A caller asked for a recorded message every 15 minutes or so during executive session for phone listeners.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "j0NxyxCiC5E",
+        "ts": "0:25:07",
+        "retrievedISO": "2026-10-16T15:24:37.953Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-08-04",
       "text": "A county attorney said mediation (talks led by a neutral person) is set for August 10, 2026, at 9 a.m.",
       "basis": "said-at-meeting",
       "source": {
@@ -56,7 +80,31 @@
     },
     {
       "dateISO": "2026-08-04",
-      "text": "A county attorney said trial may be set for February to April next year.",
+      "text": "Motion to enter executive session on Resolution 26-128: Members voted to go into executive session on Resolution 26-128.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "j0NxyxCiC5E",
+        "ts": "0:16:07",
+        "retrievedISO": "2026-10-16T15:24:37.953Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-08-04",
+      "text": "One caller testified, saying, “I'm on the seabird side.”",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "j0NxyxCiC5E",
+        "ts": "0:11:15",
+        "retrievedISO": "2026-10-16T15:24:37.953Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-08-04",
+      "text": "In the seabird case, a trial setting conference with the judge is expected, with trial likely in February, March or as late as April next year.",
       "basis": "said-at-meeting",
       "source": {
         "type": "meeting",

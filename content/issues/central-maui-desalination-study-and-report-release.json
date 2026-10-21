@@ -64,6 +64,28 @@
     },
     {
       "dateISO": "2026-08-06",
+      "text": "People can send questions or comments to an email address shown at the meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0XMHdbglvJw",
+        "ts": "0:29:29",
+        "retrievedISO": "2026-10-09T06:35:01.986Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "The department will post the presentation on its website.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0XMHdbglvJw",
+        "ts": "0:29:14",
+        "retrievedISO": "2026-10-09T06:35:01.986Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-06",
       "text": "Staff said construction would be 10 years or more away.",
       "basis": "said-at-meeting",
       "source": {

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T07:26:12.759Z",
+  "updatedAt": "2026-10-21T08:26:12.235Z",
   "count": 177,
   "issues": [
     {
@@ -108,12 +108,36 @@
         },
         {
           "dateISO": "2026-08-03",
+          "text": "A member asked that the department be asked how it prioritizes reviews, and the chair said this was noted.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Nf0ZFxKZsEU",
+            "ts": "1:43:00",
+            "retrievedISO": "2026-10-16T15:26:46.426Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-03",
           "text": "The chair supported sending the bill back to the Board of Water Supply for review.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
             "videoId": "Nf0ZFxKZsEU",
             "ts": "1:40:38",
+            "retrievedISO": "2026-10-16T15:26:46.426Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-03",
+          "text": "The chief engineer for water said water supply has often been the last department to finish its review.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Nf0ZFxKZsEU",
+            "ts": "0:44:33",
             "retrievedISO": "2026-10-16T15:26:46.426Z"
           },
           "body": "County Council Water and Infrastructure Committee"
@@ -3157,6 +3181,28 @@
         },
         {
           "dateISO": "2026-08-06",
+          "text": "People can send questions or comments to an email address shown at the meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "0XMHdbglvJw",
+            "ts": "0:29:29",
+            "retrievedISO": "2026-10-09T06:35:01.986Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "The department will post the presentation on its website.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "0XMHdbglvJw",
+            "ts": "0:29:14",
+            "retrievedISO": "2026-10-09T06:35:01.986Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-06",
           "text": "Staff said construction would be 10 years or more away.",
           "basis": "said-at-meeting",
           "source": {
@@ -4274,6 +4320,18 @@
             "type": "meeting",
             "videoId": "zjBo8277OWs",
             "ts": "0:34:36",
+            "retrievedISO": "2026-10-09T06:35:03.270Z"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-07-16",
+          "text": "A member of the public asked the water and planning departments to meet on a regular basis.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "zjBo8277OWs",
+            "ts": "0:03:53",
             "retrievedISO": "2026-10-09T06:35:03.270Z"
           },
           "body": "Board of Water Supply"
@@ -6274,6 +6332,18 @@
         },
         {
           "dateISO": "2026-08-27",
+          "text": "The recess gave the council chair time to decide whether to support the proposed criteria.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "kV7eBaCXKiI",
+            "ts": "0:11:32",
+            "retrievedISO": "2026-10-16T06:23:04.626Z"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-27",
           "text": "A member asked to discuss conditions as well as criteria for the properties.",
           "basis": "said-at-meeting",
           "source": {
@@ -6352,6 +6422,18 @@
             "type": "meeting",
             "videoId": "gb-VffqMu9U",
             "ts": "0:05:31",
+            "retrievedISO": "2026-10-16T06:12:21.340Z"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-27",
+          "text": "She said that with 3.2 feet of sea level rise, the roads and parking lot at her building are covered.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "gb-VffqMu9U",
+            "ts": "0:04:39",
             "retrievedISO": "2026-10-16T06:12:21.340Z"
           },
           "body": "County Council Housing and Land Use Committee"
@@ -6544,6 +6626,30 @@
             "type": "meeting",
             "videoId": "dBye-CaAkHE",
             "ts": "1:22:24",
+            "retrievedISO": "2026-10-16T08:06:26.844Z"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-05",
+          "text": "An attorney for condo associations said going to court is one option if the criteria are applied unevenly.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "dBye-CaAkHE",
+            "ts": "1:15:00",
+            "retrievedISO": "2026-10-16T08:06:26.844Z"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-05",
+          "text": "A Kīhei Bay Vista board member said they have lost eight vehicles to flash flooding in 13 years.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "dBye-CaAkHE",
+            "ts": "0:20:54",
             "retrievedISO": "2026-10-16T08:06:26.844Z"
           },
           "body": "County Council Housing and Land Use Committee"
@@ -7251,6 +7357,30 @@
         },
         {
           "dateISO": "2026-08-10",
+          "text": "A council member said she will not support anything that dispossesses Kanaka of ancestral ʻāina (land).",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "K4EHYk4ksbc",
+            "ts": "2:25:46",
+            "retrievedISO": "2026-10-16T11:16:30.390Z"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-10",
+          "text": "The planning department said the council can decide zoning no matter who owns the property.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "K4EHYk4ksbc",
+            "ts": "2:20:24",
+            "retrievedISO": "2026-10-16T11:16:30.390Z"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-10",
           "text": "The project consultant said choosing Site D, another location, would mean starting the process over.",
           "basis": "said-at-meeting",
           "source": {
@@ -7263,12 +7393,36 @@
         },
         {
           "dateISO": "2026-08-10",
+          "text": "A resource person who said he is a native tenant argued the land patent for the site has no legal standing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "K4EHYk4ksbc",
+            "ts": "1:34:59",
+            "retrievedISO": "2026-10-16T11:16:30.390Z"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-10",
           "text": "The project engineer said the water line can be moved if iwi kūpuna (burials) are suspected.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
             "videoId": "K4EHYk4ksbc",
             "ts": "0:53:27",
+            "retrievedISO": "2026-10-16T11:16:30.390Z"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-10",
+          "text": "Agriculture department staff said farming with catchment water can be done.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "K4EHYk4ksbc",
+            "ts": "0:49:50",
             "retrievedISO": "2026-10-16T11:16:30.390Z"
           },
           "body": "County Council Housing and Land Use Committee"
@@ -9160,11 +9314,11 @@
       ],
       "status": "active",
       "pinned": false,
-      "firstSeenISO": "2026-10-06",
+      "firstSeenISO": "2026-08-04",
       "lastSeenISO": "2026-10-06",
       "signals": {
         "meetingsLast30d": 1,
-        "meetingsLast90d": 1,
+        "meetingsLast90d": 2,
         "mentionsLast30d": 3,
         "upcomingEvent": null
       },
@@ -9322,6 +9476,72 @@
             "videoId": "ea2l7ovZtF8",
             "ts": "0:44:47",
             "retrievedISO": "2026-10-09T06:35:10.693Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-04",
+          "text": "The board voted to approve the rebuild design.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "k9sST0HTG-0",
+            "ts": "0:49:08",
+            "retrievedISO": "2026-10-13T06:35:09.670Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-04",
+          "text": "The chair said the board had no comments or recommendations on the rebuild.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "k9sST0HTG-0",
+            "ts": "0:48:44",
+            "retrievedISO": "2026-10-13T06:35:09.670Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-04",
+          "text": "The applicant said the new home is under the 3,500 square foot maximum.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "k9sST0HTG-0",
+            "ts": "0:36:56",
+            "retrievedISO": "2026-10-13T06:35:09.670Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-04",
+          "text": "The applicant said the number of bedrooms and bathrooms matches the home that was lost.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "k9sST0HTG-0",
+            "ts": "0:36:51",
+            "retrievedISO": "2026-10-13T06:35:09.670Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-04",
+          "text": "The applicant said the ʻohana now sits above the garage to stay outside the shoreline setback.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "k9sST0HTG-0",
+            "ts": "0:36:27",
+            "retrievedISO": "2026-10-13T06:35:09.670Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-04",
+          "text": "Staff said the board's recommendations on the rebuild go to the Maui Planning Commission.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "k9sST0HTG-0",
+            "ts": "0:35:13",
+            "retrievedISO": "2026-10-13T06:35:09.670Z"
           }
         }
       ],
@@ -9880,7 +10100,7 @@
         },
         {
           "dateISO": "2026-08-13",
-          "text": "A proposed housing project has 22 homes: seven for adults with disabilities and 17 affordable rentals open to anyone.",
+          "text": "The commission is reviewing a proposed 22-home project with homes for adults with disabilities and affordable rentals.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
@@ -10216,18 +10436,6 @@
       "timeline": [
         {
           "dateISO": "2026-09-01",
-          "text": "The committee chair deferred the bill, so no vote was taken.",
-          "basis": "said-at-meeting",
-          "source": {
-            "type": "meeting",
-            "videoId": "MjxK8A0xoG8",
-            "ts": "1:00:10",
-            "retrievedISO": "2026-10-16T05:09:44.606Z"
-          },
-          "body": "County Council Budget, Finance, and Economic Development Committee"
-        },
-        {
-          "dateISO": "2026-09-01",
           "text": "The next committee meeting is October 20th.",
           "basis": "said-at-meeting",
           "source": {
@@ -10235,6 +10443,18 @@
             "videoId": "MjxK8A0xoG8",
             "ts": "0:56:01",
             "retrievedISO": "2026-10-16T05:09:44.606Z"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-09-01",
+          "text": "The committee deferred the bill, meaning it put off a decision.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "x6KG7KwLCAY",
+            "ts": "0:55:13",
+            "retrievedISO": "2026-10-16T12:24:33.830Z"
           },
           "body": "County Council Budget, Finance, and Economic Development Committee"
         },
@@ -10288,18 +10508,6 @@
         },
         {
           "dateISO": "2026-09-01",
-          "text": "The money could be used only for emergency management work.",
-          "basis": "said-at-meeting",
-          "source": {
-            "type": "meeting",
-            "videoId": "MjxK8A0xoG8",
-            "ts": "0:09:32",
-            "retrievedISO": "2026-10-16T05:09:44.606Z"
-          },
-          "body": "County Council Budget, Finance, and Economic Development Committee"
-        },
-        {
-          "dateISO": "2026-09-01",
           "text": "A bill would let the County accept emergency donations without first getting Council approval.",
           "basis": "said-at-meeting",
           "source": {
@@ -10319,6 +10527,54 @@
             "videoId": "MjxK8A0xoG8",
             "ts": "0:08:55",
             "retrievedISO": "2026-10-16T05:09:44.606Z"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-09-01",
+          "text": "Finance officials prefer a grant fund so donations do not show up as County revenue.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "x6KG7KwLCAY",
+            "ts": "0:08:30",
+            "retrievedISO": "2026-10-16T12:24:33.830Z"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-09-01",
+          "text": "Finance officials asked that donations go into a grant fund, not a special revolving fund.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "x6KG7KwLCAY",
+            "ts": "0:08:04",
+            "retrievedISO": "2026-10-16T12:24:33.830Z"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-09-01",
+          "text": "The money could be used only for emergency management, with quarterly reports to the Council.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "x6KG7KwLCAY",
+            "ts": "0:04:36",
+            "retrievedISO": "2026-10-16T12:24:33.830Z"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-09-01",
+          "text": "The committee took up two items: an emergency donations bill and the vehicle disposal fee fund.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "x6KG7KwLCAY",
+            "ts": "0:02:56",
+            "retrievedISO": "2026-10-16T12:24:33.830Z"
           },
           "body": "County Council Budget, Finance, and Economic Development Committee"
         }
@@ -11016,6 +11272,17 @@
         },
         {
           "dateISO": "2026-08-13",
+          "text": "Motion to establish a temporary investigative group on housing policies and the approvals process: The motion passed with five ayes and one nay; one member was excused and one recused.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mEoIJx_G1XQ",
+            "ts": "1:51:59",
+            "retrievedISO": "2026-10-12T06:30:06.096Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-13",
           "text": "The commission voted five to one to create a Temporary Investigative Group (TIG) on housing policies and the approvals process.",
           "basis": "said-at-meeting",
           "source": {
@@ -11033,6 +11300,17 @@
             "type": "meeting",
             "videoId": "mEoIJx_G1XQ",
             "ts": "1:48:36",
+            "retrievedISO": "2026-10-12T06:30:06.096Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-13",
+          "text": "One commissioner recused, or stepped out of the vote, because they work as a planner.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mEoIJx_G1XQ",
+            "ts": "1:44:41",
             "retrievedISO": "2026-10-12T06:30:06.096Z"
           }
         },
@@ -11191,11 +11469,11 @@
       ],
       "status": "active",
       "pinned": false,
-      "firstSeenISO": "2026-09-30",
+      "firstSeenISO": "2026-07-27",
       "lastSeenISO": "2026-09-30",
       "signals": {
         "meetingsLast30d": 1,
-        "meetingsLast90d": 1,
+        "meetingsLast90d": 6,
         "mentionsLast30d": 3,
         "upcomingEvent": null
       },
@@ -11260,6 +11538,474 @@
             "retrievedISO": "2026-10-16T03:41:33.571Z"
           },
           "body": "County Council Special Meeting"
+        },
+        {
+          "dateISO": "2026-08-25",
+          "text": "The water purchase passed 8–1, with the chair voting no.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pRcBgWNK6vM",
+            "ts": "1:23:00",
+            "retrievedISO": "2026-10-16T15:11:48.128Z"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-08-25",
+          "text": "A council member said the community on the West Side wants the County to buy the system.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pRcBgWNK6vM",
+            "ts": "1:22:18",
+            "retrievedISO": "2026-10-16T15:11:48.128Z"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-08-25",
+          "text": "The department said it created ten unfunded positions it plans to fill for the added work.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pRcBgWNK6vM",
+            "ts": "1:17:53",
+            "retrievedISO": "2026-10-16T15:11:48.128Z"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-08-25",
+          "text": "The chair said she had been told the department lacked enough staff to take over the system.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pRcBgWNK6vM",
+            "ts": "1:17:09",
+            "retrievedISO": "2026-10-16T15:11:48.128Z"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-08-25",
+          "text": "The department said a six-month due diligence period will show the total administrative costs to the County.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pRcBgWNK6vM",
+            "ts": "1:15:55",
+            "retrievedISO": "2026-10-16T15:11:48.128Z"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-08-25",
+          "text": "The water department said it will train and bring on extra employees during a transition of about six months.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pRcBgWNK6vM",
+            "ts": "1:15:28",
+            "retrievedISO": "2026-10-16T15:11:48.128Z"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-08-25",
+          "text": "He said funding for the purchase is already in the account.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pRcBgWNK6vM",
+            "ts": "1:14:27",
+            "retrievedISO": "2026-10-16T15:11:48.128Z"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-08-25",
+          "text": "The deputy water director said the deal includes wells, storage tanks, transmission lines, reservoirs and booster pumps.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pRcBgWNK6vM",
+            "ts": "1:14:02",
+            "retrievedISO": "2026-10-16T15:11:48.128Z"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-08-25",
+          "text": "The Council took up buying private water system assets for up to $6 million.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pRcBgWNK6vM",
+            "ts": "1:06:21",
+            "retrievedISO": "2026-10-16T15:11:48.128Z"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-08-19",
+          "text": "Item on the proposed acquisition of the irrigation company's water infrastructure assets: The chair deferred the item because the committee had to leave the room.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9O-5VI6zndk",
+            "ts": "0:56:20",
+            "retrievedISO": "2026-10-16T06:26:30.067Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-08-19",
+          "text": "Motion to enter executive session on DRIP 9.12, the proposed acquisition of an irrigation company's water infrastructure assets: The motion passed 7–0, with two members excused.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9O-5VI6zndk",
+            "ts": "0:52:06",
+            "retrievedISO": "2026-10-16T06:26:30.067Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-08-19",
+          "text": "The chair said this purchase covers the non-potable side, since the committee already voted on the potable side.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9O-5VI6zndk",
+            "ts": "0:06:06",
+            "retrievedISO": "2026-10-16T06:26:30.067Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-08-04",
+          "text": "The chair said the water resolution now goes on to the council chair.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yLs5op0XhHI",
+            "ts": "1:05:47",
+            "retrievedISO": "2026-10-16T08:12:38.489Z"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-08-04",
+          "text": "The committee passed the water motion 7 to 1, with one member excused.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yLs5op0XhHI",
+            "ts": "1:04:54",
+            "retrievedISO": "2026-10-16T08:12:38.489Z"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-08-04",
+          "text": "A member who supported the purchase said the West Side has been asking for public control over water.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yLs5op0XhHI",
+            "ts": "0:57:06",
+            "retrievedISO": "2026-10-16T08:12:38.489Z"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-08-04",
+          "text": "Staff said yearly operating costs are about $879,000 for one system and $671,000 for the other.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yLs5op0XhHI",
+            "ts": "0:18:42",
+            "retrievedISO": "2026-10-16T08:12:38.489Z"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-08-04",
+          "text": "An engineer said site walks found no leaks above normal.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yLs5op0XhHI",
+            "ts": "0:15:52",
+            "retrievedISO": "2026-10-16T08:12:38.489Z"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-08-04",
+          "text": "No one signed up to testify on the water item.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yLs5op0XhHI",
+            "ts": "0:11:05",
+            "retrievedISO": "2026-10-16T08:12:38.489Z"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-08-04",
+          "text": "The price would be up to $6 million, not counting closing costs.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yLs5op0XhHI",
+            "ts": "0:07:32",
+            "retrievedISO": "2026-10-16T08:12:38.489Z"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-07-29",
+          "text": "The managing director said these purchases, with others discussed this week, would raise public control of West Maui drinking water systems from about 45% to 93%.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2ynYBa2vQ28",
+            "ts": "0:08:54",
+            "retrievedISO": "2026-10-16T15:48:00.188Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-27",
+          "text": "If the council acts in August, closing could come around April next year.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jnrjcCyjtzE",
+            "ts": "2:05:04",
+            "retrievedISO": "2026-10-16T16:26:54.417Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-07-27",
+          "text": "Once the council approves, the County would start the Public Utilities Commission (PUC) process.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jnrjcCyjtzE",
+            "ts": "2:04:59",
+            "retrievedISO": "2026-10-16T16:26:54.417Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-07-27",
+          "text": "After committee approval, the item would go to the full council for final approval.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jnrjcCyjtzE",
+            "ts": "2:04:54",
+            "retrievedISO": "2026-10-16T16:26:54.417Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-07-27",
+          "text": "The administration plans to answer follow-up questions from committee staff, ideally by the August 4 meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jnrjcCyjtzE",
+            "ts": "2:04:29",
+            "retrievedISO": "2026-10-16T16:26:54.417Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-07-27",
+          "text": "The item is expected at Council Member Sugimura's committee on August 4.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jnrjcCyjtzE",
+            "ts": "2:04:23",
+            "retrievedISO": "2026-10-16T16:26:54.417Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-07-27",
+          "text": "The chair said the item was for discussion only.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jnrjcCyjtzE",
+            "ts": "2:04:10",
+            "retrievedISO": "2026-10-16T16:26:54.417Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-07-27",
+          "text": "Staff were asked to note a request to clarify when approval from a state water agency is needed.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jnrjcCyjtzE",
+            "ts": "1:59:24",
+            "retrievedISO": "2026-10-16T16:26:54.417Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-07-27",
+          "text": "An official said only Public Utilities Commission (PUC) approval is needed for the purchase itself.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jnrjcCyjtzE",
+            "ts": "1:47:39",
+            "retrievedISO": "2026-10-16T16:26:54.417Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-07-27",
+          "text": "The department said the County will not buy the systems if the Public Utilities Commission (PUC) does not approve the sale.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jnrjcCyjtzE",
+            "ts": "1:01:39",
+            "retrievedISO": "2026-10-16T16:26:54.417Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-07-27",
+          "text": "Officials said connecting the systems would give better resiliency and redundancy.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jnrjcCyjtzE",
+            "ts": "0:59:46",
+            "retrievedISO": "2026-10-16T16:26:54.417Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-07-27",
+          "text": "The County would buy the companies' assets, not the companies themselves.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jnrjcCyjtzE",
+            "ts": "0:56:12",
+            "retrievedISO": "2026-10-16T16:26:54.417Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-07-27",
+          "text": "Another testifier supported the purchase but questioned paying above the appraised value for one system.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jnrjcCyjtzE",
+            "ts": "0:45:00",
+            "retrievedISO": "2026-10-16T16:26:54.417Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-07-27",
+          "text": "A testifier said 77% of West Maui water systems are owned by private entities.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jnrjcCyjtzE",
+            "ts": "0:43:16",
+            "retrievedISO": "2026-10-16T16:26:54.417Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-07-27",
+          "text": "The water department said the sellers would run the systems for about six months during the handover.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jnrjcCyjtzE",
+            "ts": "0:27:15",
+            "retrievedISO": "2026-10-16T16:26:54.417Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-07-27",
+          "text": "The smaller system's price is $2.5 million, and it was appraised at $1.987 million.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jnrjcCyjtzE",
+            "ts": "0:14:15",
+            "retrievedISO": "2026-10-16T16:26:54.417Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-07-27",
+          "text": "The larger system's price is $3.5 million, and it was appraised at $8,056,000.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jnrjcCyjtzE",
+            "ts": "0:09:29",
+            "retrievedISO": "2026-10-16T16:26:54.417Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-07-27",
+          "text": "The larger system has three wells, two tanks and 402 active connections.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jnrjcCyjtzE",
+            "ts": "0:09:11",
+            "retrievedISO": "2026-10-16T16:26:54.417Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-07-27",
+          "text": "The Director of Finance found the purchase is in the public interest to support long-term water service in West Maui.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jnrjcCyjtzE",
+            "ts": "0:05:37",
+            "retrievedISO": "2026-10-16T16:26:54.417Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-07-27",
+          "text": "The total price is up to $6 million, not counting closing costs.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jnrjcCyjtzE",
+            "ts": "0:05:01",
+            "retrievedISO": "2026-10-16T16:26:54.417Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
         }
       ],
       "sourceTypes": [
@@ -11316,7 +12062,7 @@
       "lastSeenISO": "2026-09-04",
       "signals": {
         "meetingsLast30d": 0,
-        "meetingsLast90d": 2,
+        "meetingsLast90d": 3,
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
@@ -11359,13 +12105,73 @@
           "body": "County Council Meeting"
         },
         {
+          "dateISO": "2026-08-25",
+          "text": "A council member said a plan is important to help the community stay healthy by eating healthy.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pRcBgWNK6vM",
+            "ts": "1:05:56",
+            "retrievedISO": "2026-10-16T15:11:48.128Z"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-08-25",
+          "text": "An online dashboard on the County website would track the plan's progress.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pRcBgWNK6vM",
+            "ts": "1:05:19",
+            "retrievedISO": "2026-10-16T15:11:48.128Z"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-08-25",
+          "text": "The managing director would manage and help update the plan.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pRcBgWNK6vM",
+            "ts": "1:05:10",
+            "retrievedISO": "2026-10-16T15:11:48.128Z"
+          },
+          "body": "County Council Meeting"
+        },
+        {
           "dateISO": "2026-08-06",
-          "text": "Members voted to have each five-year plan update sent to the council instead of the county.",
+          "text": "The committee's final motion on the bill passed with six ayes and one member excused.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "elf0DfB_afI",
+            "ts": "1:32:20",
+            "retrievedISO": "2026-10-16T07:24:07.396Z"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "Amendment to section F on where the five-year updated plan is submitted: The committee approved changing the bill so each five-year updated plan is submitted to the council instead of the county.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
             "videoId": "elf0DfB_afI",
             "ts": "1:27:10",
+            "retrievedISO": "2026-10-16T07:24:07.396Z"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "The chair called for a motion to recommend passing Bill 98 on first reading.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "elf0DfB_afI",
+            "ts": "1:24:19",
             "retrievedISO": "2026-10-16T07:24:07.396Z"
           },
           "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
@@ -11378,6 +12184,54 @@
             "type": "meeting",
             "videoId": "elf0DfB_afI",
             "ts": "0:43:14",
+            "retrievedISO": "2026-10-16T07:24:07.396Z"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "Department staff said they will share an annual progress update on the dashboard.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "elf0DfB_afI",
+            "ts": "0:43:02",
+            "retrievedISO": "2026-10-16T07:24:07.396Z"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "The chair said there is a chance to make changes at first and second reading.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "elf0DfB_afI",
+            "ts": "0:26:37",
+            "retrievedISO": "2026-10-16T07:24:07.396Z"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "The chair said first reading of the bill happens at the full council.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "elf0DfB_afI",
+            "ts": "0:24:21",
+            "retrievedISO": "2026-10-16T07:24:07.396Z"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "The speaker said the Farm Bureau does not want to stop the bill and hopes to weigh in before a later reading.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "elf0DfB_afI",
+            "ts": "0:23:08",
             "retrievedISO": "2026-10-16T07:24:07.396Z"
           },
           "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
@@ -11402,6 +12256,18 @@
             "type": "meeting",
             "videoId": "elf0DfB_afI",
             "ts": "0:20:33",
+            "retrievedISO": "2026-10-16T07:24:07.396Z"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "The Department of Agriculture director said the department supports adding the plan to the county code.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "elf0DfB_afI",
+            "ts": "0:10:19",
             "retrievedISO": "2026-10-16T07:24:07.396Z"
           },
           "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
@@ -11542,12 +12408,48 @@
       "timeline": [
         {
           "dateISO": "2026-08-18",
+          "text": "The chair deferred the grants item and adjourned the meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ZI16NC6wq_w",
+            "ts": "2:31:50",
+            "retrievedISO": "2026-10-16T06:42:24.117Z"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-08-18",
           "text": "Administration and management of county grants: The chair deferred the grants rules item with no vote.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
             "videoId": "ZI16NC6wq_w",
             "ts": "2:31:27",
+            "retrievedISO": "2026-10-16T06:42:24.117Z"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-08-18",
+          "text": "Council members' comments on the rules are due by 5 p.m. on August 25.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ZI16NC6wq_w",
+            "ts": "2:30:47",
+            "retrievedISO": "2026-10-16T06:42:24.117Z"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-08-18",
+          "text": "The administration said it will check with the Department of Transportation about one section of the rules.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ZI16NC6wq_w",
+            "ts": "2:12:19",
             "retrievedISO": "2026-10-16T06:42:24.117Z"
           },
           "body": "County Council Budget, Finance, and Economic Development Committee"
@@ -12464,12 +13366,24 @@
       "timeline": [
         {
           "dateISO": "2026-07-28",
-          "text": "The chair said the bills will come back, but there is no date yet.",
+          "text": "The chair will work with staff to bring back the two deferred bills, with no date set yet.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
             "videoId": "G8BjVaIQGNw",
             "ts": "2:31:27",
+            "retrievedISO": "2026-10-16T16:24:48.490Z"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        },
+        {
+          "dateISO": "2026-07-28",
+          "text": "Staff will send the Board of Ethics a written question on how often its lobbyist list is updated.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "G8BjVaIQGNw",
+            "ts": "2:30:52",
             "retrievedISO": "2026-10-16T16:24:48.490Z"
           },
           "body": "County Council Government Relations, Ethics, and Transparency Committee"
@@ -12494,6 +13408,18 @@
             "type": "meeting",
             "videoId": "G8BjVaIQGNw",
             "ts": "2:19:13",
+            "retrievedISO": "2026-10-16T16:24:48.490Z"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        },
+        {
+          "dateISO": "2026-07-28",
+          "text": "Motion to amend Bill 55-2025 with the proposed CD1 version: A motion to replace Bill 55 with the proposed new (CD1) version was made and seconded; the captions do not clearly show its vote.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "G8BjVaIQGNw",
+            "ts": "2:11:30",
             "retrievedISO": "2026-10-16T16:24:48.490Z"
           },
           "body": "County Council Government Relations, Ethics, and Transparency Committee"
@@ -13218,6 +14144,17 @@
       "timeline": [
         {
           "dateISO": "2026-08-08",
+          "text": "The board said the company will be notified when payment is due.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "e-RpYc_Bv_I",
+            "ts": "0:27:54",
+            "retrievedISO": "2026-10-12T06:30:14.097Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
           "text": "Motion to adopt the deputy prosecutor's penalty recommendations: The board voted to fine the company $2,000 on count one and $2,000 on count two, with no penalty on count three.",
           "basis": "said-at-meeting",
           "source": {
@@ -13229,13 +14166,101 @@
         },
         {
           "dateISO": "2026-08-08",
-          "text": "The board voted to fine the store $1,000 on each of counts one and two, with no penalty on count three.",
+          "text": "The department's attorney said the company had one prior offense, in 2007, for serving a minor.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "e-RpYc_Bv_I",
+            "ts": "0:24:18",
+            "retrievedISO": "2026-10-12T06:30:14.097Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
+          "text": "The chair said the lounge will be notified when payment is due.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "qaTIlozbYYE",
+            "ts": "0:18:06",
+            "retrievedISO": "2026-10-13T06:35:04.088Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
+          "text": "Motion on the penalty in case 2026-12: The board voted unanimously to fine the lounge $2,000 on count one and $2,000 on count two.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "qaTIlozbYYE",
+            "ts": "0:17:12",
+            "retrievedISO": "2026-10-13T06:35:04.088Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
+          "text": "The store will be notified when payment is due.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8bkByrOTHqs",
+            "ts": "0:16:44",
+            "retrievedISO": "2026-10-12T06:30:11.061Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
+          "text": "Motion to assess fines for complaint and accusation 2026-16: The board voted to fine the store $1,000 on count one and $1,000 on count two, with no further penalty on count three.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
             "videoId": "8bkByrOTHqs",
             "ts": "0:15:22",
             "retrievedISO": "2026-10-12T06:30:11.061Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
+          "text": "The department noted the lounge's past no contest pleas from 2017, 2022 and 2024.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "qaTIlozbYYE",
+            "ts": "0:14:44",
+            "retrievedISO": "2026-10-13T06:35:04.088Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
+          "text": "He said the decoy was 19 and the bartender misread her ID.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "e-RpYc_Bv_I",
+            "ts": "0:14:02",
+            "retrievedISO": "2026-10-12T06:30:14.097Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
+          "text": "The department recommended $2,000 fines on counts one and two, each with $1,000 suspended for one year if there are no further violations.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8bkByrOTHqs",
+            "ts": "0:13:34",
+            "retrievedISO": "2026-10-12T06:30:11.061Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
+          "text": "Asked by the vice chair, he said he would put up a wall calendar to help servers check ages.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "qaTIlozbYYE",
+            "ts": "0:13:17",
+            "retrievedISO": "2026-10-13T06:35:04.088Z"
           }
         },
         {
@@ -13251,6 +14276,17 @@
         },
         {
           "dateISO": "2026-08-08",
+          "text": "He said the store has since put up signs saying it checks IDs.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8bkByrOTHqs",
+            "ts": "0:12:04",
+            "retrievedISO": "2026-10-12T06:30:11.061Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
           "text": "Back in open session, the board voted unanimously to fine the business $1,000 on each count.",
           "basis": "said-at-meeting",
           "source": {
@@ -13258,6 +14294,50 @@
             "videoId": "q2U39bwG0tM",
             "ts": "0:12:02",
             "retrievedISO": "2026-10-12T06:30:12.014Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
+          "text": "A store representative apologized and said the cashier had worked there over 25 years.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8bkByrOTHqs",
+            "ts": "0:11:29",
+            "retrievedISO": "2026-10-12T06:30:11.061Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
+          "text": "The board voted to go into closed session (a private discussion) to decide the penalty.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "q2U39bwG0tM",
+            "ts": "0:10:58",
+            "retrievedISO": "2026-10-12T06:30:12.014Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
+          "text": "The store asked the board to consider its clean record.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "q2U39bwG0tM",
+            "ts": "0:10:40",
+            "retrievedISO": "2026-10-12T06:30:12.014Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
+          "text": "The counts were selling liquor to a minor, failing to properly check ID, and a state law count against selling liquor.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8bkByrOTHqs",
+            "ts": "0:10:37",
+            "retrievedISO": "2026-10-12T06:30:11.061Z"
           }
         },
         {
@@ -13273,6 +14353,17 @@
         },
         {
           "dateISO": "2026-08-08",
+          "text": "Store's guilty plea to three counts: The board accepted the store's guilty plea and found it guilty of counts one, two, and three.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8bkByrOTHqs",
+            "ts": "0:08:30",
+            "retrievedISO": "2026-10-12T06:30:11.061Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
           "text": "A member moved to fine the business $2,000 on count one, $3,000 on count two, and nothing on count three.",
           "basis": "said-at-meeting",
           "source": {
@@ -13284,6 +14375,17 @@
         },
         {
           "dateISO": "2026-08-08",
+          "text": "The lounge's representative said the employee was let go.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "qaTIlozbYYE",
+            "ts": "0:08:04",
+            "retrievedISO": "2026-10-13T06:35:04.088Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
           "text": "The store pleaded guilty to all three counts, with no plea agreement.",
           "basis": "said-at-meeting",
           "source": {
@@ -13291,6 +14393,72 @@
             "videoId": "8bkByrOTHqs",
             "ts": "0:07:12",
             "retrievedISO": "2026-10-12T06:30:11.061Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
+          "text": "The department said the business had a prior offense for serving a minor in the early 2000s.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "WPyqYEpazJA",
+            "ts": "0:06:16",
+            "retrievedISO": "2026-10-12T06:30:12.970Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
+          "text": "He said each register asks for a birth date, but the cashier did not enter it properly.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "q2U39bwG0tM",
+            "ts": "0:06:07",
+            "retrievedISO": "2026-10-12T06:30:12.014Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
+          "text": "An employee sold one decoy a mixed drink and never checked her ID.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "qaTIlozbYYE",
+            "ts": "0:05:58",
+            "retrievedISO": "2026-10-13T06:35:04.088Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
+          "text": "The Department of Liquor Control said two underage decoys (minors working with inspectors) entered the lounge on June 21st, 2025.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "qaTIlozbYYE",
+            "ts": "0:05:22",
+            "retrievedISO": "2026-10-13T06:35:04.088Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
+          "text": "The business faced three counts, including serving liquor to a minor and not properly checking ID.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "WPyqYEpazJA",
+            "ts": "0:04:35",
+            "retrievedISO": "2026-10-12T06:30:12.970Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
+          "text": "The cashier asked for her ID, looked at it, and sold her the drink.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "q2U39bwG0tM",
+            "ts": "0:03:58",
+            "retrievedISO": "2026-10-12T06:30:12.014Z"
           }
         },
         {
@@ -13328,6 +14496,61 @@
         },
         {
           "dateISO": "2026-08-08",
+          "text": "Under a deal with the department, the lounge pleaded no contest to counts one and two, and count three was dropped.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "qaTIlozbYYE",
+            "ts": "0:02:36",
+            "retrievedISO": "2026-10-13T06:35:04.088Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
+          "text": "The chair said the board would enter a default, meaning it would go ahead without the business.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "WPyqYEpazJA",
+            "ts": "0:02:33",
+            "retrievedISO": "2026-10-12T06:30:12.970Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
+          "text": "The lounge's representative changed its plea from not guilty to no contest, meaning it would not fight the charges.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "qaTIlozbYYE",
+            "ts": "0:02:07",
+            "retrievedISO": "2026-10-13T06:35:04.088Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
+          "text": "No one from the restaurant showed up when the case was called.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "WPyqYEpazJA",
+            "ts": "0:01:18",
+            "retrievedISO": "2026-10-12T06:30:12.970Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
+          "text": "Under the plea deal, the department agreed to drop count three.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "q2U39bwG0tM",
+            "ts": "0:01:14",
+            "retrievedISO": "2026-10-12T06:30:12.014Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
           "text": "The board took up accusation 2026-13 against Flatbread Company on Hāna Highway.",
           "basis": "said-at-meeting",
           "source": {
@@ -13335,6 +14558,17 @@
             "videoId": "e-RpYc_Bv_I",
             "ts": "0:00:39",
             "retrievedISO": "2026-10-12T06:30:14.097Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
+          "text": "The store's attorney said the business pleaded no contest to counts one and two.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "q2U39bwG0tM",
+            "ts": "0:00:38",
+            "retrievedISO": "2026-10-12T06:30:12.014Z"
           }
         },
         {
@@ -13357,6 +14591,83 @@
             "videoId": "q2U39bwG0tM",
             "ts": "0:00:00",
             "retrievedISO": "2026-10-12T06:30:12.014Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
+          "text": "The board heard a case against a fish market restaurant at 110 Hāna Highway.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "WPyqYEpazJA",
+            "ts": "0:00:00",
+            "retrievedISO": "2026-10-12T06:30:12.970Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
+          "text": "The board heard a complaint against Southshore Tiki Lounge in Kīhei, which holds a restaurant liquor license.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "qaTIlozbYYE",
+            "ts": "0:00:00",
+            "retrievedISO": "2026-10-13T06:35:04.088Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "Every member voted yes to fine the store $1,000 on each of two counts.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "1uy2xHeCM-A",
+            "ts": "1:37:18",
+            "retrievedISO": "2026-10-13T06:35:06.940Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "The board fined the market $1,000 on each of two counts.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "1uy2xHeCM-A",
+            "ts": "1:20:51",
+            "retrievedISO": "2026-10-13T06:35:06.940Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "Penalty in complaint and accusation 2026-14 (fish market restaurant): The board fined the fish market $2,000 on count one and $3,000 on count two, with no further penalty on count three.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "1uy2xHeCM-A",
+            "ts": "1:07:19",
+            "retrievedISO": "2026-10-13T06:35:06.940Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "No one appeared for a fish market restaurant; the board proceeded anyway.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "1uy2xHeCM-A",
+            "ts": "1:00:23",
+            "retrievedISO": "2026-10-13T06:35:06.940Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "The department said a worker served an underage decoy a drink without checking ID.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "1uy2xHeCM-A",
+            "ts": "0:18:34",
+            "retrievedISO": "2026-10-13T06:35:06.940Z"
           }
         },
         {
@@ -14158,12 +15469,23 @@
       "timeline": [
         {
           "dateISO": "2026-07-23",
-          "text": "The board voted to continue the case to December 10th, 2026.",
+          "text": "Motion to continue the two combined notice-of-violation appeals to December 10th, 2026: The board approved continuing the combined appeals to December 10th, 2026.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
             "videoId": "JDZtlQ-ojPk",
             "ts": "0:07:23",
+            "retrievedISO": "2026-10-12T06:30:05.130Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-23",
+          "text": "The attorney said December 10th would work because he has a trial on Kauaʻi in late November.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "JDZtlQ-ojPk",
+            "ts": "0:06:53",
             "retrievedISO": "2026-10-12T06:30:05.130Z"
           }
         },
@@ -14191,7 +15513,7 @@
         },
         {
           "dateISO": "2026-07-23",
-          "text": "The appellants' attorney said the planning department asked for an archaeological survey.",
+          "text": "The appellants plan to have an archaeologist complete the survey the planning department requested.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
@@ -14533,12 +15855,36 @@
       "lastSeenISO": "2026-08-31",
       "signals": {
         "meetingsLast30d": 0,
-        "meetingsLast90d": 1,
+        "meetingsLast90d": 2,
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-20",
       "timeline": [
+        {
+          "dateISO": "2026-08-31",
+          "text": "The chair said the herbicide waiver will be deferred.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "x1bWmSajuIM",
+            "ts": "2:12:06",
+            "retrievedISO": "2026-10-16T12:27:11.063Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "When the herbicide waiver returns, a council member wants specific areas and a shorter time period.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "x1bWmSajuIM",
+            "ts": "2:09:37",
+            "retrievedISO": "2026-10-16T12:27:11.063Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
         {
           "dateISO": "2026-08-31",
           "text": "The chair said the committee will defer the resolution, meaning put it off to a later meeting.",
@@ -14572,6 +15918,18 @@
             "videoId": "2oq6VqJ13h4",
             "ts": "1:03:30",
             "retrievedISO": "2026-10-16T05:43:53.105Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "Public Works asked for a temporary waiver to use weed killer (herbicide) in safety areas along county roads.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "x1bWmSajuIM",
+            "ts": "1:00:30",
+            "retrievedISO": "2026-10-16T12:27:11.063Z"
           },
           "body": "County Council Water and Infrastructure Committee"
         },
@@ -15268,6 +16626,18 @@
         },
         {
           "dateISO": "2026-08-20",
+          "text": "The chair is considering exempting vehicles there for now.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pXD4AJPMtzM",
+            "ts": "3:05:07",
+            "retrievedISO": "2026-10-16T18:25:36.541Z"
+          },
+          "body": "County Council Kōmike Aloha ʻĀina"
+        },
+        {
+          "dateISO": "2026-08-20",
           "text": "The chair said Molokaʻi Community Plan changes would come after the last patient, going to the council and the Molokaʻi Planning Commission.",
           "basis": "said-at-meeting",
           "source": {
@@ -15304,6 +16674,30 @@
         },
         {
           "dateISO": "2026-08-20",
+          "text": "A committee member asked staff to send the managing director a written question on the county's preparation for the transition.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pXD4AJPMtzM",
+            "ts": "1:56:40",
+            "retrievedISO": "2026-10-16T18:25:36.541Z"
+          },
+          "body": "County Council Kōmike Aloha ʻĀina"
+        },
+        {
+          "dateISO": "2026-08-20",
+          "text": "Close public testimony: No one objected, so oral public testimony was closed.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pXD4AJPMtzM",
+            "ts": "1:44:51",
+            "retrievedISO": "2026-10-16T18:25:36.541Z"
+          },
+          "body": "County Council Kōmike Aloha ʻĀina"
+        },
+        {
+          "dateISO": "2026-08-20",
           "text": "The state's aquatic resources division plans to write place-based rules for the peninsula but has not started.",
           "basis": "said-at-meeting",
           "source": {
@@ -15316,12 +16710,36 @@
         },
         {
           "dateISO": "2026-08-20",
+          "text": "He said special peninsula fishing rules will end after the transition; statewide rules will still apply.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pXD4AJPMtzM",
+            "ts": "0:52:46",
+            "retrievedISO": "2026-10-16T18:25:36.541Z"
+          },
+          "body": "County Council Kōmike Aloha ʻĀina"
+        },
+        {
+          "dateISO": "2026-08-20",
           "text": "Department of Hawaiian Home Lands (DHHL) expects the first of three beneficiary consultation meetings in February or March 2027.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
             "videoId": "pXD4AJPMtzM",
             "ts": "0:44:11",
+            "retrievedISO": "2026-10-16T18:25:36.541Z"
+          },
+          "body": "County Council Kōmike Aloha ʻĀina"
+        },
+        {
+          "dateISO": "2026-08-20",
+          "text": "Designate the introduced individuals as resource persons under Rule 18A: No one objected, so the invited speakers were named resource persons (people who can answer the committee's questions).",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pXD4AJPMtzM",
+            "ts": "0:10:03",
             "retrievedISO": "2026-10-16T18:25:36.541Z"
           },
           "body": "County Council Kōmike Aloha ʻĀina"
@@ -15913,6 +17331,17 @@
             "type": "meeting",
             "videoId": "Z4fnObg2c0I",
             "ts": "0:47:06",
+            "retrievedISO": "2026-10-12T06:30:03.060Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-19",
+          "text": "A commissioner asked about digging near a harbor road that was once closed for years.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Z4fnObg2c0I",
+            "ts": "0:39:24",
             "retrievedISO": "2026-10-12T06:30:03.060Z"
           }
         },
@@ -16872,12 +18301,34 @@
         },
         {
           "dateISO": "2026-08-11",
+          "text": "The applicant's attorney said the workforce units will be built on site to meet the county's affordable housing rule.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tpJYo1iZdE4",
+            "ts": "5:42:02",
+            "retrievedISO": "2026-10-12T06:30:08.220Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-11",
           "text": "An applicant water expert said the local aquifer is now pumped at about one-third of its sustainable yield.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
             "videoId": "tpJYo1iZdE4",
             "ts": "4:54:43",
+            "retrievedISO": "2026-10-12T06:30:08.220Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-11",
+          "text": "The applicant's attorney said salty leftover water from the treatment system would be reused for irrigation.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tpJYo1iZdE4",
+            "ts": "4:42:41",
             "retrievedISO": "2026-10-12T06:30:08.220Z"
           }
         },
@@ -16955,6 +18406,17 @@
             "type": "meeting",
             "videoId": "tpJYo1iZdE4",
             "ts": "3:21:53",
+            "retrievedISO": "2026-10-12T06:30:08.220Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-11",
+          "text": "A redesign of the south golf course cut its irrigated area by 15 acres, lowering its water use by 20%.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tpJYo1iZdE4",
+            "ts": "3:13:25",
             "retrievedISO": "2026-10-12T06:30:08.220Z"
           }
         },
@@ -17627,12 +19089,56 @@
         },
         {
           "dateISO": "2026-08-08",
+          "text": "The presenter said the department will pursue some of the commission's 2019 initiatives before June 2027.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "S_ruE2fklRg",
+            "ts": "0:18:34",
+            "retrievedISO": "2026-10-12T06:30:15.308Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
           "text": "The presenter said this commission's 2019 recommendations will be built into the master plan.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
             "videoId": "S_ruE2fklRg",
             "ts": "0:18:08",
+            "retrievedISO": "2026-10-12T06:30:15.308Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
+          "text": "An archaeologist said topsoil will be placed over areas where hard surfaces are removed.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "S_ruE2fklRg",
+            "ts": "0:16:04",
+            "retrievedISO": "2026-10-12T06:30:15.308Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
+          "text": "The presenter said the work will not disturb the ground.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "S_ruE2fklRg",
+            "ts": "0:13:12",
+            "retrievedISO": "2026-10-12T06:30:15.308Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-08",
+          "text": "The department is working with the Salvation Army on a land acquisition.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "S_ruE2fklRg",
+            "ts": "0:12:08",
             "retrievedISO": "2026-10-12T06:30:15.308Z"
           }
         },
@@ -17660,7 +19166,7 @@
         },
         {
           "dateISO": "2026-08-08",
-          "text": "The first step would remove two tennis courts, a basketball court and a parking lot.",
+          "text": "The department's first action item is removing the courts and parking lot to prepare the land for restoration.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
@@ -17920,16 +19426,40 @@
       ],
       "status": "active",
       "pinned": false,
-      "firstSeenISO": "2026-08-19",
+      "firstSeenISO": "2026-08-05",
       "lastSeenISO": "2026-08-31",
       "signals": {
         "meetingsLast30d": 0,
-        "meetingsLast90d": 2,
+        "meetingsLast90d": 3,
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-20",
       "timeline": [
+        {
+          "dateISO": "2026-08-31",
+          "text": "The official said not everyone living at the site will be eligible to stay.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iWO4pTUu848",
+            "ts": "1:52:11",
+            "retrievedISO": "2026-10-16T11:06:52.616Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "The County is meeting with FEMA on how their caseworkers can meet together with residents at the housing site.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iWO4pTUu848",
+            "ts": "1:51:58",
+            "retrievedISO": "2026-10-16T11:06:52.616Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
         {
           "dateISO": "2026-08-31",
           "text": "A clinician said patients worry about FEMA making them leave at the end of the month.",
@@ -17939,30 +19469,6 @@
             "videoId": "fVsUFhO9fb4",
             "ts": "0:55:41",
             "retrievedISO": "2026-10-16T05:46:14.583Z"
-          },
-          "body": "County Council Water Authority, Social Services, and Parks Committee"
-        },
-        {
-          "dateISO": "2026-08-31",
-          "text": "He said not everyone at Kīlohana is eligible to stay.",
-          "basis": "said-at-meeting",
-          "source": {
-            "type": "meeting",
-            "videoId": "LH2oI6gfdB0",
-            "ts": "0:42:24",
-            "retrievedISO": "2026-10-16T06:07:45.277Z"
-          },
-          "body": "County Council Water Authority, Social Services, and Parks Committee"
-        },
-        {
-          "dateISO": "2026-08-31",
-          "text": "He said the county is meeting with FEMA so caseworkers can meet together with Kīlohana residents.",
-          "basis": "said-at-meeting",
-          "source": {
-            "type": "meeting",
-            "videoId": "LH2oI6gfdB0",
-            "ts": "0:42:10",
-            "retrievedISO": "2026-10-16T06:07:45.277Z"
           },
           "body": "County Council Water Authority, Social Services, and Parks Committee"
         },
@@ -18001,6 +19507,18 @@
             "retrievedISO": "2026-10-16T06:07:45.277Z"
           },
           "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-19",
+          "text": "The state is in the final stages of approving a new notice to tenants at one site.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9O-5VI6zndk",
+            "ts": "0:49:18",
+            "retrievedISO": "2026-10-16T06:26:30.067Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
         },
         {
           "dateISO": "2026-08-19",
@@ -18109,6 +19627,102 @@
             "retrievedISO": "2026-10-16T06:26:30.067Z"
           },
           "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-08-18",
+          "text": "Staff said the county will take over one of the interim housing sites.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ZI16NC6wq_w",
+            "ts": "1:12:22",
+            "retrievedISO": "2026-10-16T06:42:24.117Z"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-08-18",
+          "text": "A council member asked what will happen to people in temporary housing when FEMA leaves before permanent housing is finished.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ZI16NC6wq_w",
+            "ts": "1:11:51",
+            "retrievedISO": "2026-10-16T06:42:24.117Z"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-08-18",
+          "text": "The county is working to move households from temporary housing into permanent homes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ZI16NC6wq_w",
+            "ts": "0:37:49",
+            "retrievedISO": "2026-10-16T06:42:24.117Z"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-08-18",
+          "text": "Staff said about 1,100 households are in interim housing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ZI16NC6wq_w",
+            "ts": "0:37:12",
+            "retrievedISO": "2026-10-16T06:42:24.117Z"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-08-05",
+          "text": "A new rental help program, the Disaster Interim Housing Program, starts in August.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "VgE2vefgTzg",
+            "ts": "0:22:05",
+            "retrievedISO": "2026-10-16T07:27:27.980Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-08-05",
+          "text": "The Kīlohana site is moving from a federal facility to a county facility.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "VgE2vefgTzg",
+            "ts": "0:21:31",
+            "retrievedISO": "2026-10-16T07:27:27.980Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-08-05",
+          "text": "Officials said the housing gap will remain until 2030, when rebuilding is expected to be done.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "VgE2vefgTzg",
+            "ts": "0:18:44",
+            "retrievedISO": "2026-10-16T07:27:27.980Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-08-05",
+          "text": "More than 1,100 households remain in temporary housing after the wildfires.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "VgE2vefgTzg",
+            "ts": "0:18:28",
+            "retrievedISO": "2026-10-16T07:27:27.980Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
         }
       ],
       "sourceTypes": [
@@ -18155,6 +19769,28 @@
             "videoId": "fDPADbFyXaI",
             "ts": "0:18:35",
             "retrievedISO": "2026-10-07T23:03:52.575Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-16",
+          "text": "Maui Emergency Management Agency (MEMA) invited commissioners to a July 24 blessing for the new center.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "so1BNvpx4nc",
+            "ts": "0:08:53",
+            "retrievedISO": "2026-10-13T06:35:12.699Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-16",
+          "text": "Maui Emergency Management Agency (MEMA) said a roof leak over the computer room is delaying its new emergency operations center.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "so1BNvpx4nc",
+            "ts": "0:08:28",
+            "retrievedISO": "2026-10-13T06:35:12.699Z"
           }
         },
         {
@@ -18373,11 +20009,11 @@
       ],
       "status": "active",
       "pinned": false,
-      "firstSeenISO": "2026-09-02",
+      "firstSeenISO": "2026-08-25",
       "lastSeenISO": "2026-09-02",
       "signals": {
         "meetingsLast30d": 0,
-        "meetingsLast90d": 1,
+        "meetingsLast90d": 2,
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
@@ -18457,6 +20093,18 @@
         },
         {
           "dateISO": "2026-09-02",
+          "text": "The open space amendment passed with seven ayes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "E8RNq6wUE1Y",
+            "ts": "1:54:10",
+            "retrievedISO": "2026-10-16T08:22:23.095Z"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-09-02",
           "text": "One amendment removed uses such as bed-and-breakfasts, animal kennels, and car lots.",
           "basis": "said-at-meeting",
           "source": {
@@ -18481,6 +20129,18 @@
         },
         {
           "dateISO": "2026-09-02",
+          "text": "The applicant said the 20 percent rule is a burden on the project.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "E8RNq6wUE1Y",
+            "ts": "1:35:12",
+            "retrievedISO": "2026-10-16T08:22:23.095Z"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-09-02",
           "text": "The owners said current zoning keeps them from building a food processing center and cold storage.",
           "basis": "said-at-meeting",
           "source": {
@@ -18488,6 +20148,114 @@
             "videoId": "k-_ISK9hdeQ",
             "ts": "1:09:33",
             "retrievedISO": "2026-10-16T16:43:03.917Z"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-09-02",
+          "text": "Members discussed banning chain businesses, called formula businesses.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "E8RNq6wUE1Y",
+            "ts": "1:05:35",
+            "retrievedISO": "2026-10-16T08:22:23.095Z"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-09-02",
+          "text": "Members discussed a condition requiring water-saving practices, enforced by the Department of Water Supply.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "E8RNq6wUE1Y",
+            "ts": "1:01:19",
+            "retrievedISO": "2026-10-16T08:22:23.095Z"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-09-02",
+          "text": "This amendment passed with seven ayes and two members excused.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "E8RNq6wUE1Y",
+            "ts": "1:00:56",
+            "retrievedISO": "2026-10-16T08:22:23.095Z"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-09-02",
+          "text": "Homes must be in the same building as a business or other non-home use.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "E8RNq6wUE1Y",
+            "ts": "0:58:53",
+            "retrievedISO": "2026-10-16T08:22:23.095Z"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-09-02",
+          "text": "Live-work units, with a shop below and a home above, would be allowed.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "E8RNq6wUE1Y",
+            "ts": "0:58:27",
+            "retrievedISO": "2026-10-16T08:22:23.095Z"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-09-02",
+          "text": "Under the proposed M1 zoning, the owners could build apartments but not single-family homes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "E8RNq6wUE1Y",
+            "ts": "0:57:58",
+            "retrievedISO": "2026-10-16T08:22:23.095Z"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-09-02",
+          "text": "A member said that after the fire, people were moved around a lot, so B&B space could serve as temporary housing in a disaster.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "E8RNq6wUE1Y",
+            "ts": "0:48:27",
+            "retrievedISO": "2026-10-16T08:22:23.095Z"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-09-02",
+          "text": "Bed-and-breakfasts would not be allowed, except for temporary humanitarian housing in a disaster.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "E8RNq6wUE1Y",
+            "ts": "0:47:52",
+            "retrievedISO": "2026-10-16T08:22:23.095Z"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-09-02",
+          "text": "The chair proposed using the M1 light industrial zoning uses, minus some uses.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "E8RNq6wUE1Y",
+            "ts": "0:47:12",
+            "retrievedISO": "2026-10-16T08:22:23.095Z"
           },
           "body": "County Council Housing and Land Use Committee"
         },
@@ -18574,6 +20342,18 @@
             "retrievedISO": "2026-10-16T16:43:03.917Z"
           },
           "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-25",
+          "text": "Referral of Bill 109 (2026): Bill 109, on the Pāʻia Sugar Mill Redevelopment Project, was sent to the Housing and Land Use Committee.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pRcBgWNK6vM",
+            "ts": "2:19:33",
+            "retrievedISO": "2026-10-16T15:11:48.128Z"
+          },
+          "body": "County Council Meeting"
         }
       ],
       "sourceTypes": [
@@ -18777,7 +20557,18 @@
         },
         {
           "dateISO": "2026-07-29",
-          "text": "The commission voted to defer the matter until its next meeting.",
+          "text": "The next meeting is scheduled for August 19th at 10:00 a.m.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "3I1tm_EQnTA",
+            "ts": "0:06:07",
+            "retrievedISO": "2026-10-12T06:30:16.193Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-29",
+          "text": "Motion to defer consideration of the investigator matter until the next meeting: A motion to defer the investigator matter until the next meeting passed.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
@@ -18799,7 +20590,7 @@
         },
         {
           "dateISO": "2026-07-29",
-          "text": "A motion to accept the group's recommendation was also defeated by a vote stated as four to one.",
+          "text": "Motion to accept the group's recommendation for the investigator: A motion to accept the group's recommendation for the investigator was defeated.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
@@ -18810,7 +20601,7 @@
         },
         {
           "dateISO": "2026-07-29",
-          "text": "A motion to bring applicants two and three before the full board for questions was rejected by a vote stated as four to one.",
+          "text": "Motion to bring in applicant number two and applicant number three to be questioned by the full board: A motion to have applicants two and three questioned by the full board was rejected.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
@@ -19148,15 +20939,75 @@
       "status": "quiet",
       "pinned": false,
       "firstSeenISO": "2026-07-29",
-      "lastSeenISO": "2026-07-29",
+      "lastSeenISO": "2026-08-05",
       "signals": {
         "meetingsLast30d": 0,
-        "meetingsLast90d": 1,
+        "meetingsLast90d": 2,
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-20",
       "timeline": [
+        {
+          "dateISO": "2026-08-05",
+          "text": "The chair said the water and land purchase must be discussed privately due to a nondisclosure agreement.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "VgE2vefgTzg",
+            "ts": "1:27:50",
+            "retrievedISO": "2026-10-16T07:27:27.980Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-08-05",
+          "text": "The county wants about $2.9 million in improvements to that system after the sale closes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "VgE2vefgTzg",
+            "ts": "0:30:30",
+            "retrievedISO": "2026-10-16T07:27:27.980Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-08-05",
+          "text": "The system has two stream diversions, two shaft wells, one well, and three reservoirs.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "VgE2vefgTzg",
+            "ts": "0:29:01",
+            "retrievedISO": "2026-10-16T07:27:27.980Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-08-05",
+          "text": "The county is proposing to buy a private irrigation company's non-potable (not for drinking) water system.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "VgE2vefgTzg",
+            "ts": "0:28:48",
+            "retrievedISO": "2026-10-16T07:27:27.980Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-29",
+          "text": "The item will come back after the administration has and reviews the reports a member requested.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "oYcLpco3sCk",
+            "ts": "2:53:57",
+            "retrievedISO": "2026-10-16T16:11:53.339Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
         {
           "dateISO": "2026-07-29",
           "text": "The deputy corporation counsel said the County could try to negotiate conditions on water credits, such as for owner-occupied housing.",
@@ -19183,6 +21034,138 @@
         },
         {
           "dateISO": "2026-07-29",
+          "text": "An official said new water uses will still need a state water use permit after the County buys the assets.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "oYcLpco3sCk",
+            "ts": "2:39:05",
+            "retrievedISO": "2026-10-16T16:11:53.339Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-29",
+          "text": "Another member said he supports buying the assets but is concerned about turning farm land into homes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2ynYBa2vQ28",
+            "ts": "2:28:26",
+            "retrievedISO": "2026-10-16T15:48:00.188Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-29",
+          "text": "The administration was asked to tell committee staff once it has reviewed the documents so the item can be put back on an agenda.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2ynYBa2vQ28",
+            "ts": "2:27:05",
+            "retrievedISO": "2026-10-16T15:48:00.188Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-29",
+          "text": "A member asked to meet again after the county gets the due diligence documents and preliminary title reports.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2ynYBa2vQ28",
+            "ts": "2:26:05",
+            "retrievedISO": "2026-10-16T15:48:00.188Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-29",
+          "text": "A question about eminent domain was set aside for a possible later executive session (a closed-door discussion).",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "oYcLpco3sCk",
+            "ts": "2:24:38",
+            "retrievedISO": "2026-10-16T16:11:53.339Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-29",
+          "text": "Water staff said the county would not give water credits to golf courses.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2ynYBa2vQ28",
+            "ts": "2:05:10",
+            "retrievedISO": "2026-10-16T15:48:00.188Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-29",
+          "text": "A member said she would like any housing land kept in a land trust for residents.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2ynYBa2vQ28",
+            "ts": "2:02:04",
+            "retrievedISO": "2026-10-16T15:48:00.188Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-29",
+          "text": "The chair confirmed the company wants to keep three parcels and only asks the County to support rezoning.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "oYcLpco3sCk",
+            "ts": "1:38:37",
+            "retrievedISO": "2026-10-16T16:11:53.339Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-29",
+          "text": "Water staff said adding water to the upcountry system would help with the water meter waiting list.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2ynYBa2vQ28",
+            "ts": "1:35:49",
+            "retrievedISO": "2026-10-16T15:48:00.188Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-29",
+          "text": "The managing director said MLP proposes to keep ownership of those parcels.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2ynYBa2vQ28",
+            "ts": "1:32:49",
+            "retrievedISO": "2026-10-16T15:48:00.188Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-29",
+          "text": "A member questioned putting homes next to large active pineapple fields.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2ynYBa2vQ28",
+            "ts": "1:29:08",
+            "retrievedISO": "2026-10-16T15:48:00.188Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-29",
           "text": "A member said she wants to make sure the rezoned land does not end up as vacant luxury lots.",
           "basis": "said-at-meeting",
           "source": {
@@ -19195,12 +21178,48 @@
         },
         {
           "dateISO": "2026-07-29",
+          "text": "The managing director said none of the parcels being looked at have active farm operations on them.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2ynYBa2vQ28",
+            "ts": "1:09:07",
+            "retrievedISO": "2026-10-16T15:48:00.188Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-29",
           "text": "The managing director said the council would have to approve any final purchase.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
             "videoId": "2ynYBa2vQ28",
             "ts": "1:00:36",
+            "retrievedISO": "2026-10-16T15:48:00.188Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-29",
+          "text": "The managing director said any zoning change would likely be started by the county if it supports the proposals.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2ynYBa2vQ28",
+            "ts": "0:57:46",
+            "retrievedISO": "2026-10-16T15:48:00.188Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-29",
+          "text": "Another testifier said Kanaka Maoli need a stronghold in water decisions.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2ynYBa2vQ28",
+            "ts": "0:49:03",
             "retrievedISO": "2026-10-16T15:48:00.188Z"
           },
           "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
@@ -19219,6 +21238,30 @@
         },
         {
           "dateISO": "2026-07-29",
+          "text": "One testifier said the community wants water put back toward ʻāina and local communities, not private interests.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2ynYBa2vQ28",
+            "ts": "0:26:14",
+            "retrievedISO": "2026-10-16T15:48:00.188Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-29",
+          "text": "The administration plans to bring the Council an offer and resolution after reviews and appraisals.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "oYcLpco3sCk",
+            "ts": "0:25:14",
+            "retrievedISO": "2026-10-16T16:11:53.339Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-29",
           "text": "The County also wants land to build a 100 million gallon reservoir.",
           "basis": "said-at-meeting",
           "source": {
@@ -19231,12 +21274,36 @@
         },
         {
           "dateISO": "2026-07-29",
+          "text": "The county will finish due diligence and appraisals before bringing an offer and resolution to the council.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2ynYBa2vQ28",
+            "ts": "0:18:47",
+            "retrievedISO": "2026-10-16T15:48:00.188Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-29",
           "text": "The county will do due diligence, title reports and appraisals, then come to the council with an offer and resolution.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
             "videoId": "2ynYBa2vQ28",
             "ts": "0:18:39",
+            "retrievedISO": "2026-10-16T15:48:00.188Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-29",
+          "text": "The county will also consider requests to change zoning on some properties to support housing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2ynYBa2vQ28",
+            "ts": "0:16:21",
             "retrievedISO": "2026-10-16T15:48:00.188Z"
           },
           "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
@@ -19279,7 +21346,19 @@
         },
         {
           "dateISO": "2026-07-29",
-          "text": "The MOU covers possible county purchase of land and water assets in West Maui and upcountry.",
+          "text": "The managing director said the goal is long-term water care in the face of climate change, drought and the need for more reliable systems.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2ynYBa2vQ28",
+            "ts": "0:08:27",
+            "retrievedISO": "2026-10-16T15:48:00.188Z"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-29",
+          "text": "The county is in early talks to possibly buy Maui Land and Pineapple Company water assets in West Maui and upcountry.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
@@ -20271,6 +22350,30 @@
         },
         {
           "dateISO": "2026-08-04",
+          "text": "The case is set for trial on September 14, 2026.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "j0NxyxCiC5E",
+            "ts": "0:37:49",
+            "retrievedISO": "2026-10-16T15:24:37.953Z"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        },
+        {
+          "dateISO": "2026-08-04",
+          "text": "A caller asked for a recorded message every 15 minutes or so during executive session for phone listeners.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "j0NxyxCiC5E",
+            "ts": "0:25:07",
+            "retrievedISO": "2026-10-16T15:24:37.953Z"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        },
+        {
+          "dateISO": "2026-08-04",
           "text": "A county attorney said mediation (talks led by a neutral person) is set for August 10, 2026, at 9 a.m.",
           "basis": "said-at-meeting",
           "source": {
@@ -20283,7 +22386,31 @@
         },
         {
           "dateISO": "2026-08-04",
-          "text": "A county attorney said trial may be set for February to April next year.",
+          "text": "Motion to enter executive session on Resolution 26-128: Members voted to go into executive session on Resolution 26-128.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "j0NxyxCiC5E",
+            "ts": "0:16:07",
+            "retrievedISO": "2026-10-16T15:24:37.953Z"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        },
+        {
+          "dateISO": "2026-08-04",
+          "text": "One caller testified, saying, “I'm on the seabird side.”",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "j0NxyxCiC5E",
+            "ts": "0:11:15",
+            "retrievedISO": "2026-10-16T15:24:37.953Z"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        },
+        {
+          "dateISO": "2026-08-04",
+          "text": "In the seabird case, a trial setting conference with the judge is expected, with trial likely in February, March or as late as April next year.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
@@ -21019,12 +23146,48 @@
       "timeline": [
         {
           "dateISO": "2026-08-18",
+          "text": "The chair deferred the disaster recovery item.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ZI16NC6wq_w",
+            "ts": "1:38:37",
+            "retrievedISO": "2026-10-16T06:42:24.117Z"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-08-18",
+          "text": "Staff said the funding for multifamily rebuilds requires them to give fire survivors priority to move back.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ZI16NC6wq_w",
+            "ts": "1:24:53",
+            "retrievedISO": "2026-10-16T06:42:24.117Z"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-08-18",
           "text": "Staff said 577 housing units are completed, 400 are under construction and 597 are in progress.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
             "videoId": "ZI16NC6wq_w",
             "ts": "1:21:36",
+            "retrievedISO": "2026-10-16T06:42:24.117Z"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-08-18",
+          "text": "Staff said 83 shopping letters have been issued in the first-time homebuyer program.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ZI16NC6wq_w",
+            "ts": "1:01:28",
             "retrievedISO": "2026-10-16T06:42:24.117Z"
           },
           "body": "County Council Budget, Finance, and Economic Development Committee"
@@ -21055,12 +23218,36 @@
         },
         {
           "dateISO": "2026-08-18",
+          "text": "Staff said the county deals directly with the federal government on these funds, with no state in the middle.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ZI16NC6wq_w",
+            "ts": "0:25:24",
+            "retrievedISO": "2026-10-16T06:42:24.117Z"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-08-18",
           "text": "Staff said $1.39 billion of the $1.6 billion has been obligated, meaning set aside for programs.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
             "videoId": "ZI16NC6wq_w",
             "ts": "0:24:00",
+            "retrievedISO": "2026-10-16T06:42:24.117Z"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-08-18",
+          "text": "Staff said the funds are geared primarily toward helping housing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ZI16NC6wq_w",
+            "ts": "0:23:35",
             "retrievedISO": "2026-10-16T06:42:24.117Z"
           },
           "body": "County Council Budget, Finance, and Economic Development Committee"
@@ -21359,6 +23546,30 @@
       "timeline": [
         {
           "dateISO": "2026-07-27",
+          "text": "Update on storm impacts on Maui County parks: The chair asked for objections to deferring the parks storm update; the captions do not record a reply.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bNJZc33FonA",
+            "ts": "2:07:15",
+            "retrievedISO": "2026-10-16T17:05:01.192Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-07-27",
+          "text": "Parks said tree removal so far has been paid from its general fund budget.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bNJZc33FonA",
+            "ts": "2:01:16",
+            "retrievedISO": "2026-10-16T17:05:01.192Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-07-27",
           "text": "Repair costs may be repaid six to nine months after full invoices go to FEMA.",
           "basis": "said-at-meeting",
           "source": {
@@ -21425,6 +23636,30 @@
             "type": "meeting",
             "videoId": "bNJZc33FonA",
             "ts": "1:38:44",
+            "retrievedISO": "2026-10-16T17:05:01.192Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-07-27",
+          "text": "The department said FEMA leaving parks out of its categories of work affects financial recovery.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bNJZc33FonA",
+            "ts": "1:38:35",
+            "retrievedISO": "2026-10-16T17:05:01.192Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-07-27",
+          "text": "Repairing a golf course driving range is estimated to cost $657,000.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bNJZc33FonA",
+            "ts": "1:36:55",
             "retrievedISO": "2026-10-16T17:05:01.192Z"
           },
           "body": "County Council Water Authority, Social Services, and Parks Committee"
@@ -21710,12 +23945,96 @@
         },
         {
           "dateISO": "2026-08-31",
-          "text": "A councilmember asked for language letting credits be adjusted if the wells produce more or less than estimated.",
+          "text": "The amendment passed with seven ayes and zero noes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "x1bWmSajuIM",
+            "ts": "0:58:05",
+            "retrievedISO": "2026-10-16T12:27:11.063Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "A member read that the three wells could produce about 2,592,000 gallons per day with 24-hour pumping.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "x1bWmSajuIM",
+            "ts": "0:56:25",
+            "retrievedISO": "2026-10-16T12:27:11.063Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "A five-minute recess was requested to address that question.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "GKaaaoFG2qs",
+            "ts": "0:56:01",
+            "retrievedISO": "2026-10-16T05:42:11.235Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "A five-minute recess was requested to address adding credit-adjustment language to the agreement.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "GKaaaoFG2qs",
+            "ts": "0:55:50",
+            "retrievedISO": "2026-10-16T05:42:11.235Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "A five-minute recess was requested to address adding language to adjust credits if well output differs from estimates.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
             "videoId": "GKaaaoFG2qs",
             "ts": "0:55:37",
+            "retrievedISO": "2026-10-16T05:42:11.235Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "Department of Hawaiian Home Lands (DHHL) said an existing USGS well next to the proposed wells gives relevant water test samples.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "GKaaaoFG2qs",
+            "ts": "0:44:19",
+            "retrievedISO": "2026-10-16T05:42:11.235Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "If chloride levels in the wells are high, the water would be treated with reverse osmosis.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "GKaaaoFG2qs",
+            "ts": "0:43:32",
+            "retrievedISO": "2026-10-16T05:42:11.235Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "Department of Hawaiian Home Lands (DHHL) said it would later share what percentage of the 9,000 on its wait list are from Maui.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "GKaaaoFG2qs",
+            "ts": "0:39:22",
             "retrievedISO": "2026-10-16T05:42:11.235Z"
           },
           "body": "County Council Water and Infrastructure Committee"
@@ -21740,6 +24059,54 @@
             "type": "meeting",
             "videoId": "GKaaaoFG2qs",
             "ts": "0:36:05",
+            "retrievedISO": "2026-10-16T05:42:11.235Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "If chloride (salt) levels are high, reverse osmosis treatment would be used.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "x1bWmSajuIM",
+            "ts": "0:35:42",
+            "retrievedISO": "2026-10-16T12:27:11.063Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "Department of Hawaiian Home Lands (DHHL) said it would provide a breakdown of its wait list at a later date.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "x1bWmSajuIM",
+            "ts": "0:31:32",
+            "retrievedISO": "2026-10-16T12:27:11.063Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "Department of Hawaiian Home Lands (DHHL) said it formed a working group to get community feedback on the agreement.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "GKaaaoFG2qs",
+            "ts": "0:21:53",
+            "retrievedISO": "2026-10-16T05:42:11.235Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "Department of Hawaiian Home Lands (DHHL) said the longer it waits to build homes, the more expensive they become for beneficiaries.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "GKaaaoFG2qs",
+            "ts": "0:20:56",
             "retrievedISO": "2026-10-16T05:42:11.235Z"
           },
           "body": "County Council Water and Infrastructure Committee"
@@ -21777,6 +24144,18 @@
             "videoId": "2oq6VqJ13h4",
             "ts": "0:18:22",
             "retrievedISO": "2026-10-16T05:43:53.105Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "Department of Hawaiian Home Lands (DHHL) said many people on its wait list pass away before receiving a home.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "GKaaaoFG2qs",
+            "ts": "0:17:52",
+            "retrievedISO": "2026-10-16T05:42:11.235Z"
           },
           "body": "County Council Water and Infrastructure Committee"
         },
@@ -21849,6 +24228,90 @@
             "videoId": "2oq6VqJ13h4",
             "ts": "0:12:38",
             "retrievedISO": "2026-10-16T05:43:53.105Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "Department of Hawaiian Home Lands (DHHL) said it lacks the transmission lines and capacity to run its own water system.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "x1bWmSajuIM",
+            "ts": "0:12:01",
+            "retrievedISO": "2026-10-16T12:27:11.063Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "Under the draft agreement, Department of Hawaiian Home Lands (DHHL) would receive all of the wells' estimated 1.728 million gallons of water per day.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "x1bWmSajuIM",
+            "ts": "0:11:37",
+            "retrievedISO": "2026-10-16T12:27:11.063Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "Department of Hawaiian Home Lands (DHHL) said advance water credits would cover 39.5% of its development needs right away.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "x1bWmSajuIM",
+            "ts": "0:10:59",
+            "retrievedISO": "2026-10-16T12:27:11.063Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "Department of Hawaiian Home Lands (DHHL) says the new wells would support over a thousand homestead lots for Native Hawaiian families.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "x1bWmSajuIM",
+            "ts": "0:10:32",
+            "retrievedISO": "2026-10-16T12:27:11.063Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "Department of Hawaiian Home Lands (DHHL) said its residential wait list is almost 4,000 people.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "x1bWmSajuIM",
+            "ts": "0:09:45",
+            "retrievedISO": "2026-10-16T12:27:11.063Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "The water deputy director said the deal helps Department of Hawaiian Home Lands (DHHL) get its beneficiaries housing quicker.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "x1bWmSajuIM",
+            "ts": "0:07:09",
+            "retrievedISO": "2026-10-16T12:27:11.063Z"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "Department of Hawaiian Home Lands (DHHL) would plan, design, build and get approvals and funding for the wells.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "x1bWmSajuIM",
+            "ts": "0:06:12",
+            "retrievedISO": "2026-10-16T12:27:11.063Z"
           },
           "body": "County Council Water and Infrastructure Committee"
         }
@@ -22396,6 +24859,102 @@
       "timeline": [
         {
           "dateISO": "2026-08-31",
+          "text": "The committee deferred the item without objection.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iWO4pTUu848",
+            "ts": "1:59:52",
+            "retrievedISO": "2026-10-16T11:06:52.616Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "Council members are to contact the study team to schedule meetings about sites in their districts.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iWO4pTUu848",
+            "ts": "1:58:56",
+            "retrievedISO": "2026-10-16T11:06:52.616Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "The study team said it will post its screening schedule on its website.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iWO4pTUu848",
+            "ts": "1:47:22",
+            "retrievedISO": "2026-10-16T11:06:52.616Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "Presenters said County parks have not let them hold screenings because they collect blood.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iWO4pTUu848",
+            "ts": "1:26:01",
+            "retrievedISO": "2026-10-16T11:06:52.616Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "A researcher said they may contact council members to identify spaces in each district for screenings and support.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fVsUFhO9fb4",
+            "ts": "1:03:57",
+            "retrievedISO": "2026-10-16T05:46:14.583Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "At a recent event, the team saw 100 people, and more than 30 had food insecurity and were referred to resources.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iWO4pTUu848",
+            "ts": "1:00:03",
+            "retrievedISO": "2026-10-16T11:06:52.616Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "Council members are to reach out to the team by email to schedule follow-up meetings.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "LH2oI6gfdB0",
+            "ts": "0:49:07",
+            "retrievedISO": "2026-10-16T06:07:45.277Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "Researchers said they will share an upcoming paper on lung function differences across Maui with the committee once it is released.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fVsUFhO9fb4",
+            "ts": "0:48:06",
+            "retrievedISO": "2026-10-16T05:46:14.583Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
           "text": "A researcher said the share of participants with poor lung function rose about 5%, for reasons not yet known.",
           "basis": "said-at-meeting",
           "source": {
@@ -22403,6 +24962,54 @@
             "videoId": "fVsUFhO9fb4",
             "ts": "0:47:26",
             "retrievedISO": "2026-10-16T05:46:14.583Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "Presenters said the study stopped in June for a couple of months because it had no funding.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iWO4pTUu848",
+            "ts": "0:42:57",
+            "retrievedISO": "2026-10-16T11:06:52.616Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "The team asked past participants who have not been contacted to email or call them.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "LH2oI6gfdB0",
+            "ts": "0:40:47",
+            "retrievedISO": "2026-10-16T06:07:45.277Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "The team said about 200 past participants cannot be reached by email or phone.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "LH2oI6gfdB0",
+            "ts": "0:40:35",
+            "retrievedISO": "2026-10-16T06:07:45.277Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "The team works Tuesdays and Thursdays at the Lahaina Comprehensive Health Center and Mondays and Fridays at the Wailuku health office.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "LH2oI6gfdB0",
+            "ts": "0:37:42",
+            "retrievedISO": "2026-10-16T06:07:45.277Z"
           },
           "body": "County Council Water Authority, Social Services, and Parks Committee"
         },
@@ -22444,12 +25051,36 @@
         },
         {
           "dateISO": "2026-08-31",
+          "text": "Presenters asked council members to help find community spaces for free health screenings under a new program called Hoʻala.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iWO4pTUu848",
+            "ts": "0:25:43",
+            "retrievedISO": "2026-10-16T11:06:52.616Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
           "text": "About 23% of participants remain severely food insecure, which researchers said is unchanged.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
             "videoId": "fVsUFhO9fb4",
             "ts": "0:25:03",
+            "retrievedISO": "2026-10-16T05:46:14.583Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "Food hardship among participants improved from about 49.8% to 44.9%.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fVsUFhO9fb4",
+            "ts": "0:24:55",
             "retrievedISO": "2026-10-16T05:46:14.583Z"
           },
           "body": "County Council Water Authority, Social Services, and Parks Committee"
@@ -22463,6 +25094,18 @@
             "videoId": "fVsUFhO9fb4",
             "ts": "0:23:06",
             "retrievedISO": "2026-10-16T05:46:14.583Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "The team said a Kaiser Permanente charity insurance program lowered the uninsured rate from 40% to 20%.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "LH2oI6gfdB0",
+            "ts": "0:22:47",
+            "retrievedISO": "2026-10-16T06:07:45.277Z"
           },
           "body": "County Council Water Authority, Social Services, and Parks Committee"
         },
@@ -22486,6 +25129,54 @@
             "type": "meeting",
             "videoId": "fVsUFhO9fb4",
             "ts": "0:21:00",
+            "retrievedISO": "2026-10-16T05:46:14.583Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "Strong social support fell from about 60% to about 50% of people.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iWO4pTUu848",
+            "ts": "0:20:03",
+            "retrievedISO": "2026-10-16T11:06:52.616Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "Researchers said recovery means making sure people are not only screened but connected to care.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fVsUFhO9fb4",
+            "ts": "0:18:30",
+            "retrievedISO": "2026-10-16T05:46:14.583Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "The study said housing uncertainty can make it harder to sleep, manage stress, get to appointments and keep children in school.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fVsUFhO9fb4",
+            "ts": "0:16:59",
+            "retrievedISO": "2026-10-16T05:46:14.583Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "The study said many survivors are still living in temporary housing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fVsUFhO9fb4",
+            "ts": "0:16:53",
             "retrievedISO": "2026-10-16T05:46:14.583Z"
           },
           "body": "County Council Water Authority, Social Services, and Parks Committee"
@@ -22516,6 +25207,54 @@
         },
         {
           "dateISO": "2026-08-31",
+          "text": "The study said food insecurity affects stress, blood pressure, mental health and family well-being.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fVsUFhO9fb4",
+            "ts": "0:16:14",
+            "retrievedISO": "2026-10-16T05:46:14.583Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "The study said many families are still stretching meals and worrying about groceries.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fVsUFhO9fb4",
+            "ts": "0:16:06",
+            "retrievedISO": "2026-10-16T05:46:14.583Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "A wildfire health study found food insecurity improved slightly but remains high.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fVsUFhO9fb4",
+            "ts": "0:15:48",
+            "retrievedISO": "2026-10-16T05:46:14.583Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "The committee returned from a break for a second round of questions to a health study team.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "LH2oI6gfdB0",
+            "ts": "0:14:21",
+            "retrievedISO": "2026-10-16T06:07:45.277Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
           "text": "Researchers said recovery is underway but uneven.",
           "basis": "said-at-meeting",
           "source": {
@@ -22535,6 +25274,78 @@
             "videoId": "fVsUFhO9fb4",
             "ts": "0:11:47",
             "retrievedISO": "2026-10-16T05:46:14.583Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "Presenters said housing uncertainty affects health, including sleep, stress and getting to appointments.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iWO4pTUu848",
+            "ts": "0:10:45",
+            "retrievedISO": "2026-10-16T11:06:52.616Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "The share of adults in temporary housing fell from about four in ten to about three in ten.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iWO4pTUu848",
+            "ts": "0:10:33",
+            "retrievedISO": "2026-10-16T11:06:52.616Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "Presenters said food insecurity affects more than hunger, including stress.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iWO4pTUu848",
+            "ts": "0:10:03",
+            "retrievedISO": "2026-10-16T11:06:52.616Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "Presenters said gains in jobs, insurance and housing have not yet led to full physical and mental health recovery.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iWO4pTUu848",
+            "ts": "0:07:35",
+            "retrievedISO": "2026-10-16T11:06:52.616Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "The study, called Maui West, released a new report on July 27, 2026.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iWO4pTUu848",
+            "ts": "0:06:08",
+            "retrievedISO": "2026-10-16T11:06:52.616Z"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "The committee's only item was the Maui Wildfire Exposure Cohort Study.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iWO4pTUu848",
+            "ts": "0:05:32",
+            "retrievedISO": "2026-10-16T11:06:52.616Z"
           },
           "body": "County Council Water Authority, Social Services, and Parks Committee"
         }
@@ -22599,7 +25410,40 @@
         },
         {
           "dateISO": "2026-07-21",
-          "text": "Fire survivors were invited to attend the conference for free.",
+          "text": "The chair said video from the women's conference will be shared at or before the August meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ci_wpSc8AlI",
+            "ts": "0:45:35",
+            "retrievedISO": "2026-10-13T06:35:10.688Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-21",
+          "text": "The vice chair opened day two of the conference with a disaster preparedness presentation for the Maui Emergency Management Agency.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ci_wpSc8AlI",
+            "ts": "0:43:47",
+            "retrievedISO": "2026-10-13T06:35:10.688Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-21",
+          "text": "The chair said inviting fire survivors helped with their healing and gathered their responses.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ci_wpSc8AlI",
+            "ts": "0:43:11",
+            "retrievedISO": "2026-10-13T06:35:10.688Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-21",
+          "text": "Fire survivors were invited to the committee's women's conference for free.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
