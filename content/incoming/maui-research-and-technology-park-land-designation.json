@@ -1,0 +1,66 @@
+{
+  "slug": "maui-research-and-technology-park-land-designation",
+  "title": "Maui Research and Technology Park land designation",
+  "summary": "In December 2024 the planning director called a special purpose district designation absolutely inappropriate for the research park, and the commission rejected two motions to apply it. Zoning changes for the park were set for the Planning Commission's September 8, 2026 meeting.",
+  "topics": [
+    "land-use"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2024-12-10",
+  "lastSeenISO": "2026-08-25",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-20",
+  "timeline": [
+    {
+      "dateISO": "2026-08-25",
+      "text": "The September 8th meeting will include a council resolution and zoning changes for the Maui Research and Technology Park.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Anutl3CRkaQ",
+        "ts": "6:26:52",
+        "retrievedISO": "2026-10-09T06:35:11.734Z"
+      }
+    },
+    {
+      "dateISO": "2024-12-10",
+      "text": "The director said the department could talk with the research park's landowner if the commission takes up the map again later.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "nBW_aexDotM",
+        "ts": "1:29:10",
+        "retrievedISO": "2026-10-12T06:30:18.226Z"
+      }
+    },
+    {
+      "dateISO": "2024-12-10",
+      "text": "A second motion to designate the whole park special purpose district also failed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "nBW_aexDotM",
+        "ts": "1:23:53",
+        "retrievedISO": "2026-10-12T06:30:18.226Z"
+      }
+    },
+    {
+      "dateISO": "2024-12-10",
+      "text": "The planning director said special purpose district is absolutely inappropriate for the park.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "nBW_aexDotM",
+        "ts": "0:42:46",
+        "retrievedISO": "2026-10-12T06:30:18.226Z"
+      }
+    }
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

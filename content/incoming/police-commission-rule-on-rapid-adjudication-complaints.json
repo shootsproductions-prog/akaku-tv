@@ -1,0 +1,56 @@
+{
+  "slug": "police-commission-rule-on-rapid-adjudication-complaints",
+  "title": "Police Commission rule on rapid adjudication complaints",
+  "summary": "The Police Commission chair proposed a rule letting the commission skip complaints the department already settled through its rapid adjudication process. After an executive session, the commission deferred the rule change to its next meeting.",
+  "topics": [
+    "public-safety",
+    "government"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2026-05-27",
+  "lastSeenISO": "2026-05-27",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-20",
+  "timeline": [
+    {
+      "dateISO": "2026-05-27",
+      "text": "The rule change discussion will continue at the next meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7U6qV2DXCW8",
+        "ts": "1:39:24",
+        "retrievedISO": "2026-10-14T06:40:13.308Z"
+      }
+    },
+    {
+      "dateISO": "2026-05-27",
+      "text": "Item 7, changes to the rules of the police commission: The commission deferred the rule changes and will continue the discussion at its next meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7U6qV2DXCW8",
+        "ts": "1:39:16",
+        "retrievedISO": "2026-10-14T06:40:13.308Z"
+      }
+    },
+    {
+      "dateISO": "2026-05-27",
+      "text": "The chair proposed a rule letting the commission skip complaints the department already settled through its faster rapid adjudication process.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7U6qV2DXCW8",
+        "ts": "1:17:51",
+        "retrievedISO": "2026-10-14T06:40:13.308Z"
+      }
+    }
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

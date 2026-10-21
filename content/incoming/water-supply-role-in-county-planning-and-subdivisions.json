@@ -1,0 +1,83 @@
+{
+  "slug": "water-supply-role-in-county-planning-and-subdivisions",
+  "title": "Water supply role in county planning and subdivisions",
+  "summary": "On September 17, the board voted to ask the planning director to respond to its letter, with five ayes. It also voted unanimously to ask the planning and water supply directors to jointly attend a meeting and explain their roles in securing water supply for subdivision applications. The letter to the planning department on water supply in the planning process, with its problem statement and discussion questions, was approved unanimously on August 20.",
+  "topics": [
+    "water",
+    "land-use"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-07-16",
+  "lastSeenISO": "2026-09-17",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 2,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-20",
+  "timeline": [
+    {
+      "dateISO": "2026-09-17",
+      "text": "Motion to request the planning director and the water supply director jointly attend a board meeting: The board voted to ask the planning director and the water supply director to jointly attend a meeting to explain their roles in securing water supply for subdivision applications.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mJyIAre9As4",
+        "ts": "1:23:16",
+        "retrievedISO": "2026-10-07T23:03:55.224Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-09-17",
+      "text": "Motion to have the planning director respond to the board's letter: The board voted to ask the planning director to respond to the board's letter.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mJyIAre9As4",
+        "ts": "1:20:38",
+        "retrievedISO": "2026-10-07T23:03:55.224Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-08-20",
+      "text": "Attachments to the letter: problem statement and discussion questions: The board unanimously approved the problem statement and discussion questions attached to the letter.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UjHForbD6sQ",
+        "ts": "0:46:24",
+        "retrievedISO": "2026-10-07T23:26:10.862Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-08-20",
+      "text": "Draft letter to the planning department on considering the water supply in the county's planning process: The board unanimously approved the draft letter to the planning department.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UjHForbD6sQ",
+        "ts": "0:46:08",
+        "retrievedISO": "2026-10-07T23:26:10.862Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-07-16",
+      "text": "A board member asked to add an item on the need for a Department of Water Supply verification letter for subdivision development.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "zjBo8277OWs",
+        "ts": "0:34:36",
+        "retrievedISO": "2026-10-09T06:35:03.270Z"
+      },
+      "body": "Board of Water Supply"
+    }
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "nomination-board-role-in-corporation-counsel-selection",
+  "title": "Nomination board role in corporation counsel selection",
+  "summary": "Three Independent Nomination Board members serve on an investigative group on the corporation counsel selection, and one member was recused from that process on attorney advice. The group was ready while the prosecuting attorney group was not, with reports to the full board set for August.",
+  "topics": [
+    "government"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2026-07-13",
+  "lastSeenISO": "2026-07-13",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-20",
+  "timeline": [
+    {
+      "dateISO": "2026-07-13",
+      "text": "The corporation counsel group is ready; the prosecuting attorney group is not.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "DN-bXIWkS7E",
+        "ts": "0:32:45",
+        "retrievedISO": "2026-10-13T06:35:15.675Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-13",
+      "text": "The investigative groups will meet on their own and report back at the next meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "DN-bXIWkS7E",
+        "ts": "0:31:16",
+        "retrievedISO": "2026-10-13T06:35:15.675Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-13",
+      "text": "Recusal of a member from the corporation counsel process: After the closed session, the chair said one member was recused from the corporation counsel selection on attorney advice.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "DN-bXIWkS7E",
+        "ts": "0:19:29",
+        "retrievedISO": "2026-10-13T06:35:15.675Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-13",
+      "text": "That group's report to the full board is tentatively set for the August 12 or August 26 meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "DN-bXIWkS7E",
+        "ts": "0:13:09",
+        "retrievedISO": "2026-10-13T06:35:15.675Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-13",
+      "text": "Three members, including the chair, serve on the corporation counsel investigative group (a small fact-finding team).",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "DN-bXIWkS7E",
+        "ts": "0:12:35",
+        "retrievedISO": "2026-10-13T06:35:15.675Z"
+      }
+    }
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

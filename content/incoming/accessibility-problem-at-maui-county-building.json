@@ -1,0 +1,67 @@
+{
+  "slug": "accessibility-problem-at-maui-county-building",
+  "title": "Accessibility problem at Maui County Building",
+  "summary": "As of the September 10 meeting, the commission still has no response on an accessibility issue at the Maui County Building. The chair said they will personally contact public works and the management director, and will report back even though they will miss the next meeting.",
+  "topics": [
+    "government",
+    "health"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-09-10",
+  "lastSeenISO": "2026-09-10",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-20",
+  "timeline": [
+    {
+      "dateISO": "2026-09-10",
+      "text": "A commissioner said the county's ClickFix system has no category just for ADA (disability access) concerns.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "MSPMjwDvQuo",
+        "ts": "1:19:57",
+        "retrievedISO": "2026-10-07T23:03:56.874Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-10",
+      "text": "The chair said they will get back to the commission on the building issue even though they will miss the next meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "MSPMjwDvQuo",
+        "ts": "1:05:06",
+        "retrievedISO": "2026-10-07T23:03:56.874Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-10",
+      "text": "The chair will personally contact public works and the management director about it.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "MSPMjwDvQuo",
+        "ts": "1:02:22",
+        "retrievedISO": "2026-10-07T23:03:56.874Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-10",
+      "text": "The chair said the commission had no response yet on an accessibility issue at the Maui County Building.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "MSPMjwDvQuo",
+        "ts": "1:00:08",
+        "retrievedISO": "2026-10-07T23:03:56.874Z"
+      }
+    }
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

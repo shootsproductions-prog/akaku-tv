@@ -1,0 +1,44 @@
+{
+  "slug": "new-county-emergency-operations-center",
+  "title": "New county emergency operations center",
+  "summary": "In September 2026 Maui Emergency Management Agency (MEMA)'s administrator said the agency hoped its new emergency operations center would be running by October 1. The chair raised holding a future commission meeting there.",
+  "topics": [
+    "public-safety"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-09-17",
+  "lastSeenISO": "2026-09-17",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-20",
+  "timeline": [
+    {
+      "dateISO": "2026-09-17",
+      "text": "The chair raised holding a future commission meeting at the new emergency operations center.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fDPADbFyXaI",
+        "ts": "0:34:00",
+        "retrievedISO": "2026-10-07T23:03:52.575Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-17",
+      "text": "Maui Emergency Management Agency (MEMA)'s administrator said the agency hopes its new emergency operations center will be running by October 1st.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fDPADbFyXaI",
+        "ts": "0:18:35",
+        "retrievedISO": "2026-10-07T23:03:52.575Z"
+      }
+    }
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

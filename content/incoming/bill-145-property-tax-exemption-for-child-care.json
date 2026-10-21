@@ -1,0 +1,56 @@
+{
+  "slug": "bill-145-property-tax-exemption-for-child-care",
+  "title": "Bill 145 property tax exemption for child care",
+  "summary": "At the Commission on Children and Youth, a speaker raised Bill 145, a property tax exemption for child care providers that committees raised from $100,000 to $200,000. The chair asked commissioners to read the bill, and it was discussed at the next meeting.",
+  "topics": [
+    "economy",
+    "education"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2024-11-18",
+  "lastSeenISO": "2024-11-18",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-20",
+  "timeline": [
+    {
+      "dateISO": "2024-11-18",
+      "text": "The chair asked commissioners to read about Bill 145 and discuss it at the next meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ylzQrfRgg-g",
+        "ts": "0:41:17",
+        "retrievedISO": "2026-10-15T06:35:21.777Z"
+      }
+    },
+    {
+      "dateISO": "2024-11-18",
+      "text": "The speaker said committees raised the proposed exemption from $100,000 to $200,000.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ylzQrfRgg-g",
+        "ts": "0:39:20",
+        "retrievedISO": "2026-10-15T06:35:21.777Z"
+      }
+    },
+    {
+      "dateISO": "2024-11-18",
+      "text": "A speaker raised Bill 145, a property tax exemption for child care providers.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ylzQrfRgg-g",
+        "ts": "0:38:56",
+        "retrievedISO": "2026-10-15T06:35:21.777Z"
+      }
+    }
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

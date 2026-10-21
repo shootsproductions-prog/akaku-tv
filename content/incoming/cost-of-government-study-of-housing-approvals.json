@@ -1,0 +1,89 @@
+{
+  "slug": "cost-of-government-study-of-housing-approvals",
+  "title": "Cost of Government study of housing approvals",
+  "summary": "In August 2026 the Cost of Government Commission voted five to one to create a study group on housing policies and the approvals process. A commissioner said permits can take 300 to 400 days, and the commission's lawyer suggested studying all approvals, including subdivisions.",
+  "topics": [
+    "housing",
+    "government"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2026-08-13",
+  "lastSeenISO": "2026-08-13",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-20",
+  "timeline": [
+    {
+      "dateISO": "2026-08-13",
+      "text": "The motion to create the study group passed with five ayes and one nay.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mEoIJx_G1XQ",
+        "ts": "1:52:02",
+        "retrievedISO": "2026-10-12T06:30:06.096Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-13",
+      "text": "The commission voted five to one to create a Temporary Investigative Group (TIG) on housing policies and the approvals process.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mEoIJx_G1XQ",
+        "ts": "1:51:56",
+        "retrievedISO": "2026-10-12T06:30:06.096Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-13",
+      "text": "The commissioner wants a kickoff meeting with the mayor's office, the council and departments to find a contact person at each.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mEoIJx_G1XQ",
+        "ts": "1:48:36",
+        "retrievedISO": "2026-10-12T06:30:06.096Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-13",
+      "text": "The commission's lawyer suggested studying all approvals, not just permits, because things like subdivision approvals also matter.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mEoIJx_G1XQ",
+        "ts": "1:37:37",
+        "retrievedISO": "2026-10-12T06:30:06.096Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-13",
+      "text": "The commissioner said they had heard permits can take up to 300 to 400 days.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mEoIJx_G1XQ",
+        "ts": "1:30:22",
+        "retrievedISO": "2026-10-12T06:30:06.096Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-13",
+      "text": "A commissioner said the permitting process is a key part of building more housing, especially affordable and workforce housing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mEoIJx_G1XQ",
+        "ts": "1:27:55",
+        "retrievedISO": "2026-10-12T06:30:06.096Z"
+      }
+    }
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

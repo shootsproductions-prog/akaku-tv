@@ -1,0 +1,45 @@
+{
+  "slug": "disability-access-in-sma-permit-reviews",
+  "title": "Disability access in SMA permit reviews",
+  "summary": "Testifiers at the Commission on Persons with Disabilities said disability access is missing from planning checklists and asked for the checklist used for special management area permits. At the Planning Commission a testifier asked that wheelchair access standards be written into Special Management Area (SMA) rules.",
+  "topics": [
+    "land-use",
+    "health"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2026-07-14",
+  "lastSeenISO": "2026-08-13",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-20",
+  "timeline": [
+    {
+      "dateISO": "2026-08-13",
+      "text": "Another testifier asked the commission to request the checklist the Planning Department uses to review special management area permits.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "sY6AwUuHzjI",
+        "ts": "0:15:03",
+        "retrievedISO": "2026-10-12T06:30:07.228Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-14",
+      "text": "One testifier asked that wheelchair access standards be written into Special Management Area (SMA) rules.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Ail920zTE4c",
+        "ts": "3:25:37",
+        "retrievedISO": "2026-10-13T06:35:14.575Z"
+      }
+    }
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
