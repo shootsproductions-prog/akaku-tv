@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-21T06:26:09.488Z",
-  "count": 176,
+  "updatedAt": "2026-10-21T07:26:12.759Z",
+  "count": 177,
   "issues": [
     {
       "slug": "board-of-water-supply-opposes-bill-1",
@@ -9437,6 +9437,50 @@
         },
         {
           "dateISO": "2026-07-02",
+          "text": "Staff confirmed the owners' representative will get a letter outlining the motion.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "F1fUs_ROA_Q",
+            "ts": "3:17:27",
+            "retrievedISO": "2026-10-13T06:35:22.251Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-02",
+          "text": "The item returns to the commission no later than the September 3rd meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "F1fUs_ROA_Q",
+            "ts": "3:16:53",
+            "retrievedISO": "2026-10-13T06:35:22.251Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-02",
+          "text": "The commission voted five in favor to defer the item to no later than its September 3rd meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "F1fUs_ROA_Q",
+            "ts": "3:16:24",
+            "retrievedISO": "2026-10-13T06:35:22.251Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-02",
+          "text": "Their representative asked the commission to remove its earlier requests for a cultural impact study and burial council review.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "F1fUs_ROA_Q",
+            "ts": "2:13:21",
+            "retrievedISO": "2026-10-13T06:35:22.251Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-02",
           "text": "The owners have not heard back from the state historic preservation division.",
           "basis": "said-at-meeting",
           "source": {
@@ -9802,7 +9846,7 @@
       ],
       "status": "quiet",
       "pinned": false,
-      "firstSeenISO": "2026-08-13",
+      "firstSeenISO": "2026-07-09",
       "lastSeenISO": "2026-08-13",
       "signals": {
         "meetingsLast30d": 0,
@@ -9876,6 +9920,72 @@
             "videoId": "sY6AwUuHzjI",
             "ts": "1:29:30",
             "retrievedISO": "2026-10-12T06:30:07.228Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-09",
+          "text": "The commission tabled, or put off, a proposed housing development item until the next meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "4m34BcHhzUs",
+            "ts": "1:07:46",
+            "retrievedISO": "2026-10-13T06:35:17.645Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-09",
+          "text": "A commissioner said the site makes it hard for people with mobility issues to walk to town.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "4m34BcHhzUs",
+            "ts": "1:07:22",
+            "retrievedISO": "2026-10-13T06:35:17.645Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-09",
+          "text": "A commissioner said people living in the project's licensed homes and day program should have equal access to the wider community.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "4m34BcHhzUs",
+            "ts": "1:07:00",
+            "retrievedISO": "2026-10-13T06:35:17.645Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-09",
+          "text": "A commissioner said there was not enough information to act on the item at this meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "4m34BcHhzUs",
+            "ts": "1:06:25",
+            "retrievedISO": "2026-10-13T06:35:17.645Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-09",
+          "text": "A representative of the project offered to consult with the commission and give updates.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "4m34BcHhzUs",
+            "ts": "1:04:58",
+            "retrievedISO": "2026-10-13T06:35:17.645Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-09",
+          "text": "The commission is reviewing a proposed housing development that presented to it last month.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "4m34BcHhzUs",
+            "ts": "1:04:32",
+            "retrievedISO": "2026-10-13T06:35:17.645Z"
           }
         }
       ],
@@ -10473,7 +10583,7 @@
       "status": "quiet",
       "pinned": false,
       "firstSeenISO": "2024-11-25",
-      "lastSeenISO": "2024-11-25",
+      "lastSeenISO": "2024-12-11",
       "signals": {
         "meetingsLast30d": 0,
         "meetingsLast90d": 0,
@@ -10482,6 +10592,28 @@
       },
       "asOfISO": "2026-10-20",
       "timeline": [
+        {
+          "dateISO": "2024-12-11",
+          "text": "Closed-session item 4A(ii): The chair reported the board voted to decline review of another matter for lack of jurisdiction and refer it to another investigating body.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HRlW7Efgltc",
+            "ts": "0:33:08",
+            "retrievedISO": "2026-10-15T06:35:11.625Z"
+          }
+        },
+        {
+          "dateISO": "2024-12-11",
+          "text": "Closed-session item 4A(i): The chair reported the board voted to set one closed-session matter for an informal hearing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HRlW7Efgltc",
+            "ts": "0:32:59",
+            "retrievedISO": "2026-10-15T06:35:11.625Z"
+          }
+        },
         {
           "dateISO": "2024-11-25",
           "text": "Motion confirming the executive session decisions: In open session, the board voted to confirm the decisions reported from the closed session.",
@@ -10670,6 +10802,17 @@
             "type": "meeting",
             "videoId": "3ySjp_nHkPA",
             "ts": "0:15:02",
+            "retrievedISO": "2026-10-13T06:35:16.618Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-13",
+          "text": "A County agriculture official said CRB directly affects food security.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "3ySjp_nHkPA",
+            "ts": "0:11:12",
             "retrievedISO": "2026-10-13T06:35:16.618Z"
           }
         },
@@ -10961,6 +11104,17 @@
             "videoId": "Cqu5kcGNyBc",
             "ts": "0:48:04",
             "retrievedISO": "2026-10-07T23:04:01.841Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-14",
+          "text": "Council members will be told the focus group schedule once it is set.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2gk5j4-mY5U",
+            "ts": "1:33:00",
+            "retrievedISO": "2026-10-13T06:35:11.668Z"
           }
         },
         {
@@ -11275,6 +11429,17 @@
             "retrievedISO": "2026-10-16T07:24:07.396Z"
           },
           "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+        },
+        {
+          "dateISO": "2026-07-13",
+          "text": "Under the plan, organics processing sites are to use best practices to stop invasive species from spreading between regions.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "3ySjp_nHkPA",
+            "ts": "0:33:58",
+            "retrievedISO": "2026-10-13T06:35:16.618Z"
+          }
         },
         {
           "dateISO": "2026-07-13",
@@ -12408,7 +12573,7 @@
       "status": "quiet",
       "pinned": false,
       "firstSeenISO": "2024-11-25",
-      "lastSeenISO": "2024-11-25",
+      "lastSeenISO": "2026-07-08",
       "signals": {
         "meetingsLast30d": 0,
         "meetingsLast90d": 0,
@@ -12417,6 +12582,28 @@
       },
       "asOfISO": "2026-10-20",
       "timeline": [
+        {
+          "dateISO": "2026-07-08",
+          "text": "Motion to reconstitute the PIG on gift guidelines: The board formed a new working group to recommend updated gift guidelines for county departments and employees.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "YK2UGucRt-Q",
+            "ts": "0:35:33",
+            "retrievedISO": "2026-10-13T06:35:18.488Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-08",
+          "text": "Motion to dissolve the PIG on gifts established May 14, 2025: The board dissolved the gift guidelines working group it set up in May 2025.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "YK2UGucRt-Q",
+            "ts": "0:34:26",
+            "retrievedISO": "2026-10-13T06:35:18.488Z"
+          }
+        },
         {
           "dateISO": "2024-11-25",
           "text": "Motion to form a small working group on the gift guide: The board voted to form a small working group to review its gift guide and suggest changes to gift laws.",
@@ -12701,12 +12888,45 @@
         },
         {
           "dateISO": "2024-11-21",
+          "text": "The chair said the recommendations address concerns that keep faith-based groups from getting involved.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Q68bJ_NdJxU",
+            "ts": "0:25:59",
+            "retrievedISO": "2026-10-15T06:35:16.487Z"
+          }
+        },
+        {
+          "dateISO": "2024-11-21",
+          "text": "A commission working group made recommendations on how the County can better address homelessness.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Q68bJ_NdJxU",
+            "ts": "0:25:51",
+            "retrievedISO": "2026-10-15T06:35:16.487Z"
+          }
+        },
+        {
+          "dateISO": "2024-11-21",
           "text": "Another asks the mayor to direct all County departments to include the commission in homelessness programs and policies.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
             "videoId": "Q68bJ_NdJxU",
             "ts": "0:21:26",
+            "retrievedISO": "2026-10-15T06:35:16.487Z"
+          }
+        },
+        {
+          "dateISO": "2024-11-21",
+          "text": "Churches told the working group that government was hard to reach or confusing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Q68bJ_NdJxU",
+            "ts": "0:18:14",
             "retrievedISO": "2026-10-15T06:35:16.487Z"
           }
         },
@@ -12729,6 +12949,17 @@
             "type": "meeting",
             "videoId": "Q68bJ_NdJxU",
             "ts": "0:10:53",
+            "retrievedISO": "2026-10-15T06:35:16.487Z"
+          }
+        },
+        {
+          "dateISO": "2024-11-21",
+          "text": "Motion to amend the agenda to move the working group presentation up to item 2: Members approved moving the working group's presentation earlier in the agenda by voice vote.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Q68bJ_NdJxU",
+            "ts": "0:09:04",
             "retrievedISO": "2026-10-15T06:35:16.487Z"
           }
         }
@@ -12787,6 +13018,17 @@
             "type": "meeting",
             "videoId": "Waw25HcUMYM",
             "ts": "0:50:06",
+            "retrievedISO": "2026-10-15T06:35:15.349Z"
+          }
+        },
+        {
+          "dateISO": "2024-11-25",
+          "text": "A presenter said the federal aid urban boundary is different from the County's urban boundary.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Waw25HcUMYM",
+            "ts": "0:49:34",
             "retrievedISO": "2026-10-15T06:35:15.349Z"
           }
         },
@@ -12964,7 +13206,7 @@
       ],
       "status": "quiet",
       "pinned": false,
-      "firstSeenISO": "2026-08-08",
+      "firstSeenISO": "2026-06-04",
       "lastSeenISO": "2026-08-08",
       "signals": {
         "meetingsLast30d": 0,
@@ -13115,6 +13357,116 @@
             "videoId": "q2U39bwG0tM",
             "ts": "0:00:00",
             "retrievedISO": "2026-10-12T06:30:12.014Z"
+          }
+        },
+        {
+          "dateISO": "2026-06-04",
+          "text": "The liquor director asked that the checks be called minor decoy operations, not stings.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "r2leKy7OYMY",
+            "ts": "1:05:27",
+            "retrievedISO": "2026-10-14T06:40:11.237Z"
+          }
+        },
+        {
+          "dateISO": "2026-06-04",
+          "text": "The board voted unanimously to fine the restaurant $1,000 on each of two counts, with $250 suspended.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "r2leKy7OYMY",
+            "ts": "1:04:21",
+            "retrievedISO": "2026-10-14T06:40:11.237Z"
+          }
+        },
+        {
+          "dateISO": "2026-06-04",
+          "text": "The cafe will be told when its payment is due.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "r2leKy7OYMY",
+            "ts": "0:47:54",
+            "retrievedISO": "2026-10-14T06:40:11.237Z"
+          }
+        },
+        {
+          "dateISO": "2026-06-04",
+          "text": "The prosecutor said a cafe worker checked a decoy's ID and still served her a cocktail.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "r2leKy7OYMY",
+            "ts": "0:33:31",
+            "retrievedISO": "2026-10-14T06:40:11.237Z"
+          }
+        },
+        {
+          "dateISO": "2026-06-04",
+          "text": "A surf cafe and lounge pleaded no contest to three counts.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "r2leKy7OYMY",
+            "ts": "0:31:59",
+            "retrievedISO": "2026-10-14T06:40:11.237Z"
+          }
+        },
+        {
+          "dateISO": "2026-06-04",
+          "text": "A motion for full $1,000 fines on both counts failed, three votes to two.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "r2leKy7OYMY",
+            "ts": "0:25:48",
+            "retrievedISO": "2026-10-14T06:40:11.237Z"
+          }
+        },
+        {
+          "dateISO": "2026-06-04",
+          "text": "A motion to suspend part of one fine failed with two no votes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "r2leKy7OYMY",
+            "ts": "0:22:30",
+            "retrievedISO": "2026-10-14T06:40:11.237Z"
+          }
+        },
+        {
+          "dateISO": "2026-06-04",
+          "text": "The prosecutor said a bartender there served a cocktail to an underage decoy from the liquor department.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "r2leKy7OYMY",
+            "ts": "0:11:01",
+            "retrievedISO": "2026-10-14T06:40:11.237Z"
+          }
+        },
+        {
+          "dateISO": "2026-06-04",
+          "text": "The board postponed a case against a brewing company, likely to July or August.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "r2leKy7OYMY",
+            "ts": "0:06:16",
+            "retrievedISO": "2026-10-14T06:40:11.237Z"
+          }
+        },
+        {
+          "dateISO": "2026-06-04",
+          "text": "The chair said the brewing company case would be squeezed in in July or set in August.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "r2leKy7OYMY",
+            "ts": "0:05:43",
+            "retrievedISO": "2026-10-14T06:40:11.237Z"
           }
         }
       ],
@@ -13387,7 +13739,7 @@
       ],
       "status": "quiet",
       "pinned": false,
-      "firstSeenISO": "2026-07-16",
+      "firstSeenISO": "2026-05-21",
       "lastSeenISO": "2026-08-05",
       "signals": {
         "meetingsLast30d": 0,
@@ -13505,6 +13857,28 @@
             "videoId": "so1BNvpx4nc",
             "ts": "1:50:36",
             "retrievedISO": "2026-10-13T06:35:12.699Z"
+          }
+        },
+        {
+          "dateISO": "2026-05-21",
+          "text": "A fire department official said firefighter contract arbitration ended in early April but is still being finalized.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "R_MPvIqY5cU",
+            "ts": "0:27:22",
+            "retrievedISO": "2026-10-15T06:35:03.361Z"
+          }
+        },
+        {
+          "dateISO": "2026-05-21",
+          "text": "A union representative testified that Maui Fire Department pay is under the 40th percentile when cost-of-living changes are added.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "R_MPvIqY5cU",
+            "ts": "0:23:47",
+            "retrievedISO": "2026-10-15T06:35:03.361Z"
           }
         }
       ],
@@ -13627,6 +14001,17 @@
       "timeline": [
         {
           "dateISO": "2026-05-29",
+          "text": "The chair said reposting gives the public more time to review the items and prepare testimony.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mVuGcb3aGEI",
+            "ts": "0:22:43",
+            "retrievedISO": "2026-10-14T06:40:12.420Z"
+          }
+        },
+        {
+          "dateISO": "2026-05-29",
           "text": "Staff confirmed the next meeting is June 26.",
           "basis": "said-at-meeting",
           "source": {
@@ -13655,6 +14040,39 @@
             "type": "meeting",
             "videoId": "mVuGcb3aGEI",
             "ts": "0:21:43",
+            "retrievedISO": "2026-10-14T06:40:12.420Z"
+          }
+        },
+        {
+          "dateISO": "2026-05-29",
+          "text": "The lawyer said discussing items without voting would not change that.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mVuGcb3aGEI",
+            "ts": "0:19:41",
+            "retrievedISO": "2026-10-14T06:40:12.420Z"
+          }
+        },
+        {
+          "dateISO": "2026-05-29",
+          "text": "The lawyer said the safest option was to move the items to a future meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mVuGcb3aGEI",
+            "ts": "0:18:35",
+            "retrievedISO": "2026-10-14T06:40:12.420Z"
+          }
+        },
+        {
+          "dateISO": "2026-05-29",
+          "text": "A county lawyer said a problem with the agenda's meeting link might violate the Sunshine Law, a public meeting law.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mVuGcb3aGEI",
+            "ts": "0:17:11",
             "retrievedISO": "2026-10-14T06:40:12.420Z"
           }
         },
@@ -14220,6 +14638,17 @@
         },
         {
           "dateISO": "2026-07-02",
+          "text": "The highway presentation will be linked on the agenda.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "F1fUs_ROA_Q",
+            "ts": "4:18:50",
+            "retrievedISO": "2026-10-13T06:35:22.251Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-02",
           "text": "The planned highway route crosses 17 known archaeological sites.",
           "basis": "said-at-meeting",
           "source": {
@@ -14492,12 +14921,34 @@
         },
         {
           "dateISO": "2024-12-05",
+          "text": "Imua said it may use that water only between 7:30 and 9:30 in the morning.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "4DdgHUtoG58",
+            "ts": "1:19:45",
+            "retrievedISO": "2026-10-12T06:30:20.481Z"
+          }
+        },
+        {
+          "dateISO": "2024-12-05",
           "text": "Imua said the property has water rights of 4,800 gallons per week for irrigation.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
             "videoId": "4DdgHUtoG58",
             "ts": "1:19:24",
+            "retrievedISO": "2026-10-12T06:30:20.481Z"
+          }
+        },
+        {
+          "dateISO": "2024-12-05",
+          "text": "Imua's planner said the team is trying to set up another community meeting this month.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "4DdgHUtoG58",
+            "ts": "1:16:55",
             "retrievedISO": "2026-10-12T06:30:20.481Z"
           }
         },
@@ -14520,6 +14971,17 @@
             "type": "meeting",
             "videoId": "4DdgHUtoG58",
             "ts": "0:33:40",
+            "retrievedISO": "2026-10-12T06:30:20.481Z"
+          }
+        },
+        {
+          "dateISO": "2024-12-05",
+          "text": "He said he has a lawful, legal right to go to that valve.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "4DdgHUtoG58",
+            "ts": "0:16:03",
             "retrievedISO": "2026-10-12T06:30:20.481Z"
           }
         }
@@ -15050,7 +15512,7 @@
       ],
       "status": "active",
       "pinned": false,
-      "firstSeenISO": "2026-09-08",
+      "firstSeenISO": "2026-07-09",
       "lastSeenISO": "2026-09-08",
       "signals": {
         "meetingsLast30d": 0,
@@ -15113,6 +15575,17 @@
             "videoId": "Cqu5kcGNyBc",
             "ts": "1:08:19",
             "retrievedISO": "2026-10-07T23:04:01.841Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-09",
+          "text": "Staff reported helping a woman in her 80s who may have been a victim of contractor fraud.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "4m34BcHhzUs",
+            "ts": "1:15:10",
+            "retrievedISO": "2026-10-13T06:35:17.645Z"
           }
         }
       ],
@@ -15514,7 +15987,7 @@
       ],
       "status": "active",
       "pinned": false,
-      "firstSeenISO": "2026-08-19",
+      "firstSeenISO": "2026-05-20",
       "lastSeenISO": "2026-09-16",
       "signals": {
         "meetingsLast30d": 0,
@@ -15577,6 +16050,39 @@
             "videoId": "Z4fnObg2c0I",
             "ts": "1:04:47",
             "retrievedISO": "2026-10-12T06:30:03.060Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-15",
+          "text": "Staff will send the Special Management Area (SMA) minor permit rules to the mayor for his signature, which makes them official.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "YXklH_FH7zQ",
+            "ts": "1:37:55",
+            "retrievedISO": "2026-10-13T06:35:13.750Z"
+          }
+        },
+        {
+          "dateISO": "2026-05-20",
+          "text": "The planning department will bring any Special Management Area (SMA) minor permit to the commission even before the new rules are signed.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "gmpZbZbCHi4",
+            "ts": "2:32:40",
+            "retrievedISO": "2026-10-15T06:35:01.650Z"
+          }
+        },
+        {
+          "dateISO": "2026-05-20",
+          "text": "Staff said new rules letting the commission review Special Management Area (SMA) minor permits await the mayor's approval.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "gmpZbZbCHi4",
+            "ts": "2:32:05",
+            "retrievedISO": "2026-10-15T06:35:01.650Z"
           }
         }
       ],
@@ -16001,6 +16507,17 @@
       "timeline": [
         {
           "dateISO": "2024-12-11",
+          "text": "Staff will provide an updated consolidated review with everyone's comments.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "b_aRz1x3jDA",
+            "ts": "0:27:20",
+            "retrievedISO": "2026-10-15T06:35:10.705Z"
+          }
+        },
+        {
+          "dateISO": "2024-12-11",
           "text": "Defer finalizing the director's performance evaluation to January's agenda: The motion to defer the final director evaluation to January passed unanimously.",
           "basis": "said-at-meeting",
           "source": {
@@ -16165,6 +16682,17 @@
             "type": "meeting",
             "videoId": "un-2pzYnRtQ",
             "ts": "3:17:16",
+            "retrievedISO": "2026-10-13T06:35:19.455Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-08",
+          "text": "The director said a current rule requires separate men's and women's restrooms for customers.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "un-2pzYnRtQ",
+            "ts": "3:04:29",
             "retrievedISO": "2026-10-13T06:35:19.455Z"
           }
         },
@@ -16513,6 +17041,17 @@
         },
         {
           "dateISO": "2026-07-14",
+          "text": "Planning staff said they will revise condition 3 to reference the State's July 2 letter.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Ail920zTE4c",
+            "ts": "1:28:40",
+            "retrievedISO": "2026-10-13T06:35:14.575Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-14",
           "text": "State Parks will keep working with the fire department to fix tight spots in the parking lot.",
           "basis": "said-at-meeting",
           "source": {
@@ -16546,12 +17085,34 @@
         },
         {
           "dateISO": "2026-06-23",
+          "text": "The July 14 agenda includes Mākena State Park, an appeal, a decision for a solar project, and an introduction to rewriting the zoning code.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "FfcosWuFLCA",
+            "ts": "7:24:38",
+            "retrievedISO": "2026-10-14T06:40:06.726Z"
+          }
+        },
+        {
+          "dateISO": "2026-06-23",
           "text": "The commission voted six in favor to defer the permit to July 14 so the state can answer its questions.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
             "videoId": "FfcosWuFLCA",
             "ts": "7:19:44",
+            "retrievedISO": "2026-10-14T06:40:06.726Z"
+          }
+        },
+        {
+          "dateISO": "2026-06-23",
+          "text": "The state is to say whether it has an agreement to connect to a nearby resort's wastewater treatment plant.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "FfcosWuFLCA",
+            "ts": "7:17:08",
             "retrievedISO": "2026-10-14T06:40:06.726Z"
           }
         },
@@ -16623,12 +17184,45 @@
         },
         {
           "dateISO": "2026-06-23",
+          "text": "One testifier supported permanent restrooms, saying people now leave toilet paper in the bushes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "FfcosWuFLCA",
+            "ts": "2:31:05",
+            "retrievedISO": "2026-10-14T06:40:06.726Z"
+          }
+        },
+        {
+          "dateISO": "2026-06-23",
           "text": "A testifier said new showers and bathrooms raise water-use concerns while the island is under drought.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
             "videoId": "FfcosWuFLCA",
             "ts": "1:53:07",
+            "retrievedISO": "2026-10-14T06:40:06.726Z"
+          }
+        },
+        {
+          "dateISO": "2026-06-23",
+          "text": "The restroom wastewater tanks would hold 13,000 gallons at the north site and 7,000 gallons at the south site.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "FfcosWuFLCA",
+            "ts": "1:11:28",
+            "retrievedISO": "2026-10-14T06:40:06.726Z"
+          }
+        },
+        {
+          "dateISO": "2026-06-23",
+          "text": "Leach outdoor shower would drain through a swale to a grass drainage basin.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "FfcosWuFLCA",
+            "ts": "1:05:59",
             "retrievedISO": "2026-10-14T06:40:06.726Z"
           }
         },
@@ -16651,6 +17245,17 @@
             "type": "meeting",
             "videoId": "FfcosWuFLCA",
             "ts": "1:02:39",
+            "retrievedISO": "2026-10-14T06:40:06.726Z"
+          }
+        },
+        {
+          "dateISO": "2026-06-23",
+          "text": "Two new water service lines would connect to the existing 12-inch water line on the road.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "FfcosWuFLCA",
+            "ts": "1:02:28",
             "retrievedISO": "2026-10-14T06:40:06.726Z"
           }
         },
@@ -16693,7 +17298,7 @@
       "timeline": [
         {
           "dateISO": "2024-11-25",
-          "text": "The board approved the proposed changes with eight ayes.",
+          "text": "Executive director's proposed changes to the long-range transportation plan action plan: The board approved the executive director's proposed changes to the long-range transportation plan action plan.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
@@ -16721,6 +17326,17 @@
             "type": "meeting",
             "videoId": "Waw25HcUMYM",
             "ts": "0:27:33",
+            "retrievedISO": "2026-10-15T06:35:15.349Z"
+          }
+        },
+        {
+          "dateISO": "2024-11-25",
+          "text": "A draft plan is set to come to the board in February.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Waw25HcUMYM",
+            "ts": "0:27:01",
             "retrievedISO": "2026-10-15T06:35:15.349Z"
           }
         },
@@ -16754,6 +17370,28 @@
             "type": "meeting",
             "videoId": "Waw25HcUMYM",
             "ts": "0:16:18",
+            "retrievedISO": "2026-10-15T06:35:15.349Z"
+          }
+        },
+        {
+          "dateISO": "2024-11-25",
+          "text": "The prior director did not want a plan update that left out West Maui while no long-term recovery plan existed.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Waw25HcUMYM",
+            "ts": "0:15:07",
+            "retrievedISO": "2026-10-15T06:35:15.349Z"
+          }
+        },
+        {
+          "dateISO": "2024-11-25",
+          "text": "Staff said work on the new plan was complicated by the August wildfires last year.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Waw25HcUMYM",
+            "ts": "0:14:21",
             "retrievedISO": "2026-10-15T06:35:15.349Z"
           }
         },
@@ -17487,7 +18125,7 @@
       ],
       "status": "active",
       "pinned": false,
-      "firstSeenISO": "2026-09-17",
+      "firstSeenISO": "2026-05-21",
       "lastSeenISO": "2026-09-17",
       "signals": {
         "meetingsLast30d": 0,
@@ -17517,6 +18155,17 @@
             "videoId": "fDPADbFyXaI",
             "ts": "0:18:35",
             "retrievedISO": "2026-10-07T23:03:52.575Z"
+          }
+        },
+        {
+          "dateISO": "2026-05-21",
+          "text": "The emergency management agency said its move into the new Maui EOC (emergency operations center) was pushed from June to July 15.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "R_MPvIqY5cU",
+            "ts": "0:37:25",
+            "retrievedISO": "2026-10-15T06:35:03.361Z"
           }
         }
       ],
@@ -18215,6 +18864,39 @@
           }
         },
         {
+          "dateISO": "2026-05-27",
+          "text": "The deputy chief said the department will look for a space for the investigator separate from police.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "7U6qV2DXCW8",
+            "ts": "1:12:37",
+            "retrievedISO": "2026-10-14T06:40:13.308Z"
+          }
+        },
+        {
+          "dateISO": "2026-05-27",
+          "text": "A commissioner suggested an ethics opinion because the investigator will fall under the police department.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "7U6qV2DXCW8",
+            "ts": "1:07:58",
+            "retrievedISO": "2026-10-14T06:40:13.308Z"
+          }
+        },
+        {
+          "dateISO": "2026-05-27",
+          "text": "The commission has a list of 11 applicants for its new investigator position.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "7U6qV2DXCW8",
+            "ts": "1:04:50",
+            "retrievedISO": "2026-10-14T06:40:13.308Z"
+          }
+        },
+        {
           "dateISO": "2024-11-20",
           "text": "The deputy chief said the commission's investigator position is waiting on the mayor's office to move it onto the department's organization chart.",
           "basis": "said-at-meeting",
@@ -18270,6 +18952,17 @@
             "type": "meeting",
             "videoId": "7U6qV2DXCW8",
             "ts": "1:39:16",
+            "retrievedISO": "2026-10-14T06:40:13.308Z"
+          }
+        },
+        {
+          "dateISO": "2026-05-27",
+          "text": "Motion to continue discussion of rule changes in executive session: The commission voted by roll call to continue the rules discussion in executive session (a closed-door discussion).",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "7U6qV2DXCW8",
+            "ts": "1:25:20",
             "retrievedISO": "2026-10-14T06:40:13.308Z"
           }
         },
@@ -18896,7 +19589,7 @@
       "status": "quiet",
       "pinned": false,
       "firstSeenISO": "2024-11-26",
-      "lastSeenISO": "2024-11-26",
+      "lastSeenISO": "2024-12-11",
       "signals": {
         "meetingsLast30d": 0,
         "meetingsLast90d": 0,
@@ -18905,6 +19598,72 @@
       },
       "asOfISO": "2026-10-20",
       "timeline": [
+        {
+          "dateISO": "2024-12-11",
+          "text": "Ball five members raised their hands in favor.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HRlW7Efgltc",
+            "ts": "0:27:56",
+            "retrievedISO": "2026-10-15T06:35:11.625Z"
+          }
+        },
+        {
+          "dateISO": "2024-12-11",
+          "text": "A motion, as amended, said he may take part in the upcoming meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HRlW7Efgltc",
+            "ts": "0:26:55",
+            "retrievedISO": "2026-10-15T06:35:11.625Z"
+          }
+        },
+        {
+          "dateISO": "2024-12-11",
+          "text": "He said he has never been paid by the association.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HRlW7Efgltc",
+            "ts": "0:17:01",
+            "retrievedISO": "2026-10-15T06:35:11.625Z"
+          }
+        },
+        {
+          "dateISO": "2024-12-11",
+          "text": "He said he sat out the November 26 meeting out of caution.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HRlW7Efgltc",
+            "ts": "0:15:24",
+            "retrievedISO": "2026-10-15T06:35:11.625Z"
+          }
+        },
+        {
+          "dateISO": "2024-12-11",
+          "text": "He said a lawyer for other parties raised concern about his seat on a community association board.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HRlW7Efgltc",
+            "ts": "0:13:54",
+            "retrievedISO": "2026-10-15T06:35:11.625Z"
+          }
+        },
+        {
+          "dateISO": "2024-12-11",
+          "text": "A new Maui Planning Commission member asked if he may take part in a case before the commission.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HRlW7Efgltc",
+            "ts": "0:13:36",
+            "retrievedISO": "2026-10-15T06:35:11.625Z"
+          }
+        },
         {
           "dateISO": "2024-11-26",
           "text": "The case was deferred to January 28.",
@@ -19039,6 +19798,61 @@
             "videoId": "YXklH_FH7zQ",
             "ts": "0:20:10",
             "retrievedISO": "2026-10-13T06:35:13.750Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-14",
+          "text": "Staff said they will listen and consider whether the rewrite can do anything to address it.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Ail920zTE4c",
+            "ts": "3:03:02",
+            "retrievedISO": "2026-10-13T06:35:14.575Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-14",
+          "text": "Staff said water is assessed by other means in permit reviews.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Ail920zTE4c",
+            "ts": "3:02:54",
+            "retrievedISO": "2026-10-13T06:35:14.575Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-14",
+          "text": "Staff said water is not under the planning department's purview.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Ail920zTE4c",
+            "ts": "3:02:46",
+            "retrievedISO": "2026-10-13T06:35:14.575Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-14",
+          "text": "The testifier said there is a big gap between the county code titles on whether the water supply is sufficient.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Ail920zTE4c",
+            "ts": "2:59:56",
+            "retrievedISO": "2026-10-13T06:35:14.575Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-14",
+          "text": "A testifier said the zoning code rewrite does not address water supply.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Ail920zTE4c",
+            "ts": "2:57:57",
+            "retrievedISO": "2026-10-13T06:35:14.575Z"
           }
         },
         {
@@ -19307,7 +20121,7 @@
       ],
       "status": "quiet",
       "pinned": false,
-      "firstSeenISO": "2026-05-27",
+      "firstSeenISO": "2026-05-21",
       "lastSeenISO": "2026-07-01",
       "signals": {
         "meetingsLast30d": 0,
@@ -19370,6 +20184,39 @@
             "videoId": "7U6qV2DXCW8",
             "ts": "1:29:32",
             "retrievedISO": "2026-10-14T06:40:13.308Z"
+          }
+        },
+        {
+          "dateISO": "2026-05-21",
+          "text": "A speaker said the salary commission would likely make its decisions within the next three months.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "R_MPvIqY5cU",
+            "ts": "0:22:02",
+            "retrievedISO": "2026-10-15T06:35:03.361Z"
+          }
+        },
+        {
+          "dateISO": "2026-05-21",
+          "text": "The chair said the commission got most of what it had asked the salary commission for.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "R_MPvIqY5cU",
+            "ts": "0:20:43",
+            "retrievedISO": "2026-10-15T06:35:03.361Z"
+          }
+        },
+        {
+          "dateISO": "2026-05-21",
+          "text": "The chair said the commission sent a May 8 letter supporting a 3.5% salary structure adjustment for 2026.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "R_MPvIqY5cU",
+            "ts": "0:19:51",
+            "retrievedISO": "2026-10-15T06:35:03.361Z"
           }
         }
       ],
@@ -19497,6 +20344,17 @@
         },
         {
           "dateISO": "2024-12-10",
+          "text": "A commissioner proposed delaying a proposed industrial project outside the growth boundary.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "nBW_aexDotM",
+            "ts": "2:08:01",
+            "retrievedISO": "2026-10-12T06:30:18.226Z"
+          }
+        },
+        {
+          "dateISO": "2024-12-10",
           "text": "Open space designations for undeveloped parcels in the sea level rise exposure area: The commission flagged the open space designations for undeveloped parcels in the sea level rise area to revisit later.",
           "basis": "said-at-meeting",
           "source": {
@@ -19530,12 +20388,45 @@
         },
         {
           "dateISO": "2024-12-10",
+          "text": "Staff noted the sentence could go in the \"South Maui today\" part of Section 1.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "nBW_aexDotM",
+            "ts": "1:48:43",
+            "retrievedISO": "2026-10-12T06:30:18.226Z"
+          }
+        },
+        {
+          "dateISO": "2024-12-10",
           "text": "The director said the department is happy to put the housing paper's numbers into the plan.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
             "videoId": "nBW_aexDotM",
             "ts": "1:45:19",
+            "retrievedISO": "2026-10-12T06:30:18.226Z"
+          }
+        },
+        {
+          "dateISO": "2024-12-10",
+          "text": "Staff said counting every approved housing unit would mean reviewing every permit ever issued.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "nBW_aexDotM",
+            "ts": "1:42:22",
+            "retrievedISO": "2026-10-12T06:30:18.226Z"
+          }
+        },
+        {
+          "dateISO": "2024-12-10",
+          "text": "A commissioner said the high-end forecast of 1,700 homes puts in perspective how much more housing will be needed.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "nBW_aexDotM",
+            "ts": "1:40:39",
             "retrievedISO": "2026-10-12T06:30:18.226Z"
           }
         },
@@ -19551,6 +20442,39 @@
           }
         },
         {
+          "dateISO": "2024-12-10",
+          "text": "Staff said the housing need number covers the whole plan region and cannot be split by sub area.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "nBW_aexDotM",
+            "ts": "1:36:32",
+            "retrievedISO": "2026-10-12T06:30:18.226Z"
+          }
+        },
+        {
+          "dateISO": "2024-12-10",
+          "text": "The Maui Planning Commission met to review the South Maui Community Plan.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "nBW_aexDotM",
+            "ts": "0:00:40",
+            "retrievedISO": "2026-10-12T06:30:18.226Z"
+          }
+        },
+        {
+          "dateISO": "2024-11-26",
+          "text": "The next agenda is planned to cover sub-area 3 and its connected areas of change.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "lZr-bds8cyM",
+            "ts": "3:30:02",
+            "retrievedISO": "2026-10-12T06:30:25.220Z"
+          }
+        },
+        {
           "dateISO": "2024-11-26",
           "text": "The director said staff will work with the commission's legal adviser on a clearer process for growth boundary change requests.",
           "basis": "said-at-meeting",
@@ -19558,6 +20482,83 @@
             "type": "meeting",
             "videoId": "lZr-bds8cyM",
             "ts": "3:29:17",
+            "retrievedISO": "2026-10-12T06:30:25.220Z"
+          }
+        },
+        {
+          "dateISO": "2024-11-26",
+          "text": "A motion to change the requested parcel to industrial was withdrawn.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "lZr-bds8cyM",
+            "ts": "3:27:59",
+            "retrievedISO": "2026-10-12T06:30:25.220Z"
+          }
+        },
+        {
+          "dateISO": "2024-11-26",
+          "text": "Six commissioners voted for other policy changes for that area, with parks added.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "lZr-bds8cyM",
+            "ts": "3:04:19",
+            "retrievedISO": "2026-10-12T06:30:25.220Z"
+          }
+        },
+        {
+          "dateISO": "2024-11-26",
+          "text": "North Kīhei mauka stakeholder committee policy: Commissioners agreed to list lineal descendants first and remove the numbers from the stakeholder list.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "lZr-bds8cyM",
+            "ts": "2:42:44",
+            "retrievedISO": "2026-10-12T06:30:25.220Z"
+          }
+        },
+        {
+          "dateISO": "2024-11-26",
+          "text": "Staff were asked to flag the gulch policies, 2.4.5 A and B, for the commission to revisit.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "lZr-bds8cyM",
+            "ts": "2:24:42",
+            "retrievedISO": "2026-10-12T06:30:25.220Z"
+          }
+        },
+        {
+          "dateISO": "2024-11-26",
+          "text": "A commissioner said wider buffers absorb rainfall and runoff and reduce flooding and erosion.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "lZr-bds8cyM",
+            "ts": "2:10:04",
+            "retrievedISO": "2026-10-12T06:30:25.220Z"
+          }
+        },
+        {
+          "dateISO": "2024-11-26",
+          "text": "An attorney for a landowner proposed text calling for up to 80% residential and 20% commercial and industrial.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "lZr-bds8cyM",
+            "ts": "0:49:09",
+            "retrievedISO": "2026-10-12T06:30:25.220Z"
+          }
+        },
+        {
+          "dateISO": "2024-11-26",
+          "text": "A company representative asked the commission to change one parcel from agriculture to industrial.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "lZr-bds8cyM",
+            "ts": "0:43:57",
             "retrievedISO": "2026-10-12T06:30:25.220Z"
           }
         },
@@ -19580,6 +20581,28 @@
             "type": "meeting",
             "videoId": "lZr-bds8cyM",
             "ts": "0:19:20",
+            "retrievedISO": "2026-10-12T06:30:25.220Z"
+          }
+        },
+        {
+          "dateISO": "2024-11-26",
+          "text": "A resident said there are only two roads out of her area during emergencies.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "lZr-bds8cyM",
+            "ts": "0:11:37",
+            "retrievedISO": "2026-10-12T06:30:25.220Z"
+          }
+        },
+        {
+          "dateISO": "2024-11-26",
+          "text": "A resident asked the commission for a public hearing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "lZr-bds8cyM",
+            "ts": "0:10:14",
             "retrievedISO": "2026-10-12T06:30:25.220Z"
           }
         },
@@ -20234,6 +21257,17 @@
         },
         {
           "dateISO": "2026-07-01",
+          "text": "Staff said they will still share the final draft plan with members for review.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "85yeBesaw7k",
+            "ts": "1:07:18",
+            "retrievedISO": "2026-10-13T06:35:24.034Z"
+          }
+        },
+        {
+          "dateISO": "2026-07-01",
           "text": "State staff said they expect a final plan report by August.",
           "basis": "said-at-meeting",
           "source": {
@@ -20834,7 +21868,7 @@
       ],
       "status": "quiet",
       "pinned": false,
-      "firstSeenISO": "2026-08-19",
+      "firstSeenISO": "2026-05-20",
       "lastSeenISO": "2026-08-19",
       "signals": {
         "meetingsLast30d": 0,
@@ -20853,6 +21887,17 @@
             "videoId": "Z4fnObg2c0I",
             "ts": "1:09:13",
             "retrievedISO": "2026-10-12T06:30:03.060Z"
+          }
+        },
+        {
+          "dateISO": "2026-05-20",
+          "text": "The chair said that for terms ending in March 2027, the nominations board must get applications by December 31st.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "gmpZbZbCHi4",
+            "ts": "2:12:43",
+            "retrievedISO": "2026-10-15T06:35:01.650Z"
           }
         }
       ],
@@ -21085,6 +22130,39 @@
         },
         {
           "dateISO": "2024-12-10",
+          "text": "The applicant said 300 of the 400 affordable units are rentals and 100 are for sale.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "usMfKSJ6LlI",
+            "ts": "1:36:42",
+            "retrievedISO": "2026-10-15T06:35:12.934Z"
+          }
+        },
+        {
+          "dateISO": "2024-12-10",
+          "text": "A West Maui resident testified in support of the resolution.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "usMfKSJ6LlI",
+            "ts": "0:23:09",
+            "retrievedISO": "2026-10-15T06:35:12.934Z"
+          }
+        },
+        {
+          "dateISO": "2024-12-10",
+          "text": "A carpenters union representative testified against the request.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "usMfKSJ6LlI",
+            "ts": "0:18:47",
+            "retrievedISO": "2026-10-15T06:35:12.934Z"
+          }
+        },
+        {
+          "dateISO": "2024-12-10",
           "text": "The applicant said the project has two wells, a surface water agreement and a conditional will-serve letter.",
           "basis": "said-at-meeting",
           "source": {
@@ -21124,6 +22202,17 @@
             "type": "meeting",
             "videoId": "usMfKSJ6LlI",
             "ts": "0:09:40",
+            "retrievedISO": "2026-10-15T06:35:12.934Z"
+          }
+        },
+        {
+          "dateISO": "2024-12-10",
+          "text": "The applicant said it is working with the County phase by phase to make the project 100% affordable.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "usMfKSJ6LlI",
+            "ts": "0:09:23",
             "retrievedISO": "2026-10-15T06:35:12.934Z"
           }
         },
@@ -22036,6 +23125,54 @@
             "videoId": "9Qn8uXAUEl0",
             "ts": "0:37:41",
             "retrievedISO": "2026-10-12T06:30:17.159Z"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "bill-111-on-removing-belongings-from-public-places",
+      "title": "Bill 111 on removing belongings from public places",
+      "summary": "Bill 111 sets steps for relocating people from public places and storing their property, with 45 days' notice and 90 days' storage. In March 2025 a county lawyer reviewed the Davis v. Bissen decision, and the bill was deferred to return with amendments after the budget.",
+      "topics": [
+        "housing",
+        "public-safety"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2024-11-21",
+      "lastSeenISO": "2024-11-21",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-20",
+      "timeline": [
+        {
+          "dateISO": "2024-11-21",
+          "text": "The chair urged commissioners to watch a December 3 meeting and review the bill.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Q68bJ_NdJxU",
+            "ts": "1:37:10",
+            "retrievedISO": "2026-10-15T06:35:16.487Z"
+          }
+        },
+        {
+          "dateISO": "2024-11-21",
+          "text": "A testifier said people could not get back belongings taken in homeless sweeps.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Q68bJ_NdJxU",
+            "ts": "1:30:51",
+            "retrievedISO": "2026-10-15T06:35:16.487Z"
           }
         }
       ],

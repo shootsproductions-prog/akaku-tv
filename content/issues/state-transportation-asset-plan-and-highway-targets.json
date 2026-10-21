@@ -41,6 +41,17 @@
     },
     {
       "dateISO": "2026-07-01",
+      "text": "Staff said they will still share the final draft plan with members for review.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "85yeBesaw7k",
+        "ts": "1:07:18",
+        "retrievedISO": "2026-10-13T06:35:24.034Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-01",
       "text": "State staff said they expect a final plan report by August.",
       "basis": "said-at-meeting",
       "source": {

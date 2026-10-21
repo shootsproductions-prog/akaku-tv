@@ -8,7 +8,7 @@
   ],
   "status": "quiet",
   "pinned": false,
-  "firstSeenISO": "2026-08-08",
+  "firstSeenISO": "2026-06-04",
   "lastSeenISO": "2026-08-08",
   "signals": {
     "meetingsLast30d": 0,
@@ -159,6 +159,116 @@
         "videoId": "q2U39bwG0tM",
         "ts": "0:00:00",
         "retrievedISO": "2026-10-12T06:30:12.014Z"
+      }
+    },
+    {
+      "dateISO": "2026-06-04",
+      "text": "The liquor director asked that the checks be called minor decoy operations, not stings.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "r2leKy7OYMY",
+        "ts": "1:05:27",
+        "retrievedISO": "2026-10-14T06:40:11.237Z"
+      }
+    },
+    {
+      "dateISO": "2026-06-04",
+      "text": "The board voted unanimously to fine the restaurant $1,000 on each of two counts, with $250 suspended.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "r2leKy7OYMY",
+        "ts": "1:04:21",
+        "retrievedISO": "2026-10-14T06:40:11.237Z"
+      }
+    },
+    {
+      "dateISO": "2026-06-04",
+      "text": "The cafe will be told when its payment is due.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "r2leKy7OYMY",
+        "ts": "0:47:54",
+        "retrievedISO": "2026-10-14T06:40:11.237Z"
+      }
+    },
+    {
+      "dateISO": "2026-06-04",
+      "text": "The prosecutor said a cafe worker checked a decoy's ID and still served her a cocktail.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "r2leKy7OYMY",
+        "ts": "0:33:31",
+        "retrievedISO": "2026-10-14T06:40:11.237Z"
+      }
+    },
+    {
+      "dateISO": "2026-06-04",
+      "text": "A surf cafe and lounge pleaded no contest to three counts.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "r2leKy7OYMY",
+        "ts": "0:31:59",
+        "retrievedISO": "2026-10-14T06:40:11.237Z"
+      }
+    },
+    {
+      "dateISO": "2026-06-04",
+      "text": "A motion for full $1,000 fines on both counts failed, three votes to two.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "r2leKy7OYMY",
+        "ts": "0:25:48",
+        "retrievedISO": "2026-10-14T06:40:11.237Z"
+      }
+    },
+    {
+      "dateISO": "2026-06-04",
+      "text": "A motion to suspend part of one fine failed with two no votes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "r2leKy7OYMY",
+        "ts": "0:22:30",
+        "retrievedISO": "2026-10-14T06:40:11.237Z"
+      }
+    },
+    {
+      "dateISO": "2026-06-04",
+      "text": "The prosecutor said a bartender there served a cocktail to an underage decoy from the liquor department.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "r2leKy7OYMY",
+        "ts": "0:11:01",
+        "retrievedISO": "2026-10-14T06:40:11.237Z"
+      }
+    },
+    {
+      "dateISO": "2026-06-04",
+      "text": "The board postponed a case against a brewing company, likely to July or August.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "r2leKy7OYMY",
+        "ts": "0:06:16",
+        "retrievedISO": "2026-10-14T06:40:11.237Z"
+      }
+    },
+    {
+      "dateISO": "2026-06-04",
+      "text": "The chair said the brewing company case would be squeezed in in July or set in August.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "r2leKy7OYMY",
+        "ts": "0:05:43",
+        "retrievedISO": "2026-10-14T06:40:11.237Z"
       }
     }
   ],

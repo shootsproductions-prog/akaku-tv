@@ -20,6 +20,17 @@
   "timeline": [
     {
       "dateISO": "2026-05-29",
+      "text": "The chair said reposting gives the public more time to review the items and prepare testimony.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mVuGcb3aGEI",
+        "ts": "0:22:43",
+        "retrievedISO": "2026-10-14T06:40:12.420Z"
+      }
+    },
+    {
+      "dateISO": "2026-05-29",
       "text": "Staff confirmed the next meeting is June 26.",
       "basis": "said-at-meeting",
       "source": {
@@ -48,6 +59,39 @@
         "type": "meeting",
         "videoId": "mVuGcb3aGEI",
         "ts": "0:21:43",
+        "retrievedISO": "2026-10-14T06:40:12.420Z"
+      }
+    },
+    {
+      "dateISO": "2026-05-29",
+      "text": "The lawyer said discussing items without voting would not change that.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mVuGcb3aGEI",
+        "ts": "0:19:41",
+        "retrievedISO": "2026-10-14T06:40:12.420Z"
+      }
+    },
+    {
+      "dateISO": "2026-05-29",
+      "text": "The lawyer said the safest option was to move the items to a future meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mVuGcb3aGEI",
+        "ts": "0:18:35",
+        "retrievedISO": "2026-10-14T06:40:12.420Z"
+      }
+    },
+    {
+      "dateISO": "2026-05-29",
+      "text": "A county lawyer said a problem with the agenda's meeting link might violate the Sunshine Law, a public meeting law.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mVuGcb3aGEI",
+        "ts": "0:17:11",
         "retrievedISO": "2026-10-14T06:40:12.420Z"
       }
     },

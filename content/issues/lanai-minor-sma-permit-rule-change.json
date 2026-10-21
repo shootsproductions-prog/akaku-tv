@@ -8,7 +8,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-08-19",
+  "firstSeenISO": "2026-05-20",
   "lastSeenISO": "2026-09-16",
   "signals": {
     "meetingsLast30d": 0,
@@ -71,6 +71,39 @@
         "videoId": "Z4fnObg2c0I",
         "ts": "1:04:47",
         "retrievedISO": "2026-10-12T06:30:03.060Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-15",
+      "text": "Staff will send the Special Management Area (SMA) minor permit rules to the mayor for his signature, which makes them official.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "YXklH_FH7zQ",
+        "ts": "1:37:55",
+        "retrievedISO": "2026-10-13T06:35:13.750Z"
+      }
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "The planning department will bring any Special Management Area (SMA) minor permit to the commission even before the new rules are signed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "gmpZbZbCHi4",
+        "ts": "2:32:40",
+        "retrievedISO": "2026-10-15T06:35:01.650Z"
+      }
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "Staff said new rules letting the commission review Special Management Area (SMA) minor permits await the mayor's approval.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "gmpZbZbCHi4",
+        "ts": "2:32:05",
+        "retrievedISO": "2026-10-15T06:35:01.650Z"
       }
     }
   ],

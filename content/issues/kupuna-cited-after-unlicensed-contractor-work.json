@@ -8,7 +8,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-09-08",
+  "firstSeenISO": "2026-07-09",
   "lastSeenISO": "2026-09-08",
   "signals": {
     "meetingsLast30d": 0,
@@ -71,6 +71,17 @@
         "videoId": "Cqu5kcGNyBc",
         "ts": "1:08:19",
         "retrievedISO": "2026-10-07T23:04:01.841Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-09",
+      "text": "Staff reported helping a woman in her 80s who may have been a victim of contractor fraud.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "4m34BcHhzUs",
+        "ts": "1:15:10",
+        "retrievedISO": "2026-10-13T06:35:17.645Z"
       }
     }
   ],

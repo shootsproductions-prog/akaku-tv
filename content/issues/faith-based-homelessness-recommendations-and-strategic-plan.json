@@ -75,12 +75,45 @@
     },
     {
       "dateISO": "2024-11-21",
+      "text": "The chair said the recommendations address concerns that keep faith-based groups from getting involved.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Q68bJ_NdJxU",
+        "ts": "0:25:59",
+        "retrievedISO": "2026-10-15T06:35:16.487Z"
+      }
+    },
+    {
+      "dateISO": "2024-11-21",
+      "text": "A commission working group made recommendations on how the County can better address homelessness.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Q68bJ_NdJxU",
+        "ts": "0:25:51",
+        "retrievedISO": "2026-10-15T06:35:16.487Z"
+      }
+    },
+    {
+      "dateISO": "2024-11-21",
       "text": "Another asks the mayor to direct all County departments to include the commission in homelessness programs and policies.",
       "basis": "said-at-meeting",
       "source": {
         "type": "meeting",
         "videoId": "Q68bJ_NdJxU",
         "ts": "0:21:26",
+        "retrievedISO": "2026-10-15T06:35:16.487Z"
+      }
+    },
+    {
+      "dateISO": "2024-11-21",
+      "text": "Churches told the working group that government was hard to reach or confusing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Q68bJ_NdJxU",
+        "ts": "0:18:14",
         "retrievedISO": "2026-10-15T06:35:16.487Z"
       }
     },
@@ -103,6 +136,17 @@
         "type": "meeting",
         "videoId": "Q68bJ_NdJxU",
         "ts": "0:10:53",
+        "retrievedISO": "2026-10-15T06:35:16.487Z"
+      }
+    },
+    {
+      "dateISO": "2024-11-21",
+      "text": "Motion to amend the agenda to move the working group presentation up to item 2: Members approved moving the working group's presentation earlier in the agenda by voice vote.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Q68bJ_NdJxU",
+        "ts": "0:09:04",
         "retrievedISO": "2026-10-15T06:35:16.487Z"
       }
     }

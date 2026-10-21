@@ -9,7 +9,7 @@
   "status": "quiet",
   "pinned": false,
   "firstSeenISO": "2024-11-26",
-  "lastSeenISO": "2024-11-26",
+  "lastSeenISO": "2024-12-11",
   "signals": {
     "meetingsLast30d": 0,
     "meetingsLast90d": 0,
@@ -18,6 +18,72 @@
   },
   "asOfISO": "2026-10-20",
   "timeline": [
+    {
+      "dateISO": "2024-12-11",
+      "text": "Ball five members raised their hands in favor.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HRlW7Efgltc",
+        "ts": "0:27:56",
+        "retrievedISO": "2026-10-15T06:35:11.625Z"
+      }
+    },
+    {
+      "dateISO": "2024-12-11",
+      "text": "A motion, as amended, said he may take part in the upcoming meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HRlW7Efgltc",
+        "ts": "0:26:55",
+        "retrievedISO": "2026-10-15T06:35:11.625Z"
+      }
+    },
+    {
+      "dateISO": "2024-12-11",
+      "text": "He said he has never been paid by the association.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HRlW7Efgltc",
+        "ts": "0:17:01",
+        "retrievedISO": "2026-10-15T06:35:11.625Z"
+      }
+    },
+    {
+      "dateISO": "2024-12-11",
+      "text": "He said he sat out the November 26 meeting out of caution.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HRlW7Efgltc",
+        "ts": "0:15:24",
+        "retrievedISO": "2026-10-15T06:35:11.625Z"
+      }
+    },
+    {
+      "dateISO": "2024-12-11",
+      "text": "He said a lawyer for other parties raised concern about his seat on a community association board.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HRlW7Efgltc",
+        "ts": "0:13:54",
+        "retrievedISO": "2026-10-15T06:35:11.625Z"
+      }
+    },
+    {
+      "dateISO": "2024-12-11",
+      "text": "A new Maui Planning Commission member asked if he may take part in a case before the commission.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HRlW7Efgltc",
+        "ts": "0:13:36",
+        "retrievedISO": "2026-10-15T06:35:11.625Z"
+      }
+    },
     {
       "dateISO": "2024-11-26",
       "text": "The case was deferred to January 28.",

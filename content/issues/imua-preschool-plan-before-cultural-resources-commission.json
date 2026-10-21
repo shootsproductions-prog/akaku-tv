@@ -76,12 +76,34 @@
     },
     {
       "dateISO": "2024-12-05",
+      "text": "Imua said it may use that water only between 7:30 and 9:30 in the morning.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "4DdgHUtoG58",
+        "ts": "1:19:45",
+        "retrievedISO": "2026-10-12T06:30:20.481Z"
+      }
+    },
+    {
+      "dateISO": "2024-12-05",
       "text": "Imua said the property has water rights of 4,800 gallons per week for irrigation.",
       "basis": "said-at-meeting",
       "source": {
         "type": "meeting",
         "videoId": "4DdgHUtoG58",
         "ts": "1:19:24",
+        "retrievedISO": "2026-10-12T06:30:20.481Z"
+      }
+    },
+    {
+      "dateISO": "2024-12-05",
+      "text": "Imua's planner said the team is trying to set up another community meeting this month.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "4DdgHUtoG58",
+        "ts": "1:16:55",
         "retrievedISO": "2026-10-12T06:30:20.481Z"
       }
     },
@@ -104,6 +126,17 @@
         "type": "meeting",
         "videoId": "4DdgHUtoG58",
         "ts": "0:33:40",
+        "retrievedISO": "2026-10-12T06:30:20.481Z"
+      }
+    },
+    {
+      "dateISO": "2024-12-05",
+      "text": "He said he has a lawful, legal right to go to that valve.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "4DdgHUtoG58",
+        "ts": "0:16:03",
         "retrievedISO": "2026-10-12T06:30:20.481Z"
       }
     }

@@ -19,6 +19,17 @@
   "timeline": [
     {
       "dateISO": "2024-12-11",
+      "text": "Staff will provide an updated consolidated review with everyone's comments.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "b_aRz1x3jDA",
+        "ts": "0:27:20",
+        "retrievedISO": "2026-10-15T06:35:10.705Z"
+      }
+    },
+    {
+      "dateISO": "2024-12-11",
       "text": "Defer finalizing the director's performance evaluation to January's agenda: The motion to defer the final director evaluation to January passed unanimously.",
       "basis": "said-at-meeting",
       "source": {

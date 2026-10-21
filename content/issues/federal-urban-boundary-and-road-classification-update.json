@@ -52,6 +52,17 @@
     },
     {
       "dateISO": "2024-11-25",
+      "text": "A presenter said the federal aid urban boundary is different from the County's urban boundary.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Waw25HcUMYM",
+        "ts": "0:49:34",
+        "retrievedISO": "2026-10-15T06:35:15.349Z"
+      }
+    },
+    {
+      "dateISO": "2024-11-25",
       "text": "The council member said first-time home buyers often use USDA loans, which are only for rural areas.",
       "basis": "said-at-meeting",
       "source": {

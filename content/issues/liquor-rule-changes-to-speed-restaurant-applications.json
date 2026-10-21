@@ -64,6 +64,17 @@
     },
     {
       "dateISO": "2026-07-08",
+      "text": "The director said a current rule requires separate men's and women's restrooms for customers.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "un-2pzYnRtQ",
+        "ts": "3:04:29",
+        "retrievedISO": "2026-10-13T06:35:19.455Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-08",
       "text": "The commission voted for the same follow-up work on the rules about changing a business's licensed space.",
       "basis": "said-at-meeting",
       "source": {

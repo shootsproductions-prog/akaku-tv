@@ -54,6 +54,39 @@
     },
     {
       "dateISO": "2024-12-10",
+      "text": "The applicant said 300 of the 400 affordable units are rentals and 100 are for sale.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "usMfKSJ6LlI",
+        "ts": "1:36:42",
+        "retrievedISO": "2026-10-15T06:35:12.934Z"
+      }
+    },
+    {
+      "dateISO": "2024-12-10",
+      "text": "A West Maui resident testified in support of the resolution.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "usMfKSJ6LlI",
+        "ts": "0:23:09",
+        "retrievedISO": "2026-10-15T06:35:12.934Z"
+      }
+    },
+    {
+      "dateISO": "2024-12-10",
+      "text": "A carpenters union representative testified against the request.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "usMfKSJ6LlI",
+        "ts": "0:18:47",
+        "retrievedISO": "2026-10-15T06:35:12.934Z"
+      }
+    },
+    {
+      "dateISO": "2024-12-10",
       "text": "The applicant said the project has two wells, a surface water agreement and a conditional will-serve letter.",
       "basis": "said-at-meeting",
       "source": {
@@ -93,6 +126,17 @@
         "type": "meeting",
         "videoId": "usMfKSJ6LlI",
         "ts": "0:09:40",
+        "retrievedISO": "2026-10-15T06:35:12.934Z"
+      }
+    },
+    {
+      "dateISO": "2024-12-10",
+      "text": "The applicant said it is working with the County phase by phase to make the project 100% affordable.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "usMfKSJ6LlI",
+        "ts": "0:09:23",
         "retrievedISO": "2026-10-15T06:35:12.934Z"
       }
     },

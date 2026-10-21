@@ -8,7 +8,7 @@
   ],
   "status": "quiet",
   "pinned": false,
-  "firstSeenISO": "2026-08-19",
+  "firstSeenISO": "2026-05-20",
   "lastSeenISO": "2026-08-19",
   "signals": {
     "meetingsLast30d": 0,
@@ -27,6 +27,17 @@
         "videoId": "Z4fnObg2c0I",
         "ts": "1:09:13",
         "retrievedISO": "2026-10-12T06:30:03.060Z"
+      }
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "The chair said that for terms ending in March 2027, the nominations board must get applications by December 31st.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "gmpZbZbCHi4",
+        "ts": "2:12:43",
+        "retrievedISO": "2026-10-15T06:35:01.650Z"
       }
     }
   ],

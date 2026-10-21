@@ -42,6 +42,17 @@
     },
     {
       "dateISO": "2026-05-27",
+      "text": "Motion to continue discussion of rule changes in executive session: The commission voted by roll call to continue the rules discussion in executive session (a closed-door discussion).",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7U6qV2DXCW8",
+        "ts": "1:25:20",
+        "retrievedISO": "2026-10-14T06:40:13.308Z"
+      }
+    },
+    {
+      "dateISO": "2026-05-27",
       "text": "The chair proposed a rule letting the commission skip complaints the department already settled through its faster rapid adjudication process.",
       "basis": "said-at-meeting",
       "source": {

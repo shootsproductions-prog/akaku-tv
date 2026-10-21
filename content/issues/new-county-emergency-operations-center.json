@@ -7,7 +7,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-09-17",
+  "firstSeenISO": "2026-05-21",
   "lastSeenISO": "2026-09-17",
   "signals": {
     "meetingsLast30d": 0,
@@ -37,6 +37,17 @@
         "videoId": "fDPADbFyXaI",
         "ts": "0:18:35",
         "retrievedISO": "2026-10-07T23:03:52.575Z"
+      }
+    },
+    {
+      "dateISO": "2026-05-21",
+      "text": "The emergency management agency said its move into the new Maui EOC (emergency operations center) was pushed from June to July 15.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "R_MPvIqY5cU",
+        "ts": "0:37:25",
+        "retrievedISO": "2026-10-15T06:35:03.361Z"
       }
     }
   ],

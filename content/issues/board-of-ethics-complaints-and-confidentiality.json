@@ -8,7 +8,7 @@
   "status": "quiet",
   "pinned": false,
   "firstSeenISO": "2024-11-25",
-  "lastSeenISO": "2024-11-25",
+  "lastSeenISO": "2024-12-11",
   "signals": {
     "meetingsLast30d": 0,
     "meetingsLast90d": 0,
@@ -17,6 +17,28 @@
   },
   "asOfISO": "2026-10-20",
   "timeline": [
+    {
+      "dateISO": "2024-12-11",
+      "text": "Closed-session item 4A(ii): The chair reported the board voted to decline review of another matter for lack of jurisdiction and refer it to another investigating body.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HRlW7Efgltc",
+        "ts": "0:33:08",
+        "retrievedISO": "2026-10-15T06:35:11.625Z"
+      }
+    },
+    {
+      "dateISO": "2024-12-11",
+      "text": "Closed-session item 4A(i): The chair reported the board voted to set one closed-session matter for an informal hearing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HRlW7Efgltc",
+        "ts": "0:32:59",
+        "retrievedISO": "2026-10-15T06:35:11.625Z"
+      }
+    },
     {
       "dateISO": "2024-11-25",
       "text": "Motion confirming the executive session decisions: In open session, the board voted to confirm the decisions reported from the closed session.",

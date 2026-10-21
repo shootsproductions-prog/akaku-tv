@@ -8,7 +8,7 @@
   ],
   "status": "quiet",
   "pinned": false,
-  "firstSeenISO": "2026-08-13",
+  "firstSeenISO": "2026-07-09",
   "lastSeenISO": "2026-08-13",
   "signals": {
     "meetingsLast30d": 0,
@@ -82,6 +82,72 @@
         "videoId": "sY6AwUuHzjI",
         "ts": "1:29:30",
         "retrievedISO": "2026-10-12T06:30:07.228Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-09",
+      "text": "The commission tabled, or put off, a proposed housing development item until the next meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "4m34BcHhzUs",
+        "ts": "1:07:46",
+        "retrievedISO": "2026-10-13T06:35:17.645Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-09",
+      "text": "A commissioner said the site makes it hard for people with mobility issues to walk to town.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "4m34BcHhzUs",
+        "ts": "1:07:22",
+        "retrievedISO": "2026-10-13T06:35:17.645Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-09",
+      "text": "A commissioner said people living in the project's licensed homes and day program should have equal access to the wider community.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "4m34BcHhzUs",
+        "ts": "1:07:00",
+        "retrievedISO": "2026-10-13T06:35:17.645Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-09",
+      "text": "A commissioner said there was not enough information to act on the item at this meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "4m34BcHhzUs",
+        "ts": "1:06:25",
+        "retrievedISO": "2026-10-13T06:35:17.645Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-09",
+      "text": "A representative of the project offered to consult with the commission and give updates.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "4m34BcHhzUs",
+        "ts": "1:04:58",
+        "retrievedISO": "2026-10-13T06:35:17.645Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-09",
+      "text": "The commission is reviewing a proposed housing development that presented to it last month.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "4m34BcHhzUs",
+        "ts": "1:04:32",
+        "retrievedISO": "2026-10-13T06:35:17.645Z"
       }
     }
   ],

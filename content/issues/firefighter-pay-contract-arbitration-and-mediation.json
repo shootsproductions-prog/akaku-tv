@@ -9,7 +9,7 @@
   ],
   "status": "quiet",
   "pinned": false,
-  "firstSeenISO": "2026-07-16",
+  "firstSeenISO": "2026-05-21",
   "lastSeenISO": "2026-08-05",
   "signals": {
     "meetingsLast30d": 0,
@@ -127,6 +127,28 @@
         "videoId": "so1BNvpx4nc",
         "ts": "1:50:36",
         "retrievedISO": "2026-10-13T06:35:12.699Z"
+      }
+    },
+    {
+      "dateISO": "2026-05-21",
+      "text": "A fire department official said firefighter contract arbitration ended in early April but is still being finalized.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "R_MPvIqY5cU",
+        "ts": "0:27:22",
+        "retrievedISO": "2026-10-15T06:35:03.361Z"
+      }
+    },
+    {
+      "dateISO": "2026-05-21",
+      "text": "A union representative testified that Maui Fire Department pay is under the 40th percentile when cost-of-living changes are added.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "R_MPvIqY5cU",
+        "ts": "0:23:47",
+        "retrievedISO": "2026-10-15T06:35:03.361Z"
       }
     }
   ],
