@@ -1,0 +1,81 @@
+{
+  "slug": "fema-reimbursement-of-county-wildfire-response-costs",
+  "title": "FEMA reimbursement of county wildfire response costs",
+  "summary": "The fire department reported its first two FEMA reimbursement checks, totaling over $890,000, which pass through the state emergency agency. Police said FEMA repaid all fire-related overtime and a good portion of other costs, but some equipment requests missed the repayment deadline.",
+  "topics": [
+    "disaster-recovery",
+    "economy"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2024-11-20",
+  "lastSeenISO": "2024-11-21",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-20",
+  "timeline": [
+    {
+      "dateISO": "2024-11-21",
+      "text": "FEMA gives the money to the state emergency agency, which then passes it to the county.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "EzLmqE78YDk",
+        "ts": "1:13:41",
+        "retrievedISO": "2026-10-12T06:30:30.475Z"
+      }
+    },
+    {
+      "dateISO": "2024-11-21",
+      "text": "The county got its first two FEMA reimbursement checks, totaling over $890,000 for fire department projects.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "EzLmqE78YDk",
+        "ts": "1:13:17",
+        "retrievedISO": "2026-10-12T06:30:30.475Z"
+      }
+    },
+    {
+      "dateISO": "2024-11-20",
+      "text": "The deputy chief said all police overtime from the fires was reimbursed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TxzLnQKaEY0",
+        "ts": "1:01:52",
+        "retrievedISO": "2026-10-15T06:35:19.562Z"
+      }
+    },
+    {
+      "dateISO": "2024-11-20",
+      "text": "The deputy chief said some equipment requests did not meet the deadline for repayment.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TxzLnQKaEY0",
+        "ts": "1:01:32",
+        "retrievedISO": "2026-10-15T06:35:19.562Z"
+      }
+    },
+    {
+      "dateISO": "2024-11-20",
+      "text": "The police department said FEMA has repaid a good portion of its fire costs, but not all of them.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TxzLnQKaEY0",
+        "ts": "1:01:26",
+        "retrievedISO": "2026-10-15T06:35:19.562Z"
+      }
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

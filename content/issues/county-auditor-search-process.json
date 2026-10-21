@@ -1,0 +1,47 @@
+{
+  "slug": "county-auditor-search-process",
+  "title": "County auditor search process",
+  "summary": "The Independent Nomination Board heard an explanation of the County Auditor search in October 2024 and said it may invite the personnel services director in January. A discussion of the county auditor process was planned for December 4.",
+  "topics": [
+    "government"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2024-10-17",
+  "lastSeenISO": "2024-11-13",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-20",
+  "timeline": [
+    {
+      "dateISO": "2024-11-13",
+      "text": "A discussion of the county auditor process is planned for December 4.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "YYBXcngSv8c",
+        "ts": "1:11:26",
+        "retrievedISO": "2026-10-15T06:35:27.615Z"
+      }
+    },
+    {
+      "dateISO": "2024-10-17",
+      "text": "Members may invite the personnel services director to a meeting in January to discuss the auditor search.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "AwSVh0_Rn-A",
+        "ts": "0:57:12",
+        "retrievedISO": "2026-10-15T06:35:40.448Z"
+      }
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

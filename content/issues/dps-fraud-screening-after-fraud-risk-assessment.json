@@ -1,0 +1,69 @@
+{
+  "slug": "dps-fraud-screening-after-fraud-risk-assessment",
+  "title": "DPS fraud screening after fraud risk assessment",
+  "summary": "A County Council committee asked the Civil Service Commission to comment on fraud risk findings about the personnel department, including that the county has no countywide nepotism policy. The commission asked Department of Personnel Services (DPS) for comments, costs and a timeline for expanding fraud screening, due by its September meeting.",
+  "topics": [
+    "government"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2026-08-05",
+  "lastSeenISO": "2026-08-05",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-20",
+  "timeline": [
+    {
+      "dateISO": "2026-08-05",
+      "text": "Department of Personnel Services (DPS) is to respond by the commission's September meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "nIulYAJQPvU",
+        "ts": "0:46:05",
+        "retrievedISO": "2026-10-13T06:35:08.656Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-05",
+      "text": "The commission voted to ask Department of Personnel Services (DPS) for comments, costs, and a timeline for expanding fraud screening.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "nIulYAJQPvU",
+        "ts": "0:44:56",
+        "retrievedISO": "2026-10-13T06:35:08.656Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-05",
+      "text": "The fraud risk assessment found the county has no countywide nepotism policy, meaning rules on hiring relatives.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "nIulYAJQPvU",
+        "ts": "0:34:50",
+        "retrievedISO": "2026-10-13T06:35:08.656Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-05",
+      "text": "A County Council committee asked the commission to comment on fraud risk findings about Department of Personnel Services (DPS), the county personnel department.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "nIulYAJQPvU",
+        "ts": "0:32:45",
+        "retrievedISO": "2026-10-13T06:35:08.656Z"
+      }
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

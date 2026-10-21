@@ -1,0 +1,37 @@
+{
+  "slug": "youth-commission-list-of-county-funded-youth-programs",
+  "title": "Youth commission list of county-funded youth programs",
+  "summary": "The Commission on Children and Youth is seeking a list of county-funded youth programs, and the chair hopes it arrives in time for the next meeting packet. A commissioner said the issue is less a lack of resources than a lack of awareness.",
+  "topics": [
+    "education",
+    "government"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-09-21",
+  "lastSeenISO": "2026-09-21",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 1,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-20",
+  "timeline": [
+    {
+      "dateISO": "2026-09-21",
+      "text": "The chair hopes the program list arrives before the next meeting so it can go out with the meeting packet.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "R72ep6UsQvk",
+        "ts": "0:49:40",
+        "retrievedISO": "2026-10-07T23:03:53.466Z"
+      }
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

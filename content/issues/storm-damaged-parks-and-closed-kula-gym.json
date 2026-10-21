@@ -1,0 +1,121 @@
+{
+  "slug": "storm-damaged-parks-and-closed-kula-gym",
+  "title": "Storm-damaged parks and closed Kula gym",
+  "summary": "FEMA left parks facilities out of reimbursement for the 2026 storms and the state appealed. The Kula gym remains closed with only one $1.9 million bid to tarp it and no repair timeline, and the Parks Department agreed to keep the council informed.",
+  "topics": [
+    "disaster-recovery"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2026-07-27",
+  "lastSeenISO": "2026-07-27",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-20",
+  "timeline": [
+    {
+      "dateISO": "2026-07-27",
+      "text": "Repair costs may be repaid six to nine months after full invoices go to FEMA.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bNJZc33FonA",
+        "ts": "1:58:24",
+        "retrievedISO": "2026-10-16T17:05:01.192Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-07-27",
+      "text": "A member asked the Parks Department to keep the council informed about the Kula gym, and the department agreed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bNJZc33FonA",
+        "ts": "1:57:03",
+        "retrievedISO": "2026-10-16T17:05:01.192Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-07-27",
+      "text": "Parks said it has no timeline yet for the gym.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bNJZc33FonA",
+        "ts": "1:56:08",
+        "retrievedISO": "2026-10-16T17:05:01.192Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-07-27",
+      "text": "Parks said there is no other gym close by for Kula kids to use.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bNJZc33FonA",
+        "ts": "1:51:07",
+        "retrievedISO": "2026-10-16T17:05:01.192Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-07-27",
+      "text": "A Kula resident asked whether the gym will be rebuilt, and when.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bNJZc33FonA",
+        "ts": "1:45:51",
+        "retrievedISO": "2026-10-16T17:05:01.192Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-07-27",
+      "text": "The department said FEMA left parks out of its categories of work for this storm event.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bNJZc33FonA",
+        "ts": "1:38:44",
+        "retrievedISO": "2026-10-16T17:05:01.192Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-07-27",
+      "text": "Only one contractor bid to tarp the open part of the gym, at $1.9 million.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bNJZc33FonA",
+        "ts": "1:31:18",
+        "retrievedISO": "2026-10-16T17:05:01.192Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-07-27",
+      "text": "Storms damaged county parks, and the Kula gym remains closed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bNJZc33FonA",
+        "ts": "1:30:00",
+        "retrievedISO": "2026-10-16T17:05:01.192Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

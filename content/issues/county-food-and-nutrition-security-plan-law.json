@@ -1,0 +1,144 @@
+{
+  "slug": "county-food-and-nutrition-security-plan-law",
+  "title": "County Food and Nutrition Security Plan law",
+  "summary": "Bill 98 puts a Food and Nutrition Security Plan with 131 actions into county code. It requires an online progress dashboard within 120 days and sends five-year updates to the council. The Farm Bureau first asked for a delay and later said it fully supported the bill, which passed final reading 8–0 on September 4.",
+  "topics": [
+    "food-security"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-07-13",
+  "lastSeenISO": "2026-09-04",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 2,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-20",
+  "timeline": [
+    {
+      "dateISO": "2026-09-04",
+      "text": "Bill 98, creating a Food and Nutrition Security Plan, passed final reading with eight ayes and zero noes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UsJUbzdqBgw",
+        "ts": "2:43:18",
+        "retrievedISO": "2026-10-16T16:08:54.867Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-09-04",
+      "text": "The Maui County Farm Bureau said it fully supports Bill 98.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UsJUbzdqBgw",
+        "ts": "0:17:08",
+        "retrievedISO": "2026-10-16T16:08:54.867Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-09-04",
+      "text": "The Farm Bureau said the committee chair reached out to discuss its concerns.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UsJUbzdqBgw",
+        "ts": "0:16:39",
+        "retrievedISO": "2026-10-16T16:08:54.867Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "Members voted to have each five-year plan update sent to the council instead of the county.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "elf0DfB_afI",
+        "ts": "1:27:10",
+        "retrievedISO": "2026-10-16T07:24:07.396Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "Department staff said the plan has 131 actions.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "elf0DfB_afI",
+        "ts": "0:43:14",
+        "retrievedISO": "2026-10-16T07:24:07.396Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "The bill requires an online dashboard within 120 days to track the plan's progress.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "elf0DfB_afI",
+        "ts": "0:22:03",
+        "retrievedISO": "2026-10-16T07:24:07.396Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "A speaker for the Maui County Farm Bureau asked the committee to delay the bill so producers could suggest changes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "elf0DfB_afI",
+        "ts": "0:20:33",
+        "retrievedISO": "2026-10-16T07:24:07.396Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "The chair said a 2024 survey found 60 percent of Maui County residents and 70 percent of fire survivors cut back on groceries for money reasons.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "elf0DfB_afI",
+        "ts": "0:04:27",
+        "retrievedISO": "2026-10-16T07:24:07.396Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "The only item was Bill 98, which would establish a Food and Nutrition Security Plan.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "elf0DfB_afI",
+        "ts": "0:03:36",
+        "retrievedISO": "2026-10-16T07:24:07.396Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-07-13",
+      "text": "The County's food and nutritional security plan includes an objective to manage invasive species.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3ySjp_nHkPA",
+        "ts": "0:33:41",
+        "retrievedISO": "2026-10-13T06:35:16.618Z"
+      }
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

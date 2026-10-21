@@ -1,0 +1,81 @@
+{
+  "slug": "youth-commission-brochure-and-web-page-updates",
+  "title": "Youth commission brochure and web page updates",
+  "summary": "In July 2026 the Commission on Children and Youth planned a new brochure draft and a list of website changes for the next meeting. In August it approved the brochure with a section on how to testify and voted to send recommended web page updates to the department.",
+  "topics": [
+    "government",
+    "education"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-07-20",
+  "lastSeenISO": "2026-08-24",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-20",
+  "timeline": [
+    {
+      "dateISO": "2026-08-24",
+      "text": "Motion to send recommended website updates to the department: Commissioners approved sending a list of recommended updates for the commission's county web page.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "_jJfabaKzgo",
+        "ts": "1:13:11",
+        "retrievedISO": "2026-10-09T06:35:13.605Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-24",
+      "text": "The chair will make the brochure revision and send the final version to the commission secretary to distribute.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "_jJfabaKzgo",
+        "ts": "0:53:14",
+        "retrievedISO": "2026-10-09T06:35:13.605Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-24",
+      "text": "Motion to move forward with the brochure with the requested revision: Commissioners approved moving forward with the brochure, with a revision adding how to testify.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "_jJfabaKzgo",
+        "ts": "0:51:56",
+        "retrievedISO": "2026-10-09T06:35:13.605Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-20",
+      "text": "The chair will develop a list of website changes for approval at the next meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "9Qn8uXAUEl0",
+        "ts": "1:26:11",
+        "retrievedISO": "2026-10-12T06:30:17.159Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-20",
+      "text": "A new brochure draft will be prepared for the next meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "9Qn8uXAUEl0",
+        "ts": "1:19:22",
+        "retrievedISO": "2026-10-12T06:30:17.159Z"
+      }
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

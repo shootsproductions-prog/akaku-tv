@@ -1,0 +1,74 @@
+{
+  "slug": "east-maui-water-board-director-performance-review",
+  "title": "East Maui water board director performance review",
+  "summary": "In late 2024 the East Maui water board asked members for ideas on its director's goals and formed a group of two to five members to draft performance review criteria. In May 2026 board members signed the director's evaluation documents, with one signed copy going to the mayor and council.",
+  "topics": [
+    "water",
+    "government"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2024-11-14",
+  "lastSeenISO": "2026-05-15",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-20",
+  "timeline": [
+    {
+      "dateISO": "2026-05-15",
+      "text": "One signed copy of the evaluation report goes to the mayor and council.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6QAT7xS4o6U",
+        "ts": "0:55:31",
+        "retrievedISO": "2026-10-09T06:35:05.182Z"
+      },
+      "body": "East Maui Regional Community Board"
+    },
+    {
+      "dateISO": "2024-12-12",
+      "text": "Motion to name members of the performance criteria group: The board voted on a motion naming members of the performance criteria group.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "2obBIqFggos",
+        "ts": "1:38:58",
+        "retrievedISO": "2026-10-09T06:35:06.415Z"
+      },
+      "body": "East Maui Regional Community Board"
+    },
+    {
+      "dateISO": "2024-12-12",
+      "text": "The board voted to form a group of two to five members to draft review criteria for the director.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "2obBIqFggos",
+        "ts": "1:36:54",
+        "retrievedISO": "2026-10-09T06:35:06.415Z"
+      },
+      "body": "East Maui Regional Community Board"
+    },
+    {
+      "dateISO": "2024-11-14",
+      "text": "Members are asked to send ideas for the director's goals to the board secretary.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5iHkOVL1-vQ",
+        "ts": "0:46:49",
+        "retrievedISO": "2026-10-09T06:35:08.811Z"
+      },
+      "body": "East Maui Regional Community Board"
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

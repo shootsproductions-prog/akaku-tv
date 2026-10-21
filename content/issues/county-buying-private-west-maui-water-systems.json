@@ -1,0 +1,86 @@
+{
+  "slug": "county-buying-private-west-maui-water-systems",
+  "title": "County buying private West Maui water systems",
+  "summary": "At a September 30 special meeting, a council member said the County controls delivery of 23 percent of West Maui water and private companies deliver 77 percent, and that the Council recently approved buying three water systems. The County is still in due diligence on buying other systems, aiming for about 90 percent public control.",
+  "topics": [
+    "water",
+    "disaster-recovery"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-09-30",
+  "lastSeenISO": "2026-09-30",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 3,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-20",
+  "timeline": [
+    {
+      "dateISO": "2026-09-30",
+      "text": "The member said the County is still in the due diligence (fact-checking) phase for buying other systems.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oZNc2fyyOPE",
+        "ts": "0:22:28",
+        "retrievedISO": "2026-10-16T03:41:33.571Z"
+      },
+      "body": "County Council Special Meeting"
+    },
+    {
+      "dateISO": "2026-09-30",
+      "text": "The county is still checking details on other water systems, aiming for about 90 percent public control.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ygVQPiP4ARw",
+        "ts": "0:22:28",
+        "retrievedISO": "2026-10-16T04:03:27.140Z"
+      },
+      "body": "County Council Special Meeting"
+    },
+    {
+      "dateISO": "2026-09-30",
+      "text": "A council member said the purchases will increase public control of water.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oZNc2fyyOPE",
+        "ts": "0:22:19",
+        "retrievedISO": "2026-10-16T03:41:33.571Z"
+      },
+      "body": "County Council Special Meeting"
+    },
+    {
+      "dateISO": "2026-09-30",
+      "text": "The member said the Council recently approved buying three water systems.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oZNc2fyyOPE",
+        "ts": "0:22:03",
+        "retrievedISO": "2026-10-16T03:41:33.571Z"
+      },
+      "body": "County Council Special Meeting"
+    },
+    {
+      "dateISO": "2026-09-30",
+      "text": "A council member said the County controls delivery of 23 percent of West Maui water, and private companies deliver 77 percent.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oZNc2fyyOPE",
+        "ts": "0:21:33",
+        "retrievedISO": "2026-10-16T03:41:33.571Z"
+      },
+      "body": "County Council Special Meeting"
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

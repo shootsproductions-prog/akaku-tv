@@ -1,0 +1,60 @@
+{
+  "slug": "power-shutoffs-during-high-wind-and-low-humidity",
+  "title": "Power shutoffs during high wind and low humidity",
+  "summary": "The power company shuts off power when wind gusts reach 45 miles per hour or more and humidity is below 45 percent, a disability commission meeting heard, and people using powered medical equipment were urged to fill out a medical needs form. A council member repeated the shutoff rule when a visiting delegation asked who controls power as Lahaina recovers.",
+  "topics": [
+    "public-safety",
+    "health"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2024-11-14",
+  "lastSeenISO": "2026-09-30",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 1,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-20",
+  "timeline": [
+    {
+      "dateISO": "2026-09-30",
+      "text": "A council member said the power company shuts off power when wind is over 45 miles per hour and humidity is under 45 percent.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oZNc2fyyOPE",
+        "ts": "0:19:47",
+        "retrievedISO": "2026-10-16T03:41:33.571Z"
+      },
+      "body": "County Council Special Meeting"
+    },
+    {
+      "dateISO": "2024-11-14",
+      "text": "People who rely on powered medical equipment were urged to fill out a medical needs form.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lh7UtxNLLFU",
+        "ts": "0:32:58",
+        "retrievedISO": "2026-10-12T06:30:29.333Z"
+      }
+    },
+    {
+      "dateISO": "2024-11-14",
+      "text": "The company said shutoffs depend on drought, wind gusts of 45 miles per hour or more, and humidity below 45%.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lh7UtxNLLFU",
+        "ts": "0:27:29",
+        "retrievedISO": "2026-10-12T06:30:29.333Z"
+      }
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

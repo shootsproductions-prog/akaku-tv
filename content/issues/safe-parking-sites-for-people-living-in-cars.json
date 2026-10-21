@@ -1,0 +1,122 @@
+{
+  "slug": "safe-parking-sites-for-people-living-in-cars",
+  "title": "Safe parking sites for people living in cars",
+  "summary": "A county safe parking pilot on private land at 21 Hanson Road stalled after flooding, with no project money spent, and staff began looking at county land instead. A council resolution urging a managed safe parking project failed 4–2. Bill 133 would loosen hours and license rules so the county can open a temporary 24-hour site, with a shuttle, for unsheltered people being relocated.",
+  "topics": [
+    "housing",
+    "public-safety"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-09-04",
+  "lastSeenISO": "2026-10-09",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 2,
+    "mentionsLast30d": 3,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-20",
+  "timeline": [
+    {
+      "dateISO": "2026-10-09",
+      "text": "A County director said the temporary site will run 24 hours, with a shuttle to the transit hub.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mmnN74BJwhw",
+        "ts": "1:21:56",
+        "retrievedISO": "2026-10-16T10:06:23.221Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-10-09",
+      "text": "A County director said staff will help safe parking participants get an ID or driver's license.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mmnN74BJwhw",
+        "ts": "1:21:08",
+        "retrievedISO": "2026-10-16T10:06:23.221Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-10-09",
+      "text": "A County attorney said sites under the ordinance would have to be county controlled in some form.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mmnN74BJwhw",
+        "ts": "1:15:00",
+        "retrievedISO": "2026-10-16T10:06:23.221Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-10-09",
+      "text": "Acting on the bill lets the County move ahead with a temporary safe parking site for unsheltered people being relocated.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mmnN74BJwhw",
+        "ts": "1:12:07",
+        "retrievedISO": "2026-10-16T10:06:23.221Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-10-09",
+      "text": "The bill removes driver's license, vehicle registration, and safety check requirements that some participants may lack.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mmnN74BJwhw",
+        "ts": "1:11:53",
+        "retrievedISO": "2026-10-16T10:06:23.221Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-10-09",
+      "text": "Bill 133 would allow more flexibility in the hours and conditions of each safe parking site.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mmnN74BJwhw",
+        "ts": "1:11:45",
+        "retrievedISO": "2026-10-16T10:06:23.221Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-09-04",
+      "text": "The resolution failed with four ayes and two noes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UsJUbzdqBgw",
+        "ts": "2:25:02",
+        "retrievedISO": "2026-10-16T16:08:54.867Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-09-04",
+      "text": "Resolution 26-150 urged the administration to carry out a managed safe overnight parking project.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UsJUbzdqBgw",
+        "ts": "1:49:56",
+        "retrievedISO": "2026-10-16T16:08:54.867Z"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

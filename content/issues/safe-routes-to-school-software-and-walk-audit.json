@@ -1,0 +1,37 @@
+{
+  "slug": "safe-routes-to-school-software-and-walk-audit",
+  "title": "Safe routes to school software and walk audit",
+  "summary": "The Maui MPO expects safe routes to school software to be delivered by the end of October and presented in November. Staff will also co-organize a walk audit with the Department of Health later this year or early next year.",
+  "topics": [
+    "transportation",
+    "education"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-10-06",
+  "lastSeenISO": "2026-10-06",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 1,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-20",
+  "timeline": [
+    {
+      "dateISO": "2026-10-06",
+      "text": "Staff will co-organize a walk audit with the Department of Health later this year or early next year.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "f_ubbsOcBHI",
+        "ts": "0:14:54",
+        "retrievedISO": "2026-10-07T20:19:45.348Z"
+      }
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

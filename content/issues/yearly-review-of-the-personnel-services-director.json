@@ -1,0 +1,81 @@
+{
+  "slug": "yearly-review-of-the-personnel-services-director",
+  "title": "Yearly review of the personnel services director",
+  "summary": "In late 2024 the Civil Service Commission was writing questions for the yearly review of the personnel services director, due in March, and a commissioner suggested input from department leaders. In October 2026 the discussion of the director's evaluation timetable was deferred until a new director is selected.",
+  "topics": [
+    "government"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2024-11-06",
+  "lastSeenISO": "2026-10-07",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 1,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-20",
+  "timeline": [
+    {
+      "dateISO": "2026-10-07",
+      "text": "Old business item 5B: performance evaluation timetable and procedure for the director of personnel services: The discussion of the director's performance evaluation timetable was deferred until a new director is selected.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "yMbc5cKnAGk",
+        "ts": "0:07:24",
+        "retrievedISO": "2026-10-11T05:47:59.118Z"
+      },
+      "body": "Civil Service Commission"
+    },
+    {
+      "dateISO": "2024-12-04",
+      "text": "The review was described as due at the end of the first quarter of the calendar year, in March.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "L68I6n73wWs",
+        "ts": "0:03:02",
+        "retrievedISO": "2026-10-12T06:30:23.392Z"
+      }
+    },
+    {
+      "dateISO": "2024-12-04",
+      "text": "The review questions will go to staff to share with department directors and Personnel Services employees.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "L68I6n73wWs",
+        "ts": "0:02:37",
+        "retrievedISO": "2026-10-12T06:30:23.392Z"
+      }
+    },
+    {
+      "dateISO": "2024-12-04",
+      "text": "Questions for the yearly review of the personnel services director are being written.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "L68I6n73wWs",
+        "ts": "0:02:20",
+        "retrievedISO": "2026-10-12T06:30:23.392Z"
+      }
+    },
+    {
+      "dateISO": "2024-11-06",
+      "text": "A commissioner suggested also getting input from about three department leaders.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iEkzGiAP0Q4",
+        "ts": "0:17:30",
+        "retrievedISO": "2026-10-15T06:35:33.026Z"
+      }
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

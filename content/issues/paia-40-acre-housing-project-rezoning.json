@@ -9,15 +9,15 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-09-02",
+  "firstSeenISO": "2026-08-25",
   "lastSeenISO": "2026-09-08",
   "signals": {
     "meetingsLast30d": 0,
-    "meetingsLast90d": 2,
+    "meetingsLast90d": 3,
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-18",
+  "asOfISO": "2026-10-20",
   "timeline": [
     {
       "dateISO": "2026-09-08",
@@ -537,6 +537,18 @@
         "retrievedISO": "2026-10-16T23:17:28.064Z"
       },
       "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-25",
+      "text": "Referral of Bill 109 (2026): Bill 109, on the Pāʻia Sugar Mill Redevelopment Project, was sent to the Housing and Land Use Committee.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pRcBgWNK6vM",
+        "ts": "2:19:33",
+        "retrievedISO": "2026-10-16T15:11:48.128Z"
+      },
+      "body": "County Council Meeting"
     }
   ],
   "sourceTypes": [

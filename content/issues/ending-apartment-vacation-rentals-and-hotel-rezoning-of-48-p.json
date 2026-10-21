@@ -8,11 +8,11 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-09-09",
+  "firstSeenISO": "2026-08-05",
   "lastSeenISO": "2026-09-29",
   "signals": {
     "meetingsLast30d": 3,
-    "meetingsLast90d": 6,
+    "meetingsLast90d": 10,
     "mentionsLast30d": 7,
     "upcomingEvent": {
       "dateISO": "2026-11-24",
@@ -25,7 +25,7 @@
       }
     }
   },
-  "asOfISO": "2026-10-18",
+  "asOfISO": "2026-10-20",
   "timeline": [
     {
       "dateISO": "2026-09-29",
@@ -902,6 +902,906 @@
         "videoId": "q7BT6e0tKXE",
         "ts": "0:19:27",
         "retrievedISO": "2026-10-16T19:09:53.659Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "A member moved to cover structures that are majority impacted, including areas under Maui Planning Commission shoreline rules.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6jh0izJEp3A",
+        "ts": "5:19:27",
+        "retrievedISO": "2026-10-17T00:11:14.178Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "Committee staff will double-check which properties meet the criteria.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6jh0izJEp3A",
+        "ts": "5:08:31",
+        "retrievedISO": "2026-10-17T00:11:14.178Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "The motion required structures fully inundated by the 3.2-foot sea level rise area or flood hazard area, and not originally meant for affordable workforce housing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6jh0izJEp3A",
+        "ts": "5:07:43",
+        "retrievedISO": "2026-10-17T00:11:14.178Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "The chair proposed covering structures fully inundated in the sea level rise exposure area or flood hazard zones.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6jh0izJEp3A",
+        "ts": "4:01:09",
+        "retrievedISO": "2026-10-17T00:11:14.178Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "The chair said properties in the sea level rise area or flood zones carry extra costs and are hard to permit for repairs.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6jh0izJEp3A",
+        "ts": "3:53:00",
+        "retrievedISO": "2026-10-17T00:11:14.178Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "A condo owner testified in support of the resolutions.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6jh0izJEp3A",
+        "ts": "3:32:20",
+        "retrievedISO": "2026-10-17T00:11:14.178Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "A testifier for one property said a document banning transient (short-stay) rentals was only a draft.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "OrD6KMr2WaE",
+        "ts": "2:04:31",
+        "retrievedISO": "2026-10-16T11:10:55.976Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "The chair asked a testifier to email her property-by-property testimony to the committee.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "OrD6KMr2WaE",
+        "ts": "1:56:24",
+        "retrievedISO": "2026-10-16T11:10:55.976Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "A testifier said about 26 properties are proposed for hotel zoning, with six minutes given for public testimony.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "OrD6KMr2WaE",
+        "ts": "1:50:41",
+        "retrievedISO": "2026-10-16T11:10:55.976Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "Another testifier said she could not support what she called an attempt to undermine Bill 9.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6jh0izJEp3A",
+        "ts": "1:38:16",
+        "retrievedISO": "2026-10-17T00:11:14.178Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "Another testifier asked members to vote no.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ubPFLvg2l3M",
+        "ts": "1:37:15",
+        "retrievedISO": "2026-10-16T06:10:38.780Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "Planning offered to write out the proposed conditions, noting which may need executive session, for when the committee returns.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "RIIzq18NAoc",
+        "ts": "1:31:07",
+        "retrievedISO": "2026-10-16T10:14:40.901Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "Planning said it will check with corporation counsel (the County's lawyers) on the proposed conditions and report back.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "RIIzq18NAoc",
+        "ts": "1:30:17",
+        "retrievedISO": "2026-10-16T10:14:40.901Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "She pointed to SB 3034, a state bill from last term to start a buyback program.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ubPFLvg2l3M",
+        "ts": "1:29:17",
+        "retrievedISO": "2026-10-16T06:10:38.780Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "A testifier said about 8,000 permitted short-term rentals would remain even if all listed units returned to housing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "OrD6KMr2WaE",
+        "ts": "1:23:38",
+        "retrievedISO": "2026-10-16T11:10:55.976Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "A testifier said Maui has a shortage of housing for local families, not of short-term rentals.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "OrD6KMr2WaE",
+        "ts": "1:23:21",
+        "retrievedISO": "2026-10-16T11:10:55.976Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "Planning said it would not have staff to verify those reports.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "RIIzq18NAoc",
+        "ts": "1:20:47",
+        "retrievedISO": "2026-10-16T10:14:40.901Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "Another testifier urged the council not to advance the plan amendments and rezoning in isolation.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ubPFLvg2l3M",
+        "ts": "1:20:35",
+        "retrievedISO": "2026-10-16T06:10:38.780Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "A council member proposed a yearly structural analysis as a condition of the zoning change.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "RIIzq18NAoc",
+        "ts": "1:20:17",
+        "retrievedISO": "2026-10-16T10:14:40.901Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "One testifier supported passing the amendments for H3 and H4 zoning.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "OrD6KMr2WaE",
+        "ts": "1:07:43",
+        "retrievedISO": "2026-10-16T11:10:55.976Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "The council member said the burnt-down property could be rebuilt as housing or as a short-term rental if it got hotel zoning.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ubPFLvg2l3M",
+        "ts": "0:50:05",
+        "retrievedISO": "2026-10-16T06:10:38.780Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "A council member said one property in Resolution 26-130 is on the shoreline and was completely burnt down.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ubPFLvg2l3M",
+        "ts": "0:49:44",
+        "retrievedISO": "2026-10-16T06:10:38.780Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "A speaker for the Maui Tomorrow Foundation said the group opposes the resolutions.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ubPFLvg2l3M",
+        "ts": "0:46:20",
+        "retrievedISO": "2026-10-16T06:10:38.780Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "A testifier said the proposals are about sending these properties to the Planning Commission.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "OrD6KMr2WaE",
+        "ts": "0:45:25",
+        "retrievedISO": "2026-10-16T11:10:55.976Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "A journalist asked why the County would create carve-outs from Bill 9 that could reduce its benefits.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ubPFLvg2l3M",
+        "ts": "0:30:53",
+        "retrievedISO": "2026-10-16T06:10:38.780Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "The chair said she is trying to find ways for local people to buy these units, not just rent.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "RIIzq18NAoc",
+        "ts": "0:29:47",
+        "retrievedISO": "2026-10-16T10:14:40.901Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "A journalist said Bill 9 was meant to make housing more affordable for locals.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ubPFLvg2l3M",
+        "ts": "0:28:03",
+        "retrievedISO": "2026-10-16T06:10:38.780Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "The chair said sea level rise and flood areas add cost to units and make repairs hard to permit.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "RIIzq18NAoc",
+        "ts": "0:27:10",
+        "retrievedISO": "2026-10-16T10:14:40.901Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "Staff offered to work with the member on drafting the new criterion before the committee reconvenes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "kV7eBaCXKiI",
+        "ts": "0:24:46",
+        "retrievedISO": "2026-10-16T06:23:04.626Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "The criteria will be included in the resolution as a clause.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "kV7eBaCXKiI",
+        "ts": "0:24:19",
+        "retrievedISO": "2026-10-16T06:23:04.626Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "The member said they would likely wait until the next session to offer it.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "kV7eBaCXKiI",
+        "ts": "0:23:12",
+        "retrievedISO": "2026-10-16T06:23:04.626Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "A Kīhei condo owner said turning rentals into workforce housing only works if the buildings suit long-term living.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ubPFLvg2l3M",
+        "ts": "0:23:01",
+        "retrievedISO": "2026-10-16T06:10:38.780Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "Members can propose more criteria when the committee reconvenes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "kV7eBaCXKiI",
+        "ts": "0:22:52",
+        "retrievedISO": "2026-10-16T06:23:04.626Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "A testifier said Bill 9 was meant to increase housing for people who live and work here.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6jh0izJEp3A",
+        "ts": "0:22:42",
+        "retrievedISO": "2026-10-17T00:11:14.178Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "She said flood insurance, when offered, costs about $10,000 per unit each year.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ubPFLvg2l3M",
+        "ts": "0:22:31",
+        "retrievedISO": "2026-10-16T06:10:38.780Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "Another testifier said Bill 9 hearings showed that water limits building more affordable housing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "OrD6KMr2WaE",
+        "ts": "0:21:04",
+        "retrievedISO": "2026-10-16T11:10:55.976Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "An owner at a Kīhei oceanfront condo asked that her building get the same hotel-rezoning consideration as similar properties.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ubPFLvg2l3M",
+        "ts": "0:20:36",
+        "retrievedISO": "2026-10-16T06:10:38.780Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "Members were unsure whether it meant owner-occupied homes or homes lived in by residents.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "kV7eBaCXKiI",
+        "ts": "0:20:35",
+        "retrievedISO": "2026-10-16T06:23:04.626Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "A member began proposing another criterion about how many units residents lived in during 2008.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "kV7eBaCXKiI",
+        "ts": "0:19:15",
+        "retrievedISO": "2026-10-16T06:23:04.626Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "The testifier said a list of units is proposed for H3 and H4 zoning.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "OrD6KMr2WaE",
+        "ts": "0:18:23",
+        "retrievedISO": "2026-10-16T11:10:55.976Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "A member's amendment to the criteria proposal (majority impacted; shoreline rules; not originally meant for affordable workforce housing): The amendment to the criteria motion passed on a roll call vote, five ayes to four noes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "kV7eBaCXKiI",
+        "ts": "0:17:30",
+        "retrievedISO": "2026-10-16T06:23:04.626Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "A testifier said some agenda items are an attempt to undermine Bill 9.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "OrD6KMr2WaE",
+        "ts": "0:16:45",
+        "retrievedISO": "2026-10-16T11:10:55.976Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "The only agenda item, heard for the third time, was Resolutions 26-129 and 26-130.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ubPFLvg2l3M",
+        "ts": "0:15:57",
+        "retrievedISO": "2026-10-16T06:10:38.780Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "The amendment said the property must not have first been meant for affordable workforce housing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "kV7eBaCXKiI",
+        "ts": "0:15:17",
+        "retrievedISO": "2026-10-16T06:23:04.626Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "The amendment said structures must be mostly impacted by 3.2 feet of sea-level rise, or fall under shoreline rules or a special flood hazard area.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "kV7eBaCXKiI",
+        "ts": "0:15:06",
+        "retrievedISO": "2026-10-16T06:23:04.626Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "A speaker suggested the word \"majority\" instead of \"significant.\"",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "kV7eBaCXKiI",
+        "ts": "0:14:25",
+        "retrievedISO": "2026-10-16T06:23:04.626Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "A member said clear, objective criteria would help the public and the administration when the result goes to the Planning Commission.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "kV7eBaCXKiI",
+        "ts": "0:12:53",
+        "retrievedISO": "2026-10-16T06:23:04.626Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "The chair agreed that \"significantly impacted\" means 51% or more.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "kV7eBaCXKiI",
+        "ts": "0:12:14",
+        "retrievedISO": "2026-10-16T06:23:04.626Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "A member asked to discuss conditions as well as criteria for the properties.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "gb-VffqMu9U",
+        "ts": "0:09:49",
+        "retrievedISO": "2026-10-16T06:12:21.340Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "The chair said members will begin discussing criteria for these properties after lunch.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "gb-VffqMu9U",
+        "ts": "0:09:35",
+        "retrievedISO": "2026-10-16T06:12:21.340Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "She told a member she uses the unit as a short-term rental.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "gb-VffqMu9U",
+        "ts": "0:07:36",
+        "retrievedISO": "2026-10-16T06:12:21.340Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "The testifier said she bought her unit at Kīhei Gardens Estate in 2024.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "gb-VffqMu9U",
+        "ts": "0:06:48",
+        "retrievedISO": "2026-10-16T06:12:21.340Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "She said she supports the resolutions but wishes her unit were included.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "gb-VffqMu9U",
+        "ts": "0:06:10",
+        "retrievedISO": "2026-10-16T06:12:21.340Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "A testifier said local people are being harmed when their units are not moved into these resolutions.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "gb-VffqMu9U",
+        "ts": "0:06:02",
+        "retrievedISO": "2026-10-16T06:12:21.340Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "She said her family would lose about $100,000 if they tried to sell the unit.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "gb-VffqMu9U",
+        "ts": "0:05:31",
+        "retrievedISO": "2026-10-16T06:12:21.340Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-27",
+      "text": "She said her own unit has not been moved into a resolution yet.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "gb-VffqMu9U",
+        "ts": "0:04:31",
+        "retrievedISO": "2026-10-16T06:12:21.340Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "Another testifier questioned why two Kīhei buildings that are not on the shoreline are on the list.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Llgbo2xO6Jc",
+        "ts": "2:23:30",
+        "retrievedISO": "2026-10-16T08:24:20.122Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "Another testifier said 11 similar properties fully inside the sea level rise area are not on the list.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Llgbo2xO6Jc",
+        "ts": "1:32:57",
+        "retrievedISO": "2026-10-16T08:24:20.122Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "She said fire survivors in temporary housing in Kīhei fear they must leave by August 31.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Llgbo2xO6Jc",
+        "ts": "1:27:05",
+        "retrievedISO": "2026-10-16T08:24:20.122Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "One testifier said taking more units off the list chips away at places that could be homes for the community.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Llgbo2xO6Jc",
+        "ts": "1:24:08",
+        "retrievedISO": "2026-10-16T08:24:20.122Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "A testifier from a housing group opposed both resolutions.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Llgbo2xO6Jc",
+        "ts": "1:20:25",
+        "retrievedISO": "2026-10-16T08:24:20.122Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "A vacation rental association representative said 12 of 162 affected condo units sold since December 1 are confirmed owner-occupied.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Llgbo2xO6Jc",
+        "ts": "0:45:00",
+        "retrievedISO": "2026-10-16T08:24:20.122Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "A testifier opposed the proposal and said hotel zoning, called H3 and H4, is being taken advantage of.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Llgbo2xO6Jc",
+        "ts": "0:27:41",
+        "retrievedISO": "2026-10-16T08:24:20.122Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "Members took up Resolutions 26-129 and 26-130 together.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Llgbo2xO6Jc",
+        "ts": "0:03:16",
+        "retrievedISO": "2026-10-16T08:24:20.122Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-05",
+      "text": "Recess of the meeting: The chair recessed the meeting to August 19, 2026, at 9 a.m., before testimony was finished.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dBye-CaAkHE",
+        "ts": "2:26:18",
+        "retrievedISO": "2026-10-16T08:06:26.844Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-05",
+      "text": "The resident said the resolutions go against Bill 9's purpose of reclaiming housing in apartment districts.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dBye-CaAkHE",
+        "ts": "2:20:03",
+        "retrievedISO": "2026-10-16T08:06:26.844Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-05",
+      "text": "A Lahaina resident who supports wildfire survivors testified against both resolutions.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dBye-CaAkHE",
+        "ts": "2:15:15",
+        "retrievedISO": "2026-10-16T08:06:26.844Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-05",
+      "text": "The inn's representative said rebuilding only for long-term rentals would not pencil out.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dBye-CaAkHE",
+        "ts": "2:01:48",
+        "retrievedISO": "2026-10-16T08:06:26.844Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-05",
+      "text": "The representative said engineers found the seawall should protect the property if it is maintained.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dBye-CaAkHE",
+        "ts": "2:01:11",
+        "retrievedISO": "2026-10-16T08:06:26.844Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-05",
+      "text": "The representative said any rebuild would go before the Planning Commission for shoreline permits.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dBye-CaAkHE",
+        "ts": "2:00:54",
+        "retrievedISO": "2026-10-16T08:06:26.844Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-05",
+      "text": "The Office of Hawaiian Affairs testified against both resolutions.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dBye-CaAkHE",
+        "ts": "1:22:24",
+        "retrievedISO": "2026-10-16T08:06:26.844Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-05",
+      "text": "Resolution 26-130 covers one Kīhei property and the Makai Sunset Inn in Lahaina.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dBye-CaAkHE",
+        "ts": "0:05:58",
+        "retrievedISO": "2026-10-16T08:06:26.844Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-05",
+      "text": "The chair said properties facing sea level rise may be better suited to vacation rentals than to homes that may not be viable in a few decades.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dBye-CaAkHE",
+        "ts": "0:05:43",
+        "retrievedISO": "2026-10-16T08:06:26.844Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-05",
+      "text": "Resolution 26-129 covers properties expected to be affected by sea level rise by 2100.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dBye-CaAkHE",
+        "ts": "0:05:21",
+        "retrievedISO": "2026-10-16T08:06:26.844Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-05",
+      "text": "Resolutions 26-129 and 26-130 would send proposed bills to the Maui Planning Commission to rezone some apartment properties as hotel districts so vacation rentals can continue.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dBye-CaAkHE",
+        "ts": "0:04:52",
+        "retrievedISO": "2026-10-16T08:06:26.844Z"
       },
       "body": "County Council Housing and Land Use Committee"
     }

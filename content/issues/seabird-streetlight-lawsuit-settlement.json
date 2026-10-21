@@ -1,0 +1,86 @@
+{
+  "slug": "seabird-streetlight-lawsuit-settlement",
+  "title": "Seabird streetlight lawsuit settlement",
+  "summary": "A federal suit by the Conservation Council for Hawaiʻi and the American Bird Conservancy says streetlights threaten three protected seabirds, and a committee recommended a settlement 9–0 in 2025. The matter returned in 2026 as Resolution 26-128 with mediation and a possible trial, and the council then authorized a settlement on terms discussed in closed session.",
+  "topics": [
+    "environment",
+    "government"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2026-08-04",
+  "lastSeenISO": "2026-08-11",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 2,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-20",
+  "timeline": [
+    {
+      "dateISO": "2026-08-11",
+      "text": "The settlement terms were discussed in executive session (a closed-door discussion).",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "H53ZMTLu47A",
+        "ts": "0:46:05",
+        "retrievedISO": "2026-10-16T06:48:22.352Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-08-11",
+      "text": "The council voted to authorize settling a lawsuit brought by the Conservation Council of Hawaiʻi and the American Bird Conservancy.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "H53ZMTLu47A",
+        "ts": "0:45:57",
+        "retrievedISO": "2026-10-16T06:48:22.352Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-08-04",
+      "text": "A county attorney said mediation (talks led by a neutral person) is set for August 10, 2026, at 9 a.m.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "j0NxyxCiC5E",
+        "ts": "0:22:17",
+        "retrievedISO": "2026-10-16T15:24:37.953Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-08-04",
+      "text": "A county attorney said trial may be set for February to April next year.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "j0NxyxCiC5E",
+        "ts": "0:05:11",
+        "retrievedISO": "2026-10-16T15:24:37.953Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-08-04",
+      "text": "The committee took up Resolution 26-128, a proposed settlement of a claim that streetlights threaten three protected seabirds.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "j0NxyxCiC5E",
+        "ts": "0:03:35",
+        "retrievedISO": "2026-10-16T15:24:37.953Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

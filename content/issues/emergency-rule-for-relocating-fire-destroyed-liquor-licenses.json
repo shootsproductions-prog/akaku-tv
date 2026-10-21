@@ -8,7 +8,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-09-09",
+  "firstSeenISO": "2024-11-13",
   "lastSeenISO": "2026-09-09",
   "signals": {
     "meetingsLast30d": 0,
@@ -16,7 +16,7 @@
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-18",
+  "asOfISO": "2026-10-20",
   "timeline": [
     {
       "dateISO": "2026-09-09",
@@ -71,6 +71,50 @@
         "videoId": "JbnNdXeWXNo",
         "ts": "1:57:56",
         "retrievedISO": "2026-10-07T23:03:46.572Z"
+      }
+    },
+    {
+      "dateISO": "2024-11-13",
+      "text": "Renewed reauthorization of the emergency rule on relocation liquor license applications: The commission approved the renewed emergency rule on relocation liquor license applications.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ANUL26xJBj4",
+        "ts": "1:44:38",
+        "retrievedISO": "2026-10-15T06:35:23.973Z"
+      }
+    },
+    {
+      "dateISO": "2024-11-13",
+      "text": "The rule lets an applicant ask for a hearing before the commission to make its case for using a relocation application.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ANUL26xJBj4",
+        "ts": "1:43:42",
+        "retrievedISO": "2026-10-15T06:35:23.973Z"
+      }
+    },
+    {
+      "dateISO": "2024-11-13",
+      "text": "A paragraph number six that was missing last month has been added to the rule.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ANUL26xJBj4",
+        "ts": "1:43:20",
+        "retrievedISO": "2026-10-15T06:35:23.973Z"
+      }
+    },
+    {
+      "dateISO": "2024-11-13",
+      "text": "The commission reviewed a renewed emergency rule on liquor license relocation for premises destroyed by the August 2023 wildfires.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ANUL26xJBj4",
+        "ts": "1:42:40",
+        "retrievedISO": "2026-10-15T06:35:23.973Z"
       }
     }
   ],

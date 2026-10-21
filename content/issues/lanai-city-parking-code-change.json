@@ -1,0 +1,92 @@
+{
+  "slug": "lanai-city-parking-code-change",
+  "title": "Lānaʻi City parking code change",
+  "summary": "The Lānaʻi Planning Commission voted unanimously to start a parking code change for part of Lānaʻi City after a public hearing with one supporting testifier. A formal amendment was tentatively set to return December 18, and the planner said he would take it to the Council if advanced.",
+  "topics": [
+    "land-use",
+    "transportation"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2024-11-22",
+  "lastSeenISO": "2024-11-22",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-20",
+  "timeline": [
+    {
+      "dateISO": "2024-11-22",
+      "text": "Commissioners voted unanimously by a show of hands to start the code change.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "purcMuxRmiM",
+        "ts": "0:09:41",
+        "retrievedISO": "2026-10-15T06:35:17.710Z"
+      }
+    },
+    {
+      "dateISO": "2024-11-22",
+      "text": "The planner said that if the commission moves the amendment forward, he will take it to the council.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "purcMuxRmiM",
+        "ts": "0:06:31",
+        "retrievedISO": "2026-10-15T06:35:17.710Z"
+      }
+    },
+    {
+      "dateISO": "2024-11-22",
+      "text": "The planner said a formal amendment is tentatively set to return on December 18th.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "purcMuxRmiM",
+        "ts": "0:06:19",
+        "retrievedISO": "2026-10-15T06:35:17.710Z"
+      }
+    },
+    {
+      "dateISO": "2024-11-22",
+      "text": "A county planner said this vote would only start the code change process.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "purcMuxRmiM",
+        "ts": "0:05:57",
+        "retrievedISO": "2026-10-15T06:35:17.710Z"
+      }
+    },
+    {
+      "dateISO": "2024-11-22",
+      "text": "One testifier spoke in strong support of the change.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "purcMuxRmiM",
+        "ts": "0:04:07",
+        "retrievedISO": "2026-10-15T06:35:17.710Z"
+      }
+    },
+    {
+      "dateISO": "2024-11-22",
+      "text": "The commission held a public hearing on starting a parking code change for part of Lānaʻi City.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "purcMuxRmiM",
+        "ts": "0:03:02",
+        "retrievedISO": "2026-10-15T06:35:17.710Z"
+      }
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

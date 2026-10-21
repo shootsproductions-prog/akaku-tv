@@ -1,0 +1,92 @@
+{
+  "slug": "coconut-rhinoceros-beetle-detections-on-maui",
+  "title": "Coconut rhinoceros beetle detections on Maui",
+  "summary": "The County held a town hall after CRB finds dating to 17 larvae in Kīhei in 2023, with the latest a dead beetle in a trap; the state said wiping out CRB remains the goal. An invasive species program reported another dead beetle on April 1 and sought more budget help.",
+  "topics": [
+    "environment",
+    "food-security"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2026-07-13",
+  "lastSeenISO": "2026-07-13",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-20",
+  "timeline": [
+    {
+      "dateISO": "2026-07-13",
+      "text": "On Lānaʻi, CRB was caught three times in large potted plants at a quarantine facility.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3ySjp_nHkPA",
+        "ts": "1:16:00",
+        "retrievedISO": "2026-10-13T06:35:16.618Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-13",
+      "text": "A state agriculture official said wiping out CRB is still the goal for Maui County.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3ySjp_nHkPA",
+        "ts": "0:46:57",
+        "retrievedISO": "2026-10-13T06:35:16.618Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-13",
+      "text": "The most recent find was one dead beetle in a trap at Home Depot on Monday.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3ySjp_nHkPA",
+        "ts": "0:43:10",
+        "retrievedISO": "2026-10-13T06:35:16.618Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-13",
+      "text": "In November 2023, 17 live larvae were found in a dead coconut stump in Kīhei.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3ySjp_nHkPA",
+        "ts": "0:40:07",
+        "retrievedISO": "2026-10-13T06:35:16.618Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-13",
+      "text": "CRB has damaged banana, sugar cane, kalo and pineapple plants.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3ySjp_nHkPA",
+        "ts": "0:15:02",
+        "retrievedISO": "2026-10-13T06:35:16.618Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-13",
+      "text": "The County of Maui held a town hall on the coconut rhinoceros beetle, also called CRB.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3ySjp_nHkPA",
+        "ts": "0:00:07",
+        "retrievedISO": "2026-10-13T06:35:16.618Z"
+      }
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

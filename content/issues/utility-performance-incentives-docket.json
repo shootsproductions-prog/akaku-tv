@@ -1,0 +1,37 @@
+{
+  "slug": "utility-performance-incentives-docket",
+  "title": "Utility performance incentives docket",
+  "summary": "At an October 2026 Public Utilities Commission (PUC) hearing, the public heard the commission must set performance-based incentives tying utility revenues to performance on or before January 1, 2027. The public may file comments at any time in a separate docket on utility performance incentives.",
+  "topics": [
+    "economy",
+    "government"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-10-02",
+  "lastSeenISO": "2026-10-02",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 1,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-20",
+  "timeline": [
+    {
+      "dateISO": "2026-10-02",
+      "text": "The public may file comments at any time in a separate docket on utility performance incentives.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "M_5S-cKHK18",
+        "ts": "0:28:25",
+        "retrievedISO": "2026-10-07T23:03:44.974Z"
+      }
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

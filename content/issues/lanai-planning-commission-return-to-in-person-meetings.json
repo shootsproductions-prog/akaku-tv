@@ -1,0 +1,58 @@
+{
+  "slug": "lanai-planning-commission-return-to-in-person-meetings",
+  "title": "Lānaʻi Planning Commission return to in-person meetings",
+  "summary": "The planning department planned a Lānaʻi site visit in January 2025 to prepare for in-person meetings. In May 2026 staff said the planning director allows in-person meetings but does not want staff staying overnight, and the chair asked for her position on hybrid meetings.",
+  "topics": [
+    "government"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2024-11-22",
+  "lastSeenISO": "2026-05-20",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-20",
+  "timeline": [
+    {
+      "dateISO": "2026-05-20",
+      "text": "Staff will ask the planning director why she does not want overnight stays and what her position is on hybrid meetings.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "gmpZbZbCHi4",
+        "ts": "2:26:47",
+        "retrievedISO": "2026-10-15T06:35:01.650Z"
+      }
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "Staff said the planning director allows in-person meetings but does not want staff to stay overnight.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "gmpZbZbCHi4",
+        "ts": "2:14:27",
+        "retrievedISO": "2026-10-15T06:35:01.650Z"
+      }
+    },
+    {
+      "dateISO": "2024-11-22",
+      "text": "The planning department plans a Lānaʻi site visit on January 18th to prepare for in-person meetings.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "purcMuxRmiM",
+        "ts": "1:04:32",
+        "retrievedISO": "2026-10-15T06:35:17.710Z"
+      }
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
