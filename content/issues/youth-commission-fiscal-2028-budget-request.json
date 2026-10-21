@@ -11,9 +11,9 @@
   "firstSeenISO": "2026-07-20",
   "lastSeenISO": "2026-09-21",
   "signals": {
-    "meetingsLast30d": 1,
+    "meetingsLast30d": 0,
     "meetingsLast90d": 2,
-    "mentionsLast30d": 1,
+    "mentionsLast30d": 0,
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-21",
