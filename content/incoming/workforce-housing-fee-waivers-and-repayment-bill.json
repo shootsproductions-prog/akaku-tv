@@ -1,0 +1,70 @@
+{
+  "slug": "workforce-housing-fee-waivers-and-repayment-bill",
+  "title": "Workforce housing fee waivers and repayment bill",
+  "summary": "Bill 48 gives a full fee waiver for workforce housing units at or below 100% of area median income, lets the housing director decide which units qualify, and the waivers were added to the budget's fee schedule. A newer bill, Bill 130, would make developers repay waivers when affordable homes sell in higher price tiers.",
+  "topics": [
+    "housing"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-09-29",
+  "lastSeenISO": "2026-09-29",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 3,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-21",
+  "timeline": [
+    {
+      "dateISO": "2026-09-29",
+      "text": "The sponsor said a developer that had flipped homes out of affordability came back asking for money.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "CWTHDPLTwS0",
+        "ts": "1:15:34",
+        "retrievedISO": "2026-10-16T04:23:58.786Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-09-29",
+      "text": "The sponsor said the original fee waivers were rushed through before the budget.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "CWTHDPLTwS0",
+        "ts": "1:15:06",
+        "retrievedISO": "2026-10-16T04:23:58.786Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-09-29",
+      "text": "A bill would make developers repay fee waivers when affordable homes sell in higher price tiers.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "CWTHDPLTwS0",
+        "ts": "1:14:49",
+        "retrievedISO": "2026-10-16T04:23:58.786Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-09-29",
+      "text": "Bill 130, 2026, repayment of fee waivers for affordable housing: The fee waiver repayment bill was moved on first reading, but no vote is in the recording.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "CWTHDPLTwS0",
+        "ts": "1:14:35",
+        "retrievedISO": "2026-10-16T04:23:58.786Z"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

@@ -1,0 +1,551 @@
+{
+  "slug": "county-buying-private-west-maui-water-systems",
+  "title": "County buying private West Maui water systems",
+  "summary": "At a September 30 special meeting, a council member said the County controls delivery of 23 percent of West Maui water and private companies deliver 77 percent, and that the Council recently approved buying three water systems. The County is still in due diligence on buying other systems, aiming for about 90 percent public control.",
+  "topics": [
+    "water",
+    "disaster-recovery"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-07-27",
+  "lastSeenISO": "2026-09-30",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 6,
+    "mentionsLast30d": 3,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-21",
+  "timeline": [
+    {
+      "dateISO": "2026-09-30",
+      "text": "The member said the County is still in the due diligence (fact-checking) phase for buying other systems.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oZNc2fyyOPE",
+        "ts": "0:22:28",
+        "retrievedISO": "2026-10-16T03:41:33.571Z"
+      },
+      "body": "County Council Special Meeting"
+    },
+    {
+      "dateISO": "2026-09-30",
+      "text": "The county is still checking details on other water systems, aiming for about 90 percent public control.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ygVQPiP4ARw",
+        "ts": "0:22:28",
+        "retrievedISO": "2026-10-16T04:03:27.140Z"
+      },
+      "body": "County Council Special Meeting"
+    },
+    {
+      "dateISO": "2026-09-30",
+      "text": "A council member said the purchases will increase public control of water.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oZNc2fyyOPE",
+        "ts": "0:22:19",
+        "retrievedISO": "2026-10-16T03:41:33.571Z"
+      },
+      "body": "County Council Special Meeting"
+    },
+    {
+      "dateISO": "2026-09-30",
+      "text": "The member said the Council recently approved buying three water systems.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oZNc2fyyOPE",
+        "ts": "0:22:03",
+        "retrievedISO": "2026-10-16T03:41:33.571Z"
+      },
+      "body": "County Council Special Meeting"
+    },
+    {
+      "dateISO": "2026-09-30",
+      "text": "A council member said the County controls delivery of 23 percent of West Maui water, and private companies deliver 77 percent.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oZNc2fyyOPE",
+        "ts": "0:21:33",
+        "retrievedISO": "2026-10-16T03:41:33.571Z"
+      },
+      "body": "County Council Special Meeting"
+    },
+    {
+      "dateISO": "2026-08-25",
+      "text": "The water purchase passed 8–1, with the chair voting no.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pRcBgWNK6vM",
+        "ts": "1:23:00",
+        "retrievedISO": "2026-10-16T15:11:48.128Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-08-25",
+      "text": "A council member said the community on the West Side wants the County to buy the system.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pRcBgWNK6vM",
+        "ts": "1:22:18",
+        "retrievedISO": "2026-10-16T15:11:48.128Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-08-25",
+      "text": "The department said it created ten unfunded positions it plans to fill for the added work.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pRcBgWNK6vM",
+        "ts": "1:17:53",
+        "retrievedISO": "2026-10-16T15:11:48.128Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-08-25",
+      "text": "The chair said she had been told the department lacked enough staff to take over the system.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pRcBgWNK6vM",
+        "ts": "1:17:09",
+        "retrievedISO": "2026-10-16T15:11:48.128Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-08-25",
+      "text": "The department said a six-month due diligence period will show the total administrative costs to the County.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pRcBgWNK6vM",
+        "ts": "1:15:55",
+        "retrievedISO": "2026-10-16T15:11:48.128Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-08-25",
+      "text": "The water department said it will train and bring on extra employees during a transition of about six months.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pRcBgWNK6vM",
+        "ts": "1:15:28",
+        "retrievedISO": "2026-10-16T15:11:48.128Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-08-25",
+      "text": "He said funding for the purchase is already in the account.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pRcBgWNK6vM",
+        "ts": "1:14:27",
+        "retrievedISO": "2026-10-16T15:11:48.128Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-08-25",
+      "text": "The deputy water director said the deal includes wells, storage tanks, transmission lines, reservoirs and booster pumps.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pRcBgWNK6vM",
+        "ts": "1:14:02",
+        "retrievedISO": "2026-10-16T15:11:48.128Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-08-25",
+      "text": "The Council took up buying private water system assets for up to $6 million.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pRcBgWNK6vM",
+        "ts": "1:06:21",
+        "retrievedISO": "2026-10-16T15:11:48.128Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "Item on the proposed acquisition of the irrigation company's water infrastructure assets: The chair deferred the item because the committee had to leave the room.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "9O-5VI6zndk",
+        "ts": "0:56:20",
+        "retrievedISO": "2026-10-16T06:26:30.067Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "Motion to enter executive session on DRIP 9.12, the proposed acquisition of an irrigation company's water infrastructure assets: The motion passed 7–0, with two members excused.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "9O-5VI6zndk",
+        "ts": "0:52:06",
+        "retrievedISO": "2026-10-16T06:26:30.067Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "The chair said this purchase covers the non-potable side, since the committee already voted on the potable side.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "9O-5VI6zndk",
+        "ts": "0:06:06",
+        "retrievedISO": "2026-10-16T06:26:30.067Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-08-04",
+      "text": "The chair said the water resolution now goes on to the council chair.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "yLs5op0XhHI",
+        "ts": "1:05:47",
+        "retrievedISO": "2026-10-16T08:12:38.489Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-08-04",
+      "text": "The committee passed the water motion 7 to 1, with one member excused.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "yLs5op0XhHI",
+        "ts": "1:04:54",
+        "retrievedISO": "2026-10-16T08:12:38.489Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-08-04",
+      "text": "A member who supported the purchase said the West Side has been asking for public control over water.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "yLs5op0XhHI",
+        "ts": "0:57:06",
+        "retrievedISO": "2026-10-16T08:12:38.489Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-08-04",
+      "text": "Staff said yearly operating costs are about $879,000 for one system and $671,000 for the other.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "yLs5op0XhHI",
+        "ts": "0:18:42",
+        "retrievedISO": "2026-10-16T08:12:38.489Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-08-04",
+      "text": "An engineer said site walks found no leaks above normal.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "yLs5op0XhHI",
+        "ts": "0:15:52",
+        "retrievedISO": "2026-10-16T08:12:38.489Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-08-04",
+      "text": "No one signed up to testify on the water item.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "yLs5op0XhHI",
+        "ts": "0:11:05",
+        "retrievedISO": "2026-10-16T08:12:38.489Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-08-04",
+      "text": "The price would be up to $6 million, not counting closing costs.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "yLs5op0XhHI",
+        "ts": "0:07:32",
+        "retrievedISO": "2026-10-16T08:12:38.489Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-07-29",
+      "text": "The managing director said these purchases, with others discussed this week, would raise public control of West Maui drinking water systems from about 45% to 93%.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "2ynYBa2vQ28",
+        "ts": "0:08:54",
+        "retrievedISO": "2026-10-16T15:48:00.188Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-07-27",
+      "text": "If the council acts in August, closing could come around April next year.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jnrjcCyjtzE",
+        "ts": "2:05:04",
+        "retrievedISO": "2026-10-16T16:26:54.417Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-07-27",
+      "text": "Once the council approves, the County would start the Public Utilities Commission (PUC) process.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jnrjcCyjtzE",
+        "ts": "2:04:59",
+        "retrievedISO": "2026-10-16T16:26:54.417Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-07-27",
+      "text": "After committee approval, the item would go to the full council for final approval.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jnrjcCyjtzE",
+        "ts": "2:04:54",
+        "retrievedISO": "2026-10-16T16:26:54.417Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-07-27",
+      "text": "The administration plans to answer follow-up questions from committee staff, ideally by the August 4 meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jnrjcCyjtzE",
+        "ts": "2:04:29",
+        "retrievedISO": "2026-10-16T16:26:54.417Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-07-27",
+      "text": "The item is expected at Council Member Sugimura's committee on August 4.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jnrjcCyjtzE",
+        "ts": "2:04:23",
+        "retrievedISO": "2026-10-16T16:26:54.417Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-07-27",
+      "text": "The chair said the item was for discussion only.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jnrjcCyjtzE",
+        "ts": "2:04:10",
+        "retrievedISO": "2026-10-16T16:26:54.417Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-07-27",
+      "text": "Staff were asked to note a request to clarify when approval from a state water agency is needed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jnrjcCyjtzE",
+        "ts": "1:59:24",
+        "retrievedISO": "2026-10-16T16:26:54.417Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-07-27",
+      "text": "An official said only Public Utilities Commission (PUC) approval is needed for the purchase itself.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jnrjcCyjtzE",
+        "ts": "1:47:39",
+        "retrievedISO": "2026-10-16T16:26:54.417Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-07-27",
+      "text": "The department said the County will not buy the systems if the Public Utilities Commission (PUC) does not approve the sale.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jnrjcCyjtzE",
+        "ts": "1:01:39",
+        "retrievedISO": "2026-10-16T16:26:54.417Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-07-27",
+      "text": "Officials said connecting the systems would give better resiliency and redundancy.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jnrjcCyjtzE",
+        "ts": "0:59:46",
+        "retrievedISO": "2026-10-16T16:26:54.417Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-07-27",
+      "text": "The County would buy the companies' assets, not the companies themselves.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jnrjcCyjtzE",
+        "ts": "0:56:12",
+        "retrievedISO": "2026-10-16T16:26:54.417Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-07-27",
+      "text": "Another testifier supported the purchase but questioned paying above the appraised value for one system.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jnrjcCyjtzE",
+        "ts": "0:45:00",
+        "retrievedISO": "2026-10-16T16:26:54.417Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-07-27",
+      "text": "A testifier said 77% of West Maui water systems are owned by private entities.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jnrjcCyjtzE",
+        "ts": "0:43:16",
+        "retrievedISO": "2026-10-16T16:26:54.417Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-07-27",
+      "text": "The water department said the sellers would run the systems for about six months during the handover.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jnrjcCyjtzE",
+        "ts": "0:27:15",
+        "retrievedISO": "2026-10-16T16:26:54.417Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-07-27",
+      "text": "The smaller system's price is $2.5 million, and it was appraised at $1.987 million.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jnrjcCyjtzE",
+        "ts": "0:14:15",
+        "retrievedISO": "2026-10-16T16:26:54.417Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-07-27",
+      "text": "The larger system's price is $3.5 million, and it was appraised at $8,056,000.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jnrjcCyjtzE",
+        "ts": "0:09:29",
+        "retrievedISO": "2026-10-16T16:26:54.417Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-07-27",
+      "text": "The larger system has three wells, two tanks and 402 active connections.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jnrjcCyjtzE",
+        "ts": "0:09:11",
+        "retrievedISO": "2026-10-16T16:26:54.417Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-07-27",
+      "text": "The Director of Finance found the purchase is in the public interest to support long-term water service in West Maui.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jnrjcCyjtzE",
+        "ts": "0:05:37",
+        "retrievedISO": "2026-10-16T16:26:54.417Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-07-27",
+      "text": "The total price is up to $6 million, not counting closing costs.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jnrjcCyjtzE",
+        "ts": "0:05:01",
+        "retrievedISO": "2026-10-16T16:26:54.417Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    }
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

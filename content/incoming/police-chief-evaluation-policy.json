@@ -1,0 +1,45 @@
+{
+  "slug": "police-chief-evaluation-policy",
+  "title": "Police chief evaluation policy",
+  "summary": "A first draft of a policy for evaluating the police chief was expected October 31, 2024. In November work on the chief's evaluation was moved to the December meeting under a new title so all members had the consultant's document.",
+  "topics": [
+    "public-safety",
+    "government"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2024-10-23",
+  "lastSeenISO": "2024-11-20",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-21",
+  "timeline": [
+    {
+      "dateISO": "2024-11-20",
+      "text": "The chair will work with the commission secretary so members get the consultant's document and feedback, and the item returns in December under a new title.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TxzLnQKaEY0",
+        "ts": "1:47:09",
+        "retrievedISO": "2026-10-15T06:35:19.562Z"
+      }
+    },
+    {
+      "dateISO": "2024-10-23",
+      "text": "A first draft of a policy for evaluating the police chief is expected October 31.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1hfypFiHaWQ",
+        "ts": "0:26:53",
+        "retrievedISO": "2026-10-15T06:35:36.810Z"
+      }
+    }
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
