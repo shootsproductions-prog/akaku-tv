@@ -1,0 +1,121 @@
+{
+  "slug": "state-transportation-asset-plan-and-highway-targets",
+  "title": "State transportation asset plan and highway targets",
+  "summary": "State highway staff presented proposed pavement and bridge condition targets to the Maui MPO technical committee, where the chair said they could not back the full plan without seeing it. The policy board later deferred the plan and targets to next month because the plan is not final.",
+  "topics": [
+    "transportation"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-07-01",
+  "lastSeenISO": "2026-10-13",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 2,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-20",
+  "timeline": [
+    {
+      "dateISO": "2026-10-13",
+      "text": "The state transportation department is expected to give a short presentation next month so the board can act on the plan.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "gkthw9WAhio",
+        "ts": "0:35:13",
+        "retrievedISO": "2026-10-14T06:40:02.954Z"
+      }
+    },
+    {
+      "dateISO": "2026-10-13",
+      "text": "A state transportation asset plan and performance targets were deferred to next month because the plan is not final.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "gkthw9WAhio",
+        "ts": "0:34:44",
+        "retrievedISO": "2026-10-14T06:40:02.954Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-01",
+      "text": "Staff said they will still share the final draft plan with members for review.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "85yeBesaw7k",
+        "ts": "1:07:18",
+        "retrievedISO": "2026-10-13T06:35:24.034Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-01",
+      "text": "State staff said they expect a final plan report by August.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "85yeBesaw7k",
+        "ts": "1:02:49",
+        "retrievedISO": "2026-10-13T06:35:24.034Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-01",
+      "text": "The chair said they could not back the full plan without seeing it.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "85yeBesaw7k",
+        "ts": "0:58:08",
+        "retrievedISO": "2026-10-13T06:35:24.034Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-01",
+      "text": "Staff said they expect about 20% less funding for these bridges.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "85yeBesaw7k",
+        "ts": "0:53:26",
+        "retrievedISO": "2026-10-13T06:35:24.034Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-01",
+      "text": "Proposed bridge targets are 30% good and 4% poor.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "85yeBesaw7k",
+        "ts": "0:43:59",
+        "retrievedISO": "2026-10-13T06:35:24.034Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-01",
+      "text": "Proposed two-year targets for national highway system pavement are 25% good and 4% poor.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "85yeBesaw7k",
+        "ts": "0:41:28",
+        "retrievedISO": "2026-10-13T06:35:24.034Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-01",
+      "text": "State highway staff presented a 2026 update to the state's Transportation Asset Management Plan.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "85yeBesaw7k",
+        "ts": "0:29:35",
+        "retrievedISO": "2026-10-13T06:35:24.034Z"
+      }
+    }
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

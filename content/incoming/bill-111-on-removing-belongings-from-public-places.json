@@ -1,0 +1,45 @@
+{
+  "slug": "bill-111-on-removing-belongings-from-public-places",
+  "title": "Bill 111 on removing belongings from public places",
+  "summary": "Bill 111 sets steps for relocating people from public places and storing their property, with 45 days' notice and 90 days' storage. In March 2025 a county lawyer reviewed the Davis v. Bissen decision, and the bill was deferred to return with amendments after the budget.",
+  "topics": [
+    "housing",
+    "public-safety"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2024-11-21",
+  "lastSeenISO": "2024-11-21",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-20",
+  "timeline": [
+    {
+      "dateISO": "2024-11-21",
+      "text": "The chair urged commissioners to watch a December 3 meeting and review the bill.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Q68bJ_NdJxU",
+        "ts": "1:37:10",
+        "retrievedISO": "2026-10-15T06:35:16.487Z"
+      }
+    },
+    {
+      "dateISO": "2024-11-21",
+      "text": "A testifier said people could not get back belongings taken in homeless sweeps.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Q68bJ_NdJxU",
+        "ts": "1:30:51",
+        "retrievedISO": "2026-10-15T06:35:16.487Z"
+      }
+    }
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

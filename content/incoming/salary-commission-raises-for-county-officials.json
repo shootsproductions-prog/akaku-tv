@@ -1,0 +1,111 @@
+{
+  "slug": "salary-commission-raises-for-county-officials",
+  "title": "Salary commission raises for county officials",
+  "summary": "The Police Commission voted to send a letter to the salary commission suggesting a 5% raise for the police chief after the salary commission suggested 3.5%. The Civil Service Commission later heard that the salary commission met June 12 and gave no raises to elected officials, directors or deputies.",
+  "topics": [
+    "government",
+    "economy"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2026-05-21",
+  "lastSeenISO": "2026-07-01",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-20",
+  "timeline": [
+    {
+      "dateISO": "2026-07-01",
+      "text": "The salary commission met June 12 and gave no raises to elected officials, directors or deputies.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "qrQsEpbjdgA",
+        "ts": "0:28:24",
+        "retrievedISO": "2026-10-13T06:35:23.239Z"
+      }
+    },
+    {
+      "dateISO": "2026-05-27",
+      "text": "The chair will send a letter to the salary commission with the commission's recommendations.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7U6qV2DXCW8",
+        "ts": "1:36:04",
+        "retrievedISO": "2026-10-14T06:40:13.308Z"
+      }
+    },
+    {
+      "dateISO": "2026-05-27",
+      "text": "The commission approved the letter with eight yeses.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7U6qV2DXCW8",
+        "ts": "1:35:38",
+        "retrievedISO": "2026-10-14T06:40:13.308Z"
+      }
+    },
+    {
+      "dateISO": "2026-05-27",
+      "text": "The chair asked for a motion to send a letter suggesting a 5% raise for the chief.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7U6qV2DXCW8",
+        "ts": "1:32:55",
+        "retrievedISO": "2026-10-14T06:40:13.308Z"
+      }
+    },
+    {
+      "dateISO": "2026-05-27",
+      "text": "The salary commission has suggested a 3.5% raise for the chief.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7U6qV2DXCW8",
+        "ts": "1:29:32",
+        "retrievedISO": "2026-10-14T06:40:13.308Z"
+      }
+    },
+    {
+      "dateISO": "2026-05-21",
+      "text": "A speaker said the salary commission would likely make its decisions within the next three months.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "R_MPvIqY5cU",
+        "ts": "0:22:02",
+        "retrievedISO": "2026-10-15T06:35:03.361Z"
+      }
+    },
+    {
+      "dateISO": "2026-05-21",
+      "text": "The chair said the commission got most of what it had asked the salary commission for.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "R_MPvIqY5cU",
+        "ts": "0:20:43",
+        "retrievedISO": "2026-10-15T06:35:03.361Z"
+      }
+    },
+    {
+      "dateISO": "2026-05-21",
+      "text": "The chair said the commission sent a May 8 letter supporting a 3.5% salary structure adjustment for 2026.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "R_MPvIqY5cU",
+        "ts": "0:19:51",
+        "retrievedISO": "2026-10-15T06:35:03.361Z"
+      }
+    }
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
