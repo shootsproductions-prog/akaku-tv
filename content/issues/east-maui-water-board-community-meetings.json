@@ -6,10 +6,10 @@
     "water",
     "government"
   ],
-  "status": "active",
+  "status": "quiet",
   "pinned": false,
   "firstSeenISO": "2026-05-15",
-  "lastSeenISO": "2026-08-23",
+  "lastSeenISO": "2026-08-20",
   "signals": {
     "meetingsLast30d": 0,
     "meetingsLast90d": 1,
@@ -19,7 +19,7 @@
   "asOfISO": "2026-10-21",
   "timeline": [
     {
-      "dateISO": "2026-08-23",
+      "dateISO": "2026-08-20",
       "text": "A planned community meeting in Upcountry and Kula was canceled after a tropical storm.",
       "basis": "said-at-meeting",
       "source": {
