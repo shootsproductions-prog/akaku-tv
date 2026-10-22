@@ -1,0 +1,45 @@
+{
+  "slug": "disability-representation-on-county-commissions",
+  "title": "Disability representation on county commissions",
+  "summary": "At the Commission on Persons with Disabilities, a commissioner asked to discuss giving people with disabilities a seat on every commission. A month later a commissioner who described harsh treatment during an arrest asked that someone who understands disability sit on the police commission.",
+  "topics": [
+    "government",
+    "health"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2026-07-09",
+  "lastSeenISO": "2026-08-13",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-22",
+  "timeline": [
+    {
+      "dateISO": "2026-08-13",
+      "text": "A commissioner described harsh treatment by police during an arrest and asked that someone who understands disability sit on the police commission.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "sY6AwUuHzjI",
+        "ts": "0:44:50",
+        "retrievedISO": "2026-10-12T06:30:07.228Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-09",
+      "text": "A commissioner asked to discuss giving people with disabilities a seat on every commission.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "4m34BcHhzUs",
+        "ts": "1:26:15",
+        "retrievedISO": "2026-10-13T06:35:17.645Z"
+      }
+    }
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "filling-a-vacant-board-of-water-supply-seat",
+  "title": "Filling a vacant Board of Water Supply seat",
+  "summary": "On September 23, staff reported resignations from the Liquor Control Adjudication Board, the Board of Water Supply and the Independent Nomination Board itself. The board's list for the Board of Water Supply seat is due October 19. Members agreed, without a formal vote, to cancel the October 14th meeting if no Board of Water Supply application arrives by the 8th.",
+  "topics": [
+    "water",
+    "government"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-09-23",
+  "lastSeenISO": "2026-09-23",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 3,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-22",
+  "timeline": [
+    {
+      "dateISO": "2026-09-23",
+      "text": "Whether to hold the October 14th meeting: Members agreed, without a formal vote, that the October 14th meeting will be canceled if no Board of Water Supply application arrives by the 8th.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3Jc9Mp68Wcs",
+        "ts": "0:25:57",
+        "retrievedISO": "2026-10-07T23:03:48.406Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-23",
+      "text": "Staff said the board's list for the Board of Water Supply seat is due October 19.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3Jc9Mp68Wcs",
+        "ts": "0:23:25",
+        "retrievedISO": "2026-10-07T23:03:48.406Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-23",
+      "text": "Staff reported resignations from the Liquor Control Adjudication Board, the Board of Water Supply and the Independent Nomination Board itself.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3Jc9Mp68Wcs",
+        "ts": "0:02:26",
+        "retrievedISO": "2026-10-07T23:03:48.406Z"
+      }
+    }
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

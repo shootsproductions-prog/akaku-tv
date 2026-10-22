@@ -1,0 +1,33 @@
+{
+  "slug": "new-countywide-water-conservation-ordinance",
+  "title": "New countywide water conservation ordinance",
+  "summary": "Bill 158 sets water conservation rules, including rules for declared water shortages, and took effect March 1, 2026. Developers and council members have since pointed to its limits, such as watering only three times a week, in project reviews.",
+  "topics": [
+    "water"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2026-08-04",
+  "lastSeenISO": "2026-08-04",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-22",
+  "timeline": [
+    {
+      "dateISO": "2026-08-04",
+      "text": "The landscape architect said irrigation will meet the county's new water conservation bill, which limits watering to three times a week.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "k9sST0HTG-0",
+        "ts": "1:15:27",
+        "retrievedISO": "2026-10-13T06:35:09.670Z"
+      }
+    }
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
