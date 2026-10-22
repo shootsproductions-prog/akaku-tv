@@ -7,7 +7,7 @@
   ],
   "status": "quiet",
   "pinned": false,
-  "firstSeenISO": "2026-08-11",
+  "firstSeenISO": "2026-07-02",
   "lastSeenISO": "2026-08-11",
   "signals": {
     "meetingsLast30d": 0,
@@ -28,6 +28,102 @@
         "retrievedISO": "2026-10-16T06:48:22.352Z"
       },
       "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-07-02",
+      "text": "The director said fare-free day notices would go to the council chair by a letter through the mayor's office.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xKztqre69Yg",
+        "ts": "0:29:24",
+        "retrievedISO": "2026-10-16T17:21:47.496Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-07-02",
+      "text": "The committee chair said making buses free for everyone would be discussed later as the program rolls out.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xKztqre69Yg",
+        "ts": "0:26:04",
+        "retrievedISO": "2026-10-16T17:21:47.496Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-07-02",
+      "text": "The director said federal funding rules mean free regular bus routes would also make paratransit, the ADA ride service, free.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xKztqre69Yg",
+        "ts": "0:23:49",
+        "retrievedISO": "2026-10-16T17:21:47.496Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-07-02",
+      "text": "If the bill moves forward, the director said the department would need an updated talk with MEO about the fare-free application process.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xKztqre69Yg",
+        "ts": "0:20:53",
+        "retrievedISO": "2026-10-16T17:21:47.496Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-07-02",
+      "text": "He estimated the County would not collect about $2,806 in fares for each free day.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xKztqre69Yg",
+        "ts": "0:12:01",
+        "retrievedISO": "2026-10-16T17:21:47.496Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-07-02",
+      "text": "He named the Maui County Fair and Earth Day as possible free-ride days.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xKztqre69Yg",
+        "ts": "0:06:26",
+        "retrievedISO": "2026-10-16T17:21:47.496Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-07-02",
+      "text": "New bus fares in the fiscal year 2027 budget took effect the day before, and Bill 95 would write them into County code.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xKztqre69Yg",
+        "ts": "0:03:27",
+        "retrievedISO": "2026-10-16T17:21:47.496Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-07-02",
+      "text": "The committee's only agenda item was Bill 95.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xKztqre69Yg",
+        "ts": "0:03:04",
+        "retrievedISO": "2026-10-16T17:21:47.496Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
     }
   ],
   "sourceTypes": [

@@ -8,7 +8,7 @@
   ],
   "status": "quiet",
   "pinned": false,
-  "firstSeenISO": "2026-08-18",
+  "firstSeenISO": "2026-06-24",
   "lastSeenISO": "2026-08-18",
   "signals": {
     "meetingsLast30d": 0,
@@ -111,6 +111,42 @@
         "videoId": "ZI16NC6wq_w",
         "ts": "1:39:43",
         "retrievedISO": "2026-10-16T06:42:24.117Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-06-24",
+      "text": "The chair said the rulemaking question would be clarified by the next meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UElWUY1WxpQ",
+        "ts": "1:33:14",
+        "retrievedISO": "2026-10-16T17:44:47.890Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-06-24",
+      "text": "A council member asked staff to send the administration a question about when formal rulemaking is required.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UElWUY1WxpQ",
+        "ts": "1:17:12",
+        "retrievedISO": "2026-10-16T17:44:47.890Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-06-24",
+      "text": "The second item was Bill 73, which would require countywide administrative rules for the County Grants Program.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UElWUY1WxpQ",
+        "ts": "0:48:10",
+        "retrievedISO": "2026-10-16T17:44:47.890Z"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
     }

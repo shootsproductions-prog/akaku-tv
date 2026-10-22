@@ -7,7 +7,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-07-13",
+  "firstSeenISO": "2026-08-06",
   "lastSeenISO": "2026-09-04",
   "signals": {
     "meetingsLast30d": 0,
@@ -244,28 +244,6 @@
         "retrievedISO": "2026-10-16T07:24:07.396Z"
       },
       "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
-    },
-    {
-      "dateISO": "2026-07-13",
-      "text": "Under the plan, organics processing sites are to use best practices to stop invasive species from spreading between regions.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "3ySjp_nHkPA",
-        "ts": "0:33:58",
-        "retrievedISO": "2026-10-13T06:35:16.618Z"
-      }
-    },
-    {
-      "dateISO": "2026-07-13",
-      "text": "The County's food and nutritional security plan includes an objective to manage invasive species.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "3ySjp_nHkPA",
-        "ts": "0:33:41",
-        "retrievedISO": "2026-10-13T06:35:16.618Z"
-      }
     }
   ],
   "sourceTypes": [

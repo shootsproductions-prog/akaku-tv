@@ -176,15 +176,18 @@
     "youth-commission-fiscal-2028-budget-request.json",
     "youth-commission-list-of-county-funded-youth-programs.json",
     "youth-commission-press-release-on-child-abuse-reporting.json",
-    "bill-111-on-removing-belongings-from-public-places.json"
+    "bill-111-on-removing-belongings-from-public-places.json",
+    "cap-on-bed-and-breakfast-homes-on-molokai.json",
+    "johnson-controls-energy-savings-contract-phase-3.json",
+    "park-maui-paid-and-resident-parking-rules.json"
   ],
   "aliases": {},
   "defaultFollows": [
     "board-of-water-supply-opposes-bill-1",
     "new-west-maui-wells-timeline"
   ],
-  "updatedAt": "2026-10-22T06:40:11.121Z",
-  "etag": "38741e13bfb2113fa8094ad1aa430b65453991ee0a211e053818f551e3d1ca5f",
+  "updatedAt": "2026-10-22T07:26:10.794Z",
+  "etag": "3624119f6c9a99b33f0486a58a8f2b4fb844e405acdd3d97e6f4abbfa154d61d",
   "files": {
     "board-of-water-supply-opposes-bill-1.json": {
       "updatedAt": "2026-10-21T10:26:15.429Z",
@@ -271,8 +274,8 @@
       "sha256": "015e1301cc644865afc97f6c3c14d719d8d1917e574e8fddd52555fe31acc4cf"
     },
     "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p.json": {
-      "updatedAt": "2026-10-21T10:26:15.429Z",
-      "sha256": "c159127723d926bc3d1c2a4aceac9fabf59c5fd38d5acdc67a83b814311ba57a"
+      "updatedAt": "2026-10-22T07:26:10.794Z",
+      "sha256": "f7c23652963deb5c4bc41e30ac82d22bb8048249959c50100898c6cfe6e9e7df"
     },
     "exceptional-tree-list-update-after-the-fire.json": {
       "updatedAt": "2026-10-21T10:26:15.429Z",
@@ -339,8 +342,8 @@
       "sha256": "3bdc117f3923bcd981ebee1dd321fa02cdea8014abc961a5a6773307c3b58ac8"
     },
     "paia-40-acre-housing-project-rezoning.json": {
-      "updatedAt": "2026-10-22T06:40:11.121Z",
-      "sha256": "3dcf921311be8030f93219a27311815842a30748c8e0656c46fd58f540fcad4c"
+      "updatedAt": "2026-10-22T07:26:10.794Z",
+      "sha256": "15a69644b542adc441f52bbe29f900b9056489e31467194fb0420b835177872c"
     },
     "post-hurricane-review-for-people-with-disabilities.json": {
       "updatedAt": "2026-10-21T10:26:15.429Z",
@@ -427,24 +430,24 @@
       "sha256": "8b1323832ed03348dd9634680e7292e7f60c3175752e595a25d25c675303c0aa"
     },
     "county-buying-private-west-maui-water-systems.json": {
-      "updatedAt": "2026-10-21T10:26:15.429Z",
-      "sha256": "470978437daa75b81f2f80588815fdf50f43a77596738736d3ae9b492f9800d7"
+      "updatedAt": "2026-10-22T07:26:10.794Z",
+      "sha256": "b259dbb79e6d12697ee694a71e2c73ef47c4a0ff19901fa95e03484f4961cf6a"
     },
     "county-cyber-security-after-malware-disruption.json": {
       "updatedAt": "2026-10-21T10:26:15.429Z",
       "sha256": "c82a23d89141e02961b33b60665237f075d722545ed2252b09af0ce7f1a720cb"
     },
     "county-food-and-nutrition-security-plan-law.json": {
-      "updatedAt": "2026-10-21T10:26:15.429Z",
-      "sha256": "2cc9541a8be3da47a7255e0b66fbaced986b3b685398518290e1c2aa46405533"
+      "updatedAt": "2026-10-22T07:26:10.794Z",
+      "sha256": "8282addd97b9f4b403b70534b35ceab171ce8d83ccfdbb6b902da0d952a7eaf0"
     },
     "county-one-water-coordination-effort.json": {
       "updatedAt": "2026-10-21T10:26:15.429Z",
       "sha256": "bdaf8a3f70a5b1e56d005d52d43b04a3edc24f8f35851f391247025fc6d99e7e"
     },
     "countywide-rules-for-managing-county-grants.json": {
-      "updatedAt": "2026-10-21T10:26:15.429Z",
-      "sha256": "ae7e2dea499054b2fe97096d60d17ec21902663f1cc98abc81cfdafc8e3dd864"
+      "updatedAt": "2026-10-22T07:26:10.794Z",
+      "sha256": "76d609bb493f9248cdefd0a9b4ac82a9ac3d91516d1fd78c8ca516f3d211f365"
     },
     "disability-access-in-sma-permit-reviews.json": {
       "updatedAt": "2026-10-21T10:26:15.429Z",
@@ -491,8 +494,8 @@
       "sha256": "bf118e633f3f3a7d195aa9dd80788d5402881a38d20123d54b7600c7945e0268"
     },
     "ethics-bills-on-nepotism-lobbyists-and-ex-employees.json": {
-      "updatedAt": "2026-10-21T10:26:15.429Z",
-      "sha256": "7a14a54b261e49be3436c91c94b7a5c9555281fed760fb0d189cb2fcbdce9e28"
+      "updatedAt": "2026-10-22T07:26:10.794Z",
+      "sha256": "113349d24b373acc2ddeaf2ba308e1004da6a463be8a5aa1cd3934116a6fae20"
     },
     "ethics-board-review-of-gift-guide-and-gift-laws.json": {
       "updatedAt": "2026-10-21T10:26:15.429Z",
@@ -503,8 +506,8 @@
       "sha256": "6b447254f4fd886aa17babd272cf260b1e3141d55b8566331139e4dfaf7ff486"
     },
     "expanding-fare-free-bus-passes.json": {
-      "updatedAt": "2026-10-21T10:26:15.429Z",
-      "sha256": "e22b609b771158b62f1b8e1cd85d8a027473e59e24ad21d103b489020468b582"
+      "updatedAt": "2026-10-22T07:26:10.794Z",
+      "sha256": "3d1f1f1df909960874d8486a0c96f626674f0b167fc76230730952de596c0ac7"
     },
     "extending-property-tax-relief-for-wildfire-hit-properties.json": {
       "updatedAt": "2026-10-21T10:26:15.429Z",
@@ -719,12 +722,12 @@
       "sha256": "ae66a03c5d5f76e3803cc56c173def67a8c09279ddd3f5dba28ac95437a7dcc2"
     },
     "police-commission-investigator-position.json": {
-      "updatedAt": "2026-10-21T10:26:15.429Z",
-      "sha256": "90360357007d608809a176299a694378893d1bbdf94cb968817fe8f07dab281b"
+      "updatedAt": "2026-10-22T07:26:10.794Z",
+      "sha256": "d0a1201dfefac81df2d7d25ba8510e95e0efdfb2c3617f01d730fdf27730a87a"
     },
     "police-commission-rule-on-rapid-adjudication-complaints.json": {
-      "updatedAt": "2026-10-21T10:26:15.429Z",
-      "sha256": "d4cf1959e3e23790ad97e107c044ee44e464e5af84348da3ace9c9254396f5ba"
+      "updatedAt": "2026-10-22T07:26:10.794Z",
+      "sha256": "60c749debea93b9bb9e10242e8281af30a7788f58e81d873c5799fa4e86bc3e6"
     },
     "police-commissions-own-budget-request.json": {
       "updatedAt": "2026-10-21T10:26:15.429Z",
@@ -739,8 +742,8 @@
       "sha256": "a3c325f1a2a47aab23f3d8d9bc180008da27cab602234dfd13860d69d2e9ade0"
     },
     "possible-county-purchase-of-maui-land-and-pine-water-assets.json": {
-      "updatedAt": "2026-10-21T10:26:15.429Z",
-      "sha256": "3ab849f4b5330be513ff0ec570956db218d3638eb39eb39a623be9f2f146b844"
+      "updatedAt": "2026-10-22T07:26:10.794Z",
+      "sha256": "da7a36505f2806c4906a04c3187864e8146899875c50cdd2cc3b61c508ec795b"
     },
     "power-shutoffs-during-high-wind-and-low-humidity.json": {
       "updatedAt": "2026-10-21T10:26:15.429Z",
@@ -779,8 +782,8 @@
       "sha256": "91ec220d0f1fe43aed845adbbb09e2458e5d96e0d4fdab7a131e882c264558ff"
     },
     "salary-commission-raises-for-county-officials.json": {
-      "updatedAt": "2026-10-21T10:26:15.429Z",
-      "sha256": "f4286c2185fc108b339d581532c8f058a382fc096fa745e9d0de31ff70214c06"
+      "updatedAt": "2026-10-22T07:26:10.794Z",
+      "sha256": "28e78842449b74a6f1a287015e1185f8c69aafe467c08c175cfc212079f05dce"
     },
     "seabird-streetlight-lawsuit-settlement.json": {
       "updatedAt": "2026-10-21T10:26:15.429Z",
@@ -871,8 +874,8 @@
       "sha256": "cccf04de5f09b99d1dfc17f9df0214ae6ba7a64497363bcc5bd97752093b0647"
     },
     "yearly-usgs-water-monitoring-agreement.json": {
-      "updatedAt": "2026-10-21T10:26:15.429Z",
-      "sha256": "72d75284e6a3a3a8219a4d806e12006793d238ea300cec8c91b8604adb31ed22"
+      "updatedAt": "2026-10-22T07:26:10.794Z",
+      "sha256": "26cdbd4ce2fa9998d128cb5fe60f4391527d3deff70b6b3ba1cc1017722540b9"
     },
     "youth-commission-brochure-and-web-page-updates.json": {
       "updatedAt": "2026-10-21T10:26:15.429Z",
@@ -893,6 +896,18 @@
     "bill-111-on-removing-belongings-from-public-places.json": {
       "updatedAt": "2026-10-21T10:26:15.429Z",
       "sha256": "c895c33d0ac8b13cf65ed30c918ec5e0b199c6de8d301d57ac5c51c390abbaca"
+    },
+    "cap-on-bed-and-breakfast-homes-on-molokai.json": {
+      "updatedAt": "2026-10-22T07:26:10.794Z",
+      "sha256": "0b1c8f179f1c4bbf41bb3d859d1419d7081b944f88a699646845d9f09817b323"
+    },
+    "johnson-controls-energy-savings-contract-phase-3.json": {
+      "updatedAt": "2026-10-22T07:26:10.794Z",
+      "sha256": "9e9a5a2480e545ee988000459bff63c8ac2466606eca4457c4c7b4825bf284da"
+    },
+    "park-maui-paid-and-resident-parking-rules.json": {
+      "updatedAt": "2026-10-22T07:26:10.794Z",
+      "sha256": "b6682f2532bee30f23efaa001be2246e4df6f8555055ef0fe8073203edd030e4"
     }
   }
 }

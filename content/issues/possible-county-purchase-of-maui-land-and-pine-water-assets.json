@@ -8,7 +8,7 @@
   ],
   "status": "quiet",
   "pinned": false,
-  "firstSeenISO": "2026-07-29",
+  "firstSeenISO": "2026-07-07",
   "lastSeenISO": "2026-08-05",
   "signals": {
     "meetingsLast30d": 0,
@@ -437,6 +437,66 @@
         "retrievedISO": "2026-10-16T15:48:00.188Z"
       },
       "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-07-07",
+      "text": "A council member said members are concerned the administration's proposal is incomplete, with no appraisals.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "NJzgJmRuAug",
+        "ts": "3:05:25",
+        "retrievedISO": "2026-10-16T20:08:41.455Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-07-07",
+      "text": "Committee meetings on the purchase are planned for July 27 and July 29.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "NJzgJmRuAug",
+        "ts": "3:04:27",
+        "retrievedISO": "2026-10-16T20:08:41.455Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-07-07",
+      "text": "The water purchase resolution goes to the budget committee, with presentations in committee.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "NJzgJmRuAug",
+        "ts": "3:03:49",
+        "retrievedISO": "2026-10-16T20:08:41.455Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-07-07",
+      "text": "A council member plans to ask the administration about an agreement (MOU) signed May 18, 2026.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "NJzgJmRuAug",
+        "ts": "3:01:12",
+        "retrievedISO": "2026-10-16T20:08:41.455Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-07-07",
+      "text": "Resolution 26-116, acquisition of water system assets: The water system purchase resolution was referred to the Budget, Finance, and Economic Development Committee.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "NJzgJmRuAug",
+        "ts": "2:58:00",
+        "retrievedISO": "2026-10-16T20:08:41.455Z"
+      },
+      "body": "County Council Meeting"
     }
   ],
   "sourceTypes": [

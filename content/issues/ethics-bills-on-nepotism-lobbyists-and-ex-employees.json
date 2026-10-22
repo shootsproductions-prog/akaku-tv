@@ -7,7 +7,7 @@
   ],
   "status": "quiet",
   "pinned": false,
-  "firstSeenISO": "2026-07-08",
+  "firstSeenISO": "2026-06-22",
   "lastSeenISO": "2026-07-28",
   "signals": {
     "meetingsLast30d": 0,
@@ -135,6 +135,18 @@
         "ts": "0:06:06",
         "retrievedISO": "2026-10-13T06:35:18.488Z"
       }
+    },
+    {
+      "dateISO": "2026-06-22",
+      "text": "The committee will take up good governance reform bills being worked on with the Board of Ethics after the fraud report meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lVzPO8RLOV4",
+        "ts": "1:21:40",
+        "retrievedISO": "2026-10-16T17:46:34.541Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
     }
   ],
   "sourceTypes": [
