@@ -5,42 +5,18 @@
   "topics": [
     "water"
   ],
-  "status": "active",
+  "status": "quiet",
   "pinned": false,
   "firstSeenISO": "2026-08-04",
-  "lastSeenISO": "2026-09-02",
+  "lastSeenISO": "2026-08-04",
   "signals": {
     "meetingsLast30d": 0,
-    "meetingsLast90d": 2,
+    "meetingsLast90d": 1,
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-21",
   "timeline": [
-    {
-      "dateISO": "2026-09-02",
-      "text": "Committee staff said the water conservation ordinance took effect March 1.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "k-_ISK9hdeQ",
-        "ts": "1:31:49",
-        "retrievedISO": "2026-10-16T16:43:03.917Z"
-      },
-      "body": "County Council Housing and Land Use Committee"
-    },
-    {
-      "dateISO": "2026-09-02",
-      "text": "A speaker said many of these steps are part of a new water conservation ordinance.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "k-_ISK9hdeQ",
-        "ts": "0:58:13",
-        "retrievedISO": "2026-10-16T16:43:03.917Z"
-      },
-      "body": "County Council Housing and Land Use Committee"
-    },
     {
       "dateISO": "2026-08-04",
       "text": "The landscape architect said irrigation will meet the county's new water conservation bill, which limits watering to three times a week.",

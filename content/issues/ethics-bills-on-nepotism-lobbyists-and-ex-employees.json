@@ -7,124 +7,16 @@
   ],
   "status": "quiet",
   "pinned": false,
-  "firstSeenISO": "2026-06-22",
-  "lastSeenISO": "2026-07-28",
+  "firstSeenISO": "2026-07-08",
+  "lastSeenISO": "2026-07-08",
   "signals": {
     "meetingsLast30d": 0,
-    "meetingsLast90d": 1,
+    "meetingsLast90d": 0,
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-21",
   "timeline": [
-    {
-      "dateISO": "2026-07-28",
-      "text": "The chair will work with staff to bring back the two deferred bills, with no date set yet.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "G8BjVaIQGNw",
-        "ts": "2:31:27",
-        "retrievedISO": "2026-10-16T16:24:48.490Z"
-      },
-      "body": "County Council Government Relations, Ethics, and Transparency Committee"
-    },
-    {
-      "dateISO": "2026-07-28",
-      "text": "Staff will send the Board of Ethics a written question on how often its lobbyist list is updated.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "G8BjVaIQGNw",
-        "ts": "2:30:52",
-        "retrievedISO": "2026-10-16T16:24:48.490Z"
-      },
-      "body": "County Council Government Relations, Ethics, and Transparency Committee"
-    },
-    {
-      "dateISO": "2026-07-28",
-      "text": "The committee deferred Bill 99, which would set rules against nepotism (giving jobs to family members).",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "G8BjVaIQGNw",
-        "ts": "2:27:58",
-        "retrievedISO": "2026-10-16T16:24:48.490Z"
-      },
-      "body": "County Council Government Relations, Ethics, and Transparency Committee"
-    },
-    {
-      "dateISO": "2026-07-28",
-      "text": "A council member moved to state in the law that it applies retroactively, meaning to past actions too.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "G8BjVaIQGNw",
-        "ts": "2:19:13",
-        "retrievedISO": "2026-10-16T16:24:48.490Z"
-      },
-      "body": "County Council Government Relations, Ethics, and Transparency Committee"
-    },
-    {
-      "dateISO": "2026-07-28",
-      "text": "Motion to amend Bill 55-2025 with the proposed CD1 version: A motion to replace Bill 55 with the proposed new (CD1) version was made and seconded; the captions do not clearly show its vote.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "G8BjVaIQGNw",
-        "ts": "2:11:30",
-        "retrievedISO": "2026-10-16T16:24:48.490Z"
-      },
-      "body": "County Council Government Relations, Ethics, and Transparency Committee"
-    },
-    {
-      "dateISO": "2026-07-28",
-      "text": "A proposed new version would start the six-year clock when the violation happened instead.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "G8BjVaIQGNw",
-        "ts": "1:12:46",
-        "retrievedISO": "2026-10-16T16:24:48.490Z"
-      },
-      "body": "County Council Government Relations, Ethics, and Transparency Committee"
-    },
-    {
-      "dateISO": "2026-07-28",
-      "text": "Bill 55 would let the Board of Ethics pursue violations for up to six years after a worker leaves county jobs.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "G8BjVaIQGNw",
-        "ts": "1:12:31",
-        "retrievedISO": "2026-10-16T16:24:48.490Z"
-      },
-      "body": "County Council Government Relations, Ethics, and Transparency Committee"
-    },
-    {
-      "dateISO": "2026-07-28",
-      "text": "The Board of Ethics chair said the board lost three recent cases because the employees had left county service.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "G8BjVaIQGNw",
-        "ts": "0:57:24",
-        "retrievedISO": "2026-10-16T16:24:48.490Z"
-      },
-      "body": "County Council Government Relations, Ethics, and Transparency Committee"
-    },
-    {
-      "dateISO": "2026-07-28",
-      "text": "A testifier who served on the Board of Ethics spoke in favor of Bills 55, 99, and 100.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "G8BjVaIQGNw",
-        "ts": "0:15:00",
-        "retrievedISO": "2026-10-16T16:24:48.490Z"
-      },
-      "body": "County Council Government Relations, Ethics, and Transparency Committee"
-    },
     {
       "dateISO": "2026-07-08",
       "text": "A committee will hear the board's priorities on July 28, 2026, including its nepotism law and lobbyist rules.",
@@ -135,18 +27,6 @@
         "ts": "0:06:06",
         "retrievedISO": "2026-10-13T06:35:18.488Z"
       }
-    },
-    {
-      "dateISO": "2026-06-22",
-      "text": "The committee will take up good governance reform bills being worked on with the Board of Ethics after the fraud report meeting.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "lVzPO8RLOV4",
-        "ts": "1:21:40",
-        "retrievedISO": "2026-10-16T17:46:34.541Z"
-      },
-      "body": "County Council Government Relations, Ethics, and Transparency Committee"
     }
   ],
   "sourceTypes": [

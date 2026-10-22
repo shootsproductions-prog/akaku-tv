@@ -8,11 +8,11 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-08-03",
+  "firstSeenISO": "2026-08-20",
   "lastSeenISO": "2026-09-17",
   "signals": {
     "meetingsLast30d": 0,
-    "meetingsLast90d": 3,
+    "meetingsLast90d": 2,
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
@@ -77,162 +77,6 @@
         "retrievedISO": "2026-10-07T23:26:10.862Z"
       },
       "body": "Board of Water Supply"
-    },
-    {
-      "dateISO": "2026-08-03",
-      "text": "The bill goes back to the Board of Water Supply for comments before the committee takes it up again.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "Nf0ZFxKZsEU",
-        "ts": "1:45:06",
-        "retrievedISO": "2026-10-16T15:26:46.426Z"
-      },
-      "body": "County Council Water and Infrastructure Committee"
-    },
-    {
-      "dateISO": "2026-08-03",
-      "text": "The chair agreed to a member's request to go back to the word \"shall.\"",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "Nf0ZFxKZsEU",
-        "ts": "1:43:48",
-        "retrievedISO": "2026-10-16T15:26:46.426Z"
-      },
-      "body": "County Council Water and Infrastructure Committee"
-    },
-    {
-      "dateISO": "2026-08-03",
-      "text": "A member asked that the department be asked how it prioritizes reviews, and the chair said this was noted.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "Nf0ZFxKZsEU",
-        "ts": "1:43:00",
-        "retrievedISO": "2026-10-16T15:26:46.426Z"
-      },
-      "body": "County Council Water and Infrastructure Committee"
-    },
-    {
-      "dateISO": "2026-08-03",
-      "text": "The chair supported sending the bill back to the Board of Water Supply for review.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "Nf0ZFxKZsEU",
-        "ts": "1:40:38",
-        "retrievedISO": "2026-10-16T15:26:46.426Z"
-      },
-      "body": "County Council Water and Infrastructure Committee"
-    },
-    {
-      "dateISO": "2026-08-03",
-      "text": "The chief engineer for water said water supply has often been the last department to finish its review.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "Nf0ZFxKZsEU",
-        "ts": "0:44:33",
-        "retrievedISO": "2026-10-16T15:26:46.426Z"
-      },
-      "body": "County Council Water and Infrastructure Committee"
-    },
-    {
-      "dateISO": "2026-08-03",
-      "text": "Another testifier said the bill would take away the department's choice in ordering its reviews.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "Nf0ZFxKZsEU",
-        "ts": "0:28:24",
-        "retrievedISO": "2026-10-16T15:26:46.426Z"
-      },
-      "body": "County Council Water and Infrastructure Committee"
-    },
-    {
-      "dateISO": "2026-08-03",
-      "text": "A Board of Water Supply member said the board was not given a chance to weigh in on the latest amendment version.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "Nf0ZFxKZsEU",
-        "ts": "0:26:32",
-        "retrievedISO": "2026-10-16T15:26:46.426Z"
-      },
-      "body": "County Council Water and Infrastructure Committee"
-    },
-    {
-      "dateISO": "2026-08-03",
-      "text": "A Board of Water Supply member, speaking as an individual, urged the committee to file the bill or delay action.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "Nf0ZFxKZsEU",
-        "ts": "0:24:20",
-        "retrievedISO": "2026-10-16T15:26:46.426Z"
-      },
-      "body": "County Council Water and Infrastructure Committee"
-    },
-    {
-      "dateISO": "2026-08-03",
-      "text": "A testifier objected to changing the word \"shall\" to \"may,\" saying \"may\" creates uncertainty.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "Nf0ZFxKZsEU",
-        "ts": "0:13:29",
-        "retrievedISO": "2026-10-16T15:26:46.426Z"
-      },
-      "body": "County Council Water and Infrastructure Committee"
-    },
-    {
-      "dateISO": "2026-08-03",
-      "text": "A Pacific Rim Land representative testified in support of the bill.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "Nf0ZFxKZsEU",
-        "ts": "0:09:34",
-        "retrievedISO": "2026-10-16T15:26:46.426Z"
-      },
-      "body": "County Council Water and Infrastructure Committee"
-    },
-    {
-      "dateISO": "2026-08-03",
-      "text": "The chair said the bill lets water supply staff review plans alongside other departments.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "Nf0ZFxKZsEU",
-        "ts": "0:04:50",
-        "retrievedISO": "2026-10-16T15:26:46.426Z"
-      },
-      "body": "County Council Water and Infrastructure Committee"
-    },
-    {
-      "dateISO": "2026-08-03",
-      "text": "The chair said developers must still show written proof of long-term water before plans are approved.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "Nf0ZFxKZsEU",
-        "ts": "0:04:22",
-        "retrievedISO": "2026-10-16T15:26:46.426Z"
-      },
-      "body": "County Council Water and Infrastructure Committee"
-    },
-    {
-      "dateISO": "2026-08-03",
-      "text": "The only item was Bill 1, 2026, about water availability rules for subdivision construction plans.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "Nf0ZFxKZsEU",
-        "ts": "0:03:35",
-        "retrievedISO": "2026-10-16T15:26:46.426Z"
-      },
-      "body": "County Council Water and Infrastructure Committee"
     }
   ],
   "sourceTypes": [

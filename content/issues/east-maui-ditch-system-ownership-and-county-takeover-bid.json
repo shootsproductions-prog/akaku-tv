@@ -12,7 +12,7 @@
   "lastSeenISO": "2026-09-18",
   "signals": {
     "meetingsLast30d": 0,
-    "meetingsLast90d": 4,
+    "meetingsLast90d": 3,
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
@@ -234,42 +234,6 @@
         "ts": "0:00:00",
         "retrievedISO": "2026-10-07T23:26:08.282Z"
       }
-    },
-    {
-      "dateISO": "2026-08-19",
-      "text": "Item on the proposed acquisition of the irrigation company's water infrastructure assets: The chair deferred the item because the committee had to leave the room.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "9O-5VI6zndk",
-        "ts": "0:56:20",
-        "retrievedISO": "2026-10-16T06:26:30.067Z"
-      },
-      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
-    },
-    {
-      "dateISO": "2026-08-19",
-      "text": "Motion to enter executive session on DRIP 9.12, the proposed acquisition of an irrigation company's water infrastructure assets: The motion passed 7–0, with two members excused.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "9O-5VI6zndk",
-        "ts": "0:52:06",
-        "retrievedISO": "2026-10-16T06:26:30.067Z"
-      },
-      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
-    },
-    {
-      "dateISO": "2026-08-19",
-      "text": "The chair said this purchase covers the non-potable side, since the committee already voted on the potable side.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "9O-5VI6zndk",
-        "ts": "0:06:06",
-        "retrievedISO": "2026-10-16T06:26:30.067Z"
-      },
-      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
     },
     {
       "dateISO": "2026-05-15",

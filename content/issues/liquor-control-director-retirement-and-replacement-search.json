@@ -8,11 +8,11 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-09-09",
+  "firstSeenISO": "2026-09-21",
   "lastSeenISO": "2026-09-21",
   "signals": {
     "meetingsLast30d": 0,
-    "meetingsLast90d": 2,
+    "meetingsLast90d": 1,
     "mentionsLast30d": 0,
     "upcomingEvent": {
       "dateISO": "2026-11-23",
@@ -135,28 +135,6 @@
         "videoId": "0NdqPwWtF4o",
         "ts": "0:00:30",
         "retrievedISO": "2026-10-07T23:03:50.760Z"
-      }
-    },
-    {
-      "dateISO": "2026-09-09",
-      "text": "A special meeting is set for September 21 at 1:30 p.m. to discuss how to find a new director.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "vp8RrdPVBC0",
-        "ts": "1:40:09",
-        "retrievedISO": "2026-10-07T23:03:59.641Z"
-      }
-    },
-    {
-      "dateISO": "2026-09-09",
-      "text": "The department director said he will retire, with December 31 as his last day.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "vp8RrdPVBC0",
-        "ts": "1:37:11",
-        "retrievedISO": "2026-10-07T23:03:59.641Z"
       }
     }
   ],
