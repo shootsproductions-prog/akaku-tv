@@ -39,7 +39,17 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": []
+    "trackerIssues": [],
+    "boards": [
+      {
+        "name": "Board of Variances and Appeals",
+        "group": "board",
+        "short": [
+          "BVA"
+        ]
+      }
+    ],
+    "bills": []
   },
   "issues": [],
   "bodyType": "board"

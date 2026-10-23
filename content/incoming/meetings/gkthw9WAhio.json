@@ -39,7 +39,15 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": []
+    "trackerIssues": [],
+    "boards": [
+      {
+        "name": "Maui MPO Policy Board Adopts New Logo & Finalizes Reconciliation",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
   },
   "issues": [],
   "bodyType": "board"

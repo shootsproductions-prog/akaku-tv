@@ -42,7 +42,17 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": []
+    "trackerIssues": [],
+    "boards": [
+      {
+        "name": "Maui MPO Technical Advisory Committee",
+        "group": "board",
+        "short": [
+          "MPO TAC"
+        ]
+      }
+    ],
+    "bills": []
   },
   "issues": [],
   "bodyType": "board"

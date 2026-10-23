@@ -49,7 +49,15 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": []
+    "trackerIssues": [],
+    "boards": [
+      {
+        "name": "Civil Service Commission",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
   },
   "issues": [],
   "bodyType": "board"

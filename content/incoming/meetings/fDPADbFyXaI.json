@@ -46,7 +46,15 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": []
+    "trackerIssues": [],
+    "boards": [
+      {
+        "name": "Maui Fire & Public Safety Commission",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
   },
   "issues": [],
   "bodyType": "board"

@@ -54,7 +54,19 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": []
+    "trackerIssues": [],
+    "boards": [
+      {
+        "name": "Board of Water Supply",
+        "group": "board",
+        "short": [
+          "BWS"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 1 (2026)"
+    ]
   },
   "issues": [],
   "bodyType": "board"

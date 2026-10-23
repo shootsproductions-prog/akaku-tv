@@ -60,7 +60,15 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": []
+    "trackerIssues": [],
+    "boards": [
+      {
+        "name": "Liquor Control Commission",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
   },
   "issues": [],
   "bodyType": "board"

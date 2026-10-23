@@ -50,7 +50,15 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": []
+    "trackerIssues": [],
+    "boards": [
+      {
+        "name": "Arborist Committee",
+        "group": "council",
+        "short": []
+      }
+    ],
+    "bills": []
   },
   "issues": [],
   "bodyType": "board"

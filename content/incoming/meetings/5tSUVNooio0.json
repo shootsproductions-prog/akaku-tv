@@ -42,7 +42,15 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": []
+    "trackerIssues": [],
+    "boards": [
+      {
+        "name": "Board of Variances Reviews Haʻikū Zipline & Lumeria Maui Appeals",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
   },
   "issues": [],
   "bodyType": "board"

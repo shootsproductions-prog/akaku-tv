@@ -46,7 +46,9 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": []
+    "trackerIssues": [],
+    "boards": [],
+    "bills": []
   },
   "issues": [],
   "bodyType": "board"
