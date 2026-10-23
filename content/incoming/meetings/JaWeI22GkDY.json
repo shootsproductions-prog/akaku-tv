@@ -38,7 +38,9 @@
         "t": "0:03:05",
         "q": "Acting chief vote: \"Motion passes 6 to zero.\""
       }
-    ]
+    ],
+    "bodyType": "board",
+    "trackerIssues": []
   },
   "issues": [],
   "bodyType": "board"

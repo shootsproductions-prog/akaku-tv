@@ -48,7 +48,9 @@
         "t": "8:14:33",
         "q": "Roll call on the main motion"
       }
-    ]
+    ],
+    "bodyType": "board",
+    "trackerIssues": []
   },
   "issues": [],
   "bodyType": "board"

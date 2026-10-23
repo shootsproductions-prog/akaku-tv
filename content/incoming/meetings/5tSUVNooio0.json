@@ -40,7 +40,9 @@
         "t": "0:11:27",
         "q": "\"that will pass with unanimous consent\""
       }
-    ]
+    ],
+    "bodyType": "board",
+    "trackerIssues": []
   },
   "issues": [],
   "bodyType": "board"

@@ -42,7 +42,9 @@
         "t": "3:44:03",
         "q": "\"If none of the three candidates are right or aligned, we're not going to just select\""
       }
-    ]
+    ],
+    "bodyType": "board",
+    "trackerIssues": []
   },
   "issues": [],
   "bodyType": "board"

@@ -44,7 +44,9 @@
         "t": "1:53:28",
         "q": "A board member calls the second submittal incomplete"
       }
-    ]
+    ],
+    "bodyType": "board",
+    "trackerIssues": []
   },
   "issues": [],
   "bodyType": "board"
