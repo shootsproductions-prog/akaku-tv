@@ -355,22 +355,8 @@
       "body": "Board of Water Supply"
     }
   ],
-  "boards": [
-    {
-      "name": "Commission on Water Resource Management",
-      "group": "board",
-      "short": [
-        "CWRM"
-      ]
-    },
-    {
-      "name": "Board of Water Supply",
-      "group": "board",
-      "short": [
-        "BWS"
-      ]
-    }
+  "sourceTypes": [
+    "meeting"
   ],
-  "bills": [],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

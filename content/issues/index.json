@@ -1,15 +1,20 @@
 {
   "issues": [
-    "2027-mass-nominations-for-county-boards.json"
+    "2027-mass-nominations-for-county-boards.json",
+    "lahaina-water-use-permit-applications-and-tig-report.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-10-22T10:36:16.121Z",
-  "etag": "eec1aff91c4d842c143b71eb9a86ab78ade5b8086656dc18121bf55c8c1f4d78",
+  "updatedAt": "2026-10-24T04:59:47.347Z",
+  "etag": "23bc93f32355d7fd75d1b0a53494d6586420f477eb59e1bec79b5aed56346c51",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-10-16T07:42:25.431Z",
       "sha256": "b9594cbbbd3f9c06a74acc5c3ded6650442de7ed53e3ebad3ed3507b50f037c6"
+    },
+    "lahaina-water-use-permit-applications-and-tig-report.json": {
+      "updatedAt": "2026-10-24T04:59:47.347Z",
+      "sha256": "ea71f114e056769028008e7e7f2a726027fd87a0af11b2c7e48760eef269c053"
     }
   }
 }
