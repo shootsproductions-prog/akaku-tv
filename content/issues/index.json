@@ -6,12 +6,13 @@
     "proposed-maui-county-passenger-ferry-to-molokai-and-lanai.json",
     "central-maui-desalination-study-and-report-release.json",
     "maui-research-and-technology-park-land-designation.json",
-    "south-maui-community-plan-review.json"
+    "south-maui-community-plan-review.json",
+    "mokuula-restoration-master-plan.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-10-24T05:07:42.578Z",
-  "etag": "b7e089d766a24407eedd0d3b773988ab1994ee8bc87a76d2ee6f49e5a1ea5b43",
+  "updatedAt": "2026-10-24T05:07:54.597Z",
+  "etag": "03d96dd9e6060c1d8bb0b7ec91355c10dbad307ef0eda316a6c4c9a4749da635",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-10-16T07:42:25.431Z",
@@ -40,6 +41,10 @@
     "south-maui-community-plan-review.json": {
       "updatedAt": "2026-10-24T05:07:42.578Z",
       "sha256": "01a3b7b0058a1a1b1d284ebc7b8017b3b578da1c7ec76a87d25d3c36a84a5da9"
+    },
+    "mokuula-restoration-master-plan.json": {
+      "updatedAt": "2026-10-24T05:07:54.597Z",
+      "sha256": "f454d46d038fb9a5c2dc9c86c8a401321d09f9e9916915b03d28d1d03d04bbfa"
     }
   }
 }
