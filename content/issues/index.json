@@ -5,12 +5,13 @@
     "lahaina-banyan-tree-recovery.json",
     "proposed-maui-county-passenger-ferry-to-molokai-and-lanai.json",
     "central-maui-desalination-study-and-report-release.json",
-    "maui-research-and-technology-park-land-designation.json"
+    "maui-research-and-technology-park-land-designation.json",
+    "south-maui-community-plan-review.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-10-24T05:07:06.795Z",
-  "etag": "d88e6af4ffcbcbbbf3a1513e790edee4a7d50d20ff037fc76faed8ac118904b3",
+  "updatedAt": "2026-10-24T05:07:42.578Z",
+  "etag": "b7e089d766a24407eedd0d3b773988ab1994ee8bc87a76d2ee6f49e5a1ea5b43",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-10-16T07:42:25.431Z",
@@ -35,6 +36,10 @@
     "maui-research-and-technology-park-land-designation.json": {
       "updatedAt": "2026-10-24T05:07:06.795Z",
       "sha256": "964a4ebe0fbc3ede5989aec6013470775951b51923dc8ed5c7ee528d7d74114f"
+    },
+    "south-maui-community-plan-review.json": {
+      "updatedAt": "2026-10-24T05:07:42.578Z",
+      "sha256": "01a3b7b0058a1a1b1d284ebc7b8017b3b578da1c7ec76a87d25d3c36a84a5da9"
     }
   }
 }
