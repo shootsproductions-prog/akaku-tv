@@ -7,12 +7,13 @@
     "central-maui-desalination-study-and-report-release.json",
     "maui-research-and-technology-park-land-designation.json",
     "south-maui-community-plan-review.json",
-    "mokuula-restoration-master-plan.json"
+    "mokuula-restoration-master-plan.json",
+    "farm-land-subdivision-lessee-notice-bill.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-10-24T05:07:54.597Z",
-  "etag": "03d96dd9e6060c1d8bb0b7ec91355c10dbad307ef0eda316a6c4c9a4749da635",
+  "updatedAt": "2026-10-24T05:08:12.843Z",
+  "etag": "f4a4e59615357406a0f2257ede8c70266ccf1730eff5c3b523d497a6f3df6bd3",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-10-16T07:42:25.431Z",
@@ -45,6 +46,10 @@
     "mokuula-restoration-master-plan.json": {
       "updatedAt": "2026-10-24T05:07:54.597Z",
       "sha256": "f454d46d038fb9a5c2dc9c86c8a401321d09f9e9916915b03d28d1d03d04bbfa"
+    },
+    "farm-land-subdivision-lessee-notice-bill.json": {
+      "updatedAt": "2026-10-24T05:08:12.843Z",
+      "sha256": "99935d410c688ecb3cf0228e24fb18a2a4c7785ac1e1f6ccd9b690c30caf65e6"
     }
   }
 }
