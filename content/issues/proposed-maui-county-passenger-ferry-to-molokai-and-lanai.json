@@ -246,18 +246,8 @@
       "body": "Cultural Resources Commission"
     }
   ],
-  "boards": [
-    {
-      "name": "Department of Transportation",
-      "group": "county",
-      "short": []
-    },
-    {
-      "name": "Cultural Resources Commission",
-      "group": "board",
-      "short": []
-    }
+  "sourceTypes": [
+    "meeting"
   ],
-  "bills": [],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

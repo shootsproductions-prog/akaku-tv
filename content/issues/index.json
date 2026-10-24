@@ -1,12 +1,14 @@
 {
   "issues": [
     "2027-mass-nominations-for-county-boards.json",
-    "lahaina-water-use-permit-applications-and-tig-report.json"
+    "lahaina-water-use-permit-applications-and-tig-report.json",
+    "lahaina-banyan-tree-recovery.json",
+    "proposed-maui-county-passenger-ferry-to-molokai-and-lanai.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-10-24T04:59:47.347Z",
-  "etag": "23bc93f32355d7fd75d1b0a53494d6586420f477eb59e1bec79b5aed56346c51",
+  "updatedAt": "2026-10-24T05:06:33.948Z",
+  "etag": "f122a16fbc6bde55e37dceef6705ad9e73301922137f403ec703fddc4ef0912a",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-10-16T07:42:25.431Z",
@@ -15,6 +17,14 @@
     "lahaina-water-use-permit-applications-and-tig-report.json": {
       "updatedAt": "2026-10-24T04:59:47.347Z",
       "sha256": "ea71f114e056769028008e7e7f2a726027fd87a0af11b2c7e48760eef269c053"
+    },
+    "lahaina-banyan-tree-recovery.json": {
+      "updatedAt": "2026-10-24T05:06:33.948Z",
+      "sha256": "27d9a1ced03d7f799a79a40ea082cb3c0cfb8ae228b52faca6f044f93d6c5f46"
+    },
+    "proposed-maui-county-passenger-ferry-to-molokai-and-lanai.json": {
+      "updatedAt": "2026-10-24T05:06:33.948Z",
+      "sha256": "bad4f2659844f02d130cdac5b2caf447214af6183645d4e7ee7b2eeda321cd9c"
     }
   }
 }

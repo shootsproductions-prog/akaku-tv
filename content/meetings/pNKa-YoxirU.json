@@ -40,7 +40,12 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": [],
+    "trackerIssues": [
+      {
+        "slug": "proposed-maui-county-passenger-ferry-to-molokai-and-lanai",
+        "title": "Proposed Maui County passenger ferry to Molokaʻi and Lānaʻi"
+      }
+    ],
     "boards": [],
     "bills": []
   },

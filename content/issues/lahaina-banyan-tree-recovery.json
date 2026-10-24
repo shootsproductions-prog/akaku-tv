@@ -68,18 +68,8 @@
       "body": "Maui Arborist Committee"
     }
   ],
-  "boards": [
-    {
-      "name": "Arborist Committee",
-      "group": "council",
-      "short": []
-    },
-    {
-      "name": "Maui Arborist Committee",
-      "group": "council",
-      "short": []
-    }
+  "sourceTypes": [
+    "meeting"
   ],
-  "bills": [],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }
