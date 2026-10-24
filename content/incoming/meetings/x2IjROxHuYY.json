@@ -48,7 +48,12 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": [],
+    "trackerIssues": [
+      {
+        "slug": "2027-mass-nominations-for-county-boards",
+        "title": "2027 mass nominations and the vote on dissolving the nomination board"
+      }
+    ],
     "boards": [
       {
         "name": "Independent Nomination Board",
