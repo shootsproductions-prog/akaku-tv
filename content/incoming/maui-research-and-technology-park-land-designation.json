@@ -1,0 +1,115 @@
+{
+  "slug": "maui-research-and-technology-park-land-designation",
+  "title": "Maui Research and Technology Park land designation",
+  "summary": "A bill now before the council would switch part of the Maui Research and Technology Park's commercial land to residential and allow minor medical centers in its civic district. Zoning changes and a council resolution for the park were slated for the September 8th meeting. In December 2024, a motion to designate the whole park a special purpose district failed, and the planning director called that designation absolutely inappropriate.",
+  "topics": [
+    "land-use"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2024-12-10",
+  "lastSeenISO": "2026-10-21",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 2,
+    "mentionsLast30d": 2,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-24",
+  "timeline": [
+    {
+      "dateISO": "2026-10-21",
+      "text": "The bill would also allow minor medical centers in the park's civic district.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "OfgqgyE6vs0",
+        "ts": "0:27:22",
+        "endTs": "0:28:19",
+        "retrievedISO": "2026-10-22T07:21:21.243Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "The top reason given for the bill was to switch part of the park's commercial land to residential land.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "OfgqgyE6vs0",
+        "ts": "0:24:36",
+        "endTs": "0:25:06",
+        "retrievedISO": "2026-10-22T07:21:21.243Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-25",
+      "text": "The September 8th meeting will include a council resolution and zoning changes for the Maui Research and Technology Park.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Anutl3CRkaQ",
+        "ts": "6:26:52",
+        "endTs": "6:27:36",
+        "retrievedISO": "2026-10-09T06:35:11.734Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2024-12-10",
+      "text": "The director said the department could talk with the research park's landowner if the commission takes up the map again later.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "nBW_aexDotM",
+        "ts": "1:29:10",
+        "endTs": "1:29:41",
+        "retrievedISO": "2026-10-12T06:30:18.226Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2024-12-10",
+      "text": "A second motion to designate the whole park special purpose district also failed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "nBW_aexDotM",
+        "ts": "1:23:53",
+        "endTs": "1:24:44",
+        "retrievedISO": "2026-10-12T06:30:18.226Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2024-12-10",
+      "text": "The planning director said special purpose district is absolutely inappropriate for the park.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "nBW_aexDotM",
+        "ts": "0:42:46",
+        "endTs": "0:43:16",
+        "retrievedISO": "2026-10-12T06:30:18.226Z"
+      },
+      "body": "Maui Planning Commission"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Housing and Land Use Committee",
+      "group": "council",
+      "short": [
+        "HLU"
+      ]
+    },
+    {
+      "name": "Maui Planning Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

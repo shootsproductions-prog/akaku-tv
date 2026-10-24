@@ -1,0 +1,59 @@
+{
+  "slug": "kulamalu-park-stairs-fall-lawsuit-settlement",
+  "title": "Kulamalu Park stairs fall lawsuit settlement",
+  "summary": "On September 29, 2026, the Council adopted Resolution 26-147, authorizing a settlement of a lawsuit against the County. Earlier that day, a vote was called on a motion to discharge the Government Relations, Ethics, and Transparency Committee from the resolution so the Council could act immediately, though the recording does not capture the result.",
+  "topics": [
+    "government",
+    "public-safety"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-09-29",
+  "lastSeenISO": "2026-09-29",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 2,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-24",
+  "timeline": [
+    {
+      "dateISO": "2026-09-29",
+      "text": "Resolution 26-147, authorizing a lawsuit settlement: The Council adopted the resolution to settle a lawsuit against the County.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "CWTHDPLTwS0",
+        "ts": "0:21:38",
+        "endTs": "0:23:20",
+        "retrievedISO": "2026-10-16T04:23:58.786Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-09-29",
+      "text": "Motion to discharge the Government Relations, Ethics, and Transparency Committee from Resolution 26-147: A vote was called on removing the item from committee so the Council could act today, but the result is not heard in the recording.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "CWTHDPLTwS0",
+        "ts": "0:19:06",
+        "endTs": "0:20:07",
+        "retrievedISO": "2026-10-16T04:23:58.786Z"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [
+    "Resolution 26-147"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
