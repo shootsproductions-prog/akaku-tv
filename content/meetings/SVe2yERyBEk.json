@@ -47,7 +47,12 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": [],
+    "trackerIssues": [
+      {
+        "slug": "lahaina-banyan-tree-recovery",
+        "title": "Lahaina banyan tree recovery"
+      }
+    ],
     "boards": [
       {
         "name": "Arborist Committee",
