@@ -1,0 +1,128 @@
+{
+  "slug": "staff-approvals-of-lahaina-historic-district-rebuilds",
+  "title": "Staff approvals of Lahaina historic district rebuilds",
+  "summary": "On September 3, staff said four rebuild projects in the historic district were approved administratively as close matches to pre-fire buildings; approvals require construction to start within two years, and a building permit is still needed. Projects differing more than 10 percent from before go to the commission. The vice chair has objected that staff approval skips commission review and public testimony.",
+  "topics": [
+    "disaster-recovery",
+    "culture",
+    "land-use"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-08-06",
+  "lastSeenISO": "2026-09-03",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 2,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-23",
+  "timeline": [
+    {
+      "dateISO": "2026-09-03",
+      "text": "Staff said the historic district approval is step one, and a building permit is still needed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "vhZUiN4y4Zw",
+        "ts": "3:38:14",
+        "retrievedISO": "2026-10-07T23:04:02.794Z"
+      },
+      "body": "Cultural Resources Commission"
+    },
+    {
+      "dateISO": "2026-09-03",
+      "text": "Staff said projects that differ more than 10 percent from before come to the commission.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "vhZUiN4y4Zw",
+        "ts": "3:23:29",
+        "retrievedISO": "2026-10-07T23:04:02.794Z"
+      },
+      "body": "Cultural Resources Commission"
+    },
+    {
+      "dateISO": "2026-09-03",
+      "text": "The vice chair said the approval letters require construction to begin within two years.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "vhZUiN4y4Zw",
+        "ts": "3:20:56",
+        "retrievedISO": "2026-10-07T23:04:02.794Z"
+      },
+      "body": "Cultural Resources Commission"
+    },
+    {
+      "dateISO": "2026-09-03",
+      "text": "Staff said four rebuild projects in the historic district were approved by staff as close matches to pre-fire buildings.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "vhZUiN4y4Zw",
+        "ts": "3:19:50",
+        "retrievedISO": "2026-10-07T23:04:02.794Z"
+      },
+      "body": "Cultural Resources Commission"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "Staff said one HDX will come to the commission in September because it goes beyond a like-for-like rebuild.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1EOFZJD_EGw",
+        "ts": "3:00:07",
+        "retrievedISO": "2026-10-13T06:35:07.755Z"
+      },
+      "body": "Cultural Resources Commission"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "The vice chair said she disagrees with staff approving HDXs because it skips commission review and public testimony.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1EOFZJD_EGw",
+        "ts": "2:58:05",
+        "retrievedISO": "2026-10-13T06:35:07.755Z"
+      },
+      "body": "Cultural Resources Commission"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "Staff agreed to post lists of approved and in-review HDXs for future meetings.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1EOFZJD_EGw",
+        "ts": "2:57:19",
+        "retrievedISO": "2026-10-13T06:35:07.755Z"
+      },
+      "body": "Cultural Resources Commission"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "Staff reported five HDX applications approved by staff since April, and five more in review.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1EOFZJD_EGw",
+        "ts": "2:54:02",
+        "retrievedISO": "2026-10-13T06:35:07.755Z"
+      },
+      "body": "Cultural Resources Commission"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Cultural Resources Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

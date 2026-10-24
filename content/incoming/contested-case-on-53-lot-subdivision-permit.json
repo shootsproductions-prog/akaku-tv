@@ -1,0 +1,55 @@
+{
+  "slug": "contested-case-on-53-lot-subdivision-permit",
+  "title": "Contested case on 53-lot subdivision permit",
+  "summary": "On October 22, 2024, the commission set a contested case hearing, a formal, trial-like proceeding, for February 11 on a permit request for up to 53 single-family lots on about 28 acres. Non-discovery prehearing motions are due January 6, and exhibits and witness lists are due January 28.",
+  "topics": [
+    "land-use",
+    "housing"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2024-10-22",
+  "lastSeenISO": "2024-10-22",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-23",
+  "timeline": [
+    {
+      "dateISO": "2024-10-22",
+      "text": "It set a contested case hearing (a formal, trial-like hearing) on that request for February 11.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "39uwqsfa98c",
+        "ts": "3:05:59",
+        "retrievedISO": "2026-10-15T06:35:38.829Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2024-10-22",
+      "text": "The commission took up a permit request for up to 53 single-family lots on about 28 acres.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "39uwqsfa98c",
+        "ts": "1:39:09",
+        "retrievedISO": "2026-10-15T06:35:38.829Z"
+      },
+      "body": "Maui Planning Commission"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui Planning Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
