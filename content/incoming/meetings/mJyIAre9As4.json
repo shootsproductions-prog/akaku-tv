@@ -1,0 +1,78 @@
+{
+  "videoId": "mJyIAre9As4",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-07T23:17:12.049Z",
+  "meetingDateISO": "2026-09-17",
+  "source": {
+    "youtubeUrl": "https://youtu.be/mJyIAre9As4"
+  },
+  "topics": [
+    "Water"
+  ],
+  "headline": "Board of Water Supply Rejects Bill 1 CD1, Reviews West Maui Wells",
+  "meeting": {
+    "id": "mJyIAre9As4",
+    "mon": "Sep",
+    "day": "17",
+    "date": "Thu, Sep 17, 2026",
+    "body": "Board of Water Supply Rejects Bill 1 CD1, Reviews West Maui Wells",
+    "dur": "1 h 25 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The Board of Water Supply voted not to support Bill 1 and heard a timeline for new West Maui wells.",
+    "recap": "A resident suggested new West Maui pools could mainly use captured rainwater rather than drinking water.[[0:04:38]] Another testifier opposed the Bill 1 amendment, saying the water department should keep its discretion.[[0:09:44]] A motion was made to tell Council Member Cook's office the board does not support Bill 1.[[0:33:31]] The motion passed with five ayes.[[0:35:25]] Board members agreed to hold that item for a future meeting.[[0:39:57]] Staff presented a timeline for new West Maui water source projects.[[0:48:19]] The Kahana well is projected to be finished in the fourth quarter of this year.[[0:49:04]] The well called H2 is projected to be finished in early 2032.[[0:54:31]] Staff said the L1 and H1 wells are fully funded.[[0:57:09]] The director said a desalination report can't be released until the Department of Homeland Security approves it.[[1:05:54]] The next board meeting is October 15 at 1:30 p.m.[[1:07:21]] The board voted, with five ayes, to ask the planning director to respond to the board's letter.[[1:20:38]] The board voted unanimously to ask the planning and water supply directors to jointly explain their roles in subdivision water supply.[[1:23:16]]",
+    "decided": [
+      "The board approved the minutes.",
+      "The board voted to ask the planning director to respond to the board's letter.",
+      "The board voted to ask the planning director and the water supply director to jointly attend a meeting to explain their roles in securing water supply for subdivision applications."
+    ],
+    "next": "The chair said she will talk with the director about the list of requested reports and when they can be put on an agenda.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:03:43",
+        "q": "Resident testimony on a water-neutral path for new pools"
+      },
+      {
+        "t": "0:21:38",
+        "q": "\"if that's the case then bill one is not necessary\""
+      },
+      {
+        "t": "0:41:23",
+        "q": "A member recuses from the Maui Land and Pineapple item"
+      },
+      {
+        "t": "0:48:00",
+        "q": "West Maui well timeline presentation"
+      },
+      {
+        "t": "1:03:53",
+        "q": "\"I think these are deep monitor wells.\""
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "central-maui-desalination-study-and-report-release",
+        "title": "Central Maui desalination study and report release"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Board of Water Supply",
+        "group": "board",
+        "short": [
+          "BWS"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 1 (2026)"
+    ]
+  },
+  "issues": [],
+  "bodyType": "board"
+}
