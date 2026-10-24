@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T10:26:11.495Z",
+  "updatedAt": "2026-10-24T12:26:13.336Z",
   "count": 81,
   "issues": [
     {
@@ -4405,9 +4405,9 @@
       "firstSeenISO": "2026-09-24",
       "lastSeenISO": "2026-09-24",
       "signals": {
-        "meetingsLast30d": 1,
+        "meetingsLast30d": 0,
         "meetingsLast90d": 1,
-        "mentionsLast30d": 3,
+        "mentionsLast30d": 0,
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-24",
@@ -7323,9 +7323,9 @@
       "firstSeenISO": "2026-09-24",
       "lastSeenISO": "2026-09-24",
       "signals": {
-        "meetingsLast30d": 1,
+        "meetingsLast30d": 0,
         "meetingsLast90d": 1,
-        "mentionsLast30d": 3,
+        "mentionsLast30d": 0,
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-24",
