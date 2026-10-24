@@ -1,0 +1,72 @@
+{
+  "videoId": "x2IjROxHuYY",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-07T23:21:35.954Z",
+  "meetingDateISO": "2026-09-09",
+  "source": {
+    "youtubeUrl": "https://youtu.be/x2IjROxHuYY"
+  },
+  "topics": [],
+  "headline": "Independent Nomination Board",
+  "meeting": {
+    "id": "x2IjROxHuYY",
+    "mon": "Sep",
+    "day": "9",
+    "date": "Wed, Sep 9, 2026",
+    "body": "Independent Nomination Board",
+    "dur": "1 h 07 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The board formed one TIG to interview applicants and, after closed-door interviews, voted to send names to several boards.",
+    "recap": "The Independent Nomination Board met with all five members present.[[0:00:31]] The board voted to have two members represent it at the Maui County Fair.[[0:14:32]] Voters will decide in November on a charter change that would dissolve the board.[[0:17:27]] The board voted, with five ayes, to form two TIGs, small groups of members, to interview, score and recommend applicants.[[0:30:36]] The board voted five to zero to let staff confirm reappointments for the board.[[0:32:21]] The board voted, with five ayes, on a new motion to form one TIG instead.[[0:40:58]] After a second closed-door session, the board said it interviewed six applicants.[[0:50:07]] The board said it voted to send names to boards including the Board of Water Supply and the Housing Advisory Board.[[0:50:54]] The next meeting was confirmed for the 23rd at 3:30.[[1:04:22]]",
+    "decided": [
+      "The board approved two members to represent it at the Maui County Fair.",
+      "The board voted to go into executive session to interview applicants.",
+      "The board approved forming two TIGs to interview, score and recommend applicants.",
+      "The board approved letting staff confirm reappointments and send them to the appointing body for the board.",
+      "The board approved a new motion to form one TIG to interview, score and recommend applicants.",
+      "The board voted to go back into executive session.",
+      "The board reported it voted in executive session to send names to several boards and none to liquor control."
+    ],
+    "next": "Suggested future recruiting events were deferred to the next meeting. The list of members whose terms end was not ready, so that item was deferred. Staff agreed to bring a plan and timeline for the TIG to the next meeting.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:17:34",
+        "q": "\"dissolve the independent nomination board\""
+      },
+      {
+        "t": "0:24:01",
+        "q": "Why a TIG: \"divide and conquer, schedule our own meetings\""
+      },
+      {
+        "t": "1:01:58",
+        "q": "Reading of the state law on who can serve on liquor boards"
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "filling-a-vacant-board-of-water-supply-seat",
+        "title": "Filling a vacant Board of Water Supply seat"
+      },
+      {
+        "slug": "2027-mass-nominations-for-county-boards",
+        "title": "2027 mass nominations and the vote on dissolving the nomination board"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Independent Nomination Board",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "board"
+}
