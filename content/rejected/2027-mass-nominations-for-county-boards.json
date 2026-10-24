@@ -25,6 +25,7 @@
         "type": "meeting",
         "videoId": "3Jc9Mp68Wcs",
         "ts": "0:20:12",
+        "endTs": "0:20:42",
         "retrievedISO": "2026-10-07T23:03:48.406Z"
       }
     },
@@ -36,6 +37,7 @@
         "type": "meeting",
         "videoId": "3Jc9Mp68Wcs",
         "ts": "0:18:09",
+        "endTs": "0:18:43",
         "retrievedISO": "2026-10-07T23:03:48.406Z"
       }
     },
@@ -47,6 +49,7 @@
         "type": "meeting",
         "videoId": "3Jc9Mp68Wcs",
         "ts": "0:16:12",
+        "endTs": "0:16:42",
         "retrievedISO": "2026-10-07T23:03:48.406Z"
       }
     },
@@ -58,6 +61,7 @@
         "type": "meeting",
         "videoId": "3Jc9Mp68Wcs",
         "ts": "0:13:58",
+        "endTs": "0:15:26",
         "retrievedISO": "2026-10-07T23:03:48.406Z"
       }
     },
@@ -69,6 +73,7 @@
         "type": "meeting",
         "videoId": "3Jc9Mp68Wcs",
         "ts": "0:09:38",
+        "endTs": "0:10:08",
         "retrievedISO": "2026-10-07T23:03:48.406Z"
       }
     },
@@ -80,6 +85,7 @@
         "type": "meeting",
         "videoId": "3Jc9Mp68Wcs",
         "ts": "0:08:14",
+        "endTs": "0:09:36",
         "retrievedISO": "2026-10-07T23:03:48.406Z"
       }
     },
@@ -91,6 +97,7 @@
         "type": "meeting",
         "videoId": "x2IjROxHuYY",
         "ts": "1:06:01",
+        "endTs": "1:06:47",
         "retrievedISO": "2026-10-07T23:04:00.900Z"
       },
       "body": "Independent Nomination Board"
@@ -103,6 +110,7 @@
         "type": "meeting",
         "videoId": "x2IjROxHuYY",
         "ts": "0:40:58",
+        "endTs": "0:42:27",
         "retrievedISO": "2026-10-07T23:04:00.900Z"
       },
       "body": "Independent Nomination Board"
@@ -115,6 +123,7 @@
         "type": "meeting",
         "videoId": "x2IjROxHuYY",
         "ts": "0:30:36",
+        "endTs": "0:32:06",
         "retrievedISO": "2026-10-07T23:04:00.900Z"
       },
       "body": "Independent Nomination Board"
@@ -127,6 +136,7 @@
         "type": "meeting",
         "videoId": "x2IjROxHuYY",
         "ts": "0:17:27",
+        "endTs": "0:17:57",
         "retrievedISO": "2026-10-07T23:04:00.900Z"
       },
       "body": "Independent Nomination Board"
@@ -139,6 +149,7 @@
         "type": "meeting",
         "videoId": "mEoIJx_G1XQ",
         "ts": "0:40:08",
+        "endTs": "0:40:38",
         "retrievedISO": "2026-10-12T06:30:06.096Z"
       },
       "body": "Cost of Government Commission"
@@ -151,6 +162,7 @@
         "type": "meeting",
         "videoId": "DN-bXIWkS7E",
         "ts": "0:28:52",
+        "endTs": "0:29:22",
         "retrievedISO": "2026-10-13T06:35:15.675Z"
       },
       "body": "Independent Nomination Board"
@@ -163,6 +175,7 @@
         "type": "meeting",
         "videoId": "DN-bXIWkS7E",
         "ts": "0:27:06",
+        "endTs": "0:27:59",
         "retrievedISO": "2026-10-13T06:35:15.675Z"
       },
       "body": "Independent Nomination Board"
@@ -175,6 +188,7 @@
         "type": "meeting",
         "videoId": "DN-bXIWkS7E",
         "ts": "0:26:43",
+        "endTs": "0:27:13",
         "retrievedISO": "2026-10-13T06:35:15.675Z"
       },
       "body": "Independent Nomination Board"
@@ -187,6 +201,7 @@
         "type": "meeting",
         "videoId": "DN-bXIWkS7E",
         "ts": "0:25:37",
+        "endTs": "0:26:22",
         "retrievedISO": "2026-10-13T06:35:15.675Z"
       },
       "body": "Independent Nomination Board"
@@ -199,6 +214,7 @@
         "type": "meeting",
         "videoId": "DN-bXIWkS7E",
         "ts": "0:07:01",
+        "endTs": "0:07:31",
         "retrievedISO": "2026-10-13T06:35:15.675Z"
       },
       "body": "Independent Nomination Board"
@@ -211,6 +227,7 @@
         "type": "meeting",
         "videoId": "DN-bXIWkS7E",
         "ts": "0:02:34",
+        "endTs": "0:03:13",
         "retrievedISO": "2026-10-13T06:35:15.675Z"
       },
       "body": "Independent Nomination Board"
@@ -223,6 +240,7 @@
         "type": "meeting",
         "videoId": "iEkzGiAP0Q4",
         "ts": "0:06:43",
+        "endTs": "0:07:30",
         "retrievedISO": "2026-10-15T06:35:33.026Z"
       },
       "body": "Civil Service Commission"
