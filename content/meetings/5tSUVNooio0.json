@@ -39,7 +39,16 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": [],
+    "trackerIssues": [
+      {
+        "slug": "haiku-zipline-violation-appeal-continued-to-january",
+        "title": "Haʻikū zipline violation appeal continued to January"
+      },
+      {
+        "slug": "mrc-partners-violation-appeal-nearing-final-continuance",
+        "title": "MRC Partners violation appeal nearing final continuance"
+      }
+    ],
     "boards": [
       {
         "name": "Board of Variances Reviews Haʻikū Zipline & Lumeria Maui Appeals",

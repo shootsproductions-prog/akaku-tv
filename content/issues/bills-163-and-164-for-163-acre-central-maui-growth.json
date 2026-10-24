@@ -1,0 +1,51 @@
+{
+  "slug": "bills-163-and-164-for-163-acre-central-maui-growth",
+  "title": "Bills 163 and 164 for 163-acre Central Maui growth",
+  "summary": "Bill 163 CD1 would add a 163.443-acre portion of a parcel to the Maui Island Plan's urban growth boundary, and Bill 164 CD1 would change it from Agriculture to Business Multifamily; testifiers raised a single untested well, closeness to the runway and an unfinished final EIS. The Council later passed Bills 163 and 164 nine to zero.",
+  "topics": [
+    "land-use",
+    "housing",
+    "water"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2024-11-26",
+  "lastSeenISO": "2026-09-29",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 1,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-23",
+  "timeline": [
+    {
+      "dateISO": "2026-09-29",
+      "text": "Bills 163 and 164 passed nine to zero.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "CWTHDPLTwS0",
+        "ts": "1:20:38",
+        "retrievedISO": "2026-10-16T04:23:58.786Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2024-11-26",
+      "text": "Group of bills on second and final reading: Bills 140, 141, 145, 147, 153, 161, 163, 164, 165, 168 and 169 passed second and final reading together.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jUG5zrO3VCw",
+        "ts": "2:31:36",
+        "retrievedISO": "2026-10-21T18:04:36.529Z"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

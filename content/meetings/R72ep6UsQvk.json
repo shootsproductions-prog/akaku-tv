@@ -37,7 +37,16 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": [],
+    "trackerIssues": [
+      {
+        "slug": "children-and-youth-commission-family-survey-findings",
+        "title": "Children and Youth Commission family survey findings"
+      },
+      {
+        "slug": "youth-commission-list-of-county-funded-youth-programs",
+        "title": "Youth commission list of county-funded youth programs"
+      }
+    ],
     "boards": [
       {
         "name": "Maui Children & Youth Commission",

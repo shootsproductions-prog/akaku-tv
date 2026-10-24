@@ -42,7 +42,20 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": [],
+    "trackerIssues": [
+      {
+        "slug": "post-hurricane-review-for-people-with-disabilities",
+        "title": "Post-hurricane review for people with disabilities"
+      },
+      {
+        "slug": "accessibility-problem-at-maui-county-building",
+        "title": "Accessibility problem at Maui County Building"
+      },
+      {
+        "slug": "wheelchair-access-to-scenic-overlooks-and-state-trails",
+        "title": "Wheelchair access to scenic overlooks and state trails"
+      }
+    ],
     "boards": [
       {
         "name": "Commission on Persons with Disabilities",

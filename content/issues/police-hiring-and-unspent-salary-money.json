@@ -1,0 +1,50 @@
+{
+  "slug": "police-hiring-and-unspent-salary-money",
+  "title": "Police hiring and unspent salary money",
+  "summary": "As of August 12, 44 police applicants were in the hiring process, and the department returned over $5 million in unspent salary money at the end of the fiscal year. A recruit class is also due to start, possibly in October, though that date is not confirmed.",
+  "topics": [
+    "public-safety",
+    "government"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2026-08-19",
+  "lastSeenISO": "2026-08-19",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-23",
+  "timeline": [
+    {
+      "dateISO": "2026-08-19",
+      "text": "As of August 12, 44 police applicants were in the hiring process.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ic0yx8fVvEE",
+        "ts": "0:31:47",
+        "retrievedISO": "2026-10-12T06:30:04.199Z"
+      },
+      "body": "Police Commission"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "The department gave back over $5 million in unspent salary money at the end of the fiscal year.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ic0yx8fVvEE",
+        "ts": "0:20:35",
+        "retrievedISO": "2026-10-12T06:30:04.199Z"
+      },
+      "body": "Police Commission"
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

@@ -50,7 +50,12 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": [],
+    "trackerIssues": [
+      {
+        "slug": "fireworks-damage-complaint-before-police-commission",
+        "title": "Fireworks damage complaint before Police Commission"
+      }
+    ],
     "boards": [
       {
         "name": "Police Commission",

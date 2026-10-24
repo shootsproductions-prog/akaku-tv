@@ -36,7 +36,24 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": [],
+    "trackerIssues": [
+      {
+        "slug": "lanai-property-appeal-of-planning-director-decision",
+        "title": "Lānaʻi property appeal of planning director decision"
+      },
+      {
+        "slug": "bed-and-breakfast-permit-closure-appeal",
+        "title": "Bed and breakfast permit closure appeal"
+      },
+      {
+        "slug": "board-of-variances-short-on-members",
+        "title": "Board of Variances short on members"
+      },
+      {
+        "slug": "hours-of-operation-limit-on-overnight-home-use",
+        "title": "Hours-of-operation limit on overnight home use"
+      }
+    ],
     "boards": [
       {
         "name": "Board of Variances and Appeals",

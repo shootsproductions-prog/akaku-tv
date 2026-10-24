@@ -1,0 +1,50 @@
+{
+  "slug": "kulamalu-park-stairs-fall-lawsuit-settlement",
+  "title": "Kulamalu Park stairs fall lawsuit settlement",
+  "summary": "On Sept. 29, the Council adopted Resolution 26-147 to settle a lawsuit against the County, with eight ayes and one abstention. The suit stems from a March 8, 2024 fall at Kulamalu Park, where a woman carrying her granddaughter reached for a railing that was not there and claims injuries including a fractured hip.",
+  "topics": [
+    "government",
+    "public-safety"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-09-29",
+  "lastSeenISO": "2026-09-29",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 2,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-23",
+  "timeline": [
+    {
+      "dateISO": "2026-09-29",
+      "text": "Resolution 26-147, authorizing a lawsuit settlement: The Council adopted the resolution to settle a lawsuit against the County.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "CWTHDPLTwS0",
+        "ts": "0:21:38",
+        "retrievedISO": "2026-10-16T04:23:58.786Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-09-29",
+      "text": "Motion to discharge the Government Relations, Ethics, and Transparency Committee from Resolution 26-147: A vote was called on removing the item from committee so the Council could act today, but the result is not heard in the recording.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "CWTHDPLTwS0",
+        "ts": "0:19:06",
+        "retrievedISO": "2026-10-16T04:23:58.786Z"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

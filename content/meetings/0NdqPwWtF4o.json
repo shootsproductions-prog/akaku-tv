@@ -44,7 +44,12 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": [],
+    "trackerIssues": [
+      {
+        "slug": "liquor-control-director-retirement-and-replacement-search",
+        "title": "Liquor Control director retirement and replacement search"
+      }
+    ],
     "boards": [
       {
         "name": "Liquor Control Commission",

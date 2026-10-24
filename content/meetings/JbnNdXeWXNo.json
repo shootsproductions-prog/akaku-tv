@@ -57,7 +57,20 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": [],
+    "trackerIssues": [
+      {
+        "slug": "liquor-control-director-retirement-and-replacement-search",
+        "title": "Liquor Control director retirement and replacement search"
+      },
+      {
+        "slug": "aloha-spirits-brewery-liquor-license-and-zoning-limits",
+        "title": "Aloha Spirits brewery liquor license and zoning limits"
+      },
+      {
+        "slug": "liquor-rule-changes-to-speed-restaurant-applications",
+        "title": "Liquor rule changes to speed restaurant applications"
+      }
+    ],
     "boards": [
       {
         "name": "Liquor Control Commission",

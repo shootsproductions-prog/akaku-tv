@@ -35,7 +35,16 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": [],
+    "trackerIssues": [
+      {
+        "slug": "contested-case-on-mahi-pono-east-maui-water-permits",
+        "title": "Contested case on Mahi Pono East Maui water permits"
+      },
+      {
+        "slug": "east-maui-watershed-plan-based-on-ahupuaa",
+        "title": "East Maui watershed plan based on ahupuaʻa"
+      }
+    ],
     "boards": [
       {
         "name": "ʻAha Moku o Maui Hikina",
