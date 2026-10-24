@@ -4,11 +4,8 @@
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-07T23:14:32.236Z",
   "meetingDateISO": "2026-09-21",
-  "source": {
-    "youtubeUrl": "https://youtu.be/R72ep6UsQvk"
-  },
-  "topics": [],
   "headline": "Commission seeks list of county-funded youth programs",
+  "topics": [],
   "meeting": {
     "id": "R72ep6UsQvk",
     "mon": "Sep",
@@ -51,5 +48,7 @@
     "bills": []
   },
   "issues": [],
-  "bodyType": "board"
+  "source": {
+    "youtubeUrl": "https://youtu.be/R72ep6UsQvk"
+  }
 }

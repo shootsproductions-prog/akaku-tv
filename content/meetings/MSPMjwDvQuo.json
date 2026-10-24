@@ -4,13 +4,10 @@
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-07T23:18:07.181Z",
   "meetingDateISO": "2026-09-10",
-  "source": {
-    "youtubeUrl": "https://youtu.be/MSPMjwDvQuo"
-  },
+  "headline": "Commission on Persons with Disabilities",
   "topics": [
     "Disaster Recovery"
   ],
-  "headline": "Commission on Persons with Disabilities",
   "meeting": {
     "id": "MSPMjwDvQuo",
     "mon": "Sep",
@@ -56,5 +53,7 @@
     "bills": []
   },
   "issues": [],
-  "bodyType": "board"
+  "source": {
+    "youtubeUrl": "https://youtu.be/MSPMjwDvQuo"
+  }
 }

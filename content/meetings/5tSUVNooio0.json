@@ -4,11 +4,8 @@
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-07T23:07:21.343Z",
   "meetingDateISO": "2026-09-24",
-  "source": {
-    "youtubeUrl": "https://youtu.be/5tSUVNooio0"
-  },
-  "topics": [],
   "headline": "Board of Variances Reviews Haʻikū Zipline & Lumeria Maui Appeals",
+  "topics": [],
   "meeting": {
     "id": "5tSUVNooio0",
     "mon": "Sep",
@@ -53,5 +50,7 @@
     "bills": []
   },
   "issues": [],
-  "bodyType": "board"
+  "source": {
+    "youtubeUrl": "https://youtu.be/5tSUVNooio0"
+  }
 }

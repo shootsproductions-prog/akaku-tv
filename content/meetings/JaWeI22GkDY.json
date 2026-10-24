@@ -4,11 +4,8 @@
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-14T06:41:38.068Z",
   "meetingDateISO": "2026-10-13",
-  "source": {
-    "youtubeUrl": "https://youtu.be/JaWeI22GkDY"
-  },
-  "topics": [],
   "headline": "Police Commission Places Chief Pelletier on Leave, Names Wayne Mikaele Acting Chief",
+  "topics": [],
   "meeting": {
     "id": "JaWeI22GkDY",
     "mon": "Oct",
@@ -51,5 +48,7 @@
     "bills": []
   },
   "issues": [],
-  "bodyType": "board"
+  "source": {
+    "youtubeUrl": "https://youtu.be/JaWeI22GkDY"
+  }
 }

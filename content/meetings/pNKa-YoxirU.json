@@ -4,14 +4,11 @@
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-07T23:10:26.829Z",
   "meetingDateISO": "2026-09-17",
-  "source": {
-    "youtubeUrl": "https://youtu.be/pNKa-YoxirU"
-  },
+  "headline": "Maui Ferry Program",
   "topics": [
     "Food Security",
     "Disaster Recovery"
   ],
-  "headline": "Maui Ferry Program",
   "meeting": {
     "id": "pNKa-YoxirU",
     "mon": "Sep",
@@ -48,5 +45,7 @@
     "bills": []
   },
   "issues": [],
-  "bodyType": "board"
+  "source": {
+    "youtubeUrl": "https://youtu.be/pNKa-YoxirU"
+  }
 }

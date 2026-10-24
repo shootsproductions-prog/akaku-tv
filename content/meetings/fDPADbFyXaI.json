@@ -4,13 +4,10 @@
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-07T23:14:29.362Z",
   "meetingDateISO": "2026-09-17",
-  "source": {
-    "youtubeUrl": "https://youtu.be/fDPADbFyXaI"
-  },
+  "headline": "Maui Fire & Public Safety Commission",
   "topics": [
     "Disaster Recovery"
   ],
-  "headline": "Maui Fire & Public Safety Commission",
   "meeting": {
     "id": "fDPADbFyXaI",
     "mon": "Sep",
@@ -57,5 +54,7 @@
     "bills": []
   },
   "issues": [],
-  "bodyType": "board"
+  "source": {
+    "youtubeUrl": "https://youtu.be/fDPADbFyXaI"
+  }
 }

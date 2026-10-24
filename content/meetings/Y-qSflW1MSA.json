@@ -4,13 +4,10 @@
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-13T06:37:44.271Z",
   "meetingDateISO": "2026-10-08",
-  "source": {
-    "youtubeUrl": "https://youtu.be/Y-qSflW1MSA"
-  },
+  "headline": "Budget & Finance COG",
   "topics": [
     "Disaster Recovery"
   ],
-  "headline": "Budget & Finance COG",
   "meeting": {
     "id": "Y-qSflW1MSA",
     "mon": "Oct",
@@ -55,5 +52,7 @@
     "bills": []
   },
   "issues": [],
-  "bodyType": "board"
+  "source": {
+    "youtubeUrl": "https://youtu.be/Y-qSflW1MSA"
+  }
 }

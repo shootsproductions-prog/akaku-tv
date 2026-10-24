@@ -4,11 +4,8 @@
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-11T05:47:59.118Z",
   "meetingDateISO": "2026-10-07",
-  "source": {
-    "youtubeUrl": "https://youtu.be/yMbc5cKnAGk"
-  },
-  "topics": [],
   "headline": "Civil Service Commission",
+  "topics": [],
   "meeting": {
     "id": "yMbc5cKnAGk",
     "mon": "Oct",
@@ -60,5 +57,7 @@
     "bills": []
   },
   "issues": [],
-  "bodyType": "board"
+  "source": {
+    "youtubeUrl": "https://youtu.be/yMbc5cKnAGk"
+  }
 }

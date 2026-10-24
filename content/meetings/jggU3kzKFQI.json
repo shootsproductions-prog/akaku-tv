@@ -4,13 +4,10 @@
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-07T23:15:55.497Z",
   "meetingDateISO": "2026-09-18",
-  "source": {
-    "youtubeUrl": "https://youtu.be/jggU3kzKFQI"
-  },
+  "headline": "Aha Moku o Maui Hikina",
   "topics": [
     "Water"
   ],
-  "headline": "Aha Moku o Maui Hikina",
   "meeting": {
     "id": "jggU3kzKFQI",
     "mon": "Sep",
@@ -49,5 +46,7 @@
     "bills": []
   },
   "issues": [],
-  "bodyType": "board"
+  "source": {
+    "youtubeUrl": "https://youtu.be/jggU3kzKFQI"
+  }
 }

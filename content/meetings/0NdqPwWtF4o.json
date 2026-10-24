@@ -4,11 +4,8 @@
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-07T23:12:20.020Z",
   "meetingDateISO": "2026-09-21",
-  "source": {
-    "youtubeUrl": "https://youtu.be/0NdqPwWtF4o"
-  },
-  "topics": [],
   "headline": "Maui Liquor Control Commission Launches Director Search",
+  "topics": [],
   "meeting": {
     "id": "0NdqPwWtF4o",
     "mon": "Sep",
@@ -58,5 +55,7 @@
     "bills": []
   },
   "issues": [],
-  "bodyType": "board"
+  "source": {
+    "youtubeUrl": "https://youtu.be/0NdqPwWtF4o"
+  }
 }
