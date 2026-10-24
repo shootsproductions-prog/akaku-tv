@@ -1,0 +1,394 @@
+{
+  "slug": "central-maui-desalination-study-and-report-release",
+  "title": "Central Maui desalination study and report release",
+  "summary": "On Sept. 17, the director said the desalination report can't be released until the Department of Homeland Security approves it. The water department presented its study in August, recommending reverse osmosis, with a brackish plant estimated at $119 million to $261 million and a seawater plant at $328 million.",
+  "topics": [
+    "water"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2024-11-21",
+  "lastSeenISO": "2026-09-17",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 2,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-23",
+  "timeline": [
+    {
+      "dateISO": "2026-09-17",
+      "text": "The director said a desalination report can't be released until the Department of Homeland Security approves it.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mJyIAre9As4",
+        "ts": "1:05:54",
+        "endTs": "1:06:24",
+        "retrievedISO": "2026-10-07T23:03:55.224Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "Another resident said they should seek any federal funding available for this.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0XMHdbglvJw",
+        "ts": "1:02:46",
+        "endTs": "1:03:16",
+        "retrievedISO": "2026-10-09T06:35:01.986Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "A consultant said a deeper study of the underground rock and water would be done for injection sites.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0XMHdbglvJw",
+        "ts": "0:54:13",
+        "endTs": "0:54:43",
+        "retrievedISO": "2026-10-09T06:35:01.986Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "A resident urged focusing on efficiency and infrastructure instead of desalination.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0XMHdbglvJw",
+        "ts": "0:44:32",
+        "endTs": "0:45:02",
+        "retrievedISO": "2026-10-09T06:35:01.986Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "People can send questions or comments to an email address shown at the meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0XMHdbglvJw",
+        "ts": "0:29:29",
+        "endTs": "0:29:59",
+        "retrievedISO": "2026-10-09T06:35:01.986Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "The department will post the presentation on its website.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0XMHdbglvJw",
+        "ts": "0:29:14",
+        "endTs": "0:29:44",
+        "retrievedISO": "2026-10-09T06:35:01.986Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "Staff said construction would be 10 years or more away.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0XMHdbglvJw",
+        "ts": "0:28:31",
+        "endTs": "0:29:01",
+        "retrievedISO": "2026-10-09T06:35:01.986Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "If the community gives support, the department could select a site and apply for federal funding.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0XMHdbglvJw",
+        "ts": "0:28:13",
+        "endTs": "0:28:43",
+        "retrievedISO": "2026-10-09T06:35:01.986Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "A four million gallon a day seawater plant would cost an estimated $328 million to build.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0XMHdbglvJw",
+        "ts": "0:26:17",
+        "endTs": "0:26:47",
+        "retrievedISO": "2026-10-09T06:35:01.986Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "Its estimated building cost is $119 million at half a million gallons a day, or $261 million at two million.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0XMHdbglvJw",
+        "ts": "0:25:44",
+        "endTs": "0:26:14",
+        "retrievedISO": "2026-10-09T06:35:01.986Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "One option is a brackish water plant starting at half a million gallons a day, expandable to two million.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0XMHdbglvJw",
+        "ts": "0:24:53",
+        "endTs": "0:25:23",
+        "retrievedISO": "2026-10-09T06:35:01.986Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "It recommended injecting the leftover salty brine into deep wells.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0XMHdbglvJw",
+        "ts": "0:23:33",
+        "endTs": "0:24:03",
+        "retrievedISO": "2026-10-09T06:35:01.986Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "The study recommended reverse osmosis, a proven filter technology.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0XMHdbglvJw",
+        "ts": "0:21:42",
+        "endTs": "0:22:12",
+        "retrievedISO": "2026-10-09T06:35:01.986Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "Staff said the central and south Maui water system has been short on water sources for many years.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0XMHdbglvJw",
+        "ts": "0:06:30",
+        "endTs": "0:07:00",
+        "retrievedISO": "2026-10-09T06:35:01.986Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "The water department is studying desalination of brackish water and seawater as a possible new drinking water source.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0XMHdbglvJw",
+        "ts": "0:04:49",
+        "endTs": "0:05:25",
+        "retrievedISO": "2026-10-09T06:35:01.986Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "The water department presented findings of a study on desalination, which means removing salt from water.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0XMHdbglvJw",
+        "ts": "0:00:05",
+        "endTs": "0:00:35",
+        "retrievedISO": "2026-10-09T06:35:01.986Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-16",
+      "text": "A board member asked to add the West Maui well schedule and desalination report release to a future agenda.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "zjBo8277OWs",
+        "ts": "0:33:17",
+        "endTs": "0:34:18",
+        "retrievedISO": "2026-10-09T06:35:03.270Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-07-16",
+      "text": "The director said desalination meetings on the east, south and west sides are in the first week of August.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "zjBo8277OWs",
+        "ts": "0:29:46",
+        "endTs": "0:30:16",
+        "retrievedISO": "2026-10-09T06:35:03.270Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-07-16",
+      "text": "The director said there will be more public outreach before any desalination plant moves forward.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "zjBo8277OWs",
+        "ts": "0:29:16",
+        "endTs": "0:29:46",
+        "retrievedISO": "2026-10-09T06:35:03.270Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-07-16",
+      "text": "The director said building a desalination plant would need much more money than this year's budget.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "zjBo8277OWs",
+        "ts": "0:29:03",
+        "endTs": "0:29:33",
+        "retrievedISO": "2026-10-09T06:35:03.270Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-07-16",
+      "text": "The director said this fiscal year's capital budget money will update the study so it may qualify for federal funding.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "zjBo8277OWs",
+        "ts": "0:28:22",
+        "endTs": "0:28:56",
+        "retrievedISO": "2026-10-09T06:35:03.270Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-07-16",
+      "text": "A member of the public agreed the final report should be out before public testimony.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "zjBo8277OWs",
+        "ts": "0:26:03",
+        "endTs": "0:26:33",
+        "retrievedISO": "2026-10-09T06:35:03.270Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-07-16",
+      "text": "A board member said the public should get the report in time to be informed before public meetings.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "zjBo8277OWs",
+        "ts": "0:15:43",
+        "endTs": "0:16:15",
+        "retrievedISO": "2026-10-09T06:35:03.270Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-07-16",
+      "text": "The director said a desalination grant application would be done early next calendar year if the department decides to go ahead.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "zjBo8277OWs",
+        "ts": "0:15:02",
+        "endTs": "0:15:32",
+        "retrievedISO": "2026-10-09T06:35:03.270Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-07-16",
+      "text": "The director said public hearings on desalination are set for early August.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "zjBo8277OWs",
+        "ts": "0:13:46",
+        "endTs": "0:14:16",
+        "retrievedISO": "2026-10-09T06:35:03.270Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-07-16",
+      "text": "The director said the report is being updated so possible projects could qualify for federal funding.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "zjBo8277OWs",
+        "ts": "0:13:14",
+        "endTs": "0:13:56",
+        "retrievedISO": "2026-10-09T06:35:03.270Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-07-16",
+      "text": "The director said the report should be redacted, with sensitive parts removed, by the next meeting and then released.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "zjBo8277OWs",
+        "ts": "0:13:08",
+        "endTs": "0:14:14",
+        "retrievedISO": "2026-10-09T06:35:03.270Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-07-16",
+      "text": "A board member asked when the desalination (turning salt water into fresh water) report would be released.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "zjBo8277OWs",
+        "ts": "0:12:36",
+        "endTs": "0:13:16",
+        "retrievedISO": "2026-10-09T06:35:03.270Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2024-11-21",
+      "text": "The budget holds $75 million in fiscal year 2029 for possible desalination in Central Maui.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "XD60_Qatcxw",
+        "ts": "1:30:54",
+        "endTs": "1:31:50",
+        "retrievedISO": "2026-10-09T06:35:07.486Z"
+      },
+      "body": "Board of Water Supply"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Board of Water Supply",
+      "group": "board",
+      "short": [
+        "BWS"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

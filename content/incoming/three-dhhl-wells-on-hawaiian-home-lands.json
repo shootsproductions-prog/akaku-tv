@@ -1,0 +1,482 @@
+{
+  "slug": "three-dhhl-wells-on-hawaiian-home-lands",
+  "title": "Three DHHL wells on Hawaiian Home Lands",
+  "summary": "On September 29, the Council approved a committee report advancing the bill for three water wells on Hawaiian Homelands land, nine to zero. Department of Hawaiian Home Lands (DHHL) says the wells would help supply its homestead developments, though a testifier said the agreement's map shows no pipeline to the planned homestead lands. Earlier, a committee amendment removed a set 1,728,000 gallons-per-day figure from Section 7.",
+  "topics": [
+    "water",
+    "housing"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2024-11-26",
+  "lastSeenISO": "2026-09-29",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 3,
+    "mentionsLast30d": 2,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-23",
+  "timeline": [
+    {
+      "dateISO": "2026-09-29",
+      "text": "The Council approved the water wells report nine to zero.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "CWTHDPLTwS0",
+        "ts": "0:31:33",
+        "endTs": "0:32:12",
+        "retrievedISO": "2026-10-16T04:23:58.786Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-09-29",
+      "text": "A committee report advanced a bill for three water wells on Hawaiian Homelands land.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "CWTHDPLTwS0",
+        "ts": "0:25:16",
+        "endTs": "0:25:53",
+        "retrievedISO": "2026-10-16T04:23:58.786Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "The amendment passed with seven ayes and zero noes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "x1bWmSajuIM",
+        "ts": "0:58:05",
+        "endTs": "0:58:38",
+        "retrievedISO": "2026-10-16T12:27:11.063Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "A member read that the three wells could produce about 2,592,000 gallons per day with 24-hour pumping.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "x1bWmSajuIM",
+        "ts": "0:56:25",
+        "endTs": "0:56:55",
+        "retrievedISO": "2026-10-16T12:27:11.063Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "A five-minute recess was requested to address that question.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "GKaaaoFG2qs",
+        "ts": "0:56:01",
+        "endTs": "0:56:31",
+        "retrievedISO": "2026-10-16T05:42:11.235Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "A five-minute recess was requested to address adding credit-adjustment language to the agreement.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "GKaaaoFG2qs",
+        "ts": "0:55:50",
+        "endTs": "0:56:25",
+        "retrievedISO": "2026-10-16T05:42:11.235Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "A five-minute recess was requested to address adding language to adjust credits if well output differs from estimates.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "GKaaaoFG2qs",
+        "ts": "0:55:37",
+        "endTs": "0:56:25",
+        "retrievedISO": "2026-10-16T05:42:11.235Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Department of Hawaiian Home Lands (DHHL) said an existing USGS well next to the proposed wells gives relevant water test samples.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "GKaaaoFG2qs",
+        "ts": "0:44:19",
+        "endTs": "0:44:49",
+        "retrievedISO": "2026-10-16T05:42:11.235Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "If chloride levels in the wells are high, the water would be treated with reverse osmosis.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "GKaaaoFG2qs",
+        "ts": "0:43:32",
+        "endTs": "0:44:18",
+        "retrievedISO": "2026-10-16T05:42:11.235Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Department of Hawaiian Home Lands (DHHL) said it would later share what percentage of the 9,000 on its wait list are from Maui.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "GKaaaoFG2qs",
+        "ts": "0:39:22",
+        "endTs": "0:39:52",
+        "retrievedISO": "2026-10-16T05:42:11.235Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Department of Hawaiian Home Lands (DHHL) said the wells provide water for its projects without straining the current county system.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "GKaaaoFG2qs",
+        "ts": "0:37:39",
+        "endTs": "0:38:09",
+        "retrievedISO": "2026-10-16T05:42:11.235Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "A councilmember asked why the county gets no water share, as in other Department of Hawaiian Home Lands (DHHL) projects.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "GKaaaoFG2qs",
+        "ts": "0:36:05",
+        "endTs": "0:37:12",
+        "retrievedISO": "2026-10-16T05:42:11.235Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "If chloride (salt) levels are high, reverse osmosis treatment would be used.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "x1bWmSajuIM",
+        "ts": "0:35:42",
+        "endTs": "0:36:23",
+        "retrievedISO": "2026-10-16T12:27:11.063Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Department of Hawaiian Home Lands (DHHL) said it would provide a breakdown of its wait list at a later date.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "x1bWmSajuIM",
+        "ts": "0:31:32",
+        "endTs": "0:32:02",
+        "retrievedISO": "2026-10-16T12:27:11.063Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Department of Hawaiian Home Lands (DHHL) said it formed a working group to get community feedback on the agreement.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "GKaaaoFG2qs",
+        "ts": "0:21:53",
+        "endTs": "0:22:28",
+        "retrievedISO": "2026-10-16T05:42:11.235Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Department of Hawaiian Home Lands (DHHL) said the longer it waits to build homes, the more expensive they become for beneficiaries.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "GKaaaoFG2qs",
+        "ts": "0:20:56",
+        "endTs": "0:21:26",
+        "retrievedISO": "2026-10-16T05:42:11.235Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Department of Hawaiian Home Lands (DHHL) said the three wells could produce about 1.728 million gallons a day, all for DHHL.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "GKaaaoFG2qs",
+        "ts": "0:19:26",
+        "endTs": "0:19:59",
+        "retrievedISO": "2026-10-16T05:42:11.235Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Department of Hawaiian Home Lands (DHHL) said the full system could serve an estimated 2,880 residential units.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "GKaaaoFG2qs",
+        "ts": "0:19:16",
+        "endTs": "0:19:46",
+        "retrievedISO": "2026-10-16T05:42:11.235Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "The committee passed the amendment 7 to 0.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "2oq6VqJ13h4",
+        "ts": "0:18:22",
+        "endTs": "0:18:52",
+        "retrievedISO": "2026-10-16T05:43:53.105Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Department of Hawaiian Home Lands (DHHL) said many people on its wait list pass away before receiving a home.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "GKaaaoFG2qs",
+        "ts": "0:17:52",
+        "endTs": "0:18:22",
+        "retrievedISO": "2026-10-16T05:42:11.235Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Department of Hawaiian Home Lands (DHHL) said its wait list has over 9,000 people, with an average age over 60.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "GKaaaoFG2qs",
+        "ts": "0:17:33",
+        "endTs": "0:18:03",
+        "retrievedISO": "2026-10-16T05:42:11.235Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Department of Hawaiian Home Lands (DHHL) said it was fine with the wording as long as it gets the full operating capacity of the wells.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "2oq6VqJ13h4",
+        "ts": "0:15:53",
+        "endTs": "0:16:23",
+        "retrievedISO": "2026-10-16T05:43:53.105Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Department of Hawaiian Home Lands (DHHL) wants the wells to speed up home building for its beneficiaries.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "GKaaaoFG2qs",
+        "ts": "0:15:31",
+        "endTs": "0:16:01",
+        "retrievedISO": "2026-10-16T05:42:11.235Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "The Department of Water Supply said it supports the bill because it helps Department of Hawaiian Home Lands (DHHL) house beneficiaries faster.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "GKaaaoFG2qs",
+        "ts": "0:15:00",
+        "endTs": "0:15:31",
+        "retrievedISO": "2026-10-16T05:42:11.235Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "The project includes three wells, a storage tank, and a pipeline to the county water system.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "GKaaaoFG2qs",
+        "ts": "0:13:45",
+        "endTs": "0:14:15",
+        "retrievedISO": "2026-10-16T05:42:11.235Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "The amendment removed a set figure of 1,728,000 gallons per day from the first paragraph of Section 7.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "2oq6VqJ13h4",
+        "ts": "0:12:38",
+        "endTs": "0:13:11",
+        "retrievedISO": "2026-10-16T05:43:53.105Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Department of Hawaiian Home Lands (DHHL) said it lacks the transmission lines and capacity to run its own water system.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "x1bWmSajuIM",
+        "ts": "0:12:01",
+        "endTs": "0:13:06",
+        "retrievedISO": "2026-10-16T12:27:11.063Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Under the draft agreement, Department of Hawaiian Home Lands (DHHL) would receive all of the wells' estimated 1.728 million gallons of water per day.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "x1bWmSajuIM",
+        "ts": "0:11:37",
+        "endTs": "0:12:07",
+        "retrievedISO": "2026-10-16T12:27:11.063Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Department of Hawaiian Home Lands (DHHL) said advance water credits would cover 39.5% of its development needs right away.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "x1bWmSajuIM",
+        "ts": "0:10:59",
+        "endTs": "0:11:29",
+        "retrievedISO": "2026-10-16T12:27:11.063Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Department of Hawaiian Home Lands (DHHL) says the new wells would support over a thousand homestead lots for Native Hawaiian families.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "x1bWmSajuIM",
+        "ts": "0:10:32",
+        "endTs": "0:11:03",
+        "retrievedISO": "2026-10-16T12:27:11.063Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Department of Hawaiian Home Lands (DHHL) said its residential wait list is almost 4,000 people.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "x1bWmSajuIM",
+        "ts": "0:09:45",
+        "endTs": "0:10:15",
+        "retrievedISO": "2026-10-16T12:27:11.063Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "The water deputy director said the deal helps Department of Hawaiian Home Lands (DHHL) get its beneficiaries housing quicker.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "x1bWmSajuIM",
+        "ts": "0:07:09",
+        "endTs": "0:07:39",
+        "retrievedISO": "2026-10-16T12:27:11.063Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Department of Hawaiian Home Lands (DHHL) would plan, design, build and get approvals and funding for the wells.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "x1bWmSajuIM",
+        "ts": "0:06:12",
+        "endTs": "0:06:42",
+        "retrievedISO": "2026-10-16T12:27:11.063Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2024-11-26",
+      "text": "Bill 159: Bill 159, an agreement with the State Department of Hawaiian Home Lands, passed second and final reading.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jUG5zrO3VCw",
+        "ts": "2:34:43",
+        "endTs": "2:35:41",
+        "retrievedISO": "2026-10-21T18:04:36.529Z"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    },
+    {
+      "name": "Water and Infrastructure Committee",
+      "group": "council",
+      "short": [
+        "WAI"
+      ]
+    }
+  ],
+  "bills": [
+    "Bill 159 (2024)"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

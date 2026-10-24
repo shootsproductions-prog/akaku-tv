@@ -1,0 +1,64 @@
+{
+  "slug": "spending-the-1-6-billion-federal-recovery-grant",
+  "title": "Spending the $1.6 billion federal recovery grant",
+  "summary": "A speaker said the federal government gave 1.6 billion dollars for housing and rebuilding. Earlier, the county reported it had committed $1.278 billion of its $1.6 billion in recovery funds.",
+  "topics": [
+    "disaster-recovery",
+    "housing"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-08-05",
+  "lastSeenISO": "2026-09-30",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 2,
+    "mentionsLast30d": 1,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-23",
+  "timeline": [
+    {
+      "dateISO": "2026-09-30",
+      "text": "A speaker said the federal government gave 1.6 billion dollars for housing and rebuilding.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oZNc2fyyOPE",
+        "ts": "0:27:34",
+        "endTs": "0:28:04",
+        "retrievedISO": "2026-10-16T03:41:33.571Z"
+      },
+      "body": "County Council Special Meeting"
+    },
+    {
+      "dateISO": "2026-08-05",
+      "text": "The county has committed $1.278 billion of its $1.6 billion in recovery funds.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "VgE2vefgTzg",
+        "ts": "0:15:49",
+        "endTs": "0:16:19",
+        "retrievedISO": "2026-10-16T07:27:27.980Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    },
+    {
+      "name": "Disaster Recovery, International Affairs, and Planning Committee",
+      "group": "council",
+      "short": [
+        "DRIP"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

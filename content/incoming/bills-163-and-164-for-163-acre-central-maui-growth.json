@@ -1,0 +1,72 @@
+{
+  "slug": "bills-163-and-164-for-163-acre-central-maui-growth",
+  "title": "Bills 163 and 164 for 163-acre Central Maui growth",
+  "summary": "Bills 163 and 164 passed nine to zero on September 29, 2026. Earlier, on November 26, 2024, they were part of a group of bills (140, 141, 145, 147, 153, 161, 163, 164, 165, 168 and 169) that passed second and final reading together.",
+  "topics": [
+    "land-use",
+    "housing",
+    "water"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2024-11-26",
+  "lastSeenISO": "2026-09-29",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 1,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-23",
+  "timeline": [
+    {
+      "dateISO": "2026-09-29",
+      "text": "Bills 163 and 164 passed nine to zero.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "CWTHDPLTwS0",
+        "ts": "1:20:38",
+        "endTs": "1:21:42",
+        "retrievedISO": "2026-10-16T04:23:58.786Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2024-11-26",
+      "text": "Group of bills on second and final reading: Bills 140, 141, 145, 147, 153, 161, 163, 164, 165, 168 and 169 passed second and final reading together.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jUG5zrO3VCw",
+        "ts": "2:31:36",
+        "endTs": "2:33:21",
+        "retrievedISO": "2026-10-21T18:04:36.529Z"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [
+    "Bill 140 (2024)",
+    "Bill 141 (2024)",
+    "Bill 145 (2024)",
+    "Bill 147 (2024)",
+    "Bill 153 (2024)",
+    "Bill 161 (2024)",
+    "Bill 163 (2024)",
+    "Bill 163 (2026)",
+    "Bill 164 (2024)",
+    "Bill 164 (2026)",
+    "Bill 165 (2024)",
+    "Bill 168 (2024)",
+    "Bill 169 (2024)"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
