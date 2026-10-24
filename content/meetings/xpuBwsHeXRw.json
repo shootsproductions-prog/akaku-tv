@@ -4,13 +4,10 @@
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-07T23:27:44.601Z",
   "meetingDateISO": "2026-08-20",
-  "source": {
-    "youtubeUrl": "https://youtu.be/xpuBwsHeXRw"
-  },
+  "headline": "Who Really Owns East Maui's Water System?",
   "topics": [
     "Water"
   ],
-  "headline": "Who Really Owns East Maui's Water System?",
   "meeting": {
     "id": "xpuBwsHeXRw",
     "mon": "Aug",
@@ -47,5 +44,7 @@
     "bills": []
   },
   "issues": [],
-  "bodyType": "board"
+  "source": {
+    "youtubeUrl": "https://youtu.be/xpuBwsHeXRw"
+  }
 }
