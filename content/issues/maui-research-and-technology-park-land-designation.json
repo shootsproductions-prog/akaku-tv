@@ -1,7 +1,7 @@
 {
   "slug": "maui-research-and-technology-park-land-designation",
   "title": "Maui Research and Technology Park land designation",
-  "summary": "A bill now before the council would switch part of the Maui Research and Technology Park's commercial land to residential and allow minor medical centers in its civic district. Zoning changes and a council resolution for the park were slated for the September 8th meeting. In December 2024, a motion to designate the whole park a special purpose district failed, and the planning director called that designation absolutely inappropriate.",
+  "summary": "On October 21, 2026, Bill 141 (2026) was the main item. It would move part of the Maui Research and Technology Park's commercial land into the Residential District, growing it from 102.3 to 158 acres, with the 1,250-home cap unchanged. The Maui Planning Commission unanimously recommended approval on September 8, after the council sent the zoning change to it in May.",
   "topics": [
     "land-use"
   ],
@@ -12,11 +12,35 @@
   "signals": {
     "meetingsLast30d": 1,
     "meetingsLast90d": 2,
-    "mentionsLast30d": 2,
+    "mentionsLast30d": 3,
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-25",
   "timeline": [
+    {
+      "dateISO": "2026-10-21",
+      "text": "The chair said the residential area would grow from 102.3 acres to 158 acres.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Pcpudwx07B4",
+        "ts": "0:43:45",
+        "retrievedISO": "2026-10-21T23:01:41.623Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "The cap of 1,250 residential units stays the same.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Pcpudwx07B4",
+        "ts": "0:29:33",
+        "retrievedISO": "2026-10-21T23:01:41.623Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
     {
       "dateISO": "2026-10-21",
       "text": "The bill would also allow minor medical centers in the park's civic district.",
@@ -38,6 +62,18 @@
         "videoId": "OfgqgyE6vs0",
         "ts": "0:24:36",
         "retrievedISO": "2026-10-22T07:21:21.243Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "The main item was Bill 141 (2026), which would amend the county code chapter for the Maui Research and Technology Park.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Pcpudwx07B4",
+        "ts": "0:18:53",
+        "retrievedISO": "2026-10-21T23:01:41.623Z"
       },
       "body": "County Council Housing and Land Use Committee"
     },

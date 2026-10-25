@@ -1,14 +1,14 @@
 {
   "slug": "johnson-controls-energy-savings-contract-phase-3",
   "title": "Johnson Controls energy savings contract Phase 3",
-  "summary": "On July 7, 2026, members voted 9–0 to finance Phase 3 of an energy savings contract, for up to $9,021,259 plus interest. The facts provided do not describe the earlier phases or what Phase 3 will pay for.",
+  "summary": "On July 7, members voted 9–0 to finance Phase 3 of the Johnson Controls energy savings contract, up to $9,021,259 plus interest. A committee had backed it June 24 with an amendment allowing a lower final amount, using a tax-exempt lease purchase at 4.49 percent. The administration says Phase 1 is done and saving money, with net savings of $11.9 million on a roughly $25 million project.",
   "topics": [
     "government",
     "environment"
   ],
   "status": "quiet",
   "pinned": false,
-  "firstSeenISO": "2026-07-07",
+  "firstSeenISO": "2026-06-24",
   "lastSeenISO": "2026-07-07",
   "signals": {
     "meetingsLast30d": 0,
@@ -29,6 +29,66 @@
         "retrievedISO": "2026-10-16T20:08:41.455Z"
       },
       "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-06-24",
+      "text": "The committee voted to recommend passage of the resolution as amended.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UElWUY1WxpQ",
+        "ts": "0:47:27",
+        "retrievedISO": "2026-10-16T17:44:47.890Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-06-24",
+      "text": "The committee approved an amendment letting the final financed amount come in lower than the amount stated.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UElWUY1WxpQ",
+        "ts": "0:45:54",
+        "retrievedISO": "2026-10-16T17:44:47.890Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-06-24",
+      "text": "During testimony, a speaker said they do not consent to the energy contract.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UElWUY1WxpQ",
+        "ts": "0:24:30",
+        "retrievedISO": "2026-10-16T17:44:47.890Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-06-24",
+      "text": "The proposed cost for Phase 3 is $9,021,259 plus 4.49 percent interest.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UElWUY1WxpQ",
+        "ts": "0:22:14",
+        "retrievedISO": "2026-10-16T17:44:47.890Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-06-24",
+      "text": "The first item was a resolution to finance a Johnson Controls Inc. energy contract through a tax-exempt lease purchase with TD Equipment Finance Inc.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UElWUY1WxpQ",
+        "ts": "0:21:36",
+        "retrievedISO": "2026-10-16T17:44:47.890Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
     }
   ],
   "sourceTypes": [

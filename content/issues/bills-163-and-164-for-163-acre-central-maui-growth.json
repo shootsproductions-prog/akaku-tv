@@ -1,7 +1,7 @@
 {
   "slug": "bills-163-and-164-for-163-acre-central-maui-growth",
   "title": "Bills 163 and 164 for 163-acre Central Maui growth",
-  "summary": "Bills 163 and 164 passed nine to zero at the September 29, 2026 meeting.",
+  "summary": "On September 29, the Council passed Bills 163 and 164 nine to zero, after a September 3 public hearing. Bill 163 CD1 adds a 163.443-acre Kahului parcel portion to the urban growth boundary, and Bill 164 CD1 changes it from Agriculture to Business Multifamily for the Hoʻonani Village housing project. Testifiers raised concerns about water from one untested well, the airport runway, and the unfinished final EIS.",
   "topics": [
     "land-use",
     "housing",
@@ -9,7 +9,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-09-29",
+  "firstSeenISO": "2026-06-19",
   "lastSeenISO": "2026-09-29",
   "signals": {
     "meetingsLast30d": 1,
@@ -28,6 +28,54 @@
         "videoId": "CWTHDPLTwS0",
         "ts": "1:20:38",
         "retrievedISO": "2026-10-16T04:23:58.786Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-06-19",
+      "text": "A public hearing on Bill 163 is to be held on Maui before second and final reading.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lLsXXrEBmuw",
+        "ts": "0:36:14",
+        "retrievedISO": "2026-10-16T18:09:11.606Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-06-19",
+      "text": "The bills would change the land's community plan designation from agriculture to business and multi-family.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lLsXXrEBmuw",
+        "ts": "0:36:01",
+        "retrievedISO": "2026-10-16T18:09:11.606Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-06-19",
+      "text": "The council is considering bills to allow the Hoʻonani Village mixed-use project on 163.443 acres in Kahului.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lLsXXrEBmuw",
+        "ts": "0:35:35",
+        "retrievedISO": "2026-10-16T18:09:11.606Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-06-19",
+      "text": "A testifier asked the council to wait for a final environmental impact statement before acting on Bills 163 and 164.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lLsXXrEBmuw",
+        "ts": "0:26:32",
+        "retrievedISO": "2026-10-16T18:09:11.606Z"
       },
       "body": "County Council Meeting"
     }

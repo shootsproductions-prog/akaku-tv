@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T14:16:12.273Z",
+  "updatedAt": "2026-10-25T23:26:10.275Z",
   "count": 81,
   "issues": [
     {
@@ -136,7 +136,7 @@
       ],
       "status": "quiet",
       "pinned": false,
-      "firstSeenISO": "2026-08-06",
+      "firstSeenISO": "2024-10-09",
       "lastSeenISO": "2026-08-20",
       "signals": {
         "meetingsLast30d": 0,
@@ -481,6 +481,54 @@
             "retrievedISO": "2026-10-07T23:26:11.732Z"
           },
           "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2024-10-09",
+          "text": "The state water commission said it has received a water use permit application for one planned housing project.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "XFOvEpVuIu0",
+            "ts": "1:24:58",
+            "retrievedISO": "2026-10-21T13:44:06.198Z"
+          },
+          "body": "County Council Disaster, Resilience, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2024-10-09",
+          "text": "The official said the commission hopes to get moving on water use permits next year.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "XFOvEpVuIu0",
+            "ts": "1:20:04",
+            "retrievedISO": "2026-10-21T13:44:06.198Z"
+          },
+          "body": "County Council Disaster, Resilience, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2024-10-09",
+          "text": "A state water commission official said existing users will likely be handled before new users.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "XFOvEpVuIu0",
+            "ts": "1:19:13",
+            "retrievedISO": "2026-10-21T13:44:06.198Z"
+          },
+          "body": "County Council Disaster, Resilience, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2024-10-09",
+          "text": "The commission official said permit review likely cannot be outsourced because of the expertise needed.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "XFOvEpVuIu0",
+            "ts": "1:15:54",
+            "retrievedISO": "2026-10-21T13:44:06.198Z"
+          },
+          "body": "County Council Disaster, Resilience, International Affairs, and Planning Committee"
         }
       ],
       "sourceTypes": [
@@ -1177,7 +1225,7 @@
     {
       "slug": "maui-research-and-technology-park-land-designation",
       "title": "Maui Research and Technology Park land designation",
-      "summary": "A bill now before the council would switch part of the Maui Research and Technology Park's commercial land to residential and allow minor medical centers in its civic district. Zoning changes and a council resolution for the park were slated for the September 8th meeting. In December 2024, a motion to designate the whole park a special purpose district failed, and the planning director called that designation absolutely inappropriate.",
+      "summary": "On October 21, 2026, Bill 141 (2026) was the main item. It would move part of the Maui Research and Technology Park's commercial land into the Residential District, growing it from 102.3 to 158 acres, with the 1,250-home cap unchanged. The Maui Planning Commission unanimously recommended approval on September 8, after the council sent the zoning change to it in May.",
       "topics": [
         "land-use"
       ],
@@ -1188,11 +1236,35 @@
       "signals": {
         "meetingsLast30d": 1,
         "meetingsLast90d": 2,
-        "mentionsLast30d": 2,
+        "mentionsLast30d": 3,
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-25",
       "timeline": [
+        {
+          "dateISO": "2026-10-21",
+          "text": "The chair said the residential area would grow from 102.3 acres to 158 acres.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Pcpudwx07B4",
+            "ts": "0:43:45",
+            "retrievedISO": "2026-10-21T23:01:41.623Z"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-10-21",
+          "text": "The cap of 1,250 residential units stays the same.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Pcpudwx07B4",
+            "ts": "0:29:33",
+            "retrievedISO": "2026-10-21T23:01:41.623Z"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
         {
           "dateISO": "2026-10-21",
           "text": "The bill would also allow minor medical centers in the park's civic district.",
@@ -1214,6 +1286,18 @@
             "videoId": "OfgqgyE6vs0",
             "ts": "0:24:36",
             "retrievedISO": "2026-10-22T07:21:21.243Z"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-10-21",
+          "text": "The main item was Bill 141 (2026), which would amend the county code chapter for the Maui Research and Technology Park.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Pcpudwx07B4",
+            "ts": "0:18:53",
+            "retrievedISO": "2026-10-21T23:01:41.623Z"
           },
           "body": "County Council Housing and Land Use Committee"
         },
@@ -2661,7 +2745,7 @@
     {
       "slug": "bills-163-and-164-for-163-acre-central-maui-growth",
       "title": "Bills 163 and 164 for 163-acre Central Maui growth",
-      "summary": "Bills 163 and 164 passed nine to zero at the September 29, 2026 meeting.",
+      "summary": "On September 29, the Council passed Bills 163 and 164 nine to zero, after a September 3 public hearing. Bill 163 CD1 adds a 163.443-acre Kahului parcel portion to the urban growth boundary, and Bill 164 CD1 changes it from Agriculture to Business Multifamily for the Hoʻonani Village housing project. Testifiers raised concerns about water from one untested well, the airport runway, and the unfinished final EIS.",
       "topics": [
         "land-use",
         "housing",
@@ -2669,7 +2753,7 @@
       ],
       "status": "active",
       "pinned": false,
-      "firstSeenISO": "2026-09-29",
+      "firstSeenISO": "2026-06-19",
       "lastSeenISO": "2026-09-29",
       "signals": {
         "meetingsLast30d": 1,
@@ -2688,6 +2772,54 @@
             "videoId": "CWTHDPLTwS0",
             "ts": "1:20:38",
             "retrievedISO": "2026-10-16T04:23:58.786Z"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-06-19",
+          "text": "A public hearing on Bill 163 is to be held on Maui before second and final reading.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "lLsXXrEBmuw",
+            "ts": "0:36:14",
+            "retrievedISO": "2026-10-16T18:09:11.606Z"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-06-19",
+          "text": "The bills would change the land's community plan designation from agriculture to business and multi-family.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "lLsXXrEBmuw",
+            "ts": "0:36:01",
+            "retrievedISO": "2026-10-16T18:09:11.606Z"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-06-19",
+          "text": "The council is considering bills to allow the Hoʻonani Village mixed-use project on 163.443 acres in Kahului.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "lLsXXrEBmuw",
+            "ts": "0:35:35",
+            "retrievedISO": "2026-10-16T18:09:11.606Z"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-06-19",
+          "text": "A testifier asked the council to wait for a final environmental impact statement before acting on Bills 163 and 164.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "lLsXXrEBmuw",
+            "ts": "0:26:32",
+            "retrievedISO": "2026-10-16T18:09:11.606Z"
           },
           "body": "County Council Meeting"
         }
@@ -4683,7 +4815,7 @@
       ],
       "status": "active",
       "pinned": false,
-      "firstSeenISO": "2026-08-31",
+      "firstSeenISO": "2026-07-24",
       "lastSeenISO": "2026-08-31",
       "signals": {
         "meetingsLast30d": 0,
@@ -4788,6 +4920,18 @@
             "retrievedISO": "2026-10-16T05:43:53.105Z"
           },
           "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-07-24",
+          "text": "Resolution 26-123, a waiver to allow certain herbicides on county property: The resolution was referred to the Water and Infrastructure Committee.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "7WOTHhYkCV0",
+            "ts": "2:13:29",
+            "retrievedISO": "2026-10-16T17:08:42.619Z"
+          },
+          "body": "County Council Meeting"
         }
       ],
       "sourceTypes": [
@@ -5150,14 +5294,14 @@
     {
       "slug": "johnson-controls-energy-savings-contract-phase-3",
       "title": "Johnson Controls energy savings contract Phase 3",
-      "summary": "On July 7, 2026, members voted 9–0 to finance Phase 3 of an energy savings contract, for up to $9,021,259 plus interest. The facts provided do not describe the earlier phases or what Phase 3 will pay for.",
+      "summary": "On July 7, members voted 9–0 to finance Phase 3 of the Johnson Controls energy savings contract, up to $9,021,259 plus interest. A committee had backed it June 24 with an amendment allowing a lower final amount, using a tax-exempt lease purchase at 4.49 percent. The administration says Phase 1 is done and saving money, with net savings of $11.9 million on a roughly $25 million project.",
       "topics": [
         "government",
         "environment"
       ],
       "status": "quiet",
       "pinned": false,
-      "firstSeenISO": "2026-07-07",
+      "firstSeenISO": "2026-06-24",
       "lastSeenISO": "2026-07-07",
       "signals": {
         "meetingsLast30d": 0,
@@ -5178,6 +5322,66 @@
             "retrievedISO": "2026-10-16T20:08:41.455Z"
           },
           "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-06-24",
+          "text": "The committee voted to recommend passage of the resolution as amended.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "UElWUY1WxpQ",
+            "ts": "0:47:27",
+            "retrievedISO": "2026-10-16T17:44:47.890Z"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-06-24",
+          "text": "The committee approved an amendment letting the final financed amount come in lower than the amount stated.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "UElWUY1WxpQ",
+            "ts": "0:45:54",
+            "retrievedISO": "2026-10-16T17:44:47.890Z"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-06-24",
+          "text": "During testimony, a speaker said they do not consent to the energy contract.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "UElWUY1WxpQ",
+            "ts": "0:24:30",
+            "retrievedISO": "2026-10-16T17:44:47.890Z"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-06-24",
+          "text": "The proposed cost for Phase 3 is $9,021,259 plus 4.49 percent interest.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "UElWUY1WxpQ",
+            "ts": "0:22:14",
+            "retrievedISO": "2026-10-16T17:44:47.890Z"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-06-24",
+          "text": "The first item was a resolution to finance a Johnson Controls Inc. energy contract through a tax-exempt lease purchase with TD Equipment Finance Inc.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "UElWUY1WxpQ",
+            "ts": "0:21:36",
+            "retrievedISO": "2026-10-16T17:44:47.890Z"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
         }
       ],
       "sourceTypes": [
@@ -7472,14 +7676,14 @@
     {
       "slug": "park-maui-paid-and-resident-parking-rules",
       "title": "Park Maui paid and resident parking rules",
-      "summary": "Bill 68, which updates parking rules in West Maui, passed first reading 9–0 at the July 7, 2026 meeting. No further details about the bill's contents or next steps were given in the checked facts.",
+      "summary": "The council passed Bill 68, CD1 (2026) on second and final reading on July 24, updating Park Maui paid and permit parking zones. It had passed first reading 9–0 on July 7. The bill creates paid parking zones at three Lahaina lots, gives Hawaiʻi residents with a valid license the first two hours free at the Wailuku Garage, and removes a Kamaʻole Beach 3 dirt area from resident-only hours.",
       "topics": [
         "transportation"
       ],
       "status": "quiet",
       "pinned": false,
       "firstSeenISO": "2026-07-07",
-      "lastSeenISO": "2026-07-07",
+      "lastSeenISO": "2026-07-24",
       "signals": {
         "meetingsLast30d": 0,
         "meetingsLast90d": 0,
@@ -7488,6 +7692,18 @@
       },
       "asOfISO": "2026-10-25",
       "timeline": [
+        {
+          "dateISO": "2026-07-24",
+          "text": "Bill 68, CD1 (2026), parking regulations: The council passed a bill updating Park Maui paid and permit parking zones on second and final reading.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "7WOTHhYkCV0",
+            "ts": "2:25:48",
+            "retrievedISO": "2026-10-16T17:08:42.619Z"
+          },
+          "body": "County Council Meeting"
+        },
         {
           "dateISO": "2026-07-07",
           "text": "Bill 68, updating West Maui parking rules, passed first reading 9–0.",

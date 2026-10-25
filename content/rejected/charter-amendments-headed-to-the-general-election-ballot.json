@@ -1,7 +1,7 @@
 {
   "slug": "charter-amendments-headed-to-the-general-election-ballot",
   "title": "Charter amendments headed to the general election ballot",
-  "summary": "On July 7, the council passed 9–0 a charter change so the Director of Finance would receive injury and damage claims starting January 1, 2028; it returns for a second reading. A council member will also seek a state law change so claims handling can later be set by ordinance. Earlier, on June 18, the committee was back at square one on other deferred proposals.",
+  "summary": "On July 24, the council carried a motion, eight ayes with one excused, sending seven proposed charter amendments to voters at the next general election. One of them standardizes petition review deadlines, effective January 1, 2027. Earlier, on July 7, the council passed 9–0 a change to have the Director of Finance receive injury and damage claims starting January 1, 2028.",
   "topics": [
     "elections",
     "government"
@@ -9,7 +9,7 @@
   "status": "quiet",
   "pinned": false,
   "firstSeenISO": "2026-06-18",
-  "lastSeenISO": "2026-07-07",
+  "lastSeenISO": "2026-07-24",
   "signals": {
     "meetingsLast30d": 0,
     "meetingsLast90d": 0,
@@ -27,6 +27,45 @@
   },
   "asOfISO": "2026-10-25",
   "timeline": [
+    {
+      "dateISO": "2026-07-24",
+      "text": "The charter amendment motion carried with eight ayes and one member excused.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7WOTHhYkCV0",
+        "ts": "2:24:22",
+        "endTs": "2:24:52",
+        "retrievedISO": "2026-10-16T17:08:42.619Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-07-24",
+      "text": "The seven charter amendments are to go before voters at the next general election.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7WOTHhYkCV0",
+        "ts": "2:22:33",
+        "endTs": "2:23:03",
+        "retrievedISO": "2026-10-16T17:08:42.619Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-07-24",
+      "text": "Seven proposed charter amendments came up for a final vote for the next general election ballot.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7WOTHhYkCV0",
+        "ts": "2:22:04",
+        "endTs": "2:22:56",
+        "retrievedISO": "2026-10-16T17:08:42.619Z"
+      },
+      "body": "County Council Meeting"
+    },
     {
       "dateISO": "2026-07-07",
       "text": "The change passed 9–0.",

@@ -8,7 +8,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-08-31",
+  "firstSeenISO": "2026-07-24",
   "lastSeenISO": "2026-08-31",
   "signals": {
     "meetingsLast30d": 0,
@@ -113,6 +113,18 @@
         "retrievedISO": "2026-10-16T05:43:53.105Z"
       },
       "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-07-24",
+      "text": "Resolution 26-123, a waiver to allow certain herbicides on county property: The resolution was referred to the Water and Infrastructure Committee.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7WOTHhYkCV0",
+        "ts": "2:13:29",
+        "retrievedISO": "2026-10-16T17:08:42.619Z"
+      },
+      "body": "County Council Meeting"
     }
   ],
   "sourceTypes": [

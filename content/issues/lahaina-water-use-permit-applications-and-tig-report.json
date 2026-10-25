@@ -8,7 +8,7 @@
   ],
   "status": "quiet",
   "pinned": false,
-  "firstSeenISO": "2026-08-06",
+  "firstSeenISO": "2024-10-09",
   "lastSeenISO": "2026-08-20",
   "signals": {
     "meetingsLast30d": 0,
@@ -353,6 +353,54 @@
         "retrievedISO": "2026-10-07T23:26:11.732Z"
       },
       "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2024-10-09",
+      "text": "The state water commission said it has received a water use permit application for one planned housing project.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "XFOvEpVuIu0",
+        "ts": "1:24:58",
+        "retrievedISO": "2026-10-21T13:44:06.198Z"
+      },
+      "body": "County Council Disaster, Resilience, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2024-10-09",
+      "text": "The official said the commission hopes to get moving on water use permits next year.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "XFOvEpVuIu0",
+        "ts": "1:20:04",
+        "retrievedISO": "2026-10-21T13:44:06.198Z"
+      },
+      "body": "County Council Disaster, Resilience, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2024-10-09",
+      "text": "A state water commission official said existing users will likely be handled before new users.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "XFOvEpVuIu0",
+        "ts": "1:19:13",
+        "retrievedISO": "2026-10-21T13:44:06.198Z"
+      },
+      "body": "County Council Disaster, Resilience, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2024-10-09",
+      "text": "The commission official said permit review likely cannot be outsourced because of the expertise needed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "XFOvEpVuIu0",
+        "ts": "1:15:54",
+        "retrievedISO": "2026-10-21T13:44:06.198Z"
+      },
+      "body": "County Council Disaster, Resilience, International Affairs, and Planning Committee"
     }
   ],
   "sourceTypes": [
