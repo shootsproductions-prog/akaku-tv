@@ -4,13 +4,11 @@
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-09T06:42:51.953Z",
   "meetingDateISO": "2026-10-06",
-  "source": {
-    "youtubeUrl": "https://youtu.be/ea2l7ovZtF8"
-  },
+  "headline": "Lahaina Rebuild Design Review",
   "topics": [
     "Disaster Recovery"
   ],
-  "headline": "Lahaina Rebuild Design Review",
+  "bodyType": "board",
   "meeting": {
     "id": "ea2l7ovZtF8",
     "mon": "Oct",
@@ -51,5 +49,7 @@
     "bills": []
   },
   "issues": [],
-  "bodyType": "board"
+  "source": {
+    "youtubeUrl": "https://youtu.be/ea2l7ovZtF8"
+  }
 }

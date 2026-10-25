@@ -17,6 +17,14 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-25",
+  "boards": [
+    {
+      "name": "Maui Cultural Resources Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-07-02",
@@ -26,8 +34,8 @@
         "type": "meeting",
         "videoId": "F1fUs_ROA_Q",
         "ts": "4:19:41",
-        "endTs": "4:20:33",
-        "retrievedISO": "2026-10-13T06:35:22.251Z"
+        "retrievedISO": "2026-10-13T06:35:22.251Z",
+        "endTs": "4:20:33"
       },
       "body": "Maui Cultural Resources Commission"
     },
@@ -39,8 +47,8 @@
         "type": "meeting",
         "videoId": "F1fUs_ROA_Q",
         "ts": "4:18:50",
-        "endTs": "4:19:20",
-        "retrievedISO": "2026-10-13T06:35:22.251Z"
+        "retrievedISO": "2026-10-13T06:35:22.251Z",
+        "endTs": "4:19:20"
       },
       "body": "Maui Cultural Resources Commission"
     },
@@ -52,8 +60,8 @@
         "type": "meeting",
         "videoId": "F1fUs_ROA_Q",
         "ts": "3:59:59",
-        "endTs": "4:00:35",
-        "retrievedISO": "2026-10-13T06:35:22.251Z"
+        "retrievedISO": "2026-10-13T06:35:22.251Z",
+        "endTs": "4:00:35"
       },
       "body": "Maui Cultural Resources Commission"
     },
@@ -65,19 +73,14 @@
         "type": "meeting",
         "videoId": "F1fUs_ROA_Q",
         "ts": "3:42:09",
-        "endTs": "3:42:50",
-        "retrievedISO": "2026-10-13T06:35:22.251Z"
+        "retrievedISO": "2026-10-13T06:35:22.251Z",
+        "endTs": "3:42:50"
       },
       "body": "Maui Cultural Resources Commission"
     }
   ],
-  "boards": [
-    {
-      "name": "Maui Cultural Resources Commission",
-      "group": "board",
-      "short": []
-    }
+  "sourceTypes": [
+    "meeting"
   ],
-  "bills": [],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

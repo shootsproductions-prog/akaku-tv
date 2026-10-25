@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-25T23:57:19.221Z",
-  "etag": "6a18991d752c67a0a24eea65e67df0e2c73e8844951933965a3c854542e8004d",
-  "count": 24,
+  "updatedAt": "2026-10-25T23:58:43.034Z",
+  "etag": "6538f10dd17a43f465c6135be124603902c2fc4a4e80d24a525ced7f917a161e",
+  "count": 26,
   "meetings": [
     {
       "videoId": "gkthw9WAhio",
@@ -94,6 +94,21 @@
       "issues": [],
       "updatedAt": "2026-10-25T23:57:19.221Z",
       "sha256": "017bc477cd36feca1add578a445bd20782c8a9d042cf5f42dc62e48cf9647418"
+    },
+    {
+      "videoId": "ea2l7ovZtF8",
+      "status": "reviewed",
+      "meetingDateISO": "2026-10-06",
+      "bodyType": "board",
+      "body": "Lahaina Rebuild Design Review",
+      "headline": "Lahaina Rebuild Design Review",
+      "summary": "The board approved a new home at 1191 Front Street and deferred review of a Lahaina fire rebuild at 1429 Front Street.",
+      "dur": "2 h 04 m",
+      "voteCount": 0,
+      "momentCount": 4,
+      "issues": [],
+      "updatedAt": "2026-10-25T23:58:43.034Z",
+      "sha256": "fbc0fdf682eadb91974abb057237286fbe972f3472b73508da9e5ab9cc82d682"
     },
     {
       "videoId": "f_ubbsOcBHI",
@@ -386,6 +401,24 @@
       ],
       "updatedAt": "2026-10-25T23:57:19.221Z",
       "sha256": "6bbbd0e6b4dbc3e793856a27a8e767279dcdea8f59e19460b15ca6e189cbfeb8"
+    },
+    {
+      "videoId": "x2IjROxHuYY",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-09",
+      "bodyType": "board",
+      "body": "Independent Nomination Board",
+      "headline": "Independent Nomination Board",
+      "summary": "The board formed one TIG to interview applicants and, after closed-door interviews, voted to send names to several boards.",
+      "dur": "1 h 07 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [
+        "filling-a-vacant-board-of-water-supply-seat",
+        "2027-mass-nominations-for-county-boards"
+      ],
+      "updatedAt": "2026-10-25T23:58:43.034Z",
+      "sha256": "b199611c6586f50970399b13730409acd3600886d26ad80e10daeeb5c2d91b49"
     },
     {
       "videoId": "xpuBwsHeXRw",

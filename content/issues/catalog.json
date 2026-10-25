@@ -1,25 +1,43 @@
 {
-  "updatedAt": "2026-10-25T23:26:10.275Z",
-  "count": 81,
+  "updatedAt": "2026-10-25T23:58:43.027Z",
+  "count": 84,
   "issues": [
     {
       "slug": "2027-mass-nominations-for-county-boards",
-      "title": "2027 mass nominations",
-      "summary": "On September 23, the board set recruiting plans for the 2027 mass nominations: applications are due November 11th, members will staff county fair shifts, and two will recruit at the senior fair on November 21st at the Cameron Center. The chair said 77 seats exist, with 64 open after removing members eligible for reappointment. On September 9, the board voted to form one small group (TIG) to interview, score and recommend applicants.",
+      "title": "2027 mass nominations and the vote on dissolving the nomination board",
+      "summary": "Voters will decide in November on a charter change that would dissolve the Independent Nomination Board. Meanwhile, on September 23 the board set November 11 as the deadline for 2027 mass nomination applications, with 64 of 77 seats open, and planned recruiting at the county fair and the November 21 senior fair. A single small group will interview, score and recommend applicants.",
       "topics": [
         "government"
       ],
       "status": "active",
       "pinned": false,
-      "firstSeenISO": "2026-09-09",
+      "firstSeenISO": "2024-11-06",
       "lastSeenISO": "2026-09-23",
       "signals": {
-        "meetingsLast30d": 1,
-        "meetingsLast90d": 2,
-        "mentionsLast30d": 3,
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 3,
+        "mentionsLast30d": 0,
         "upcomingEvent": null
       },
-      "asOfISO": "2026-10-13",
+      "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Independent Nomination Board",
+          "group": "board",
+          "short": []
+        },
+        {
+          "name": "Cost of Government Commission",
+          "group": "board",
+          "short": []
+        },
+        {
+          "name": "Civil Service Commission",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
       "timeline": [
         {
           "dateISO": "2026-09-23",
@@ -29,7 +47,8 @@
             "type": "meeting",
             "videoId": "3Jc9Mp68Wcs",
             "ts": "0:20:12",
-            "retrievedISO": "2026-10-07T23:03:48.406Z"
+            "retrievedISO": "2026-10-07T23:03:48.406Z",
+            "endTs": "0:20:42"
           }
         },
         {
@@ -40,7 +59,8 @@
             "type": "meeting",
             "videoId": "3Jc9Mp68Wcs",
             "ts": "0:18:09",
-            "retrievedISO": "2026-10-07T23:03:48.406Z"
+            "retrievedISO": "2026-10-07T23:03:48.406Z",
+            "endTs": "0:18:43"
           }
         },
         {
@@ -51,7 +71,8 @@
             "type": "meeting",
             "videoId": "3Jc9Mp68Wcs",
             "ts": "0:16:12",
-            "retrievedISO": "2026-10-07T23:03:48.406Z"
+            "retrievedISO": "2026-10-07T23:03:48.406Z",
+            "endTs": "0:16:42"
           }
         },
         {
@@ -62,7 +83,8 @@
             "type": "meeting",
             "videoId": "3Jc9Mp68Wcs",
             "ts": "0:13:58",
-            "retrievedISO": "2026-10-07T23:03:48.406Z"
+            "retrievedISO": "2026-10-07T23:03:48.406Z",
+            "endTs": "0:15:26"
           }
         },
         {
@@ -73,7 +95,8 @@
             "type": "meeting",
             "videoId": "3Jc9Mp68Wcs",
             "ts": "0:09:38",
-            "retrievedISO": "2026-10-07T23:03:48.406Z"
+            "retrievedISO": "2026-10-07T23:03:48.406Z",
+            "endTs": "0:10:08"
           }
         },
         {
@@ -84,7 +107,8 @@
             "type": "meeting",
             "videoId": "3Jc9Mp68Wcs",
             "ts": "0:08:14",
-            "retrievedISO": "2026-10-07T23:03:48.406Z"
+            "retrievedISO": "2026-10-07T23:03:48.406Z",
+            "endTs": "0:09:36"
           }
         },
         {
@@ -95,8 +119,10 @@
             "type": "meeting",
             "videoId": "x2IjROxHuYY",
             "ts": "1:06:01",
-            "retrievedISO": "2026-10-07T23:04:00.900Z"
-          }
+            "retrievedISO": "2026-10-07T23:04:00.900Z",
+            "endTs": "1:06:47"
+          },
+          "body": "Independent Nomination Board"
         },
         {
           "dateISO": "2026-09-09",
@@ -106,8 +132,10 @@
             "type": "meeting",
             "videoId": "x2IjROxHuYY",
             "ts": "0:40:58",
-            "retrievedISO": "2026-10-07T23:04:00.900Z"
-          }
+            "retrievedISO": "2026-10-07T23:04:00.900Z",
+            "endTs": "0:42:27"
+          },
+          "body": "Independent Nomination Board"
         },
         {
           "dateISO": "2026-09-09",
@@ -117,8 +145,127 @@
             "type": "meeting",
             "videoId": "x2IjROxHuYY",
             "ts": "0:30:36",
-            "retrievedISO": "2026-10-07T23:04:00.900Z"
-          }
+            "retrievedISO": "2026-10-07T23:04:00.900Z",
+            "endTs": "0:32:06"
+          },
+          "body": "Independent Nomination Board"
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "Voters will decide in November on a charter change that would dissolve the board.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "x2IjROxHuYY",
+            "ts": "0:17:27",
+            "retrievedISO": "2026-10-07T23:04:00.900Z",
+            "endTs": "0:17:57"
+          },
+          "body": "Independent Nomination Board"
+        },
+        {
+          "dateISO": "2026-08-13",
+          "text": "The chair reported that voters will decide whether to abolish a board involved in commission appointments.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mEoIJx_G1XQ",
+            "ts": "0:40:08",
+            "retrievedISO": "2026-10-12T06:30:06.096Z",
+            "endTs": "0:40:38"
+          },
+          "body": "Cost of Government Commission"
+        },
+        {
+          "dateISO": "2026-07-13",
+          "text": "The amendment would still need voter approval at the November general election.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "DN-bXIWkS7E",
+            "ts": "0:28:52",
+            "retrievedISO": "2026-10-13T06:35:15.675Z",
+            "endTs": "0:29:22"
+          },
+          "body": "Independent Nomination Board"
+        },
+        {
+          "dateISO": "2026-07-13",
+          "text": "Members said sending someone to the second reading was not worth their time.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "DN-bXIWkS7E",
+            "ts": "0:27:06",
+            "retrievedISO": "2026-10-13T06:35:15.675Z",
+            "endTs": "0:27:59"
+          },
+          "body": "Independent Nomination Board"
+        },
+        {
+          "dateISO": "2026-07-13",
+          "text": "It needs two readings with at least six council votes to reach the ballot.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "DN-bXIWkS7E",
+            "ts": "0:26:43",
+            "retrievedISO": "2026-10-13T06:35:15.675Z",
+            "endTs": "0:27:13"
+          },
+          "body": "Independent Nomination Board"
+        },
+        {
+          "dateISO": "2026-07-13",
+          "text": "Staff reported the County Council passed, on first reading, a charter amendment to dissolve the Independent Nomination Board.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "DN-bXIWkS7E",
+            "ts": "0:25:37",
+            "retrievedISO": "2026-10-13T06:35:15.675Z",
+            "endTs": "0:26:22"
+          },
+          "body": "Independent Nomination Board"
+        },
+        {
+          "dateISO": "2026-07-13",
+          "text": "Staff will bring the mass nomination flyer to the next meeting as a format for outreach to community associations.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "DN-bXIWkS7E",
+            "ts": "0:07:01",
+            "retrievedISO": "2026-10-13T06:35:15.675Z",
+            "endTs": "0:07:31"
+          },
+          "body": "Independent Nomination Board"
+        },
+        {
+          "dateISO": "2026-07-13",
+          "text": "Members at the pineapple festival passed out flyers but received no applications.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "DN-bXIWkS7E",
+            "ts": "0:02:34",
+            "retrievedISO": "2026-10-13T06:35:15.675Z",
+            "endTs": "0:03:13"
+          },
+          "body": "Independent Nomination Board"
+        },
+        {
+          "dateISO": "2024-11-06",
+          "text": "That seat can be filled in a \"mass nomination,\" when many terms end on March 31.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iEkzGiAP0Q4",
+            "ts": "0:06:43",
+            "retrievedISO": "2026-10-15T06:35:33.026Z",
+            "endTs": "0:07:30"
+          },
+          "body": "Civil Service Commission"
         }
       ],
       "sourceTypes": [
@@ -9996,6 +10143,566 @@
             "retrievedISO": "2026-10-07T23:03:53.466Z"
           },
           "body": "Maui Children & Youth Commission"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "charter-amendments-headed-to-the-general-election-ballot",
+      "title": "Charter amendments headed to the general election ballot",
+      "summary": "On July 24, the council carried a motion, eight ayes with one excused, sending seven proposed charter amendments to voters at the next general election. One of them standardizes petition review deadlines, effective January 1, 2027. Earlier, on July 7, the council passed 9–0 a change to have the Director of Finance receive injury and damage claims starting January 1, 2028.",
+      "topics": [
+        "elections",
+        "government"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2026-06-18",
+      "lastSeenISO": "2026-07-24",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": {
+          "dateISO": "2027-01-01",
+          "what": "Standardized deadlines for petitions take effect",
+          "source": {
+            "type": "meeting",
+            "videoId": "7WOTHhYkCV0",
+            "ts": "2:22:41",
+            "retrievedISO": "2026-10-16T17:08:42.619Z"
+          }
+        }
+      },
+      "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        },
+        {
+          "name": "Housing and Land Use Committee",
+          "group": "council",
+          "short": [
+            "HLU"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-07-24",
+          "text": "The charter amendment motion carried with eight ayes and one member excused.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "7WOTHhYkCV0",
+            "ts": "2:24:22",
+            "retrievedISO": "2026-10-16T17:08:42.619Z",
+            "endTs": "2:24:52"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-07-24",
+          "text": "The seven charter amendments are to go before voters at the next general election.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "7WOTHhYkCV0",
+            "ts": "2:22:33",
+            "retrievedISO": "2026-10-16T17:08:42.619Z",
+            "endTs": "2:23:03"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-07-24",
+          "text": "Seven proposed charter amendments came up for a final vote for the next general election ballot.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "7WOTHhYkCV0",
+            "ts": "2:22:04",
+            "retrievedISO": "2026-10-16T17:08:42.619Z",
+            "endTs": "2:22:56"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-07-07",
+          "text": "The change passed 9–0.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "NJzgJmRuAug",
+            "ts": "2:41:44",
+            "retrievedISO": "2026-10-16T20:08:41.455Z",
+            "endTs": "2:42:14"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-07-07",
+          "text": "A council member will seek a state law change through the council's legislative package so claims handling can later be set by ordinance.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "NJzgJmRuAug",
+            "ts": "2:39:39",
+            "retrievedISO": "2026-10-16T20:08:41.455Z",
+            "endTs": "2:40:09"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-07-07",
+          "text": "A council member proposed a charter change so the Director of Finance would receive injury and damage claims starting January 1, 2028.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "NJzgJmRuAug",
+            "ts": "2:37:21",
+            "retrievedISO": "2026-10-16T20:08:41.455Z",
+            "endTs": "2:37:54"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-07-07",
+          "text": "Charter amendment resolutions need two readings, so they return for a second reading.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "NJzgJmRuAug",
+            "ts": "1:42:07",
+            "retrievedISO": "2026-10-16T20:08:41.455Z",
+            "endTs": "1:42:37"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-06-18",
+          "text": "The committee planned to go through all the deferred proposals and then decide which to prioritize for the ballot.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "TgNDDXu-ktc",
+            "ts": "1:41:53",
+            "retrievedISO": "2026-10-16T18:27:21.155Z",
+            "endTs": "1:42:36"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-06-18",
+          "text": "Members withdrew their motions on these proposals, putting the committee back at square one.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "TgNDDXu-ktc",
+            "ts": "1:40:48",
+            "retrievedISO": "2026-10-16T18:27:21.155Z",
+            "endTs": "1:41:21"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-06-18",
+          "text": "A deputy corporation counsel (County lawyer) said the proposal conflicts with state law and should not go on the ballot as written.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "TgNDDXu-ktc",
+            "ts": "1:23:24",
+            "retrievedISO": "2026-10-16T18:27:21.155Z",
+            "endTs": "1:24:02"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-06-18",
+          "text": "The committee returned to two deferred proposals on public meeting notices and how deadlines are counted.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "TgNDDXu-ktc",
+            "ts": "0:50:43",
+            "retrievedISO": "2026-10-16T18:27:21.155Z",
+            "endTs": "0:51:30"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-06-18",
+          "text": "A council member said they expect more storm damage in the future and supported the change.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "TgNDDXu-ktc",
+            "ts": "0:14:40",
+            "retrievedISO": "2026-10-16T18:27:21.155Z",
+            "endTs": "0:15:11"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-06-18",
+          "text": "The budget director said that after the recent Kona storms, the County had to come back for a second approval through two readings to fund recovery.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "TgNDDXu-ktc",
+            "ts": "0:12:06",
+            "retrievedISO": "2026-10-16T18:27:21.155Z",
+            "endTs": "0:12:36"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-06-18",
+          "text": "A proposed charter change would make clear the 1% emergency spending limit does not cover money already in an emergency fund.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "TgNDDXu-ktc",
+            "ts": "0:11:10",
+            "retrievedISO": "2026-10-16T18:27:21.155Z",
+            "endTs": "0:11:40"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-06-18",
+          "text": "Resolution 2688 would ask voters to let the mayor, with council approval, make an emergency appropriation (spending approval) for a line of credit.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "TgNDDXu-ktc",
+            "ts": "0:10:55",
+            "retrievedISO": "2026-10-16T18:27:21.155Z",
+            "endTs": "0:11:25"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "highway-realignment-crossing-17-archaeological-sites",
+      "title": "Highway realignment crossing 17 archaeological sites",
+      "summary": "The commission deferred its review of the archaeological inventory survey plan for a highway realignment to August 6th without a vote, because too few eligible members could act. The planned route crosses 17 known archaeological sites. The highway presentation will be linked on the agenda.",
+      "topics": [
+        "transportation",
+        "culture"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2026-07-02",
+      "lastSeenISO": "2026-07-02",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Maui Cultural Resources Commission",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-07-02",
+          "text": "Review and comment on the archaeological inventory survey plan for a highway realignment project: The highway survey plan item was deferred to August 6th without a vote because too few members could act.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "F1fUs_ROA_Q",
+            "ts": "4:19:41",
+            "retrievedISO": "2026-10-13T06:35:22.251Z",
+            "endTs": "4:20:33"
+          },
+          "body": "Maui Cultural Resources Commission"
+        },
+        {
+          "dateISO": "2026-07-02",
+          "text": "The highway presentation will be linked on the agenda.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "F1fUs_ROA_Q",
+            "ts": "4:18:50",
+            "retrievedISO": "2026-10-13T06:35:22.251Z",
+            "endTs": "4:19:20"
+          },
+          "body": "Maui Cultural Resources Commission"
+        },
+        {
+          "dateISO": "2026-07-02",
+          "text": "The planned highway route crosses 17 known archaeological sites.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "F1fUs_ROA_Q",
+            "ts": "3:59:59",
+            "retrievedISO": "2026-10-13T06:35:22.251Z",
+            "endTs": "4:00:35"
+          },
+          "body": "Maui Cultural Resources Commission"
+        },
+        {
+          "dateISO": "2026-07-02",
+          "text": "With too few eligible voters, the commission could not comment on an archaeological survey plan for a highway realignment.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "F1fUs_ROA_Q",
+            "ts": "3:42:09",
+            "retrievedISO": "2026-10-13T06:35:22.251Z",
+            "endTs": "3:42:50"
+          },
+          "body": "Maui Cultural Resources Commission"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "kula-park-renaming-headed-to-county-council",
+      "title": "Kula Park renaming headed to County Council",
+      "summary": "On August 26, the commission voted, five in favor, to recommend against renaming Kula Park after a person. One commissioner voted no, saying the honoree should be honored in some way. The Maui County Council can adopt, change, or reject the recommendation, and any name change must pass by ordinance.",
+      "topics": [
+        "culture",
+        "government"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-08-26",
+      "lastSeenISO": "2026-08-26",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Public Works Commission",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-08-26",
+          "text": "The motion to recommend against the name change passed with five votes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8y2XW0ygha0",
+            "ts": "0:49:34",
+            "retrievedISO": "2026-10-07T23:04:05.548Z",
+            "endTs": "0:50:04"
+          },
+          "body": "Public Works Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "One commissioner voted no, saying the honoree should be honored in some way.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8y2XW0ygha0",
+            "ts": "0:49:03",
+            "retrievedISO": "2026-10-07T23:04:05.548Z",
+            "endTs": "0:49:37"
+          },
+          "body": "Public Works Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "The chair said the commission has until October 7th to act.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8y2XW0ygha0",
+            "ts": "0:47:05",
+            "retrievedISO": "2026-10-07T23:04:05.548Z",
+            "endTs": "0:47:35"
+          },
+          "body": "Public Works Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "A motion to defer, or delay, the item was withdrawn after legal advice.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8y2XW0ygha0",
+            "ts": "0:44:12",
+            "retrievedISO": "2026-10-07T23:04:05.548Z",
+            "endTs": "0:45:35"
+          },
+          "body": "Public Works Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "One commissioner said a new name would cost taxpayer money.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8y2XW0ygha0",
+            "ts": "0:42:18",
+            "retrievedISO": "2026-10-07T23:04:05.548Z",
+            "endTs": "0:42:48"
+          },
+          "body": "Public Works Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "The County Council may adopt, change, or reject the commission's recommendation.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8y2XW0ygha0",
+            "ts": "0:41:38",
+            "retrievedISO": "2026-10-07T23:04:05.548Z",
+            "endTs": "0:42:08"
+          },
+          "body": "Public Works Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "Members were told they have 60 days to make a recommendation.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8y2XW0ygha0",
+            "ts": "0:37:58",
+            "retrievedISO": "2026-10-07T23:04:05.548Z",
+            "endTs": "0:38:29"
+          },
+          "body": "Public Works Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "The council would have to pass any name change by ordinance, a county law.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8y2XW0ygha0",
+            "ts": "0:37:49",
+            "retrievedISO": "2026-10-07T23:04:05.548Z",
+            "endTs": "0:38:19"
+          },
+          "body": "Public Works Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "The council member said the renaming will go to the Maui County Council for a final vote.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8y2XW0ygha0",
+            "ts": "0:30:13",
+            "retrievedISO": "2026-10-07T23:04:05.548Z",
+            "endTs": "0:30:43"
+          },
+          "body": "Public Works Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "A council member asked the commission to move the renaming forward.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8y2XW0ygha0",
+            "ts": "0:30:06",
+            "retrievedISO": "2026-10-07T23:04:05.548Z",
+            "endTs": "0:30:36"
+          },
+          "body": "Public Works Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "Another testifier said the park should keep the name Kula Park.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8y2XW0ygha0",
+            "ts": "0:18:44",
+            "retrievedISO": "2026-10-07T23:04:05.548Z",
+            "endTs": "0:19:14"
+          },
+          "body": "Public Works Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "A family member said the family supports the renaming.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8y2XW0ygha0",
+            "ts": "0:14:51",
+            "retrievedISO": "2026-10-07T23:04:05.548Z",
+            "endTs": "0:15:21"
+          },
+          "body": "Public Works Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "Park renamings also go to the Cultural Resources Commission before the council.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8y2XW0ygha0",
+            "ts": "0:11:37",
+            "retrievedISO": "2026-10-07T23:04:05.548Z",
+            "endTs": "0:12:07"
+          },
+          "body": "Public Works Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "One testifier asked the commission to wait until after the election.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8y2XW0ygha0",
+            "ts": "0:07:52",
+            "retrievedISO": "2026-10-07T23:04:05.548Z",
+            "endTs": "0:08:22"
+          },
+          "body": "Public Works Commission"
+        },
+        {
+          "dateISO": "2026-08-26",
+          "text": "The commission heard an application to rename Kula Park after a person.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8y2XW0ygha0",
+            "ts": "0:06:02",
+            "retrievedISO": "2026-10-07T23:04:05.548Z",
+            "endTs": "0:06:32"
+          },
+          "body": "Public Works Commission"
         }
       ],
       "sourceTypes": [

@@ -4,11 +4,9 @@
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-07T23:21:35.954Z",
   "meetingDateISO": "2026-09-09",
-  "source": {
-    "youtubeUrl": "https://youtu.be/x2IjROxHuYY"
-  },
-  "topics": [],
   "headline": "Independent Nomination Board",
+  "topics": [],
+  "bodyType": "board",
   "meeting": {
     "id": "x2IjROxHuYY",
     "mon": "Sep",
@@ -68,5 +66,7 @@
     "bills": []
   },
   "issues": [],
-  "bodyType": "board"
+  "source": {
+    "youtubeUrl": "https://youtu.be/x2IjROxHuYY"
+  }
 }

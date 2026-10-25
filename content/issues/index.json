@@ -80,16 +80,19 @@
     "water-board-letter-on-housing-for-fire-survivors.json",
     "wheelchair-access-to-scenic-overlooks-and-state-trails.json",
     "workforce-housing-fee-waivers-and-repayment-bill.json",
-    "youth-commission-list-of-county-funded-youth-programs.json"
+    "youth-commission-list-of-county-funded-youth-programs.json",
+    "charter-amendments-headed-to-the-general-election-ballot.json",
+    "highway-realignment-crossing-17-archaeological-sites.json",
+    "kula-park-renaming-headed-to-county-council.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-10-25T23:26:10.275Z",
-  "etag": "ea3b4bb0239d5aa138628bb7319423fb18c7bc7471b97e6faf4b521394887612",
+  "updatedAt": "2026-10-25T23:58:43.027Z",
+  "etag": "209e9d58a2e142c5b555608c66636e7ff014035a05c2dbe0db321793ae5898d7",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
-      "updatedAt": "2026-10-16T07:42:25.431Z",
-      "sha256": "b9594cbbbd3f9c06a74acc5c3ded6650442de7ed53e3ebad3ed3507b50f037c6"
+      "updatedAt": "2026-10-25T23:58:43.027Z",
+      "sha256": "25be3aa881ccb259c56dd302a65e76e294d6bde2c96d0ab1d74d9f15509fbf74"
     },
     "lahaina-water-use-permit-applications-and-tig-report.json": {
       "updatedAt": "2026-10-25T23:26:10.275Z",
@@ -410,6 +413,18 @@
     "youth-commission-list-of-county-funded-youth-programs.json": {
       "updatedAt": "2026-10-25T10:26:10.024Z",
       "sha256": "7d25e44eefe35e4e80a572847433b52aeb9992d5bd83a21ff20fddd0b44f9fe4"
+    },
+    "charter-amendments-headed-to-the-general-election-ballot.json": {
+      "updatedAt": "2026-10-25T23:58:43.027Z",
+      "sha256": "6bc606ef3f2ab7f57d1cb4450acb65c7c59ec755c9d530c21b10e36225f68d49"
+    },
+    "highway-realignment-crossing-17-archaeological-sites.json": {
+      "updatedAt": "2026-10-25T23:58:43.027Z",
+      "sha256": "faf39eb60b5b7994197ffbdbacf509ba6d80f693762b3a0b4da6ea35b7bb0210"
+    },
+    "kula-park-renaming-headed-to-county-council.json": {
+      "updatedAt": "2026-10-25T23:58:43.027Z",
+      "sha256": "bfcd1fde02afdf7d6a4273fee3698fe2b9f28d76a11dce89305dc1cc1adb782e"
     }
   }
 }
