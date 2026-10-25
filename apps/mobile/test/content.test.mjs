@@ -10,6 +10,7 @@ import { parseCatalogIssue, parseIndex } from '../src/data/catalog.ts';
 const dir = new URL('../../../content/issues/', import.meta.url);
 const read = name => JSON.parse(readFileSync(fileURLToPath(new URL(name, dir)), 'utf8'));
 const index = read('index.json');
+const fixtureIssue = () => JSON.parse(readFileSync(fileURLToPath(new URL('./fixtures/example-issue.publish.json', import.meta.url)), 'utf8'));
 
 test('every published issue passes the publish checks and the app parser unchanged', () => {
   const parsed = parseIndex(index);
@@ -31,17 +32,44 @@ test('default follows and merges point at published issues', () => {
   assert.equal(new Set(slugs).size, slugs.length, 'no duplicate issues');
 });
 
-test('the election hold: election wording is refused unless the producer lifts it', () => {
-  const base = read(index.issues[0]);
-  assert.throws(() => buildPublishedIssue({ ...base, summary: 'The council discusses the November election.' }), /hold/);
-  assert.throws(() => buildPublishedIssue({ ...base, timeline: [{ ...base.timeline[0], text: 'Voters will decide a charter vote in November.' }, ...base.timeline.slice(1)] }), /hold/);
-  assert.doesNotThrow(() => buildPublishedIssue({ ...base, summary: 'The council discusses the November election.' }, { allowElection: true }));
-  // A hiring search for job candidates is not an election.
-  assert.doesNotThrow(() => buildPublishedIssue({ ...base, summary: 'The commission interviews three candidates for the director job.' }));
+test('the politics hold covers campaigning only; ballot business is public', () => {
+  const base = fixtureIssue();
+  const hold = text => assert.throws(() => buildPublishedIssue({ ...base, summary: text }), /campaign/, text);
+  hold('Candidates for mayor will hold a campaign rally downtown.');
+  hold('The group endorsed the candidates in the council race.');
+  hold('She asked the crowd to vote for her.');
+  hold('The council member is seeking re-election next year.');
+  assert.throws(() => buildPublishedIssue({ ...base, timeline: [{ ...base.timeline[0], text: 'A mayoral forum covered housing.' }, ...base.timeline.slice(1)] }), /timeline\[0\]/);
+  assert.doesNotThrow(() => buildPublishedIssue({ ...base, summary: 'Candidates for mayor will hold a campaign rally.' }, { allowElection: true }));
+  // Government business about the ballot is published like any other.
+  for (const ok of [
+    'Charter amendments headed to the general election ballot.',
+    'Voters will decide whether to dissolve the nomination board.',
+    'The Clerk set polling places and deadlines for the election.',
+    'The Council voted to place the question on the ballot.',
+    'The board re-elected its chair and vice chair.',
+    'The commission interviews three candidates for the director job.',
+  ]) assert.doesNotThrow(() => buildPublishedIssue({ ...base, summary: ok }), ok);
+});
+
+test('passes through what Pipeline adds: endTs, reported entries, boards and bills', () => {
+  const base = fixtureIssue();
+  const src = base.timeline[0].source;
+  const withSrc = source => buildPublishedIssue({ ...base, timeline: [{ ...base.timeline[0], source }, ...base.timeline.slice(1)] }).timeline[0].source;
+  assert.equal(withSrc({ ...src, ts: '1:20:38', endTs: '1:21:12' }).endTs, '1:21:12');
+  for (const bad of ['1:20:00', 'soon', '1:30:00']) assert.equal('endTs' in withSrc({ ...src, ts: '1:20:38', endTs: bad }), false, bad); // ignored, never rejected
+  const reported = { dateISO: '2026-10-21', text: 'The County awarded the contract.', basis: 'reported', source: { type: 'county-release', url: 'https://www.mauicounty.gov/x', publisher: 'County of Maui', quote: 'The County awarded the contract.', retrievedISO: '2026-10-24' } };
+  const out = buildPublishedIssue({ ...base, timeline: [reported, ...base.timeline] });
+  assert.equal(out.timeline.find(e => e.basis === 'reported').source.publisher, 'County of Maui');
+  assert.equal(parseCatalogIssue(out).timeline.some(e => e.basis === 'reported'), true);
+  const withSearch = buildPublishedIssue({ ...base, boards: [{ name: 'Housing and Land Use Committee', group: 'council', short: ['HLU'] }, { name: '', group: 'x' }], bills: ['Bill 130 (2026)', ''] });
+  assert.deepEqual(withSearch.boards, [{ name: 'Housing and Land Use Committee', group: 'council', short: ['HLU'] }]);
+  assert.deepEqual(withSearch.bills, ['Bill 130 (2026)']);
+  assert.equal('boards' in buildPublishedIssue(base), false);
 });
 
 test('upcomingEvent keeps only stable agenda and meeting links', () => {
-  const base = read(index.issues[0]);
+  const base = fixtureIssue();
   const source = { type: 'county-page', url: 'https://example.gov/a.pdf', publisher: 'County of Maui (Legistar)', quote: 'Bill 116', retrievedISO: '2026-10-16' };
   const sig = ev => ({ ...base.signals, upcomingEvent: { dateISO: '2026-10-21', what: 'Committee: Bill 116', source, ...ev } });
   const ok = buildPublishedIssue({ ...base, signals: sig({ agendaUrl: 'https://example.gov/a.pdf', meetingUrl: 'https://example.gov/m', junk: 1 }) });

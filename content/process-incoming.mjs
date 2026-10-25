@@ -19,8 +19,9 @@ import { existsSync, mkdirSync, readdirSync, readFileSync, renameSync, rmSync, w
 import { dirname, join } from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 
-import { refreshFeed } from './feed.mjs';
-import { buildPublishedIssue, ELECTION } from './publish-issue.mjs';
+import { refreshFeed, refreshMeetingsFeed } from './feed.mjs';
+import { campaignHit } from './campaign.mjs';
+import { buildPublishedIssue } from './publish-issue.mjs';
 import { buildPublished as buildPublishedMeeting } from './publish-meeting.mjs';
 
 const SLUG = /^[a-z0-9][a-z0-9-]*$/;
@@ -33,7 +34,7 @@ const writeJson = (p, v) => writeFileSync(p, JSON.stringify(v, null, 2) + '\n');
 function meetingElectionHit(value) {
   const hits = [];
   const walk = v => {
-    if (typeof v === 'string') { const m = ELECTION.exec(v); if (m) hits.push(m[0]); }
+    if (typeof v === 'string') { const m = campaignHit(v); if (m) hits.push(m); }
     else if (Array.isArray(v)) v.forEach(walk);
     else if (v && typeof v === 'object') Object.values(v).forEach(walk);
   };
@@ -160,7 +161,7 @@ export function processIncoming({ incomingDir, issuesDir, rejectedDir, meetingsD
         if (!YOUTUBE_ID.test(id)) throw new Error(`the meeting id "${id}" is not a real YouTube video id (11 characters). Recordings that are not on YouTube yet must not be published.`);
         if (`${id}.json` !== name) throw new Error(`the file is named ${name} but its meeting id is "${id}"`);
         const hit = meetingElectionHit(pub);
-        if (hit) throw new Error(`the recap mentions an election, ballot, voter or campaign ("${hit}"). The producer's hold applies: nothing about elections is published until the producer says ready.`);
+        if (hit) throw new Error(`the recap contains campaign wording ("${hit}"). The producer's hold on campaigning applies until the producer says ready.`);
         mkdirSync(meetingsDir, { recursive: true });
         writeJson(join(meetingsDir, name), pub);
         const names = readNames();
@@ -192,6 +193,7 @@ export function processIncoming({ incomingDir, issuesDir, rejectedDir, meetingsD
   }
 
   if (out.published.length || out.withdrawn.length || out.indexChanged) refreshFeed(issuesDir);
+  if (meetingsDir && (out.meetingsPublished.length || out.meetingsWithdrawn.length)) refreshMeetingsFeed(meetingsDir);
   return out;
 }
 

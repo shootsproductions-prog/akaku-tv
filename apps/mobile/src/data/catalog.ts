@@ -10,7 +10,7 @@ export const CATALOG_BASE_URL = 'https://raw.githubusercontent.com/shootsproduct
 
 export type IssueStatus = 'active' | 'quiet' | 'resolved';
 /** said-at-meeting: one meeting source. confirmed: two independent records agree. conflicting: sources disagree. */
-export type Basis = 'said-at-meeting' | 'confirmed' | 'conflicting';
+export type Basis = 'said-at-meeting' | 'confirmed' | 'conflicting' | 'reported';
 export type SourceType = 'meeting' | 'county-release' | 'county-page' | 'other';
 
 export type EntrySource =
@@ -52,7 +52,7 @@ export type Catalog = CatalogIndex & { list: CatalogIssue[] };
 const SLUG = /^[a-z0-9]+(-[a-z0-9]+)*$/;
 const DATE = /^\d{4}-\d{2}-\d{2}/;
 const SOURCE_TYPES: SourceType[] = ['meeting', 'county-release', 'county-page', 'other'];
-const BASES: Basis[] = ['said-at-meeting', 'confirmed', 'conflicting'];
+const BASES: Basis[] = ['said-at-meeting', 'confirmed', 'conflicting', 'reported'];
 const STATUSES: IssueStatus[] = ['active', 'quiet', 'resolved'];
 
 const isStr = (v: unknown): v is string => typeof v === 'string' && v.trim().length > 0;

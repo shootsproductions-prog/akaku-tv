@@ -5,7 +5,7 @@ import { join } from 'node:path';
 import { test } from 'node:test';
 import { fileURLToPath } from 'node:url';
 
-import { refreshFeed } from '../../../content/feed.mjs';
+import { refreshFeed, refreshMeetingsFeed } from '../../../content/feed.mjs';
 import { parseIndex } from '../src/data/catalog.ts';
 
 const fixture = JSON.parse(readFileSync(fileURLToPath(new URL('./fixtures/example-issue.publish.json', import.meta.url)), 'utf8'));
@@ -65,4 +65,27 @@ test('removing an issue drops it from files and catalog; default follows count a
   refreshFeed(d, '2026-10-20T10:00:00.000Z');
   assert.equal(read(d, 'index.json').updatedAt, '2026-10-20T10:00:00.000Z');
   assert.deepEqual(parseIndex(read(d, 'index.json')).issues, ['a.json']);
+});
+
+test('meetings catalog: one small entry per meeting, newest first, stable updatedAt', () => {
+  const d = mkdtempSync(join(tmpdir(), 'mcat-'));
+  const meeting = (id, date, extra = {}) => ({ videoId: id, status: 'reviewed', meetingDateISO: date, headline: `H ${id}`, meeting: { id, body: 'Board', summary: `S ${id}`, dur: '30 m', votes: [{}, {}], moments: [{}], bodyType: 'board', trackerIssues: [{ slug: 'a-b', title: 'AB' }], ...extra } });
+  writeFileSync(join(d, 'A1.json'), JSON.stringify(meeting('A1', '2026-10-01')));
+  writeFileSync(join(d, 'B2.json'), JSON.stringify(meeting('B2', '2026-10-09', { bodyType: 'weird' })));
+  writeFileSync(join(d, 'index.json'), JSON.stringify({ meetings: ['A1.json', 'B2.json', 'gone.json'] }));
+  const r1 = refreshMeetingsFeed(d, '2026-10-25T00:00:00.000Z');
+  const c1 = read(d, 'catalog.json');
+  assert.equal(r1.count, 2);
+  assert.deepEqual(c1.meetings.map(m => m.videoId), ['B2', 'A1']);
+  assert.deepEqual(c1.meetings[1], { videoId: 'A1', status: 'reviewed', meetingDateISO: '2026-10-01', bodyType: 'board', body: 'Board', headline: 'H A1', summary: 'S A1', dur: '30 m', voteCount: 2, momentCount: 1, issues: ['a-b'], updatedAt: '2026-10-25T00:00:00.000Z', sha256: c1.meetings[1].sha256 });
+  assert.equal('bodyType' in c1.meetings[0], false);
+  // Unchanged files keep their updatedAt; a changed one moves only itself.
+  refreshMeetingsFeed(d, '2026-10-26T00:00:00.000Z');
+  assert.equal(read(d, 'catalog.json').updatedAt, '2026-10-25T00:00:00.000Z');
+  writeFileSync(join(d, 'A1.json'), JSON.stringify(meeting('A1', '2026-10-01', { summary: 'new' })));
+  refreshMeetingsFeed(d, '2026-10-27T00:00:00.000Z');
+  const c3 = read(d, 'catalog.json');
+  assert.equal(c3.updatedAt, '2026-10-27T00:00:00.000Z');
+  assert.equal(c3.meetings.find(m => m.videoId === 'A1').updatedAt, '2026-10-27T00:00:00.000Z');
+  assert.equal(c3.meetings.find(m => m.videoId === 'B2').updatedAt, '2026-10-25T00:00:00.000Z');
 });

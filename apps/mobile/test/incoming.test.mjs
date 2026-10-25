@@ -48,7 +48,7 @@ test('files that fail a check are rejected with a reason and publish nothing', (
   const d = dirs();
   const base = ex();
   d.drop('proposed-one', { ...base, slug: 'proposed-one', status: 'proposed' });
-  d.drop('election-one', { ...base, slug: 'election-one', summary: 'Voters decide a ballot measure in November.' });
+  d.drop('election-one', { ...base, slug: 'election-one', summary: 'Candidates for mayor will hold a campaign rally.' });
   d.drop('wrong-name', { ...base, slug: 'some-other-slug' });
   writeFileSync(join(d.incomingDir, 'broken.json'), '{ not json');
   const r = processIncoming(d);
@@ -115,7 +115,7 @@ test('meetings: published like issues, with real YouTube ids only, the election 
   bad.meeting = { ...bad.meeting, id: 'cc-2024-05-01' };
   put('cc-2024-05-01.json', { ...bad, videoId: 'cc-2024-05-01' });
   const hot = meeting();
-  hot.meeting = { ...hot.meeting, id: 'AAAAAAAAAAA', recap: `${hot.meeting.recap} The council discussed the November election.` };
+  hot.meeting = { ...hot.meeting, id: 'AAAAAAAAAAA', recap: `${hot.meeting.recap} The council member discussed her re-election campaign.` };
   put('AAAAAAAAAAA.json', { ...hot, videoId: 'AAAAAAAAAAA' });
   const r = processIncoming(d);
   assert.deepEqual(r.meetingsPublished, ['H9lx2zorcDM']);

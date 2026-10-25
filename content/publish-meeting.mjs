@@ -13,6 +13,8 @@ import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 
+import { refreshMeetingsFeed } from './feed.mjs';
+
 // Keep in sync with ISSUE_LABELS in apps/mobile/src/data/issues.ts.
 export const ISSUE_LABELS = ['Water', 'Housing', 'Food Security', 'Disaster Recovery'];
 
@@ -49,6 +51,7 @@ export function buildPublished(file, { reviewed = false } = {}) {
   if (nonEmpty(file.meetingDateISO)) out.meetingDateISO = file.meetingDateISO;
   if (nonEmpty(file.headline)) out.headline = file.headline;
   out.topics = Array.isArray(file.topics) ? file.topics.filter(t => ISSUE_LABELS.includes(t)) : [...new Set(issues.map(i => i.issue))];
+  if (['council', 'board'].includes(file.bodyType)) out.bodyType = file.bodyType;
   out.meeting = m;
   out.issues = issues;
   if (nonEmpty(file.source?.youtubeUrl)) out.source = { youtubeUrl: file.source.youtubeUrl };
@@ -71,6 +74,7 @@ function main(args) {
     const names = readIndex();
     if (!names.includes(name)) fail(`${name} is not published`);
     writeIndex(names.filter(n => n !== name));
+    refreshMeetingsFeed(dir);
     console.log(`Unpublished ${name}. (The file stays in content/meetings/ until you delete it.)`);
     return;
   }
@@ -94,6 +98,7 @@ function main(args) {
   writeFileSync(join(dir, name), JSON.stringify(out, null, 2) + '\n');
   const names = readIndex();
   writeIndex(names.includes(name) ? names : [name, ...names]);
+  refreshMeetingsFeed(dir);
   console.log(`Published ${name} (${out.meeting.body}, ${out.meeting.date}) as "${out.status}".`);
 }
 
