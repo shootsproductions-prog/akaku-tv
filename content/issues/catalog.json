@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T12:26:13.336Z",
+  "updatedAt": "2026-10-25T01:48:10.211Z",
   "count": 81,
   "issues": [
     {
@@ -2649,7 +2649,7 @@
     {
       "slug": "bills-163-and-164-for-163-acre-central-maui-growth",
       "title": "Bills 163 and 164 for 163-acre Central Maui growth",
-      "summary": "Bills 163 and 164 passed nine to zero on September 29, 2026. Earlier, on November 26, 2024, they were part of a group of bills (140, 141, 145, 147, 153, 161, 163, 164, 165, 168 and 169) that passed second and final reading together.",
+      "summary": "Bills 163 and 164 passed nine to zero at the September 29, 2026 meeting.",
       "topics": [
         "land-use",
         "housing",
@@ -2657,7 +2657,7 @@
       ],
       "status": "active",
       "pinned": false,
-      "firstSeenISO": "2024-11-26",
+      "firstSeenISO": "2026-09-29",
       "lastSeenISO": "2026-09-29",
       "signals": {
         "meetingsLast30d": 1,
@@ -2676,18 +2676,6 @@
             "videoId": "CWTHDPLTwS0",
             "ts": "1:20:38",
             "retrievedISO": "2026-10-16T04:23:58.786Z"
-          },
-          "body": "County Council Meeting"
-        },
-        {
-          "dateISO": "2024-11-26",
-          "text": "Group of bills on second and final reading: Bills 140, 141, 145, 147, 153, 161, 163, 164, 165, 168 and 169 passed second and final reading together.",
-          "basis": "said-at-meeting",
-          "source": {
-            "type": "meeting",
-            "videoId": "jUG5zrO3VCw",
-            "ts": "2:31:36",
-            "retrievedISO": "2026-10-21T18:04:36.529Z"
           },
           "body": "County Council Meeting"
         }
@@ -4798,7 +4786,7 @@
     {
       "slug": "hours-of-operation-limit-on-overnight-home-use",
       "title": "Hours-of-operation limit on overnight home use",
-      "summary": "On Sept. 10, 2026, the board unanimously adopted an amended decision and order on the 242 Luna Road, ʻUlupalakua, petition, settling the Planning Department's circuit court appeal. The amendment adds an explanation that residential uses do not have \"hours of operation\" but keeps the ruling the same.",
+      "summary": "On Sept. 10, 2026, the board voted unanimously to adopt an amended decision and order after the Planning Department and the petitioners settled the department's circuit court appeal. The amendment adds an explanation that residential uses do not have \"hours of operation,\" but the board's ruling stays the same. The case began in 2024 when two owners asked whether an operating-hours limit, condition 8, bars overnight stays in their home before they rebuild after the fire.",
       "topics": [
         "land-use"
       ],
@@ -4870,18 +4858,6 @@
             "type": "meeting",
             "videoId": "4I6EFuhArJ0",
             "ts": "0:10:17",
-            "retrievedISO": "2026-10-07T23:03:56.212Z"
-          },
-          "body": "Board of Variances and Appeals"
-        },
-        {
-          "dateISO": "2026-09-10",
-          "text": "The board took up a petition about a vacation rental at 242 Luna Road, ʻUlupalakua.",
-          "basis": "said-at-meeting",
-          "source": {
-            "type": "meeting",
-            "videoId": "4I6EFuhArJ0",
-            "ts": "0:05:50",
             "retrievedISO": "2026-10-07T23:03:56.212Z"
           },
           "body": "Board of Variances and Appeals"
@@ -6057,8 +6033,8 @@
     },
     {
       "slug": "lanai-property-appeal-of-planning-director-decision",
-      "title": "Lānaʻi property appeal of planning director decision",
-      "summary": "On September 10, 2026, the board unanimously approved moving the scheduling conference for an appeal of a planning director's decision about a Lānaʻi property to December 10th, 2026. The parties had agreed to the delay. The appeal was the first item taken up at that meeting.",
+      "title": "Appeal of planning director decision on Ordinance 5909 notice",
+      "summary": "On September 10, 2026, the board unanimously approved moving the scheduling conference for an appeal of a planning director’s decision to December 10th, 2026. The parties had agreed to the delay. The appeal was the first item taken up at that meeting.",
       "topics": [
         "land-use"
       ],
@@ -6094,18 +6070,6 @@
             "type": "meeting",
             "videoId": "4I6EFuhArJ0",
             "ts": "0:02:06",
-            "retrievedISO": "2026-10-07T23:03:56.212Z"
-          },
-          "body": "Board of Variances and Appeals"
-        },
-        {
-          "dateISO": "2026-09-10",
-          "text": "The first item was an appeal of a planning director's decision about a Lānaʻi property.",
-          "basis": "said-at-meeting",
-          "source": {
-            "type": "meeting",
-            "videoId": "4I6EFuhArJ0",
-            "ts": "0:01:27",
             "retrievedISO": "2026-10-07T23:03:56.212Z"
           },
           "body": "Board of Variances and Appeals"
