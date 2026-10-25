@@ -9,7 +9,7 @@
   ],
   "status": "quiet",
   "pinned": false,
-  "firstSeenISO": "2024-12-05",
+  "firstSeenISO": "2024-11-07",
   "lastSeenISO": "2024-12-05",
   "signals": {
     "meetingsLast30d": 0,
@@ -148,6 +148,18 @@
         "videoId": "4DdgHUtoG58",
         "ts": "0:16:03",
         "retrievedISO": "2026-10-12T06:30:20.481Z"
+      },
+      "body": "Cultural Resources Commission"
+    },
+    {
+      "dateISO": "2024-11-07",
+      "text": "Staff presented a plan for a new parking lot at an elementary school built in 1904.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "zTUHCwY7IvY",
+        "ts": "4:00:55",
+        "retrievedISO": "2026-10-15T06:35:30.589Z"
       },
       "body": "Cultural Resources Commission"
     }
