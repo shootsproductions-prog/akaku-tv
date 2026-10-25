@@ -1,0 +1,56 @@
+{
+  "slug": "disability-representation-on-county-commissions",
+  "title": "Disability representation on county commissions",
+  "summary": "On August 13, a commissioner described harsh treatment by police during an arrest and asked that someone who understands disability sit on the police commission. This follows a July 9 request from a commissioner to discuss giving people with disabilities a seat on every commission. The facts do not show whether any seat has been created or approved.",
+  "topics": [
+    "government",
+    "health"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2026-07-09",
+  "lastSeenISO": "2026-08-13",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-25",
+  "timeline": [
+    {
+      "dateISO": "2026-08-13",
+      "text": "A commissioner described harsh treatment by police during an arrest and asked that someone who understands disability sit on the police commission.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "sY6AwUuHzjI",
+        "ts": "0:44:50",
+        "endTs": "0:45:27",
+        "retrievedISO": "2026-10-12T06:30:07.228Z"
+      },
+      "body": "Commission on Persons with Disabilities"
+    },
+    {
+      "dateISO": "2026-07-09",
+      "text": "A commissioner asked to discuss giving people with disabilities a seat on every commission.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "4m34BcHhzUs",
+        "ts": "1:26:15",
+        "endTs": "1:26:48",
+        "retrievedISO": "2026-10-13T06:35:17.645Z"
+      }
+    }
+  ],
+  "boards": [
+    {
+      "name": "Commission on Persons with Disabilities",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
