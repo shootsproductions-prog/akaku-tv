@@ -14,18 +14,22 @@ import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 
+import { campaignHit } from './campaign.mjs';
 import { refreshFeed } from './feed.mjs';
 
 const SLUG = /^[a-z0-9]+(-[a-z0-9]+)*$/;
 const DATE = /^\d{4}-\d{2}-\d{2}/;
 const STATUSES = ['active', 'quiet', 'resolved'];
-const BASES = ['said-at-meeting', 'confirmed', 'conflicting'];
+const BASES = ['said-at-meeting', 'confirmed', 'conflicting', 'reported'];
 const SOURCE_TYPES = ['meeting', 'county-release', 'county-page', 'other'];
 
-// Producer rule (Oct 13): nothing about elections, ballot measures or campaigns is published until the producer says ready.
-// Job "candidates" (a hiring search) are fine. Lift the hold for one run with --allow-election, only on the producer's say-so.
-export const ELECTION = /\b(elections?|ballots?|voters?|campaigns?|charter vote)\b/i;
+// Producer rule (Oct 22-24): CAMPAIGNING is held until the producer says ready (see campaign.mjs); government business about
+// the ballot (charter amendments, measures, election administration, board nominations) is public.
+// Lift the hold for one run with --allow-election, only on the producer's say-so.
+const HOLD_MESSAGE = 'The producer\'s hold on campaigning applies. If the producer has said ready, run again with --allow-election.';
 
+const TS = /^\d{1,2}(:\d{2}){1,2}$/;
+const secs = t => t.split(':').reduce((a, n) => a * 60 + Number(n), 0);
 const nonEmpty = v => typeof v === 'string' && v.trim().length > 0;
 const count = v => Number.isInteger(v) && v >= 0;
 
@@ -36,12 +40,28 @@ function checkSource(s, where) {
   if (s.type === 'meeting') {
     if (!nonEmpty(s.videoId) || !/^[A-Za-z0-9_-]+$/.test(s.videoId)) throw new Error(`${where}: a meeting source needs a videoId`);
     if (!nonEmpty(s.ts) || !/^\d{1,2}(:\d{2}){1,2}$/.test(s.ts)) throw new Error(`${where}: a meeting source needs a proof timestamp like 1:02:33`);
-    return { type: 'meeting', videoId: s.videoId, ts: s.ts, retrievedISO: s.retrievedISO };
+    const out = { type: 'meeting', videoId: s.videoId, ts: s.ts, retrievedISO: s.retrievedISO };
+    // endTs: where the cited moment stops. Optional; an unusable one is ignored, never a reason to reject the file.
+    if (nonEmpty(s.endTs) && TS.test(s.endTs) && secs(s.endTs) > secs(s.ts) && secs(s.endTs) - secs(s.ts) <= 120) out.endTs = s.endTs;
+    return out;
   }
   if (!nonEmpty(s.url) || !s.url.startsWith('https://')) throw new Error(`${where}: a ${s.type} source needs an https url`);
   if (!nonEmpty(s.publisher)) throw new Error(`${where}: a ${s.type} source needs a publisher`);
   if (!nonEmpty(s.quote)) throw new Error(`${where}: a ${s.type} source needs the quote the fact rests on`);
   return { type: s.type, url: s.url, publisher: s.publisher, quote: s.quote, retrievedISO: s.retrievedISO };
+}
+
+/** Optional `boards` ({name, group, short[]}) and `bills` (strings) so the website can search by committee and bill number. */
+function searchFields(file) {
+  const out = {};
+  const short = v => nonEmpty(v) && v.length <= 120;
+  if (Array.isArray(file.boards)) {
+    out.boards = file.boards
+      .filter(b => b && short(b.name) && ['council', 'board', 'county'].includes(b.group))
+      .map(b => ({ name: b.name.trim(), group: b.group, short: Array.isArray(b.short) ? b.short.filter(short) : [] }));
+  }
+  if (Array.isArray(file.bills)) out.bills = file.bills.filter(short).map(b => b.trim());
+  return out;
 }
 
 /** Validate an issue file and return the app-facing copy. Throws a plain-English Error if it must not be published. */
@@ -90,8 +110,10 @@ export function buildPublishedIssue(file, { allowElection = false } = {}) {
   });
   if (!allowElection) {
     const texts = [['title', file.title], ['summary', file.summary], ...file.topics.map(t => ['a topic', t]), ...timeline.map((e, i) => [`timeline[${i}]`, e.text])];
-    const hit = texts.find(([, t]) => ELECTION.test(t));
-    if (hit) throw new Error(`${hit[0]} mentions an election, ballot, voter or campaign ("${ELECTION.exec(hit[1])[0]}"). The producer's hold applies: nothing about elections is published until the producer says ready. If the producer has said ready, run again with --allow-election.`);
+    for (const [where, t] of texts) {
+      const hit = campaignHit(t);
+      if (hit) throw new Error(`${where} contains campaign wording ("${hit}"). ${HOLD_MESSAGE}`);
+    }
   }
   for (const g of new Set(timeline.filter(e => e.conflictGroup).map(e => e.conflictGroup))) {
     if (timeline.filter(e => e.conflictGroup === g).length < 2) throw new Error(`conflictGroup "${g}" has only one entry; a conflict needs both sides`);
@@ -108,6 +130,7 @@ export function buildPublishedIssue(file, { allowElection = false } = {}) {
     lastSeenISO: file.lastSeenISO,
     signals: { meetingsLast30d: sig.meetingsLast30d, meetingsLast90d: sig.meetingsLast90d, mentionsLast30d: sig.mentionsLast30d, upcomingEvent },
     ...(nonEmpty(file.asOfISO) ? { asOfISO: file.asOfISO.slice(0, 10) } : {}),
+    ...searchFields(file),
     timeline,
     sourceTypes: [...new Set(timeline.map(e => e.source.type))],
     disclaimer: file.disclaimer,

@@ -36,3 +36,49 @@ export function refreshFeed(issuesDir, now = process.env.FEED_NOW || new Date().
   writeFileSync(join(issuesDir, 'meta.json'), JSON.stringify({ contract: 'issues-catalog', version: '0.2', updatedAt, issueCount: issues.length }, null, 2) + '\n');
   return next;
 }
+
+/**
+ * content/meetings/catalog.json: one small entry per published meeting, newest first, so readers can list ~1,000 meetings
+ * without fetching each file. { updatedAt, etag, count, meetings: [{ videoId, status, meetingDateISO, bodyType, body, headline,
+ * summary, dur, voteCount, momentCount, issues: [slugs], updatedAt }] }. An entry's updatedAt moves only when its file changes.
+ */
+export function refreshMeetingsFeed(meetingsDir, now = process.env.FEED_NOW || new Date().toISOString()) {
+  const indexPath = join(meetingsDir, 'index.json');
+  const catalogPath = join(meetingsDir, 'catalog.json');
+  const names = existsSync(indexPath) ? JSON.parse(readFileSync(indexPath, 'utf8')).meetings ?? [] : [];
+  const before = existsSync(catalogPath) ? JSON.parse(readFileSync(catalogPath, 'utf8')) : {};
+  const prev = Object.fromEntries((before.meetings ?? []).map(m => [m.videoId, m]));
+  const entries = [];
+  const hashes = [];
+  for (const name of names) {
+    const p = join(meetingsDir, name);
+    if (!existsSync(p)) continue;
+    const text = readFileSync(p, 'utf8');
+    const hash = sha256(text);
+    hashes.push([name, hash]);
+    const f = JSON.parse(text);
+    const m = f.meeting ?? {};
+    const videoId = f.videoId ?? m.id;
+    const bodyType = ['council', 'board'].includes(m.bodyType) ? m.bodyType : ['council', 'board'].includes(f.bodyType) ? f.bodyType : undefined;
+    const entry = {
+      videoId,
+      status: f.status,
+      meetingDateISO: f.meetingDateISO ?? null,
+      ...(bodyType ? { bodyType } : {}),
+      body: m.body ?? null,
+      headline: f.headline ?? null,
+      summary: m.summary ?? null,
+      dur: m.dur ?? null,
+      voteCount: Number.isInteger(m.voteCount) ? m.voteCount : (m.votes ?? []).length,
+      momentCount: (m.moments ?? []).length,
+      issues: (m.trackerIssues ?? []).map(i => i.slug).filter(Boolean),
+    };
+    const same = prev[videoId] && prev[videoId].sha256 === hash;
+    entries.push({ ...entry, updatedAt: same ? prev[videoId].updatedAt : now, _sha: hash });
+  }
+  entries.sort((a, b) => String(b.meetingDateISO ?? '').localeCompare(String(a.meetingDateISO ?? '')) || a.videoId.localeCompare(b.videoId));
+  const etag = sha256(JSON.stringify(hashes));
+  const updatedAt = before.updatedAt && before.etag === etag ? before.updatedAt : now;
+  writeFileSync(catalogPath, JSON.stringify({ updatedAt, etag, count: entries.length, meetings: entries.map(({ _sha, ...e }) => ({ ...e, sha256: _sha })) }, null, 2) + '\n');
+  return { updatedAt, count: entries.length };
+}

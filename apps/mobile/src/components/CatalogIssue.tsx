@@ -12,6 +12,7 @@ const BASIS_LABEL: Record<Basis, string> = {
   'said-at-meeting': 'Said at a meeting',
   confirmed: 'Confirmed by two records',
   conflicting: 'Sources disagree',
+  reported: 'Reported',
 };
 const SOURCE_LABEL: Record<string, string> = {
   meeting: 'Meeting video',
@@ -67,7 +68,7 @@ function Entry({ e, slug }: { e: TimelineEntry; slug: string }) {
     <View style={{ gap: 6 }}>
       <View style={{ flexDirection: 'row', alignItems: 'center', gap: 8, flexWrap: 'wrap' }}>
         <Txt style={{ fontSize: 12, fontWeight: '600', color: colors.mist }}>{e.body ? `${day(e.dateISO)} · ${e.body}` : day(e.dateISO)}</Txt>
-        <Tag label={BASIS_LABEL[e.basis]} tone={e.basis === 'confirmed' ? 'blue' : 'wash'} />
+        <Tag label={e.basis === 'reported' && e.source.type !== 'meeting' ? `Reported by ${e.source.publisher}` : BASIS_LABEL[e.basis]} tone={e.basis === 'confirmed' ? 'blue' : 'wash'} />
       </View>
       <Txt style={{ fontSize: 16, lineHeight: 24 }}>{e.text}</Txt>
       {e.speaker ? <Txt style={{ fontSize: 13, color: colors.mist }}>— {e.speaker}</Txt> : null}

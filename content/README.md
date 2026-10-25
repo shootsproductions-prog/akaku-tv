@@ -78,3 +78,15 @@ check. Readers can skip files whose `updatedAt` has not moved.
   `publish-meeting.mjs`. It must carry a real 11-character YouTube id (never an internal recording id) and passes the
   election hold. `content/incoming/meetings/<videoId>.withdraw` takes it down.
 - Failures land in `content/rejected/` (meetings: `content/rejected/meetings/`) with `<name>.reason.txt`.
+
+### Politics hold, optional fields and the meetings catalog (Oct 25)
+
+- The hold covers **campaigning only** (`content/campaign.mjs`, the same rule Pipeline uses): forums, debates, endorsements,
+  re-election, "vote for me", campaign finance and events. Charter amendments, ballot measures, election administration and
+  board nominations are public. `--allow-election` still lifts the hold for one run.
+- Timeline entries may have `basis: "reported"` (a development from a County release or page; the source needs url, publisher
+  and quote). The app labels it "Reported by <publisher>".
+- A meeting source may carry `endTs` (where the cited moment stops, at most 2 minutes after `ts`); an unusable one is dropped.
+- An issue may carry `boards` ([{ name, group: council|board|county, short[] }]) and `bills` (strings) for search.
+- `content/meetings/catalog.json` lists every published meeting in one small file (newest first, with `updatedAt` and `etag`);
+  it is rebuilt whenever a meeting is published or withdrawn.
