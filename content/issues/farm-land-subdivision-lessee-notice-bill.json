@@ -9,7 +9,7 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-08-19",
-  "lastSeenISO": "2026-09-16",
+  "lastSeenISO": "2026-10-28",
   "signals": {
     "meetingsLast30d": 0,
     "meetingsLast90d": 2,
@@ -17,7 +17,41 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-25",
+  "boards": [
+    {
+      "name": "Lānaʻi Planning Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [
+    "Resolution 26-68"
+  ],
   "timeline": [
+    {
+      "dateISO": "2026-10-28",
+      "text": "The bill (Resolution 26-68, CD1) was placed on the Molokaʻi Planning Commission's Oct. 28 meeting agenda.",
+      "basis": "reported",
+      "source": {
+        "type": "county-page",
+        "url": "https://www.mauicounty.gov/AgendaCenter/MostRecent/Molokai-Planning-Commission-30-30",
+        "publisher": "County of Maui",
+        "quote": "A BILL FOR AN ORDINANCE AMENDING TITLE 19, MAUI COUNTY CODE, ESTABLISHING A REQUIRED NOTICE FOR PROPOSED AGRICULTURAL SUBDIVISIONS.",
+        "retrievedISO": "2026-10-26T08:06:27.689Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-23",
+      "text": "The Molokaʻi Planning Commission meeting, where the bill was due to be heard, was cancelled and all items were deferred to October 28, 2026.",
+      "basis": "reported",
+      "source": {
+        "type": "county-page",
+        "url": "https://www.mauicounty.gov/Archive.aspx?ADID=33982",
+        "publisher": "County of Maui",
+        "quote": "All items have been deferred to Oct 28, 2026 Meeting.",
+        "retrievedISO": "2026-10-26T08:06:21.744Z"
+      }
+    },
     {
       "dateISO": "2026-09-16",
       "text": "Commissioners asked that the council also consider notice for residential and commercial land.",
@@ -26,7 +60,8 @@
         "type": "meeting",
         "videoId": "QMt5AreKorc",
         "ts": "0:55:29",
-        "retrievedISO": "2026-10-07T23:03:51.628Z"
+        "retrievedISO": "2026-10-07T23:03:51.628Z",
+        "endTs": "0:55:59"
       },
       "body": "Lānaʻi Planning Commission"
     },
@@ -38,7 +73,8 @@
         "type": "meeting",
         "videoId": "QMt5AreKorc",
         "ts": "0:52:01",
-        "retrievedISO": "2026-10-07T23:03:51.628Z"
+        "retrievedISO": "2026-10-07T23:03:51.628Z",
+        "endTs": "0:53:12"
       },
       "body": "Lānaʻi Planning Commission"
     },
@@ -50,7 +86,8 @@
         "type": "meeting",
         "videoId": "QMt5AreKorc",
         "ts": "0:40:27",
-        "retrievedISO": "2026-10-07T23:03:51.628Z"
+        "retrievedISO": "2026-10-07T23:03:51.628Z",
+        "endTs": "0:41:57"
       },
       "body": "Lānaʻi Planning Commission"
     },
@@ -62,7 +99,8 @@
         "type": "meeting",
         "videoId": "QMt5AreKorc",
         "ts": "0:39:37",
-        "retrievedISO": "2026-10-07T23:03:51.628Z"
+        "retrievedISO": "2026-10-07T23:03:51.628Z",
+        "endTs": "0:40:36"
       },
       "body": "Lānaʻi Planning Commission"
     },
@@ -74,7 +112,8 @@
         "type": "meeting",
         "videoId": "QMt5AreKorc",
         "ts": "0:26:36",
-        "retrievedISO": "2026-10-07T23:03:51.628Z"
+        "retrievedISO": "2026-10-07T23:03:51.628Z",
+        "endTs": "0:27:06"
       },
       "body": "Lānaʻi Planning Commission"
     },
@@ -86,7 +125,8 @@
         "type": "meeting",
         "videoId": "QMt5AreKorc",
         "ts": "0:12:31",
-        "retrievedISO": "2026-10-07T23:03:51.628Z"
+        "retrievedISO": "2026-10-07T23:03:51.628Z",
+        "endTs": "0:13:35"
       },
       "body": "Lānaʻi Planning Commission"
     },
@@ -98,7 +138,8 @@
         "type": "meeting",
         "videoId": "QMt5AreKorc",
         "ts": "0:08:25",
-        "retrievedISO": "2026-10-07T23:03:51.628Z"
+        "retrievedISO": "2026-10-07T23:03:51.628Z",
+        "endTs": "0:08:57"
       },
       "body": "Lānaʻi Planning Commission"
     },
@@ -110,7 +151,8 @@
         "type": "meeting",
         "videoId": "QMt5AreKorc",
         "ts": "0:05:30",
-        "retrievedISO": "2026-10-07T23:03:51.628Z"
+        "retrievedISO": "2026-10-07T23:03:51.628Z",
+        "endTs": "0:06:00"
       },
       "body": "Lānaʻi Planning Commission"
     },
@@ -122,7 +164,8 @@
         "type": "meeting",
         "videoId": "QMt5AreKorc",
         "ts": "0:02:46",
-        "retrievedISO": "2026-10-07T23:03:51.628Z"
+        "retrievedISO": "2026-10-07T23:03:51.628Z",
+        "endTs": "0:03:16"
       },
       "body": "Lānaʻi Planning Commission"
     },
@@ -134,12 +177,14 @@
         "type": "meeting",
         "videoId": "Z4fnObg2c0I",
         "ts": "1:07:56",
-        "retrievedISO": "2026-10-12T06:30:03.060Z"
+        "retrievedISO": "2026-10-12T06:30:03.060Z",
+        "endTs": "1:08:44"
       },
       "body": "Lānaʻi Planning Commission"
     }
   ],
   "sourceTypes": [
+    "county-page",
     "meeting"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."

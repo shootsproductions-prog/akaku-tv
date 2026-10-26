@@ -353,11 +353,24 @@
         "endTs": "0:27:58"
       },
       "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "The Disaster Recovery, International Affairs, and Planning Committee recommended first-reading passage of Bills 163 and 164 (Committee Report 26-34) but held back companion zoning Bill 165 pending Land Use Commission review.",
+      "basis": "reported",
+      "source": {
+        "type": "other",
+        "url": "https://www.mauinews.com/news/local-news/2026/06/hoonani-village-mixed-use-development-gains-council-support/",
+        "publisher": "The Maui News",
+        "quote": "The committee held back Bill 165 proposing a change in zoning, pending a review by the state Land Use Commission.",
+        "retrievedISO": "2026-10-26T08:07:18.058Z"
+      }
     }
   ],
   "sourceTypes": [
     "meeting",
-    "county-release"
+    "county-release",
+    "other"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

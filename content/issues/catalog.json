@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T08:00:11.008Z",
+  "updatedAt": "2026-10-26T08:08:10.547Z",
   "count": 99,
   "issues": [
     {
@@ -3811,7 +3811,7 @@
       "status": "quiet",
       "pinned": false,
       "firstSeenISO": "2026-08-06",
-      "lastSeenISO": "2026-08-06",
+      "lastSeenISO": "2026-08-30",
       "signals": {
         "meetingsLast30d": 0,
         "meetingsLast90d": 1,
@@ -3819,7 +3819,39 @@
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Cultural Resource Commission Reviews Mokuʻula Restoration Plan",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
       "timeline": [
+        {
+          "dateISO": "2026-08-30",
+          "text": "Maui Now published an update on Mayor Bissen's and the Department of ʻŌiwi Resources' plans to restore Mokuʻula and Loko o Mokuhinia after ancestral waterways resurfaced following the 2023 wildfires.",
+          "basis": "reported",
+          "source": {
+            "type": "other",
+            "url": "https://mauinow.com/2026/08/30/new-vision-ancient-roots-how-maui-countys-%CA%BBoiwi-resources-department-is-putting-hawaiian-ancestral-knowledge-to-work/",
+            "publisher": "Maui Now",
+            "quote": "Mokuʻula and Loko o Mokuhinia are sacred places with deep cultural and historical significance, and their restoration represents an opportunity to reconnect with that part of our history while helping guide Lahaina's future.",
+            "retrievedISO": "2026-10-26T08:06:41.452Z"
+          }
+        },
+        {
+          "dateISO": "2026-08-19",
+          "text": "Maui Daily reported that county officials call the surface-clearing work 'Phase Zero' and expect it to begin in the coming weeks, under archaeological and cultural monitoring.",
+          "basis": "reported",
+          "source": {
+            "type": "other",
+            "url": "https://www.youtube.com/watch?v=1QGaWrk8e-c",
+            "publisher": "Akakū Maui Community Media (Maui Daily)",
+            "quote": "preparatory work at Lahina's historic Moola site is expected to begin in the coming weeks with crews removing former tennis courts a basketball court and a parking lot to prepare the area for long-term restoration county officials say the work is considered phase zero and will be monitored by archaeologists and cultural practitioners.",
+            "retrievedISO": "2026-10-26T08:06:45.804Z"
+          }
+        },
         {
           "dateISO": "2026-08-06",
           "text": "A commissioner said they were very supportive of the project.",
@@ -3828,7 +3860,8 @@
             "type": "meeting",
             "videoId": "S_ruE2fklRg",
             "ts": "0:23:41",
-            "retrievedISO": "2026-10-12T06:30:15.308Z"
+            "retrievedISO": "2026-10-12T06:30:15.308Z",
+            "endTs": "0:24:11"
           },
           "body": "Cultural Resource Commission Reviews Mokuʻula Restoration Plan"
         },
@@ -3840,7 +3873,8 @@
             "type": "meeting",
             "videoId": "S_ruE2fklRg",
             "ts": "0:18:34",
-            "retrievedISO": "2026-10-12T06:30:15.308Z"
+            "retrievedISO": "2026-10-12T06:30:15.308Z",
+            "endTs": "0:19:06"
           },
           "body": "Cultural Resource Commission Reviews Mokuʻula Restoration Plan"
         },
@@ -3852,7 +3886,8 @@
             "type": "meeting",
             "videoId": "S_ruE2fklRg",
             "ts": "0:18:08",
-            "retrievedISO": "2026-10-12T06:30:15.308Z"
+            "retrievedISO": "2026-10-12T06:30:15.308Z",
+            "endTs": "0:18:45"
           },
           "body": "Cultural Resource Commission Reviews Mokuʻula Restoration Plan"
         },
@@ -3864,7 +3899,8 @@
             "type": "meeting",
             "videoId": "S_ruE2fklRg",
             "ts": "0:16:04",
-            "retrievedISO": "2026-10-12T06:30:15.308Z"
+            "retrievedISO": "2026-10-12T06:30:15.308Z",
+            "endTs": "0:16:34"
           },
           "body": "Cultural Resource Commission Reviews Mokuʻula Restoration Plan"
         },
@@ -3876,7 +3912,8 @@
             "type": "meeting",
             "videoId": "S_ruE2fklRg",
             "ts": "0:13:12",
-            "retrievedISO": "2026-10-12T06:30:15.308Z"
+            "retrievedISO": "2026-10-12T06:30:15.308Z",
+            "endTs": "0:13:42"
           },
           "body": "Cultural Resource Commission Reviews Mokuʻula Restoration Plan"
         },
@@ -3888,7 +3925,8 @@
             "type": "meeting",
             "videoId": "S_ruE2fklRg",
             "ts": "0:12:08",
-            "retrievedISO": "2026-10-12T06:30:15.308Z"
+            "retrievedISO": "2026-10-12T06:30:15.308Z",
+            "endTs": "0:12:38"
           },
           "body": "Cultural Resource Commission Reviews Mokuʻula Restoration Plan"
         },
@@ -3900,7 +3938,8 @@
             "type": "meeting",
             "videoId": "S_ruE2fklRg",
             "ts": "0:12:01",
-            "retrievedISO": "2026-10-12T06:30:15.308Z"
+            "retrievedISO": "2026-10-12T06:30:15.308Z",
+            "endTs": "0:12:31"
           },
           "body": "Cultural Resource Commission Reviews Mokuʻula Restoration Plan"
         },
@@ -3912,7 +3951,8 @@
             "type": "meeting",
             "videoId": "S_ruE2fklRg",
             "ts": "0:11:13",
-            "retrievedISO": "2026-10-12T06:30:15.308Z"
+            "retrievedISO": "2026-10-12T06:30:15.308Z",
+            "endTs": "0:11:43"
           },
           "body": "Cultural Resource Commission Reviews Mokuʻula Restoration Plan"
         },
@@ -3924,7 +3964,8 @@
             "type": "meeting",
             "videoId": "S_ruE2fklRg",
             "ts": "0:09:48",
-            "retrievedISO": "2026-10-12T06:30:15.308Z"
+            "retrievedISO": "2026-10-12T06:30:15.308Z",
+            "endTs": "0:10:45"
           },
           "body": "Cultural Resource Commission Reviews Mokuʻula Restoration Plan"
         },
@@ -3936,7 +3977,8 @@
             "type": "meeting",
             "videoId": "S_ruE2fklRg",
             "ts": "0:09:42",
-            "retrievedISO": "2026-10-12T06:30:15.308Z"
+            "retrievedISO": "2026-10-12T06:30:15.308Z",
+            "endTs": "0:10:12"
           },
           "body": "Cultural Resource Commission Reviews Mokuʻula Restoration Plan"
         },
@@ -3948,7 +3990,8 @@
             "type": "meeting",
             "videoId": "S_ruE2fklRg",
             "ts": "0:08:33",
-            "retrievedISO": "2026-10-12T06:30:15.308Z"
+            "retrievedISO": "2026-10-12T06:30:15.308Z",
+            "endTs": "0:09:03"
           },
           "body": "Cultural Resource Commission Reviews Mokuʻula Restoration Plan"
         },
@@ -3960,7 +4003,8 @@
             "type": "meeting",
             "videoId": "S_ruE2fklRg",
             "ts": "0:03:14",
-            "retrievedISO": "2026-10-12T06:30:15.308Z"
+            "retrievedISO": "2026-10-12T06:30:15.308Z",
+            "endTs": "0:03:48"
           },
           "body": "Cultural Resource Commission Reviews Mokuʻula Restoration Plan"
         },
@@ -3972,12 +4016,14 @@
             "type": "meeting",
             "videoId": "S_ruE2fklRg",
             "ts": "0:00:51",
-            "retrievedISO": "2026-10-12T06:30:15.308Z"
+            "retrievedISO": "2026-10-12T06:30:15.308Z",
+            "endTs": "0:01:27"
           },
           "body": "Cultural Resource Commission Reviews Mokuʻula Restoration Plan"
         }
       ],
       "sourceTypes": [
+        "other",
         "meeting"
       ],
       "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
@@ -3993,7 +4039,7 @@
       "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-08-19",
-      "lastSeenISO": "2026-09-16",
+      "lastSeenISO": "2026-10-28",
       "signals": {
         "meetingsLast30d": 0,
         "meetingsLast90d": 2,
@@ -4001,7 +4047,41 @@
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Lānaʻi Planning Commission",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [
+        "Resolution 26-68"
+      ],
       "timeline": [
+        {
+          "dateISO": "2026-10-28",
+          "text": "The bill (Resolution 26-68, CD1) was placed on the Molokaʻi Planning Commission's Oct. 28 meeting agenda.",
+          "basis": "reported",
+          "source": {
+            "type": "county-page",
+            "url": "https://www.mauicounty.gov/AgendaCenter/MostRecent/Molokai-Planning-Commission-30-30",
+            "publisher": "County of Maui",
+            "quote": "A BILL FOR AN ORDINANCE AMENDING TITLE 19, MAUI COUNTY CODE, ESTABLISHING A REQUIRED NOTICE FOR PROPOSED AGRICULTURAL SUBDIVISIONS.",
+            "retrievedISO": "2026-10-26T08:06:27.689Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-23",
+          "text": "The Molokaʻi Planning Commission meeting, where the bill was due to be heard, was cancelled and all items were deferred to October 28, 2026.",
+          "basis": "reported",
+          "source": {
+            "type": "county-page",
+            "url": "https://www.mauicounty.gov/Archive.aspx?ADID=33982",
+            "publisher": "County of Maui",
+            "quote": "All items have been deferred to Oct 28, 2026 Meeting.",
+            "retrievedISO": "2026-10-26T08:06:21.744Z"
+          }
+        },
         {
           "dateISO": "2026-09-16",
           "text": "Commissioners asked that the council also consider notice for residential and commercial land.",
@@ -4010,7 +4090,8 @@
             "type": "meeting",
             "videoId": "QMt5AreKorc",
             "ts": "0:55:29",
-            "retrievedISO": "2026-10-07T23:03:51.628Z"
+            "retrievedISO": "2026-10-07T23:03:51.628Z",
+            "endTs": "0:55:59"
           },
           "body": "Lānaʻi Planning Commission"
         },
@@ -4022,7 +4103,8 @@
             "type": "meeting",
             "videoId": "QMt5AreKorc",
             "ts": "0:52:01",
-            "retrievedISO": "2026-10-07T23:03:51.628Z"
+            "retrievedISO": "2026-10-07T23:03:51.628Z",
+            "endTs": "0:53:12"
           },
           "body": "Lānaʻi Planning Commission"
         },
@@ -4034,7 +4116,8 @@
             "type": "meeting",
             "videoId": "QMt5AreKorc",
             "ts": "0:40:27",
-            "retrievedISO": "2026-10-07T23:03:51.628Z"
+            "retrievedISO": "2026-10-07T23:03:51.628Z",
+            "endTs": "0:41:57"
           },
           "body": "Lānaʻi Planning Commission"
         },
@@ -4046,7 +4129,8 @@
             "type": "meeting",
             "videoId": "QMt5AreKorc",
             "ts": "0:39:37",
-            "retrievedISO": "2026-10-07T23:03:51.628Z"
+            "retrievedISO": "2026-10-07T23:03:51.628Z",
+            "endTs": "0:40:36"
           },
           "body": "Lānaʻi Planning Commission"
         },
@@ -4058,7 +4142,8 @@
             "type": "meeting",
             "videoId": "QMt5AreKorc",
             "ts": "0:26:36",
-            "retrievedISO": "2026-10-07T23:03:51.628Z"
+            "retrievedISO": "2026-10-07T23:03:51.628Z",
+            "endTs": "0:27:06"
           },
           "body": "Lānaʻi Planning Commission"
         },
@@ -4070,7 +4155,8 @@
             "type": "meeting",
             "videoId": "QMt5AreKorc",
             "ts": "0:12:31",
-            "retrievedISO": "2026-10-07T23:03:51.628Z"
+            "retrievedISO": "2026-10-07T23:03:51.628Z",
+            "endTs": "0:13:35"
           },
           "body": "Lānaʻi Planning Commission"
         },
@@ -4082,7 +4168,8 @@
             "type": "meeting",
             "videoId": "QMt5AreKorc",
             "ts": "0:08:25",
-            "retrievedISO": "2026-10-07T23:03:51.628Z"
+            "retrievedISO": "2026-10-07T23:03:51.628Z",
+            "endTs": "0:08:57"
           },
           "body": "Lānaʻi Planning Commission"
         },
@@ -4094,7 +4181,8 @@
             "type": "meeting",
             "videoId": "QMt5AreKorc",
             "ts": "0:05:30",
-            "retrievedISO": "2026-10-07T23:03:51.628Z"
+            "retrievedISO": "2026-10-07T23:03:51.628Z",
+            "endTs": "0:06:00"
           },
           "body": "Lānaʻi Planning Commission"
         },
@@ -4106,7 +4194,8 @@
             "type": "meeting",
             "videoId": "QMt5AreKorc",
             "ts": "0:02:46",
-            "retrievedISO": "2026-10-07T23:03:51.628Z"
+            "retrievedISO": "2026-10-07T23:03:51.628Z",
+            "endTs": "0:03:16"
           },
           "body": "Lānaʻi Planning Commission"
         },
@@ -4118,12 +4207,14 @@
             "type": "meeting",
             "videoId": "Z4fnObg2c0I",
             "ts": "1:07:56",
-            "retrievedISO": "2026-10-12T06:30:03.060Z"
+            "retrievedISO": "2026-10-12T06:30:03.060Z",
+            "endTs": "1:08:44"
           },
           "body": "Lānaʻi Planning Commission"
         }
       ],
       "sourceTypes": [
+        "county-page",
         "meeting"
       ],
       "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
@@ -4871,11 +4962,24 @@
             "endTs": "0:27:58"
           },
           "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-05-20",
+          "text": "The Disaster Recovery, International Affairs, and Planning Committee recommended first-reading passage of Bills 163 and 164 (Committee Report 26-34) but held back companion zoning Bill 165 pending Land Use Commission review.",
+          "basis": "reported",
+          "source": {
+            "type": "other",
+            "url": "https://www.mauinews.com/news/local-news/2026/06/hoonani-village-mixed-use-development-gains-council-support/",
+            "publisher": "The Maui News",
+            "quote": "The committee held back Bill 165 proposing a change in zoning, pending a review by the state Land Use Commission.",
+            "retrievedISO": "2026-10-26T08:07:18.058Z"
+          }
         }
       ],
       "sourceTypes": [
         "meeting",
-        "county-release"
+        "county-release",
+        "other"
       ],
       "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
     },
@@ -9726,7 +9830,7 @@
       "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-08-05",
-      "lastSeenISO": "2026-08-31",
+      "lastSeenISO": "2026-10-01",
       "signals": {
         "meetingsLast30d": 0,
         "meetingsLast90d": 3,
@@ -9759,6 +9863,42 @@
       ],
       "bills": [],
       "timeline": [
+        {
+          "dateISO": "2026-10-01",
+          "text": "Maui County announced a Housing Navigator Program to help wildfire-affected households access County-supported interim housing, including Kīlohana, and financial assistance.",
+          "basis": "reported",
+          "source": {
+            "type": "county-release",
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPCS96yLkDl3j-6-dnEbWOQUF19HyqcWXR2UMORmYLgZ5Og9QvWxUZ32pzXbKtLHwi2_MFopsdGkS5VijvNW1SUBI1BqDv6l2mjtcc0t3NHXY1pv5GcbyOTySgLtb0q98zFsnLZ3JJ7RGWIsU=",
+            "publisher": "County of Maui",
+            "quote": "Eligible households may also receive rental assistance or help exploring County-supported temporary housing options, including Hale ʻO Lāʻie in Kīhei and Kilohana in Lahaina.",
+            "retrievedISO": "2026-10-26T08:07:03.044Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-29",
+          "text": "The County's Current Awards page lists a $15,000,000 award to BDO Government Services for disaster rental assistance and case management under the Disaster Interim Housing Program.",
+          "basis": "reported",
+          "source": {
+            "type": "county-page",
+            "url": "https://www.mauicounty.gov/1766/Current-Awards",
+            "publisher": "County of Maui",
+            "quote": "of Management, $15,000,000.00, BDO Government Services, LLC.",
+            "retrievedISO": "2026-10-26T08:07:12.459Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-01",
+          "text": "The County's Office of Recovery awarded RFP 26-27/P-4 for Disaster Interim Housing Program rental assistance and case management to BDO Government Services, LLC.",
+          "basis": "reported",
+          "source": {
+            "type": "county-page",
+            "url": "https://www.mauicounty.gov/DocumentCenter/View/164500/NOTICE-OF-AWARD-RFP-26-27-P4",
+            "publisher": "County of Maui",
+            "quote": "Award for the subject solicitation has been made to: BDO GOVERNMENT SERVICES, LLC.",
+            "retrievedISO": "2026-10-26T08:06:58.034Z"
+          }
+        },
         {
           "dateISO": "2026-08-31",
           "text": "The official said not everyone living at the site will be eligible to stay.",
@@ -10110,6 +10250,8 @@
         }
       ],
       "sourceTypes": [
+        "county-release",
+        "county-page",
         "meeting",
         "other"
       ],
@@ -11420,7 +11562,7 @@
       "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-08-06",
-      "lastSeenISO": "2026-09-03",
+      "lastSeenISO": "2026-10-12",
       "signals": {
         "meetingsLast30d": 0,
         "meetingsLast90d": 2,
@@ -11428,7 +11570,39 @@
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Cultural Resources Commission",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
       "timeline": [
+        {
+          "dateISO": "2026-10-12",
+          "text": "The County streamlined the SMA permit process for qualifying Lahaina reconstruction. Under Recovery Coordination Directive No. 10, the Planning Director can process these applications administratively instead of sending them through a public hearing before the Maui Planning Commission.",
+          "basis": "reported",
+          "source": {
+            "type": "county-release",
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCUDzwaxgg_AApSXVGS_3Et5Kp7Bc6SfDE2lSH2aMacXJldLWHQAJYuxsv__3j0nIcJfv98gC3VYEdS3dxuV-aaD6YbdwlhWnd5pYXjSwV0KFkSjZn_AjDq81r3c2gZadUiWHrneNjQJPPCDjW",
+            "publisher": "County of Maui",
+            "quote": "10), qualifying reconstruction project applications may be processed administratively by the Planning Director rather than proceeding through the standard public hearing process before the Maui Planning Commission.",
+            "retrievedISO": "2026-10-26T08:06:49.640Z"
+          }
+        },
+        {
+          "dateISO": "2026-10-01",
+          "text": "The regular October 1, 2026 Cultural Resources Commission meeting was canceled. That was the next meeting where HDX tracking lists and historic district rebuild reviews were due.",
+          "basis": "reported",
+          "source": {
+            "type": "county-page",
+            "url": "https://www.mauicounty.gov/Calendar.aspx?EID=14045",
+            "publisher": "County of Maui",
+            "quote": "Maui County Cultural Resources Commission - Canceled.",
+            "retrievedISO": "2026-10-26T08:06:53.448Z"
+          }
+        },
         {
           "dateISO": "2026-09-03",
           "text": "Staff said the historic district approval is step one, and a building permit is still needed.",
@@ -11437,7 +11611,8 @@
             "type": "meeting",
             "videoId": "vhZUiN4y4Zw",
             "ts": "3:38:14",
-            "retrievedISO": "2026-10-07T23:04:02.794Z"
+            "retrievedISO": "2026-10-07T23:04:02.794Z",
+            "endTs": "3:38:44"
           },
           "body": "Cultural Resources Commission"
         },
@@ -11449,7 +11624,8 @@
             "type": "meeting",
             "videoId": "vhZUiN4y4Zw",
             "ts": "3:23:29",
-            "retrievedISO": "2026-10-07T23:04:02.794Z"
+            "retrievedISO": "2026-10-07T23:04:02.794Z",
+            "endTs": "3:24:18"
           },
           "body": "Cultural Resources Commission"
         },
@@ -11461,7 +11637,8 @@
             "type": "meeting",
             "videoId": "vhZUiN4y4Zw",
             "ts": "3:20:56",
-            "retrievedISO": "2026-10-07T23:04:02.794Z"
+            "retrievedISO": "2026-10-07T23:04:02.794Z",
+            "endTs": "3:21:26"
           },
           "body": "Cultural Resources Commission"
         },
@@ -11473,7 +11650,8 @@
             "type": "meeting",
             "videoId": "vhZUiN4y4Zw",
             "ts": "3:19:50",
-            "retrievedISO": "2026-10-07T23:04:02.794Z"
+            "retrievedISO": "2026-10-07T23:04:02.794Z",
+            "endTs": "3:20:26"
           },
           "body": "Cultural Resources Commission"
         },
@@ -11485,7 +11663,8 @@
             "type": "meeting",
             "videoId": "1EOFZJD_EGw",
             "ts": "3:00:07",
-            "retrievedISO": "2026-10-13T06:35:07.755Z"
+            "retrievedISO": "2026-10-13T06:35:07.755Z",
+            "endTs": "3:00:46"
           },
           "body": "Cultural Resources Commission"
         },
@@ -11497,7 +11676,8 @@
             "type": "meeting",
             "videoId": "1EOFZJD_EGw",
             "ts": "2:58:05",
-            "retrievedISO": "2026-10-13T06:35:07.755Z"
+            "retrievedISO": "2026-10-13T06:35:07.755Z",
+            "endTs": "2:58:41"
           },
           "body": "Cultural Resources Commission"
         },
@@ -11509,7 +11689,8 @@
             "type": "meeting",
             "videoId": "1EOFZJD_EGw",
             "ts": "2:57:19",
-            "retrievedISO": "2026-10-13T06:35:07.755Z"
+            "retrievedISO": "2026-10-13T06:35:07.755Z",
+            "endTs": "2:58:04"
           },
           "body": "Cultural Resources Commission"
         },
@@ -11521,12 +11702,15 @@
             "type": "meeting",
             "videoId": "1EOFZJD_EGw",
             "ts": "2:54:02",
-            "retrievedISO": "2026-10-13T06:35:07.755Z"
+            "retrievedISO": "2026-10-13T06:35:07.755Z",
+            "endTs": "2:54:32"
           },
           "body": "Cultural Resources Commission"
         }
       ],
       "sourceTypes": [
+        "county-release",
+        "county-page",
         "meeting"
       ],
       "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
@@ -11773,7 +11957,7 @@
       "status": "active",
       "pinned": false,
       "firstSeenISO": "2024-11-26",
-      "lastSeenISO": "2026-09-29",
+      "lastSeenISO": "2026-10-02",
       "signals": {
         "meetingsLast30d": 1,
         "meetingsLast90d": 3,
@@ -11799,6 +11983,18 @@
         "Bill 159 (2024)"
       ],
       "timeline": [
+        {
+          "dateISO": "2026-10-02",
+          "text": "Maui Now clarified that the September 29 action was approval of Bill 97, CD1 on first reading only. The agreement still needs second and final reading by the Council and approval from the Hawaiian Homes Commission.",
+          "basis": "reported",
+          "source": {
+            "type": "other",
+            "url": "https://mauinow.com/2026/10/02/council-advances-upcountry-wells-deal-with-hawaiian-home-lands/",
+            "publisher": "Maui Now",
+            "quote": "The bill still requires second and final reading by the Council.",
+            "retrievedISO": "2026-10-26T08:07:07.142Z"
+          }
+        },
         {
           "dateISO": "2026-09-29",
           "text": "The testifier said he or someone else may file a lawsuit.",
@@ -12282,6 +12478,7 @@
         }
       ],
       "sourceTypes": [
+        "other",
         "meeting"
       ],
       "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."

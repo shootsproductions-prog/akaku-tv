@@ -9,7 +9,7 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2024-11-26",
-  "lastSeenISO": "2026-09-29",
+  "lastSeenISO": "2026-10-02",
   "signals": {
     "meetingsLast30d": 1,
     "meetingsLast90d": 3,
@@ -35,6 +35,18 @@
     "Bill 159 (2024)"
   ],
   "timeline": [
+    {
+      "dateISO": "2026-10-02",
+      "text": "Maui Now clarified that the September 29 action was approval of Bill 97, CD1 on first reading only. The agreement still needs second and final reading by the Council and approval from the Hawaiian Homes Commission.",
+      "basis": "reported",
+      "source": {
+        "type": "other",
+        "url": "https://mauinow.com/2026/10/02/council-advances-upcountry-wells-deal-with-hawaiian-home-lands/",
+        "publisher": "Maui Now",
+        "quote": "The bill still requires second and final reading by the Council.",
+        "retrievedISO": "2026-10-26T08:07:07.142Z"
+      }
+    },
     {
       "dateISO": "2026-09-29",
       "text": "The testifier said he or someone else may file a lawsuit.",
@@ -518,6 +530,7 @@
     }
   ],
   "sourceTypes": [
+    "other",
     "meeting"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."

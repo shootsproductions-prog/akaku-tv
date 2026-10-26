@@ -10,7 +10,7 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-08-06",
-  "lastSeenISO": "2026-09-03",
+  "lastSeenISO": "2026-10-12",
   "signals": {
     "meetingsLast30d": 0,
     "meetingsLast90d": 2,
@@ -18,7 +18,39 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-25",
+  "boards": [
+    {
+      "name": "Cultural Resources Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
+    {
+      "dateISO": "2026-10-12",
+      "text": "The County streamlined the SMA permit process for qualifying Lahaina reconstruction. Under Recovery Coordination Directive No. 10, the Planning Director can process these applications administratively instead of sending them through a public hearing before the Maui Planning Commission.",
+      "basis": "reported",
+      "source": {
+        "type": "county-release",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCUDzwaxgg_AApSXVGS_3Et5Kp7Bc6SfDE2lSH2aMacXJldLWHQAJYuxsv__3j0nIcJfv98gC3VYEdS3dxuV-aaD6YbdwlhWnd5pYXjSwV0KFkSjZn_AjDq81r3c2gZadUiWHrneNjQJPPCDjW",
+        "publisher": "County of Maui",
+        "quote": "10), qualifying reconstruction project applications may be processed administratively by the Planning Director rather than proceeding through the standard public hearing process before the Maui Planning Commission.",
+        "retrievedISO": "2026-10-26T08:06:49.640Z"
+      }
+    },
+    {
+      "dateISO": "2026-10-01",
+      "text": "The regular October 1, 2026 Cultural Resources Commission meeting was canceled. That was the next meeting where HDX tracking lists and historic district rebuild reviews were due.",
+      "basis": "reported",
+      "source": {
+        "type": "county-page",
+        "url": "https://www.mauicounty.gov/Calendar.aspx?EID=14045",
+        "publisher": "County of Maui",
+        "quote": "Maui County Cultural Resources Commission - Canceled.",
+        "retrievedISO": "2026-10-26T08:06:53.448Z"
+      }
+    },
     {
       "dateISO": "2026-09-03",
       "text": "Staff said the historic district approval is step one, and a building permit is still needed.",
@@ -27,7 +59,8 @@
         "type": "meeting",
         "videoId": "vhZUiN4y4Zw",
         "ts": "3:38:14",
-        "retrievedISO": "2026-10-07T23:04:02.794Z"
+        "retrievedISO": "2026-10-07T23:04:02.794Z",
+        "endTs": "3:38:44"
       },
       "body": "Cultural Resources Commission"
     },
@@ -39,7 +72,8 @@
         "type": "meeting",
         "videoId": "vhZUiN4y4Zw",
         "ts": "3:23:29",
-        "retrievedISO": "2026-10-07T23:04:02.794Z"
+        "retrievedISO": "2026-10-07T23:04:02.794Z",
+        "endTs": "3:24:18"
       },
       "body": "Cultural Resources Commission"
     },
@@ -51,7 +85,8 @@
         "type": "meeting",
         "videoId": "vhZUiN4y4Zw",
         "ts": "3:20:56",
-        "retrievedISO": "2026-10-07T23:04:02.794Z"
+        "retrievedISO": "2026-10-07T23:04:02.794Z",
+        "endTs": "3:21:26"
       },
       "body": "Cultural Resources Commission"
     },
@@ -63,7 +98,8 @@
         "type": "meeting",
         "videoId": "vhZUiN4y4Zw",
         "ts": "3:19:50",
-        "retrievedISO": "2026-10-07T23:04:02.794Z"
+        "retrievedISO": "2026-10-07T23:04:02.794Z",
+        "endTs": "3:20:26"
       },
       "body": "Cultural Resources Commission"
     },
@@ -75,7 +111,8 @@
         "type": "meeting",
         "videoId": "1EOFZJD_EGw",
         "ts": "3:00:07",
-        "retrievedISO": "2026-10-13T06:35:07.755Z"
+        "retrievedISO": "2026-10-13T06:35:07.755Z",
+        "endTs": "3:00:46"
       },
       "body": "Cultural Resources Commission"
     },
@@ -87,7 +124,8 @@
         "type": "meeting",
         "videoId": "1EOFZJD_EGw",
         "ts": "2:58:05",
-        "retrievedISO": "2026-10-13T06:35:07.755Z"
+        "retrievedISO": "2026-10-13T06:35:07.755Z",
+        "endTs": "2:58:41"
       },
       "body": "Cultural Resources Commission"
     },
@@ -99,7 +137,8 @@
         "type": "meeting",
         "videoId": "1EOFZJD_EGw",
         "ts": "2:57:19",
-        "retrievedISO": "2026-10-13T06:35:07.755Z"
+        "retrievedISO": "2026-10-13T06:35:07.755Z",
+        "endTs": "2:58:04"
       },
       "body": "Cultural Resources Commission"
     },
@@ -111,12 +150,15 @@
         "type": "meeting",
         "videoId": "1EOFZJD_EGw",
         "ts": "2:54:02",
-        "retrievedISO": "2026-10-13T06:35:07.755Z"
+        "retrievedISO": "2026-10-13T06:35:07.755Z",
+        "endTs": "2:54:32"
       },
       "body": "Cultural Resources Commission"
     }
   ],
   "sourceTypes": [
+    "county-release",
+    "county-page",
     "meeting"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
