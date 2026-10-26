@@ -26,6 +26,14 @@
     }
   },
   "asOfISO": "2026-10-25",
+  "boards": [
+    {
+      "name": "Maui Planning Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-07-14",
@@ -35,7 +43,8 @@
         "type": "meeting",
         "videoId": "Ail920zTE4c",
         "ts": "2:21:29",
-        "retrievedISO": "2026-10-13T06:35:14.575Z"
+        "retrievedISO": "2026-10-13T06:35:14.575Z",
+        "endTs": "2:22:02"
       },
       "body": "Maui Planning Commission"
     },
@@ -47,7 +56,8 @@
         "type": "meeting",
         "videoId": "Ail920zTE4c",
         "ts": "2:04:23",
-        "retrievedISO": "2026-10-13T06:35:14.575Z"
+        "retrievedISO": "2026-10-13T06:35:14.575Z",
+        "endTs": "2:05:03"
       },
       "body": "Maui Planning Commission"
     },
@@ -59,7 +69,8 @@
         "type": "meeting",
         "videoId": "Ail920zTE4c",
         "ts": "1:59:52",
-        "retrievedISO": "2026-10-13T06:35:14.575Z"
+        "retrievedISO": "2026-10-13T06:35:14.575Z",
+        "endTs": "2:01:36"
       },
       "body": "Maui Planning Commission"
     },
@@ -71,7 +82,8 @@
         "type": "meeting",
         "videoId": "Ail920zTE4c",
         "ts": "1:28:40",
-        "retrievedISO": "2026-10-13T06:35:14.575Z"
+        "retrievedISO": "2026-10-13T06:35:14.575Z",
+        "endTs": "1:29:26"
       },
       "body": "Maui Planning Commission"
     },
@@ -83,7 +95,8 @@
         "type": "meeting",
         "videoId": "Ail920zTE4c",
         "ts": "0:27:38",
-        "retrievedISO": "2026-10-13T06:35:14.575Z"
+        "retrievedISO": "2026-10-13T06:35:14.575Z",
+        "endTs": "0:28:12"
       },
       "body": "Maui Planning Commission"
     },
@@ -95,7 +108,8 @@
         "type": "meeting",
         "videoId": "Ail920zTE4c",
         "ts": "0:02:06",
-        "retrievedISO": "2026-10-13T06:35:14.575Z"
+        "retrievedISO": "2026-10-13T06:35:14.575Z",
+        "endTs": "0:02:36"
       },
       "body": "Maui Planning Commission"
     },
@@ -107,7 +121,8 @@
         "type": "meeting",
         "videoId": "Ail920zTE4c",
         "ts": "0:01:36",
-        "retrievedISO": "2026-10-13T06:35:14.575Z"
+        "retrievedISO": "2026-10-13T06:35:14.575Z",
+        "endTs": "0:02:16"
       },
       "body": "Maui Planning Commission"
     },
@@ -119,7 +134,8 @@
         "type": "meeting",
         "videoId": "FfcosWuFLCA",
         "ts": "7:24:38",
-        "retrievedISO": "2026-10-14T06:40:06.726Z"
+        "retrievedISO": "2026-10-14T06:40:06.726Z",
+        "endTs": "7:25:38"
       },
       "body": "Maui Planning Commission"
     },
@@ -131,7 +147,8 @@
         "type": "meeting",
         "videoId": "FfcosWuFLCA",
         "ts": "7:19:44",
-        "retrievedISO": "2026-10-14T06:40:06.726Z"
+        "retrievedISO": "2026-10-14T06:40:06.726Z",
+        "endTs": "7:20:51"
       },
       "body": "Maui Planning Commission"
     },
@@ -143,7 +160,8 @@
         "type": "meeting",
         "videoId": "FfcosWuFLCA",
         "ts": "7:17:08",
-        "retrievedISO": "2026-10-14T06:40:06.726Z"
+        "retrievedISO": "2026-10-14T06:40:06.726Z",
+        "endTs": "7:17:38"
       },
       "body": "Maui Planning Commission"
     },
@@ -155,7 +173,8 @@
         "type": "meeting",
         "videoId": "FfcosWuFLCA",
         "ts": "7:16:48",
-        "retrievedISO": "2026-10-14T06:40:06.726Z"
+        "retrievedISO": "2026-10-14T06:40:06.726Z",
+        "endTs": "7:18:04"
       },
       "body": "Maui Planning Commission"
     },
@@ -167,7 +186,8 @@
         "type": "meeting",
         "videoId": "FfcosWuFLCA",
         "ts": "5:45:54",
-        "retrievedISO": "2026-10-14T06:40:06.726Z"
+        "retrievedISO": "2026-10-14T06:40:06.726Z",
+        "endTs": "5:46:36"
       },
       "body": "Maui Planning Commission"
     },
@@ -179,7 +199,8 @@
         "type": "meeting",
         "videoId": "FfcosWuFLCA",
         "ts": "5:29:16",
-        "retrievedISO": "2026-10-14T06:40:06.726Z"
+        "retrievedISO": "2026-10-14T06:40:06.726Z",
+        "endTs": "5:30:30"
       },
       "body": "Maui Planning Commission"
     },
@@ -191,7 +212,8 @@
         "type": "meeting",
         "videoId": "FfcosWuFLCA",
         "ts": "5:25:27",
-        "retrievedISO": "2026-10-14T06:40:06.726Z"
+        "retrievedISO": "2026-10-14T06:40:06.726Z",
+        "endTs": "5:26:21"
       },
       "body": "Maui Planning Commission"
     },
@@ -203,7 +225,8 @@
         "type": "meeting",
         "videoId": "FfcosWuFLCA",
         "ts": "4:11:00",
-        "retrievedISO": "2026-10-14T06:40:06.726Z"
+        "retrievedISO": "2026-10-14T06:40:06.726Z",
+        "endTs": "4:12:22"
       },
       "body": "Maui Planning Commission"
     },
@@ -215,7 +238,8 @@
         "type": "meeting",
         "videoId": "FfcosWuFLCA",
         "ts": "3:18:33",
-        "retrievedISO": "2026-10-14T06:40:06.726Z"
+        "retrievedISO": "2026-10-14T06:40:06.726Z",
+        "endTs": "3:19:03"
       },
       "body": "Maui Planning Commission"
     },
@@ -227,7 +251,8 @@
         "type": "meeting",
         "videoId": "FfcosWuFLCA",
         "ts": "2:31:05",
-        "retrievedISO": "2026-10-14T06:40:06.726Z"
+        "retrievedISO": "2026-10-14T06:40:06.726Z",
+        "endTs": "2:31:35"
       },
       "body": "Maui Planning Commission"
     },
@@ -239,7 +264,8 @@
         "type": "meeting",
         "videoId": "FfcosWuFLCA",
         "ts": "1:53:07",
-        "retrievedISO": "2026-10-14T06:40:06.726Z"
+        "retrievedISO": "2026-10-14T06:40:06.726Z",
+        "endTs": "1:53:45"
       },
       "body": "Maui Planning Commission"
     },
@@ -251,19 +277,21 @@
         "type": "meeting",
         "videoId": "FfcosWuFLCA",
         "ts": "1:11:28",
-        "retrievedISO": "2026-10-14T06:40:06.726Z"
+        "retrievedISO": "2026-10-14T06:40:06.726Z",
+        "endTs": "1:11:58"
       },
       "body": "Maui Planning Commission"
     },
     {
       "dateISO": "2026-06-23",
-      "text": "Leach outdoor shower would drain through a swale to a grass drainage basin.",
+      "text": "Each outdoor shower would drain through a swale to a grass drainage basin.",
       "basis": "said-at-meeting",
       "source": {
         "type": "meeting",
         "videoId": "FfcosWuFLCA",
         "ts": "1:05:59",
-        "retrievedISO": "2026-10-14T06:40:06.726Z"
+        "retrievedISO": "2026-10-14T06:40:06.726Z",
+        "endTs": "1:06:29"
       },
       "body": "Maui Planning Commission"
     },
@@ -275,7 +303,8 @@
         "type": "meeting",
         "videoId": "FfcosWuFLCA",
         "ts": "1:03:57",
-        "retrievedISO": "2026-10-14T06:40:06.726Z"
+        "retrievedISO": "2026-10-14T06:40:06.726Z",
+        "endTs": "1:04:46"
       },
       "body": "Maui Planning Commission"
     },
@@ -287,7 +316,8 @@
         "type": "meeting",
         "videoId": "FfcosWuFLCA",
         "ts": "1:02:39",
-        "retrievedISO": "2026-10-14T06:40:06.726Z"
+        "retrievedISO": "2026-10-14T06:40:06.726Z",
+        "endTs": "1:03:09"
       },
       "body": "Maui Planning Commission"
     },
@@ -299,7 +329,8 @@
         "type": "meeting",
         "videoId": "FfcosWuFLCA",
         "ts": "1:02:28",
-        "retrievedISO": "2026-10-14T06:40:06.726Z"
+        "retrievedISO": "2026-10-14T06:40:06.726Z",
+        "endTs": "1:02:58"
       },
       "body": "Maui Planning Commission"
     },
@@ -311,7 +342,8 @@
         "type": "meeting",
         "videoId": "FfcosWuFLCA",
         "ts": "0:52:03",
-        "retrievedISO": "2026-10-14T06:40:06.726Z"
+        "retrievedISO": "2026-10-14T06:40:06.726Z",
+        "endTs": "0:52:35"
       },
       "body": "Maui Planning Commission"
     }

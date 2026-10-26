@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T23:58:43.027Z",
+  "updatedAt": "2026-10-26T03:50:09.424Z",
   "count": 84,
   "issues": [
     {
@@ -2892,7 +2892,7 @@
     {
       "slug": "bills-163-and-164-for-163-acre-central-maui-growth",
       "title": "Bills 163 and 164 for 163-acre Central Maui growth",
-      "summary": "On September 29, the Council passed Bills 163 and 164 nine to zero, after a September 3 public hearing. Bill 163 CD1 adds a 163.443-acre Kahului parcel portion to the urban growth boundary, and Bill 164 CD1 changes it from Agriculture to Business Multifamily for the Hoʻonani Village housing project. Testifiers raised concerns about water from one untested well, the airport runway, and the unfinished final EIS.",
+      "summary": "The council passed Bills 163 and 164 nine to zero on September 29. They allow the Hoʻonani Village mixed-use project on 163.443 acres in Kahului. The bills change the land's community plan designation from agriculture to business and multi-family.",
       "topics": [
         "land-use",
         "housing",
@@ -2909,6 +2909,17 @@
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        }
+      ],
+      "bills": [
+        "Bill 163 (2026)",
+        "Bill 164 (2026)"
+      ],
       "timeline": [
         {
           "dateISO": "2026-09-29",
@@ -2918,7 +2929,8 @@
             "type": "meeting",
             "videoId": "CWTHDPLTwS0",
             "ts": "1:20:38",
-            "retrievedISO": "2026-10-16T04:23:58.786Z"
+            "retrievedISO": "2026-10-16T04:23:58.786Z",
+            "endTs": "1:21:42"
           },
           "body": "County Council Meeting"
         },
@@ -2930,7 +2942,8 @@
             "type": "meeting",
             "videoId": "lLsXXrEBmuw",
             "ts": "0:36:14",
-            "retrievedISO": "2026-10-16T18:09:11.606Z"
+            "retrievedISO": "2026-10-16T18:09:11.606Z",
+            "endTs": "0:36:44"
           },
           "body": "County Council Meeting"
         },
@@ -2942,7 +2955,8 @@
             "type": "meeting",
             "videoId": "lLsXXrEBmuw",
             "ts": "0:36:01",
-            "retrievedISO": "2026-10-16T18:09:11.606Z"
+            "retrievedISO": "2026-10-16T18:09:11.606Z",
+            "endTs": "0:36:31"
           },
           "body": "County Council Meeting"
         },
@@ -2954,7 +2968,8 @@
             "type": "meeting",
             "videoId": "lLsXXrEBmuw",
             "ts": "0:35:35",
-            "retrievedISO": "2026-10-16T18:09:11.606Z"
+            "retrievedISO": "2026-10-16T18:09:11.606Z",
+            "endTs": "0:36:29"
           },
           "body": "County Council Meeting"
         },
@@ -2966,7 +2981,8 @@
             "type": "meeting",
             "videoId": "lLsXXrEBmuw",
             "ts": "0:26:32",
-            "retrievedISO": "2026-10-16T18:09:11.606Z"
+            "retrievedISO": "2026-10-16T18:09:11.606Z",
+            "endTs": "0:27:58"
           },
           "body": "County Council Meeting"
         }
@@ -3262,6 +3278,24 @@
         }
       },
       "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "ʻAha Moku o Maui Hikina",
+          "group": "board",
+          "short": []
+        },
+        {
+          "name": "East Maui Regional Community Board",
+          "group": "board",
+          "short": []
+        },
+        {
+          "name": "East Maui Water Board",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
       "timeline": [
         {
           "dateISO": "2026-09-18",
@@ -3271,7 +3305,8 @@
             "type": "meeting",
             "videoId": "jggU3kzKFQI",
             "ts": "0:52:18",
-            "retrievedISO": "2026-10-07T23:03:54.314Z"
+            "retrievedISO": "2026-10-07T23:03:54.314Z",
+            "endTs": "0:53:12"
           },
           "body": "Aha Moku o Maui Hikina"
         },
@@ -3283,7 +3318,8 @@
             "type": "meeting",
             "videoId": "jggU3kzKFQI",
             "ts": "0:49:22",
-            "retrievedISO": "2026-10-07T23:03:54.314Z"
+            "retrievedISO": "2026-10-07T23:03:54.314Z",
+            "endTs": "0:50:06"
           },
           "body": "Aha Moku o Maui Hikina"
         },
@@ -3295,7 +3331,8 @@
             "type": "meeting",
             "videoId": "jggU3kzKFQI",
             "ts": "0:44:53",
-            "retrievedISO": "2026-10-07T23:03:54.314Z"
+            "retrievedISO": "2026-10-07T23:03:54.314Z",
+            "endTs": "0:45:42"
           },
           "body": "Aha Moku o Maui Hikina"
         },
@@ -3307,7 +3344,8 @@
             "type": "meeting",
             "videoId": "jggU3kzKFQI",
             "ts": "0:39:15",
-            "retrievedISO": "2026-10-07T23:03:54.314Z"
+            "retrievedISO": "2026-10-07T23:03:54.314Z",
+            "endTs": "0:40:06"
           },
           "body": "Aha Moku o Maui Hikina"
         },
@@ -3319,7 +3357,8 @@
             "type": "meeting",
             "videoId": "jggU3kzKFQI",
             "ts": "0:39:02",
-            "retrievedISO": "2026-10-07T23:03:54.314Z"
+            "retrievedISO": "2026-10-07T23:03:54.314Z",
+            "endTs": "0:39:32"
           },
           "body": "Aha Moku o Maui Hikina"
         },
@@ -3331,7 +3370,8 @@
             "type": "meeting",
             "videoId": "jggU3kzKFQI",
             "ts": "0:37:46",
-            "retrievedISO": "2026-10-07T23:03:54.314Z"
+            "retrievedISO": "2026-10-07T23:03:54.314Z",
+            "endTs": "0:38:27"
           },
           "body": "Aha Moku o Maui Hikina"
         },
@@ -3343,7 +3383,8 @@
             "type": "meeting",
             "videoId": "jggU3kzKFQI",
             "ts": "0:35:03",
-            "retrievedISO": "2026-10-07T23:03:54.314Z"
+            "retrievedISO": "2026-10-07T23:03:54.314Z",
+            "endTs": "0:35:40"
           },
           "body": "Aha Moku o Maui Hikina"
         },
@@ -3355,7 +3396,8 @@
             "type": "meeting",
             "videoId": "jggU3kzKFQI",
             "ts": "0:23:05",
-            "retrievedISO": "2026-10-07T23:03:54.314Z"
+            "retrievedISO": "2026-10-07T23:03:54.314Z",
+            "endTs": "0:23:36"
           },
           "body": "Aha Moku o Maui Hikina"
         },
@@ -3367,7 +3409,8 @@
             "type": "meeting",
             "videoId": "jggU3kzKFQI",
             "ts": "0:22:30",
-            "retrievedISO": "2026-10-07T23:03:54.314Z"
+            "retrievedISO": "2026-10-07T23:03:54.314Z",
+            "endTs": "0:23:00"
           },
           "body": "Aha Moku o Maui Hikina"
         },
@@ -3379,7 +3422,8 @@
             "type": "meeting",
             "videoId": "jggU3kzKFQI",
             "ts": "0:09:48",
-            "retrievedISO": "2026-10-07T23:03:54.314Z"
+            "retrievedISO": "2026-10-07T23:03:54.314Z",
+            "endTs": "0:10:18"
           },
           "body": "Aha Moku o Maui Hikina"
         },
@@ -3391,7 +3435,8 @@
             "type": "meeting",
             "videoId": "jggU3kzKFQI",
             "ts": "0:09:16",
-            "retrievedISO": "2026-10-07T23:03:54.314Z"
+            "retrievedISO": "2026-10-07T23:03:54.314Z",
+            "endTs": "0:09:53"
           },
           "body": "Aha Moku o Maui Hikina"
         },
@@ -3403,7 +3448,8 @@
             "type": "meeting",
             "videoId": "9vFQege7xis",
             "ts": "0:10:26",
-            "retrievedISO": "2026-10-07T23:26:09.917Z"
+            "retrievedISO": "2026-10-07T23:26:09.917Z",
+            "endTs": "0:10:58"
           },
           "body": "East Maui Regional Community Board"
         },
@@ -3415,7 +3461,8 @@
             "type": "meeting",
             "videoId": "9vFQege7xis",
             "ts": "0:10:15",
-            "retrievedISO": "2026-10-07T23:26:09.917Z"
+            "retrievedISO": "2026-10-07T23:26:09.917Z",
+            "endTs": "0:10:45"
           },
           "body": "East Maui Regional Community Board"
         },
@@ -3427,7 +3474,8 @@
             "type": "meeting",
             "videoId": "9vFQege7xis",
             "ts": "0:09:55",
-            "retrievedISO": "2026-10-07T23:26:09.917Z"
+            "retrievedISO": "2026-10-07T23:26:09.917Z",
+            "endTs": "0:10:30"
           },
           "body": "East Maui Regional Community Board"
         },
@@ -3439,7 +3487,8 @@
             "type": "meeting",
             "videoId": "9vFQege7xis",
             "ts": "0:09:28",
-            "retrievedISO": "2026-10-07T23:26:09.917Z"
+            "retrievedISO": "2026-10-07T23:26:09.917Z",
+            "endTs": "0:09:58"
           },
           "body": "East Maui Regional Community Board"
         },
@@ -3451,7 +3500,8 @@
             "type": "meeting",
             "videoId": "9vFQege7xis",
             "ts": "0:04:49",
-            "retrievedISO": "2026-10-07T23:26:09.917Z"
+            "retrievedISO": "2026-10-07T23:26:09.917Z",
+            "endTs": "0:05:28"
           },
           "body": "East Maui Regional Community Board"
         },
@@ -3463,7 +3513,8 @@
             "type": "meeting",
             "videoId": "oDSa7vE18b8",
             "ts": "0:26:42",
-            "retrievedISO": "2026-10-09T06:35:04.288Z"
+            "retrievedISO": "2026-10-09T06:35:04.288Z",
+            "endTs": "0:27:33"
           },
           "body": "East Maui Water Board"
         },
@@ -3475,7 +3526,8 @@
             "type": "meeting",
             "videoId": "oDSa7vE18b8",
             "ts": "0:25:42",
-            "retrievedISO": "2026-10-09T06:35:04.288Z"
+            "retrievedISO": "2026-10-09T06:35:04.288Z",
+            "endTs": "0:26:20"
           },
           "body": "East Maui Water Board"
         }
@@ -5441,7 +5493,7 @@
     {
       "slug": "johnson-controls-energy-savings-contract-phase-3",
       "title": "Johnson Controls energy savings contract Phase 3",
-      "summary": "On July 7, members voted 9–0 to finance Phase 3 of the Johnson Controls energy savings contract, up to $9,021,259 plus interest. A committee had backed it June 24 with an amendment allowing a lower final amount, using a tax-exempt lease purchase at 4.49 percent. The administration says Phase 1 is done and saving money, with net savings of $11.9 million on a roughly $25 million project.",
+      "summary": "Members voted 9–0 on July 7 to finance Phase 3 of an energy savings contract, at up to $9,021,259 plus interest. The financing is a tax-exempt lease purchase with TD Equipment Finance Inc. for a Johnson Controls Inc. energy contract, at 4.49 percent interest. A committee had recommended the resolution as amended on June 24, allowing the final amount to come in lower, and one speaker said they do not consent to the contract.",
       "topics": [
         "government",
         "environment"
@@ -5457,6 +5509,21 @@
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        },
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [],
       "timeline": [
         {
           "dateISO": "2026-07-07",
@@ -5466,7 +5533,8 @@
             "type": "meeting",
             "videoId": "NJzgJmRuAug",
             "ts": "1:26:20",
-            "retrievedISO": "2026-10-16T20:08:41.455Z"
+            "retrievedISO": "2026-10-16T20:08:41.455Z",
+            "endTs": "1:27:33"
           },
           "body": "County Council Meeting"
         },
@@ -5478,7 +5546,8 @@
             "type": "meeting",
             "videoId": "UElWUY1WxpQ",
             "ts": "0:47:27",
-            "retrievedISO": "2026-10-16T17:44:47.890Z"
+            "retrievedISO": "2026-10-16T17:44:47.890Z",
+            "endTs": "0:47:57"
           },
           "body": "County Council Budget, Finance, and Economic Development Committee"
         },
@@ -5490,7 +5559,8 @@
             "type": "meeting",
             "videoId": "UElWUY1WxpQ",
             "ts": "0:45:54",
-            "retrievedISO": "2026-10-16T17:44:47.890Z"
+            "retrievedISO": "2026-10-16T17:44:47.890Z",
+            "endTs": "0:47:20"
           },
           "body": "County Council Budget, Finance, and Economic Development Committee"
         },
@@ -5502,7 +5572,8 @@
             "type": "meeting",
             "videoId": "UElWUY1WxpQ",
             "ts": "0:24:30",
-            "retrievedISO": "2026-10-16T17:44:47.890Z"
+            "retrievedISO": "2026-10-16T17:44:47.890Z",
+            "endTs": "0:25:00"
           },
           "body": "County Council Budget, Finance, and Economic Development Committee"
         },
@@ -5514,7 +5585,8 @@
             "type": "meeting",
             "videoId": "UElWUY1WxpQ",
             "ts": "0:22:14",
-            "retrievedISO": "2026-10-16T17:44:47.890Z"
+            "retrievedISO": "2026-10-16T17:44:47.890Z",
+            "endTs": "0:22:54"
           },
           "body": "County Council Budget, Finance, and Economic Development Committee"
         },
@@ -5526,7 +5598,8 @@
             "type": "meeting",
             "videoId": "UElWUY1WxpQ",
             "ts": "0:21:36",
-            "retrievedISO": "2026-10-16T17:44:47.890Z"
+            "retrievedISO": "2026-10-16T17:44:47.890Z",
+            "endTs": "0:22:06"
           },
           "body": "County Council Budget, Finance, and Economic Development Committee"
         }
@@ -6057,6 +6130,14 @@
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Lānaʻi Planning Commission",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
       "timeline": [
         {
           "dateISO": "2026-08-19",
@@ -6066,7 +6147,8 @@
             "type": "meeting",
             "videoId": "Z4fnObg2c0I",
             "ts": "1:13:32",
-            "retrievedISO": "2026-10-12T06:30:03.060Z"
+            "retrievedISO": "2026-10-12T06:30:03.060Z",
+            "endTs": "1:14:22"
           },
           "body": "Lānaʻi Planning Commission"
         },
@@ -6078,19 +6160,21 @@
             "type": "meeting",
             "videoId": "YXklH_FH7zQ",
             "ts": "1:07:58",
-            "retrievedISO": "2026-10-13T06:35:13.750Z"
+            "retrievedISO": "2026-10-13T06:35:13.750Z",
+            "endTs": "1:08:28"
           },
           "body": "Lānaʻi Planning Commission"
         },
         {
           "dateISO": "2026-07-15",
-          "text": "Leong-range planning staff said an update of the Lānaʻi community plan is a while away.",
+          "text": "Long-range planning staff said an update of the Lānaʻi community plan is a while away.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
             "videoId": "YXklH_FH7zQ",
             "ts": "1:01:24",
-            "retrievedISO": "2026-10-13T06:35:13.750Z"
+            "retrievedISO": "2026-10-13T06:35:13.750Z",
+            "endTs": "1:01:54"
           },
           "body": "Lānaʻi Planning Commission"
         }
@@ -7003,6 +7087,14 @@
         }
       },
       "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Maui Planning Commission",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
       "timeline": [
         {
           "dateISO": "2026-07-14",
@@ -7012,7 +7104,8 @@
             "type": "meeting",
             "videoId": "Ail920zTE4c",
             "ts": "2:21:29",
-            "retrievedISO": "2026-10-13T06:35:14.575Z"
+            "retrievedISO": "2026-10-13T06:35:14.575Z",
+            "endTs": "2:22:02"
           },
           "body": "Maui Planning Commission"
         },
@@ -7024,7 +7117,8 @@
             "type": "meeting",
             "videoId": "Ail920zTE4c",
             "ts": "2:04:23",
-            "retrievedISO": "2026-10-13T06:35:14.575Z"
+            "retrievedISO": "2026-10-13T06:35:14.575Z",
+            "endTs": "2:05:03"
           },
           "body": "Maui Planning Commission"
         },
@@ -7036,7 +7130,8 @@
             "type": "meeting",
             "videoId": "Ail920zTE4c",
             "ts": "1:59:52",
-            "retrievedISO": "2026-10-13T06:35:14.575Z"
+            "retrievedISO": "2026-10-13T06:35:14.575Z",
+            "endTs": "2:01:36"
           },
           "body": "Maui Planning Commission"
         },
@@ -7048,7 +7143,8 @@
             "type": "meeting",
             "videoId": "Ail920zTE4c",
             "ts": "1:28:40",
-            "retrievedISO": "2026-10-13T06:35:14.575Z"
+            "retrievedISO": "2026-10-13T06:35:14.575Z",
+            "endTs": "1:29:26"
           },
           "body": "Maui Planning Commission"
         },
@@ -7060,7 +7156,8 @@
             "type": "meeting",
             "videoId": "Ail920zTE4c",
             "ts": "0:27:38",
-            "retrievedISO": "2026-10-13T06:35:14.575Z"
+            "retrievedISO": "2026-10-13T06:35:14.575Z",
+            "endTs": "0:28:12"
           },
           "body": "Maui Planning Commission"
         },
@@ -7072,7 +7169,8 @@
             "type": "meeting",
             "videoId": "Ail920zTE4c",
             "ts": "0:02:06",
-            "retrievedISO": "2026-10-13T06:35:14.575Z"
+            "retrievedISO": "2026-10-13T06:35:14.575Z",
+            "endTs": "0:02:36"
           },
           "body": "Maui Planning Commission"
         },
@@ -7084,7 +7182,8 @@
             "type": "meeting",
             "videoId": "Ail920zTE4c",
             "ts": "0:01:36",
-            "retrievedISO": "2026-10-13T06:35:14.575Z"
+            "retrievedISO": "2026-10-13T06:35:14.575Z",
+            "endTs": "0:02:16"
           },
           "body": "Maui Planning Commission"
         },
@@ -7096,7 +7195,8 @@
             "type": "meeting",
             "videoId": "FfcosWuFLCA",
             "ts": "7:24:38",
-            "retrievedISO": "2026-10-14T06:40:06.726Z"
+            "retrievedISO": "2026-10-14T06:40:06.726Z",
+            "endTs": "7:25:38"
           },
           "body": "Maui Planning Commission"
         },
@@ -7108,7 +7208,8 @@
             "type": "meeting",
             "videoId": "FfcosWuFLCA",
             "ts": "7:19:44",
-            "retrievedISO": "2026-10-14T06:40:06.726Z"
+            "retrievedISO": "2026-10-14T06:40:06.726Z",
+            "endTs": "7:20:51"
           },
           "body": "Maui Planning Commission"
         },
@@ -7120,7 +7221,8 @@
             "type": "meeting",
             "videoId": "FfcosWuFLCA",
             "ts": "7:17:08",
-            "retrievedISO": "2026-10-14T06:40:06.726Z"
+            "retrievedISO": "2026-10-14T06:40:06.726Z",
+            "endTs": "7:17:38"
           },
           "body": "Maui Planning Commission"
         },
@@ -7132,7 +7234,8 @@
             "type": "meeting",
             "videoId": "FfcosWuFLCA",
             "ts": "7:16:48",
-            "retrievedISO": "2026-10-14T06:40:06.726Z"
+            "retrievedISO": "2026-10-14T06:40:06.726Z",
+            "endTs": "7:18:04"
           },
           "body": "Maui Planning Commission"
         },
@@ -7144,7 +7247,8 @@
             "type": "meeting",
             "videoId": "FfcosWuFLCA",
             "ts": "5:45:54",
-            "retrievedISO": "2026-10-14T06:40:06.726Z"
+            "retrievedISO": "2026-10-14T06:40:06.726Z",
+            "endTs": "5:46:36"
           },
           "body": "Maui Planning Commission"
         },
@@ -7156,7 +7260,8 @@
             "type": "meeting",
             "videoId": "FfcosWuFLCA",
             "ts": "5:29:16",
-            "retrievedISO": "2026-10-14T06:40:06.726Z"
+            "retrievedISO": "2026-10-14T06:40:06.726Z",
+            "endTs": "5:30:30"
           },
           "body": "Maui Planning Commission"
         },
@@ -7168,7 +7273,8 @@
             "type": "meeting",
             "videoId": "FfcosWuFLCA",
             "ts": "5:25:27",
-            "retrievedISO": "2026-10-14T06:40:06.726Z"
+            "retrievedISO": "2026-10-14T06:40:06.726Z",
+            "endTs": "5:26:21"
           },
           "body": "Maui Planning Commission"
         },
@@ -7180,7 +7286,8 @@
             "type": "meeting",
             "videoId": "FfcosWuFLCA",
             "ts": "4:11:00",
-            "retrievedISO": "2026-10-14T06:40:06.726Z"
+            "retrievedISO": "2026-10-14T06:40:06.726Z",
+            "endTs": "4:12:22"
           },
           "body": "Maui Planning Commission"
         },
@@ -7192,7 +7299,8 @@
             "type": "meeting",
             "videoId": "FfcosWuFLCA",
             "ts": "3:18:33",
-            "retrievedISO": "2026-10-14T06:40:06.726Z"
+            "retrievedISO": "2026-10-14T06:40:06.726Z",
+            "endTs": "3:19:03"
           },
           "body": "Maui Planning Commission"
         },
@@ -7204,7 +7312,8 @@
             "type": "meeting",
             "videoId": "FfcosWuFLCA",
             "ts": "2:31:05",
-            "retrievedISO": "2026-10-14T06:40:06.726Z"
+            "retrievedISO": "2026-10-14T06:40:06.726Z",
+            "endTs": "2:31:35"
           },
           "body": "Maui Planning Commission"
         },
@@ -7216,7 +7325,8 @@
             "type": "meeting",
             "videoId": "FfcosWuFLCA",
             "ts": "1:53:07",
-            "retrievedISO": "2026-10-14T06:40:06.726Z"
+            "retrievedISO": "2026-10-14T06:40:06.726Z",
+            "endTs": "1:53:45"
           },
           "body": "Maui Planning Commission"
         },
@@ -7228,19 +7338,21 @@
             "type": "meeting",
             "videoId": "FfcosWuFLCA",
             "ts": "1:11:28",
-            "retrievedISO": "2026-10-14T06:40:06.726Z"
+            "retrievedISO": "2026-10-14T06:40:06.726Z",
+            "endTs": "1:11:58"
           },
           "body": "Maui Planning Commission"
         },
         {
           "dateISO": "2026-06-23",
-          "text": "Leach outdoor shower would drain through a swale to a grass drainage basin.",
+          "text": "Each outdoor shower would drain through a swale to a grass drainage basin.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
             "videoId": "FfcosWuFLCA",
             "ts": "1:05:59",
-            "retrievedISO": "2026-10-14T06:40:06.726Z"
+            "retrievedISO": "2026-10-14T06:40:06.726Z",
+            "endTs": "1:06:29"
           },
           "body": "Maui Planning Commission"
         },
@@ -7252,7 +7364,8 @@
             "type": "meeting",
             "videoId": "FfcosWuFLCA",
             "ts": "1:03:57",
-            "retrievedISO": "2026-10-14T06:40:06.726Z"
+            "retrievedISO": "2026-10-14T06:40:06.726Z",
+            "endTs": "1:04:46"
           },
           "body": "Maui Planning Commission"
         },
@@ -7264,7 +7377,8 @@
             "type": "meeting",
             "videoId": "FfcosWuFLCA",
             "ts": "1:02:39",
-            "retrievedISO": "2026-10-14T06:40:06.726Z"
+            "retrievedISO": "2026-10-14T06:40:06.726Z",
+            "endTs": "1:03:09"
           },
           "body": "Maui Planning Commission"
         },
@@ -7276,7 +7390,8 @@
             "type": "meeting",
             "videoId": "FfcosWuFLCA",
             "ts": "1:02:28",
-            "retrievedISO": "2026-10-14T06:40:06.726Z"
+            "retrievedISO": "2026-10-14T06:40:06.726Z",
+            "endTs": "1:02:58"
           },
           "body": "Maui Planning Commission"
         },
@@ -7288,7 +7403,8 @@
             "type": "meeting",
             "videoId": "FfcosWuFLCA",
             "ts": "0:52:03",
-            "retrievedISO": "2026-10-14T06:40:06.726Z"
+            "retrievedISO": "2026-10-14T06:40:06.726Z",
+            "endTs": "0:52:35"
           },
           "body": "Maui Planning Commission"
         }
@@ -7823,7 +7939,7 @@
     {
       "slug": "park-maui-paid-and-resident-parking-rules",
       "title": "Park Maui paid and resident parking rules",
-      "summary": "The council passed Bill 68, CD1 (2026) on second and final reading on July 24, updating Park Maui paid and permit parking zones. It had passed first reading 9–0 on July 7. The bill creates paid parking zones at three Lahaina lots, gives Hawaiʻi residents with a valid license the first two hours free at the Wailuku Garage, and removes a Kamaʻole Beach 3 dirt area from resident-only hours.",
+      "summary": "The council gave final approval on July 24 to Bill 68, CD1 (2026), which updates Park Maui paid and permit parking zones. It passed on second and final reading. The bill had cleared first reading 9–0 on July 7, when it was described as updating West Maui parking rules.",
       "topics": [
         "transportation"
       ],
@@ -7838,6 +7954,16 @@
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        }
+      ],
+      "bills": [
+        "Bill 68 (2026)"
+      ],
       "timeline": [
         {
           "dateISO": "2026-07-24",
@@ -7847,7 +7973,8 @@
             "type": "meeting",
             "videoId": "7WOTHhYkCV0",
             "ts": "2:25:48",
-            "retrievedISO": "2026-10-16T17:08:42.619Z"
+            "retrievedISO": "2026-10-16T17:08:42.619Z",
+            "endTs": "2:26:43"
           },
           "body": "County Council Meeting"
         },
@@ -7859,7 +7986,8 @@
             "type": "meeting",
             "videoId": "NJzgJmRuAug",
             "ts": "2:34:47",
-            "retrievedISO": "2026-10-16T20:08:41.455Z"
+            "retrievedISO": "2026-10-16T20:08:41.455Z",
+            "endTs": "2:36:04"
           },
           "body": "County Council Meeting"
         }
@@ -10153,7 +10281,7 @@
     {
       "slug": "charter-amendments-headed-to-the-general-election-ballot",
       "title": "Charter amendments headed to the general election ballot",
-      "summary": "On July 24, the council carried a motion, eight ayes with one excused, sending seven proposed charter amendments to voters at the next general election. One of them standardizes petition review deadlines, effective January 1, 2027. Earlier, on July 7, the council passed 9–0 a change to have the Director of Finance receive injury and damage claims starting January 1, 2028.",
+      "summary": "On July 24, the council voted eight in favor, with one member excused, to send seven charter amendments to voters at the next general election. One of them, passed 9–0 on July 7, would have the Director of Finance receive injury and damage claims starting January 1, 2028. A council member also plans to seek a state law change so claims handling can later be set by ordinance.",
       "topics": [
         "elections",
         "government"

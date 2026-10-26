@@ -1,7 +1,7 @@
 {
   "slug": "johnson-controls-energy-savings-contract-phase-3",
   "title": "Johnson Controls energy savings contract Phase 3",
-  "summary": "On July 7, members voted 9–0 to finance Phase 3 of the Johnson Controls energy savings contract, up to $9,021,259 plus interest. A committee had backed it June 24 with an amendment allowing a lower final amount, using a tax-exempt lease purchase at 4.49 percent. The administration says Phase 1 is done and saving money, with net savings of $11.9 million on a roughly $25 million project.",
+  "summary": "Members voted 9–0 on July 7 to finance Phase 3 of an energy savings contract, at up to $9,021,259 plus interest. The financing is a tax-exempt lease purchase with TD Equipment Finance Inc. for a Johnson Controls Inc. energy contract, at 4.49 percent interest. A committee had recommended the resolution as amended on June 24, allowing the final amount to come in lower, and one speaker said they do not consent to the contract.",
   "topics": [
     "government",
     "environment"
@@ -17,6 +17,21 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-25",
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    },
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-07-07",
@@ -26,7 +41,8 @@
         "type": "meeting",
         "videoId": "NJzgJmRuAug",
         "ts": "1:26:20",
-        "retrievedISO": "2026-10-16T20:08:41.455Z"
+        "retrievedISO": "2026-10-16T20:08:41.455Z",
+        "endTs": "1:27:33"
       },
       "body": "County Council Meeting"
     },
@@ -38,7 +54,8 @@
         "type": "meeting",
         "videoId": "UElWUY1WxpQ",
         "ts": "0:47:27",
-        "retrievedISO": "2026-10-16T17:44:47.890Z"
+        "retrievedISO": "2026-10-16T17:44:47.890Z",
+        "endTs": "0:47:57"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
     },
@@ -50,7 +67,8 @@
         "type": "meeting",
         "videoId": "UElWUY1WxpQ",
         "ts": "0:45:54",
-        "retrievedISO": "2026-10-16T17:44:47.890Z"
+        "retrievedISO": "2026-10-16T17:44:47.890Z",
+        "endTs": "0:47:20"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
     },
@@ -62,7 +80,8 @@
         "type": "meeting",
         "videoId": "UElWUY1WxpQ",
         "ts": "0:24:30",
-        "retrievedISO": "2026-10-16T17:44:47.890Z"
+        "retrievedISO": "2026-10-16T17:44:47.890Z",
+        "endTs": "0:25:00"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
     },
@@ -74,7 +93,8 @@
         "type": "meeting",
         "videoId": "UElWUY1WxpQ",
         "ts": "0:22:14",
-        "retrievedISO": "2026-10-16T17:44:47.890Z"
+        "retrievedISO": "2026-10-16T17:44:47.890Z",
+        "endTs": "0:22:54"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
     },
@@ -86,7 +106,8 @@
         "type": "meeting",
         "videoId": "UElWUY1WxpQ",
         "ts": "0:21:36",
-        "retrievedISO": "2026-10-16T17:44:47.890Z"
+        "retrievedISO": "2026-10-16T17:44:47.890Z",
+        "endTs": "0:22:06"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
     }

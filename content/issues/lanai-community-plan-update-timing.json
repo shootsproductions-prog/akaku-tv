@@ -17,6 +17,14 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-25",
+  "boards": [
+    {
+      "name": "Lānaʻi Planning Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-08-19",
@@ -26,7 +34,8 @@
         "type": "meeting",
         "videoId": "Z4fnObg2c0I",
         "ts": "1:13:32",
-        "retrievedISO": "2026-10-12T06:30:03.060Z"
+        "retrievedISO": "2026-10-12T06:30:03.060Z",
+        "endTs": "1:14:22"
       },
       "body": "Lānaʻi Planning Commission"
     },
@@ -38,19 +47,21 @@
         "type": "meeting",
         "videoId": "YXklH_FH7zQ",
         "ts": "1:07:58",
-        "retrievedISO": "2026-10-13T06:35:13.750Z"
+        "retrievedISO": "2026-10-13T06:35:13.750Z",
+        "endTs": "1:08:28"
       },
       "body": "Lānaʻi Planning Commission"
     },
     {
       "dateISO": "2026-07-15",
-      "text": "Leong-range planning staff said an update of the Lānaʻi community plan is a while away.",
+      "text": "Long-range planning staff said an update of the Lānaʻi community plan is a while away.",
       "basis": "said-at-meeting",
       "source": {
         "type": "meeting",
         "videoId": "YXklH_FH7zQ",
         "ts": "1:01:24",
-        "retrievedISO": "2026-10-13T06:35:13.750Z"
+        "retrievedISO": "2026-10-13T06:35:13.750Z",
+        "endTs": "1:01:54"
       },
       "body": "Lānaʻi Planning Commission"
     }
