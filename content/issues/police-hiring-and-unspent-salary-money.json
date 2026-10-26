@@ -6,7 +6,7 @@
     "public-safety",
     "government"
   ],
-  "status": "quiet",
+  "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-08-19",
   "lastSeenISO": "2026-08-19",
@@ -17,6 +17,14 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-25",
+  "boards": [
+    {
+      "name": "Police Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-08-19",
@@ -26,7 +34,8 @@
         "type": "meeting",
         "videoId": "ic0yx8fVvEE",
         "ts": "0:31:47",
-        "retrievedISO": "2026-10-12T06:30:04.199Z"
+        "retrievedISO": "2026-10-12T06:30:04.199Z",
+        "endTs": "0:32:17"
       },
       "body": "Police Commission"
     },
@@ -38,7 +47,8 @@
         "type": "meeting",
         "videoId": "ic0yx8fVvEE",
         "ts": "0:20:35",
-        "retrievedISO": "2026-10-12T06:30:04.199Z"
+        "retrievedISO": "2026-10-12T06:30:04.199Z",
+        "endTs": "0:21:42"
       },
       "body": "Police Commission"
     }

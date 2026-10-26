@@ -6,7 +6,7 @@
     "housing",
     "health"
   ],
-  "status": "quiet",
+  "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-07-09",
   "lastSeenISO": "2026-08-13",
@@ -17,6 +17,14 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-25",
+  "boards": [
+    {
+      "name": "Commission on Persons with Disabilities",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-08-13",
@@ -26,7 +34,8 @@
         "type": "meeting",
         "videoId": "sY6AwUuHzjI",
         "ts": "1:41:49",
-        "retrievedISO": "2026-10-12T06:30:07.228Z"
+        "retrievedISO": "2026-10-12T06:30:07.228Z",
+        "endTs": "1:42:20"
       },
       "body": "Commission on Persons with Disabilities"
     },
@@ -38,7 +47,8 @@
         "type": "meeting",
         "videoId": "sY6AwUuHzjI",
         "ts": "1:35:30",
-        "retrievedISO": "2026-10-12T06:30:07.228Z"
+        "retrievedISO": "2026-10-12T06:30:07.228Z",
+        "endTs": "1:36:00"
       },
       "body": "Commission on Persons with Disabilities"
     },
@@ -50,7 +60,8 @@
         "type": "meeting",
         "videoId": "sY6AwUuHzjI",
         "ts": "1:34:29",
-        "retrievedISO": "2026-10-12T06:30:07.228Z"
+        "retrievedISO": "2026-10-12T06:30:07.228Z",
+        "endTs": "1:35:39"
       },
       "body": "Commission on Persons with Disabilities"
     },
@@ -62,7 +73,8 @@
         "type": "meeting",
         "videoId": "sY6AwUuHzjI",
         "ts": "1:33:13",
-        "retrievedISO": "2026-10-12T06:30:07.228Z"
+        "retrievedISO": "2026-10-12T06:30:07.228Z",
+        "endTs": "1:34:20"
       },
       "body": "Commission on Persons with Disabilities"
     },
@@ -74,7 +86,8 @@
         "type": "meeting",
         "videoId": "sY6AwUuHzjI",
         "ts": "1:29:48",
-        "retrievedISO": "2026-10-12T06:30:07.228Z"
+        "retrievedISO": "2026-10-12T06:30:07.228Z",
+        "endTs": "1:30:50"
       },
       "body": "Commission on Persons with Disabilities"
     },
@@ -86,7 +99,8 @@
         "type": "meeting",
         "videoId": "sY6AwUuHzjI",
         "ts": "1:29:30",
-        "retrievedISO": "2026-10-12T06:30:07.228Z"
+        "retrievedISO": "2026-10-12T06:30:07.228Z",
+        "endTs": "1:30:01"
       },
       "body": "Commission on Persons with Disabilities"
     },
@@ -98,7 +112,8 @@
         "type": "meeting",
         "videoId": "4m34BcHhzUs",
         "ts": "1:07:46",
-        "retrievedISO": "2026-10-13T06:35:17.645Z"
+        "retrievedISO": "2026-10-13T06:35:17.645Z",
+        "endTs": "1:08:25"
       }
     },
     {
@@ -109,7 +124,8 @@
         "type": "meeting",
         "videoId": "4m34BcHhzUs",
         "ts": "1:07:22",
-        "retrievedISO": "2026-10-13T06:35:17.645Z"
+        "retrievedISO": "2026-10-13T06:35:17.645Z",
+        "endTs": "1:07:52"
       }
     },
     {
@@ -120,7 +136,8 @@
         "type": "meeting",
         "videoId": "4m34BcHhzUs",
         "ts": "1:07:00",
-        "retrievedISO": "2026-10-13T06:35:17.645Z"
+        "retrievedISO": "2026-10-13T06:35:17.645Z",
+        "endTs": "1:07:37"
       }
     },
     {
@@ -131,7 +148,8 @@
         "type": "meeting",
         "videoId": "4m34BcHhzUs",
         "ts": "1:06:25",
-        "retrievedISO": "2026-10-13T06:35:17.645Z"
+        "retrievedISO": "2026-10-13T06:35:17.645Z",
+        "endTs": "1:06:55"
       }
     },
     {
@@ -142,7 +160,8 @@
         "type": "meeting",
         "videoId": "4m34BcHhzUs",
         "ts": "1:04:58",
-        "retrievedISO": "2026-10-13T06:35:17.645Z"
+        "retrievedISO": "2026-10-13T06:35:17.645Z",
+        "endTs": "1:05:28"
       }
     },
     {
@@ -153,7 +172,8 @@
         "type": "meeting",
         "videoId": "4m34BcHhzUs",
         "ts": "1:04:32",
-        "retrievedISO": "2026-10-13T06:35:17.645Z"
+        "retrievedISO": "2026-10-13T06:35:17.645Z",
+        "endTs": "1:05:11"
       }
     }
   ],

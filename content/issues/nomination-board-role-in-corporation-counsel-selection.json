@@ -5,7 +5,7 @@
   "topics": [
     "government"
   ],
-  "status": "quiet",
+  "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-07-13",
   "lastSeenISO": "2026-07-13",
@@ -16,6 +16,14 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-25",
+  "boards": [
+    {
+      "name": "Independent Nomination Board",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-07-13",
@@ -25,7 +33,8 @@
         "type": "meeting",
         "videoId": "DN-bXIWkS7E",
         "ts": "0:32:45",
-        "retrievedISO": "2026-10-13T06:35:15.675Z"
+        "retrievedISO": "2026-10-13T06:35:15.675Z",
+        "endTs": "0:33:15"
       },
       "body": "Independent Nomination Board"
     },
@@ -37,7 +46,8 @@
         "type": "meeting",
         "videoId": "DN-bXIWkS7E",
         "ts": "0:31:16",
-        "retrievedISO": "2026-10-13T06:35:15.675Z"
+        "retrievedISO": "2026-10-13T06:35:15.675Z",
+        "endTs": "0:31:46"
       },
       "body": "Independent Nomination Board"
     },
@@ -49,7 +59,8 @@
         "type": "meeting",
         "videoId": "DN-bXIWkS7E",
         "ts": "0:19:29",
-        "retrievedISO": "2026-10-13T06:35:15.675Z"
+        "retrievedISO": "2026-10-13T06:35:15.675Z",
+        "endTs": "0:20:03"
       },
       "body": "Independent Nomination Board"
     },
@@ -61,7 +72,8 @@
         "type": "meeting",
         "videoId": "DN-bXIWkS7E",
         "ts": "0:13:09",
-        "retrievedISO": "2026-10-13T06:35:15.675Z"
+        "retrievedISO": "2026-10-13T06:35:15.675Z",
+        "endTs": "0:13:39"
       },
       "body": "Independent Nomination Board"
     },
@@ -73,7 +85,8 @@
         "type": "meeting",
         "videoId": "DN-bXIWkS7E",
         "ts": "0:12:35",
-        "retrievedISO": "2026-10-13T06:35:15.675Z"
+        "retrievedISO": "2026-10-13T06:35:15.675Z",
+        "endTs": "0:13:05"
       },
       "body": "Independent Nomination Board"
     }

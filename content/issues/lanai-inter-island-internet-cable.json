@@ -6,7 +6,7 @@
     "economy",
     "land-use"
   ],
-  "status": "quiet",
+  "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-08-19",
   "lastSeenISO": "2026-08-19",
@@ -17,6 +17,14 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-25",
+  "boards": [
+    {
+      "name": "Lānaʻi Planning Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-08-19",
@@ -26,7 +34,8 @@
         "type": "meeting",
         "videoId": "Z4fnObg2c0I",
         "ts": "1:00:24",
-        "retrievedISO": "2026-10-12T06:30:03.060Z"
+        "retrievedISO": "2026-10-12T06:30:03.060Z",
+        "endTs": "1:01:05"
       },
       "body": "Lānaʻi Planning Commission"
     },
@@ -38,7 +47,8 @@
         "type": "meeting",
         "videoId": "Z4fnObg2c0I",
         "ts": "0:47:06",
-        "retrievedISO": "2026-10-12T06:30:03.060Z"
+        "retrievedISO": "2026-10-12T06:30:03.060Z",
+        "endTs": "0:47:36"
       },
       "body": "Lānaʻi Planning Commission"
     },
@@ -50,7 +60,8 @@
         "type": "meeting",
         "videoId": "Z4fnObg2c0I",
         "ts": "0:39:24",
-        "retrievedISO": "2026-10-12T06:30:03.060Z"
+        "retrievedISO": "2026-10-12T06:30:03.060Z",
+        "endTs": "0:40:33"
       },
       "body": "Lānaʻi Planning Commission"
     },
@@ -62,7 +73,8 @@
         "type": "meeting",
         "videoId": "Z4fnObg2c0I",
         "ts": "0:32:29",
-        "retrievedISO": "2026-10-12T06:30:03.060Z"
+        "retrievedISO": "2026-10-12T06:30:03.060Z",
+        "endTs": "0:32:59"
       },
       "body": "Lānaʻi Planning Commission"
     },
@@ -74,7 +86,8 @@
         "type": "meeting",
         "videoId": "Z4fnObg2c0I",
         "ts": "0:29:05",
-        "retrievedISO": "2026-10-12T06:30:03.060Z"
+        "retrievedISO": "2026-10-12T06:30:03.060Z",
+        "endTs": "0:29:35"
       },
       "body": "Lānaʻi Planning Commission"
     },
@@ -86,7 +99,8 @@
         "type": "meeting",
         "videoId": "Z4fnObg2c0I",
         "ts": "0:21:14",
-        "retrievedISO": "2026-10-12T06:30:03.060Z"
+        "retrievedISO": "2026-10-12T06:30:03.060Z",
+        "endTs": "0:21:44"
       },
       "body": "Lānaʻi Planning Commission"
     },
@@ -98,7 +112,8 @@
         "type": "meeting",
         "videoId": "Z4fnObg2c0I",
         "ts": "0:17:47",
-        "retrievedISO": "2026-10-12T06:30:03.060Z"
+        "retrievedISO": "2026-10-12T06:30:03.060Z",
+        "endTs": "0:18:17"
       },
       "body": "Lānaʻi Planning Commission"
     },
@@ -110,7 +125,8 @@
         "type": "meeting",
         "videoId": "Z4fnObg2c0I",
         "ts": "0:17:41",
-        "retrievedISO": "2026-10-12T06:30:03.060Z"
+        "retrievedISO": "2026-10-12T06:30:03.060Z",
+        "endTs": "0:18:11"
       },
       "body": "Lānaʻi Planning Commission"
     }

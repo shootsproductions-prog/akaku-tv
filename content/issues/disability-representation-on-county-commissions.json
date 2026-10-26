@@ -6,7 +6,7 @@
     "government",
     "health"
   ],
-  "status": "quiet",
+  "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-07-09",
   "lastSeenISO": "2026-08-13",
@@ -17,6 +17,14 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-25",
+  "boards": [
+    {
+      "name": "Commission on Persons with Disabilities",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-08-13",
@@ -26,7 +34,8 @@
         "type": "meeting",
         "videoId": "sY6AwUuHzjI",
         "ts": "0:44:50",
-        "retrievedISO": "2026-10-12T06:30:07.228Z"
+        "retrievedISO": "2026-10-12T06:30:07.228Z",
+        "endTs": "0:45:27"
       },
       "body": "Commission on Persons with Disabilities"
     },
@@ -38,7 +47,8 @@
         "type": "meeting",
         "videoId": "4m34BcHhzUs",
         "ts": "1:26:15",
-        "retrievedISO": "2026-10-13T06:35:17.645Z"
+        "retrievedISO": "2026-10-13T06:35:17.645Z",
+        "endTs": "1:26:48"
       }
     }
   ],

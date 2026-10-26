@@ -6,7 +6,7 @@
     "land-use",
     "environment"
   ],
-  "status": "quiet",
+  "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-06-23",
   "lastSeenISO": "2026-07-14",
@@ -284,7 +284,7 @@
     },
     {
       "dateISO": "2026-06-23",
-      "text": "Leach outdoor shower would drain through a swale to a grass drainage basin.",
+      "text": "Each outdoor shower would drain through a swale to a grass drainage basin.",
       "basis": "said-at-meeting",
       "source": {
         "type": "meeting",

@@ -5,7 +5,7 @@
   "topics": [
     "environment"
   ],
-  "status": "quiet",
+  "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-07-08",
   "lastSeenISO": "2026-07-08",
@@ -16,6 +16,14 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-25",
+  "boards": [
+    {
+      "name": "Maui Arborist Committee",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-07-08",
@@ -25,7 +33,8 @@
         "type": "meeting",
         "videoId": "Rhz4ecFDSAM",
         "ts": "0:14:39",
-        "retrievedISO": "2026-10-13T06:35:20.466Z"
+        "retrievedISO": "2026-10-13T06:35:20.466Z",
+        "endTs": "0:15:09"
       },
       "body": "Maui Arborist Committee"
     },
@@ -37,7 +46,8 @@
         "type": "meeting",
         "videoId": "Rhz4ecFDSAM",
         "ts": "0:13:46",
-        "retrievedISO": "2026-10-13T06:35:20.466Z"
+        "retrievedISO": "2026-10-13T06:35:20.466Z",
+        "endTs": "0:14:25"
       },
       "body": "Maui Arborist Committee"
     },
@@ -49,7 +59,8 @@
         "type": "meeting",
         "videoId": "Rhz4ecFDSAM",
         "ts": "0:01:40",
-        "retrievedISO": "2026-10-13T06:35:20.466Z"
+        "retrievedISO": "2026-10-13T06:35:20.466Z",
+        "endTs": "0:02:23"
       },
       "body": "Maui Arborist Committee"
     }

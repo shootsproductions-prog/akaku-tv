@@ -7,7 +7,7 @@
     "disaster-recovery",
     "health"
   ],
-  "status": "quiet",
+  "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-08-13",
   "lastSeenISO": "2026-08-13",
@@ -18,6 +18,14 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-25",
+  "boards": [
+    {
+      "name": "Commission on Persons with Disabilities",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-08-13",
@@ -27,7 +35,8 @@
         "type": "meeting",
         "videoId": "sY6AwUuHzjI",
         "ts": "1:57:52",
-        "retrievedISO": "2026-10-12T06:30:07.228Z"
+        "retrievedISO": "2026-10-12T06:30:07.228Z",
+        "endTs": "1:58:22"
       },
       "body": "Commission on Persons with Disabilities"
     },
@@ -39,7 +48,8 @@
         "type": "meeting",
         "videoId": "sY6AwUuHzjI",
         "ts": "1:50:26",
-        "retrievedISO": "2026-10-12T06:30:07.228Z"
+        "retrievedISO": "2026-10-12T06:30:07.228Z",
+        "endTs": "1:50:57"
       },
       "body": "Commission on Persons with Disabilities"
     },
@@ -51,7 +61,8 @@
         "type": "meeting",
         "videoId": "sY6AwUuHzjI",
         "ts": "1:49:35",
-        "retrievedISO": "2026-10-12T06:30:07.228Z"
+        "retrievedISO": "2026-10-12T06:30:07.228Z",
+        "endTs": "1:50:05"
       },
       "body": "Commission on Persons with Disabilities"
     },
@@ -63,7 +74,8 @@
         "type": "meeting",
         "videoId": "sY6AwUuHzjI",
         "ts": "1:48:38",
-        "retrievedISO": "2026-10-12T06:30:07.228Z"
+        "retrievedISO": "2026-10-12T06:30:07.228Z",
+        "endTs": "1:49:30"
       },
       "body": "Commission on Persons with Disabilities"
     }

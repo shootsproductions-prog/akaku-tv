@@ -6,7 +6,7 @@
     "government",
     "land-use"
   ],
-  "status": "quiet",
+  "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-05-20",
   "lastSeenISO": "2026-08-19",
@@ -26,6 +26,14 @@
     }
   },
   "asOfISO": "2026-10-25",
+  "boards": [
+    {
+      "name": "Lānaʻi Planning Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-08-19",
@@ -35,7 +43,8 @@
         "type": "meeting",
         "videoId": "Z4fnObg2c0I",
         "ts": "1:09:13",
-        "retrievedISO": "2026-10-12T06:30:03.060Z"
+        "retrievedISO": "2026-10-12T06:30:03.060Z",
+        "endTs": "1:09:51"
       },
       "body": "Lānaʻi Planning Commission"
     },
@@ -47,7 +56,8 @@
         "type": "meeting",
         "videoId": "gmpZbZbCHi4",
         "ts": "2:12:43",
-        "retrievedISO": "2026-10-15T06:35:01.650Z"
+        "retrievedISO": "2026-10-15T06:35:01.650Z",
+        "endTs": "2:13:20"
       },
       "body": "Lānaʻi Planning Commission"
     }

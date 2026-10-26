@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T08:16:10.882Z",
+  "updatedAt": "2026-10-26T08:18:09.757Z",
   "count": 99,
   "issues": [
     {
@@ -306,7 +306,7 @@
         "water",
         "disaster-recovery"
       ],
-      "status": "quiet",
+      "status": "active",
       "pinned": false,
       "firstSeenISO": "2024-10-09",
       "lastSeenISO": "2026-10-21",
@@ -3808,7 +3808,7 @@
         "culture",
         "disaster-recovery"
       ],
-      "status": "quiet",
+      "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-08-06",
       "lastSeenISO": "2026-08-30",
@@ -4227,7 +4227,7 @@
         "housing",
         "health"
       ],
-      "status": "quiet",
+      "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-07-09",
       "lastSeenISO": "2026-08-13",
@@ -4238,6 +4238,14 @@
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Commission on Persons with Disabilities",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
       "timeline": [
         {
           "dateISO": "2026-08-13",
@@ -4247,7 +4255,8 @@
             "type": "meeting",
             "videoId": "sY6AwUuHzjI",
             "ts": "1:41:49",
-            "retrievedISO": "2026-10-12T06:30:07.228Z"
+            "retrievedISO": "2026-10-12T06:30:07.228Z",
+            "endTs": "1:42:20"
           },
           "body": "Commission on Persons with Disabilities"
         },
@@ -4259,7 +4268,8 @@
             "type": "meeting",
             "videoId": "sY6AwUuHzjI",
             "ts": "1:35:30",
-            "retrievedISO": "2026-10-12T06:30:07.228Z"
+            "retrievedISO": "2026-10-12T06:30:07.228Z",
+            "endTs": "1:36:00"
           },
           "body": "Commission on Persons with Disabilities"
         },
@@ -4271,7 +4281,8 @@
             "type": "meeting",
             "videoId": "sY6AwUuHzjI",
             "ts": "1:34:29",
-            "retrievedISO": "2026-10-12T06:30:07.228Z"
+            "retrievedISO": "2026-10-12T06:30:07.228Z",
+            "endTs": "1:35:39"
           },
           "body": "Commission on Persons with Disabilities"
         },
@@ -4283,7 +4294,8 @@
             "type": "meeting",
             "videoId": "sY6AwUuHzjI",
             "ts": "1:33:13",
-            "retrievedISO": "2026-10-12T06:30:07.228Z"
+            "retrievedISO": "2026-10-12T06:30:07.228Z",
+            "endTs": "1:34:20"
           },
           "body": "Commission on Persons with Disabilities"
         },
@@ -4295,7 +4307,8 @@
             "type": "meeting",
             "videoId": "sY6AwUuHzjI",
             "ts": "1:29:48",
-            "retrievedISO": "2026-10-12T06:30:07.228Z"
+            "retrievedISO": "2026-10-12T06:30:07.228Z",
+            "endTs": "1:30:50"
           },
           "body": "Commission on Persons with Disabilities"
         },
@@ -4307,7 +4320,8 @@
             "type": "meeting",
             "videoId": "sY6AwUuHzjI",
             "ts": "1:29:30",
-            "retrievedISO": "2026-10-12T06:30:07.228Z"
+            "retrievedISO": "2026-10-12T06:30:07.228Z",
+            "endTs": "1:30:01"
           },
           "body": "Commission on Persons with Disabilities"
         },
@@ -4319,7 +4333,8 @@
             "type": "meeting",
             "videoId": "4m34BcHhzUs",
             "ts": "1:07:46",
-            "retrievedISO": "2026-10-13T06:35:17.645Z"
+            "retrievedISO": "2026-10-13T06:35:17.645Z",
+            "endTs": "1:08:25"
           }
         },
         {
@@ -4330,7 +4345,8 @@
             "type": "meeting",
             "videoId": "4m34BcHhzUs",
             "ts": "1:07:22",
-            "retrievedISO": "2026-10-13T06:35:17.645Z"
+            "retrievedISO": "2026-10-13T06:35:17.645Z",
+            "endTs": "1:07:52"
           }
         },
         {
@@ -4341,7 +4357,8 @@
             "type": "meeting",
             "videoId": "4m34BcHhzUs",
             "ts": "1:07:00",
-            "retrievedISO": "2026-10-13T06:35:17.645Z"
+            "retrievedISO": "2026-10-13T06:35:17.645Z",
+            "endTs": "1:07:37"
           }
         },
         {
@@ -4352,7 +4369,8 @@
             "type": "meeting",
             "videoId": "4m34BcHhzUs",
             "ts": "1:06:25",
-            "retrievedISO": "2026-10-13T06:35:17.645Z"
+            "retrievedISO": "2026-10-13T06:35:17.645Z",
+            "endTs": "1:06:55"
           }
         },
         {
@@ -4363,7 +4381,8 @@
             "type": "meeting",
             "videoId": "4m34BcHhzUs",
             "ts": "1:04:58",
-            "retrievedISO": "2026-10-13T06:35:17.645Z"
+            "retrievedISO": "2026-10-13T06:35:17.645Z",
+            "endTs": "1:05:28"
           }
         },
         {
@@ -4374,7 +4393,8 @@
             "type": "meeting",
             "videoId": "4m34BcHhzUs",
             "ts": "1:04:32",
-            "retrievedISO": "2026-10-13T06:35:17.645Z"
+            "retrievedISO": "2026-10-13T06:35:17.645Z",
+            "endTs": "1:05:11"
           }
         }
       ],
@@ -5536,7 +5556,7 @@
         "housing",
         "government"
       ],
-      "status": "quiet",
+      "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-08-13",
       "lastSeenISO": "2026-08-13",
@@ -5547,6 +5567,14 @@
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Cost of Government Commission",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
       "timeline": [
         {
           "dateISO": "2026-08-13",
@@ -5556,7 +5584,8 @@
             "type": "meeting",
             "videoId": "mEoIJx_G1XQ",
             "ts": "1:52:02",
-            "retrievedISO": "2026-10-12T06:30:06.096Z"
+            "retrievedISO": "2026-10-12T06:30:06.096Z",
+            "endTs": "1:52:33"
           },
           "body": "Cost of Government Commission"
         },
@@ -5568,7 +5597,8 @@
             "type": "meeting",
             "videoId": "mEoIJx_G1XQ",
             "ts": "1:51:59",
-            "retrievedISO": "2026-10-12T06:30:06.096Z"
+            "retrievedISO": "2026-10-12T06:30:06.096Z",
+            "endTs": "1:52:33"
           },
           "body": "Cost of Government Commission"
         },
@@ -5580,7 +5610,8 @@
             "type": "meeting",
             "videoId": "mEoIJx_G1XQ",
             "ts": "1:51:56",
-            "retrievedISO": "2026-10-12T06:30:06.096Z"
+            "retrievedISO": "2026-10-12T06:30:06.096Z",
+            "endTs": "1:52:33"
           },
           "body": "Cost of Government Commission"
         },
@@ -5592,7 +5623,8 @@
             "type": "meeting",
             "videoId": "mEoIJx_G1XQ",
             "ts": "1:48:36",
-            "retrievedISO": "2026-10-12T06:30:06.096Z"
+            "retrievedISO": "2026-10-12T06:30:06.096Z",
+            "endTs": "1:49:11"
           },
           "body": "Cost of Government Commission"
         },
@@ -5604,7 +5636,8 @@
             "type": "meeting",
             "videoId": "mEoIJx_G1XQ",
             "ts": "1:44:41",
-            "retrievedISO": "2026-10-12T06:30:06.096Z"
+            "retrievedISO": "2026-10-12T06:30:06.096Z",
+            "endTs": "1:45:11"
           },
           "body": "Cost of Government Commission"
         },
@@ -5616,7 +5649,8 @@
             "type": "meeting",
             "videoId": "mEoIJx_G1XQ",
             "ts": "1:37:37",
-            "retrievedISO": "2026-10-12T06:30:06.096Z"
+            "retrievedISO": "2026-10-12T06:30:06.096Z",
+            "endTs": "1:38:22"
           },
           "body": "Cost of Government Commission"
         },
@@ -5628,7 +5662,8 @@
             "type": "meeting",
             "videoId": "mEoIJx_G1XQ",
             "ts": "1:30:22",
-            "retrievedISO": "2026-10-12T06:30:06.096Z"
+            "retrievedISO": "2026-10-12T06:30:06.096Z",
+            "endTs": "1:30:52"
           },
           "body": "Cost of Government Commission"
         },
@@ -5640,7 +5675,8 @@
             "type": "meeting",
             "videoId": "mEoIJx_G1XQ",
             "ts": "1:27:55",
-            "retrievedISO": "2026-10-12T06:30:06.096Z"
+            "retrievedISO": "2026-10-12T06:30:06.096Z",
+            "endTs": "1:28:29"
           },
           "body": "Cost of Government Commission"
         }
@@ -5707,7 +5743,7 @@
         "land-use",
         "health"
       ],
-      "status": "quiet",
+      "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-07-14",
       "lastSeenISO": "2026-08-13",
@@ -5718,6 +5754,19 @@
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Commission on Persons with Disabilities",
+          "group": "board",
+          "short": []
+        },
+        {
+          "name": "Maui Planning Commission",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
       "timeline": [
         {
           "dateISO": "2026-08-13",
@@ -5727,7 +5776,8 @@
             "type": "meeting",
             "videoId": "sY6AwUuHzjI",
             "ts": "0:15:03",
-            "retrievedISO": "2026-10-12T06:30:07.228Z"
+            "retrievedISO": "2026-10-12T06:30:07.228Z",
+            "endTs": "0:15:34"
           },
           "body": "Commission on Persons with Disabilities"
         },
@@ -5739,7 +5789,8 @@
             "type": "meeting",
             "videoId": "Ail920zTE4c",
             "ts": "3:25:37",
-            "retrievedISO": "2026-10-13T06:35:14.575Z"
+            "retrievedISO": "2026-10-13T06:35:14.575Z",
+            "endTs": "3:26:15"
           },
           "body": "Maui Planning Commission"
         }
@@ -5868,7 +5919,7 @@
         "government",
         "health"
       ],
-      "status": "quiet",
+      "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-07-09",
       "lastSeenISO": "2026-08-13",
@@ -5879,6 +5930,14 @@
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Commission on Persons with Disabilities",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
       "timeline": [
         {
           "dateISO": "2026-08-13",
@@ -5888,7 +5947,8 @@
             "type": "meeting",
             "videoId": "sY6AwUuHzjI",
             "ts": "0:44:50",
-            "retrievedISO": "2026-10-12T06:30:07.228Z"
+            "retrievedISO": "2026-10-12T06:30:07.228Z",
+            "endTs": "0:45:27"
           },
           "body": "Commission on Persons with Disabilities"
         },
@@ -5900,7 +5960,8 @@
             "type": "meeting",
             "videoId": "4m34BcHhzUs",
             "ts": "1:26:15",
-            "retrievedISO": "2026-10-13T06:35:17.645Z"
+            "retrievedISO": "2026-10-13T06:35:17.645Z",
+            "endTs": "1:26:48"
           }
         }
       ],
@@ -5918,7 +5979,7 @@
         "disaster-recovery",
         "health"
       ],
-      "status": "quiet",
+      "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-08-13",
       "lastSeenISO": "2026-08-13",
@@ -5929,6 +5990,14 @@
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Commission on Persons with Disabilities",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
       "timeline": [
         {
           "dateISO": "2026-08-13",
@@ -5938,7 +6007,8 @@
             "type": "meeting",
             "videoId": "sY6AwUuHzjI",
             "ts": "1:57:52",
-            "retrievedISO": "2026-10-12T06:30:07.228Z"
+            "retrievedISO": "2026-10-12T06:30:07.228Z",
+            "endTs": "1:58:22"
           },
           "body": "Commission on Persons with Disabilities"
         },
@@ -5950,7 +6020,8 @@
             "type": "meeting",
             "videoId": "sY6AwUuHzjI",
             "ts": "1:50:26",
-            "retrievedISO": "2026-10-12T06:30:07.228Z"
+            "retrievedISO": "2026-10-12T06:30:07.228Z",
+            "endTs": "1:50:57"
           },
           "body": "Commission on Persons with Disabilities"
         },
@@ -5962,7 +6033,8 @@
             "type": "meeting",
             "videoId": "sY6AwUuHzjI",
             "ts": "1:49:35",
-            "retrievedISO": "2026-10-12T06:30:07.228Z"
+            "retrievedISO": "2026-10-12T06:30:07.228Z",
+            "endTs": "1:50:05"
           },
           "body": "Commission on Persons with Disabilities"
         },
@@ -5974,7 +6046,8 @@
             "type": "meeting",
             "videoId": "sY6AwUuHzjI",
             "ts": "1:48:38",
-            "retrievedISO": "2026-10-12T06:30:07.228Z"
+            "retrievedISO": "2026-10-12T06:30:07.228Z",
+            "endTs": "1:49:30"
           },
           "body": "Commission on Persons with Disabilities"
         }
@@ -7553,7 +7626,7 @@
         "government",
         "environment"
       ],
-      "status": "quiet",
+      "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-06-24",
       "lastSeenISO": "2026-07-07",
@@ -7671,7 +7744,7 @@
       "topics": [
         "public-safety"
       ],
-      "status": "quiet",
+      "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-08-19",
       "lastSeenISO": "2026-08-19",
@@ -7682,6 +7755,14 @@
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Police Commission",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
       "timeline": [
         {
           "dateISO": "2026-08-19",
@@ -7691,7 +7772,8 @@
             "type": "meeting",
             "videoId": "ic0yx8fVvEE",
             "ts": "0:10:28",
-            "retrievedISO": "2026-10-12T06:30:04.199Z"
+            "retrievedISO": "2026-10-12T06:30:04.199Z",
+            "endTs": "0:10:58"
           },
           "body": "Police Commission"
         },
@@ -7703,7 +7785,8 @@
             "type": "meeting",
             "videoId": "ic0yx8fVvEE",
             "ts": "0:10:15",
-            "retrievedISO": "2026-10-12T06:30:04.199Z"
+            "retrievedISO": "2026-10-12T06:30:04.199Z",
+            "endTs": "0:10:45"
           },
           "body": "Police Commission"
         }
@@ -8323,7 +8406,7 @@
         "land-use",
         "government"
       ],
-      "status": "quiet",
+      "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-07-15",
       "lastSeenISO": "2026-08-19",
@@ -8371,7 +8454,7 @@
         },
         {
           "dateISO": "2026-07-15",
-          "text": "Leong-range planning staff said an update of the Lānaʻi community plan is a while away.",
+          "text": "Long-range planning staff said an update of the Lānaʻi community plan is a while away.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
@@ -8469,7 +8552,7 @@
         "economy",
         "land-use"
       ],
-      "status": "quiet",
+      "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-08-19",
       "lastSeenISO": "2026-08-19",
@@ -8480,6 +8563,14 @@
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Lānaʻi Planning Commission",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
       "timeline": [
         {
           "dateISO": "2026-08-19",
@@ -8489,7 +8580,8 @@
             "type": "meeting",
             "videoId": "Z4fnObg2c0I",
             "ts": "1:00:24",
-            "retrievedISO": "2026-10-12T06:30:03.060Z"
+            "retrievedISO": "2026-10-12T06:30:03.060Z",
+            "endTs": "1:01:05"
           },
           "body": "Lānaʻi Planning Commission"
         },
@@ -8501,7 +8593,8 @@
             "type": "meeting",
             "videoId": "Z4fnObg2c0I",
             "ts": "0:47:06",
-            "retrievedISO": "2026-10-12T06:30:03.060Z"
+            "retrievedISO": "2026-10-12T06:30:03.060Z",
+            "endTs": "0:47:36"
           },
           "body": "Lānaʻi Planning Commission"
         },
@@ -8513,7 +8606,8 @@
             "type": "meeting",
             "videoId": "Z4fnObg2c0I",
             "ts": "0:39:24",
-            "retrievedISO": "2026-10-12T06:30:03.060Z"
+            "retrievedISO": "2026-10-12T06:30:03.060Z",
+            "endTs": "0:40:33"
           },
           "body": "Lānaʻi Planning Commission"
         },
@@ -8525,7 +8619,8 @@
             "type": "meeting",
             "videoId": "Z4fnObg2c0I",
             "ts": "0:32:29",
-            "retrievedISO": "2026-10-12T06:30:03.060Z"
+            "retrievedISO": "2026-10-12T06:30:03.060Z",
+            "endTs": "0:32:59"
           },
           "body": "Lānaʻi Planning Commission"
         },
@@ -8537,7 +8632,8 @@
             "type": "meeting",
             "videoId": "Z4fnObg2c0I",
             "ts": "0:29:05",
-            "retrievedISO": "2026-10-12T06:30:03.060Z"
+            "retrievedISO": "2026-10-12T06:30:03.060Z",
+            "endTs": "0:29:35"
           },
           "body": "Lānaʻi Planning Commission"
         },
@@ -8549,7 +8645,8 @@
             "type": "meeting",
             "videoId": "Z4fnObg2c0I",
             "ts": "0:21:14",
-            "retrievedISO": "2026-10-12T06:30:03.060Z"
+            "retrievedISO": "2026-10-12T06:30:03.060Z",
+            "endTs": "0:21:44"
           },
           "body": "Lānaʻi Planning Commission"
         },
@@ -8561,7 +8658,8 @@
             "type": "meeting",
             "videoId": "Z4fnObg2c0I",
             "ts": "0:17:47",
-            "retrievedISO": "2026-10-12T06:30:03.060Z"
+            "retrievedISO": "2026-10-12T06:30:03.060Z",
+            "endTs": "0:18:17"
           },
           "body": "Lānaʻi Planning Commission"
         },
@@ -8573,7 +8671,8 @@
             "type": "meeting",
             "videoId": "Z4fnObg2c0I",
             "ts": "0:17:41",
-            "retrievedISO": "2026-10-12T06:30:03.060Z"
+            "retrievedISO": "2026-10-12T06:30:03.060Z",
+            "endTs": "0:18:11"
           },
           "body": "Lānaʻi Planning Commission"
         }
@@ -9100,7 +9199,7 @@
         "housing",
         "water"
       ],
-      "status": "quiet",
+      "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-08-11",
       "lastSeenISO": "2026-08-11",
@@ -9111,6 +9210,14 @@
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Maui Planning Commission",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
       "timeline": [
         {
           "dateISO": "2026-08-11",
@@ -9120,7 +9227,8 @@
             "type": "meeting",
             "videoId": "tpJYo1iZdE4",
             "ts": "6:26:36",
-            "retrievedISO": "2026-10-12T06:30:08.220Z"
+            "retrievedISO": "2026-10-12T06:30:08.220Z",
+            "endTs": "6:27:14"
           },
           "body": "Maui Planning Commission"
         },
@@ -9132,7 +9240,8 @@
             "type": "meeting",
             "videoId": "tpJYo1iZdE4",
             "ts": "5:42:02",
-            "retrievedISO": "2026-10-12T06:30:08.220Z"
+            "retrievedISO": "2026-10-12T06:30:08.220Z",
+            "endTs": "5:42:32"
           },
           "body": "Maui Planning Commission"
         },
@@ -9144,7 +9253,8 @@
             "type": "meeting",
             "videoId": "tpJYo1iZdE4",
             "ts": "4:54:43",
-            "retrievedISO": "2026-10-12T06:30:08.220Z"
+            "retrievedISO": "2026-10-12T06:30:08.220Z",
+            "endTs": "4:55:13"
           },
           "body": "Maui Planning Commission"
         },
@@ -9156,7 +9266,8 @@
             "type": "meeting",
             "videoId": "tpJYo1iZdE4",
             "ts": "4:42:41",
-            "retrievedISO": "2026-10-12T06:30:08.220Z"
+            "retrievedISO": "2026-10-12T06:30:08.220Z",
+            "endTs": "4:43:11"
           },
           "body": "Maui Planning Commission"
         },
@@ -9168,7 +9279,8 @@
             "type": "meeting",
             "videoId": "tpJYo1iZdE4",
             "ts": "4:28:32",
-            "retrievedISO": "2026-10-12T06:30:08.220Z"
+            "retrievedISO": "2026-10-12T06:30:08.220Z",
+            "endTs": "4:29:03"
           },
           "body": "Maui Planning Commission"
         },
@@ -9180,7 +9292,8 @@
             "type": "meeting",
             "videoId": "tpJYo1iZdE4",
             "ts": "3:53:11",
-            "retrievedISO": "2026-10-12T06:30:08.220Z"
+            "retrievedISO": "2026-10-12T06:30:08.220Z",
+            "endTs": "3:53:41"
           },
           "body": "Maui Planning Commission"
         },
@@ -9192,7 +9305,8 @@
             "type": "meeting",
             "videoId": "tpJYo1iZdE4",
             "ts": "3:44:46",
-            "retrievedISO": "2026-10-12T06:30:08.220Z"
+            "retrievedISO": "2026-10-12T06:30:08.220Z",
+            "endTs": "3:45:43"
           },
           "body": "Maui Planning Commission"
         },
@@ -9204,7 +9318,8 @@
             "type": "meeting",
             "videoId": "tpJYo1iZdE4",
             "ts": "3:33:01",
-            "retrievedISO": "2026-10-12T06:30:08.220Z"
+            "retrievedISO": "2026-10-12T06:30:08.220Z",
+            "endTs": "3:33:31"
           },
           "body": "Maui Planning Commission"
         },
@@ -9216,7 +9331,8 @@
             "type": "meeting",
             "videoId": "tpJYo1iZdE4",
             "ts": "3:23:07",
-            "retrievedISO": "2026-10-12T06:30:08.220Z"
+            "retrievedISO": "2026-10-12T06:30:08.220Z",
+            "endTs": "3:23:37"
           },
           "body": "Maui Planning Commission"
         },
@@ -9228,7 +9344,8 @@
             "type": "meeting",
             "videoId": "tpJYo1iZdE4",
             "ts": "3:21:59",
-            "retrievedISO": "2026-10-12T06:30:08.220Z"
+            "retrievedISO": "2026-10-12T06:30:08.220Z",
+            "endTs": "3:22:31"
           },
           "body": "Maui Planning Commission"
         },
@@ -9240,7 +9357,8 @@
             "type": "meeting",
             "videoId": "tpJYo1iZdE4",
             "ts": "3:21:53",
-            "retrievedISO": "2026-10-12T06:30:08.220Z"
+            "retrievedISO": "2026-10-12T06:30:08.220Z",
+            "endTs": "3:23:05"
           },
           "body": "Maui Planning Commission"
         },
@@ -9252,7 +9370,8 @@
             "type": "meeting",
             "videoId": "tpJYo1iZdE4",
             "ts": "3:13:25",
-            "retrievedISO": "2026-10-12T06:30:08.220Z"
+            "retrievedISO": "2026-10-12T06:30:08.220Z",
+            "endTs": "3:13:55"
           },
           "body": "Maui Planning Commission"
         },
@@ -9264,7 +9383,8 @@
             "type": "meeting",
             "videoId": "tpJYo1iZdE4",
             "ts": "3:06:38",
-            "retrievedISO": "2026-10-12T06:30:08.220Z"
+            "retrievedISO": "2026-10-12T06:30:08.220Z",
+            "endTs": "3:07:08"
           },
           "body": "Maui Planning Commission"
         },
@@ -9276,7 +9396,8 @@
             "type": "meeting",
             "videoId": "tpJYo1iZdE4",
             "ts": "3:02:18",
-            "retrievedISO": "2026-10-12T06:30:08.220Z"
+            "retrievedISO": "2026-10-12T06:30:08.220Z",
+            "endTs": "3:02:50"
           },
           "body": "Maui Planning Commission"
         }
@@ -9294,7 +9415,7 @@
         "land-use",
         "environment"
       ],
-      "status": "quiet",
+      "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-06-23",
       "lastSeenISO": "2026-07-14",
@@ -9572,7 +9693,7 @@
         },
         {
           "dateISO": "2026-06-23",
-          "text": "Leach outdoor shower would drain through a swale to a grass drainage basin.",
+          "text": "Each outdoor shower would drain through a swale to a grass drainage basin.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
@@ -10413,7 +10534,7 @@
       "topics": [
         "government"
       ],
-      "status": "quiet",
+      "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-07-13",
       "lastSeenISO": "2026-07-13",
@@ -10424,6 +10545,14 @@
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Independent Nomination Board",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
       "timeline": [
         {
           "dateISO": "2026-07-13",
@@ -10433,7 +10562,8 @@
             "type": "meeting",
             "videoId": "DN-bXIWkS7E",
             "ts": "0:32:45",
-            "retrievedISO": "2026-10-13T06:35:15.675Z"
+            "retrievedISO": "2026-10-13T06:35:15.675Z",
+            "endTs": "0:33:15"
           },
           "body": "Independent Nomination Board"
         },
@@ -10445,7 +10575,8 @@
             "type": "meeting",
             "videoId": "DN-bXIWkS7E",
             "ts": "0:31:16",
-            "retrievedISO": "2026-10-13T06:35:15.675Z"
+            "retrievedISO": "2026-10-13T06:35:15.675Z",
+            "endTs": "0:31:46"
           },
           "body": "Independent Nomination Board"
         },
@@ -10457,7 +10588,8 @@
             "type": "meeting",
             "videoId": "DN-bXIWkS7E",
             "ts": "0:19:29",
-            "retrievedISO": "2026-10-13T06:35:15.675Z"
+            "retrievedISO": "2026-10-13T06:35:15.675Z",
+            "endTs": "0:20:03"
           },
           "body": "Independent Nomination Board"
         },
@@ -10469,7 +10601,8 @@
             "type": "meeting",
             "videoId": "DN-bXIWkS7E",
             "ts": "0:13:09",
-            "retrievedISO": "2026-10-13T06:35:15.675Z"
+            "retrievedISO": "2026-10-13T06:35:15.675Z",
+            "endTs": "0:13:39"
           },
           "body": "Independent Nomination Board"
         },
@@ -10481,7 +10614,8 @@
             "type": "meeting",
             "videoId": "DN-bXIWkS7E",
             "ts": "0:12:35",
-            "retrievedISO": "2026-10-13T06:35:15.675Z"
+            "retrievedISO": "2026-10-13T06:35:15.675Z",
+            "endTs": "0:13:05"
           },
           "body": "Independent Nomination Board"
         }
@@ -10498,7 +10632,7 @@
       "topics": [
         "transportation"
       ],
-      "status": "quiet",
+      "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-07-07",
       "lastSeenISO": "2026-07-24",
@@ -10610,7 +10744,7 @@
         "public-safety",
         "government"
       ],
-      "status": "quiet",
+      "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-05-20",
       "lastSeenISO": "2026-05-20",
@@ -10621,6 +10755,14 @@
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Police Commission",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
       "timeline": [
         {
           "dateISO": "2026-05-20",
@@ -10630,7 +10772,8 @@
             "type": "meeting",
             "videoId": "7U6qV2DXCW8",
             "ts": "1:39:24",
-            "retrievedISO": "2026-10-14T06:40:13.308Z"
+            "retrievedISO": "2026-10-14T06:40:13.308Z",
+            "endTs": "1:39:54"
           },
           "body": "Police Commission"
         },
@@ -10642,7 +10785,8 @@
             "type": "meeting",
             "videoId": "7U6qV2DXCW8",
             "ts": "1:39:16",
-            "retrievedISO": "2026-10-14T06:40:13.308Z"
+            "retrievedISO": "2026-10-14T06:40:13.308Z",
+            "endTs": "1:39:56"
           },
           "body": "Police Commission"
         },
@@ -10654,7 +10798,8 @@
             "type": "meeting",
             "videoId": "7U6qV2DXCW8",
             "ts": "1:25:20",
-            "retrievedISO": "2026-10-14T06:40:13.308Z"
+            "retrievedISO": "2026-10-14T06:40:13.308Z",
+            "endTs": "1:26:18"
           },
           "body": "Police Commission"
         },
@@ -10666,7 +10811,8 @@
             "type": "meeting",
             "videoId": "7U6qV2DXCW8",
             "ts": "1:17:51",
-            "retrievedISO": "2026-10-14T06:40:13.308Z"
+            "retrievedISO": "2026-10-14T06:40:13.308Z",
+            "endTs": "1:18:54"
           },
           "body": "Police Commission"
         }
@@ -10684,7 +10830,7 @@
         "public-safety",
         "government"
       ],
-      "status": "quiet",
+      "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-08-19",
       "lastSeenISO": "2026-08-19",
@@ -10695,6 +10841,14 @@
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Police Commission",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
       "timeline": [
         {
           "dateISO": "2026-08-19",
@@ -10704,7 +10858,8 @@
             "type": "meeting",
             "videoId": "ic0yx8fVvEE",
             "ts": "0:31:47",
-            "retrievedISO": "2026-10-12T06:30:04.199Z"
+            "retrievedISO": "2026-10-12T06:30:04.199Z",
+            "endTs": "0:32:17"
           },
           "body": "Police Commission"
         },
@@ -10716,7 +10871,8 @@
             "type": "meeting",
             "videoId": "ic0yx8fVvEE",
             "ts": "0:20:35",
-            "retrievedISO": "2026-10-12T06:30:04.199Z"
+            "retrievedISO": "2026-10-12T06:30:04.199Z",
+            "endTs": "0:21:42"
           },
           "body": "Police Commission"
         }
@@ -11852,7 +12008,7 @@
       "topics": [
         "environment"
       ],
-      "status": "quiet",
+      "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-07-08",
       "lastSeenISO": "2026-07-08",
@@ -11863,6 +12019,14 @@
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Maui Arborist Committee",
+          "group": "council",
+          "short": []
+        }
+      ],
+      "bills": [],
       "timeline": [
         {
           "dateISO": "2026-07-08",
@@ -11872,7 +12036,8 @@
             "type": "meeting",
             "videoId": "Rhz4ecFDSAM",
             "ts": "0:14:39",
-            "retrievedISO": "2026-10-13T06:35:20.466Z"
+            "retrievedISO": "2026-10-13T06:35:20.466Z",
+            "endTs": "0:15:09"
           },
           "body": "Maui Arborist Committee"
         },
@@ -11884,7 +12049,8 @@
             "type": "meeting",
             "videoId": "Rhz4ecFDSAM",
             "ts": "0:13:46",
-            "retrievedISO": "2026-10-13T06:35:20.466Z"
+            "retrievedISO": "2026-10-13T06:35:20.466Z",
+            "endTs": "0:14:25"
           },
           "body": "Maui Arborist Committee"
         },
@@ -11896,7 +12062,8 @@
             "type": "meeting",
             "videoId": "Rhz4ecFDSAM",
             "ts": "0:01:40",
-            "retrievedISO": "2026-10-13T06:35:20.466Z"
+            "retrievedISO": "2026-10-13T06:35:20.466Z",
+            "endTs": "0:02:23"
           },
           "body": "Maui Arborist Committee"
         }
@@ -12621,7 +12788,7 @@
         "government",
         "land-use"
       ],
-      "status": "quiet",
+      "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-05-20",
       "lastSeenISO": "2026-08-19",
@@ -12641,6 +12808,14 @@
         }
       },
       "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Lānaʻi Planning Commission",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
       "timeline": [
         {
           "dateISO": "2026-08-19",
@@ -12650,7 +12825,8 @@
             "type": "meeting",
             "videoId": "Z4fnObg2c0I",
             "ts": "1:09:13",
-            "retrievedISO": "2026-10-12T06:30:03.060Z"
+            "retrievedISO": "2026-10-12T06:30:03.060Z",
+            "endTs": "1:09:51"
           },
           "body": "Lānaʻi Planning Commission"
         },
@@ -12662,7 +12838,8 @@
             "type": "meeting",
             "videoId": "gmpZbZbCHi4",
             "ts": "2:12:43",
-            "retrievedISO": "2026-10-15T06:35:01.650Z"
+            "retrievedISO": "2026-10-15T06:35:01.650Z",
+            "endTs": "2:13:20"
           },
           "body": "Lānaʻi Planning Commission"
         }
@@ -12680,7 +12857,7 @@
         "health",
         "government"
       ],
-      "status": "quiet",
+      "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-07-09",
       "lastSeenISO": "2026-08-13",
@@ -12691,6 +12868,14 @@
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Commission on Persons with Disabilities",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
       "timeline": [
         {
           "dateISO": "2026-08-13",
@@ -12700,7 +12885,8 @@
             "type": "meeting",
             "videoId": "sY6AwUuHzjI",
             "ts": "0:39:23",
-            "retrievedISO": "2026-10-12T06:30:07.228Z"
+            "retrievedISO": "2026-10-12T06:30:07.228Z",
+            "endTs": "0:40:42"
           },
           "body": "Commission on Persons with Disabilities"
         },
@@ -12712,7 +12898,8 @@
             "type": "meeting",
             "videoId": "4m34BcHhzUs",
             "ts": "1:24:41",
-            "retrievedISO": "2026-10-13T06:35:17.645Z"
+            "retrievedISO": "2026-10-13T06:35:17.645Z",
+            "endTs": "1:25:11"
           }
         },
         {
@@ -12723,7 +12910,8 @@
             "type": "meeting",
             "videoId": "4m34BcHhzUs",
             "ts": "0:59:59",
-            "retrievedISO": "2026-10-13T06:35:17.645Z"
+            "retrievedISO": "2026-10-13T06:35:17.645Z",
+            "endTs": "1:01:25"
           }
         },
         {
@@ -12734,7 +12922,8 @@
             "type": "meeting",
             "videoId": "4m34BcHhzUs",
             "ts": "0:48:47",
-            "retrievedISO": "2026-10-13T06:35:17.645Z"
+            "retrievedISO": "2026-10-13T06:35:17.645Z",
+            "endTs": "0:49:19"
           }
         },
         {
@@ -12745,7 +12934,8 @@
             "type": "meeting",
             "videoId": "4m34BcHhzUs",
             "ts": "0:23:28",
-            "retrievedISO": "2026-10-13T06:35:17.645Z"
+            "retrievedISO": "2026-10-13T06:35:17.645Z",
+            "endTs": "0:24:52"
           }
         }
       ],
@@ -13265,7 +13455,7 @@
         "elections",
         "government"
       ],
-      "status": "quiet",
+      "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-06-18",
       "lastSeenISO": "2026-09-17",
@@ -13523,7 +13713,7 @@
         "transportation",
         "culture"
       ],
-      "status": "quiet",
+      "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-07-02",
       "lastSeenISO": "2026-07-02",
@@ -13838,7 +14028,7 @@
         "housing",
         "land-use"
       ],
-      "status": "quiet",
+      "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-06-19",
       "lastSeenISO": "2026-06-19",
@@ -13958,7 +14148,7 @@
         "transportation",
         "government"
       ],
-      "status": "quiet",
+      "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-06-19",
       "lastSeenISO": "2026-06-19",
@@ -14007,7 +14197,7 @@
         "government",
         "economy"
       ],
-      "status": "quiet",
+      "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-06-24",
       "lastSeenISO": "2026-08-18",
@@ -14276,7 +14466,7 @@
         "public-safety",
         "transportation"
       ],
-      "status": "quiet",
+      "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-06-19",
       "lastSeenISO": "2026-06-19",
@@ -14572,7 +14762,7 @@
     {
       "slug": "paia-40-acre-housing-project-rezoning",
       "title": "Pāʻia 40-acre housing project rezoning",
-      "summary": "On September 8, the Maui Planning Commission voted to recommend that the County Council approve the Pahia zoning change for 40.392 acres, with conditions including free parking for Maui residents and more community engagement. It also unanimously backed the community plan amendment. The plan describes about 170 homes, with at least 34 workforce rentals kept affordable forever.",
+      "summary": "On September 8, the Maui Planning Commission voted to recommend that the County Council approve the Pāʻia zoning change for 40.392 acres with conditions, and unanimously backed the community plan amendment. Added conditions include free parking for Maui residents at the public lot and more community engagement in Pāʻia. The council will review the recommendations; the project plans about 170 homes, with at least 34 workforce rentals affordable forever.",
       "topics": [
         "housing",
         "land-use",
@@ -14646,7 +14836,7 @@
         },
         {
           "dateISO": "2026-09-08",
-          "text": "Amendment: owner to commit to meaningful additional community engagement in Pahia: Commissioners added a request that the property owner commit to meaningful, additional community engagement in Pahia.",
+          "text": "Amendment: owner to commit to meaningful additional community engagement in Pāʻia: Commissioners added a request that the property owner commit to meaningful, additional community engagement in Pāʻia.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
@@ -14698,7 +14888,7 @@
         },
         {
           "dateISO": "2026-09-08",
-          "text": "Recommendation on the Pahia–Haʻikū community plan amendment from open space, agriculture and heavy industrial to public/quasi-public, multifamily, business commercial and single family: Commissioners voted unanimously to recommend that the County Council approve the community plan amendment.",
+          "text": "Recommendation on the Pāʻia–Haʻikū community plan amendment from open space, agriculture and heavy industrial to public/quasi-public, multifamily, business commercial and single family: Commissioners voted unanimously to recommend that the County Council approve the community plan amendment.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
@@ -14750,7 +14940,7 @@
         },
         {
           "dateISO": "2026-09-08",
-          "text": "A Pahia homeowner of 25 years testified in opposition.",
+          "text": "A Pāʻia homeowner of 25 years testified in opposition.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
@@ -14763,7 +14953,7 @@
         },
         {
           "dateISO": "2026-09-08",
-          "text": "A small business owner who works in Pahia testified in strong support.",
+          "text": "A small business owner who works in Pāʻia testified in strong support.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
@@ -14867,7 +15057,7 @@
         },
         {
           "dateISO": "2026-09-08",
-          "text": "The main item was a County Council proposal to change the community plan and zoning (land-use rules) for 40.392 acres in Pahia.",
+          "text": "The main item was a County Council proposal to change the community plan and zoning (land-use rules) for 40.392 acres in Pāʻia.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
@@ -14880,7 +15070,7 @@
         },
         {
           "dateISO": "2026-06-19",
-          "text": "A testifier spoke in support of a housing project in Pahia town.",
+          "text": "A testifier spoke in support of a housing project in Pāʻia town.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
@@ -14906,7 +15096,7 @@
         },
         {
           "dateISO": "2026-06-19",
-          "text": "Resolution 26-84 would send land use bills for the EC Pahia Town project to the Maui Planning Commission.",
+          "text": "Resolution 26-84 would send land use bills for the EC Pāʻia Town project to the Maui Planning Commission.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
@@ -15587,7 +15777,7 @@
         },
         {
           "dateISO": "2026-09-02",
-          "text": "Managing partners of the Pahia Village Company, which owns the land, began a presentation.",
+          "text": "Managing partners of the Pāʻia Village Company, which owns the land, began a presentation.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
@@ -15652,7 +15842,7 @@
         },
         {
           "dateISO": "2026-09-02",
-          "text": "Spence told a councilmember the community plan never tied the mill and the Pahia bypass together.",
+          "text": "Spence told a councilmember the community plan never tied the mill and the Pāʻia bypass together.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
@@ -15691,7 +15881,7 @@
         },
         {
           "dateISO": "2026-09-02",
-          "text": "Spence said he was a staff planner in 1995 when the Council adopted the Pahia-Haʻikū community plan.",
+          "text": "Spence said he was a staff planner in 1995 when the Council adopted the Pāʻia-Haʻikū community plan.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
@@ -15717,7 +15907,7 @@
         },
         {
           "dateISO": "2026-09-02",
-          "text": "The main item was Bills 109 and 115 for the Pahia Sugar Mill redevelopment project.",
+          "text": "The main item was Bills 109 and 115 for the Pāʻia Sugar Mill redevelopment project.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
@@ -15743,7 +15933,7 @@
         },
         {
           "dateISO": "2026-09-02",
-          "text": "An applicant asked the committee to approve a rezoning for the Pahia Sugar Mill site.",
+          "text": "An applicant asked the committee to approve a rezoning for the Pāʻia Sugar Mill site.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
@@ -15756,7 +15946,7 @@
         },
         {
           "dateISO": "2026-08-25",
-          "text": "Referral of Bill 109 (2026): Bill 109, on the Pahia Sugar Mill Redevelopment Project, was sent to the Housing and Land Use Committee.",
+          "text": "Referral of Bill 109 (2026): Bill 109, on the Pāʻia Sugar Mill Redevelopment Project, was sent to the Housing and Land Use Committee.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
@@ -15998,7 +16188,7 @@
       "topics": [
         "disaster-recovery"
       ],
-      "status": "quiet",
+      "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-07-27",
       "lastSeenISO": "2026-07-27",
@@ -16190,7 +16380,7 @@
         "transportation",
         "economy"
       ],
-      "status": "quiet",
+      "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-08-04",
       "lastSeenISO": "2026-08-04",
@@ -16436,7 +16626,7 @@
         "water",
         "government"
       ],
-      "status": "quiet",
+      "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-06-30",
       "lastSeenISO": "2026-06-30",

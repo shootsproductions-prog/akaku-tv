@@ -6,7 +6,7 @@
     "health",
     "government"
   ],
-  "status": "quiet",
+  "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-07-09",
   "lastSeenISO": "2026-08-13",
@@ -17,6 +17,14 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-25",
+  "boards": [
+    {
+      "name": "Commission on Persons with Disabilities",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-08-13",
@@ -26,7 +34,8 @@
         "type": "meeting",
         "videoId": "sY6AwUuHzjI",
         "ts": "0:39:23",
-        "retrievedISO": "2026-10-12T06:30:07.228Z"
+        "retrievedISO": "2026-10-12T06:30:07.228Z",
+        "endTs": "0:40:42"
       },
       "body": "Commission on Persons with Disabilities"
     },
@@ -38,7 +47,8 @@
         "type": "meeting",
         "videoId": "4m34BcHhzUs",
         "ts": "1:24:41",
-        "retrievedISO": "2026-10-13T06:35:17.645Z"
+        "retrievedISO": "2026-10-13T06:35:17.645Z",
+        "endTs": "1:25:11"
       }
     },
     {
@@ -49,7 +59,8 @@
         "type": "meeting",
         "videoId": "4m34BcHhzUs",
         "ts": "0:59:59",
-        "retrievedISO": "2026-10-13T06:35:17.645Z"
+        "retrievedISO": "2026-10-13T06:35:17.645Z",
+        "endTs": "1:01:25"
       }
     },
     {
@@ -60,7 +71,8 @@
         "type": "meeting",
         "videoId": "4m34BcHhzUs",
         "ts": "0:48:47",
-        "retrievedISO": "2026-10-13T06:35:17.645Z"
+        "retrievedISO": "2026-10-13T06:35:17.645Z",
+        "endTs": "0:49:19"
       }
     },
     {
@@ -71,7 +83,8 @@
         "type": "meeting",
         "videoId": "4m34BcHhzUs",
         "ts": "0:23:28",
-        "retrievedISO": "2026-10-13T06:35:17.645Z"
+        "retrievedISO": "2026-10-13T06:35:17.645Z",
+        "endTs": "0:24:52"
       }
     }
   ],

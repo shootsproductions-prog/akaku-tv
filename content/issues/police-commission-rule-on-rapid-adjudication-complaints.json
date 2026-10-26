@@ -6,7 +6,7 @@
     "public-safety",
     "government"
   ],
-  "status": "quiet",
+  "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-05-20",
   "lastSeenISO": "2026-05-20",
@@ -17,6 +17,14 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-25",
+  "boards": [
+    {
+      "name": "Police Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-05-20",
@@ -26,7 +34,8 @@
         "type": "meeting",
         "videoId": "7U6qV2DXCW8",
         "ts": "1:39:24",
-        "retrievedISO": "2026-10-14T06:40:13.308Z"
+        "retrievedISO": "2026-10-14T06:40:13.308Z",
+        "endTs": "1:39:54"
       },
       "body": "Police Commission"
     },
@@ -38,7 +47,8 @@
         "type": "meeting",
         "videoId": "7U6qV2DXCW8",
         "ts": "1:39:16",
-        "retrievedISO": "2026-10-14T06:40:13.308Z"
+        "retrievedISO": "2026-10-14T06:40:13.308Z",
+        "endTs": "1:39:56"
       },
       "body": "Police Commission"
     },
@@ -50,7 +60,8 @@
         "type": "meeting",
         "videoId": "7U6qV2DXCW8",
         "ts": "1:25:20",
-        "retrievedISO": "2026-10-14T06:40:13.308Z"
+        "retrievedISO": "2026-10-14T06:40:13.308Z",
+        "endTs": "1:26:18"
       },
       "body": "Police Commission"
     },
@@ -62,7 +73,8 @@
         "type": "meeting",
         "videoId": "7U6qV2DXCW8",
         "ts": "1:17:51",
-        "retrievedISO": "2026-10-14T06:40:13.308Z"
+        "retrievedISO": "2026-10-14T06:40:13.308Z",
+        "endTs": "1:18:54"
       },
       "body": "Police Commission"
     }

@@ -6,7 +6,7 @@
     "housing",
     "government"
   ],
-  "status": "quiet",
+  "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-08-13",
   "lastSeenISO": "2026-08-13",
@@ -17,6 +17,14 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-25",
+  "boards": [
+    {
+      "name": "Cost of Government Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-08-13",
@@ -26,7 +34,8 @@
         "type": "meeting",
         "videoId": "mEoIJx_G1XQ",
         "ts": "1:52:02",
-        "retrievedISO": "2026-10-12T06:30:06.096Z"
+        "retrievedISO": "2026-10-12T06:30:06.096Z",
+        "endTs": "1:52:33"
       },
       "body": "Cost of Government Commission"
     },
@@ -38,7 +47,8 @@
         "type": "meeting",
         "videoId": "mEoIJx_G1XQ",
         "ts": "1:51:59",
-        "retrievedISO": "2026-10-12T06:30:06.096Z"
+        "retrievedISO": "2026-10-12T06:30:06.096Z",
+        "endTs": "1:52:33"
       },
       "body": "Cost of Government Commission"
     },
@@ -50,7 +60,8 @@
         "type": "meeting",
         "videoId": "mEoIJx_G1XQ",
         "ts": "1:51:56",
-        "retrievedISO": "2026-10-12T06:30:06.096Z"
+        "retrievedISO": "2026-10-12T06:30:06.096Z",
+        "endTs": "1:52:33"
       },
       "body": "Cost of Government Commission"
     },
@@ -62,7 +73,8 @@
         "type": "meeting",
         "videoId": "mEoIJx_G1XQ",
         "ts": "1:48:36",
-        "retrievedISO": "2026-10-12T06:30:06.096Z"
+        "retrievedISO": "2026-10-12T06:30:06.096Z",
+        "endTs": "1:49:11"
       },
       "body": "Cost of Government Commission"
     },
@@ -74,7 +86,8 @@
         "type": "meeting",
         "videoId": "mEoIJx_G1XQ",
         "ts": "1:44:41",
-        "retrievedISO": "2026-10-12T06:30:06.096Z"
+        "retrievedISO": "2026-10-12T06:30:06.096Z",
+        "endTs": "1:45:11"
       },
       "body": "Cost of Government Commission"
     },
@@ -86,7 +99,8 @@
         "type": "meeting",
         "videoId": "mEoIJx_G1XQ",
         "ts": "1:37:37",
-        "retrievedISO": "2026-10-12T06:30:06.096Z"
+        "retrievedISO": "2026-10-12T06:30:06.096Z",
+        "endTs": "1:38:22"
       },
       "body": "Cost of Government Commission"
     },
@@ -98,7 +112,8 @@
         "type": "meeting",
         "videoId": "mEoIJx_G1XQ",
         "ts": "1:30:22",
-        "retrievedISO": "2026-10-12T06:30:06.096Z"
+        "retrievedISO": "2026-10-12T06:30:06.096Z",
+        "endTs": "1:30:52"
       },
       "body": "Cost of Government Commission"
     },
@@ -110,7 +125,8 @@
         "type": "meeting",
         "videoId": "mEoIJx_G1XQ",
         "ts": "1:27:55",
-        "retrievedISO": "2026-10-12T06:30:06.096Z"
+        "retrievedISO": "2026-10-12T06:30:06.096Z",
+        "endTs": "1:28:29"
       },
       "body": "Cost of Government Commission"
     }
