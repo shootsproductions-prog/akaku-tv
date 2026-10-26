@@ -1,7 +1,7 @@
 {
   "slug": "south-maui-community-plan-review",
   "title": "South Maui Community Plan review",
-  "summary": "On October 6, the committee deferred Bill 108, the 2026 South Maui Community Plan, and the amended main motion carries over to the next meeting. That day members reviewed land use map changes parcel by parcel, voted 7–0 to list two draft Kīhei drainage master plans, and added an appendices heading. Earlier sessions amended many actions on housing, water, wildfire, flooding and shoreline access.",
+  "summary": "On October 21 the committee took up Bill 139, which would add 85.57 acres in North Kīhei to the urban growth boundary, alongside Bill 108, the South Maui Community Plan. It passed 8 to 0 an amended action to study a new South Maui to Central Maui road that could serve as an evacuation route. Plan review continues November 18, and a draft is due December 2 for the next council.",
   "topics": [
     "land-use",
     "housing"
@@ -9,11 +9,11 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2024-10-22",
-  "lastSeenISO": "2026-10-06",
+  "lastSeenISO": "2026-10-08",
   "signals": {
-    "meetingsLast30d": 2,
-    "meetingsLast90d": 7,
-    "mentionsLast30d": 6,
+    "meetingsLast30d": 4,
+    "meetingsLast90d": 12,
+    "mentionsLast30d": 12,
     "upcomingEvent": {
       "dateISO": "2026-11-18",
       "what": "Plan discussion will continue",
@@ -47,9 +47,517 @@
   ],
   "bills": [
     "Bill 108 (2026)",
+    "Bill 139 (2026)",
     "Bill 2026 (2026)"
   ],
   "timeline": [
+    {
+      "dateISO": "2026-10-08",
+      "text": "The committee deferred the item.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fp9VVcEIuJo",
+        "ts": "3:39:25",
+        "retrievedISO": "2026-10-16T20:23:40.314Z",
+        "endTs": "3:39:55"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-08",
+      "text": "A draft must be ready by December 2 to send to the next council.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fp9VVcEIuJo",
+        "ts": "3:32:42",
+        "retrievedISO": "2026-10-16T20:23:40.314Z",
+        "endTs": "3:33:12"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-08",
+      "text": "Plan discussion will continue on October 21 and November 18.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fp9VVcEIuJo",
+        "ts": "3:32:26",
+        "retrievedISO": "2026-10-16T20:23:40.314Z",
+        "endTs": "3:32:57"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-08",
+      "text": "A member said South Maui also had a fire on August 8, 2023.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fp9VVcEIuJo",
+        "ts": "3:20:50",
+        "retrievedISO": "2026-10-16T20:23:40.314Z",
+        "endTs": "3:21:20"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-08",
+      "text": "A member said the data would let the community check recommendations without relying only on whoever holds a position.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fp9VVcEIuJo",
+        "ts": "3:18:35",
+        "retrievedISO": "2026-10-16T20:23:40.314Z",
+        "endTs": "3:19:23"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-08",
+      "text": "The adopted action calls for data on the acreage, year, location, and cause of South Maui wildfires.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fp9VVcEIuJo",
+        "ts": "3:15:49",
+        "retrievedISO": "2026-10-16T20:23:40.314Z",
+        "endTs": "3:16:28"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-08",
+      "text": "The chair said this differed from a specific wildfire data action adopted the day before.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fp9VVcEIuJo",
+        "ts": "3:15:27",
+        "retrievedISO": "2026-10-16T20:23:40.314Z",
+        "endTs": "3:16:28"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-08",
+      "text": "Amendment to policy 2.2.26: Members amended policy 2.2.26 to encourage preference programs to prioritize current South Maui residents and workers.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fp9VVcEIuJo",
+        "ts": "3:11:57",
+        "retrievedISO": "2026-10-16T20:23:40.314Z",
+        "endTs": "3:13:13"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-08",
+      "text": "Members approved a policy encouraging affordable and workforce housing across South Maui sub-areas 1 through 5.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fp9VVcEIuJo",
+        "ts": "3:11:08",
+        "retrievedISO": "2026-10-16T20:23:40.314Z",
+        "endTs": "3:12:12"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-08",
+      "text": "Members approved studying a County parcel by the Kīhei Police Station for uses including affordable housing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fp9VVcEIuJo",
+        "ts": "3:09:03",
+        "retrievedISO": "2026-10-16T20:23:40.314Z",
+        "endTs": "3:10:22"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-08",
+      "text": "A community advisory group member said affordable housing should also be near amenities, not placed far from the attractive parts of town.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fp9VVcEIuJo",
+        "ts": "2:54:11",
+        "retrievedISO": "2026-10-16T20:23:40.314Z",
+        "endTs": "2:55:01"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-08",
+      "text": "A department director said his department will add the discussed definitions to Appendix E.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fp9VVcEIuJo",
+        "ts": "2:47:51",
+        "retrievedISO": "2026-10-16T20:23:40.314Z",
+        "endTs": "2:48:21"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-08",
+      "text": "Change 'U.S. mainland' to 'U.S. continent': Members approved changing 'U.S. mainland' to 'U.S. continent.'",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fp9VVcEIuJo",
+        "ts": "2:22:34",
+        "retrievedISO": "2026-10-16T20:23:40.314Z",
+        "endTs": "2:23:50"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-08",
+      "text": "Motion to reorder the South Maui Today section: Members approved the South Maui Today changes, including changing 'region' to 'area' there.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fp9VVcEIuJo",
+        "ts": "2:21:11",
+        "retrievedISO": "2026-10-16T20:23:40.314Z",
+        "endTs": "2:22:13"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-08",
+      "text": "Motion to strike 'exemplary' on page 21: Members approved striking the word 'exemplary' on page 21.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fp9VVcEIuJo",
+        "ts": "2:09:56",
+        "retrievedISO": "2026-10-16T20:23:40.314Z",
+        "endTs": "2:11:08"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-08",
+      "text": "Amendment to page 19: Members approved replacing the first two paragraphs on page 19 with part three of Granicus item 46.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fp9VVcEIuJo",
+        "ts": "2:02:54",
+        "retrievedISO": "2026-10-16T20:23:40.314Z",
+        "endTs": "2:03:57"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-08",
+      "text": "Amendment to page 16 wording: Members approved replacing 'capabilities' with 'effects' on page 16.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fp9VVcEIuJo",
+        "ts": "1:56:08",
+        "retrievedISO": "2026-10-16T20:23:40.314Z",
+        "endTs": "1:56:59"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-08",
+      "text": "Members voted 7–0 to add history on the 1893 overthrow and the 1905 creation of Maui County.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fp9VVcEIuJo",
+        "ts": "1:53:45",
+        "retrievedISO": "2026-10-16T20:23:40.314Z",
+        "endTs": "1:54:50"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-08",
+      "text": "Motion to replace 'Great Māhele' with 'Māhele': Members approved replacing 'Great Māhele' with 'Māhele' throughout.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fp9VVcEIuJo",
+        "ts": "1:43:14",
+        "retrievedISO": "2026-10-16T20:23:40.314Z",
+        "endTs": "1:44:13"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-08",
+      "text": "In a 6–1 roll call vote, members removed a foreign explorer's name for a bay from the plan.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fp9VVcEIuJo",
+        "ts": "1:38:52",
+        "retrievedISO": "2026-10-16T20:23:40.314Z",
+        "endTs": "1:40:03"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-08",
+      "text": "Motion to strike the last paragraph on page 11: Members approved striking the last paragraph on page 11.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fp9VVcEIuJo",
+        "ts": "1:32:21",
+        "retrievedISO": "2026-10-16T20:23:40.314Z",
+        "endTs": "1:33:11"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-08",
+      "text": "Amendment to page 24 adding '20-year' plan timeframe: Members approved saying the population increase on page 24 is over the 20-year plan timeframe.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fp9VVcEIuJo",
+        "ts": "0:51:41",
+        "retrievedISO": "2026-10-16T20:23:40.314Z",
+        "endTs": "0:52:50"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-08",
+      "text": "Amendment on the 10-year community plan update requirement: Members approved replacing 'may' with 'required' for 10-year plan updates per the charter.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fp9VVcEIuJo",
+        "ts": "0:46:23",
+        "retrievedISO": "2026-10-16T20:23:40.314Z",
+        "endTs": "0:47:13"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-08",
+      "text": "The gulch discussion will be revisited when Public Works can attend.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fp9VVcEIuJo",
+        "ts": "0:08:06",
+        "retrievedISO": "2026-10-16T20:23:40.314Z",
+        "endTs": "0:08:49"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-08",
+      "text": "The committee continued its review of Bill 108, the South Maui Community Plan update.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fp9VVcEIuJo",
+        "ts": "0:06:40",
+        "retrievedISO": "2026-10-16T20:23:40.314Z",
+        "endTs": "0:07:10"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-07",
+      "text": "Motion to amend policy 2.5.11B: Policy 2.5.11B now requires mitigation within the project area when a project is next to historic sites.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5C73aQDRPR4",
+        "ts": "4:52:45",
+        "retrievedISO": "2026-10-16T22:24:10.229Z",
+        "endTs": "4:54:11"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-07",
+      "text": "Motion to amend policy 2.5.11A: Policy 2.5.11A on historic sites within project areas was amended, including changing \"shall\" to \"must.\"",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5C73aQDRPR4",
+        "ts": "4:38:25",
+        "retrievedISO": "2026-10-16T22:24:10.229Z",
+        "endTs": "4:39:15"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-07",
+      "text": "The chair said housing policies 2.2.18, 19 and 26 will be revisited when a staff member working on housing is available.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5C73aQDRPR4",
+        "ts": "4:25:23",
+        "retrievedISO": "2026-10-16T22:24:10.229Z",
+        "endTs": "4:25:53"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-07",
+      "text": "A new definition of natural drainage way passed on a roll call vote with six ayes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5C73aQDRPR4",
+        "ts": "4:19:11",
+        "retrievedISO": "2026-10-16T22:24:10.229Z",
+        "endTs": "4:20:13"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-07",
+      "text": "New gulch policies set streamside (riparian) areas along gulches and natural drainage ways at a minimum of 50 feet.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5C73aQDRPR4",
+        "ts": "4:14:00",
+        "retrievedISO": "2026-10-16T22:24:10.229Z",
+        "endTs": "4:15:06"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-07",
+      "text": "Members plan to add \"allows for public serving infrastructure as necessary\" to the open space description when Section 3 amendments are taken up.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5C73aQDRPR4",
+        "ts": "3:49:29",
+        "retrievedISO": "2026-10-16T22:24:10.229Z",
+        "endTs": "3:49:59"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-07",
+      "text": "Motion to amend the newly added private roads emergency access action item: The private roads action item was amended to add multi-channel communication, mid timing, a $50,000 cost and County funding.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5C73aQDRPR4",
+        "ts": "2:07:55",
+        "retrievedISO": "2026-10-16T22:24:10.229Z",
+        "endTs": "2:08:51"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-07",
+      "text": "Motion to add a new action item on private roads and emergency access agreements: A new action item was added to evaluate private roads for emergency access and seek access agreements with landowners.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5C73aQDRPR4",
+        "ts": "1:56:11",
+        "retrievedISO": "2026-10-16T22:24:10.229Z",
+        "endTs": "1:57:01"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-07",
+      "text": "Motion to amend the previously adopted tsunami evacuation site action: The tsunami evacuation site action item was updated with language recommended by the County's emergency management agency.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5C73aQDRPR4",
+        "ts": "1:52:21",
+        "retrievedISO": "2026-10-16T22:24:10.229Z",
+        "endTs": "1:53:20"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-07",
+      "text": "Motion to amend action item 3.29 on page 133 (sirens): A motion was offered to add resident education on next steps after sirens sound, but the vote is not in the captions.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5C73aQDRPR4",
+        "ts": "1:50:47",
+        "retrievedISO": "2026-10-16T22:24:10.229Z",
+        "endTs": "1:51:28"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-07",
+      "text": "Motion to amend action item 3.17 on page 131: Action item 3.17 was amended to identify and develop more emergency evacuation routes in and out of South Maui.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5C73aQDRPR4",
+        "ts": "1:37:42",
+        "retrievedISO": "2026-10-16T22:24:10.229Z",
+        "endTs": "1:38:50"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-07",
+      "text": "Motion to amend action item 3.16 on page 130: Action item 3.16 now calls for a post-disaster recovery and reconstruction framework for South Maui, with long timing and the Office of Recovery as lead.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5C73aQDRPR4",
+        "ts": "1:34:54",
+        "retrievedISO": "2026-10-16T22:24:10.229Z",
+        "endTs": "1:36:01"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-07",
+      "text": "Planning staff said a recovery plan made before a disaster avoids the rush seen after Lahaina.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5C73aQDRPR4",
+        "ts": "1:20:45",
+        "retrievedISO": "2026-10-16T22:24:10.229Z",
+        "endTs": "1:21:15"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-07",
+      "text": "The committee's one agenda item was Bill 108 (2026), the South Maui Community Plan update.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5C73aQDRPR4",
+        "ts": "0:06:38",
+        "retrievedISO": "2026-10-16T22:24:10.229Z",
+        "endTs": "0:07:08"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
     {
       "dateISO": "2026-10-06",
       "text": "The item was deferred, and the amended main motion carries over to the next meeting.",
@@ -337,6 +845,565 @@
       "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
     },
     {
+      "dateISO": "2026-10-02",
+      "text": "The committee will continue at policy 3.4.6 on Monday.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TVUUhoCXIvQ",
+        "ts": "2:30:00",
+        "retrievedISO": "2026-10-16T14:21:48.634Z",
+        "endTs": "2:30:30"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-02",
+      "text": "Members said they were reviewing and not voting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TVUUhoCXIvQ",
+        "ts": "2:19:07",
+        "retrievedISO": "2026-10-16T14:21:48.634Z",
+        "endTs": "2:19:37"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-02",
+      "text": "Mr. Frampton proposed tying road work to each phase of development.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TVUUhoCXIvQ",
+        "ts": "2:12:03",
+        "retrievedISO": "2026-10-16T14:21:48.634Z",
+        "endTs": "2:12:36"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-02",
+      "text": "Resource person Mr. Frampton said the ranches would contribute the land for the road.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TVUUhoCXIvQ",
+        "ts": "1:49:01",
+        "retrievedISO": "2026-10-16T14:21:48.634Z",
+        "endTs": "1:49:31"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-02",
+      "text": "A council member said the plan calls a proposed mauka road both a collector road and a bypass.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TVUUhoCXIvQ",
+        "ts": "1:05:01",
+        "retrievedISO": "2026-10-16T14:21:48.634Z",
+        "endTs": "1:05:34"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-02",
+      "text": "The Kīhei Mauka growth area covers more than 583 acres with a mix of uses and housing types.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TVUUhoCXIvQ",
+        "ts": "1:02:09",
+        "retrievedISO": "2026-10-16T14:21:48.634Z",
+        "endTs": "1:02:39"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-02",
+      "text": "The chair said she supports a 100-foot buffer along the gulch there.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TVUUhoCXIvQ",
+        "ts": "1:00:16",
+        "retrievedISO": "2026-10-16T14:21:48.634Z",
+        "endTs": "1:00:48"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-02",
+      "text": "A planner said mixed-use designations give more room for residential and commercial development.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TVUUhoCXIvQ",
+        "ts": "0:46:05",
+        "retrievedISO": "2026-10-16T14:21:48.634Z",
+        "endTs": "0:46:35"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-02",
+      "text": "The community plan advisory committee (CPAC) changed six parcels in the first area of change to small town center.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TVUUhoCXIvQ",
+        "ts": "0:42:34",
+        "retrievedISO": "2026-10-16T14:21:48.634Z",
+        "endTs": "0:43:35"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-02",
+      "text": "A planner said current rules may allow three units on a rural residential lot.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TVUUhoCXIvQ",
+        "ts": "0:38:49",
+        "retrievedISO": "2026-10-16T14:21:48.634Z",
+        "endTs": "0:39:19"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-02",
+      "text": "The draft South Maui vision calls for affordable housing close to good jobs.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TVUUhoCXIvQ",
+        "ts": "0:06:30",
+        "retrievedISO": "2026-10-16T14:21:48.634Z",
+        "endTs": "0:07:00"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-02",
+      "text": "Oral testimony is closed, but written testimony is still being accepted.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TVUUhoCXIvQ",
+        "ts": "0:06:09",
+        "retrievedISO": "2026-10-16T14:21:48.634Z",
+        "endTs": "0:06:39"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-02",
+      "text": "The committee is reviewing where the South Maui Community Plan allows homes and other uses.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TVUUhoCXIvQ",
+        "ts": "0:05:59",
+        "retrievedISO": "2026-10-16T14:21:48.634Z",
+        "endTs": "0:06:29"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-30",
+      "text": "The chair asked staff to check with the state about designating a planned veterans home parcel as public/quasi-public.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "OHRQy0hAcVU",
+        "ts": "4:15:44",
+        "retrievedISO": "2026-10-16T22:27:14.855Z",
+        "endTs": "4:16:34"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-30",
+      "text": "Members voted to have the county pursue funding for flood projects that favor nature-based solutions.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "OHRQy0hAcVU",
+        "ts": "3:44:33",
+        "retrievedISO": "2026-10-16T22:27:14.855Z",
+        "endTs": "3:45:24"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-30",
+      "text": "Members voted to rewrite a flood action to improve oversight of repairs in flood hazard areas.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "OHRQy0hAcVU",
+        "ts": "3:38:31",
+        "retrievedISO": "2026-10-16T22:27:14.855Z",
+        "endTs": "3:40:07"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-30",
+      "text": "Members voted to add an action to develop a plan to manage stormwater runoff from county facilities in South Maui.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "OHRQy0hAcVU",
+        "ts": "3:23:06",
+        "retrievedISO": "2026-10-16T22:27:14.855Z",
+        "endTs": "3:24:08"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-30",
+      "text": "A county lawyer urged caution about redesignating land the county doesn't own for a possible wastewater plant.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "OHRQy0hAcVU",
+        "ts": "2:55:54",
+        "retrievedISO": "2026-10-16T22:27:14.855Z",
+        "endTs": "2:56:39"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-30",
+      "text": "The chair suggested a footnote explaining where the vacant housing count comes from.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "OHRQy0hAcVU",
+        "ts": "2:33:58",
+        "retrievedISO": "2026-10-16T22:27:14.855Z",
+        "endTs": "2:34:30"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-30",
+      "text": "A council member said the word \"vacant\" is not very accurate for these units.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "OHRQy0hAcVU",
+        "ts": "2:31:46",
+        "retrievedISO": "2026-10-16T22:27:14.855Z",
+        "endTs": "2:32:16"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-30",
+      "text": "In sub-area one, 462 of 604 housing units are listed as vacant.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "OHRQy0hAcVU",
+        "ts": "2:25:50",
+        "retrievedISO": "2026-10-16T22:27:14.855Z",
+        "endTs": "2:26:31"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-30",
+      "text": "The plan's sub-area tables list total, occupied and vacant housing units for each area.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "OHRQy0hAcVU",
+        "ts": "1:58:33",
+        "retrievedISO": "2026-10-16T22:27:14.855Z",
+        "endTs": "1:59:03"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-30",
+      "text": "The committee began work on Section 3 of the plan.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "OHRQy0hAcVU",
+        "ts": "1:46:18",
+        "retrievedISO": "2026-10-16T22:27:14.855Z",
+        "endTs": "1:46:48"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-30",
+      "text": "A testifier said some people were stuck for hours trying to leave Wailea during the 2025 tsunami.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "OHRQy0hAcVU",
+        "ts": "1:21:58",
+        "retrievedISO": "2026-10-16T22:27:14.855Z",
+        "endTs": "1:22:28"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-30",
+      "text": "A community group's president asked the county not to designate Wailea Golf land for redevelopment until the applicant shows it can be served safely.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "OHRQy0hAcVU",
+        "ts": "0:43:02",
+        "retrievedISO": "2026-10-16T22:27:14.855Z",
+        "endTs": "0:43:35"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-30",
+      "text": "Planning staff said public/quasi-public land can include affordable housing built by the government.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "OHRQy0hAcVU",
+        "ts": "0:39:35",
+        "retrievedISO": "2026-10-16T22:27:14.855Z",
+        "endTs": "0:40:11"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-30",
+      "text": "The Planning Department gave a presentation and a quiz game on the plan's updated land use designations.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "OHRQy0hAcVU",
+        "ts": "0:10:36",
+        "retrievedISO": "2026-10-16T22:27:14.855Z",
+        "endTs": "0:11:06"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-28",
+      "text": "The committee plans to meet again Wednesday morning and take more public testimony.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pG4HXzrV80Y",
+        "ts": "5:53:03",
+        "retrievedISO": "2026-10-17T01:10:00.731Z",
+        "endTs": "5:53:33"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-28",
+      "text": "The committee deferred the item, and its main motion as amended carries over.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pG4HXzrV80Y",
+        "ts": "5:52:41",
+        "retrievedISO": "2026-10-17T01:10:00.731Z",
+        "endTs": "5:53:11"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-28",
+      "text": "Wednesday's meeting will start with Planning Department presentations, then public testimony, then review of Section 3.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pG4HXzrV80Y",
+        "ts": "5:51:52",
+        "retrievedISO": "2026-10-17T01:10:00.731Z",
+        "endTs": "5:52:27"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-28",
+      "text": "Members voted 7–0 for a tourism impacts plan that must prioritize Native Hawaiian cultural practices and shoreline access.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pG4HXzrV80Y",
+        "ts": "5:48:28",
+        "retrievedISO": "2026-10-17T01:10:00.731Z",
+        "endTs": "5:49:52"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-28",
+      "text": "Amend Action 5.12 (signs): Members changed the lead agency for Action 5.12 on signs to the department captioned as OUV resources.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pG4HXzrV80Y",
+        "ts": "5:29:02",
+        "retrievedISO": "2026-10-17T01:10:00.731Z",
+        "endTs": "5:29:40"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-28",
+      "text": "Amend Action 5.10 (cultural centers and museums): Members added federal and private funding sources to Action 5.10 on cultural centers and museums.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pG4HXzrV80Y",
+        "ts": "5:12:17",
+        "retrievedISO": "2026-10-17T01:10:00.731Z",
+        "endTs": "5:12:58"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-28",
+      "text": "Amend Action 5.09 (state archaeological inventory): Members changed Action 5.09, encouraging the state to do archaeological surveys, from mid to ongoing timing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pG4HXzrV80Y",
+        "ts": "5:03:13",
+        "retrievedISO": "2026-10-17T01:10:00.731Z",
+        "endTs": "5:04:04"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-28",
+      "text": "Members passed a change for legislation on a South Maui cultural overlay map, a map to protect cultural sites.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pG4HXzrV80Y",
+        "ts": "4:50:41",
+        "retrievedISO": "2026-10-17T01:10:00.731Z",
+        "endTs": "4:52:08"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-28",
+      "text": "Amend Action 5.06 (art and cultural event locations): Members changed Action 5.06 on locations for art and cultural events from short to ongoing timing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pG4HXzrV80Y",
+        "ts": "4:32:42",
+        "retrievedISO": "2026-10-17T01:10:00.731Z",
+        "endTs": "4:33:32"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-28",
+      "text": "Action 5.04 (cultural advisor engagement): Action 5.04 on cultural advisor engagement was set aside for a later revisit.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pG4HXzrV80Y",
+        "ts": "4:26:39",
+        "retrievedISO": "2026-10-17T01:10:00.731Z",
+        "endTs": "4:27:09"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-28",
+      "text": "Members passed a change asking for easy public tracking of approved developments and settlement agreements.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pG4HXzrV80Y",
+        "ts": "4:16:28",
+        "retrievedISO": "2026-10-17T01:10:00.731Z",
+        "endTs": "4:17:59"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-28",
+      "text": "The committee changed a plan action to support monitoring water quality in all South Maui nearshore waters, focusing on runoff from gulches and streams.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pG4HXzrV80Y",
+        "ts": "2:17:29",
+        "retrievedISO": "2026-10-17T01:10:00.731Z",
+        "endTs": "2:18:07"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-28",
+      "text": "The Department of Management will lead the monitoring action and can bring in other departments as needed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pG4HXzrV80Y",
+        "ts": "2:13:00",
+        "retrievedISO": "2026-10-17T01:10:00.731Z",
+        "endTs": "2:13:35"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-28",
+      "text": "The chair said the effects of runoff from major gulches are seen in the nearshore waters.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pG4HXzrV80Y",
+        "ts": "2:10:34",
+        "retrievedISO": "2026-10-17T01:10:00.731Z",
+        "endTs": "2:11:11"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-28",
+      "text": "Amend Action 4.19 (Ridge to Reef initiative): Members changed Action 4.19 to support creating a South Maui Ridge to Reef initiative or similar nonprofit to reduce land-based pollution that damages coral reefs.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pG4HXzrV80Y",
+        "ts": "1:45:00",
+        "retrievedISO": "2026-10-17T01:10:00.731Z",
+        "endTs": "1:45:54"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-28",
+      "text": "The committee resumed its review of the South Maui Community Plan.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pG4HXzrV80Y",
+        "ts": "0:06:33",
+        "retrievedISO": "2026-10-17T01:10:00.731Z",
+        "endTs": "0:07:03"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
       "dateISO": "2026-09-24",
       "text": "The Kīhei drainage plan action now prioritizes traditional Hawaiian cultural practices and nature-based solutions where feasible.",
       "basis": "said-at-meeting",
@@ -520,6 +1587,71 @@
     },
     {
       "dateISO": "2026-09-23",
+      "text": "The chair will consider during lunch a possible revisit of a sea level rise action for South Kīhei Road.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dAuJTyzIo2A",
+        "ts": "3:02:35",
+        "retrievedISO": "2026-10-16T19:06:55.044Z",
+        "endTs": "3:03:08"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-23",
+      "text": "Members voted to study expanding a park for low-key 'passive park' uses and set its priority to medium.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dAuJTyzIo2A",
+        "ts": "2:52:46",
+        "retrievedISO": "2026-10-16T19:06:55.044Z",
+        "endTs": "2:53:34"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-23",
+      "text": "Action 2.32, residency preference programs: Members approved deleting action 2.32 because it is substantially similar to action 2.24.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dAuJTyzIo2A",
+        "ts": "2:47:23",
+        "retrievedISO": "2026-10-16T19:06:55.044Z",
+        "endTs": "2:47:59"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-23",
+      "text": "Planning will ask enforcement staff for a three-year trend of illegal short-term rental numbers.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dAuJTyzIo2A",
+        "ts": "2:37:27",
+        "retrievedISO": "2026-10-16T19:06:55.044Z",
+        "endTs": "2:38:03"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-23",
+      "text": "Planning said it does not need more staff to enforce rules on illegal short-term rentals.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dAuJTyzIo2A",
+        "ts": "2:35:08",
+        "retrievedISO": "2026-10-16T19:06:55.044Z",
+        "endTs": "2:35:42"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-23",
       "text": "A motion added \"to the extent permissible by law\" to action 3.14.",
       "basis": "said-at-meeting",
       "source": {
@@ -528,6 +1660,32 @@
         "ts": "2:28:55",
         "retrievedISO": "2026-10-16T14:25:14.372Z",
         "endTs": "2:29:28"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-23",
+      "text": "Members made the South Maui affordable housing program action ongoing and subject to available funds.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dAuJTyzIo2A",
+        "ts": "2:25:23",
+        "retrievedISO": "2026-10-16T19:06:55.044Z",
+        "endTs": "2:26:33"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-23",
+      "text": "Action 2.27, visitor shuttles: Members approved adding OED as a lead agency and naming South Maui hotels in the visitor transportation action.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dAuJTyzIo2A",
+        "ts": "2:09:46",
+        "retrievedISO": "2026-10-16T19:06:55.044Z",
+        "endTs": "2:10:43"
       },
       "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
     },
@@ -546,6 +1704,19 @@
     },
     {
       "dateISO": "2026-09-23",
+      "text": "Action 2.26, hospitality green initiatives: Members approved working with the South Maui hospitality industry on green initiatives to limit waste and water use and reduce carbon footprint.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dAuJTyzIo2A",
+        "ts": "2:03:45",
+        "retrievedISO": "2026-10-16T19:06:55.044Z",
+        "endTs": "2:04:58"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-23",
       "text": "Lawyers will check the use of the word \"ensure\" in wording about landowners following the 2024 South Maui wildfire protection plan.",
       "basis": "said-at-meeting",
       "source": {
@@ -554,6 +1725,19 @@
         "ts": "2:01:47",
         "retrievedISO": "2026-10-16T14:25:14.372Z",
         "endTs": "2:02:42"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-23",
+      "text": "Staff were asked to add OED to the plan's list of acronyms.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dAuJTyzIo2A",
+        "ts": "1:57:41",
+        "retrievedISO": "2026-10-16T19:06:55.044Z",
+        "endTs": "1:58:11"
       },
       "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
     },
@@ -585,6 +1769,19 @@
     },
     {
       "dateISO": "2026-09-23",
+      "text": "Members agreed to cite the Lahaina Community Land Trust as an example in an action giving housing preference to long-term Maui residents.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dAuJTyzIo2A",
+        "ts": "1:30:34",
+        "retrievedISO": "2026-10-16T19:06:55.044Z",
+        "endTs": "1:31:36"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-23",
       "text": "Action 3.07 was reworded as an inventory of shoreline natural and cultural resources affected by sea level rise and poor land management.",
       "basis": "said-at-meeting",
       "source": {
@@ -606,6 +1803,32 @@
         "ts": "1:19:12",
         "retrievedISO": "2026-10-16T14:25:14.372Z",
         "endTs": "1:19:45"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-23",
+      "text": "The housing director said residency preferences are a high priority for the department.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dAuJTyzIo2A",
+        "ts": "1:19:12",
+        "retrievedISO": "2026-10-16T19:06:55.044Z",
+        "endTs": "1:19:42"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-23",
+      "text": "The committee approved yearly tree-care training workshops in South Maui for landscapers and arborists.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dAuJTyzIo2A",
+        "ts": "1:15:21",
+        "retrievedISO": "2026-10-16T19:06:55.044Z",
+        "endTs": "1:17:05"
       },
       "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
     },
@@ -650,6 +1873,19 @@
     },
     {
       "dateISO": "2026-09-23",
+      "text": "The chair said at least five members liked the process, so the review would continue.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dAuJTyzIo2A",
+        "ts": "0:46:50",
+        "retrievedISO": "2026-10-16T19:06:55.044Z",
+        "endTs": "0:47:20"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-23",
       "text": "Motion to delete action 3.02: Members voted to delete action 3.02 on page 127.",
       "basis": "said-at-meeting",
       "source": {
@@ -663,6 +1899,32 @@
     },
     {
       "dateISO": "2026-09-23",
+      "text": "The chair said passing the plan this term is possible but unlikely at this pace.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dAuJTyzIo2A",
+        "ts": "0:19:18",
+        "retrievedISO": "2026-10-16T19:06:55.044Z",
+        "endTs": "0:19:48"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-23",
+      "text": "The chair said the goal is to get as far as possible by October 8.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dAuJTyzIo2A",
+        "ts": "0:17:38",
+        "retrievedISO": "2026-10-16T19:06:55.044Z",
+        "endTs": "0:18:08"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-23",
       "text": "The committee held off on a South Kīhei Road flooding goal until Public Works can help.",
       "basis": "said-at-meeting",
       "source": {
@@ -671,6 +1933,19 @@
         "ts": "0:05:27",
         "retrievedISO": "2026-10-16T14:25:14.372Z",
         "endTs": "0:06:07"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-22",
+      "text": "Strike action 2.18 and add it as a policy under Goal 2.2: The committee moved action 2.18 into the policies to support land use entitlements for a green waste and compost program in South Maui.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "2rjznzyHJJU",
+        "ts": "1:47:44",
+        "retrievedISO": "2026-10-16T15:43:59.088Z",
+        "endTs": "1:48:56"
       },
       "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
     },
@@ -1039,6 +2314,175 @@
       "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
     },
     {
+      "dateISO": "2026-09-17",
+      "text": "Amend policy 2.3.25 on wastewater injection wells: The committee voted 6–0 to move toward eliminating wastewater injection wells in South Maui.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BQWkZSz0XIo",
+        "ts": "4:00:32",
+        "retrievedISO": "2026-10-16T21:22:57.503Z",
+        "endTs": "4:01:46"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-17",
+      "text": "A county official said injection wells cannot be eliminated now because state health rules require 100% backup.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BQWkZSz0XIo",
+        "ts": "3:55:15",
+        "retrievedISO": "2026-10-16T21:22:57.503Z",
+        "endTs": "3:55:45"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-17",
+      "text": "Members voted 6–0 to require gray or recycled water in county parks and gardens when available and legally permissible.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BQWkZSz0XIo",
+        "ts": "3:47:44",
+        "retrievedISO": "2026-10-16T21:22:57.503Z",
+        "endTs": "3:48:21"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-17",
+      "text": "Amend policy 2.3.22 so new developments, including affordable housing, connect to recycled water systems when available: A motion was moved and seconded, but the captions do not record a vote.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BQWkZSz0XIo",
+        "ts": "3:36:23",
+        "retrievedISO": "2026-10-16T21:22:57.503Z",
+        "endTs": "3:37:13"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-17",
+      "text": "Amend policy 2.3.20 on catchment systems and gray water for non-potable use: The committee voted 6–0 to support catchment and gray water where allowed by the State Department of Health.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BQWkZSz0XIo",
+        "ts": "3:19:41",
+        "retrievedISO": "2026-10-16T21:22:57.503Z",
+        "endTs": "3:20:28"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-17",
+      "text": "Amend policy 2.3.18 so development must follow the public trust doctrine and the state water code: The motion passed with six ayes; the captions garble the \"no\" count.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BQWkZSz0XIo",
+        "ts": "3:13:55",
+        "retrievedISO": "2026-10-16T21:22:57.503Z",
+        "endTs": "3:15:32"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-17",
+      "text": "Delete policy 2.3.13: The committee voted 7–0 to delete the policy because it nearly matches action 3.14.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BQWkZSz0XIo",
+        "ts": "2:54:58",
+        "retrievedISO": "2026-10-16T21:22:57.503Z",
+        "endTs": "2:56:23"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-17",
+      "text": "A deputy corporation counsel may draft policy language on pre-authorization during emergencies.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BQWkZSz0XIo",
+        "ts": "2:54:33",
+        "retrievedISO": "2026-10-16T21:22:57.503Z",
+        "endTs": "2:55:04"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-17",
+      "text": "Replace policy 2.3.10 with the recommended changes on Attachment 3A, page 50: The committee voted 7–0 to use the recommended wording, which adds a county department to the consultation list.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BQWkZSz0XIo",
+        "ts": "2:53:41",
+        "retrievedISO": "2026-10-16T21:22:57.503Z",
+        "endTs": "2:54:48"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-17",
+      "text": "The chair suggested a member could propose a goal 2.5 policy on moving natural resources out of a moku with consultation.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BQWkZSz0XIo",
+        "ts": "2:41:58",
+        "retrievedISO": "2026-10-16T21:22:57.503Z",
+        "endTs": "2:42:40"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-17",
+      "text": "Amend policy 2.3.3 to the recommended language: The amendment passed 7–0, with two members excused.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BQWkZSz0XIo",
+        "ts": "1:38:29",
+        "retrievedISO": "2026-10-16T21:22:57.503Z",
+        "endTs": "1:39:37"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-17",
+      "text": "One testifier asked for 150-foot buffers around gulches.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BQWkZSz0XIo",
+        "ts": "0:54:10",
+        "retrievedISO": "2026-10-16T21:22:57.503Z",
+        "endTs": "0:54:40"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-17",
+      "text": "Members began reviewing plan Sections 2.3 and 2.4.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BQWkZSz0XIo",
+        "ts": "0:07:07",
+        "retrievedISO": "2026-10-16T21:22:57.503Z",
+        "endTs": "0:07:37"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
       "dateISO": "2026-09-16",
       "text": "Motion to amend 2.2.44 with recommended language and delete 2.2.45 and 2.2.46: The committee voted to use the recommended grid language and delete the two policies listed after it.",
       "basis": "said-at-meeting",
@@ -1321,6 +2765,656 @@
         "ts": "0:27:14",
         "retrievedISO": "2026-10-16T23:43:54.371Z",
         "endTs": "0:27:46"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-15",
+      "text": "Staff will follow up with the executive branch on parking passes for the advisory committee resource persons.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "t_RxTlPO6nE",
+        "ts": "4:45:00",
+        "retrievedISO": "2026-10-16T21:42:48.201Z",
+        "endTs": "4:45:30"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-15",
+      "text": "Members voted 6–0 to call for hālau (gathering) spaces, plural, in South Maui.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "t_RxTlPO6nE",
+        "ts": "4:26:36",
+        "retrievedISO": "2026-10-16T21:42:48.201Z",
+        "endTs": "4:27:34"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-15",
+      "text": "The council chair said a bypass will take the state, the county, and the community working together.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "t_RxTlPO6nE",
+        "ts": "4:03:44",
+        "retrievedISO": "2026-10-16T21:42:48.201Z",
+        "endTs": "4:04:14"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-15",
+      "text": "Members will revisit the mauka bypass policy, which the advisory committee chair said was moved to policy 3.4.5.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "t_RxTlPO6nE",
+        "ts": "3:53:05",
+        "retrievedISO": "2026-10-16T21:42:48.201Z",
+        "endTs": "3:53:55"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-15",
+      "text": "A council member asked whether the county could work with the state to map a bypass route early.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "t_RxTlPO6nE",
+        "ts": "3:47:03",
+        "retrievedISO": "2026-10-16T21:42:48.201Z",
+        "endTs": "3:47:33"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-15",
+      "text": "The chair pointed to the tsunami evacuation, the August 8th, 2023 fires, and frequent mud floods in Kīhei.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "t_RxTlPO6nE",
+        "ts": "3:42:27",
+        "retrievedISO": "2026-10-16T21:42:48.201Z",
+        "endTs": "3:43:05"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-15",
+      "text": "The chair said testimony showed fear that Kīhei has no safe, fast way out in emergencies.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "t_RxTlPO6nE",
+        "ts": "3:42:15",
+        "retrievedISO": "2026-10-16T21:42:48.201Z",
+        "endTs": "3:43:05"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-15",
+      "text": "Members voted 5–1 to reword a policy so it names affordable and workforce housing projects instead of code sections.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "t_RxTlPO6nE",
+        "ts": "3:39:49",
+        "retrievedISO": "2026-10-16T21:42:48.201Z",
+        "endTs": "3:41:24"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-15",
+      "text": "Stormwater and green infrastructure policy: add 'to the extent practicable': Members voted to add 'to the extent practicable' to a transportation stormwater policy.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "t_RxTlPO6nE",
+        "ts": "3:31:58",
+        "retrievedISO": "2026-10-16T21:42:48.201Z",
+        "endTs": "3:32:37"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-15",
+      "text": "Policy 2.1.10: add action reference: Members voted to add 'as identified in action 1.02' to policy 2.1.10.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "t_RxTlPO6nE",
+        "ts": "3:12:45",
+        "retrievedISO": "2026-10-16T21:42:48.201Z",
+        "endTs": "3:13:37"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-15",
+      "text": "Policies 2.1.6 and 2.1.7: roundabouts: A motion to delete policy 2.1.6 and change 2.1.7 so roundabouts must be considered at all new or redesigned intersections was called; the captions cut off before the result.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "t_RxTlPO6nE",
+        "ts": "3:02:43",
+        "retrievedISO": "2026-10-16T21:42:48.201Z",
+        "endTs": "3:03:25"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-15",
+      "text": "Policy 2.1.2: correlate to implementing actions 1.12–1.15: Members voted to tie policy 2.1.2 to actions 1.12 through 1.15 while keeping the word 'implement.'",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "t_RxTlPO6nE",
+        "ts": "2:16:49",
+        "retrievedISO": "2026-10-16T21:42:48.201Z",
+        "endTs": "2:17:55"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-15",
+      "text": "Policy 2.1.1: add reference to implementing actions 1.05A and 1.05B: A motion to note that policy 2.1.1 ties to actions 1.05A and B was made and seconded; the captions do not record the vote result.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "t_RxTlPO6nE",
+        "ts": "2:04:00",
+        "retrievedISO": "2026-10-16T21:42:48.201Z",
+        "endTs": "2:04:44"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-15",
+      "text": "Main motion: recommend passage of Bill 108-2026 on first reading: A main motion to recommend passage of Bill 108 on first reading was made and seconded; no vote was taken on it today.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "t_RxTlPO6nE",
+        "ts": "1:48:37",
+        "retrievedISO": "2026-10-16T21:42:48.201Z",
+        "endTs": "1:49:07"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-15",
+      "text": "The chair said changes to this plan can be made with five votes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "t_RxTlPO6nE",
+        "ts": "1:47:34",
+        "retrievedISO": "2026-10-16T21:42:48.201Z",
+        "endTs": "1:48:04"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-15",
+      "text": "Another testifier said South Maui already has 4,500 approved units, more than the 1,700 needed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "t_RxTlPO6nE",
+        "ts": "1:22:20",
+        "retrievedISO": "2026-10-16T21:42:48.201Z",
+        "endTs": "1:22:50"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-15",
+      "text": "Another testifier urged the council to reject 3,500 additional housing units proposed in the draft plan.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "t_RxTlPO6nE",
+        "ts": "1:21:56",
+        "retrievedISO": "2026-10-16T21:42:48.201Z",
+        "endTs": "1:22:27"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-15",
+      "text": "The chair said a testifier's cumulative-impact presentation would probably come before Section 4.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "t_RxTlPO6nE",
+        "ts": "1:18:17",
+        "retrievedISO": "2026-10-16T21:42:48.201Z",
+        "endTs": "1:18:47"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-15",
+      "text": "Another testifier said the plan has no financial plan, though the County code requires one.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "t_RxTlPO6nE",
+        "ts": "1:12:33",
+        "retrievedISO": "2026-10-16T21:42:48.201Z",
+        "endTs": "1:13:11"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-15",
+      "text": "A testifier said planning research set a maximum of 1,700 homes, but guidance later allowed more than 8,000 units.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "t_RxTlPO6nE",
+        "ts": "1:10:26",
+        "retrievedISO": "2026-10-16T21:42:48.201Z",
+        "endTs": "1:11:00"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-15",
+      "text": "A testifier said this review process is too rushed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "t_RxTlPO6nE",
+        "ts": "0:35:48",
+        "retrievedISO": "2026-10-16T21:42:48.201Z",
+        "endTs": "0:36:18"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-14",
+      "text": "The chair deferred the bill with no objections, keeping it for later meetings.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BWLtvQRgdm0",
+        "ts": "2:34:15",
+        "retrievedISO": "2026-10-16T12:22:11.918Z",
+        "endTs": "2:34:45"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-14",
+      "text": "The next Planning Department presentation will be in Section 3, on community plan designations.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BWLtvQRgdm0",
+        "ts": "2:33:36",
+        "retrievedISO": "2026-10-16T12:22:11.918Z",
+        "endTs": "2:34:06"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-14",
+      "text": "The committee was told it received the plan August 4 and has one year to act.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BWLtvQRgdm0",
+        "ts": "2:33:23",
+        "retrievedISO": "2026-10-16T12:22:11.918Z",
+        "endTs": "2:33:53"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-14",
+      "text": "The chair said the committee will recess every other day, with testimony days followed by work days.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BWLtvQRgdm0",
+        "ts": "2:31:14",
+        "retrievedISO": "2026-10-16T12:22:11.918Z",
+        "endTs": "2:31:56"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-14",
+      "text": "The chair said the committee has through October 8 for its review.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BWLtvQRgdm0",
+        "ts": "2:29:03",
+        "retrievedISO": "2026-10-16T12:22:11.918Z",
+        "endTs": "2:29:33"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-14",
+      "text": "The chair deferred the item.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lui2UwEGmm8",
+        "ts": "2:24:17",
+        "retrievedISO": "2026-10-16T14:27:25.548Z",
+        "endTs": "2:24:47"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-14",
+      "text": "The chair said the plan arrived August 4, giving the council one year.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lui2UwEGmm8",
+        "ts": "2:23:18",
+        "retrievedISO": "2026-10-16T14:27:25.548Z",
+        "endTs": "2:23:48"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-14",
+      "text": "Close public testimony: The chair closed oral public testimony with no objections.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BWLtvQRgdm0",
+        "ts": "2:22:38",
+        "retrievedISO": "2026-10-16T12:22:11.918Z",
+        "endTs": "2:23:08"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-14",
+      "text": "The chair closed oral testimony, and written testimony remains open.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lui2UwEGmm8",
+        "ts": "2:12:34",
+        "retrievedISO": "2026-10-16T14:27:25.548Z",
+        "endTs": "2:13:09"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-14",
+      "text": "A testifier asked for a two-to-three-year pause on building until Kīhei has more than one way out.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BWLtvQRgdm0",
+        "ts": "2:10:24",
+        "retrievedISO": "2026-10-16T12:22:11.918Z",
+        "endTs": "2:10:58"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-14",
+      "text": "One testifier spoke in support of Bill 108.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BWLtvQRgdm0",
+        "ts": "2:06:16",
+        "retrievedISO": "2026-10-16T12:22:11.918Z",
+        "endTs": "2:06:46"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-14",
+      "text": "The chair said the committee will start on the plan's policies tomorrow.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BWLtvQRgdm0",
+        "ts": "1:26:43",
+        "retrievedISO": "2026-10-16T12:22:11.918Z",
+        "endTs": "1:27:13"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-14",
+      "text": "A testifier asked that new building be allowed only after water, wastewater and stormwater systems are upgraded.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BWLtvQRgdm0",
+        "ts": "1:15:10",
+        "retrievedISO": "2026-10-16T12:22:11.918Z",
+        "endTs": "1:15:40"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-14",
+      "text": "A testifier urged the committee to go back to the advisory committee's version of the plan.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BWLtvQRgdm0",
+        "ts": "1:04:50",
+        "retrievedISO": "2026-10-16T12:22:11.918Z",
+        "endTs": "1:05:20"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-14",
+      "text": "A testifier said a county forecast projects a need for 1,700 housing units by 2045.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BWLtvQRgdm0",
+        "ts": "1:00:49",
+        "retrievedISO": "2026-10-16T12:22:11.918Z",
+        "endTs": "1:01:19"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-14",
+      "text": "A testifier said the yield estimate has the lowest confidence level.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BWLtvQRgdm0",
+        "ts": "0:56:27",
+        "retrievedISO": "2026-10-16T12:22:11.918Z",
+        "endTs": "0:56:57"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-14",
+      "text": "A testifier said that aquifer's sustainable yield was set in 1990 at 11 million gallons per day.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BWLtvQRgdm0",
+        "ts": "0:56:13",
+        "retrievedISO": "2026-10-16T12:22:11.918Z",
+        "endTs": "0:56:43"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-14",
+      "text": "A testifier said current and planned pumping of an aquifer developers plan to use will exceed its estimated sustainable yield.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BWLtvQRgdm0",
+        "ts": "0:55:43",
+        "retrievedISO": "2026-10-16T12:22:11.918Z",
+        "endTs": "0:56:20"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-14",
+      "text": "One testifier asked the committee to go back to the CPAC version of the plan.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lui2UwEGmm8",
+        "ts": "0:55:00",
+        "retrievedISO": "2026-10-16T14:27:25.548Z",
+        "endTs": "0:55:30"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-14",
+      "text": "A testifier said new developments plan to supply private water through reverse osmosis.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BWLtvQRgdm0",
+        "ts": "0:38:41",
+        "retrievedISO": "2026-10-16T12:22:11.918Z",
+        "endTs": "0:39:11"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-14",
+      "text": "A testifier said the plan identifies over 8,000 new units, which could add 16,000 people.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BWLtvQRgdm0",
+        "ts": "0:37:27",
+        "retrievedISO": "2026-10-16T12:22:11.918Z",
+        "endTs": "0:37:57"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-14",
+      "text": "Planning staff said housing near jobs lets people live closer to work, so there will be less traffic.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BWLtvQRgdm0",
+        "ts": "0:34:10",
+        "retrievedISO": "2026-10-16T12:22:11.918Z",
+        "endTs": "0:34:42"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-14",
+      "text": "Staff said significant flooding has hit South Maui every year since 2021.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BWLtvQRgdm0",
+        "ts": "0:32:04",
+        "retrievedISO": "2026-10-16T12:22:11.918Z",
+        "endTs": "0:32:34"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-14",
+      "text": "Staff said the Community Plan Advisory Committee, a resident group, held 42 meetings over 12 months.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BWLtvQRgdm0",
+        "ts": "0:30:46",
+        "retrievedISO": "2026-10-16T12:22:11.918Z",
+        "endTs": "0:31:16"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-14",
+      "text": "The department said flooding is a major concern in South Maui.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lui2UwEGmm8",
+        "ts": "0:22:08",
+        "retrievedISO": "2026-10-16T14:27:25.548Z",
+        "endTs": "0:22:38"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-14",
+      "text": "Planning staff gave an overview of the draft South Maui Community Plan.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BWLtvQRgdm0",
+        "ts": "0:16:13",
+        "retrievedISO": "2026-10-16T12:22:11.918Z",
+        "endTs": "0:16:43"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-14",
+      "text": "The only item was Bill 108, which would repeal the Kīhei-Makena Community Plan.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BWLtvQRgdm0",
+        "ts": "0:13:51",
+        "retrievedISO": "2026-10-16T12:22:11.918Z",
+        "endTs": "0:15:35"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-14",
+      "text": "The committee met in South Maui to hear directly from residents.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lui2UwEGmm8",
+        "ts": "0:04:49",
+        "retrievedISO": "2026-10-16T14:27:25.548Z",
+        "endTs": "0:05:19"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-14",
+      "text": "The only item was Bill 108 (2026), which would adopt an updated South Maui Community Plan.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lui2UwEGmm8",
+        "ts": "0:04:05",
+        "retrievedISO": "2026-10-16T14:27:25.548Z",
+        "endTs": "0:04:35"
       },
       "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
     },
