@@ -1,0 +1,48 @@
+{
+  "slug": "liloa-drive-extension-in-kihei",
+  "title": "Līloa Drive extension in Kīhei",
+  "summary": "The department said the first phase of the Liloa Drive extension is expected to begin in 2027.",
+  "topics": [
+    "transportation"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-09-14",
+  "lastSeenISO": "2026-09-14",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-25",
+  "boards": [
+    {
+      "name": "Disaster Recovery, International Affairs, and Planning Committee",
+      "group": "council",
+      "short": [
+        "DRIP"
+      ]
+    }
+  ],
+  "bills": [],
+  "timeline": [
+    {
+      "dateISO": "2026-09-14",
+      "text": "The department said the first phase of the Liloa Drive extension is expected to begin in 2027.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lui2UwEGmm8",
+        "ts": "0:23:41",
+        "retrievedISO": "2026-10-16T14:27:25.548Z",
+        "endTs": "0:24:11"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
