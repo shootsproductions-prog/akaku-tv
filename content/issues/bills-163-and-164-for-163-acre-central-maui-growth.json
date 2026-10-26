@@ -44,6 +44,18 @@
       "body": "County Council Meeting"
     },
     {
+      "dateISO": "2026-08-31",
+      "text": "Committee Chair Tamara Paltin announced the public hearing on the Maui Island Plan and Wailuku-Kahului Community Plan amendments for Hoʻonani Village.",
+      "basis": "reported",
+      "source": {
+        "type": "county-release",
+        "url": "https://mauicounty.us/press-release/public-hearing-scheduled-thursday-for-ho%CA%BBonani-village-affordable-housing-project/",
+        "publisher": "County of Maui",
+        "quote": "A public hearing on bills to update the Maui Island Plan and Wailuku-Kahului Community Plan for Central Maui's Hoʻonani Village Mixed Use Development is scheduled for Thursday at 4:30 p.m. online and in the Council Chamber, Councilmember Tamara Paltin announced today.",
+        "retrievedISO": "2026-10-25T01:47:00.291Z"
+      }
+    },
+    {
       "dateISO": "2026-06-19",
       "text": "A public hearing on Bill 163 is to be held on Maui before second and final reading.",
       "basis": "said-at-meeting",
@@ -97,7 +109,8 @@
     }
   ],
   "sourceTypes": [
-    "meeting"
+    "meeting",
+    "county-release"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T06:18:10.879Z",
+  "updatedAt": "2026-10-26T06:24:10.281Z",
   "count": 84,
   "issues": [
     {
@@ -109,6 +109,18 @@
             "ts": "0:08:14",
             "retrievedISO": "2026-10-07T23:03:48.406Z",
             "endTs": "0:09:36"
+          }
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "The County published the list of charter amendments qualified for the general election ballot, including the exact ballot text for the question on repealing the Independent Nomination Board.",
+          "basis": "reported",
+          "source": {
+            "type": "county-release",
+            "url": "https://mauicountyvotes.gov/news-releases",
+            "publisher": "County of Maui",
+            "quote": "Resolution 26-93, CD1, FD1: “Shall the Charter be amended, effective immediately, to repeal the parts of the 2022 Charter amendment that created the Independent Nomination Board and related procedures for nominations for various County officers?”",
+            "retrievedISO": "2026-10-25T01:47:00.273Z"
           }
         },
         {
@@ -269,7 +281,8 @@
         }
       ],
       "sourceTypes": [
-        "meeting"
+        "meeting",
+        "county-release"
       ],
       "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
     },
@@ -284,7 +297,7 @@
       "status": "quiet",
       "pinned": false,
       "firstSeenISO": "2024-10-09",
-      "lastSeenISO": "2026-08-20",
+      "lastSeenISO": "2026-10-21",
       "signals": {
         "meetingsLast30d": 0,
         "meetingsLast90d": 2,
@@ -292,7 +305,41 @@
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Commission on Water Resource Management",
+          "group": "board",
+          "short": [
+            "CWRM"
+          ]
+        },
+        {
+          "name": "Board of Water Supply",
+          "group": "board",
+          "short": [
+            "BWS"
+          ]
+        },
+        {
+          "name": "County Council Disaster, Resilience, International Affairs, and Planning Committee",
+          "group": "council",
+          "short": []
+        }
+      ],
+      "bills": [],
       "timeline": [
+        {
+          "dateISO": "2026-10-21",
+          "text": "CWRM posted a notice prioritizing Lahaina Water Management Area permit work and a public notice covering ground and surface water permit applications.",
+          "basis": "reported",
+          "source": {
+            "type": "county-page",
+            "url": "https://dlnr.hawaii.gov/cwrm/",
+            "publisher": "State of Hawaiʻi Department of Land and Natural Resources",
+            "quote": "At this time, staff are following Commission direction to prioritize work associated with the Lahaina Water Management Area, including the intake, public notice, and processing of water use permit applications submitted in connection with the designation of the area.",
+            "retrievedISO": "2026-10-25T01:47:00.268Z"
+          }
+        },
         {
           "dateISO": "2026-08-20",
           "text": "Members voted by raising hands, and the chair said the vote was unanimous and the motion passed.",
@@ -301,7 +348,8 @@
             "type": "meeting",
             "videoId": "Uxd8in6m_XU",
             "ts": "0:03:55",
-            "retrievedISO": "2026-10-07T23:26:07.567Z"
+            "retrievedISO": "2026-10-07T23:26:07.567Z",
+            "endTs": "0:04:25"
           },
           "body": "Commission on Water Resource Management"
         },
@@ -313,7 +361,8 @@
             "type": "meeting",
             "videoId": "Uxd8in6m_XU",
             "ts": "0:03:15",
-            "retrievedISO": "2026-10-07T23:26:07.567Z"
+            "retrievedISO": "2026-10-07T23:26:07.567Z",
+            "endTs": "0:03:45"
           },
           "body": "Commission on Water Resource Management"
         },
@@ -325,7 +374,8 @@
             "type": "meeting",
             "videoId": "Uxd8in6m_XU",
             "ts": "0:02:58",
-            "retrievedISO": "2026-10-07T23:26:07.567Z"
+            "retrievedISO": "2026-10-07T23:26:07.567Z",
+            "endTs": "0:03:28"
           },
           "body": "Commission on Water Resource Management"
         },
@@ -337,7 +387,8 @@
             "type": "meeting",
             "videoId": "Uxd8in6m_XU",
             "ts": "0:02:49",
-            "retrievedISO": "2026-10-07T23:26:07.567Z"
+            "retrievedISO": "2026-10-07T23:26:07.567Z",
+            "endTs": "0:03:19"
           },
           "body": "Commission on Water Resource Management"
         },
@@ -349,7 +400,8 @@
             "type": "meeting",
             "videoId": "Uxd8in6m_XU",
             "ts": "0:02:27",
-            "retrievedISO": "2026-10-07T23:26:07.567Z"
+            "retrievedISO": "2026-10-07T23:26:07.567Z",
+            "endTs": "0:02:57"
           },
           "body": "Commission on Water Resource Management"
         },
@@ -361,7 +413,8 @@
             "type": "meeting",
             "videoId": "Uxd8in6m_XU",
             "ts": "0:02:13",
-            "retrievedISO": "2026-10-07T23:26:07.567Z"
+            "retrievedISO": "2026-10-07T23:26:07.567Z",
+            "endTs": "0:02:55"
           },
           "body": "Commission on Water Resource Management"
         },
@@ -373,7 +426,8 @@
             "type": "meeting",
             "videoId": "Uxd8in6m_XU",
             "ts": "0:01:39",
-            "retrievedISO": "2026-10-07T23:26:07.567Z"
+            "retrievedISO": "2026-10-07T23:26:07.567Z",
+            "endTs": "0:02:13"
           },
           "body": "Commission on Water Resource Management"
         },
@@ -385,7 +439,8 @@
             "type": "meeting",
             "videoId": "Uxd8in6m_XU",
             "ts": "0:00:57",
-            "retrievedISO": "2026-10-07T23:26:07.567Z"
+            "retrievedISO": "2026-10-07T23:26:07.567Z",
+            "endTs": "0:01:40"
           },
           "body": "Commission on Water Resource Management"
         },
@@ -397,7 +452,8 @@
             "type": "meeting",
             "videoId": "Uxd8in6m_XU",
             "ts": "0:00:40",
-            "retrievedISO": "2026-10-07T23:26:07.567Z"
+            "retrievedISO": "2026-10-07T23:26:07.567Z",
+            "endTs": "0:01:10"
           },
           "body": "Commission on Water Resource Management"
         },
@@ -409,7 +465,8 @@
             "type": "meeting",
             "videoId": "Uxd8in6m_XU",
             "ts": "0:00:25",
-            "retrievedISO": "2026-10-07T23:26:07.567Z"
+            "retrievedISO": "2026-10-07T23:26:07.567Z",
+            "endTs": "0:00:55"
           },
           "body": "Commission on Water Resource Management"
         },
@@ -421,7 +478,8 @@
             "type": "meeting",
             "videoId": "Uxd8in6m_XU",
             "ts": "0:00:18",
-            "retrievedISO": "2026-10-07T23:26:07.567Z"
+            "retrievedISO": "2026-10-07T23:26:07.567Z",
+            "endTs": "0:00:48"
           },
           "body": "Commission on Water Resource Management"
         },
@@ -433,7 +491,8 @@
             "type": "meeting",
             "videoId": "Uxd8in6m_XU",
             "ts": "0:00:16",
-            "retrievedISO": "2026-10-07T23:26:07.567Z"
+            "retrievedISO": "2026-10-07T23:26:07.567Z",
+            "endTs": "0:00:46"
           },
           "body": "Commission on Water Resource Management"
         },
@@ -445,7 +504,8 @@
             "type": "meeting",
             "videoId": "Uxd8in6m_XU",
             "ts": "0:00:11",
-            "retrievedISO": "2026-10-07T23:26:07.567Z"
+            "retrievedISO": "2026-10-07T23:26:07.567Z",
+            "endTs": "0:00:41"
           },
           "body": "Commission on Water Resource Management"
         },
@@ -457,7 +517,8 @@
             "type": "meeting",
             "videoId": "Uxd8in6m_XU",
             "ts": "0:00:00",
-            "retrievedISO": "2026-10-07T23:26:07.567Z"
+            "retrievedISO": "2026-10-07T23:26:07.567Z",
+            "endTs": "0:00:30"
           },
           "body": "Commission on Water Resource Management"
         },
@@ -469,7 +530,8 @@
             "type": "meeting",
             "videoId": "uQiD8x_WZyY",
             "ts": "0:58:27",
-            "retrievedISO": "2026-10-07T23:26:11.732Z"
+            "retrievedISO": "2026-10-07T23:26:11.732Z",
+            "endTs": "0:59:20"
           },
           "body": "Board of Water Supply"
         },
@@ -481,7 +543,8 @@
             "type": "meeting",
             "videoId": "uQiD8x_WZyY",
             "ts": "0:57:42",
-            "retrievedISO": "2026-10-07T23:26:11.732Z"
+            "retrievedISO": "2026-10-07T23:26:11.732Z",
+            "endTs": "0:58:21"
           },
           "body": "Board of Water Supply"
         },
@@ -493,7 +556,8 @@
             "type": "meeting",
             "videoId": "uQiD8x_WZyY",
             "ts": "0:56:39",
-            "retrievedISO": "2026-10-07T23:26:11.732Z"
+            "retrievedISO": "2026-10-07T23:26:11.732Z",
+            "endTs": "0:57:29"
           },
           "body": "Board of Water Supply"
         },
@@ -505,7 +569,8 @@
             "type": "meeting",
             "videoId": "uQiD8x_WZyY",
             "ts": "0:55:54",
-            "retrievedISO": "2026-10-07T23:26:11.732Z"
+            "retrievedISO": "2026-10-07T23:26:11.732Z",
+            "endTs": "0:57:29"
           },
           "body": "Board of Water Supply"
         },
@@ -517,7 +582,8 @@
             "type": "meeting",
             "videoId": "uQiD8x_WZyY",
             "ts": "0:50:16",
-            "retrievedISO": "2026-10-07T23:26:11.732Z"
+            "retrievedISO": "2026-10-07T23:26:11.732Z",
+            "endTs": "0:50:46"
           },
           "body": "Board of Water Supply"
         },
@@ -529,7 +595,8 @@
             "type": "meeting",
             "videoId": "uQiD8x_WZyY",
             "ts": "0:48:50",
-            "retrievedISO": "2026-10-07T23:26:11.732Z"
+            "retrievedISO": "2026-10-07T23:26:11.732Z",
+            "endTs": "0:49:25"
           },
           "body": "Board of Water Supply"
         },
@@ -541,7 +608,8 @@
             "type": "meeting",
             "videoId": "uQiD8x_WZyY",
             "ts": "0:46:59",
-            "retrievedISO": "2026-10-07T23:26:11.732Z"
+            "retrievedISO": "2026-10-07T23:26:11.732Z",
+            "endTs": "0:47:37"
           },
           "body": "Board of Water Supply"
         },
@@ -553,7 +621,8 @@
             "type": "meeting",
             "videoId": "uQiD8x_WZyY",
             "ts": "0:45:15",
-            "retrievedISO": "2026-10-07T23:26:11.732Z"
+            "retrievedISO": "2026-10-07T23:26:11.732Z",
+            "endTs": "0:45:45"
           },
           "body": "Board of Water Supply"
         },
@@ -565,7 +634,8 @@
             "type": "meeting",
             "videoId": "uQiD8x_WZyY",
             "ts": "0:44:43",
-            "retrievedISO": "2026-10-07T23:26:11.732Z"
+            "retrievedISO": "2026-10-07T23:26:11.732Z",
+            "endTs": "0:45:19"
           },
           "body": "Board of Water Supply"
         },
@@ -577,7 +647,8 @@
             "type": "meeting",
             "videoId": "uQiD8x_WZyY",
             "ts": "0:44:20",
-            "retrievedISO": "2026-10-07T23:26:11.732Z"
+            "retrievedISO": "2026-10-07T23:26:11.732Z",
+            "endTs": "0:44:50"
           },
           "body": "Board of Water Supply"
         },
@@ -589,7 +660,8 @@
             "type": "meeting",
             "videoId": "uQiD8x_WZyY",
             "ts": "0:43:52",
-            "retrievedISO": "2026-10-07T23:26:11.732Z"
+            "retrievedISO": "2026-10-07T23:26:11.732Z",
+            "endTs": "0:44:22"
           },
           "body": "Board of Water Supply"
         },
@@ -601,7 +673,8 @@
             "type": "meeting",
             "videoId": "uQiD8x_WZyY",
             "ts": "0:43:00",
-            "retrievedISO": "2026-10-07T23:26:11.732Z"
+            "retrievedISO": "2026-10-07T23:26:11.732Z",
+            "endTs": "0:44:19"
           },
           "body": "Board of Water Supply"
         },
@@ -613,7 +686,8 @@
             "type": "meeting",
             "videoId": "uQiD8x_WZyY",
             "ts": "0:41:51",
-            "retrievedISO": "2026-10-07T23:26:11.732Z"
+            "retrievedISO": "2026-10-07T23:26:11.732Z",
+            "endTs": "0:42:21"
           },
           "body": "Board of Water Supply"
         },
@@ -625,7 +699,8 @@
             "type": "meeting",
             "videoId": "uQiD8x_WZyY",
             "ts": "0:40:42",
-            "retrievedISO": "2026-10-07T23:26:11.732Z"
+            "retrievedISO": "2026-10-07T23:26:11.732Z",
+            "endTs": "0:41:20"
           },
           "body": "Board of Water Supply"
         },
@@ -637,7 +712,8 @@
             "type": "meeting",
             "videoId": "XFOvEpVuIu0",
             "ts": "1:24:58",
-            "retrievedISO": "2026-10-21T13:44:06.198Z"
+            "retrievedISO": "2026-10-21T13:44:06.198Z",
+            "endTs": "1:25:28"
           },
           "body": "County Council Disaster, Resilience, International Affairs, and Planning Committee"
         },
@@ -649,7 +725,8 @@
             "type": "meeting",
             "videoId": "XFOvEpVuIu0",
             "ts": "1:20:04",
-            "retrievedISO": "2026-10-21T13:44:06.198Z"
+            "retrievedISO": "2026-10-21T13:44:06.198Z",
+            "endTs": "1:20:41"
           },
           "body": "County Council Disaster, Resilience, International Affairs, and Planning Committee"
         },
@@ -661,7 +738,8 @@
             "type": "meeting",
             "videoId": "XFOvEpVuIu0",
             "ts": "1:19:13",
-            "retrievedISO": "2026-10-21T13:44:06.198Z"
+            "retrievedISO": "2026-10-21T13:44:06.198Z",
+            "endTs": "1:19:43"
           },
           "body": "County Council Disaster, Resilience, International Affairs, and Planning Committee"
         },
@@ -673,12 +751,14 @@
             "type": "meeting",
             "videoId": "XFOvEpVuIu0",
             "ts": "1:15:54",
-            "retrievedISO": "2026-10-21T13:44:06.198Z"
+            "retrievedISO": "2026-10-21T13:44:06.198Z",
+            "endTs": "1:16:24"
           },
           "body": "County Council Disaster, Resilience, International Affairs, and Planning Committee"
         }
       ],
       "sourceTypes": [
+        "county-page",
         "meeting"
       ],
       "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
@@ -4299,6 +4379,18 @@
           "body": "County Council Meeting"
         },
         {
+          "dateISO": "2026-08-31",
+          "text": "Committee Chair Tamara Paltin announced the public hearing on the Maui Island Plan and Wailuku-Kahului Community Plan amendments for Hoʻonani Village.",
+          "basis": "reported",
+          "source": {
+            "type": "county-release",
+            "url": "https://mauicounty.us/press-release/public-hearing-scheduled-thursday-for-ho%CA%BBonani-village-affordable-housing-project/",
+            "publisher": "County of Maui",
+            "quote": "A public hearing on bills to update the Maui Island Plan and Wailuku-Kahului Community Plan for Central Maui's Hoʻonani Village Mixed Use Development is scheduled for Thursday at 4:30 p.m. online and in the Council Chamber, Councilmember Tamara Paltin announced today.",
+            "retrievedISO": "2026-10-25T01:47:00.291Z"
+          }
+        },
+        {
           "dateISO": "2026-06-19",
           "text": "A public hearing on Bill 163 is to be held on Maui before second and final reading.",
           "basis": "said-at-meeting",
@@ -4352,7 +4444,8 @@
         }
       ],
       "sourceTypes": [
-        "meeting"
+        "meeting",
+        "county-release"
       ],
       "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
     },
@@ -7680,7 +7773,7 @@
         },
         {
           "dateISO": "2026-07-15",
-          "text": "Leong-range planning staff said an update of the Lānaʻi community plan is a while away.",
+          "text": "Long-range planning staff said an update of the Lānaʻi community plan is a while away.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
@@ -7708,7 +7801,7 @@
       "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-09-08",
-      "lastSeenISO": "2026-09-08",
+      "lastSeenISO": "2026-09-11",
       "signals": {
         "meetingsLast30d": 0,
         "meetingsLast90d": 1,
@@ -7716,7 +7809,27 @@
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Council on Aging",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
       "timeline": [
+        {
+          "dateISO": "2026-09-11",
+          "text": "Emergency crews stabilized the collapsed pier apron and sinkhole with geotextile fabric, Kyowa bags, grout and boulders.",
+          "basis": "reported",
+          "source": {
+            "type": "other",
+            "url": "https://www.mauinews.com/news/local-news/2026/09/state-expects-kaumalapau-harbor-to-be-ready-for-operations-sunday/",
+            "publisher": "The Maui News",
+            "quote": "The department said on the land side, crews began filling a sinkhole with a combination of geotextile fabrics, Kyowa bags, grout and boulders.",
+            "retrievedISO": "2026-10-25T01:47:00.280Z"
+          }
+        },
         {
           "dateISO": "2026-09-08",
           "text": "The crane used to unload boats at the harbor is in pieces, and there is a long line for gas.",
@@ -7725,7 +7838,8 @@
             "type": "meeting",
             "videoId": "Cqu5kcGNyBc",
             "ts": "0:43:09",
-            "retrievedISO": "2026-10-07T23:04:01.841Z"
+            "retrievedISO": "2026-10-07T23:04:01.841Z",
+            "endTs": "0:43:50"
           },
           "body": "Council on Aging"
         },
@@ -7737,12 +7851,14 @@
             "type": "meeting",
             "videoId": "Cqu5kcGNyBc",
             "ts": "0:42:49",
-            "retrievedISO": "2026-10-07T23:04:01.841Z"
+            "retrievedISO": "2026-10-07T23:04:01.841Z",
+            "endTs": "0:43:20"
           },
           "body": "Council on Aging"
         }
       ],
       "sourceTypes": [
+        "other",
         "meeting"
       ],
       "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
@@ -8858,7 +8974,7 @@
         },
         {
           "dateISO": "2026-06-23",
-          "text": "Leach outdoor shower would drain through a swale to a grass drainage basin.",
+          "text": "Each outdoor shower would drain through a swale to a grass drainage basin.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
@@ -9188,6 +9304,23 @@
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Water Authority, Social Services, and Parks Committee",
+          "group": "council",
+          "short": [
+            "WASSP"
+          ]
+        },
+        {
+          "name": "Disaster Recovery, International Affairs, and Planning Committee",
+          "group": "council",
+          "short": [
+            "DRIP"
+          ]
+        }
+      ],
+      "bills": [],
       "timeline": [
         {
           "dateISO": "2026-08-31",
@@ -9197,7 +9330,8 @@
             "type": "meeting",
             "videoId": "iWO4pTUu848",
             "ts": "1:52:11",
-            "retrievedISO": "2026-10-16T11:06:52.616Z"
+            "retrievedISO": "2026-10-16T11:06:52.616Z",
+            "endTs": "1:52:41"
           },
           "body": "County Council Water Authority, Social Services, and Parks Committee"
         },
@@ -9209,7 +9343,8 @@
             "type": "meeting",
             "videoId": "iWO4pTUu848",
             "ts": "1:51:58",
-            "retrievedISO": "2026-10-16T11:06:52.616Z"
+            "retrievedISO": "2026-10-16T11:06:52.616Z",
+            "endTs": "1:52:28"
           },
           "body": "County Council Water Authority, Social Services, and Parks Committee"
         },
@@ -9221,9 +9356,22 @@
             "type": "meeting",
             "videoId": "fVsUFhO9fb4",
             "ts": "0:55:41",
-            "retrievedISO": "2026-10-16T05:46:14.583Z"
+            "retrievedISO": "2026-10-16T05:46:14.583Z",
+            "endTs": "0:56:11"
           },
           "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-22",
+          "text": "Maui Now reported that Maui County will take ownership of the 167-unit Kīlohana modular housing project, which could become permanent housing.",
+          "basis": "reported",
+          "source": {
+            "type": "other",
+            "url": "https://mauinow.com/2026/08/22/fema-to-donate-kilohana-modular-units-to-maui-county-plans-call-for-permanent-housing/",
+            "publisher": "Maui Now",
+            "quote": "Maui County will take ownership of the 167-unit Kīlohana modular housing project, now serving Lahaina wildfire survivors, in a move that could pave the way for the temporary homes to become permanent housing, County Council members learned Wednesday.",
+            "retrievedISO": "2026-10-25T01:47:00.284Z"
+          }
         },
         {
           "dateISO": "2026-08-05",
@@ -9233,7 +9381,8 @@
             "type": "meeting",
             "videoId": "VgE2vefgTzg",
             "ts": "0:22:05",
-            "retrievedISO": "2026-10-16T07:27:27.980Z"
+            "retrievedISO": "2026-10-16T07:27:27.980Z",
+            "endTs": "0:22:35"
           },
           "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
         },
@@ -9245,7 +9394,8 @@
             "type": "meeting",
             "videoId": "VgE2vefgTzg",
             "ts": "0:21:31",
-            "retrievedISO": "2026-10-16T07:27:27.980Z"
+            "retrievedISO": "2026-10-16T07:27:27.980Z",
+            "endTs": "0:22:01"
           },
           "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
         },
@@ -9257,7 +9407,8 @@
             "type": "meeting",
             "videoId": "VgE2vefgTzg",
             "ts": "0:18:44",
-            "retrievedISO": "2026-10-16T07:27:27.980Z"
+            "retrievedISO": "2026-10-16T07:27:27.980Z",
+            "endTs": "0:19:14"
           },
           "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
         },
@@ -9269,13 +9420,27 @@
             "type": "meeting",
             "videoId": "VgE2vefgTzg",
             "ts": "0:18:28",
-            "retrievedISO": "2026-10-16T07:27:27.980Z"
+            "retrievedISO": "2026-10-16T07:27:27.980Z",
+            "endTs": "0:18:59"
           },
           "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-01-23",
+          "text": "FEMA temporary housing assistance for Maui wildfire survivors was extended to February 2027, which is context for the clinician's concern about residents being made to leave at month's end.",
+          "basis": "reported",
+          "source": {
+            "type": "other",
+            "url": "https://governor.hawaii.gov/newsroom/office-of-the-governor-news-release-gov-green-secures-fema-housing-extension-for-maui-wildfire-survivors-through-february-2027/",
+            "publisher": "Office of the Governor, State of Hawaiʻi",
+            "quote": "U.S. Department of Homeland Security Secretary Kristi Noem has approved Hawaiʻi's request to extend FEMA Temporary Housing Assistance for Maui wildfire survivors until February 2027, providing critical stability for individuals and families still recovering from the August 2023 wildfires.",
+            "retrievedISO": "2026-10-25T01:47:00.287Z"
+          }
         }
       ],
       "sourceTypes": [
-        "meeting"
+        "meeting",
+        "other"
       ],
       "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
     },
@@ -9694,7 +9859,7 @@
       "status": "quiet",
       "pinned": false,
       "firstSeenISO": "2024-11-20",
-      "lastSeenISO": "2024-11-20",
+      "lastSeenISO": "2026-09-04",
       "signals": {
         "meetingsLast30d": 0,
         "meetingsLast90d": 0,
@@ -9702,7 +9867,27 @@
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Police Commission",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
       "timeline": [
+        {
+          "dateISO": "2026-09-04",
+          "text": "A Council committee voted 7-1 to advance safeguards on automated license plate reader technology and deferred action on a facial recognition bill.",
+          "basis": "reported",
+          "source": {
+            "type": "other",
+            "url": "https://mauinow.com/2026/09/04/maui-council-panel-advances-license-plate-reader-bill-delays-facial-recognition-technology-measure/",
+            "publisher": "Maui Now",
+            "quote": "Maui County Council members voted 7-1 in committee Thursday to put safeguards on how local law enforcement uses automated license plate reader technology, but they deferred action on a second bill addressing facial recognition technology that is not yet deployed by the Maui Police Department.",
+            "retrievedISO": "2026-10-25T01:47:00.298Z"
+          }
+        },
         {
           "dateISO": "2024-11-20",
           "text": "The chief said the department is waiting for Washington to release money for a real-time operation center grant.",
@@ -9711,7 +9896,8 @@
             "type": "meeting",
             "videoId": "TxzLnQKaEY0",
             "ts": "1:05:43",
-            "retrievedISO": "2026-10-15T06:35:19.562Z"
+            "retrievedISO": "2026-10-15T06:35:19.562Z",
+            "endTs": "1:06:13"
           },
           "body": "Police Commission"
         },
@@ -9723,12 +9909,14 @@
             "type": "meeting",
             "videoId": "TxzLnQKaEY0",
             "ts": "1:05:06",
-            "retrievedISO": "2026-10-15T06:35:19.562Z"
+            "retrievedISO": "2026-10-15T06:35:19.562Z",
+            "endTs": "1:05:36"
           },
           "body": "Police Commission"
         }
       ],
       "sourceTypes": [
+        "other",
         "meeting"
       ],
       "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
@@ -10071,6 +10259,14 @@
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Council on Aging",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
       "timeline": [
         {
           "dateISO": "2026-09-08",
@@ -10080,7 +10276,8 @@
             "type": "meeting",
             "videoId": "Cqu5kcGNyBc",
             "ts": "1:01:38",
-            "retrievedISO": "2026-10-07T23:04:01.841Z"
+            "retrievedISO": "2026-10-07T23:04:01.841Z",
+            "endTs": "1:02:11"
           },
           "body": "Council on Aging"
         },
@@ -10092,13 +10289,27 @@
             "type": "meeting",
             "videoId": "Cqu5kcGNyBc",
             "ts": "0:50:23",
-            "retrievedISO": "2026-10-07T23:04:01.841Z"
+            "retrievedISO": "2026-10-07T23:04:01.841Z",
+            "endTs": "0:51:32"
           },
           "body": "Council on Aging"
+        },
+        {
+          "dateISO": "2026-09-01",
+          "text": "Governor Josh Green announced $58 million in federal Rural Health Transformation Program funding for rural and underserved communities across Hawaiʻi.",
+          "basis": "reported",
+          "source": {
+            "type": "other",
+            "url": "https://governor.hawaii.gov/newsroom/office-of-the-governor-news-release-gov-green-announces-58-million-federal-investment-to-strengthen-rural-healthcare-across-hawai%CA%BBi/",
+            "publisher": "Office of the Governor, State of Hawaiʻi",
+            "quote": "HONOLULU — Governor Josh Green today announced $58 million in federal funding through the Rural Health Transformation Program (RHTP) to improve access to healthcare and strengthen services in rural and underserved communities across Hawaiʻi.",
+            "retrievedISO": "2026-10-25T01:47:00.277Z"
+          }
         }
       ],
       "sourceTypes": [
-        "meeting"
+        "meeting",
+        "other"
       ],
       "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
     },
@@ -10320,7 +10531,7 @@
       "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-08-05",
-      "lastSeenISO": "2026-09-30",
+      "lastSeenISO": "2026-10-20",
       "signals": {
         "meetingsLast30d": 1,
         "meetingsLast90d": 2,
@@ -10328,7 +10539,34 @@
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        },
+        {
+          "name": "Disaster Recovery, International Affairs, and Planning Committee",
+          "group": "council",
+          "short": [
+            "DRIP"
+          ]
+        }
+      ],
+      "bills": [],
       "timeline": [
+        {
+          "dateISO": "2026-10-20",
+          "text": "The County's Hoʻokumu Hou First-Time Homebuyer program issued its 100th shopping letter to displaced fire survivors.",
+          "basis": "reported",
+          "source": {
+            "type": "county-release",
+            "url": "https://hookumuhou.mauicounty.gov/",
+            "publisher": "County of Maui Office of Recovery",
+            "quote": "Eighteen households displaced by the 2023 Maui Wildfires received their home-shopping letters today through the County of Maui’s Hoʻokumu Hou First-Time Homebuyer Opportunity Program, bringing the total issued through the program to 100.",
+            "retrievedISO": "2026-10-25T01:47:00.295Z"
+          }
+        },
         {
           "dateISO": "2026-09-30",
           "text": "A speaker said the federal government gave 1.6 billion dollars for housing and rebuilding.",
@@ -10337,7 +10575,8 @@
             "type": "meeting",
             "videoId": "oZNc2fyyOPE",
             "ts": "0:27:34",
-            "retrievedISO": "2026-10-16T03:41:33.571Z"
+            "retrievedISO": "2026-10-16T03:41:33.571Z",
+            "endTs": "0:28:04"
           },
           "body": "County Council Special Meeting"
         },
@@ -10349,12 +10588,14 @@
             "type": "meeting",
             "videoId": "VgE2vefgTzg",
             "ts": "0:15:49",
-            "retrievedISO": "2026-10-16T07:27:27.980Z"
+            "retrievedISO": "2026-10-16T07:27:27.980Z",
+            "endTs": "0:16:19"
           },
           "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
         }
       ],
       "sourceTypes": [
+        "county-release",
         "meeting"
       ],
       "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."

@@ -8,7 +8,7 @@
   "status": "quiet",
   "pinned": false,
   "firstSeenISO": "2024-11-20",
-  "lastSeenISO": "2024-11-20",
+  "lastSeenISO": "2026-09-04",
   "signals": {
     "meetingsLast30d": 0,
     "meetingsLast90d": 0,
@@ -16,7 +16,27 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-25",
+  "boards": [
+    {
+      "name": "Police Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
+    {
+      "dateISO": "2026-09-04",
+      "text": "A Council committee voted 7-1 to advance safeguards on automated license plate reader technology and deferred action on a facial recognition bill.",
+      "basis": "reported",
+      "source": {
+        "type": "other",
+        "url": "https://mauinow.com/2026/09/04/maui-council-panel-advances-license-plate-reader-bill-delays-facial-recognition-technology-measure/",
+        "publisher": "Maui Now",
+        "quote": "Maui County Council members voted 7-1 in committee Thursday to put safeguards on how local law enforcement uses automated license plate reader technology, but they deferred action on a second bill addressing facial recognition technology that is not yet deployed by the Maui Police Department.",
+        "retrievedISO": "2026-10-25T01:47:00.298Z"
+      }
+    },
     {
       "dateISO": "2024-11-20",
       "text": "The chief said the department is waiting for Washington to release money for a real-time operation center grant.",
@@ -25,7 +45,8 @@
         "type": "meeting",
         "videoId": "TxzLnQKaEY0",
         "ts": "1:05:43",
-        "retrievedISO": "2026-10-15T06:35:19.562Z"
+        "retrievedISO": "2026-10-15T06:35:19.562Z",
+        "endTs": "1:06:13"
       },
       "body": "Police Commission"
     },
@@ -37,12 +58,14 @@
         "type": "meeting",
         "videoId": "TxzLnQKaEY0",
         "ts": "1:05:06",
-        "retrievedISO": "2026-10-15T06:35:19.562Z"
+        "retrievedISO": "2026-10-15T06:35:19.562Z",
+        "endTs": "1:05:36"
       },
       "body": "Police Commission"
     }
   ],
   "sourceTypes": [
+    "other",
     "meeting"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."

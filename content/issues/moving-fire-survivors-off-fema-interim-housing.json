@@ -17,6 +17,23 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-25",
+  "boards": [
+    {
+      "name": "Water Authority, Social Services, and Parks Committee",
+      "group": "council",
+      "short": [
+        "WASSP"
+      ]
+    },
+    {
+      "name": "Disaster Recovery, International Affairs, and Planning Committee",
+      "group": "council",
+      "short": [
+        "DRIP"
+      ]
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-08-31",
@@ -26,7 +43,8 @@
         "type": "meeting",
         "videoId": "iWO4pTUu848",
         "ts": "1:52:11",
-        "retrievedISO": "2026-10-16T11:06:52.616Z"
+        "retrievedISO": "2026-10-16T11:06:52.616Z",
+        "endTs": "1:52:41"
       },
       "body": "County Council Water Authority, Social Services, and Parks Committee"
     },
@@ -38,7 +56,8 @@
         "type": "meeting",
         "videoId": "iWO4pTUu848",
         "ts": "1:51:58",
-        "retrievedISO": "2026-10-16T11:06:52.616Z"
+        "retrievedISO": "2026-10-16T11:06:52.616Z",
+        "endTs": "1:52:28"
       },
       "body": "County Council Water Authority, Social Services, and Parks Committee"
     },
@@ -50,9 +69,22 @@
         "type": "meeting",
         "videoId": "fVsUFhO9fb4",
         "ts": "0:55:41",
-        "retrievedISO": "2026-10-16T05:46:14.583Z"
+        "retrievedISO": "2026-10-16T05:46:14.583Z",
+        "endTs": "0:56:11"
       },
       "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-22",
+      "text": "Maui Now reported that Maui County will take ownership of the 167-unit Kīlohana modular housing project, which could become permanent housing.",
+      "basis": "reported",
+      "source": {
+        "type": "other",
+        "url": "https://mauinow.com/2026/08/22/fema-to-donate-kilohana-modular-units-to-maui-county-plans-call-for-permanent-housing/",
+        "publisher": "Maui Now",
+        "quote": "Maui County will take ownership of the 167-unit Kīlohana modular housing project, now serving Lahaina wildfire survivors, in a move that could pave the way for the temporary homes to become permanent housing, County Council members learned Wednesday.",
+        "retrievedISO": "2026-10-25T01:47:00.284Z"
+      }
     },
     {
       "dateISO": "2026-08-05",
@@ -62,7 +94,8 @@
         "type": "meeting",
         "videoId": "VgE2vefgTzg",
         "ts": "0:22:05",
-        "retrievedISO": "2026-10-16T07:27:27.980Z"
+        "retrievedISO": "2026-10-16T07:27:27.980Z",
+        "endTs": "0:22:35"
       },
       "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
     },
@@ -74,7 +107,8 @@
         "type": "meeting",
         "videoId": "VgE2vefgTzg",
         "ts": "0:21:31",
-        "retrievedISO": "2026-10-16T07:27:27.980Z"
+        "retrievedISO": "2026-10-16T07:27:27.980Z",
+        "endTs": "0:22:01"
       },
       "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
     },
@@ -86,7 +120,8 @@
         "type": "meeting",
         "videoId": "VgE2vefgTzg",
         "ts": "0:18:44",
-        "retrievedISO": "2026-10-16T07:27:27.980Z"
+        "retrievedISO": "2026-10-16T07:27:27.980Z",
+        "endTs": "0:19:14"
       },
       "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
     },
@@ -98,13 +133,27 @@
         "type": "meeting",
         "videoId": "VgE2vefgTzg",
         "ts": "0:18:28",
-        "retrievedISO": "2026-10-16T07:27:27.980Z"
+        "retrievedISO": "2026-10-16T07:27:27.980Z",
+        "endTs": "0:18:59"
       },
       "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-01-23",
+      "text": "FEMA temporary housing assistance for Maui wildfire survivors was extended to February 2027, which is context for the clinician's concern about residents being made to leave at month's end.",
+      "basis": "reported",
+      "source": {
+        "type": "other",
+        "url": "https://governor.hawaii.gov/newsroom/office-of-the-governor-news-release-gov-green-secures-fema-housing-extension-for-maui-wildfire-survivors-through-february-2027/",
+        "publisher": "Office of the Governor, State of Hawaiʻi",
+        "quote": "U.S. Department of Homeland Security Secretary Kristi Noem has approved Hawaiʻi's request to extend FEMA Temporary Housing Assistance for Maui wildfire survivors until February 2027, providing critical stability for individuals and families still recovering from the August 2023 wildfires.",
+        "retrievedISO": "2026-10-25T01:47:00.287Z"
+      }
     }
   ],
   "sourceTypes": [
-    "meeting"
+    "meeting",
+    "other"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

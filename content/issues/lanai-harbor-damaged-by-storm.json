@@ -9,7 +9,7 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-09-08",
-  "lastSeenISO": "2026-09-08",
+  "lastSeenISO": "2026-09-11",
   "signals": {
     "meetingsLast30d": 0,
     "meetingsLast90d": 1,
@@ -17,7 +17,27 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-25",
+  "boards": [
+    {
+      "name": "Council on Aging",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
+    {
+      "dateISO": "2026-09-11",
+      "text": "Emergency crews stabilized the collapsed pier apron and sinkhole with geotextile fabric, Kyowa bags, grout and boulders.",
+      "basis": "reported",
+      "source": {
+        "type": "other",
+        "url": "https://www.mauinews.com/news/local-news/2026/09/state-expects-kaumalapau-harbor-to-be-ready-for-operations-sunday/",
+        "publisher": "The Maui News",
+        "quote": "The department said on the land side, crews began filling a sinkhole with a combination of geotextile fabrics, Kyowa bags, grout and boulders.",
+        "retrievedISO": "2026-10-25T01:47:00.280Z"
+      }
+    },
     {
       "dateISO": "2026-09-08",
       "text": "The crane used to unload boats at the harbor is in pieces, and there is a long line for gas.",
@@ -26,7 +46,8 @@
         "type": "meeting",
         "videoId": "Cqu5kcGNyBc",
         "ts": "0:43:09",
-        "retrievedISO": "2026-10-07T23:04:01.841Z"
+        "retrievedISO": "2026-10-07T23:04:01.841Z",
+        "endTs": "0:43:50"
       },
       "body": "Council on Aging"
     },
@@ -38,12 +59,14 @@
         "type": "meeting",
         "videoId": "Cqu5kcGNyBc",
         "ts": "0:42:49",
-        "retrievedISO": "2026-10-07T23:04:01.841Z"
+        "retrievedISO": "2026-10-07T23:04:01.841Z",
+        "endTs": "0:43:20"
       },
       "body": "Council on Aging"
     }
   ],
   "sourceTypes": [
+    "other",
     "meeting"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
