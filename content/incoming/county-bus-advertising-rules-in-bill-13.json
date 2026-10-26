@@ -1,0 +1,46 @@
+{
+  "slug": "county-bus-advertising-rules-in-bill-13",
+  "title": "County bus advertising rules in Bill 13",
+  "summary": "A committee report recommending first reading of Bill 13, which concerns advertising on county transit buses, came up at the June 19, 2026 meeting. The vote on the motion was not captured in the recording.",
+  "topics": [
+    "transportation",
+    "government"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2026-06-19",
+  "lastSeenISO": "2026-06-19",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-25",
+  "timeline": [
+    {
+      "dateISO": "2026-06-19",
+      "text": "Committee Report 26-33 recommending first reading of Bill 13 on county transit bus advertising: The vote on this motion was not captured in the recording.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lLsXXrEBmuw",
+        "ts": "0:33:00",
+        "endTs": "0:33:34",
+        "retrievedISO": "2026-10-16T18:09:11.606Z"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [
+    "Bill 13 (2026)"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
