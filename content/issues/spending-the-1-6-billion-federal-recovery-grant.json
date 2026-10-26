@@ -1,7 +1,7 @@
 {
   "slug": "spending-the-1-6-billion-federal-recovery-grant",
   "title": "Spending the $1.6 billion federal recovery grant",
-  "summary": "A speaker said the federal government gave 1.6 billion dollars for housing and rebuilding. Earlier, the county reported it had committed $1.278 billion of its $1.6 billion in recovery funds.",
+  "summary": "As of late September 2026, the county is spending a $1.6 billion HUD disaster recovery grant, with $1.39 billion obligated and spending projected through 2031. Staff report 577 housing units completed, 400 under construction and 597 in progress, with 83 shopping letters issued in the first-time homebuyer program. Rising infrastructure costs are a key risk, and multifamily rebuilds must give fire survivors priority to move back.",
   "topics": [
     "disaster-recovery",
     "housing"
@@ -12,7 +12,7 @@
   "lastSeenISO": "2026-10-20",
   "signals": {
     "meetingsLast30d": 1,
-    "meetingsLast90d": 2,
+    "meetingsLast90d": 3,
     "mentionsLast30d": 1,
     "upcomingEvent": null
   },
@@ -22,6 +22,13 @@
       "name": "Maui County Council",
       "group": "council",
       "short": []
+    },
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
     },
     {
       "name": "Disaster Recovery, International Affairs, and Planning Committee",
@@ -57,6 +64,136 @@
         "endTs": "0:28:04"
       },
       "body": "County Council Special Meeting"
+    },
+    {
+      "dateISO": "2026-08-18",
+      "text": "The chair deferred the disaster recovery item.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ZI16NC6wq_w",
+        "ts": "1:38:37",
+        "retrievedISO": "2026-10-16T06:42:24.117Z",
+        "endTs": "1:39:07"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-08-18",
+      "text": "Staff said the funding for multifamily rebuilds requires them to give fire survivors priority to move back.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ZI16NC6wq_w",
+        "ts": "1:24:53",
+        "retrievedISO": "2026-10-16T06:42:24.117Z",
+        "endTs": "1:25:23"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-08-18",
+      "text": "Staff said 577 housing units are completed, 400 are under construction and 597 are in progress.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ZI16NC6wq_w",
+        "ts": "1:21:36",
+        "retrievedISO": "2026-10-16T06:42:24.117Z",
+        "endTs": "1:22:10"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-08-18",
+      "text": "Staff said 83 shopping letters have been issued in the first-time homebuyer program.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ZI16NC6wq_w",
+        "ts": "1:01:28",
+        "retrievedISO": "2026-10-16T06:42:24.117Z",
+        "endTs": "1:01:58"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-08-18",
+      "text": "Staff named rising infrastructure costs as a key risk.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ZI16NC6wq_w",
+        "ts": "0:31:12",
+        "retrievedISO": "2026-10-16T06:42:24.117Z",
+        "endTs": "0:31:42"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-08-18",
+      "text": "Staff said it is a six-year grant with spending projected through 2031.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ZI16NC6wq_w",
+        "ts": "0:28:43",
+        "retrievedISO": "2026-10-16T06:42:24.117Z",
+        "endTs": "0:29:32"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-08-18",
+      "text": "Staff said the county deals directly with the federal government on these funds, with no state in the middle.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ZI16NC6wq_w",
+        "ts": "0:25:24",
+        "retrievedISO": "2026-10-16T06:42:24.117Z",
+        "endTs": "0:25:59"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-08-18",
+      "text": "Staff said $1.39 billion of the $1.6 billion has been obligated, meaning set aside for programs.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ZI16NC6wq_w",
+        "ts": "0:24:00",
+        "retrievedISO": "2026-10-16T06:42:24.117Z",
+        "endTs": "0:24:35"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-08-18",
+      "text": "Staff said the funds are geared primarily toward helping housing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ZI16NC6wq_w",
+        "ts": "0:23:35",
+        "retrievedISO": "2026-10-16T06:42:24.117Z",
+        "endTs": "0:24:07"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-08-18",
+      "text": "The county is spending $1.6 billion in disaster recovery block grant funds from HUD.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ZI16NC6wq_w",
+        "ts": "0:21:56",
+        "retrievedISO": "2026-10-16T06:42:24.117Z",
+        "endTs": "0:22:26"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
     },
     {
       "dateISO": "2026-08-05",

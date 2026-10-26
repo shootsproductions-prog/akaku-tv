@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T06:26:09.896Z",
+  "updatedAt": "2026-10-26T07:26:10.087Z",
   "count": 84,
   "issues": [
     {
@@ -4335,7 +4335,7 @@
     {
       "slug": "bills-163-and-164-for-163-acre-central-maui-growth",
       "title": "Bills 163 and 164 for 163-acre Central Maui growth",
-      "summary": "The council passed Bills 163 and 164 nine to zero on September 29. They allow the Hoʻonani Village mixed-use project on 163.443 acres in Kahului. The bills change the land's community plan designation from agriculture to business and multi-family.",
+      "summary": "On September 29, the Council passed Bills 163 and 164 nine to zero, after a September 3 public hearing. Bill 163 CD1 adds a 163.443-acre Kahului parcel portion to the urban growth boundary, and Bill 164 CD1 changes it from Agriculture to Business Multifamily for the Hoʻonani Village housing project. Testifiers raised concerns about water from one untested well, the airport runway, and the unfinished final EIS.",
       "topics": [
         "land-use",
         "housing",
@@ -4347,7 +4347,7 @@
       "lastSeenISO": "2026-09-29",
       "signals": {
         "meetingsLast30d": 1,
-        "meetingsLast90d": 1,
+        "meetingsLast90d": 2,
         "mentionsLast30d": 1,
         "upcomingEvent": null
       },
@@ -4376,6 +4376,253 @@
             "endTs": "1:21:42"
           },
           "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-09-03",
+          "text": "The public hearing was adjourned.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "UC-kpvvm-hQ",
+            "ts": "0:33:24",
+            "retrievedISO": "2026-10-16T05:04:39.096Z",
+            "endTs": "0:33:54"
+          },
+          "body": "County Council Public Hearing"
+        },
+        {
+          "dateISO": "2026-09-03",
+          "text": "Bill 164 CD1 would change a 163.443-acre portion of a parcel from Agriculture to Business Multifamily in the Wailuku-Kahului Community Plan.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "UC-kpvvm-hQ",
+            "ts": "0:32:14",
+            "retrievedISO": "2026-10-16T05:04:39.096Z",
+            "endTs": "0:32:44"
+          },
+          "body": "County Council Public Hearing"
+        },
+        {
+          "dateISO": "2026-09-03",
+          "text": "Close public testimony on Bill 163 CD1: The Council closed public testimony on Bill 163 CD1 and accepted written testimony with no objections.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "UC-kpvvm-hQ",
+            "ts": "0:32:08",
+            "retrievedISO": "2026-10-16T05:04:39.096Z",
+            "endTs": "0:32:38"
+          },
+          "body": "County Council Public Hearing"
+        },
+        {
+          "dateISO": "2026-09-03",
+          "text": "A testifier said he wants the housing built but that it could be done elsewhere with less impact.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "UC-kpvvm-hQ",
+            "ts": "0:30:00",
+            "retrievedISO": "2026-10-16T05:04:39.096Z",
+            "endTs": "0:30:30"
+          },
+          "body": "County Council Public Hearing"
+        },
+        {
+          "dateISO": "2026-09-03",
+          "text": "A testifier said other land already approved for building is available near the old Dunes restaurant and the Maui Lani project.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "UC-kpvvm-hQ",
+            "ts": "0:29:43",
+            "retrievedISO": "2026-10-16T05:04:39.096Z",
+            "endTs": "0:30:13"
+          },
+          "body": "County Council Public Hearing"
+        },
+        {
+          "dateISO": "2026-09-03",
+          "text": "A testifier said there would be no backup water supply if the project's single well stopped working.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "UC-kpvvm-hQ",
+            "ts": "0:28:07",
+            "retrievedISO": "2026-10-16T05:04:39.096Z",
+            "endTs": "0:28:37"
+          },
+          "body": "County Council Public Hearing"
+        },
+        {
+          "dateISO": "2026-09-03",
+          "text": "He said the water supply is not certain because the project would use one well that is not yet properly tested.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "UC-kpvvm-hQ",
+            "ts": "0:27:54",
+            "retrievedISO": "2026-10-16T05:04:39.096Z",
+            "endTs": "0:28:24"
+          },
+          "body": "County Council Public Hearing"
+        },
+        {
+          "dateISO": "2026-09-03",
+          "text": "A testifier said he hoped a school would be built to serve the 700 to 800 children in the new community.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "UC-kpvvm-hQ",
+            "ts": "0:27:49",
+            "retrievedISO": "2026-10-16T05:04:39.096Z",
+            "endTs": "0:28:19"
+          },
+          "body": "County Council Public Hearing"
+        },
+        {
+          "dateISO": "2026-09-03",
+          "text": "He said the site is very close to the end of the runway.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "UC-kpvvm-hQ",
+            "ts": "0:25:43",
+            "retrievedISO": "2026-10-16T05:04:39.096Z",
+            "endTs": "0:26:13"
+          },
+          "body": "County Council Public Hearing"
+        },
+        {
+          "dateISO": "2026-09-03",
+          "text": "A testifier said acting now is premature because the final environmental impact statement (EIS, a study of a project's effects) is not done.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "UC-kpvvm-hQ",
+            "ts": "0:25:22",
+            "retrievedISO": "2026-10-16T05:04:39.096Z",
+            "endTs": "0:25:52"
+          },
+          "body": "County Council Public Hearing"
+        },
+        {
+          "dateISO": "2026-09-03",
+          "text": "Bill 163 CD1 would add a 163.443-acre portion of a parcel to the Maui Island Plan's urban growth boundary (the area planned for growth).",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "UC-kpvvm-hQ",
+            "ts": "0:24:09",
+            "retrievedISO": "2026-10-16T05:04:39.096Z",
+            "endTs": "0:24:39"
+          },
+          "body": "County Council Public Hearing"
+        },
+        {
+          "dateISO": "2026-09-03",
+          "text": "Close public testimony at the beginning of the public hearing: The Council closed opening public testimony and accepted written testimony with no objections.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "UC-kpvvm-hQ",
+            "ts": "0:24:01",
+            "retrievedISO": "2026-10-16T05:04:39.096Z",
+            "endTs": "0:24:31"
+          },
+          "body": "County Council Public Hearing"
+        },
+        {
+          "dateISO": "2026-09-03",
+          "text": "A caller said he would support the project if it were for people under 30% of the AMI (area median income).",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "UC-kpvvm-hQ",
+            "ts": "0:22:00",
+            "retrievedISO": "2026-10-16T05:04:39.096Z",
+            "endTs": "0:22:30"
+          },
+          "body": "County Council Public Hearing"
+        },
+        {
+          "dateISO": "2026-09-03",
+          "text": "Another testifier said changing the zoning would be great.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "UC-kpvvm-hQ",
+            "ts": "0:20:50",
+            "retrievedISO": "2026-10-16T05:04:39.096Z",
+            "endTs": "0:21:20"
+          },
+          "body": "County Council Public Hearing"
+        },
+        {
+          "dateISO": "2026-09-03",
+          "text": "A caller said the Clerk's Office did a poor job telling the public what this hearing was about.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "UC-kpvvm-hQ",
+            "ts": "0:15:39",
+            "retrievedISO": "2026-10-16T05:04:39.096Z",
+            "endTs": "0:16:16"
+          },
+          "body": "County Council Public Hearing"
+        },
+        {
+          "dateISO": "2026-09-03",
+          "text": "A council member told a second testifier the bills were not about the overnight parking proposal she read about.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "UC-kpvvm-hQ",
+            "ts": "0:14:12",
+            "retrievedISO": "2026-10-16T05:04:39.096Z",
+            "endTs": "0:14:42"
+          },
+          "body": "County Council Public Hearing"
+        },
+        {
+          "dateISO": "2026-09-03",
+          "text": "The first testifier asked council members to look closely at water use and land use.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "UC-kpvvm-hQ",
+            "ts": "0:06:16",
+            "retrievedISO": "2026-10-16T05:04:39.096Z",
+            "endTs": "0:06:46"
+          },
+          "body": "County Council Public Hearing"
+        },
+        {
+          "dateISO": "2026-09-03",
+          "text": "The first testifier asked where the water for the development would come from.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "UC-kpvvm-hQ",
+            "ts": "0:05:10",
+            "retrievedISO": "2026-10-16T05:04:39.096Z",
+            "endTs": "0:05:40"
+          },
+          "body": "County Council Public Hearing"
+        },
+        {
+          "dateISO": "2026-09-03",
+          "text": "The Council held a public hearing on Bills 163 CD1 and 164 CD1.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "UC-kpvvm-hQ",
+            "ts": "0:00:29",
+            "retrievedISO": "2026-10-16T05:04:39.096Z",
+            "endTs": "0:00:59"
+          },
+          "body": "County Council Public Hearing"
         },
         {
           "dateISO": "2026-08-31",
@@ -9287,7 +9534,7 @@
     {
       "slug": "moving-fire-survivors-off-fema-interim-housing",
       "title": "Moving fire survivors off FEMA interim housing",
-      "summary": "As of August 31, the County is meeting with FEMA on how caseworkers can meet together with residents at the Kīlohana housing site, and an official said not everyone living there will be eligible to stay. A clinician said patients worry FEMA will make them leave at month's end. The site is moving from a federal to a county facility, and more than 1,100 households remain in temporary housing, with the gap lasting until 2030.",
+      "summary": "As of August 31, Kīlohana's temporary housing units and land are moving from FEMA and HHFDC to the County of Maui, though not every resident will be eligible to stay, and some residents did not know about the transfer. The county is meeting with FEMA so caseworkers can meet residents together. About 1,100 households remain in interim housing, which officials expect to be near zero by 2030.",
       "topics": [
         "housing",
         "disaster-recovery"
@@ -9298,7 +9545,7 @@
       "lastSeenISO": "2026-08-31",
       "signals": {
         "meetingsLast30d": 0,
-        "meetingsLast90d": 2,
+        "meetingsLast90d": 3,
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
@@ -9316,6 +9563,13 @@
           "group": "council",
           "short": [
             "DRIP"
+          ]
+        },
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
           ]
         }
       ],
@@ -9361,6 +9615,45 @@
           "body": "County Council Water Authority, Social Services, and Parks Committee"
         },
         {
+          "dateISO": "2026-08-31",
+          "text": "He said the land is also moving from HHFDC to the County of Maui.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "LH2oI6gfdB0",
+            "ts": "0:41:58",
+            "retrievedISO": "2026-10-16T06:07:45.277Z",
+            "endTs": "0:42:28"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "Kīlohana temporary housing units are moving from FEMA control to county control.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "LH2oI6gfdB0",
+            "ts": "0:41:41",
+            "retrievedISO": "2026-10-16T06:07:45.277Z",
+            "endTs": "0:42:11"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-08-31",
+          "text": "A member said some people living at Kīlohana did not know the county was acquiring the units.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "LH2oI6gfdB0",
+            "ts": "0:41:14",
+            "retrievedISO": "2026-10-16T06:07:45.277Z",
+            "endTs": "0:41:48"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
           "dateISO": "2026-08-22",
           "text": "Maui Now reported that Maui County will take ownership of the 167-unit Kīlohana modular housing project, which could become permanent housing.",
           "basis": "reported",
@@ -9371,6 +9664,201 @@
             "quote": "Maui County will take ownership of the 167-unit Kīlohana modular housing project, now serving Lahaina wildfire survivors, in a move that could pave the way for the temporary homes to become permanent housing, County Council members learned Wednesday.",
             "retrievedISO": "2026-10-25T01:47:00.284Z"
           }
+        },
+        {
+          "dateISO": "2026-08-19",
+          "text": "The state is in the final stages of approving a new notice to tenants at one site.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9O-5VI6zndk",
+            "ts": "0:49:18",
+            "retrievedISO": "2026-10-16T06:26:30.067Z",
+            "endTs": "0:49:48"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-08-19",
+          "text": "A FEMA sales and donations program approved just before the meeting lets FEMA transfer temporary units to the state or county.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9O-5VI6zndk",
+            "ts": "0:40:00",
+            "retrievedISO": "2026-10-16T06:26:30.067Z",
+            "endTs": "0:40:37"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-08-19",
+          "text": "Officials said the intent is to turn the 157 small homes into permanent housing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9O-5VI6zndk",
+            "ts": "0:38:15",
+            "retrievedISO": "2026-10-16T06:26:30.067Z",
+            "endTs": "0:38:53"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-08-19",
+          "text": "An official said about 1,100 people now in interim housing should be close to zero by 2030.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9O-5VI6zndk",
+            "ts": "0:27:52",
+            "retrievedISO": "2026-10-16T06:26:30.067Z",
+            "endTs": "0:28:25"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-08-19",
+          "text": "The housing director said the state plans a new notice moving one site's move-out date closer to the end of February.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9O-5VI6zndk",
+            "ts": "0:21:00",
+            "retrievedISO": "2026-10-16T06:26:30.067Z",
+            "endTs": "0:21:57"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-08-19",
+          "text": "The county will launch a public campaign on how to move from FEMA to the Office of Recovery program.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9O-5VI6zndk",
+            "ts": "0:19:51",
+            "retrievedISO": "2026-10-16T06:26:30.067Z",
+            "endTs": "0:20:29"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-08-19",
+          "text": "Officials said the concern is what happens to households in existing programs if FEMA stops providing help.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9O-5VI6zndk",
+            "ts": "0:18:06",
+            "retrievedISO": "2026-10-16T06:26:30.067Z",
+            "endTs": "0:18:36"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-08-19",
+          "text": "The county is launching a rental assistance program for people who fall out of FEMA lease help.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9O-5VI6zndk",
+            "ts": "0:15:07",
+            "retrievedISO": "2026-10-16T06:26:30.067Z",
+            "endTs": "0:15:47"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-08-19",
+          "text": "One interim site has 157 small homes now run and paid for by FEMA.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9O-5VI6zndk",
+            "ts": "0:14:09",
+            "retrievedISO": "2026-10-16T06:26:30.067Z",
+            "endTs": "0:14:43"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-08-19",
+          "text": "Two interim housing sites for disaster survivors are moving to Office of Recovery management while permanent homes are built.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9O-5VI6zndk",
+            "ts": "0:12:37",
+            "retrievedISO": "2026-10-16T06:26:30.067Z",
+            "endTs": "0:13:12"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-08-19",
+          "text": "The managing director said the mayor asked HIEMA to request a limited extension from FEMA.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9O-5VI6zndk",
+            "ts": "0:08:53",
+            "retrievedISO": "2026-10-16T06:26:30.067Z",
+            "endTs": "0:09:34"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-08-18",
+          "text": "Staff said the county will take over one of the interim housing sites.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ZI16NC6wq_w",
+            "ts": "1:12:22",
+            "retrievedISO": "2026-10-16T06:42:24.117Z",
+            "endTs": "1:12:52"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-08-18",
+          "text": "A council member asked what will happen to people in temporary housing when FEMA leaves before permanent housing is finished.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ZI16NC6wq_w",
+            "ts": "1:11:51",
+            "retrievedISO": "2026-10-16T06:42:24.117Z",
+            "endTs": "1:12:21"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-08-18",
+          "text": "The county is working to move households from temporary housing into permanent homes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ZI16NC6wq_w",
+            "ts": "0:37:49",
+            "retrievedISO": "2026-10-16T06:42:24.117Z",
+            "endTs": "0:38:19"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-08-18",
+          "text": "Staff said about 1,100 households are in interim housing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ZI16NC6wq_w",
+            "ts": "0:37:12",
+            "retrievedISO": "2026-10-16T06:42:24.117Z",
+            "endTs": "0:37:42"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
         },
         {
           "dateISO": "2026-08-05",
@@ -10522,7 +11010,7 @@
     {
       "slug": "spending-the-1-6-billion-federal-recovery-grant",
       "title": "Spending the $1.6 billion federal recovery grant",
-      "summary": "A speaker said the federal government gave 1.6 billion dollars for housing and rebuilding. Earlier, the county reported it had committed $1.278 billion of its $1.6 billion in recovery funds.",
+      "summary": "As of late September 2026, the county is spending a $1.6 billion HUD disaster recovery grant, with $1.39 billion obligated and spending projected through 2031. Staff report 577 housing units completed, 400 under construction and 597 in progress, with 83 shopping letters issued in the first-time homebuyer program. Rising infrastructure costs are a key risk, and multifamily rebuilds must give fire survivors priority to move back.",
       "topics": [
         "disaster-recovery",
         "housing"
@@ -10533,7 +11021,7 @@
       "lastSeenISO": "2026-10-20",
       "signals": {
         "meetingsLast30d": 1,
-        "meetingsLast90d": 2,
+        "meetingsLast90d": 3,
         "mentionsLast30d": 1,
         "upcomingEvent": null
       },
@@ -10543,6 +11031,13 @@
           "name": "Maui County Council",
           "group": "council",
           "short": []
+        },
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
         },
         {
           "name": "Disaster Recovery, International Affairs, and Planning Committee",
@@ -10578,6 +11073,136 @@
             "endTs": "0:28:04"
           },
           "body": "County Council Special Meeting"
+        },
+        {
+          "dateISO": "2026-08-18",
+          "text": "The chair deferred the disaster recovery item.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ZI16NC6wq_w",
+            "ts": "1:38:37",
+            "retrievedISO": "2026-10-16T06:42:24.117Z",
+            "endTs": "1:39:07"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-08-18",
+          "text": "Staff said the funding for multifamily rebuilds requires them to give fire survivors priority to move back.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ZI16NC6wq_w",
+            "ts": "1:24:53",
+            "retrievedISO": "2026-10-16T06:42:24.117Z",
+            "endTs": "1:25:23"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-08-18",
+          "text": "Staff said 577 housing units are completed, 400 are under construction and 597 are in progress.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ZI16NC6wq_w",
+            "ts": "1:21:36",
+            "retrievedISO": "2026-10-16T06:42:24.117Z",
+            "endTs": "1:22:10"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-08-18",
+          "text": "Staff said 83 shopping letters have been issued in the first-time homebuyer program.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ZI16NC6wq_w",
+            "ts": "1:01:28",
+            "retrievedISO": "2026-10-16T06:42:24.117Z",
+            "endTs": "1:01:58"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-08-18",
+          "text": "Staff named rising infrastructure costs as a key risk.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ZI16NC6wq_w",
+            "ts": "0:31:12",
+            "retrievedISO": "2026-10-16T06:42:24.117Z",
+            "endTs": "0:31:42"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-08-18",
+          "text": "Staff said it is a six-year grant with spending projected through 2031.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ZI16NC6wq_w",
+            "ts": "0:28:43",
+            "retrievedISO": "2026-10-16T06:42:24.117Z",
+            "endTs": "0:29:32"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-08-18",
+          "text": "Staff said the county deals directly with the federal government on these funds, with no state in the middle.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ZI16NC6wq_w",
+            "ts": "0:25:24",
+            "retrievedISO": "2026-10-16T06:42:24.117Z",
+            "endTs": "0:25:59"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-08-18",
+          "text": "Staff said $1.39 billion of the $1.6 billion has been obligated, meaning set aside for programs.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ZI16NC6wq_w",
+            "ts": "0:24:00",
+            "retrievedISO": "2026-10-16T06:42:24.117Z",
+            "endTs": "0:24:35"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-08-18",
+          "text": "Staff said the funds are geared primarily toward helping housing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ZI16NC6wq_w",
+            "ts": "0:23:35",
+            "retrievedISO": "2026-10-16T06:42:24.117Z",
+            "endTs": "0:24:07"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-08-18",
+          "text": "The county is spending $1.6 billion in disaster recovery block grant funds from HUD.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ZI16NC6wq_w",
+            "ts": "0:21:56",
+            "retrievedISO": "2026-10-16T06:42:24.117Z",
+            "endTs": "0:22:26"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
         },
         {
           "dateISO": "2026-08-05",

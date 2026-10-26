@@ -1,7 +1,7 @@
 {
   "slug": "moving-fire-survivors-off-fema-interim-housing",
   "title": "Moving fire survivors off FEMA interim housing",
-  "summary": "As of August 31, the County is meeting with FEMA on how caseworkers can meet together with residents at the Kīlohana housing site, and an official said not everyone living there will be eligible to stay. A clinician said patients worry FEMA will make them leave at month's end. The site is moving from a federal to a county facility, and more than 1,100 households remain in temporary housing, with the gap lasting until 2030.",
+  "summary": "As of August 31, Kīlohana's temporary housing units and land are moving from FEMA and HHFDC to the County of Maui, though not every resident will be eligible to stay, and some residents did not know about the transfer. The county is meeting with FEMA so caseworkers can meet residents together. About 1,100 households remain in interim housing, which officials expect to be near zero by 2030.",
   "topics": [
     "housing",
     "disaster-recovery"
@@ -12,7 +12,7 @@
   "lastSeenISO": "2026-08-31",
   "signals": {
     "meetingsLast30d": 0,
-    "meetingsLast90d": 2,
+    "meetingsLast90d": 3,
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
@@ -30,6 +30,13 @@
       "group": "council",
       "short": [
         "DRIP"
+      ]
+    },
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
       ]
     }
   ],
@@ -75,6 +82,45 @@
       "body": "County Council Water Authority, Social Services, and Parks Committee"
     },
     {
+      "dateISO": "2026-08-31",
+      "text": "He said the land is also moving from HHFDC to the County of Maui.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "LH2oI6gfdB0",
+        "ts": "0:41:58",
+        "retrievedISO": "2026-10-16T06:07:45.277Z",
+        "endTs": "0:42:28"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Kīlohana temporary housing units are moving from FEMA control to county control.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "LH2oI6gfdB0",
+        "ts": "0:41:41",
+        "retrievedISO": "2026-10-16T06:07:45.277Z",
+        "endTs": "0:42:11"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "A member said some people living at Kīlohana did not know the county was acquiring the units.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "LH2oI6gfdB0",
+        "ts": "0:41:14",
+        "retrievedISO": "2026-10-16T06:07:45.277Z",
+        "endTs": "0:41:48"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
       "dateISO": "2026-08-22",
       "text": "Maui Now reported that Maui County will take ownership of the 167-unit Kīlohana modular housing project, which could become permanent housing.",
       "basis": "reported",
@@ -85,6 +131,201 @@
         "quote": "Maui County will take ownership of the 167-unit Kīlohana modular housing project, now serving Lahaina wildfire survivors, in a move that could pave the way for the temporary homes to become permanent housing, County Council members learned Wednesday.",
         "retrievedISO": "2026-10-25T01:47:00.284Z"
       }
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "The state is in the final stages of approving a new notice to tenants at one site.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "9O-5VI6zndk",
+        "ts": "0:49:18",
+        "retrievedISO": "2026-10-16T06:26:30.067Z",
+        "endTs": "0:49:48"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "A FEMA sales and donations program approved just before the meeting lets FEMA transfer temporary units to the state or county.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "9O-5VI6zndk",
+        "ts": "0:40:00",
+        "retrievedISO": "2026-10-16T06:26:30.067Z",
+        "endTs": "0:40:37"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "Officials said the intent is to turn the 157 small homes into permanent housing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "9O-5VI6zndk",
+        "ts": "0:38:15",
+        "retrievedISO": "2026-10-16T06:26:30.067Z",
+        "endTs": "0:38:53"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "An official said about 1,100 people now in interim housing should be close to zero by 2030.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "9O-5VI6zndk",
+        "ts": "0:27:52",
+        "retrievedISO": "2026-10-16T06:26:30.067Z",
+        "endTs": "0:28:25"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "The housing director said the state plans a new notice moving one site's move-out date closer to the end of February.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "9O-5VI6zndk",
+        "ts": "0:21:00",
+        "retrievedISO": "2026-10-16T06:26:30.067Z",
+        "endTs": "0:21:57"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "The county will launch a public campaign on how to move from FEMA to the Office of Recovery program.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "9O-5VI6zndk",
+        "ts": "0:19:51",
+        "retrievedISO": "2026-10-16T06:26:30.067Z",
+        "endTs": "0:20:29"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "Officials said the concern is what happens to households in existing programs if FEMA stops providing help.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "9O-5VI6zndk",
+        "ts": "0:18:06",
+        "retrievedISO": "2026-10-16T06:26:30.067Z",
+        "endTs": "0:18:36"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "The county is launching a rental assistance program for people who fall out of FEMA lease help.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "9O-5VI6zndk",
+        "ts": "0:15:07",
+        "retrievedISO": "2026-10-16T06:26:30.067Z",
+        "endTs": "0:15:47"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "One interim site has 157 small homes now run and paid for by FEMA.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "9O-5VI6zndk",
+        "ts": "0:14:09",
+        "retrievedISO": "2026-10-16T06:26:30.067Z",
+        "endTs": "0:14:43"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "Two interim housing sites for disaster survivors are moving to Office of Recovery management while permanent homes are built.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "9O-5VI6zndk",
+        "ts": "0:12:37",
+        "retrievedISO": "2026-10-16T06:26:30.067Z",
+        "endTs": "0:13:12"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "The managing director said the mayor asked HIEMA to request a limited extension from FEMA.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "9O-5VI6zndk",
+        "ts": "0:08:53",
+        "retrievedISO": "2026-10-16T06:26:30.067Z",
+        "endTs": "0:09:34"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-08-18",
+      "text": "Staff said the county will take over one of the interim housing sites.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ZI16NC6wq_w",
+        "ts": "1:12:22",
+        "retrievedISO": "2026-10-16T06:42:24.117Z",
+        "endTs": "1:12:52"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-08-18",
+      "text": "A council member asked what will happen to people in temporary housing when FEMA leaves before permanent housing is finished.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ZI16NC6wq_w",
+        "ts": "1:11:51",
+        "retrievedISO": "2026-10-16T06:42:24.117Z",
+        "endTs": "1:12:21"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-08-18",
+      "text": "The county is working to move households from temporary housing into permanent homes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ZI16NC6wq_w",
+        "ts": "0:37:49",
+        "retrievedISO": "2026-10-16T06:42:24.117Z",
+        "endTs": "0:38:19"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-08-18",
+      "text": "Staff said about 1,100 households are in interim housing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ZI16NC6wq_w",
+        "ts": "0:37:12",
+        "retrievedISO": "2026-10-16T06:42:24.117Z",
+        "endTs": "0:37:42"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
     },
     {
       "dateISO": "2026-08-05",
