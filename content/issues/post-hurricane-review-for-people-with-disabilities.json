@@ -16,7 +16,15 @@
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-25",
+  "asOfISO": "2026-10-26",
+  "boards": [
+    {
+      "name": "Commission on Persons with Disabilities",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-09-10",
@@ -26,7 +34,8 @@
         "type": "meeting",
         "videoId": "MSPMjwDvQuo",
         "ts": "1:43:10",
-        "retrievedISO": "2026-10-07T23:03:56.874Z"
+        "retrievedISO": "2026-10-07T23:03:56.874Z",
+        "endTs": "1:43:40"
       },
       "body": "Commission on Persons with Disabilities"
     },
@@ -38,7 +47,8 @@
         "type": "meeting",
         "videoId": "MSPMjwDvQuo",
         "ts": "1:42:56",
-        "retrievedISO": "2026-10-07T23:03:56.874Z"
+        "retrievedISO": "2026-10-07T23:03:56.874Z",
+        "endTs": "1:43:26"
       },
       "body": "Commission on Persons with Disabilities"
     },
@@ -50,7 +60,8 @@
         "type": "meeting",
         "videoId": "MSPMjwDvQuo",
         "ts": "1:42:07",
-        "retrievedISO": "2026-10-07T23:03:56.874Z"
+        "retrievedISO": "2026-10-07T23:03:56.874Z",
+        "endTs": "1:42:37"
       },
       "body": "Commission on Persons with Disabilities"
     },
@@ -62,7 +73,8 @@
         "type": "meeting",
         "videoId": "MSPMjwDvQuo",
         "ts": "1:41:16",
-        "retrievedISO": "2026-10-07T23:03:56.874Z"
+        "retrievedISO": "2026-10-07T23:03:56.874Z",
+        "endTs": "1:41:47"
       },
       "body": "Commission on Persons with Disabilities"
     },
@@ -74,7 +86,8 @@
         "type": "meeting",
         "videoId": "MSPMjwDvQuo",
         "ts": "1:41:12",
-        "retrievedISO": "2026-10-07T23:03:56.874Z"
+        "retrievedISO": "2026-10-07T23:03:56.874Z",
+        "endTs": "1:41:47"
       },
       "body": "Commission on Persons with Disabilities"
     },
@@ -86,7 +99,8 @@
         "type": "meeting",
         "videoId": "MSPMjwDvQuo",
         "ts": "1:40:32",
-        "retrievedISO": "2026-10-07T23:03:56.874Z"
+        "retrievedISO": "2026-10-07T23:03:56.874Z",
+        "endTs": "1:41:18"
       },
       "body": "Commission on Persons with Disabilities"
     }

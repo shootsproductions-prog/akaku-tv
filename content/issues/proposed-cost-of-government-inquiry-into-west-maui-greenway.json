@@ -16,7 +16,15 @@
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-25",
+  "asOfISO": "2026-10-26",
+  "boards": [
+    {
+      "name": "Cost of Government Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2024-11-12",
@@ -26,7 +34,8 @@
         "type": "meeting",
         "videoId": "mQrXHEvEPK4",
         "ts": "0:56:07",
-        "retrievedISO": "2026-10-15T06:35:09.763Z"
+        "retrievedISO": "2026-10-15T06:35:09.763Z",
+        "endTs": "0:56:39"
       },
       "body": "Cost of Government Commission"
     },
@@ -38,7 +47,8 @@
         "type": "meeting",
         "videoId": "mQrXHEvEPK4",
         "ts": "0:54:21",
-        "retrievedISO": "2026-10-15T06:35:09.763Z"
+        "retrievedISO": "2026-10-15T06:35:09.763Z",
+        "endTs": "0:54:57"
       },
       "body": "Cost of Government Commission"
     },
@@ -50,7 +60,8 @@
         "type": "meeting",
         "videoId": "mQrXHEvEPK4",
         "ts": "0:14:00",
-        "retrievedISO": "2026-10-15T06:35:09.763Z"
+        "retrievedISO": "2026-10-15T06:35:09.763Z",
+        "endTs": "0:15:44"
       },
       "body": "Cost of Government Commission"
     },
@@ -62,7 +73,8 @@
         "type": "meeting",
         "videoId": "mQrXHEvEPK4",
         "ts": "0:12:28",
-        "retrievedISO": "2026-10-15T06:35:09.763Z"
+        "retrievedISO": "2026-10-15T06:35:09.763Z",
+        "endTs": "0:12:59"
       },
       "body": "Cost of Government Commission"
     },
@@ -74,7 +86,8 @@
         "type": "meeting",
         "videoId": "mQrXHEvEPK4",
         "ts": "0:10:54",
-        "retrievedISO": "2026-10-15T06:35:09.763Z"
+        "retrievedISO": "2026-10-15T06:35:09.763Z",
+        "endTs": "0:11:35"
       },
       "body": "Cost of Government Commission"
     }

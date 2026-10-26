@@ -16,7 +16,15 @@
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-25",
+  "asOfISO": "2026-10-26",
+  "boards": [
+    {
+      "name": "Council on Aging",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-09-08",
@@ -26,7 +34,8 @@
         "type": "meeting",
         "videoId": "Cqu5kcGNyBc",
         "ts": "1:07:41",
-        "retrievedISO": "2026-10-07T23:04:01.841Z"
+        "retrievedISO": "2026-10-07T23:04:01.841Z",
+        "endTs": "1:08:18"
       },
       "body": "Council on Aging"
     },
@@ -38,7 +47,8 @@
         "type": "meeting",
         "videoId": "Cqu5kcGNyBc",
         "ts": "1:07:31",
-        "retrievedISO": "2026-10-07T23:04:01.841Z"
+        "retrievedISO": "2026-10-07T23:04:01.841Z",
+        "endTs": "1:08:01"
       },
       "body": "Council on Aging"
     },
@@ -50,7 +60,8 @@
         "type": "meeting",
         "videoId": "Cqu5kcGNyBc",
         "ts": "1:07:26",
-        "retrievedISO": "2026-10-07T23:04:01.841Z"
+        "retrievedISO": "2026-10-07T23:04:01.841Z",
+        "endTs": "1:07:56"
       },
       "body": "Council on Aging"
     },
@@ -62,7 +73,8 @@
         "type": "meeting",
         "videoId": "Cqu5kcGNyBc",
         "ts": "1:06:58",
-        "retrievedISO": "2026-10-07T23:04:01.841Z"
+        "retrievedISO": "2026-10-07T23:04:01.841Z",
+        "endTs": "1:07:28"
       },
       "body": "Council on Aging"
     },
@@ -74,7 +86,8 @@
         "type": "meeting",
         "videoId": "Cqu5kcGNyBc",
         "ts": "1:06:39",
-        "retrievedISO": "2026-10-07T23:04:01.841Z"
+        "retrievedISO": "2026-10-07T23:04:01.841Z",
+        "endTs": "1:07:09"
       },
       "body": "Council on Aging"
     },
@@ -86,7 +99,8 @@
         "type": "meeting",
         "videoId": "Cqu5kcGNyBc",
         "ts": "1:06:18",
-        "retrievedISO": "2026-10-07T23:04:01.841Z"
+        "retrievedISO": "2026-10-07T23:04:01.841Z",
+        "endTs": "1:06:51"
       },
       "body": "Council on Aging"
     }

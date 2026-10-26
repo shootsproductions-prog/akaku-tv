@@ -16,7 +16,15 @@
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-25",
+  "asOfISO": "2026-10-26",
+  "boards": [
+    {
+      "name": "Maui Planning Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2024-11-12",
@@ -26,7 +34,8 @@
         "type": "meeting",
         "videoId": "ndHSEenE7Tg",
         "ts": "2:16:30",
-        "retrievedISO": "2026-10-15T06:35:24.991Z"
+        "retrievedISO": "2026-10-15T06:35:24.991Z",
+        "endTs": "2:17:00"
       },
       "body": "Maui Planning Commission"
     },
@@ -38,7 +47,8 @@
         "type": "meeting",
         "videoId": "ndHSEenE7Tg",
         "ts": "2:14:40",
-        "retrievedISO": "2026-10-15T06:35:24.991Z"
+        "retrievedISO": "2026-10-15T06:35:24.991Z",
+        "endTs": "2:15:10"
       },
       "body": "Maui Planning Commission"
     },
@@ -50,7 +60,8 @@
         "type": "meeting",
         "videoId": "ndHSEenE7Tg",
         "ts": "2:11:29",
-        "retrievedISO": "2026-10-15T06:35:24.991Z"
+        "retrievedISO": "2026-10-15T06:35:24.991Z",
+        "endTs": "2:12:06"
       },
       "body": "Maui Planning Commission"
     },
@@ -62,7 +73,8 @@
         "type": "meeting",
         "videoId": "ndHSEenE7Tg",
         "ts": "1:24:30",
-        "retrievedISO": "2026-10-15T06:35:24.991Z"
+        "retrievedISO": "2026-10-15T06:35:24.991Z",
+        "endTs": "1:25:03"
       },
       "body": "Maui Planning Commission"
     },
@@ -74,7 +86,8 @@
         "type": "meeting",
         "videoId": "ndHSEenE7Tg",
         "ts": "0:41:15",
-        "retrievedISO": "2026-10-15T06:35:24.991Z"
+        "retrievedISO": "2026-10-15T06:35:24.991Z",
+        "endTs": "0:41:46"
       },
       "body": "Maui Planning Commission"
     },
@@ -86,7 +99,8 @@
         "type": "meeting",
         "videoId": "ndHSEenE7Tg",
         "ts": "0:32:16",
-        "retrievedISO": "2026-10-15T06:35:24.991Z"
+        "retrievedISO": "2026-10-15T06:35:24.991Z",
+        "endTs": "0:32:46"
       },
       "body": "Maui Planning Commission"
     },
@@ -98,7 +112,8 @@
         "type": "meeting",
         "videoId": "ndHSEenE7Tg",
         "ts": "0:27:22",
-        "retrievedISO": "2026-10-15T06:35:24.991Z"
+        "retrievedISO": "2026-10-15T06:35:24.991Z",
+        "endTs": "0:27:57"
       },
       "body": "Maui Planning Commission"
     },
@@ -110,7 +125,8 @@
         "type": "meeting",
         "videoId": "39uwqsfa98c",
         "ts": "5:00:31",
-        "retrievedISO": "2026-10-15T06:35:38.829Z"
+        "retrievedISO": "2026-10-15T06:35:38.829Z",
+        "endTs": "5:01:01"
       },
       "body": "Maui Planning Commission"
     }

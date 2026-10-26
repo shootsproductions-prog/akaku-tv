@@ -17,7 +17,15 @@
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-25",
+  "asOfISO": "2026-10-26",
+  "boards": [
+    {
+      "name": "Committee on Persons with Disabilities",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2024-11-14",
@@ -27,7 +35,8 @@
         "type": "meeting",
         "videoId": "lh7UtxNLLFU",
         "ts": "0:59:37",
-        "retrievedISO": "2026-10-12T06:30:29.333Z"
+        "retrievedISO": "2026-10-12T06:30:29.333Z",
+        "endTs": "1:00:07"
       },
       "body": "Committee on Persons with Disabilities"
     },
@@ -39,7 +48,8 @@
         "type": "meeting",
         "videoId": "lh7UtxNLLFU",
         "ts": "0:59:18",
-        "retrievedISO": "2026-10-12T06:30:29.333Z"
+        "retrievedISO": "2026-10-12T06:30:29.333Z",
+        "endTs": "0:59:49"
       },
       "body": "Committee on Persons with Disabilities"
     },
@@ -51,7 +61,8 @@
         "type": "meeting",
         "videoId": "lh7UtxNLLFU",
         "ts": "0:57:54",
-        "retrievedISO": "2026-10-12T06:30:29.333Z"
+        "retrievedISO": "2026-10-12T06:30:29.333Z",
+        "endTs": "0:58:29"
       },
       "body": "Committee on Persons with Disabilities"
     },
@@ -63,7 +74,8 @@
         "type": "meeting",
         "videoId": "lh7UtxNLLFU",
         "ts": "0:57:45",
-        "retrievedISO": "2026-10-12T06:30:29.333Z"
+        "retrievedISO": "2026-10-12T06:30:29.333Z",
+        "endTs": "0:58:15"
       },
       "body": "Committee on Persons with Disabilities"
     },
@@ -75,7 +87,8 @@
         "type": "meeting",
         "videoId": "lh7UtxNLLFU",
         "ts": "0:56:55",
-        "retrievedISO": "2026-10-12T06:30:29.333Z"
+        "retrievedISO": "2026-10-12T06:30:29.333Z",
+        "endTs": "0:57:40"
       },
       "body": "Committee on Persons with Disabilities"
     },
@@ -87,7 +100,8 @@
         "type": "meeting",
         "videoId": "lh7UtxNLLFU",
         "ts": "0:56:10",
-        "retrievedISO": "2026-10-12T06:30:29.333Z"
+        "retrievedISO": "2026-10-12T06:30:29.333Z",
+        "endTs": "0:56:40"
       },
       "body": "Committee on Persons with Disabilities"
     },
@@ -99,7 +113,8 @@
         "type": "meeting",
         "videoId": "lh7UtxNLLFU",
         "ts": "0:55:51",
-        "retrievedISO": "2026-10-12T06:30:29.333Z"
+        "retrievedISO": "2026-10-12T06:30:29.333Z",
+        "endTs": "0:56:22"
       },
       "body": "Committee on Persons with Disabilities"
     }

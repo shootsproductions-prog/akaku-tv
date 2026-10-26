@@ -16,7 +16,15 @@
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-25",
+  "asOfISO": "2026-10-26",
+  "boards": [
+    {
+      "name": "Liquor Control Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-09-09",
@@ -26,7 +34,8 @@
         "type": "meeting",
         "videoId": "JbnNdXeWXNo",
         "ts": "2:42:29",
-        "retrievedISO": "2026-10-07T23:03:46.572Z"
+        "retrievedISO": "2026-10-07T23:03:46.572Z",
+        "endTs": "2:43:00"
       },
       "body": "Liquor Control Commission"
     },
@@ -38,7 +47,8 @@
         "type": "meeting",
         "videoId": "un-2pzYnRtQ",
         "ts": "3:19:06",
-        "retrievedISO": "2026-10-13T06:35:19.455Z"
+        "retrievedISO": "2026-10-13T06:35:19.455Z",
+        "endTs": "3:19:46"
       },
       "body": "Liquor Control Commission"
     },
@@ -50,7 +60,8 @@
         "type": "meeting",
         "videoId": "un-2pzYnRtQ",
         "ts": "3:17:16",
-        "retrievedISO": "2026-10-13T06:35:19.455Z"
+        "retrievedISO": "2026-10-13T06:35:19.455Z",
+        "endTs": "3:19:00"
       },
       "body": "Liquor Control Commission"
     },
@@ -62,7 +73,8 @@
         "type": "meeting",
         "videoId": "un-2pzYnRtQ",
         "ts": "3:04:29",
-        "retrievedISO": "2026-10-13T06:35:19.455Z"
+        "retrievedISO": "2026-10-13T06:35:19.455Z",
+        "endTs": "3:04:59"
       },
       "body": "Liquor Control Commission"
     },
@@ -74,7 +86,8 @@
         "type": "meeting",
         "videoId": "un-2pzYnRtQ",
         "ts": "2:56:14",
-        "retrievedISO": "2026-10-13T06:35:19.455Z"
+        "retrievedISO": "2026-10-13T06:35:19.455Z",
+        "endTs": "2:57:19"
       },
       "body": "Liquor Control Commission"
     },
@@ -86,7 +99,8 @@
         "type": "meeting",
         "videoId": "un-2pzYnRtQ",
         "ts": "1:51:06",
-        "retrievedISO": "2026-10-13T06:35:19.455Z"
+        "retrievedISO": "2026-10-13T06:35:19.455Z",
+        "endTs": "1:51:44"
       },
       "body": "Liquor Control Commission"
     },
@@ -98,7 +112,8 @@
         "type": "meeting",
         "videoId": "un-2pzYnRtQ",
         "ts": "1:05:43",
-        "retrievedISO": "2026-10-13T06:35:19.455Z"
+        "retrievedISO": "2026-10-13T06:35:19.455Z",
+        "endTs": "1:06:13"
       },
       "body": "Liquor Control Commission"
     },
@@ -110,7 +125,8 @@
         "type": "meeting",
         "videoId": "un-2pzYnRtQ",
         "ts": "1:05:00",
-        "retrievedISO": "2026-10-13T06:35:19.455Z"
+        "retrievedISO": "2026-10-13T06:35:19.455Z",
+        "endTs": "1:06:00"
       },
       "body": "Liquor Control Commission"
     },
@@ -122,7 +138,8 @@
         "type": "meeting",
         "videoId": "un-2pzYnRtQ",
         "ts": "0:56:24",
-        "retrievedISO": "2026-10-13T06:35:19.455Z"
+        "retrievedISO": "2026-10-13T06:35:19.455Z",
+        "endTs": "0:56:54"
       },
       "body": "Liquor Control Commission"
     },
@@ -134,7 +151,8 @@
         "type": "meeting",
         "videoId": "un-2pzYnRtQ",
         "ts": "0:43:28",
-        "retrievedISO": "2026-10-13T06:35:19.455Z"
+        "retrievedISO": "2026-10-13T06:35:19.455Z",
+        "endTs": "0:44:24"
       },
       "body": "Liquor Control Commission"
     },
@@ -146,7 +164,8 @@
         "type": "meeting",
         "videoId": "un-2pzYnRtQ",
         "ts": "0:36:26",
-        "retrievedISO": "2026-10-13T06:35:19.455Z"
+        "retrievedISO": "2026-10-13T06:35:19.455Z",
+        "endTs": "0:36:56"
       },
       "body": "Liquor Control Commission"
     },
@@ -158,7 +177,8 @@
         "type": "meeting",
         "videoId": "un-2pzYnRtQ",
         "ts": "0:23:03",
-        "retrievedISO": "2026-10-13T06:35:19.455Z"
+        "retrievedISO": "2026-10-13T06:35:19.455Z",
+        "endTs": "0:23:51"
       },
       "body": "Liquor Control Commission"
     }

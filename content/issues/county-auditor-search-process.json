@@ -15,7 +15,15 @@
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-25",
+  "asOfISO": "2026-10-26",
+  "boards": [
+    {
+      "name": "Independent Nomination Board",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2024-11-13",
@@ -25,7 +33,8 @@
         "type": "meeting",
         "videoId": "YYBXcngSv8c",
         "ts": "1:11:26",
-        "retrievedISO": "2026-10-15T06:35:27.615Z"
+        "retrievedISO": "2026-10-15T06:35:27.615Z",
+        "endTs": "1:12:00"
       },
       "body": "Independent Nomination Board"
     },
@@ -37,7 +46,8 @@
         "type": "meeting",
         "videoId": "AwSVh0_Rn-A",
         "ts": "0:57:12",
-        "retrievedISO": "2026-10-15T06:35:40.448Z"
+        "retrievedISO": "2026-10-15T06:35:40.448Z",
+        "endTs": "0:57:42"
       },
       "body": "Independent Nomination Board"
     }

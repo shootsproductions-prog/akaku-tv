@@ -16,7 +16,15 @@
     "mentionsLast30d": 2,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-25",
+  "asOfISO": "2026-10-26",
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-09-30",
@@ -26,7 +34,8 @@
         "type": "meeting",
         "videoId": "oZNc2fyyOPE",
         "ts": "0:23:35",
-        "retrievedISO": "2026-10-16T03:41:33.571Z"
+        "retrievedISO": "2026-10-16T03:41:33.571Z",
+        "endTs": "0:24:05"
       },
       "body": "County Council Special Meeting"
     },
@@ -38,7 +47,8 @@
         "type": "meeting",
         "videoId": "oZNc2fyyOPE",
         "ts": "0:23:05",
-        "retrievedISO": "2026-10-16T03:41:33.571Z"
+        "retrievedISO": "2026-10-16T03:41:33.571Z",
+        "endTs": "0:23:44"
       },
       "body": "County Council Special Meeting"
     }

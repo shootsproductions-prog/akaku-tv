@@ -16,7 +16,15 @@
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-25",
+  "asOfISO": "2026-10-26",
+  "boards": [
+    {
+      "name": "Liquor Control Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-09-09",
@@ -26,7 +34,8 @@
         "type": "meeting",
         "videoId": "JbnNdXeWXNo",
         "ts": "0:34:18",
-        "retrievedISO": "2026-10-07T23:03:46.572Z"
+        "retrievedISO": "2026-10-07T23:03:46.572Z",
+        "endTs": "0:34:53"
       },
       "body": "Liquor Control Commission"
     },
@@ -38,7 +47,8 @@
         "type": "meeting",
         "videoId": "JbnNdXeWXNo",
         "ts": "0:31:26",
-        "retrievedISO": "2026-10-07T23:03:46.572Z"
+        "retrievedISO": "2026-10-07T23:03:46.572Z",
+        "endTs": "0:32:19"
       },
       "body": "Liquor Control Commission"
     },
@@ -50,7 +60,8 @@
         "type": "meeting",
         "videoId": "JbnNdXeWXNo",
         "ts": "0:29:33",
-        "retrievedISO": "2026-10-07T23:03:46.572Z"
+        "retrievedISO": "2026-10-07T23:03:46.572Z",
+        "endTs": "0:30:20"
       },
       "body": "Liquor Control Commission"
     }

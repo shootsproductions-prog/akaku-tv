@@ -15,7 +15,22 @@
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-25",
+  "asOfISO": "2026-10-26",
+  "boards": [
+    {
+      "name": "MPO Policy Board",
+      "group": "board",
+      "short": []
+    },
+    {
+      "name": "Maui MPO Technical Advisory Committee",
+      "group": "board",
+      "short": [
+        "MPO TAC"
+      ]
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2024-11-25",
@@ -25,7 +40,8 @@
         "type": "meeting",
         "videoId": "Waw25HcUMYM",
         "ts": "1:03:48",
-        "retrievedISO": "2026-10-15T06:35:15.349Z"
+        "retrievedISO": "2026-10-15T06:35:15.349Z",
+        "endTs": "1:04:20"
       },
       "body": "MPO Policy Board"
     },
@@ -37,7 +53,8 @@
         "type": "meeting",
         "videoId": "Waw25HcUMYM",
         "ts": "0:59:38",
-        "retrievedISO": "2026-10-15T06:35:15.349Z"
+        "retrievedISO": "2026-10-15T06:35:15.349Z",
+        "endTs": "1:00:08"
       },
       "body": "MPO Policy Board"
     },
@@ -49,7 +66,8 @@
         "type": "meeting",
         "videoId": "Waw25HcUMYM",
         "ts": "0:50:06",
-        "retrievedISO": "2026-10-15T06:35:15.349Z"
+        "retrievedISO": "2026-10-15T06:35:15.349Z",
+        "endTs": "0:50:36"
       },
       "body": "MPO Policy Board"
     },
@@ -61,7 +79,8 @@
         "type": "meeting",
         "videoId": "Waw25HcUMYM",
         "ts": "0:49:34",
-        "retrievedISO": "2026-10-15T06:35:15.349Z"
+        "retrievedISO": "2026-10-15T06:35:15.349Z",
+        "endTs": "0:50:04"
       },
       "body": "MPO Policy Board"
     },
@@ -73,7 +92,8 @@
         "type": "meeting",
         "videoId": "Waw25HcUMYM",
         "ts": "0:48:31",
-        "retrievedISO": "2026-10-15T06:35:15.349Z"
+        "retrievedISO": "2026-10-15T06:35:15.349Z",
+        "endTs": "0:49:01"
       },
       "body": "MPO Policy Board"
     },
@@ -85,7 +105,8 @@
         "type": "meeting",
         "videoId": "Waw25HcUMYM",
         "ts": "0:48:22",
-        "retrievedISO": "2026-10-15T06:35:15.349Z"
+        "retrievedISO": "2026-10-15T06:35:15.349Z",
+        "endTs": "0:49:10"
       },
       "body": "MPO Policy Board"
     },
@@ -97,7 +118,8 @@
         "type": "meeting",
         "videoId": "0Y9Q-olLylQ",
         "ts": "0:58:07",
-        "retrievedISO": "2026-10-15T06:35:26.512Z"
+        "retrievedISO": "2026-10-15T06:35:26.512Z",
+        "endTs": "0:58:54"
       },
       "body": "Maui MPO Technical Advisory Committee"
     },
@@ -109,7 +131,8 @@
         "type": "meeting",
         "videoId": "0Y9Q-olLylQ",
         "ts": "0:45:19",
-        "retrievedISO": "2026-10-15T06:35:26.512Z"
+        "retrievedISO": "2026-10-15T06:35:26.512Z",
+        "endTs": "0:46:17"
       },
       "body": "Maui MPO Technical Advisory Committee"
     },
@@ -121,7 +144,8 @@
         "type": "meeting",
         "videoId": "0Y9Q-olLylQ",
         "ts": "0:41:25",
-        "retrievedISO": "2026-10-15T06:35:26.512Z"
+        "retrievedISO": "2026-10-15T06:35:26.512Z",
+        "endTs": "0:41:55"
       },
       "body": "Maui MPO Technical Advisory Committee"
     },
@@ -133,7 +157,8 @@
         "type": "meeting",
         "videoId": "0Y9Q-olLylQ",
         "ts": "0:35:24",
-        "retrievedISO": "2026-10-15T06:35:26.512Z"
+        "retrievedISO": "2026-10-15T06:35:26.512Z",
+        "endTs": "0:35:54"
       },
       "body": "Maui MPO Technical Advisory Committee"
     },
@@ -145,7 +170,8 @@
         "type": "meeting",
         "videoId": "0Y9Q-olLylQ",
         "ts": "0:26:19",
-        "retrievedISO": "2026-10-15T06:35:26.512Z"
+        "retrievedISO": "2026-10-15T06:35:26.512Z",
+        "endTs": "0:26:50"
       },
       "body": "Maui MPO Technical Advisory Committee"
     }

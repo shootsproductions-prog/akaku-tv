@@ -16,7 +16,17 @@
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-25",
+  "asOfISO": "2026-10-26",
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [
+    "Bill 122 (2026)"
+  ],
   "timeline": [
     {
       "dateISO": "2026-09-04",
@@ -26,7 +36,8 @@
         "type": "meeting",
         "videoId": "UsJUbzdqBgw",
         "ts": "2:42:39",
-        "retrievedISO": "2026-10-16T16:08:54.867Z"
+        "retrievedISO": "2026-10-16T16:08:54.867Z",
+        "endTs": "2:43:30"
       },
       "body": "County Council Meeting"
     },
@@ -38,7 +49,8 @@
         "type": "meeting",
         "videoId": "UsJUbzdqBgw",
         "ts": "2:40:21",
-        "retrievedISO": "2026-10-16T16:08:54.867Z"
+        "retrievedISO": "2026-10-16T16:08:54.867Z",
+        "endTs": "2:41:40"
       },
       "body": "County Council Meeting"
     },
@@ -50,7 +62,8 @@
         "type": "meeting",
         "videoId": "UsJUbzdqBgw",
         "ts": "2:39:10",
-        "retrievedISO": "2026-10-16T16:08:54.867Z"
+        "retrievedISO": "2026-10-16T16:08:54.867Z",
+        "endTs": "2:40:29"
       },
       "body": "County Council Meeting"
     },
@@ -62,7 +75,8 @@
         "type": "meeting",
         "videoId": "UsJUbzdqBgw",
         "ts": "2:38:21",
-        "retrievedISO": "2026-10-16T16:08:54.867Z"
+        "retrievedISO": "2026-10-16T16:08:54.867Z",
+        "endTs": "2:38:51"
       },
       "body": "County Council Meeting"
     },
@@ -74,7 +88,8 @@
         "type": "meeting",
         "videoId": "UsJUbzdqBgw",
         "ts": "2:38:13",
-        "retrievedISO": "2026-10-16T16:08:54.867Z"
+        "retrievedISO": "2026-10-16T16:08:54.867Z",
+        "endTs": "2:38:43"
       },
       "body": "County Council Meeting"
     },
@@ -86,7 +101,8 @@
         "type": "meeting",
         "videoId": "UsJUbzdqBgw",
         "ts": "2:37:47",
-        "retrievedISO": "2026-10-16T16:08:54.867Z"
+        "retrievedISO": "2026-10-16T16:08:54.867Z",
+        "endTs": "2:38:18"
       },
       "body": "County Council Meeting"
     },
@@ -98,7 +114,8 @@
         "type": "meeting",
         "videoId": "UsJUbzdqBgw",
         "ts": "0:52:04",
-        "retrievedISO": "2026-10-16T16:08:54.867Z"
+        "retrievedISO": "2026-10-16T16:08:54.867Z",
+        "endTs": "0:52:34"
       },
       "body": "County Council Meeting"
     },
@@ -110,7 +127,8 @@
         "type": "meeting",
         "videoId": "UsJUbzdqBgw",
         "ts": "0:51:11",
-        "retrievedISO": "2026-10-16T16:08:54.867Z"
+        "retrievedISO": "2026-10-16T16:08:54.867Z",
+        "endTs": "0:51:43"
       },
       "body": "County Council Meeting"
     }

@@ -15,7 +15,17 @@
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-25",
+  "asOfISO": "2026-10-26",
+  "boards": [
+    {
+      "name": "Board of Variances and Appeals",
+      "group": "board",
+      "short": [
+        "BVA"
+      ]
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-09-10",
@@ -25,7 +35,8 @@
         "type": "meeting",
         "videoId": "4I6EFuhArJ0",
         "ts": "0:20:07",
-        "retrievedISO": "2026-10-07T23:03:56.212Z"
+        "retrievedISO": "2026-10-07T23:03:56.212Z",
+        "endTs": "0:20:39"
       },
       "body": "Board of Variances and Appeals"
     },
@@ -37,7 +48,8 @@
         "type": "meeting",
         "videoId": "4I6EFuhArJ0",
         "ts": "0:17:56",
-        "retrievedISO": "2026-10-07T23:03:56.212Z"
+        "retrievedISO": "2026-10-07T23:03:56.212Z",
+        "endTs": "0:18:26"
       },
       "body": "Board of Variances and Appeals"
     }

@@ -15,7 +15,15 @@
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-25",
+  "asOfISO": "2026-10-26",
+  "boards": [
+    {
+      "name": "Board of Variances Reviews Haʻikū Zipline & Lumeria Maui Appeals",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-09-24",
@@ -25,7 +33,8 @@
         "type": "meeting",
         "videoId": "5tSUVNooio0",
         "ts": "0:10:58",
-        "retrievedISO": "2026-10-07T23:03:45.801Z"
+        "retrievedISO": "2026-10-07T23:03:45.801Z",
+        "endTs": "0:11:28"
       },
       "body": "Board of Variances Reviews Haʻikū Zipline & Lumeria Maui Appeals"
     },
@@ -37,7 +46,8 @@
         "type": "meeting",
         "videoId": "5tSUVNooio0",
         "ts": "0:10:14",
-        "retrievedISO": "2026-10-07T23:03:45.801Z"
+        "retrievedISO": "2026-10-07T23:03:45.801Z",
+        "endTs": "0:10:44"
       },
       "body": "Board of Variances Reviews Haʻikū Zipline & Lumeria Maui Appeals"
     },
@@ -49,7 +59,8 @@
         "type": "meeting",
         "videoId": "5tSUVNooio0",
         "ts": "0:09:37",
-        "retrievedISO": "2026-10-07T23:03:45.801Z"
+        "retrievedISO": "2026-10-07T23:03:45.801Z",
+        "endTs": "0:10:07"
       },
       "body": "Board of Variances Reviews Haʻikū Zipline & Lumeria Maui Appeals"
     },
@@ -61,7 +72,8 @@
         "type": "meeting",
         "videoId": "5tSUVNooio0",
         "ts": "0:09:03",
-        "retrievedISO": "2026-10-07T23:03:45.801Z"
+        "retrievedISO": "2026-10-07T23:03:45.801Z",
+        "endTs": "0:09:33"
       },
       "body": "Board of Variances Reviews Haʻikū Zipline & Lumeria Maui Appeals"
     },
@@ -73,7 +85,8 @@
         "type": "meeting",
         "videoId": "5tSUVNooio0",
         "ts": "0:08:47",
-        "retrievedISO": "2026-10-07T23:03:45.801Z"
+        "retrievedISO": "2026-10-07T23:03:45.801Z",
+        "endTs": "0:09:17"
       },
       "body": "Board of Variances Reviews Haʻikū Zipline & Lumeria Maui Appeals"
     }

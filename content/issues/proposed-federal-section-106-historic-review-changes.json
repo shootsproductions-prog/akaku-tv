@@ -16,7 +16,15 @@
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-25",
+  "asOfISO": "2026-10-26",
+  "boards": [
+    {
+      "name": "Cultural Resources Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-09-03",
@@ -26,7 +34,8 @@
         "type": "meeting",
         "videoId": "vhZUiN4y4Zw",
         "ts": "3:12:23",
-        "retrievedISO": "2026-10-07T23:04:02.794Z"
+        "retrievedISO": "2026-10-07T23:04:02.794Z",
+        "endTs": "3:12:53"
       },
       "body": "Cultural Resources Commission"
     },
@@ -38,7 +47,8 @@
         "type": "meeting",
         "videoId": "vhZUiN4y4Zw",
         "ts": "2:02:39",
-        "retrievedISO": "2026-10-07T23:04:02.794Z"
+        "retrievedISO": "2026-10-07T23:04:02.794Z",
+        "endTs": "2:03:20"
       },
       "body": "Cultural Resources Commission"
     },
@@ -50,7 +60,8 @@
         "type": "meeting",
         "videoId": "vhZUiN4y4Zw",
         "ts": "1:51:57",
-        "retrievedISO": "2026-10-07T23:04:02.794Z"
+        "retrievedISO": "2026-10-07T23:04:02.794Z",
+        "endTs": "1:52:40"
       },
       "body": "Cultural Resources Commission"
     },
@@ -62,7 +73,8 @@
         "type": "meeting",
         "videoId": "1EOFZJD_EGw",
         "ts": "2:42:17",
-        "retrievedISO": "2026-10-13T06:35:07.755Z"
+        "retrievedISO": "2026-10-13T06:35:07.755Z",
+        "endTs": "2:42:58"
       },
       "body": "Cultural Resources Commission"
     }

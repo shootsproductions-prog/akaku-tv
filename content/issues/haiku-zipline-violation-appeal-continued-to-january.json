@@ -15,7 +15,15 @@
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-25",
+  "asOfISO": "2026-10-26",
+  "boards": [
+    {
+      "name": "Board of Variances Reviews Haʻikū Zipline & Lumeria Maui Appeals",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-09-24",
@@ -25,7 +33,8 @@
         "type": "meeting",
         "videoId": "5tSUVNooio0",
         "ts": "0:07:33",
-        "retrievedISO": "2026-10-07T23:03:45.801Z"
+        "retrievedISO": "2026-10-07T23:03:45.801Z",
+        "endTs": "0:08:14"
       },
       "body": "Board of Variances Reviews Haʻikū Zipline & Lumeria Maui Appeals"
     },
@@ -37,7 +46,8 @@
         "type": "meeting",
         "videoId": "5tSUVNooio0",
         "ts": "0:07:06",
-        "retrievedISO": "2026-10-07T23:03:45.801Z"
+        "retrievedISO": "2026-10-07T23:03:45.801Z",
+        "endTs": "0:07:38"
       },
       "body": "Board of Variances Reviews Haʻikū Zipline & Lumeria Maui Appeals"
     },
@@ -49,7 +59,8 @@
         "type": "meeting",
         "videoId": "5tSUVNooio0",
         "ts": "0:03:48",
-        "retrievedISO": "2026-10-07T23:03:45.801Z"
+        "retrievedISO": "2026-10-07T23:03:45.801Z",
+        "endTs": "0:04:35"
       },
       "body": "Board of Variances Reviews Haʻikū Zipline & Lumeria Maui Appeals"
     },
@@ -61,7 +72,8 @@
         "type": "meeting",
         "videoId": "5tSUVNooio0",
         "ts": "0:03:24",
-        "retrievedISO": "2026-10-07T23:03:45.801Z"
+        "retrievedISO": "2026-10-07T23:03:45.801Z",
+        "endTs": "0:03:58"
       },
       "body": "Board of Variances Reviews Haʻikū Zipline & Lumeria Maui Appeals"
     },
@@ -73,7 +85,8 @@
         "type": "meeting",
         "videoId": "5tSUVNooio0",
         "ts": "0:03:07",
-        "retrievedISO": "2026-10-07T23:03:45.801Z"
+        "retrievedISO": "2026-10-07T23:03:45.801Z",
+        "endTs": "0:03:37"
       },
       "body": "Board of Variances Reviews Haʻikū Zipline & Lumeria Maui Appeals"
     },
@@ -85,7 +98,8 @@
         "type": "meeting",
         "videoId": "5tSUVNooio0",
         "ts": "0:02:20",
-        "retrievedISO": "2026-10-07T23:03:45.801Z"
+        "retrievedISO": "2026-10-07T23:03:45.801Z",
+        "endTs": "0:02:50"
       },
       "body": "Board of Variances Reviews Haʻikū Zipline & Lumeria Maui Appeals"
     }

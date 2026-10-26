@@ -16,7 +16,17 @@
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-25",
+  "asOfISO": "2026-10-26",
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [
+    "Bill 130 (2024)"
+  ],
   "timeline": [
     {
       "dateISO": "2024-11-26",
@@ -26,7 +36,8 @@
         "type": "meeting",
         "videoId": "jUG5zrO3VCw",
         "ts": "2:27:26",
-        "retrievedISO": "2026-10-21T18:04:36.529Z"
+        "retrievedISO": "2026-10-21T18:04:36.529Z",
+        "endTs": "2:28:00"
       },
       "body": "County Council Meeting"
     }

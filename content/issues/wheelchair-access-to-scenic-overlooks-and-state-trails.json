@@ -16,7 +16,15 @@
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-25",
+  "asOfISO": "2026-10-26",
+  "boards": [
+    {
+      "name": "Commission on Persons with Disabilities",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-09-10",
@@ -26,7 +34,8 @@
         "type": "meeting",
         "videoId": "MSPMjwDvQuo",
         "ts": "0:58:59",
-        "retrievedISO": "2026-10-07T23:03:56.874Z"
+        "retrievedISO": "2026-10-07T23:03:56.874Z",
+        "endTs": "0:59:29"
       },
       "body": "Commission on Persons with Disabilities"
     },
@@ -38,7 +47,8 @@
         "type": "meeting",
         "videoId": "sY6AwUuHzjI",
         "ts": "2:03:16",
-        "retrievedISO": "2026-10-12T06:30:07.228Z"
+        "retrievedISO": "2026-10-12T06:30:07.228Z",
+        "endTs": "2:03:46"
       },
       "body": "Commission on Persons with Disabilities"
     },
@@ -50,7 +60,8 @@
         "type": "meeting",
         "videoId": "sY6AwUuHzjI",
         "ts": "0:06:35",
-        "retrievedISO": "2026-10-12T06:30:07.228Z"
+        "retrievedISO": "2026-10-12T06:30:07.228Z",
+        "endTs": "0:08:10"
       },
       "body": "Commission on Persons with Disabilities"
     }

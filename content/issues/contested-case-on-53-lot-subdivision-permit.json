@@ -16,7 +16,15 @@
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-25",
+  "asOfISO": "2026-10-26",
+  "boards": [
+    {
+      "name": "Maui Planning Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2024-10-22",
@@ -26,7 +34,8 @@
         "type": "meeting",
         "videoId": "39uwqsfa98c",
         "ts": "3:05:59",
-        "retrievedISO": "2026-10-15T06:35:38.829Z"
+        "retrievedISO": "2026-10-15T06:35:38.829Z",
+        "endTs": "3:06:29"
       },
       "body": "Maui Planning Commission"
     },
@@ -38,7 +47,8 @@
         "type": "meeting",
         "videoId": "39uwqsfa98c",
         "ts": "1:39:09",
-        "retrievedISO": "2026-10-15T06:35:38.829Z"
+        "retrievedISO": "2026-10-15T06:35:38.829Z",
+        "endTs": "1:39:48"
       },
       "body": "Maui Planning Commission"
     }

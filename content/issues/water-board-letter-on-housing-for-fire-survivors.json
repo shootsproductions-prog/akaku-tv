@@ -17,7 +17,17 @@
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-25",
+  "asOfISO": "2026-10-26",
+  "boards": [
+    {
+      "name": "Board of Water Supply",
+      "group": "board",
+      "short": [
+        "BWS"
+      ]
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2024-11-21",
@@ -27,7 +37,8 @@
         "type": "meeting",
         "videoId": "XD60_Qatcxw",
         "ts": "0:53:52",
-        "retrievedISO": "2026-10-09T06:35:07.486Z"
+        "retrievedISO": "2026-10-09T06:35:07.486Z",
+        "endTs": "0:54:27"
       },
       "body": "Board of Water Supply"
     },
@@ -39,7 +50,8 @@
         "type": "meeting",
         "videoId": "XD60_Qatcxw",
         "ts": "0:53:46",
-        "retrievedISO": "2026-10-09T06:35:07.486Z"
+        "retrievedISO": "2026-10-09T06:35:07.486Z",
+        "endTs": "0:54:27"
       },
       "body": "Board of Water Supply"
     },
@@ -51,7 +63,8 @@
         "type": "meeting",
         "videoId": "XD60_Qatcxw",
         "ts": "0:53:17",
-        "retrievedISO": "2026-10-09T06:35:07.486Z"
+        "retrievedISO": "2026-10-09T06:35:07.486Z",
+        "endTs": "0:53:47"
       },
       "body": "Board of Water Supply"
     },
@@ -63,7 +76,8 @@
         "type": "meeting",
         "videoId": "XD60_Qatcxw",
         "ts": "0:52:27",
-        "retrievedISO": "2026-10-09T06:35:07.486Z"
+        "retrievedISO": "2026-10-09T06:35:07.486Z",
+        "endTs": "0:52:57"
       },
       "body": "Board of Water Supply"
     },
@@ -75,7 +89,8 @@
         "type": "meeting",
         "videoId": "XD60_Qatcxw",
         "ts": "0:52:14",
-        "retrievedISO": "2026-10-09T06:35:07.486Z"
+        "retrievedISO": "2026-10-09T06:35:07.486Z",
+        "endTs": "0:52:44"
       },
       "body": "Board of Water Supply"
     },
@@ -87,7 +102,8 @@
         "type": "meeting",
         "videoId": "XD60_Qatcxw",
         "ts": "0:52:02",
-        "retrievedISO": "2026-10-09T06:35:07.486Z"
+        "retrievedISO": "2026-10-09T06:35:07.486Z",
+        "endTs": "0:52:32"
       },
       "body": "Board of Water Supply"
     },
@@ -99,7 +115,8 @@
         "type": "meeting",
         "videoId": "XD60_Qatcxw",
         "ts": "0:44:35",
-        "retrievedISO": "2026-10-09T06:35:07.486Z"
+        "retrievedISO": "2026-10-09T06:35:07.486Z",
+        "endTs": "0:45:05"
       },
       "body": "Board of Water Supply"
     },
@@ -111,7 +128,8 @@
         "type": "meeting",
         "videoId": "XD60_Qatcxw",
         "ts": "0:44:23",
-        "retrievedISO": "2026-10-09T06:35:07.486Z"
+        "retrievedISO": "2026-10-09T06:35:07.486Z",
+        "endTs": "0:44:53"
       },
       "body": "Board of Water Supply"
     }

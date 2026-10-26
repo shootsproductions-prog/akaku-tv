@@ -16,7 +16,20 @@
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-25",
+  "asOfISO": "2026-10-26",
+  "boards": [
+    {
+      "name": "Commission on Children & Youth",
+      "group": "board",
+      "short": []
+    },
+    {
+      "name": "Commission on Children and Youth",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2024-12-16",
@@ -26,7 +39,8 @@
         "type": "meeting",
         "videoId": "eP7TRDIaloc",
         "ts": "0:32:22",
-        "retrievedISO": "2026-10-15T06:35:06.512Z"
+        "retrievedISO": "2026-10-15T06:35:06.512Z",
+        "endTs": "0:32:53"
       },
       "body": "Commission on Children & Youth"
     },
@@ -38,7 +52,8 @@
         "type": "meeting",
         "videoId": "eP7TRDIaloc",
         "ts": "0:30:21",
-        "retrievedISO": "2026-10-15T06:35:06.512Z"
+        "retrievedISO": "2026-10-15T06:35:06.512Z",
+        "endTs": "0:31:12"
       },
       "body": "Commission on Children & Youth"
     },
@@ -50,7 +65,8 @@
         "type": "meeting",
         "videoId": "eP7TRDIaloc",
         "ts": "0:11:50",
-        "retrievedISO": "2026-10-15T06:35:06.512Z"
+        "retrievedISO": "2026-10-15T06:35:06.512Z",
+        "endTs": "0:12:20"
       },
       "body": "Commission on Children & Youth"
     },
@@ -62,7 +78,8 @@
         "type": "meeting",
         "videoId": "ylzQrfRgg-g",
         "ts": "0:28:04",
-        "retrievedISO": "2026-10-15T06:35:21.777Z"
+        "retrievedISO": "2026-10-15T06:35:21.777Z",
+        "endTs": "0:28:35"
       },
       "body": "Commission on Children and Youth"
     },
@@ -74,7 +91,8 @@
         "type": "meeting",
         "videoId": "ylzQrfRgg-g",
         "ts": "0:28:02",
-        "retrievedISO": "2026-10-15T06:35:21.777Z"
+        "retrievedISO": "2026-10-15T06:35:21.777Z",
+        "endTs": "0:29:01"
       },
       "body": "Commission on Children and Youth"
     },
@@ -86,7 +104,8 @@
         "type": "meeting",
         "videoId": "ylzQrfRgg-g",
         "ts": "0:27:03",
-        "retrievedISO": "2026-10-15T06:35:21.777Z"
+        "retrievedISO": "2026-10-15T06:35:21.777Z",
+        "endTs": "0:27:33"
       },
       "body": "Commission on Children and Youth"
     },
@@ -98,7 +117,8 @@
         "type": "meeting",
         "videoId": "ylzQrfRgg-g",
         "ts": "0:17:31",
-        "retrievedISO": "2026-10-15T06:35:21.777Z"
+        "retrievedISO": "2026-10-15T06:35:21.777Z",
+        "endTs": "0:18:01"
       },
       "body": "Commission on Children and Youth"
     },
@@ -110,7 +130,8 @@
         "type": "meeting",
         "videoId": "ylzQrfRgg-g",
         "ts": "0:13:37",
-        "retrievedISO": "2026-10-15T06:35:21.777Z"
+        "retrievedISO": "2026-10-15T06:35:21.777Z",
+        "endTs": "0:14:07"
       },
       "body": "Commission on Children and Youth"
     },
@@ -122,7 +143,8 @@
         "type": "meeting",
         "videoId": "ylzQrfRgg-g",
         "ts": "0:13:21",
-        "retrievedISO": "2026-10-15T06:35:21.777Z"
+        "retrievedISO": "2026-10-15T06:35:21.777Z",
+        "endTs": "0:13:51"
       },
       "body": "Commission on Children and Youth"
     },
@@ -134,7 +156,8 @@
         "type": "meeting",
         "videoId": "ylzQrfRgg-g",
         "ts": "0:06:48",
-        "retrievedISO": "2026-10-15T06:35:21.777Z"
+        "retrievedISO": "2026-10-15T06:35:21.777Z",
+        "endTs": "0:07:18"
       },
       "body": "Commission on Children and Youth"
     },
@@ -146,7 +169,8 @@
         "type": "meeting",
         "videoId": "ylzQrfRgg-g",
         "ts": "0:03:06",
-        "retrievedISO": "2026-10-15T06:35:21.777Z"
+        "retrievedISO": "2026-10-15T06:35:21.777Z",
+        "endTs": "0:03:36"
       },
       "body": "Commission on Children and Youth"
     },
@@ -158,7 +182,8 @@
         "type": "meeting",
         "videoId": "ylzQrfRgg-g",
         "ts": "0:02:08",
-        "retrievedISO": "2026-10-15T06:35:21.777Z"
+        "retrievedISO": "2026-10-15T06:35:21.777Z",
+        "endTs": "0:02:38"
       },
       "body": "Commission on Children and Youth"
     }

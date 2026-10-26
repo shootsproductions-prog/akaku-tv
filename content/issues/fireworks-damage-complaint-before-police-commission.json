@@ -16,7 +16,15 @@
     "mentionsLast30d": 3,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-25",
+  "asOfISO": "2026-10-26",
+  "boards": [
+    {
+      "name": "Police Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-10-07",
@@ -26,7 +34,8 @@
         "type": "meeting",
         "videoId": "JURbN1Cr2OE",
         "ts": "0:18:46",
-        "retrievedISO": "2026-10-13T06:35:02.100Z"
+        "retrievedISO": "2026-10-13T06:35:02.100Z",
+        "endTs": "0:19:16"
       },
       "body": "Police Commission"
     },
@@ -38,7 +47,8 @@
         "type": "meeting",
         "videoId": "JURbN1Cr2OE",
         "ts": "0:18:29",
-        "retrievedISO": "2026-10-13T06:35:02.100Z"
+        "retrievedISO": "2026-10-13T06:35:02.100Z",
+        "endTs": "0:18:59"
       },
       "body": "Police Commission"
     },
@@ -50,7 +60,8 @@
         "type": "meeting",
         "videoId": "JURbN1Cr2OE",
         "ts": "0:14:34",
-        "retrievedISO": "2026-10-13T06:35:02.100Z"
+        "retrievedISO": "2026-10-13T06:35:02.100Z",
+        "endTs": "0:15:04"
       },
       "body": "Police Commission"
     },
@@ -62,7 +73,8 @@
         "type": "meeting",
         "videoId": "JURbN1Cr2OE",
         "ts": "0:13:50",
-        "retrievedISO": "2026-10-13T06:35:02.100Z"
+        "retrievedISO": "2026-10-13T06:35:02.100Z",
+        "endTs": "0:14:22"
       },
       "body": "Police Commission"
     },
@@ -74,7 +86,8 @@
         "type": "meeting",
         "videoId": "JURbN1Cr2OE",
         "ts": "0:06:51",
-        "retrievedISO": "2026-10-13T06:35:02.100Z"
+        "retrievedISO": "2026-10-13T06:35:02.100Z",
+        "endTs": "0:07:23"
       },
       "body": "Police Commission"
     },
@@ -86,7 +99,8 @@
         "type": "meeting",
         "videoId": "JURbN1Cr2OE",
         "ts": "0:02:09",
-        "retrievedISO": "2026-10-13T06:35:02.100Z"
+        "retrievedISO": "2026-10-13T06:35:02.100Z",
+        "endTs": "0:02:59"
       },
       "body": "Police Commission"
     }

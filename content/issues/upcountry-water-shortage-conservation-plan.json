@@ -15,7 +15,17 @@
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-25",
+  "asOfISO": "2026-10-26",
+  "boards": [
+    {
+      "name": "Department of Water Supply",
+      "group": "county",
+      "short": [
+        "DWS"
+      ]
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2024-01-24",
@@ -25,7 +35,8 @@
         "type": "meeting",
         "videoId": "Qk0CE0sVrAw",
         "ts": "1:09:30",
-        "retrievedISO": "2026-10-09T06:35:09.669Z"
+        "retrievedISO": "2026-10-09T06:35:09.669Z",
+        "endTs": "1:10:00"
       },
       "body": "Department of Water Supply"
     },
@@ -37,7 +48,8 @@
         "type": "meeting",
         "videoId": "Qk0CE0sVrAw",
         "ts": "1:09:16",
-        "retrievedISO": "2026-10-09T06:35:09.669Z"
+        "retrievedISO": "2026-10-09T06:35:09.669Z",
+        "endTs": "1:09:46"
       },
       "body": "Department of Water Supply"
     },
@@ -49,7 +61,8 @@
         "type": "meeting",
         "videoId": "Qk0CE0sVrAw",
         "ts": "0:38:38",
-        "retrievedISO": "2026-10-09T06:35:09.669Z"
+        "retrievedISO": "2026-10-09T06:35:09.669Z",
+        "endTs": "0:39:11"
       },
       "body": "Department of Water Supply"
     },
@@ -61,7 +74,8 @@
         "type": "meeting",
         "videoId": "Qk0CE0sVrAw",
         "ts": "0:36:23",
-        "retrievedISO": "2026-10-09T06:35:09.669Z"
+        "retrievedISO": "2026-10-09T06:35:09.669Z",
+        "endTs": "0:36:53"
       },
       "body": "Department of Water Supply"
     },
@@ -73,7 +87,8 @@
         "type": "meeting",
         "videoId": "Qk0CE0sVrAw",
         "ts": "0:29:42",
-        "retrievedISO": "2026-10-09T06:35:09.669Z"
+        "retrievedISO": "2026-10-09T06:35:09.669Z",
+        "endTs": "0:30:12"
       },
       "body": "Department of Water Supply"
     },
@@ -85,7 +100,8 @@
         "type": "meeting",
         "videoId": "Qk0CE0sVrAw",
         "ts": "0:24:54",
-        "retrievedISO": "2026-10-09T06:35:09.669Z"
+        "retrievedISO": "2026-10-09T06:35:09.669Z",
+        "endTs": "0:25:24"
       },
       "body": "Department of Water Supply"
     },
@@ -97,7 +113,8 @@
         "type": "meeting",
         "videoId": "Qk0CE0sVrAw",
         "ts": "0:22:28",
-        "retrievedISO": "2026-10-09T06:35:09.669Z"
+        "retrievedISO": "2026-10-09T06:35:09.669Z",
+        "endTs": "0:22:58"
       },
       "body": "Department of Water Supply"
     },
@@ -109,7 +126,8 @@
         "type": "meeting",
         "videoId": "Qk0CE0sVrAw",
         "ts": "0:18:29",
-        "retrievedISO": "2026-10-09T06:35:09.669Z"
+        "retrievedISO": "2026-10-09T06:35:09.669Z",
+        "endTs": "0:18:59"
       },
       "body": "Department of Water Supply"
     },
@@ -121,7 +139,8 @@
         "type": "meeting",
         "videoId": "Qk0CE0sVrAw",
         "ts": "0:07:13",
-        "retrievedISO": "2026-10-09T06:35:09.669Z"
+        "retrievedISO": "2026-10-09T06:35:09.669Z",
+        "endTs": "0:07:43"
       },
       "body": "Department of Water Supply"
     },
@@ -133,7 +152,8 @@
         "type": "meeting",
         "videoId": "Qk0CE0sVrAw",
         "ts": "0:05:51",
-        "retrievedISO": "2026-10-09T06:35:09.669Z"
+        "retrievedISO": "2026-10-09T06:35:09.669Z",
+        "endTs": "0:06:21"
       },
       "body": "Department of Water Supply"
     },
@@ -145,7 +165,8 @@
         "type": "meeting",
         "videoId": "Qk0CE0sVrAw",
         "ts": "0:03:10",
-        "retrievedISO": "2026-10-09T06:35:09.669Z"
+        "retrievedISO": "2026-10-09T06:35:09.669Z",
+        "endTs": "0:03:40"
       },
       "body": "Department of Water Supply"
     }

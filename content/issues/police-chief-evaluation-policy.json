@@ -16,7 +16,15 @@
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-25",
+  "asOfISO": "2026-10-26",
+  "boards": [
+    {
+      "name": "Police Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2024-11-20",
@@ -26,7 +34,8 @@
         "type": "meeting",
         "videoId": "TxzLnQKaEY0",
         "ts": "1:47:09",
-        "retrievedISO": "2026-10-15T06:35:19.562Z"
+        "retrievedISO": "2026-10-15T06:35:19.562Z",
+        "endTs": "1:47:52"
       },
       "body": "Police Commission"
     },
@@ -38,7 +47,8 @@
         "type": "meeting",
         "videoId": "1hfypFiHaWQ",
         "ts": "0:26:53",
-        "retrievedISO": "2026-10-15T06:35:36.810Z"
+        "retrievedISO": "2026-10-15T06:35:36.810Z",
+        "endTs": "0:27:31"
       },
       "body": "Police Commission"
     }

@@ -15,7 +15,17 @@
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-25",
+  "asOfISO": "2026-10-26",
+  "boards": [
+    {
+      "name": "Board of Variances and Appeals",
+      "group": "board",
+      "short": [
+        "BVA"
+      ]
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-09-10",
@@ -25,7 +35,8 @@
         "type": "meeting",
         "videoId": "4I6EFuhArJ0",
         "ts": "0:15:09",
-        "retrievedISO": "2026-10-07T23:03:56.212Z"
+        "retrievedISO": "2026-10-07T23:03:56.212Z",
+        "endTs": "0:15:43"
       },
       "body": "Board of Variances and Appeals"
     },
@@ -37,7 +48,8 @@
         "type": "meeting",
         "videoId": "4I6EFuhArJ0",
         "ts": "0:11:44",
-        "retrievedISO": "2026-10-07T23:03:56.212Z"
+        "retrievedISO": "2026-10-07T23:03:56.212Z",
+        "endTs": "0:12:14"
       },
       "body": "Board of Variances and Appeals"
     },
@@ -49,7 +61,8 @@
         "type": "meeting",
         "videoId": "4I6EFuhArJ0",
         "ts": "0:11:24",
-        "retrievedISO": "2026-10-07T23:03:56.212Z"
+        "retrievedISO": "2026-10-07T23:03:56.212Z",
+        "endTs": "0:11:55"
       },
       "body": "Board of Variances and Appeals"
     },
@@ -61,7 +74,8 @@
         "type": "meeting",
         "videoId": "4I6EFuhArJ0",
         "ts": "0:11:15",
-        "retrievedISO": "2026-10-07T23:03:56.212Z"
+        "retrievedISO": "2026-10-07T23:03:56.212Z",
+        "endTs": "0:11:45"
       },
       "body": "Board of Variances and Appeals"
     },
@@ -73,7 +87,8 @@
         "type": "meeting",
         "videoId": "4I6EFuhArJ0",
         "ts": "0:10:17",
-        "retrievedISO": "2026-10-07T23:03:56.212Z"
+        "retrievedISO": "2026-10-07T23:03:56.212Z",
+        "endTs": "0:10:47"
       },
       "body": "Board of Variances and Appeals"
     },
@@ -85,7 +100,8 @@
         "type": "meeting",
         "videoId": "1zcpvN9q9pE",
         "ts": "3:16:43",
-        "retrievedISO": "2026-10-15T06:35:07.442Z"
+        "retrievedISO": "2026-10-15T06:35:07.442Z",
+        "endTs": "3:17:25"
       },
       "body": "Board of Variances and Appeals"
     },
@@ -97,7 +113,8 @@
         "type": "meeting",
         "videoId": "1zcpvN9q9pE",
         "ts": "3:13:57",
-        "retrievedISO": "2026-10-15T06:35:07.442Z"
+        "retrievedISO": "2026-10-15T06:35:07.442Z",
+        "endTs": "3:14:32"
       },
       "body": "Board of Variances and Appeals"
     },
@@ -109,7 +126,8 @@
         "type": "meeting",
         "videoId": "1zcpvN9q9pE",
         "ts": "2:47:41",
-        "retrievedISO": "2026-10-15T06:35:07.442Z"
+        "retrievedISO": "2026-10-15T06:35:07.442Z",
+        "endTs": "2:48:50"
       },
       "body": "Board of Variances and Appeals"
     },
@@ -121,7 +139,8 @@
         "type": "meeting",
         "videoId": "1zcpvN9q9pE",
         "ts": "2:44:45",
-        "retrievedISO": "2026-10-15T06:35:07.442Z"
+        "retrievedISO": "2026-10-15T06:35:07.442Z",
+        "endTs": "2:45:39"
       },
       "body": "Board of Variances and Appeals"
     },
@@ -133,7 +152,8 @@
         "type": "meeting",
         "videoId": "1zcpvN9q9pE",
         "ts": "2:12:25",
-        "retrievedISO": "2026-10-15T06:35:07.442Z"
+        "retrievedISO": "2026-10-15T06:35:07.442Z",
+        "endTs": "2:12:55"
       },
       "body": "Board of Variances and Appeals"
     },
@@ -145,7 +165,8 @@
         "type": "meeting",
         "videoId": "1zcpvN9q9pE",
         "ts": "1:10:04",
-        "retrievedISO": "2026-10-15T06:35:07.442Z"
+        "retrievedISO": "2026-10-15T06:35:07.442Z",
+        "endTs": "1:10:43"
       },
       "body": "Board of Variances and Appeals"
     },
@@ -157,7 +178,8 @@
         "type": "meeting",
         "videoId": "1zcpvN9q9pE",
         "ts": "1:09:32",
-        "retrievedISO": "2026-10-15T06:35:07.442Z"
+        "retrievedISO": "2026-10-15T06:35:07.442Z",
+        "endTs": "1:10:05"
       },
       "body": "Board of Variances and Appeals"
     },
@@ -169,7 +191,8 @@
         "type": "meeting",
         "videoId": "1zcpvN9q9pE",
         "ts": "0:04:45",
-        "retrievedISO": "2026-10-15T06:35:07.442Z"
+        "retrievedISO": "2026-10-15T06:35:07.442Z",
+        "endTs": "0:05:30"
       },
       "body": "Board of Variances and Appeals"
     }

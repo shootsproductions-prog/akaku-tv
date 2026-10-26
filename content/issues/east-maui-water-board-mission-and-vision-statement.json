@@ -16,7 +16,15 @@
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-25",
+  "asOfISO": "2026-10-26",
+  "boards": [
+    {
+      "name": "East Maui Regional Community Board",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2024-12-12",
@@ -26,7 +34,8 @@
         "type": "meeting",
         "videoId": "2obBIqFggos",
         "ts": "1:08:06",
-        "retrievedISO": "2026-10-09T06:35:06.415Z"
+        "retrievedISO": "2026-10-09T06:35:06.415Z",
+        "endTs": "1:08:36"
       },
       "body": "East Maui Regional Community Board"
     },
@@ -38,7 +47,8 @@
         "type": "meeting",
         "videoId": "2obBIqFggos",
         "ts": "0:57:31",
-        "retrievedISO": "2026-10-09T06:35:06.415Z"
+        "retrievedISO": "2026-10-09T06:35:06.415Z",
+        "endTs": "0:58:01"
       },
       "body": "East Maui Regional Community Board"
     },
@@ -50,7 +60,8 @@
         "type": "meeting",
         "videoId": "2obBIqFggos",
         "ts": "0:56:45",
-        "retrievedISO": "2026-10-09T06:35:06.415Z"
+        "retrievedISO": "2026-10-09T06:35:06.415Z",
+        "endTs": "0:57:15"
       },
       "body": "East Maui Regional Community Board"
     },
@@ -62,7 +73,8 @@
         "type": "meeting",
         "videoId": "2obBIqFggos",
         "ts": "0:39:44",
-        "retrievedISO": "2026-10-09T06:35:06.415Z"
+        "retrievedISO": "2026-10-09T06:35:06.415Z",
+        "endTs": "0:41:27"
       },
       "body": "East Maui Regional Community Board"
     },
@@ -74,7 +86,8 @@
         "type": "meeting",
         "videoId": "5iHkOVL1-vQ",
         "ts": "1:01:48",
-        "retrievedISO": "2026-10-09T06:35:08.811Z"
+        "retrievedISO": "2026-10-09T06:35:08.811Z",
+        "endTs": "1:02:32"
       },
       "body": "East Maui Regional Community Board"
     }

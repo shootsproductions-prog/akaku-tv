@@ -16,7 +16,15 @@
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-25",
+  "asOfISO": "2026-10-26",
+  "boards": [
+    {
+      "name": "Commission on Healing Solutions for Homelessness",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2024-11-21",
@@ -26,7 +34,8 @@
         "type": "meeting",
         "videoId": "Q68bJ_NdJxU",
         "ts": "1:26:29",
-        "retrievedISO": "2026-10-15T06:35:16.487Z"
+        "retrievedISO": "2026-10-15T06:35:16.487Z",
+        "endTs": "1:26:59"
       },
       "body": "Commission on Healing Solutions for Homelessness"
     },
@@ -38,7 +47,8 @@
         "type": "meeting",
         "videoId": "Q68bJ_NdJxU",
         "ts": "1:23:12",
-        "retrievedISO": "2026-10-15T06:35:16.487Z"
+        "retrievedISO": "2026-10-15T06:35:16.487Z",
+        "endTs": "1:23:42"
       },
       "body": "Commission on Healing Solutions for Homelessness"
     },
@@ -50,7 +60,8 @@
         "type": "meeting",
         "videoId": "Q68bJ_NdJxU",
         "ts": "0:33:46",
-        "retrievedISO": "2026-10-15T06:35:16.487Z"
+        "retrievedISO": "2026-10-15T06:35:16.487Z",
+        "endTs": "0:34:16"
       },
       "body": "Commission on Healing Solutions for Homelessness"
     },
@@ -62,7 +73,8 @@
         "type": "meeting",
         "videoId": "Q68bJ_NdJxU",
         "ts": "0:27:44",
-        "retrievedISO": "2026-10-15T06:35:16.487Z"
+        "retrievedISO": "2026-10-15T06:35:16.487Z",
+        "endTs": "0:28:14"
       },
       "body": "Commission on Healing Solutions for Homelessness"
     },
@@ -74,7 +86,8 @@
         "type": "meeting",
         "videoId": "Q68bJ_NdJxU",
         "ts": "0:26:18",
-        "retrievedISO": "2026-10-15T06:35:16.487Z"
+        "retrievedISO": "2026-10-15T06:35:16.487Z",
+        "endTs": "0:26:48"
       },
       "body": "Commission on Healing Solutions for Homelessness"
     },
@@ -86,7 +99,8 @@
         "type": "meeting",
         "videoId": "Q68bJ_NdJxU",
         "ts": "0:25:59",
-        "retrievedISO": "2026-10-15T06:35:16.487Z"
+        "retrievedISO": "2026-10-15T06:35:16.487Z",
+        "endTs": "0:26:29"
       },
       "body": "Commission on Healing Solutions for Homelessness"
     },
@@ -98,7 +112,8 @@
         "type": "meeting",
         "videoId": "Q68bJ_NdJxU",
         "ts": "0:25:51",
-        "retrievedISO": "2026-10-15T06:35:16.487Z"
+        "retrievedISO": "2026-10-15T06:35:16.487Z",
+        "endTs": "0:26:29"
       },
       "body": "Commission on Healing Solutions for Homelessness"
     },
@@ -110,7 +125,8 @@
         "type": "meeting",
         "videoId": "Q68bJ_NdJxU",
         "ts": "0:21:26",
-        "retrievedISO": "2026-10-15T06:35:16.487Z"
+        "retrievedISO": "2026-10-15T06:35:16.487Z",
+        "endTs": "0:21:59"
       },
       "body": "Commission on Healing Solutions for Homelessness"
     },
@@ -122,7 +138,8 @@
         "type": "meeting",
         "videoId": "Q68bJ_NdJxU",
         "ts": "0:18:14",
-        "retrievedISO": "2026-10-15T06:35:16.487Z"
+        "retrievedISO": "2026-10-15T06:35:16.487Z",
+        "endTs": "0:18:44"
       },
       "body": "Commission on Healing Solutions for Homelessness"
     },
@@ -134,7 +151,8 @@
         "type": "meeting",
         "videoId": "Q68bJ_NdJxU",
         "ts": "0:17:42",
-        "retrievedISO": "2026-10-15T06:35:16.487Z"
+        "retrievedISO": "2026-10-15T06:35:16.487Z",
+        "endTs": "0:18:12"
       },
       "body": "Commission on Healing Solutions for Homelessness"
     },
@@ -146,7 +164,8 @@
         "type": "meeting",
         "videoId": "Q68bJ_NdJxU",
         "ts": "0:10:53",
-        "retrievedISO": "2026-10-15T06:35:16.487Z"
+        "retrievedISO": "2026-10-15T06:35:16.487Z",
+        "endTs": "0:12:00"
       },
       "body": "Commission on Healing Solutions for Homelessness"
     },
@@ -158,7 +177,8 @@
         "type": "meeting",
         "videoId": "Q68bJ_NdJxU",
         "ts": "0:09:04",
-        "retrievedISO": "2026-10-15T06:35:16.487Z"
+        "retrievedISO": "2026-10-15T06:35:16.487Z",
+        "endTs": "0:10:02"
       },
       "body": "Commission on Healing Solutions for Homelessness"
     }

@@ -15,7 +15,24 @@
     "mentionsLast30d": 3,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-25",
+  "asOfISO": "2026-10-26",
+  "boards": [
+    {
+      "name": "Housing and Land Use Committee",
+      "group": "council",
+      "short": [
+        "HLU"
+      ]
+    },
+    {
+      "name": "Maui Planning Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [
+    "Bill 141 (2026)"
+  ],
   "timeline": [
     {
       "dateISO": "2026-10-21",
@@ -25,7 +42,8 @@
         "type": "meeting",
         "videoId": "Pcpudwx07B4",
         "ts": "0:43:45",
-        "retrievedISO": "2026-10-21T23:01:41.623Z"
+        "retrievedISO": "2026-10-21T23:01:41.623Z",
+        "endTs": "0:44:15"
       },
       "body": "County Council Housing and Land Use Committee"
     },
@@ -37,7 +55,8 @@
         "type": "meeting",
         "videoId": "Pcpudwx07B4",
         "ts": "0:29:33",
-        "retrievedISO": "2026-10-21T23:01:41.623Z"
+        "retrievedISO": "2026-10-21T23:01:41.623Z",
+        "endTs": "0:30:03"
       },
       "body": "County Council Housing and Land Use Committee"
     },
@@ -49,7 +68,8 @@
         "type": "meeting",
         "videoId": "OfgqgyE6vs0",
         "ts": "0:27:22",
-        "retrievedISO": "2026-10-22T07:21:21.243Z"
+        "retrievedISO": "2026-10-22T07:21:21.243Z",
+        "endTs": "0:28:19"
       },
       "body": "County Council Housing and Land Use Committee"
     },
@@ -61,7 +81,8 @@
         "type": "meeting",
         "videoId": "OfgqgyE6vs0",
         "ts": "0:24:36",
-        "retrievedISO": "2026-10-22T07:21:21.243Z"
+        "retrievedISO": "2026-10-22T07:21:21.243Z",
+        "endTs": "0:25:06"
       },
       "body": "County Council Housing and Land Use Committee"
     },
@@ -73,7 +94,8 @@
         "type": "meeting",
         "videoId": "Pcpudwx07B4",
         "ts": "0:18:53",
-        "retrievedISO": "2026-10-21T23:01:41.623Z"
+        "retrievedISO": "2026-10-21T23:01:41.623Z",
+        "endTs": "0:19:23"
       },
       "body": "County Council Housing and Land Use Committee"
     },
@@ -85,7 +107,8 @@
         "type": "meeting",
         "videoId": "Anutl3CRkaQ",
         "ts": "6:26:52",
-        "retrievedISO": "2026-10-09T06:35:11.734Z"
+        "retrievedISO": "2026-10-09T06:35:11.734Z",
+        "endTs": "6:27:36"
       },
       "body": "Maui Planning Commission"
     },
@@ -97,7 +120,8 @@
         "type": "meeting",
         "videoId": "nBW_aexDotM",
         "ts": "1:29:10",
-        "retrievedISO": "2026-10-12T06:30:18.226Z"
+        "retrievedISO": "2026-10-12T06:30:18.226Z",
+        "endTs": "1:29:41"
       },
       "body": "Maui Planning Commission"
     },
@@ -109,7 +133,8 @@
         "type": "meeting",
         "videoId": "nBW_aexDotM",
         "ts": "1:23:53",
-        "retrievedISO": "2026-10-12T06:30:18.226Z"
+        "retrievedISO": "2026-10-12T06:30:18.226Z",
+        "endTs": "1:24:44"
       },
       "body": "Maui Planning Commission"
     },
@@ -121,7 +146,8 @@
         "type": "meeting",
         "videoId": "nBW_aexDotM",
         "ts": "0:42:46",
-        "retrievedISO": "2026-10-12T06:30:18.226Z"
+        "retrievedISO": "2026-10-12T06:30:18.226Z",
+        "endTs": "0:43:16"
       },
       "body": "Maui Planning Commission"
     }

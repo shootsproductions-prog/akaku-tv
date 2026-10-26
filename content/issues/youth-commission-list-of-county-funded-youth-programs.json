@@ -16,7 +16,15 @@
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-25",
+  "asOfISO": "2026-10-26",
+  "boards": [
+    {
+      "name": "Maui Children & Youth Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-09-21",
@@ -26,7 +34,8 @@
         "type": "meeting",
         "videoId": "R72ep6UsQvk",
         "ts": "0:49:40",
-        "retrievedISO": "2026-10-07T23:03:53.466Z"
+        "retrievedISO": "2026-10-07T23:03:53.466Z",
+        "endTs": "0:50:10"
       },
       "body": "Maui Children & Youth Commission"
     }

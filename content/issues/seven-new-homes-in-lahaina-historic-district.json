@@ -17,7 +17,20 @@
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-25",
+  "asOfISO": "2026-10-26",
+  "boards": [
+    {
+      "name": "Cultural Resources Commission",
+      "group": "board",
+      "short": []
+    },
+    {
+      "name": "Maui Cultural Resources Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-09-03",
@@ -27,7 +40,8 @@
         "type": "meeting",
         "videoId": "vhZUiN4y4Zw",
         "ts": "1:49:16",
-        "retrievedISO": "2026-10-07T23:04:02.794Z"
+        "retrievedISO": "2026-10-07T23:04:02.794Z",
+        "endTs": "1:50:34"
       },
       "body": "Cultural Resources Commission"
     },
@@ -39,7 +53,8 @@
         "type": "meeting",
         "videoId": "vhZUiN4y4Zw",
         "ts": "1:42:26",
-        "retrievedISO": "2026-10-07T23:04:02.794Z"
+        "retrievedISO": "2026-10-07T23:04:02.794Z",
+        "endTs": "1:42:56"
       },
       "body": "Cultural Resources Commission"
     },
@@ -51,7 +66,8 @@
         "type": "meeting",
         "videoId": "vhZUiN4y4Zw",
         "ts": "1:37:00",
-        "retrievedISO": "2026-10-07T23:04:02.794Z"
+        "retrievedISO": "2026-10-07T23:04:02.794Z",
+        "endTs": "1:37:30"
       },
       "body": "Cultural Resources Commission"
     },
@@ -63,7 +79,8 @@
         "type": "meeting",
         "videoId": "vhZUiN4y4Zw",
         "ts": "1:32:44",
-        "retrievedISO": "2026-10-07T23:04:02.794Z"
+        "retrievedISO": "2026-10-07T23:04:02.794Z",
+        "endTs": "1:33:14"
       },
       "body": "Cultural Resources Commission"
     },
@@ -75,7 +92,8 @@
         "type": "meeting",
         "videoId": "vhZUiN4y4Zw",
         "ts": "1:19:12",
-        "retrievedISO": "2026-10-07T23:04:02.794Z"
+        "retrievedISO": "2026-10-07T23:04:02.794Z",
+        "endTs": "1:20:39"
       },
       "body": "Cultural Resources Commission"
     },
@@ -87,7 +105,8 @@
         "type": "meeting",
         "videoId": "vhZUiN4y4Zw",
         "ts": "1:16:20",
-        "retrievedISO": "2026-10-07T23:04:02.794Z"
+        "retrievedISO": "2026-10-07T23:04:02.794Z",
+        "endTs": "1:16:57"
       },
       "body": "Cultural Resources Commission"
     },
@@ -99,7 +118,8 @@
         "type": "meeting",
         "videoId": "vhZUiN4y4Zw",
         "ts": "1:14:24",
-        "retrievedISO": "2026-10-07T23:04:02.794Z"
+        "retrievedISO": "2026-10-07T23:04:02.794Z",
+        "endTs": "1:15:08"
       },
       "body": "Cultural Resources Commission"
     },
@@ -111,7 +131,8 @@
         "type": "meeting",
         "videoId": "F1fUs_ROA_Q",
         "ts": "3:17:27",
-        "retrievedISO": "2026-10-13T06:35:22.251Z"
+        "retrievedISO": "2026-10-13T06:35:22.251Z",
+        "endTs": "3:17:57"
       },
       "body": "Maui Cultural Resources Commission"
     },
@@ -123,7 +144,8 @@
         "type": "meeting",
         "videoId": "F1fUs_ROA_Q",
         "ts": "3:16:53",
-        "retrievedISO": "2026-10-13T06:35:22.251Z"
+        "retrievedISO": "2026-10-13T06:35:22.251Z",
+        "endTs": "3:17:23"
       },
       "body": "Maui Cultural Resources Commission"
     },
@@ -135,7 +157,8 @@
         "type": "meeting",
         "videoId": "F1fUs_ROA_Q",
         "ts": "3:16:24",
-        "retrievedISO": "2026-10-13T06:35:22.251Z"
+        "retrievedISO": "2026-10-13T06:35:22.251Z",
+        "endTs": "3:17:21"
       },
       "body": "Maui Cultural Resources Commission"
     },
@@ -147,7 +170,8 @@
         "type": "meeting",
         "videoId": "F1fUs_ROA_Q",
         "ts": "2:13:21",
-        "retrievedISO": "2026-10-13T06:35:22.251Z"
+        "retrievedISO": "2026-10-13T06:35:22.251Z",
+        "endTs": "2:13:53"
       },
       "body": "Maui Cultural Resources Commission"
     },
@@ -159,7 +183,8 @@
         "type": "meeting",
         "videoId": "F1fUs_ROA_Q",
         "ts": "1:44:59",
-        "retrievedISO": "2026-10-13T06:35:22.251Z"
+        "retrievedISO": "2026-10-13T06:35:22.251Z",
+        "endTs": "1:45:29"
       },
       "body": "Maui Cultural Resources Commission"
     },
@@ -171,7 +196,8 @@
         "type": "meeting",
         "videoId": "F1fUs_ROA_Q",
         "ts": "1:39:35",
-        "retrievedISO": "2026-10-13T06:35:22.251Z"
+        "retrievedISO": "2026-10-13T06:35:22.251Z",
+        "endTs": "1:40:05"
       },
       "body": "Maui Cultural Resources Commission"
     },
@@ -183,7 +209,8 @@
         "type": "meeting",
         "videoId": "F1fUs_ROA_Q",
         "ts": "1:25:54",
-        "retrievedISO": "2026-10-13T06:35:22.251Z"
+        "retrievedISO": "2026-10-13T06:35:22.251Z",
+        "endTs": "1:26:24"
       },
       "body": "Maui Cultural Resources Commission"
     },
@@ -195,7 +222,8 @@
         "type": "meeting",
         "videoId": "F1fUs_ROA_Q",
         "ts": "1:13:39",
-        "retrievedISO": "2026-10-13T06:35:22.251Z"
+        "retrievedISO": "2026-10-13T06:35:22.251Z",
+        "endTs": "1:14:09"
       },
       "body": "Maui Cultural Resources Commission"
     }

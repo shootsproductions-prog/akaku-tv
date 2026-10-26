@@ -16,7 +16,15 @@
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-25",
+  "asOfISO": "2026-10-26",
+  "boards": [
+    {
+      "name": "Arborist Committee",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-09-09",
@@ -26,7 +34,8 @@
         "type": "meeting",
         "videoId": "SVe2yERyBEk",
         "ts": "0:10:56",
-        "retrievedISO": "2026-10-07T23:03:58.863Z"
+        "retrievedISO": "2026-10-07T23:03:58.863Z",
+        "endTs": "0:11:26"
       },
       "body": "Arborist Committee"
     },
@@ -38,7 +47,8 @@
         "type": "meeting",
         "videoId": "SVe2yERyBEk",
         "ts": "0:10:48",
-        "retrievedISO": "2026-10-07T23:03:58.863Z"
+        "retrievedISO": "2026-10-07T23:03:58.863Z",
+        "endTs": "0:11:18"
       },
       "body": "Arborist Committee"
     },
@@ -50,7 +60,8 @@
         "type": "meeting",
         "videoId": "SVe2yERyBEk",
         "ts": "0:10:42",
-        "retrievedISO": "2026-10-07T23:03:58.863Z"
+        "retrievedISO": "2026-10-07T23:03:58.863Z",
+        "endTs": "0:11:12"
       },
       "body": "Arborist Committee"
     },
@@ -62,7 +73,8 @@
         "type": "meeting",
         "videoId": "SVe2yERyBEk",
         "ts": "0:10:33",
-        "retrievedISO": "2026-10-07T23:03:58.863Z"
+        "retrievedISO": "2026-10-07T23:03:58.863Z",
+        "endTs": "0:11:09"
       },
       "body": "Arborist Committee"
     },
@@ -74,7 +86,8 @@
         "type": "meeting",
         "videoId": "SVe2yERyBEk",
         "ts": "0:10:29",
-        "retrievedISO": "2026-10-07T23:03:58.863Z"
+        "retrievedISO": "2026-10-07T23:03:58.863Z",
+        "endTs": "0:10:59"
       },
       "body": "Arborist Committee"
     }
