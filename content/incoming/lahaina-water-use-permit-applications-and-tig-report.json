@@ -1,0 +1,497 @@
+{
+  "slug": "lahaina-water-use-permit-applications-and-tig-report",
+  "title": "Lahaina water use permit applications and TIG report",
+  "summary": "On August 20, the Maui County Board of Water Supply voted unanimously to approve the Temporary Investigative Group (TIG) report on water use permit applications in the Lahaina surface and groundwater management area, to be sent to the state Commission on Water Resource Management (CWRM). The report found requests of almost 9 million gallons a day, 213% of reported existing use, and called the sustainable yield numbers indefensible as regulatory rules. It recommends reviewing surface and groundwater applications together and a full monitoring program before non-conditional permits.",
+  "topics": [
+    "water",
+    "disaster-recovery"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2024-10-09",
+  "lastSeenISO": "2026-10-21",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 2,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-25",
+  "timeline": [
+    {
+      "dateISO": "2026-10-21",
+      "text": "CWRM posted a notice prioritizing Lahaina Water Management Area permit work and a public notice covering ground and surface water permit applications.",
+      "basis": "reported",
+      "source": {
+        "type": "county-page",
+        "url": "https://dlnr.hawaii.gov/cwrm/",
+        "publisher": "State of Hawaiʻi Department of Land and Natural Resources",
+        "quote": "At this time, staff are following Commission direction to prioritize work associated with the Lahaina Water Management Area, including the intake, public notice, and processing of water use permit applications submitted in connection with the designation of the area.",
+        "retrievedISO": "2026-10-25T01:47:00.268Z"
+      }
+    },
+    {
+      "dateISO": "2026-10-15",
+      "text": "CWRM published notice of groundwater and remaining surface water applications in the Lahaina Aquifer Sector Area, with a public objections deadline of Nov. 6, 2026.",
+      "basis": "reported",
+      "source": {
+        "type": "county-page",
+        "url": "https://dlnr.hawaii.gov/cwrm/groundwater/gwma/lahaina/",
+        "publisher": "State of Hawaiʻi, Department of Land and Natural Resources, Commission on Water ",
+        "quote": "Deadline to file objections: November 6, 2026.",
+        "retrievedISO": "2026-10-26T07:59:09.423Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "CWRM's deadline for the Board of Water Supply to submit comments on the Lahaina water use permit applications.",
+      "basis": "reported",
+      "source": {
+        "type": "county-page",
+        "url": "https://www.mauicounty.gov/DocumentCenter/View/163787/Notice-of-Water-Use-Permit-Applications",
+        "publisher": "State of Hawaiʻi Commission on Water Resource Management",
+        "quote": "Please provide any comments by Monday, August 31, 2026.",
+        "retrievedISO": "2026-10-26T07:59:15.243Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-20",
+      "text": "Members voted by raising hands, and the chair said the vote was unanimous and the motion passed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Uxd8in6m_XU",
+        "ts": "0:03:55",
+        "endTs": "0:04:25",
+        "retrievedISO": "2026-10-07T23:26:07.567Z"
+      },
+      "body": "Commission on Water Resource Management"
+    },
+    {
+      "dateISO": "2026-08-20",
+      "text": "The member said it will take attention over years, maybe decades, to fix some poor planning from the past.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Uxd8in6m_XU",
+        "ts": "0:03:15",
+        "endTs": "0:03:45",
+        "retrievedISO": "2026-10-07T23:26:07.567Z"
+      },
+      "body": "Commission on Water Resource Management"
+    },
+    {
+      "dateISO": "2026-08-20",
+      "text": "The member said the permit process is just the beginning and is only partially complete.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Uxd8in6m_XU",
+        "ts": "0:02:58",
+        "endTs": "0:03:28",
+        "retrievedISO": "2026-10-07T23:26:07.567Z"
+      },
+      "body": "Commission on Water Resource Management"
+    },
+    {
+      "dateISO": "2026-08-20",
+      "text": "The member said the report is meant as a reference for the board and the public as permitting goes forward.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Uxd8in6m_XU",
+        "ts": "0:02:49",
+        "endTs": "0:03:19",
+        "retrievedISO": "2026-10-07T23:26:07.567Z"
+      },
+      "body": "Commission on Water Resource Management"
+    },
+    {
+      "dateISO": "2026-08-20",
+      "text": "The member said the process is very complicated, even for an expert in water.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Uxd8in6m_XU",
+        "ts": "0:02:27",
+        "endTs": "0:02:57",
+        "retrievedISO": "2026-10-07T23:26:07.567Z"
+      },
+      "body": "Commission on Water Resource Management"
+    },
+    {
+      "dateISO": "2026-08-20",
+      "text": "A member said the report is meant to help the public understand a permit process that is hard even for experts.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Uxd8in6m_XU",
+        "ts": "0:02:13",
+        "endTs": "0:02:55",
+        "retrievedISO": "2026-10-07T23:26:07.567Z"
+      },
+      "body": "Commission on Water Resource Management"
+    },
+    {
+      "dateISO": "2026-08-20",
+      "text": "The chair thanked the group for the work and research behind the report.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Uxd8in6m_XU",
+        "ts": "0:01:39",
+        "endTs": "0:02:13",
+        "retrievedISO": "2026-10-07T23:26:07.567Z"
+      },
+      "body": "Commission on Water Resource Management"
+    },
+    {
+      "dateISO": "2026-08-20",
+      "text": "A board member moved to approve the Temporary Investigative Group (TIG) report, and another member seconded the motion.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Uxd8in6m_XU",
+        "ts": "0:00:57",
+        "endTs": "0:01:40",
+        "retrievedISO": "2026-10-07T23:26:07.567Z"
+      },
+      "body": "Commission on Water Resource Management"
+    },
+    {
+      "dateISO": "2026-08-20",
+      "text": "The chair closed testimony at 2:24 p.m.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Uxd8in6m_XU",
+        "ts": "0:00:40",
+        "endTs": "0:01:10",
+        "retrievedISO": "2026-10-07T23:26:07.567Z"
+      },
+      "body": "Commission on Water Resource Management"
+    },
+    {
+      "dateISO": "2026-08-20",
+      "text": "No one signed up to testify on this item.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Uxd8in6m_XU",
+        "ts": "0:00:25",
+        "endTs": "0:00:55",
+        "retrievedISO": "2026-10-07T23:26:07.567Z"
+      },
+      "body": "Commission on Water Resource Management"
+    },
+    {
+      "dateISO": "2026-08-20",
+      "text": "The approved report is to be sent to Commission on Water Resource Management (CWRM).",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Uxd8in6m_XU",
+        "ts": "0:00:18",
+        "endTs": "0:00:48",
+        "retrievedISO": "2026-10-07T23:26:07.567Z"
+      },
+      "body": "Commission on Water Resource Management"
+    },
+    {
+      "dateISO": "2026-08-20",
+      "text": "The chair said the board would vote to approve the report so it can be sent to Commission on Water Resource Management (CWRM).",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Uxd8in6m_XU",
+        "ts": "0:00:16",
+        "endTs": "0:00:46",
+        "retrievedISO": "2026-10-07T23:26:07.567Z"
+      },
+      "body": "Commission on Water Resource Management"
+    },
+    {
+      "dateISO": "2026-08-20",
+      "text": "The chair said the Temporary Investigative Group (TIG) presented its report to the board at the last meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Uxd8in6m_XU",
+        "ts": "0:00:11",
+        "endTs": "0:00:41",
+        "retrievedISO": "2026-10-07T23:26:07.567Z"
+      },
+      "body": "Commission on Water Resource Management"
+    },
+    {
+      "dateISO": "2026-08-20",
+      "text": "The board took up the Temporary Investigative Group (TIG) report on water use permit applications in the Lahaina surface and groundwater management area.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Uxd8in6m_XU",
+        "ts": "0:00:00",
+        "endTs": "0:00:30",
+        "retrievedISO": "2026-10-07T23:26:07.567Z"
+      },
+      "body": "Commission on Water Resource Management"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "A member of the public was asked to send questions in writing to the board secretary before the next meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "uQiD8x_WZyY",
+        "ts": "0:58:27",
+        "endTs": "0:59:20",
+        "retrievedISO": "2026-10-07T23:26:11.732Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "Whether to accept or reject the report, or send the whole report or just a letter, will be decided at the next meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "uQiD8x_WZyY",
+        "ts": "0:57:42",
+        "endTs": "0:58:21",
+        "retrievedISO": "2026-10-07T23:26:11.732Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "Members are to write down questions and send them to the board secretary before the agenda posting deadline.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "uQiD8x_WZyY",
+        "ts": "0:56:39",
+        "endTs": "0:57:29",
+        "retrievedISO": "2026-10-07T23:26:11.732Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "Counsel advised members to send written questions to the board secretary rather than contact group members individually, because of open-meeting rules.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "uQiD8x_WZyY",
+        "ts": "0:55:54",
+        "endTs": "0:57:29",
+        "retrievedISO": "2026-10-07T23:26:11.732Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "At the next meeting, the board will be able to ask questions, discuss and vote on the report.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "uQiD8x_WZyY",
+        "ts": "0:50:16",
+        "endTs": "0:50:46",
+        "retrievedISO": "2026-10-07T23:26:11.732Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "The group recommended a full water monitoring program before the state issues non-conditional water use permits.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "uQiD8x_WZyY",
+        "ts": "0:48:50",
+        "endTs": "0:49:25",
+        "retrievedISO": "2026-10-07T23:26:11.732Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "The group recommended that surface water and groundwater applications be reviewed together, not in separate batches.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "uQiD8x_WZyY",
+        "ts": "0:46:59",
+        "endTs": "0:47:37",
+        "retrievedISO": "2026-10-07T23:26:11.732Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "The group called the sustainable yield numbers (estimates of how much water can safely be used) indefensible as regulatory rules.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "uQiD8x_WZyY",
+        "ts": "0:45:15",
+        "endTs": "0:45:45",
+        "retrievedISO": "2026-10-07T23:26:11.732Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "The group said the requests are basically incapable of being satisfied with existing surface water.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "uQiD8x_WZyY",
+        "ts": "0:44:43",
+        "endTs": "0:45:19",
+        "retrievedISO": "2026-10-07T23:26:11.732Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "Total requests are almost 9 million gallons a day, which is 213% of reported existing use.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "uQiD8x_WZyY",
+        "ts": "0:44:20",
+        "endTs": "0:44:50",
+        "retrievedISO": "2026-10-07T23:26:11.732Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "That application asks for 1.6 million gallons a day but claims to return 3 million, with no explanation.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "uQiD8x_WZyY",
+        "ts": "0:43:52",
+        "endTs": "0:44:22",
+        "retrievedISO": "2026-10-07T23:26:11.732Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "One application, number 6065, requests 1.6 million gallons a day but claims a return of 3 million gallons a day.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "uQiD8x_WZyY",
+        "ts": "0:43:00",
+        "endTs": "0:44:19",
+        "retrievedISO": "2026-10-07T23:26:11.732Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "The group found nothing objectionable in the applications except one.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "uQiD8x_WZyY",
+        "ts": "0:41:51",
+        "endTs": "0:42:21",
+        "retrievedISO": "2026-10-07T23:26:11.732Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "The group said this batch held only surface water applications, but surface water and groundwater must be judged together.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "uQiD8x_WZyY",
+        "ts": "0:40:42",
+        "endTs": "0:41:20",
+        "retrievedISO": "2026-10-07T23:26:11.732Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2024-10-09",
+      "text": "The state water commission said it has received a water use permit application for one planned housing project.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "XFOvEpVuIu0",
+        "ts": "1:24:58",
+        "endTs": "1:25:28",
+        "retrievedISO": "2026-10-21T13:44:06.198Z"
+      },
+      "body": "County Council Disaster, Resilience, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2024-10-09",
+      "text": "The official said the commission hopes to get moving on water use permits next year.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "XFOvEpVuIu0",
+        "ts": "1:20:04",
+        "endTs": "1:20:41",
+        "retrievedISO": "2026-10-21T13:44:06.198Z"
+      },
+      "body": "County Council Disaster, Resilience, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2024-10-09",
+      "text": "A state water commission official said existing users will likely be handled before new users.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "XFOvEpVuIu0",
+        "ts": "1:19:13",
+        "endTs": "1:19:43",
+        "retrievedISO": "2026-10-21T13:44:06.198Z"
+      },
+      "body": "County Council Disaster, Resilience, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2024-10-09",
+      "text": "The commission official said permit review likely cannot be outsourced because of the expertise needed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "XFOvEpVuIu0",
+        "ts": "1:15:54",
+        "endTs": "1:16:24",
+        "retrievedISO": "2026-10-21T13:44:06.198Z"
+      },
+      "body": "County Council Disaster, Resilience, International Affairs, and Planning Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Commission on Water Resource Management",
+      "group": "board",
+      "short": [
+        "CWRM"
+      ]
+    },
+    {
+      "name": "Board of Water Supply",
+      "group": "board",
+      "short": [
+        "BWS"
+      ]
+    },
+    {
+      "name": "County Council Disaster, Resilience, International Affairs, and Planning Committee",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

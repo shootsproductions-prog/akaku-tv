@@ -1,0 +1,56 @@
+{
+  "slug": "kaanapali-fight-case-referred-to-the-fbi",
+  "title": "Kāʻanapali fight case referred to the FBI",
+  "summary": "The Kāʻanapali fight case has been referred to the FBI for possible hate crime implications. Eight juveniles were arrested for riot in the case.",
+  "topics": [
+    "public-safety"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-08-19",
+  "lastSeenISO": "2026-08-19",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-25",
+  "timeline": [
+    {
+      "dateISO": "2026-08-19",
+      "text": "The case was referred to the FBI for possible hate crime implications.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ic0yx8fVvEE",
+        "ts": "0:10:28",
+        "endTs": "0:10:58",
+        "retrievedISO": "2026-10-12T06:30:04.199Z"
+      },
+      "body": "Police Commission"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "Eight juveniles were arrested for riot in that case.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ic0yx8fVvEE",
+        "ts": "0:10:15",
+        "endTs": "0:10:45",
+        "retrievedISO": "2026-10-12T06:30:04.199Z"
+      },
+      "body": "Police Commission"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Police Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

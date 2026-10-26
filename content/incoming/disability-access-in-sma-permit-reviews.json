@@ -1,0 +1,62 @@
+{
+  "slug": "disability-access-in-sma-permit-reviews",
+  "title": "Disability access in SMA permit reviews",
+  "summary": "Testimony at the August 13 meeting said disability access is missing from the planning checklists. Another testifier asked the commission to request the checklist the Planning Department uses to review special management area permits. Earlier, on July 14, a testifier asked that wheelchair access standards be written into Special Management Area (SMA) rules.",
+  "topics": [
+    "land-use",
+    "health"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-07-14",
+  "lastSeenISO": "2026-08-13",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-25",
+  "timeline": [
+    {
+      "dateISO": "2026-08-13",
+      "text": "Another testifier asked the commission to request the checklist the Planning Department uses to review special management area permits.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "sY6AwUuHzjI",
+        "ts": "0:15:03",
+        "endTs": "0:15:34",
+        "retrievedISO": "2026-10-12T06:30:07.228Z"
+      },
+      "body": "Commission on Persons with Disabilities"
+    },
+    {
+      "dateISO": "2026-07-14",
+      "text": "One testifier asked that wheelchair access standards be written into Special Management Area (SMA) rules.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Ail920zTE4c",
+        "ts": "3:25:37",
+        "endTs": "3:26:15",
+        "retrievedISO": "2026-10-13T06:35:14.575Z"
+      },
+      "body": "Maui Planning Commission"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Commission on Persons with Disabilities",
+      "group": "board",
+      "short": []
+    },
+    {
+      "name": "Maui Planning Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
