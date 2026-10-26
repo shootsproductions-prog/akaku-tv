@@ -17,138 +17,6 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-25",
-  "timeline": [
-    {
-      "dateISO": "2026-10-20",
-      "text": "The chair deferred (postponed) the item.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "tXQ_uHSav58",
-        "ts": "1:01:34",
-        "endTs": "1:02:04",
-        "retrievedISO": "2026-10-20T23:05:15.591Z"
-      },
-      "body": "County Council Budget, Finance, and Economic Development Committee"
-    },
-    {
-      "dateISO": "2026-10-20",
-      "text": "The chair asked about sending a letter to the Sister City Foundation for its list of cities waiting to be considered.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "tXQ_uHSav58",
-        "ts": "0:57:02",
-        "endTs": "0:57:32",
-        "retrievedISO": "2026-10-20T23:05:15.591Z"
-      },
-      "body": "County Council Budget, Finance, and Economic Development Committee"
-    },
-    {
-      "dateISO": "2026-10-20",
-      "text": "He suggested an ad hoc committee (a special working group) to explore more ideas.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "tXQ_uHSav58",
-        "ts": "0:37:17",
-        "endTs": "0:37:47",
-        "retrievedISO": "2026-10-20T23:05:15.591Z"
-      },
-      "body": "County Council Budget, Finance, and Economic Development Committee"
-    },
-    {
-      "dateISO": "2026-10-20",
-      "text": "A community council presenter named four areas for ties: tourism and culture, agriculture, trade, and education and health.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "tXQ_uHSav58",
-        "ts": "0:32:56",
-        "endTs": "0:33:28",
-        "retrievedISO": "2026-10-20T23:05:15.591Z"
-      },
-      "body": "County Council Budget, Finance, and Economic Development Committee"
-    },
-    {
-      "dateISO": "2026-10-20",
-      "text": "A County official said a ceremonial gathering will follow the signing of the memorandum of agreement.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "tXQ_uHSav58",
-        "ts": "0:25:43",
-        "endTs": "0:26:13",
-        "retrievedISO": "2026-10-20T23:05:15.591Z"
-      },
-      "body": "County Council Budget, Finance, and Economic Development Committee"
-    },
-    {
-      "dateISO": "2026-10-20",
-      "text": "A County official said the next step is signing a memorandum of agreement (a formal written agreement).",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "tXQ_uHSav58",
-        "ts": "0:25:32",
-        "endTs": "0:26:09",
-        "retrievedISO": "2026-10-20T23:05:15.591Z"
-      },
-      "body": "County Council Budget, Finance, and Economic Development Committee"
-    },
-    {
-      "dateISO": "2026-10-20",
-      "text": "The chair said the council adopted the resolution on September 29th, 2026.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "tXQ_uHSav58",
-        "ts": "0:21:00",
-        "endTs": "0:21:30",
-        "retrievedISO": "2026-10-20T23:05:15.591Z"
-      },
-      "body": "County Council Budget, Finance, and Economic Development Committee"
-    },
-    {
-      "dateISO": "2026-10-20",
-      "text": "The committee discussed a resolution making the capital city of Ilocos Norte, Philippines, a sister city.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "tXQ_uHSav58",
-        "ts": "0:20:29",
-        "endTs": "0:21:02",
-        "retrievedISO": "2026-10-20T23:05:15.591Z"
-      },
-      "body": "County Council Budget, Finance, and Economic Development Committee"
-    },
-    {
-      "dateISO": "2026-10-20",
-      "text": "A Maui Filipino Community Council member testified that the city is growing.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "tXQ_uHSav58",
-        "ts": "0:15:00",
-        "endTs": "0:16:27",
-        "retrievedISO": "2026-10-20T23:05:15.591Z"
-      },
-      "body": "County Council Budget, Finance, and Economic Development Committee"
-    },
-    {
-      "dateISO": "2026-09-29",
-      "text": "The mayor's office said that after Council approval of the sister city resolution, it would notify the city and plan a ceremonial acceptance.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "osd2kNYTO0c",
-        "ts": "1:54:45",
-        "endTs": "1:55:16",
-        "retrievedISO": "2026-10-16T18:23:02.372Z"
-      },
-      "body": "County Council Meeting"
-    }
-  ],
   "boards": [
     {
       "name": "Budget, Finance, and Economic Development Committee",
@@ -164,5 +32,140 @@
     }
   ],
   "bills": [],
+  "timeline": [
+    {
+      "dateISO": "2026-10-20",
+      "text": "The chair deferred (postponed) the item.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tXQ_uHSav58",
+        "ts": "1:01:34",
+        "retrievedISO": "2026-10-20T23:05:15.591Z",
+        "endTs": "1:02:04"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-10-20",
+      "text": "The chair asked about sending a letter to the Sister City Foundation for its list of cities waiting to be considered.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tXQ_uHSav58",
+        "ts": "0:57:02",
+        "retrievedISO": "2026-10-20T23:05:15.591Z",
+        "endTs": "0:57:32"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-10-20",
+      "text": "He suggested an ad hoc committee (a special working group) to explore more ideas.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tXQ_uHSav58",
+        "ts": "0:37:17",
+        "retrievedISO": "2026-10-20T23:05:15.591Z",
+        "endTs": "0:37:47"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-10-20",
+      "text": "A community council presenter named four areas for ties: tourism and culture, agriculture, trade, and education and health.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tXQ_uHSav58",
+        "ts": "0:32:56",
+        "retrievedISO": "2026-10-20T23:05:15.591Z",
+        "endTs": "0:33:28"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-10-20",
+      "text": "A County official said a ceremonial gathering will follow the signing of the memorandum of agreement.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tXQ_uHSav58",
+        "ts": "0:25:43",
+        "retrievedISO": "2026-10-20T23:05:15.591Z",
+        "endTs": "0:26:13"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-10-20",
+      "text": "A County official said the next step is signing a memorandum of agreement (a formal written agreement).",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tXQ_uHSav58",
+        "ts": "0:25:32",
+        "retrievedISO": "2026-10-20T23:05:15.591Z",
+        "endTs": "0:26:09"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-10-20",
+      "text": "The chair said the council adopted the resolution on September 29th, 2026.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tXQ_uHSav58",
+        "ts": "0:21:00",
+        "retrievedISO": "2026-10-20T23:05:15.591Z",
+        "endTs": "0:21:30"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-10-20",
+      "text": "The committee discussed a resolution making the capital city of Ilocos Norte, Philippines, a sister city.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tXQ_uHSav58",
+        "ts": "0:20:29",
+        "retrievedISO": "2026-10-20T23:05:15.591Z",
+        "endTs": "0:21:02"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-10-20",
+      "text": "A Maui Filipino Community Council member testified that the city is growing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tXQ_uHSav58",
+        "ts": "0:15:00",
+        "retrievedISO": "2026-10-20T23:05:15.591Z",
+        "endTs": "0:16:27"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-09-29",
+      "text": "The mayor's office said that after Council approval of the sister city resolution, it would notify the city and plan a ceremonial acceptance.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "osd2kNYTO0c",
+        "ts": "1:54:45",
+        "retrievedISO": "2026-10-16T18:23:02.372Z",
+        "endTs": "1:55:16"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

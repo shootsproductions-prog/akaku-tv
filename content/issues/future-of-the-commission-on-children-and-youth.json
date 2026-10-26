@@ -17,6 +17,16 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-25",
+  "boards": [
+    {
+      "name": "Government Relations, Ethics, and Transparency Committee",
+      "group": "council",
+      "short": [
+        "GREAT"
+      ]
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-10-20",
@@ -26,8 +36,8 @@
         "type": "meeting",
         "videoId": "lTGThFSETwA",
         "ts": "1:00:00",
-        "endTs": "1:00:56",
-        "retrievedISO": "2026-10-21T04:43:49.296Z"
+        "retrievedISO": "2026-10-21T04:43:49.296Z",
+        "endTs": "1:00:56"
       },
       "body": "County Council Government Relations, Ethics, and Transparency Committee"
     },
@@ -39,8 +49,8 @@
         "type": "meeting",
         "videoId": "4WkkHiuA95Q",
         "ts": "0:48:26",
-        "endTs": "0:49:03",
-        "retrievedISO": "2026-10-22T07:25:22.886Z"
+        "retrievedISO": "2026-10-22T07:25:22.886Z",
+        "endTs": "0:49:03"
       },
       "body": "County Council Government Relations, Ethics, and Transparency Committee"
     },
@@ -52,8 +62,8 @@
         "type": "meeting",
         "videoId": "4WkkHiuA95Q",
         "ts": "0:47:16",
-        "endTs": "0:47:46",
-        "retrievedISO": "2026-10-22T07:25:22.886Z"
+        "retrievedISO": "2026-10-22T07:25:22.886Z",
+        "endTs": "0:47:46"
       },
       "body": "County Council Government Relations, Ethics, and Transparency Committee"
     },
@@ -65,21 +75,14 @@
         "type": "meeting",
         "videoId": "4WkkHiuA95Q",
         "ts": "0:45:05",
-        "endTs": "0:45:38",
-        "retrievedISO": "2026-10-22T07:25:22.886Z"
+        "retrievedISO": "2026-10-22T07:25:22.886Z",
+        "endTs": "0:45:38"
       },
       "body": "County Council Government Relations, Ethics, and Transparency Committee"
     }
   ],
-  "boards": [
-    {
-      "name": "Government Relations, Ethics, and Transparency Committee",
-      "group": "council",
-      "short": [
-        "GREAT"
-      ]
-    }
+  "sourceTypes": [
+    "meeting"
   ],
-  "bills": [],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

@@ -17,6 +17,16 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-25",
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [
+    "Bill 119 (2026)"
+  ],
   "timeline": [
     {
       "dateISO": "2026-06-19",
@@ -26,8 +36,8 @@
         "type": "meeting",
         "videoId": "N5Uix8ba9zI",
         "ts": "2:01:09",
-        "endTs": "2:01:44",
-        "retrievedISO": "2026-10-16T18:06:35.375Z"
+        "retrievedISO": "2026-10-16T18:06:35.375Z",
+        "endTs": "2:01:44"
       },
       "body": "County Council Meeting"
     },
@@ -39,8 +49,8 @@
         "type": "meeting",
         "videoId": "lLsXXrEBmuw",
         "ts": "1:19:00",
-        "endTs": "1:19:30",
-        "retrievedISO": "2026-10-16T18:09:11.606Z"
+        "retrievedISO": "2026-10-16T18:09:11.606Z",
+        "endTs": "1:19:30"
       },
       "body": "County Council Meeting"
     },
@@ -52,8 +62,8 @@
         "type": "meeting",
         "videoId": "lLsXXrEBmuw",
         "ts": "1:11:35",
-        "endTs": "1:12:59",
-        "retrievedISO": "2026-10-16T18:09:11.606Z"
+        "retrievedISO": "2026-10-16T18:09:11.606Z",
+        "endTs": "1:12:59"
       },
       "body": "County Council Meeting"
     },
@@ -65,21 +75,14 @@
         "type": "meeting",
         "videoId": "lLsXXrEBmuw",
         "ts": "1:10:02",
-        "endTs": "1:10:42",
-        "retrievedISO": "2026-10-16T18:09:11.606Z"
+        "retrievedISO": "2026-10-16T18:09:11.606Z",
+        "endTs": "1:10:42"
       },
       "body": "County Council Meeting"
     }
   ],
-  "boards": [
-    {
-      "name": "Maui County Council",
-      "group": "council",
-      "short": []
-    }
-  ],
-  "bills": [
-    "Bill 119 (2026)"
+  "sourceTypes": [
+    "meeting"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

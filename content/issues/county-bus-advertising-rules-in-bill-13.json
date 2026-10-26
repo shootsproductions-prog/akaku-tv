@@ -17,21 +17,6 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-25",
-  "timeline": [
-    {
-      "dateISO": "2026-06-19",
-      "text": "Committee Report 26-33 recommending first reading of Bill 13 on county transit bus advertising: The vote on this motion was not captured in the recording.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "lLsXXrEBmuw",
-        "ts": "0:33:00",
-        "endTs": "0:33:34",
-        "retrievedISO": "2026-10-16T18:09:11.606Z"
-      },
-      "body": "County Council Meeting"
-    }
-  ],
   "boards": [
     {
       "name": "Maui County Council",
@@ -41,6 +26,24 @@
   ],
   "bills": [
     "Bill 13 (2026)"
+  ],
+  "timeline": [
+    {
+      "dateISO": "2026-06-19",
+      "text": "Committee Report 26-33 recommending first reading of Bill 13 on county transit bus advertising: The vote on this motion was not captured in the recording.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lLsXXrEBmuw",
+        "ts": "0:33:00",
+        "retrievedISO": "2026-10-16T18:09:11.606Z",
+        "endTs": "0:33:34"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

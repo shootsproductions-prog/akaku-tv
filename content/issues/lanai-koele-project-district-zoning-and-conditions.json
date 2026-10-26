@@ -17,6 +17,16 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-25",
+  "boards": [
+    {
+      "name": "Housing and Land Use Committee",
+      "group": "council",
+      "short": [
+        "HLU"
+      ]
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-10-21",
@@ -26,8 +36,8 @@
         "type": "meeting",
         "videoId": "PlQb2FwXyok",
         "ts": "1:02:43",
-        "endTs": "1:03:17",
-        "retrievedISO": "2026-10-21T23:03:18.746Z"
+        "retrievedISO": "2026-10-21T23:03:18.746Z",
+        "endTs": "1:03:17"
       },
       "body": "County Council Housing and Land Use Committee"
     },
@@ -39,8 +49,8 @@
         "type": "meeting",
         "videoId": "PlQb2FwXyok",
         "ts": "0:48:02",
-        "endTs": "0:48:34",
-        "retrievedISO": "2026-10-21T23:03:18.746Z"
+        "retrievedISO": "2026-10-21T23:03:18.746Z",
+        "endTs": "0:48:34"
       },
       "body": "County Council Housing and Land Use Committee"
     },
@@ -52,8 +62,8 @@
         "type": "meeting",
         "videoId": "PlQb2FwXyok",
         "ts": "0:41:10",
-        "endTs": "0:41:40",
-        "retrievedISO": "2026-10-21T23:03:18.746Z"
+        "retrievedISO": "2026-10-21T23:03:18.746Z",
+        "endTs": "0:41:40"
       },
       "body": "County Council Housing and Land Use Committee"
     },
@@ -65,8 +75,8 @@
         "type": "meeting",
         "videoId": "PlQb2FwXyok",
         "ts": "0:34:46",
-        "endTs": "0:35:16",
-        "retrievedISO": "2026-10-21T23:03:18.746Z"
+        "retrievedISO": "2026-10-21T23:03:18.746Z",
+        "endTs": "0:35:16"
       },
       "body": "County Council Housing and Land Use Committee"
     },
@@ -78,8 +88,8 @@
         "type": "meeting",
         "videoId": "PlQb2FwXyok",
         "ts": "0:28:29",
-        "endTs": "0:28:59",
-        "retrievedISO": "2026-10-21T23:03:18.746Z"
+        "retrievedISO": "2026-10-21T23:03:18.746Z",
+        "endTs": "0:28:59"
       },
       "body": "County Council Housing and Land Use Committee"
     },
@@ -91,8 +101,8 @@
         "type": "meeting",
         "videoId": "PlQb2FwXyok",
         "ts": "0:24:10",
-        "endTs": "0:24:44",
-        "retrievedISO": "2026-10-21T23:03:18.746Z"
+        "retrievedISO": "2026-10-21T23:03:18.746Z",
+        "endTs": "0:24:44"
       },
       "body": "County Council Housing and Land Use Committee"
     },
@@ -104,8 +114,8 @@
         "type": "meeting",
         "videoId": "PlQb2FwXyok",
         "ts": "0:18:10",
-        "endTs": "0:18:50",
-        "retrievedISO": "2026-10-21T23:03:18.746Z"
+        "retrievedISO": "2026-10-21T23:03:18.746Z",
+        "endTs": "0:18:50"
       },
       "body": "County Council Housing and Land Use Committee"
     },
@@ -117,21 +127,14 @@
         "type": "meeting",
         "videoId": "PlQb2FwXyok",
         "ts": "0:17:51",
-        "endTs": "0:18:21",
-        "retrievedISO": "2026-10-21T23:03:18.746Z"
+        "retrievedISO": "2026-10-21T23:03:18.746Z",
+        "endTs": "0:18:21"
       },
       "body": "County Council Housing and Land Use Committee"
     }
   ],
-  "boards": [
-    {
-      "name": "Housing and Land Use Committee",
-      "group": "council",
-      "short": [
-        "HLU"
-      ]
-    }
+  "sourceTypes": [
+    "meeting"
   ],
-  "bills": [],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

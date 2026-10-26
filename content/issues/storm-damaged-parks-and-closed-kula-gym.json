@@ -16,6 +16,16 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-25",
+  "boards": [
+    {
+      "name": "Water Authority, Social Services, and Parks Committee",
+      "group": "council",
+      "short": [
+        "WASSP"
+      ]
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-07-27",
@@ -25,8 +35,8 @@
         "type": "meeting",
         "videoId": "bNJZc33FonA",
         "ts": "2:07:15",
-        "endTs": "2:07:45",
-        "retrievedISO": "2026-10-16T17:05:01.192Z"
+        "retrievedISO": "2026-10-16T17:05:01.192Z",
+        "endTs": "2:07:45"
       },
       "body": "County Council Water Authority, Social Services, and Parks Committee"
     },
@@ -38,8 +48,8 @@
         "type": "meeting",
         "videoId": "bNJZc33FonA",
         "ts": "2:01:16",
-        "endTs": "2:02:01",
-        "retrievedISO": "2026-10-16T17:05:01.192Z"
+        "retrievedISO": "2026-10-16T17:05:01.192Z",
+        "endTs": "2:02:01"
       },
       "body": "County Council Water Authority, Social Services, and Parks Committee"
     },
@@ -51,8 +61,8 @@
         "type": "meeting",
         "videoId": "bNJZc33FonA",
         "ts": "1:58:24",
-        "endTs": "1:58:57",
-        "retrievedISO": "2026-10-16T17:05:01.192Z"
+        "retrievedISO": "2026-10-16T17:05:01.192Z",
+        "endTs": "1:58:57"
       },
       "body": "County Council Water Authority, Social Services, and Parks Committee"
     },
@@ -64,8 +74,8 @@
         "type": "meeting",
         "videoId": "bNJZc33FonA",
         "ts": "1:57:03",
-        "endTs": "1:57:44",
-        "retrievedISO": "2026-10-16T17:05:01.192Z"
+        "retrievedISO": "2026-10-16T17:05:01.192Z",
+        "endTs": "1:57:44"
       },
       "body": "County Council Water Authority, Social Services, and Parks Committee"
     },
@@ -77,8 +87,8 @@
         "type": "meeting",
         "videoId": "bNJZc33FonA",
         "ts": "1:56:08",
-        "endTs": "1:56:38",
-        "retrievedISO": "2026-10-16T17:05:01.192Z"
+        "retrievedISO": "2026-10-16T17:05:01.192Z",
+        "endTs": "1:56:38"
       },
       "body": "County Council Water Authority, Social Services, and Parks Committee"
     },
@@ -90,8 +100,8 @@
         "type": "meeting",
         "videoId": "bNJZc33FonA",
         "ts": "1:51:07",
-        "endTs": "1:51:57",
-        "retrievedISO": "2026-10-16T17:05:01.192Z"
+        "retrievedISO": "2026-10-16T17:05:01.192Z",
+        "endTs": "1:51:57"
       },
       "body": "County Council Water Authority, Social Services, and Parks Committee"
     },
@@ -103,8 +113,8 @@
         "type": "meeting",
         "videoId": "bNJZc33FonA",
         "ts": "1:45:51",
-        "endTs": "1:46:21",
-        "retrievedISO": "2026-10-16T17:05:01.192Z"
+        "retrievedISO": "2026-10-16T17:05:01.192Z",
+        "endTs": "1:46:21"
       },
       "body": "County Council Water Authority, Social Services, and Parks Committee"
     },
@@ -116,8 +126,8 @@
         "type": "meeting",
         "videoId": "bNJZc33FonA",
         "ts": "1:38:44",
-        "endTs": "1:39:14",
-        "retrievedISO": "2026-10-16T17:05:01.192Z"
+        "retrievedISO": "2026-10-16T17:05:01.192Z",
+        "endTs": "1:39:14"
       },
       "body": "County Council Water Authority, Social Services, and Parks Committee"
     },
@@ -129,8 +139,8 @@
         "type": "meeting",
         "videoId": "bNJZc33FonA",
         "ts": "1:38:35",
-        "endTs": "1:39:12",
-        "retrievedISO": "2026-10-16T17:05:01.192Z"
+        "retrievedISO": "2026-10-16T17:05:01.192Z",
+        "endTs": "1:39:12"
       },
       "body": "County Council Water Authority, Social Services, and Parks Committee"
     },
@@ -142,8 +152,8 @@
         "type": "meeting",
         "videoId": "bNJZc33FonA",
         "ts": "1:36:55",
-        "endTs": "1:37:25",
-        "retrievedISO": "2026-10-16T17:05:01.192Z"
+        "retrievedISO": "2026-10-16T17:05:01.192Z",
+        "endTs": "1:37:25"
       },
       "body": "County Council Water Authority, Social Services, and Parks Committee"
     },
@@ -155,8 +165,8 @@
         "type": "meeting",
         "videoId": "bNJZc33FonA",
         "ts": "1:31:18",
-        "endTs": "1:31:48",
-        "retrievedISO": "2026-10-16T17:05:01.192Z"
+        "retrievedISO": "2026-10-16T17:05:01.192Z",
+        "endTs": "1:31:48"
       },
       "body": "County Council Water Authority, Social Services, and Parks Committee"
     },
@@ -168,21 +178,14 @@
         "type": "meeting",
         "videoId": "bNJZc33FonA",
         "ts": "1:30:00",
-        "endTs": "1:30:58",
-        "retrievedISO": "2026-10-16T17:05:01.192Z"
+        "retrievedISO": "2026-10-16T17:05:01.192Z",
+        "endTs": "1:30:58"
       },
       "body": "County Council Water Authority, Social Services, and Parks Committee"
     }
   ],
-  "boards": [
-    {
-      "name": "Water Authority, Social Services, and Parks Committee",
-      "group": "council",
-      "short": [
-        "WASSP"
-      ]
-    }
+  "sourceTypes": [
+    "meeting"
   ],
-  "bills": [],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

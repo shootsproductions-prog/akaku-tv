@@ -17,6 +17,14 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-25",
+  "boards": [
+    {
+      "name": "Fire and Public Safety Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2024-11-21",
@@ -26,19 +34,14 @@
         "type": "meeting",
         "videoId": "EzLmqE78YDk",
         "ts": "0:34:17",
-        "endTs": "0:34:47",
-        "retrievedISO": "2026-10-12T06:30:30.475Z"
+        "retrievedISO": "2026-10-12T06:30:30.475Z",
+        "endTs": "0:34:47"
       },
       "body": "Fire and Public Safety Commission"
     }
   ],
-  "boards": [
-    {
-      "name": "Fire and Public Safety Commission",
-      "group": "board",
-      "short": []
-    }
+  "sourceTypes": [
+    "meeting"
   ],
-  "bills": [],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

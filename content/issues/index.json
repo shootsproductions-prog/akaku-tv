@@ -83,12 +83,27 @@
     "youth-commission-list-of-county-funded-youth-programs.json",
     "charter-amendments-headed-to-the-general-election-ballot.json",
     "highway-realignment-crossing-17-archaeological-sites.json",
-    "kula-park-renaming-headed-to-county-council.json"
+    "kula-park-renaming-headed-to-county-council.json",
+    "allowing-two-accessory-homes-per-residential-lot.json",
+    "council-on-aging-four-year-plan.json",
+    "county-bus-advertising-rules-in-bill-13.json",
+    "countywide-rules-for-managing-county-grants.json",
+    "future-of-the-commission-on-children-and-youth.json",
+    "higher-fines-for-loud-vehicle-sound-systems.json",
+    "lanai-koele-project-district-zoning-and-conditions.json",
+    "mutual-aid-agreement-to-help-kauai-after-hurricane-lowell.json",
+    "paia-40-acre-housing-project-rezoning.json",
+    "paia-sugar-mill-light-industrial-rezoning.json",
+    "sister-city-ties-with-ilocos-norte-capital.json",
+    "state-fire-code-adoption-with-brush-clearing-fines.json",
+    "storm-damaged-parks-and-closed-kula-gym.json",
+    "taxi-fare-and-baggage-charge-increases.json",
+    "water-department-purchases-outside-county-safeguards.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-10-26T07:26:10.087Z",
-  "etag": "c9b65b43f5b493fa70b2abe1f605702c9b5d4f53488006af425130ca63f904cd",
+  "updatedAt": "2026-10-26T07:58:17.748Z",
+  "etag": "4b7a59a98f8563b1d862fcc56596aa05ceae8be8412b3624856d40a93aafad3f",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-10-26T06:24:10.281Z",
@@ -425,6 +440,66 @@
     "kula-park-renaming-headed-to-county-council.json": {
       "updatedAt": "2026-10-25T23:58:43.027Z",
       "sha256": "bfcd1fde02afdf7d6a4273fee3698fe2b9f28d76a11dce89305dc1cc1adb782e"
+    },
+    "allowing-two-accessory-homes-per-residential-lot.json": {
+      "updatedAt": "2026-10-26T07:58:17.748Z",
+      "sha256": "c1b543e76fe941d28d46927f2717ff79d85152c13cbf65393ded275832b6716b"
+    },
+    "council-on-aging-four-year-plan.json": {
+      "updatedAt": "2026-10-26T07:58:17.748Z",
+      "sha256": "3c2d501e7223f2c91c9a22d23e7e3fdb16babdaa796149deaa70e6b25e01439f"
+    },
+    "county-bus-advertising-rules-in-bill-13.json": {
+      "updatedAt": "2026-10-26T07:58:17.748Z",
+      "sha256": "52cbe58815bbaf476d9e4920a56c16a832eb231352f414f8f5014166b21703bf"
+    },
+    "countywide-rules-for-managing-county-grants.json": {
+      "updatedAt": "2026-10-26T07:58:17.748Z",
+      "sha256": "553c587b2c124e02004164a507bde86104b6e7bdcbcd92f174d30d0b8f3140b5"
+    },
+    "future-of-the-commission-on-children-and-youth.json": {
+      "updatedAt": "2026-10-26T07:58:17.748Z",
+      "sha256": "189141a9e96a31e5017eadbf8838db8d1f5eac09fdb4e94fc66016aaaffeaa65"
+    },
+    "higher-fines-for-loud-vehicle-sound-systems.json": {
+      "updatedAt": "2026-10-26T07:58:17.748Z",
+      "sha256": "539a477575c560796a7aff577f7448c423370047d5eb171981e0095e5ff858ce"
+    },
+    "lanai-koele-project-district-zoning-and-conditions.json": {
+      "updatedAt": "2026-10-26T07:58:17.748Z",
+      "sha256": "17e73dc0352f81dfc4b9301901af0a458852f2056d2c13ed38f498fcce1af365"
+    },
+    "mutual-aid-agreement-to-help-kauai-after-hurricane-lowell.json": {
+      "updatedAt": "2026-10-26T07:58:17.748Z",
+      "sha256": "d5548291263ec484b9428106851e08300e3a89a01219239101339516ebee74fe"
+    },
+    "paia-40-acre-housing-project-rezoning.json": {
+      "updatedAt": "2026-10-26T07:58:17.748Z",
+      "sha256": "af52e61a8d698bcf033a92d29e462e3602adf9c3596bfddee80ac570c16ba92b"
+    },
+    "paia-sugar-mill-light-industrial-rezoning.json": {
+      "updatedAt": "2026-10-26T07:58:17.748Z",
+      "sha256": "defe0cde1aea00afb48d124017ae75db75d6f1b36c8682806df68a6ff22c58a0"
+    },
+    "sister-city-ties-with-ilocos-norte-capital.json": {
+      "updatedAt": "2026-10-26T07:58:17.748Z",
+      "sha256": "182939e50994890cc3f7bdf45a9c765ba6b07d6c933dda1906e98946b12908fc"
+    },
+    "state-fire-code-adoption-with-brush-clearing-fines.json": {
+      "updatedAt": "2026-10-26T07:58:17.748Z",
+      "sha256": "463e0c6db064c011248bac5ab81c327c5b7cc7c34b97fd49120642a67935dd3c"
+    },
+    "storm-damaged-parks-and-closed-kula-gym.json": {
+      "updatedAt": "2026-10-26T07:58:17.748Z",
+      "sha256": "c98a3655f9bd0b6b296b13880e28fab471d7fea1d2fa0437c873c1d278c38567"
+    },
+    "taxi-fare-and-baggage-charge-increases.json": {
+      "updatedAt": "2026-10-26T07:58:17.748Z",
+      "sha256": "dc6032379255a71f58a56b8328148e0dc9aea7cdba7611e32a14228561130308"
+    },
+    "water-department-purchases-outside-county-safeguards.json": {
+      "updatedAt": "2026-10-26T07:58:17.748Z",
+      "sha256": "99d79ee0ac2ceac84fef3c3d2b22a928faec520e5458a0c0f5093a61cbafa467"
     }
   }
 }

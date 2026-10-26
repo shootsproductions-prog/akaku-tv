@@ -17,21 +17,6 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-25",
-  "timeline": [
-    {
-      "dateISO": "2026-06-19",
-      "text": "Bill 78 would allow two accessory dwelling units, or extra small homes, on residential lots.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "lLsXXrEBmuw",
-        "ts": "0:52:28",
-        "endTs": "0:52:58",
-        "retrievedISO": "2026-10-16T18:09:11.606Z"
-      },
-      "body": "County Council Meeting"
-    }
-  ],
   "boards": [
     {
       "name": "Maui County Council",
@@ -41,6 +26,24 @@
   ],
   "bills": [
     "Bill 78 (2026)"
+  ],
+  "timeline": [
+    {
+      "dateISO": "2026-06-19",
+      "text": "Bill 78 would allow two accessory dwelling units, or extra small homes, on residential lots.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lLsXXrEBmuw",
+        "ts": "0:52:28",
+        "retrievedISO": "2026-10-16T18:09:11.606Z",
+        "endTs": "0:52:58"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

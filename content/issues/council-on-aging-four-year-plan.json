@@ -17,6 +17,14 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-25",
+  "boards": [
+    {
+      "name": "Council on Aging",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-09-08",
@@ -26,8 +34,8 @@
         "type": "meeting",
         "videoId": "Cqu5kcGNyBc",
         "ts": "0:48:04",
-        "endTs": "0:48:36",
-        "retrievedISO": "2026-10-07T23:04:01.841Z"
+        "retrievedISO": "2026-10-07T23:04:01.841Z",
+        "endTs": "0:48:36"
       },
       "body": "Council on Aging"
     },
@@ -39,8 +47,8 @@
         "type": "meeting",
         "videoId": "2gk5j4-mY5U",
         "ts": "1:33:00",
-        "endTs": "1:33:30",
-        "retrievedISO": "2026-10-13T06:35:11.668Z"
+        "retrievedISO": "2026-10-13T06:35:11.668Z",
+        "endTs": "1:33:30"
       }
     },
     {
@@ -51,18 +59,13 @@
         "type": "meeting",
         "videoId": "2gk5j4-mY5U",
         "ts": "1:14:54",
-        "endTs": "1:15:29",
-        "retrievedISO": "2026-10-13T06:35:11.668Z"
+        "retrievedISO": "2026-10-13T06:35:11.668Z",
+        "endTs": "1:15:29"
       }
     }
   ],
-  "boards": [
-    {
-      "name": "Council on Aging",
-      "group": "board",
-      "short": []
-    }
+  "sourceTypes": [
+    "meeting"
   ],
-  "bills": [],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }
