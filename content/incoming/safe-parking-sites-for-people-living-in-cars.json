@@ -1,0 +1,750 @@
+{
+  "slug": "safe-parking-sites-for-people-living-in-cars",
+  "title": "Safe parking sites for people living in cars",
+  "summary": "The council committee deferred the safe parking pilot bill on October 19, with no vote taken. The bill would let people sleep in vehicles at more county sites and drop license, registration and safety-check requirements. The director said the pilot would take about 50 people, with 24-hour security, and a six-month clock starting when people move in.",
+  "topics": [
+    "housing",
+    "public-safety"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-06-29",
+  "lastSeenISO": "2026-10-21",
+  "signals": {
+    "meetingsLast30d": 2,
+    "meetingsLast90d": 3,
+    "mentionsLast30d": 6,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-25",
+  "timeline": [
+    {
+      "dateISO": "2026-10-21",
+      "text": "A testifier asked about safe parking for people in need near the police station at the tech park.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Pcpudwx07B4",
+        "ts": "0:13:23",
+        "endTs": "0:13:56",
+        "retrievedISO": "2026-10-21T23:01:41.623Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "Deferral of the safe parking pilot bill: The chair deferred the safe parking bill item.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "aeEPeS-Z9OM",
+        "ts": "0:55:34",
+        "endTs": "0:56:04",
+        "retrievedISO": "2026-10-20T00:41:29.010Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "The director confirmed no cooking will be allowed, but nonprofits may bring food.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "aeEPeS-Z9OM",
+        "ts": "0:55:18",
+        "endTs": "0:55:48",
+        "retrievedISO": "2026-10-20T00:41:29.010Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "The director said the pilot will take about 50 people.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "aeEPeS-Z9OM",
+        "ts": "0:54:36",
+        "endTs": "0:55:06",
+        "retrievedISO": "2026-10-20T00:41:29.010Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "A staff member invited members to call before Friday's second reading with liability questions instead of holding an executive session (a closed-door discussion).",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "aeEPeS-Z9OM",
+        "ts": "0:53:55",
+        "endTs": "0:54:25",
+        "retrievedISO": "2026-10-20T00:41:29.010Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "The director said the temporary site will have 24-hour security.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "aeEPeS-Z9OM",
+        "ts": "0:47:18",
+        "endTs": "0:47:48",
+        "retrievedISO": "2026-10-20T00:41:29.010Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "Another testifier asked about liability if insurance and safety checks are waived.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "K4_o2IHqfEc",
+        "ts": "0:43:15",
+        "endTs": "0:43:45",
+        "retrievedISO": "2026-10-20T00:03:48.839Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "A staff member said the ordinance requires the council to review it within 12 months after a pilot starts.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "aeEPeS-Z9OM",
+        "ts": "0:42:37",
+        "endTs": "0:43:07",
+        "retrievedISO": "2026-10-20T00:41:29.010Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "The committee discussed a bill for a pilot program that would let people sleep in their vehicles at a county site.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "aeEPeS-Z9OM",
+        "ts": "0:42:22",
+        "endTs": "0:42:52",
+        "retrievedISO": "2026-10-20T00:41:29.010Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "The director said the six-month pilot clock starts when people are moved to the site.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "aeEPeS-Z9OM",
+        "ts": "0:38:29",
+        "endTs": "0:38:59",
+        "retrievedISO": "2026-10-20T00:41:29.010Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "A Hawaiʻi Public Housing Authority board member said the bill removes transparency.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "K4_o2IHqfEc",
+        "ts": "0:35:04",
+        "endTs": "0:36:40",
+        "retrievedISO": "2026-10-20T00:03:48.839Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "The director said people who do not join the pilot will be offered other shelter or treatment options.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "aeEPeS-Z9OM",
+        "ts": "0:34:22",
+        "endTs": "0:34:52",
+        "retrievedISO": "2026-10-20T00:41:29.010Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "A testifier said he met a woman with three small children living in a vehicle.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "K4_o2IHqfEc",
+        "ts": "0:30:51",
+        "endTs": "0:31:21",
+        "retrievedISO": "2026-10-20T00:03:48.839Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "One testifier asked the County to consider county parks, which already have toilets and water.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "K4_o2IHqfEc",
+        "ts": "0:25:03",
+        "endTs": "0:25:33",
+        "retrievedISO": "2026-10-20T00:03:48.839Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "A county lawyer said administrative rules (written procedures) take time and cannot be ready before the pilot programs start.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "K4_o2IHqfEc",
+        "ts": "0:20:44",
+        "endTs": "0:21:14",
+        "retrievedISO": "2026-10-20T00:03:48.839Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "The director said the department will work with the Office of Communications to clarify the site plans for the public.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "aeEPeS-Z9OM",
+        "ts": "0:20:39",
+        "endTs": "0:21:09",
+        "retrievedISO": "2026-10-20T00:41:29.010Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "A county lawyer said her office would be happy to work on draft rules as the pilot project moves forward.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "K4_o2IHqfEc",
+        "ts": "0:20:27",
+        "endTs": "0:20:57",
+        "retrievedISO": "2026-10-20T00:03:48.839Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "A county lawyer said the bill would allow other county-owned or managed parcels to be used, not just parking lots.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "K4_o2IHqfEc",
+        "ts": "0:18:38",
+        "endTs": "0:19:08",
+        "retrievedISO": "2026-10-20T00:03:48.839Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "The director said removing the old rules language is enough, without writing a separate exemption.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "K4_o2IHqfEc",
+        "ts": "0:16:33",
+        "endTs": "0:17:03",
+        "retrievedISO": "2026-10-20T00:03:48.839Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "The vice chair spoke of a dire need, citing a rise in people sleeping outside or in vehicles from 285 to 398.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "aeEPeS-Z9OM",
+        "ts": "0:16:33",
+        "endTs": "0:17:21",
+        "retrievedISO": "2026-10-20T00:41:29.010Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "The director said the temporary site would check people's ties to Maui County using a homeless data system and police records.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "K4_o2IHqfEc",
+        "ts": "0:14:44",
+        "endTs": "0:15:21",
+        "retrievedISO": "2026-10-20T00:03:48.839Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "No vote was taken because this was a Rule 7B discussion only.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "K4_o2IHqfEc",
+        "ts": "0:10:20",
+        "endTs": "0:10:50",
+        "retrievedISO": "2026-10-20T00:03:48.839Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "A bill would expand where people living in vehicles can stay on county property and remove some entry requirements.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "K4_o2IHqfEc",
+        "ts": "0:09:53",
+        "endTs": "0:10:35",
+        "retrievedISO": "2026-10-20T00:03:48.839Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "The chair said a 2022 law created a pilot project letting houseless people stay in their vehicles at certain county parking lots.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "K4_o2IHqfEc",
+        "ts": "0:08:44",
+        "endTs": "0:09:23",
+        "retrievedISO": "2026-10-20T00:03:48.839Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "The chair said there is an urgent need to address houselessness while keeping the public safe.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "K4_o2IHqfEc",
+        "ts": "0:07:29",
+        "endTs": "0:08:05",
+        "retrievedISO": "2026-10-20T00:03:48.839Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-10-09",
+      "text": "A County director said the temporary site will run 24 hours, with a shuttle to the transit hub.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mmnN74BJwhw",
+        "ts": "1:21:56",
+        "endTs": "1:22:31",
+        "retrievedISO": "2026-10-16T10:06:23.221Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-10-09",
+      "text": "A County director said staff will help safe parking participants get an ID or driver's license.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mmnN74BJwhw",
+        "ts": "1:21:08",
+        "endTs": "1:21:38",
+        "retrievedISO": "2026-10-16T10:06:23.221Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-10-09",
+      "text": "A County attorney said sites under the ordinance would have to be county controlled in some form.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mmnN74BJwhw",
+        "ts": "1:15:00",
+        "endTs": "1:15:32",
+        "retrievedISO": "2026-10-16T10:06:23.221Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-10-09",
+      "text": "Acting on the bill lets the County move ahead with a temporary safe parking site for unsheltered people being relocated.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mmnN74BJwhw",
+        "ts": "1:12:07",
+        "endTs": "1:12:37",
+        "retrievedISO": "2026-10-16T10:06:23.221Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-10-09",
+      "text": "The bill removes driver's license, vehicle registration, and safety check requirements that some participants may lack.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mmnN74BJwhw",
+        "ts": "1:11:53",
+        "endTs": "1:12:23",
+        "retrievedISO": "2026-10-16T10:06:23.221Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-10-09",
+      "text": "Bill 133 would allow more flexibility in the hours and conditions of each safe parking site.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mmnN74BJwhw",
+        "ts": "1:11:45",
+        "endTs": "1:12:15",
+        "retrievedISO": "2026-10-16T10:06:23.221Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-09-04",
+      "text": "The resolution failed with four ayes and two noes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UsJUbzdqBgw",
+        "ts": "2:25:02",
+        "endTs": "2:26:21",
+        "retrievedISO": "2026-10-16T16:08:54.867Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-09-04",
+      "text": "A council member said he would give the administration time to set up safe parking and a safe sleeping area.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UsJUbzdqBgw",
+        "ts": "2:22:03",
+        "endTs": "2:22:43",
+        "retrievedISO": "2026-10-16T16:08:54.867Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-09-04",
+      "text": "The Council voted 7–0 to amend the resolution's wording.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UsJUbzdqBgw",
+        "ts": "2:09:38",
+        "endTs": "2:10:08",
+        "retrievedISO": "2026-10-16T16:08:54.867Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-09-04",
+      "text": "The vice chair said the resolution was about safety for everyone, not about blaming people experiencing homelessness.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UsJUbzdqBgw",
+        "ts": "1:50:37",
+        "endTs": "1:51:07",
+        "retrievedISO": "2026-10-16T16:08:54.867Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-09-04",
+      "text": "Resolution 26-150 urged the administration to carry out a managed safe overnight parking project.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UsJUbzdqBgw",
+        "ts": "1:49:56",
+        "endTs": "1:50:26",
+        "retrievedISO": "2026-10-16T16:08:54.867Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-09-04",
+      "text": "A testifier said the phrase \"immediate action\" in the resolution was not defined.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UsJUbzdqBgw",
+        "ts": "0:24:11",
+        "endTs": "0:24:46",
+        "retrievedISO": "2026-10-16T16:08:54.867Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-06-29",
+      "text": "The committee deferred the item, meaning it was held for a later meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BbyOo3hFFbE",
+        "ts": "2:03:15",
+        "endTs": "2:03:45",
+        "retrievedISO": "2026-10-16T17:42:17.592Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-29",
+      "text": "The chair said another presentation is planned for July 27.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BbyOo3hFFbE",
+        "ts": "1:56:06",
+        "endTs": "1:56:36",
+        "retrievedISO": "2026-10-16T17:42:17.592Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-29",
+      "text": "The director said the department does not yet have an overall homelessness plan but is working on one.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BbyOo3hFFbE",
+        "ts": "1:52:36",
+        "endTs": "1:53:06",
+        "retrievedISO": "2026-10-16T17:42:17.592Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-29",
+      "text": "The director said none of the project money has been spent yet.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BbyOo3hFFbE",
+        "ts": "1:33:45",
+        "endTs": "1:34:15",
+        "retrievedISO": "2026-10-16T17:42:17.592Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-29",
+      "text": "The department is talking with county lawyers and finance about its contracting options.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BbyOo3hFFbE",
+        "ts": "1:27:28",
+        "endTs": "1:27:58",
+        "retrievedISO": "2026-10-16T17:42:17.592Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-29",
+      "text": "The director said access to water in central Maui has been a barrier for some sites.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BbyOo3hFFbE",
+        "ts": "1:25:06",
+        "endTs": "1:25:36",
+        "retrievedISO": "2026-10-16T17:42:17.592Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-29",
+      "text": "The director said owners of large vacant commercial buildings did not respond or had concerns.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BbyOo3hFFbE",
+        "ts": "1:23:24",
+        "endTs": "1:23:57",
+        "retrievedISO": "2026-10-16T17:42:17.592Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-29",
+      "text": "The director said the department is looking at undeveloped county-owned land, mostly in central Maui.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BbyOo3hFFbE",
+        "ts": "1:08:27",
+        "endTs": "1:09:20",
+        "retrievedISO": "2026-10-16T17:42:17.592Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-29",
+      "text": "The founder of the group that first proposed safe parking said this is a completely different project.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BbyOo3hFFbE",
+        "ts": "0:45:33",
+        "endTs": "0:46:36",
+        "retrievedISO": "2026-10-16T17:42:17.592Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-29",
+      "text": "Designating the contractor's principal as a resource: Members agreed without objection to make the contractor's principal a resource for questions.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BbyOo3hFFbE",
+        "ts": "0:41:48",
+        "endTs": "0:42:18",
+        "retrievedISO": "2026-10-16T17:42:17.592Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-29",
+      "text": "The director estimated about five months to get the site ready.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BbyOo3hFFbE",
+        "ts": "0:19:20",
+        "endTs": "0:19:50",
+        "retrievedISO": "2026-10-16T17:42:17.592Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-29",
+      "text": "The department is re-checking the flooded site, starting with about four weeks of land survey mapping.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BbyOo3hFFbE",
+        "ts": "0:18:21",
+        "endTs": "0:18:51",
+        "retrievedISO": "2026-10-16T17:42:17.592Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-29",
+      "text": "Heavy flooding crossed the site, so the department is re-checking whether people could safely get out.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BbyOo3hFFbE",
+        "ts": "0:17:30",
+        "endTs": "0:18:21",
+        "retrievedISO": "2026-10-16T17:42:17.592Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-29",
+      "text": "The contractor's 12-month agreement is six and a half months in.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BbyOo3hFFbE",
+        "ts": "0:16:18",
+        "endTs": "0:16:48",
+        "retrievedISO": "2026-10-16T17:42:17.592Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-29",
+      "text": "An extra $162,500 the council approved will go unspent because the contract was not changed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BbyOo3hFFbE",
+        "ts": "0:15:52",
+        "endTs": "0:16:26",
+        "retrievedISO": "2026-10-16T17:42:17.592Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-29",
+      "text": "A notice to proceed, the go-ahead to start work, was issued December 11th, 2025.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BbyOo3hFFbE",
+        "ts": "0:15:29",
+        "endTs": "0:15:59",
+        "retrievedISO": "2026-10-16T17:42:17.592Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-29",
+      "text": "The department director said the contract went to a company that proposed private land at 21 Hanson Road.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BbyOo3hFFbE",
+        "ts": "0:15:00",
+        "endTs": "0:15:38",
+        "retrievedISO": "2026-10-16T17:42:17.592Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Housing and Land Use Committee",
+      "group": "council",
+      "short": [
+        "HLU"
+      ]
+    },
+    {
+      "name": "Water Authority, Social Services, and Parks Committee",
+      "group": "council",
+      "short": [
+        "WASSP"
+      ]
+    },
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [
+    "Bill 133 (2026)",
+    "Resolution 26-150"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

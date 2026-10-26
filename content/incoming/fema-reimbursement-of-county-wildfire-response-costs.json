@@ -1,0 +1,101 @@
+{
+  "slug": "fema-reimbursement-of-county-wildfire-response-costs",
+  "title": "FEMA reimbursement of county wildfire response costs",
+  "summary": "The county has received its first two FEMA reimbursement checks, totaling over $890,000, for fire department projects. FEMA sends the money to the state emergency agency, which passes it to the county. Police say FEMA has repaid a good portion of their fire costs, including all overtime, but some equipment requests missed the repayment deadline.",
+  "topics": [
+    "disaster-recovery",
+    "economy"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2024-11-20",
+  "lastSeenISO": "2024-11-21",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-25",
+  "timeline": [
+    {
+      "dateISO": "2024-11-21",
+      "text": "FEMA gives the money to the state emergency agency, which then passes it to the county.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "EzLmqE78YDk",
+        "ts": "1:13:41",
+        "endTs": "1:14:14",
+        "retrievedISO": "2026-10-12T06:30:30.475Z"
+      },
+      "body": "Fire and Public Safety Commission"
+    },
+    {
+      "dateISO": "2024-11-21",
+      "text": "The county got its first two FEMA reimbursement checks, totaling over $890,000 for fire department projects.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "EzLmqE78YDk",
+        "ts": "1:13:17",
+        "endTs": "1:14:20",
+        "retrievedISO": "2026-10-12T06:30:30.475Z"
+      },
+      "body": "Fire and Public Safety Commission"
+    },
+    {
+      "dateISO": "2024-11-20",
+      "text": "The deputy chief said all police overtime from the fires was reimbursed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TxzLnQKaEY0",
+        "ts": "1:01:52",
+        "endTs": "1:02:22",
+        "retrievedISO": "2026-10-15T06:35:19.562Z"
+      },
+      "body": "Police Commission"
+    },
+    {
+      "dateISO": "2024-11-20",
+      "text": "The deputy chief said some equipment requests did not meet the deadline for repayment.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TxzLnQKaEY0",
+        "ts": "1:01:32",
+        "endTs": "1:02:02",
+        "retrievedISO": "2026-10-15T06:35:19.562Z"
+      },
+      "body": "Police Commission"
+    },
+    {
+      "dateISO": "2024-11-20",
+      "text": "The police department said FEMA has repaid a good portion of its fire costs, but not all of them.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TxzLnQKaEY0",
+        "ts": "1:01:26",
+        "endTs": "1:01:56",
+        "retrievedISO": "2026-10-15T06:35:19.562Z"
+      },
+      "body": "Police Commission"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Fire and Public Safety Commission",
+      "group": "board",
+      "short": []
+    },
+    {
+      "name": "Police Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

@@ -1,0 +1,124 @@
+{
+  "slug": "land-purchase-for-new-upcountry-well-at-haleakala-ranch",
+  "title": "Land purchase for new Upcountry well at Haleakalā Ranch",
+  "summary": "On June 19, a department representative asked the council to act on Resolution 26-102, a $470,000 land purchase for a new upcountry well. The chair asked him to return when the item comes up, and a council member asked that the department director or deputy attend; staff said they could arrange it. He said the well would add one million gallons a day and, with filter upgrades at a treatment plant, let the county resume processing the upcountry wait list.",
+  "topics": [
+    "water",
+    "housing"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-06-19",
+  "lastSeenISO": "2026-06-19",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-25",
+  "timeline": [
+    {
+      "dateISO": "2026-06-19",
+      "text": "A council member asked for the department director or deputy to attend when the item is taken up, and a staff member said they could get them there.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "N5Uix8ba9zI",
+        "ts": "1:59:39",
+        "endTs": "2:00:18",
+        "retrievedISO": "2026-10-16T18:06:35.375Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-06-19",
+      "text": "The chair asked the representative to come back when the item comes up.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "N5Uix8ba9zI",
+        "ts": "1:57:46",
+        "endTs": "1:58:16",
+        "retrievedISO": "2026-10-16T18:06:35.375Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-06-19",
+      "text": "The representative said the well, together with filter upgrades at a water treatment plant, would let the county resume processing the upcountry wait list.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "N5Uix8ba9zI",
+        "ts": "1:57:28",
+        "endTs": "1:57:58",
+        "retrievedISO": "2026-10-16T18:06:35.375Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-06-19",
+      "text": "He said the well would add one million gallons a day to the upcountry water system.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "N5Uix8ba9zI",
+        "ts": "1:57:01",
+        "endTs": "1:57:31",
+        "retrievedISO": "2026-10-16T18:06:35.375Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-06-19",
+      "text": "The representative said the land price is $470,000.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "N5Uix8ba9zI",
+        "ts": "1:56:49",
+        "endTs": "1:57:19",
+        "retrievedISO": "2026-10-16T18:06:35.375Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-06-19",
+      "text": "He said the purchase followed the standard process, including an independent appraisal (an outside estimate of the land's value).",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "N5Uix8ba9zI",
+        "ts": "1:56:14",
+        "endTs": "1:56:48",
+        "retrievedISO": "2026-10-16T18:06:35.375Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-06-19",
+      "text": "A department representative asked the council to act today on Resolution 26-102, a land purchase for a new upcountry well.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "N5Uix8ba9zI",
+        "ts": "1:55:50",
+        "endTs": "1:56:29",
+        "retrievedISO": "2026-10-16T18:06:35.375Z"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [
+    "Resolution 26-102"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

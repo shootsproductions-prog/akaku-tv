@@ -1,0 +1,46 @@
+{
+  "slug": "central-maui-wastewater-reclamation-facility-funding",
+  "title": "Central Maui wastewater reclamation facility funding",
+  "summary": "The director confirmed on October 19, 2026, that the proposed plant site does not need Land Use Commission review. The site covers 14.9 acres, which is under the 15-acre threshold.",
+  "topics": [
+    "land-use",
+    "housing"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-10-19",
+  "lastSeenISO": "2026-10-19",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 1,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-25",
+  "timeline": [
+    {
+      "dateISO": "2026-10-19",
+      "text": "The director confirmed the 14.9-acre plant site does not need the Land Use Commission because it is under 15 acres.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "FylynoI1kKk",
+        "ts": "0:28:00",
+        "endTs": "0:28:32",
+        "retrievedISO": "2026-10-20T04:41:37.015Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Water and Infrastructure Committee",
+      "group": "council",
+      "short": [
+        "WAI"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

@@ -1,0 +1,100 @@
+{
+  "slug": "evacuation-software-and-new-evacuation-zones",
+  "title": "Evacuation software and new evacuation zones",
+  "summary": "The agency said in May 2026 that it is working with large landowners so private roads can be used during evacuations. Back in 2024, it bought two evacuation software tools and said they should be running by January 1, 2025. In November 2024, new evacuation zones might go online January 1, though that date could move.",
+  "topics": [
+    "public-safety"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2024-10-17",
+  "lastSeenISO": "2026-05-21",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-25",
+  "timeline": [
+    {
+      "dateISO": "2026-05-21",
+      "text": "The agency said it is working with large landowners so private roads can be used during evacuations.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "R_MPvIqY5cU",
+        "ts": "0:38:27",
+        "endTs": "0:39:08",
+        "retrievedISO": "2026-10-15T06:35:03.361Z"
+      },
+      "body": "Maui Fire Commission"
+    },
+    {
+      "dateISO": "2024-11-21",
+      "text": "He said new evacuation zones may go online January 1, a date that could move.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "EzLmqE78YDk",
+        "ts": "0:22:08",
+        "endTs": "0:22:43",
+        "retrievedISO": "2026-10-12T06:30:30.475Z"
+      },
+      "body": "Fire and Public Safety Commission"
+    },
+    {
+      "dateISO": "2024-10-17",
+      "text": "The administrator said the software should be running by January 1, 2025.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Nf0iqQ4qIuA",
+        "ts": "0:13:40",
+        "endTs": "0:14:10",
+        "retrievedISO": "2026-10-15T06:35:41.629Z"
+      },
+      "body": "Fire and Public Safety Commission"
+    },
+    {
+      "dateISO": "2024-10-17",
+      "text": "The administrator said the partner list for the evacuation software will go out this week, followed by training, an implementation plan and a public education plan.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Nf0iqQ4qIuA",
+        "ts": "0:10:33",
+        "endTs": "0:11:03",
+        "retrievedISO": "2026-10-15T06:35:41.629Z"
+      },
+      "body": "Fire and Public Safety Commission"
+    },
+    {
+      "dateISO": "2024-10-17",
+      "text": "The administrator said the agency bought two evacuation software tools.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Nf0iqQ4qIuA",
+        "ts": "0:07:09",
+        "endTs": "0:07:39",
+        "retrievedISO": "2026-10-15T06:35:41.629Z"
+      },
+      "body": "Fire and Public Safety Commission"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui Fire Commission",
+      "group": "board",
+      "short": []
+    },
+    {
+      "name": "Fire and Public Safety Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
