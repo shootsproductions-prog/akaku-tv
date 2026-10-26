@@ -1,7 +1,7 @@
 {
   "slug": "south-maui-community-plan-review",
   "title": "South Maui Community Plan review",
-  "summary": "The Council is going to suspend its meetings to focus on the South Maui Community Plan, the budget director said on September 4, 2026. The Maui Planning Commission last reviewed the plan on December 10, 2024, flagged open space designations for undeveloped parcels in the sea level rise area to revisit later, and planned to resume in January. Earlier, the planning director opposed adding land outside the urban growth boundary.",
+  "summary": "On October 21 the committee took up Bill 139, which would add 85.57 acres in North Kīhei to the urban growth boundary, alongside Bill 108, the South Maui Community Plan. It passed 8 to 0 an amended action to study a new South Maui to Central Maui road that could serve as an evacuation route. Plan review continues November 18, and a draft is due December 2 for the next council.",
   "topics": [
     "land-use",
     "housing"
@@ -9,11 +9,11 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2024-10-22",
-  "lastSeenISO": "2026-09-04",
+  "lastSeenISO": "2026-10-06",
   "signals": {
-    "meetingsLast30d": 0,
-    "meetingsLast90d": 1,
-    "mentionsLast30d": 0,
+    "meetingsLast30d": 2,
+    "meetingsLast90d": 4,
+    "mentionsLast30d": 6,
     "upcomingEvent": {
       "dateISO": "2026-11-18",
       "what": "Plan discussion will continue",
@@ -26,7 +26,680 @@
     }
   },
   "asOfISO": "2026-10-25",
+  "boards": [
+    {
+      "name": "Disaster Recovery, International Affairs, and Planning Committee",
+      "group": "council",
+      "short": [
+        "DRIP"
+      ]
+    },
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    },
+    {
+      "name": "Maui Planning Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [
+    "Bill 108 (2026)",
+    "Bill 139 (2026)"
+  ],
   "timeline": [
+    {
+      "dateISO": "2026-10-06",
+      "text": "The item was deferred, and the amended main motion carries over to the next meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3wNjlBuMUXo",
+        "ts": "5:32:35",
+        "retrievedISO": "2026-10-17T00:22:52.695Z",
+        "endTs": "5:33:05"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-06",
+      "text": "Amend page 151 to replace the Kīhei Drainage Master Plan entry with two draft drainage plans: The committee approved listing two draft Kīhei drainage master plans, from 2020 and 2016, on page 151, 7–0.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3wNjlBuMUXo",
+        "ts": "4:56:16",
+        "retrievedISO": "2026-10-17T00:22:52.695Z",
+        "endTs": "4:57:28"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-06",
+      "text": "Amend page 152 to add an appendices header: The committee approved adding an \"Appendices\" heading on page 152 saying the appendices hold supplemental information, 7–0.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3wNjlBuMUXo",
+        "ts": "4:53:37",
+        "retrievedISO": "2026-10-17T00:22:52.695Z",
+        "endTs": "4:54:33"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-06",
+      "text": "The chair will work with staff on a priority ranking proposal for Appendix H using the advisory committee's poll scores.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3wNjlBuMUXo",
+        "ts": "4:39:34",
+        "retrievedISO": "2026-10-17T00:22:52.695Z",
+        "endTs": "4:40:27"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-06",
+      "text": "A county lawyer will work with Planning on how to describe the strip that would become open space.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3wNjlBuMUXo",
+        "ts": "4:38:09",
+        "retrievedISO": "2026-10-17T00:22:52.695Z",
+        "endTs": "4:39:37"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-06",
+      "text": "Planning staff said the plan's advisory committee voted unanimously on July 14, 2023, to make the farmland strip open space because of cultural sites.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3wNjlBuMUXo",
+        "ts": "4:37:08",
+        "retrievedISO": "2026-10-17T00:22:52.695Z",
+        "endTs": "4:37:43"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-06",
+      "text": "A department director said a heiau (temple site) named in public testimony should be added to the plan's list of significant sites.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3wNjlBuMUXo",
+        "ts": "3:24:09",
+        "retrievedISO": "2026-10-17T00:22:52.695Z",
+        "endTs": "3:24:43"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-06",
+      "text": "The committee voted 7–0 to replace A1 and A2 zoning with H3 and H4 in a resort hotel table row.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3wNjlBuMUXo",
+        "ts": "3:16:47",
+        "retrievedISO": "2026-10-17T00:22:52.695Z",
+        "endTs": "3:17:42"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-06",
+      "text": "Community plan designation for a hotel parking garage parcel: Members agreed to keep the resort hotel designation for a hotel parking garage parcel; no vote was taken.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3wNjlBuMUXo",
+        "ts": "1:00:08",
+        "retrievedISO": "2026-10-17T00:22:52.695Z",
+        "endTs": "1:00:38"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-06",
+      "text": "The committee will ask Public Works how a developer's drainage master plan fits the regional drainage master plan.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3wNjlBuMUXo",
+        "ts": "0:49:55",
+        "retrievedISO": "2026-10-17T00:22:52.695Z",
+        "endTs": "0:50:30"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-06",
+      "text": "The committee will send a transmittal about the fire station and affordable housing overlapping drainage basins.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3wNjlBuMUXo",
+        "ts": "0:47:28",
+        "retrievedISO": "2026-10-17T00:22:52.695Z",
+        "endTs": "0:47:59"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-06",
+      "text": "Members agreed to ask about a proposed fire station and affordable housing overlapping drainage basins in a developer's plan.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3wNjlBuMUXo",
+        "ts": "0:47:07",
+        "retrievedISO": "2026-10-17T00:22:52.695Z",
+        "endTs": "0:47:59"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-06",
+      "text": "A council member said four parcels the county hopes to buy are for sale for $6,150,000 in total.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3wNjlBuMUXo",
+        "ts": "0:21:12",
+        "retrievedISO": "2026-10-17T00:22:52.695Z",
+        "endTs": "0:21:43"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-06",
+      "text": "Members reviewed land use map changes, parcel by parcel, in Attachment 3B.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3wNjlBuMUXo",
+        "ts": "0:06:39",
+        "retrievedISO": "2026-10-17T00:22:52.695Z",
+        "endTs": "0:07:14"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-06",
+      "text": "The only agenda item was Bill 108, the 2026 South Maui Community Plan.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3wNjlBuMUXo",
+        "ts": "0:05:36",
+        "retrievedISO": "2026-10-17T00:22:52.695Z",
+        "endTs": "0:06:06"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-05",
+      "text": "The chair said no vote on Section 3 is planned this week.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ddTYKdPxK9g",
+        "ts": "3:53:35",
+        "retrievedISO": "2026-10-16T23:15:18.634Z",
+        "endTs": "3:54:07"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-05",
+      "text": "The chair said she hopes to go through the whole plan later this week.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ddTYKdPxK9g",
+        "ts": "3:52:33",
+        "retrievedISO": "2026-10-16T23:15:18.634Z",
+        "endTs": "3:53:08"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-05",
+      "text": "The golf representative and the community association president agreed to work together on traffic.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ddTYKdPxK9g",
+        "ts": "3:49:46",
+        "retrievedISO": "2026-10-16T23:15:18.634Z",
+        "endTs": "3:50:42"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-05",
+      "text": "The representative said 225 acres could hold 600 to 1,000 homes, but no number is set.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ddTYKdPxK9g",
+        "ts": "3:14:02",
+        "retrievedISO": "2026-10-16T23:15:18.634Z",
+        "endTs": "3:14:32"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-05",
+      "text": "A draft policy says North Kīhei Mauka homes may be built for Maui residents with a range of types and prices.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ddTYKdPxK9g",
+        "ts": "0:50:54",
+        "retrievedISO": "2026-10-16T23:15:18.634Z",
+        "endTs": "0:51:26"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-05",
+      "text": "Continue a consultant as a resource person for North Kīhei Mauka: A consultant was kept on as a resource person for the North Kīhei Mauka section without objection.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ddTYKdPxK9g",
+        "ts": "0:35:56",
+        "retrievedISO": "2026-10-16T23:15:18.634Z",
+        "endTs": "0:36:28"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-05",
+      "text": "Another testifier backed a Wailea Community Association compromise that keeps the Blue Course.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ddTYKdPxK9g",
+        "ts": "0:20:01",
+        "retrievedISO": "2026-10-16T23:15:18.634Z",
+        "endTs": "0:21:15"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-21",
+      "text": "Fold action 2.12 on a county parks improvement plan into action 2.04A: No vote count or result was stated in the captions.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0ap8NfBoMG8",
+        "ts": "5:15:29",
+        "retrievedISO": "2026-10-17T00:08:57.326Z",
+        "endTs": "5:17:06"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-21",
+      "text": "Reword action 2.10 to say \"mandated by state law\": The motion passed 7-0 with two members excused.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0ap8NfBoMG8",
+        "ts": "5:03:58",
+        "retrievedISO": "2026-10-17T00:08:57.326Z",
+        "endTs": "5:04:38"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-21",
+      "text": "Members moved to split a parks action into updating the South Maui parks master plan and funding land purchases.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0ap8NfBoMG8",
+        "ts": "4:47:13",
+        "retrievedISO": "2026-10-17T00:08:57.326Z",
+        "endTs": "4:48:20"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-21",
+      "text": "Add the Department of Management as a lead agency for action 2.02 on a streetscape adoption program: The motion passed 8-0 with one member excused.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0ap8NfBoMG8",
+        "ts": "4:34:36",
+        "retrievedISO": "2026-10-17T00:08:57.326Z",
+        "endTs": "4:35:35"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-21",
+      "text": "Amend action 1.24 to identify public or private roads for emergency evacuation, raise it to high priority, and add lead agencies: The motion passed 9-0.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0ap8NfBoMG8",
+        "ts": "4:24:06",
+        "retrievedISO": "2026-10-17T00:08:57.326Z",
+        "endTs": "4:25:39"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-21",
+      "text": "Add private funding as a source for action 1.09 on transportation demand strategies: The motion passed 8-0 with one member excused.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0ap8NfBoMG8",
+        "ts": "3:21:19",
+        "retrievedISO": "2026-10-17T00:08:57.326Z",
+        "endTs": "3:22:31"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-21",
+      "text": "Road questions will be sent to Public Works ahead of time so it is ready when the committee revisits them.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0ap8NfBoMG8",
+        "ts": "2:37:48",
+        "retrievedISO": "2026-10-17T00:08:57.326Z",
+        "endTs": "2:38:18"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-21",
+      "text": "He said residents across the county could face higher water and wastewater rates.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0ap8NfBoMG8",
+        "ts": "1:41:31",
+        "retrievedISO": "2026-10-17T00:08:57.326Z",
+        "endTs": "1:42:01"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-21",
+      "text": "The resource person said the plan lists no water department costs.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0ap8NfBoMG8",
+        "ts": "1:41:06",
+        "retrievedISO": "2026-10-17T00:08:57.326Z",
+        "endTs": "1:41:36"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-21",
+      "text": "The housing director said a developer could end up in conflict between a recorded housing agreement and the plan's policy.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0ap8NfBoMG8",
+        "ts": "1:15:00",
+        "retrievedISO": "2026-10-17T00:08:57.326Z",
+        "endTs": "1:15:30"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-21",
+      "text": "The housing director said the testifier had found \"a real potential challenge.\"",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0ap8NfBoMG8",
+        "ts": "1:14:10",
+        "retrievedISO": "2026-10-17T00:08:57.326Z",
+        "endTs": "1:14:55"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-21",
+      "text": "A testifier asked that \"required\" be changed to \"encourage\" in some workforce housing policies.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0ap8NfBoMG8",
+        "ts": "0:56:03",
+        "retrievedISO": "2026-10-17T00:08:57.326Z",
+        "endTs": "0:56:33"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-21",
+      "text": "A testifier said using recycled water for irrigation could free up water for housing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0ap8NfBoMG8",
+        "ts": "0:38:02",
+        "retrievedISO": "2026-10-17T00:08:57.326Z",
+        "endTs": "0:38:32"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-21",
+      "text": "A resource person said the plan does not compare expected water use with the aquifer's sustainable yield.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0ap8NfBoMG8",
+        "ts": "0:23:56",
+        "retrievedISO": "2026-10-17T00:08:57.326Z",
+        "endTs": "0:24:26"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-21",
+      "text": "He said the number of housing units greatly affects infrastructure needs.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0ap8NfBoMG8",
+        "ts": "0:09:43",
+        "retrievedISO": "2026-10-17T00:08:57.326Z",
+        "endTs": "0:10:13"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-21",
+      "text": "A retired economics professor serving as a resource person said the plan gives no housing unit counts.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0ap8NfBoMG8",
+        "ts": "0:09:37",
+        "retrievedISO": "2026-10-17T00:08:57.326Z",
+        "endTs": "0:10:07"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-21",
+      "text": "The committee's only agenda item was Bill 108, the 2026 South Maui Community Plan update.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0ap8NfBoMG8",
+        "ts": "0:07:23",
+        "retrievedISO": "2026-10-17T00:08:57.326Z",
+        "endTs": "0:07:53"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-18",
+      "text": "On Monday, the committee plans to hear public testimony and a short presentation on expected growth.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PPhr7CjkbZs",
+        "ts": "5:15:26",
+        "retrievedISO": "2026-10-16T23:25:43.644Z",
+        "endTs": "5:16:08"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-18",
+      "text": "The chair will work on Policy 2.3.6 about moving water rights for coastal retreat.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PPhr7CjkbZs",
+        "ts": "5:15:06",
+        "retrievedISO": "2026-10-16T23:25:43.644Z",
+        "endTs": "5:15:37"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-18",
+      "text": "The chair supported a policy for a cultural center and museum in South Maui.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PPhr7CjkbZs",
+        "ts": "4:23:30",
+        "retrievedISO": "2026-10-16T23:25:43.644Z",
+        "endTs": "4:24:34"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-18",
+      "text": "Members voted eight to zero to encourage restoring existing government trails and historical roads where practicable.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PPhr7CjkbZs",
+        "ts": "3:16:47",
+        "retrievedISO": "2026-10-16T23:25:43.644Z",
+        "endTs": "3:18:32"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-18",
+      "text": "A motion would require low-impact development, green infrastructure or permaculture design in South Maui developments to reduce stormwater runoff.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PPhr7CjkbZs",
+        "ts": "2:08:52",
+        "retrievedISO": "2026-10-16T23:25:43.644Z",
+        "endTs": "2:09:36"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-18",
+      "text": "Members voted six to zero to require affordable and workforce housing to be outside special flood hazard areas.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PPhr7CjkbZs",
+        "ts": "2:05:33",
+        "retrievedISO": "2026-10-16T23:25:43.644Z",
+        "endTs": "2:06:39"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-18",
+      "text": "The amended flood policy passed with six ayes, one no and two members excused.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PPhr7CjkbZs",
+        "ts": "1:40:31",
+        "retrievedISO": "2026-10-16T23:25:43.644Z",
+        "endTs": "1:41:30"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-18",
+      "text": "A motion asked that Policy 2.4.2 put traditional Hawaiian practices and nature-based solutions first to manage flooding.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PPhr7CjkbZs",
+        "ts": "1:37:54",
+        "retrievedISO": "2026-10-16T23:25:43.644Z",
+        "endTs": "1:38:51"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-18",
+      "text": "A community advisory member said South Maui residents opposed an earlier concrete drainage plan that sent runoff into the ocean, out of concern for coral reefs.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PPhr7CjkbZs",
+        "ts": "1:24:47",
+        "retrievedISO": "2026-10-16T23:25:43.644Z",
+        "endTs": "1:25:35"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-18",
+      "text": "A Water Department official said the department supports protecting water rights for owners who move back from the shoreline.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PPhr7CjkbZs",
+        "ts": "0:21:41",
+        "retrievedISO": "2026-10-16T23:25:43.644Z",
+        "endTs": "0:22:16"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-18",
+      "text": "The draft South Maui vision statement calls for affordable housing close to good jobs.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PPhr7CjkbZs",
+        "ts": "0:09:29",
+        "retrievedISO": "2026-10-16T23:25:43.644Z",
+        "endTs": "0:09:59"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
     {
       "dateISO": "2026-09-04",
       "text": "The budget director said the Council is going to suspend meetings to focus on the South Maui Community Plan.",
@@ -35,7 +708,8 @@
         "type": "meeting",
         "videoId": "UsJUbzdqBgw",
         "ts": "0:47:15",
-        "retrievedISO": "2026-10-16T16:08:54.867Z"
+        "retrievedISO": "2026-10-16T16:08:54.867Z",
+        "endTs": "0:47:45"
       },
       "body": "County Council Meeting"
     },
@@ -47,7 +721,8 @@
         "type": "meeting",
         "videoId": "nBW_aexDotM",
         "ts": "2:10:36",
-        "retrievedISO": "2026-10-12T06:30:18.226Z"
+        "retrievedISO": "2026-10-12T06:30:18.226Z",
+        "endTs": "2:11:06"
       },
       "body": "Maui Planning Commission"
     },
@@ -59,7 +734,8 @@
         "type": "meeting",
         "videoId": "nBW_aexDotM",
         "ts": "2:08:01",
-        "retrievedISO": "2026-10-12T06:30:18.226Z"
+        "retrievedISO": "2026-10-12T06:30:18.226Z",
+        "endTs": "2:09:09"
       },
       "body": "Maui Planning Commission"
     },
@@ -71,7 +747,8 @@
         "type": "meeting",
         "videoId": "nBW_aexDotM",
         "ts": "2:05:44",
-        "retrievedISO": "2026-10-12T06:30:18.226Z"
+        "retrievedISO": "2026-10-12T06:30:18.226Z",
+        "endTs": "2:06:14"
       },
       "body": "Maui Planning Commission"
     },
@@ -83,7 +760,8 @@
         "type": "meeting",
         "videoId": "nBW_aexDotM",
         "ts": "1:54:33",
-        "retrievedISO": "2026-10-12T06:30:18.226Z"
+        "retrievedISO": "2026-10-12T06:30:18.226Z",
+        "endTs": "1:55:19"
       },
       "body": "Maui Planning Commission"
     },
@@ -95,7 +773,8 @@
         "type": "meeting",
         "videoId": "nBW_aexDotM",
         "ts": "1:49:03",
-        "retrievedISO": "2026-10-12T06:30:18.226Z"
+        "retrievedISO": "2026-10-12T06:30:18.226Z",
+        "endTs": "1:49:41"
       },
       "body": "Maui Planning Commission"
     },
@@ -107,7 +786,8 @@
         "type": "meeting",
         "videoId": "nBW_aexDotM",
         "ts": "1:48:43",
-        "retrievedISO": "2026-10-12T06:30:18.226Z"
+        "retrievedISO": "2026-10-12T06:30:18.226Z",
+        "endTs": "1:49:41"
       },
       "body": "Maui Planning Commission"
     },
@@ -119,7 +799,8 @@
         "type": "meeting",
         "videoId": "nBW_aexDotM",
         "ts": "1:45:19",
-        "retrievedISO": "2026-10-12T06:30:18.226Z"
+        "retrievedISO": "2026-10-12T06:30:18.226Z",
+        "endTs": "1:45:49"
       },
       "body": "Maui Planning Commission"
     },
@@ -131,7 +812,8 @@
         "type": "meeting",
         "videoId": "nBW_aexDotM",
         "ts": "1:42:22",
-        "retrievedISO": "2026-10-12T06:30:18.226Z"
+        "retrievedISO": "2026-10-12T06:30:18.226Z",
+        "endTs": "1:42:52"
       },
       "body": "Maui Planning Commission"
     },
@@ -143,7 +825,8 @@
         "type": "meeting",
         "videoId": "nBW_aexDotM",
         "ts": "1:40:39",
-        "retrievedISO": "2026-10-12T06:30:18.226Z"
+        "retrievedISO": "2026-10-12T06:30:18.226Z",
+        "endTs": "1:41:09"
       },
       "body": "Maui Planning Commission"
     },
@@ -155,7 +838,8 @@
         "type": "meeting",
         "videoId": "nBW_aexDotM",
         "ts": "1:37:11",
-        "retrievedISO": "2026-10-12T06:30:18.226Z"
+        "retrievedISO": "2026-10-12T06:30:18.226Z",
+        "endTs": "1:37:42"
       },
       "body": "Maui Planning Commission"
     },
@@ -167,7 +851,8 @@
         "type": "meeting",
         "videoId": "nBW_aexDotM",
         "ts": "1:36:32",
-        "retrievedISO": "2026-10-12T06:30:18.226Z"
+        "retrievedISO": "2026-10-12T06:30:18.226Z",
+        "endTs": "1:37:02"
       },
       "body": "Maui Planning Commission"
     },
@@ -179,7 +864,8 @@
         "type": "meeting",
         "videoId": "nBW_aexDotM",
         "ts": "0:00:40",
-        "retrievedISO": "2026-10-12T06:30:18.226Z"
+        "retrievedISO": "2026-10-12T06:30:18.226Z",
+        "endTs": "0:01:10"
       },
       "body": "Maui Planning Commission"
     },
@@ -191,7 +877,8 @@
         "type": "meeting",
         "videoId": "lZr-bds8cyM",
         "ts": "3:31:11",
-        "retrievedISO": "2026-10-12T06:30:25.220Z"
+        "retrievedISO": "2026-10-12T06:30:25.220Z",
+        "endTs": "3:31:41"
       },
       "body": "Maui Planning Commission"
     },
@@ -203,7 +890,8 @@
         "type": "meeting",
         "videoId": "lZr-bds8cyM",
         "ts": "3:30:02",
-        "retrievedISO": "2026-10-12T06:30:25.220Z"
+        "retrievedISO": "2026-10-12T06:30:25.220Z",
+        "endTs": "3:30:36"
       },
       "body": "Maui Planning Commission"
     },
@@ -215,7 +903,8 @@
         "type": "meeting",
         "videoId": "lZr-bds8cyM",
         "ts": "3:29:17",
-        "retrievedISO": "2026-10-12T06:30:25.220Z"
+        "retrievedISO": "2026-10-12T06:30:25.220Z",
+        "endTs": "3:30:01"
       },
       "body": "Maui Planning Commission"
     },
@@ -227,7 +916,8 @@
         "type": "meeting",
         "videoId": "lZr-bds8cyM",
         "ts": "3:27:59",
-        "retrievedISO": "2026-10-12T06:30:25.220Z"
+        "retrievedISO": "2026-10-12T06:30:25.220Z",
+        "endTs": "3:28:33"
       },
       "body": "Maui Planning Commission"
     },
@@ -239,7 +929,8 @@
         "type": "meeting",
         "videoId": "lZr-bds8cyM",
         "ts": "3:04:19",
-        "retrievedISO": "2026-10-12T06:30:25.220Z"
+        "retrievedISO": "2026-10-12T06:30:25.220Z",
+        "endTs": "3:05:14"
       },
       "body": "Maui Planning Commission"
     },
@@ -251,7 +942,8 @@
         "type": "meeting",
         "videoId": "lZr-bds8cyM",
         "ts": "2:42:44",
-        "retrievedISO": "2026-10-12T06:30:25.220Z"
+        "retrievedISO": "2026-10-12T06:30:25.220Z",
+        "endTs": "2:44:21"
       },
       "body": "Maui Planning Commission"
     },
@@ -263,7 +955,8 @@
         "type": "meeting",
         "videoId": "lZr-bds8cyM",
         "ts": "2:24:42",
-        "retrievedISO": "2026-10-12T06:30:25.220Z"
+        "retrievedISO": "2026-10-12T06:30:25.220Z",
+        "endTs": "2:25:12"
       },
       "body": "Maui Planning Commission"
     },
@@ -275,7 +968,8 @@
         "type": "meeting",
         "videoId": "lZr-bds8cyM",
         "ts": "2:10:04",
-        "retrievedISO": "2026-10-12T06:30:25.220Z"
+        "retrievedISO": "2026-10-12T06:30:25.220Z",
+        "endTs": "2:10:34"
       },
       "body": "Maui Planning Commission"
     },
@@ -287,7 +981,8 @@
         "type": "meeting",
         "videoId": "lZr-bds8cyM",
         "ts": "0:49:09",
-        "retrievedISO": "2026-10-12T06:30:25.220Z"
+        "retrievedISO": "2026-10-12T06:30:25.220Z",
+        "endTs": "0:49:50"
       },
       "body": "Maui Planning Commission"
     },
@@ -299,7 +994,8 @@
         "type": "meeting",
         "videoId": "lZr-bds8cyM",
         "ts": "0:43:57",
-        "retrievedISO": "2026-10-12T06:30:25.220Z"
+        "retrievedISO": "2026-10-12T06:30:25.220Z",
+        "endTs": "0:44:27"
       },
       "body": "Maui Planning Commission"
     },
@@ -311,7 +1007,8 @@
         "type": "meeting",
         "videoId": "lZr-bds8cyM",
         "ts": "0:22:43",
-        "retrievedISO": "2026-10-12T06:30:25.220Z"
+        "retrievedISO": "2026-10-12T06:30:25.220Z",
+        "endTs": "0:23:13"
       },
       "body": "Maui Planning Commission"
     },
@@ -323,7 +1020,8 @@
         "type": "meeting",
         "videoId": "lZr-bds8cyM",
         "ts": "0:19:20",
-        "retrievedISO": "2026-10-12T06:30:25.220Z"
+        "retrievedISO": "2026-10-12T06:30:25.220Z",
+        "endTs": "0:19:50"
       },
       "body": "Maui Planning Commission"
     },
@@ -335,7 +1033,8 @@
         "type": "meeting",
         "videoId": "lZr-bds8cyM",
         "ts": "0:11:37",
-        "retrievedISO": "2026-10-12T06:30:25.220Z"
+        "retrievedISO": "2026-10-12T06:30:25.220Z",
+        "endTs": "0:12:07"
       },
       "body": "Maui Planning Commission"
     },
@@ -347,7 +1046,8 @@
         "type": "meeting",
         "videoId": "lZr-bds8cyM",
         "ts": "0:10:14",
-        "retrievedISO": "2026-10-12T06:30:25.220Z"
+        "retrievedISO": "2026-10-12T06:30:25.220Z",
+        "endTs": "0:10:50"
       },
       "body": "Maui Planning Commission"
     },
@@ -359,7 +1059,8 @@
         "type": "meeting",
         "videoId": "lZr-bds8cyM",
         "ts": "0:04:00",
-        "retrievedISO": "2026-10-12T06:30:25.220Z"
+        "retrievedISO": "2026-10-12T06:30:25.220Z",
+        "endTs": "0:04:30"
       },
       "body": "Maui Planning Commission"
     },
@@ -371,7 +1072,8 @@
         "type": "meeting",
         "videoId": "lZr-bds8cyM",
         "ts": "0:03:43",
-        "retrievedISO": "2026-10-12T06:30:25.220Z"
+        "retrievedISO": "2026-10-12T06:30:25.220Z",
+        "endTs": "0:04:13"
       },
       "body": "Maui Planning Commission"
     },
@@ -383,7 +1085,8 @@
         "type": "meeting",
         "videoId": "lZr-bds8cyM",
         "ts": "0:00:42",
-        "retrievedISO": "2026-10-12T06:30:25.220Z"
+        "retrievedISO": "2026-10-12T06:30:25.220Z",
+        "endTs": "0:01:12"
       },
       "body": "Maui Planning Commission"
     },
@@ -395,7 +1098,8 @@
         "type": "meeting",
         "videoId": "xd6QmAS0NbE",
         "ts": "3:45:24",
-        "retrievedISO": "2026-10-15T06:35:22.762Z"
+        "retrievedISO": "2026-10-15T06:35:22.762Z",
+        "endTs": "3:46:02"
       },
       "body": "Maui Planning Commission"
     },
@@ -407,7 +1111,8 @@
         "type": "meeting",
         "videoId": "xd6QmAS0NbE",
         "ts": "3:45:03",
-        "retrievedISO": "2026-10-15T06:35:22.762Z"
+        "retrievedISO": "2026-10-15T06:35:22.762Z",
+        "endTs": "3:46:09"
       },
       "body": "Maui Planning Commission"
     },
@@ -419,7 +1124,8 @@
         "type": "meeting",
         "videoId": "xd6QmAS0NbE",
         "ts": "3:44:01",
-        "retrievedISO": "2026-10-15T06:35:22.762Z"
+        "retrievedISO": "2026-10-15T06:35:22.762Z",
+        "endTs": "3:44:34"
       },
       "body": "Maui Planning Commission"
     },
@@ -431,7 +1137,8 @@
         "type": "meeting",
         "videoId": "xd6QmAS0NbE",
         "ts": "2:46:03",
-        "retrievedISO": "2026-10-15T06:35:22.762Z"
+        "retrievedISO": "2026-10-15T06:35:22.762Z",
+        "endTs": "2:46:42"
       },
       "body": "Maui Planning Commission"
     },
@@ -443,7 +1150,8 @@
         "type": "meeting",
         "videoId": "xd6QmAS0NbE",
         "ts": "2:34:39",
-        "retrievedISO": "2026-10-15T06:35:22.762Z"
+        "retrievedISO": "2026-10-15T06:35:22.762Z",
+        "endTs": "2:35:12"
       },
       "body": "Maui Planning Commission"
     },
@@ -455,7 +1163,8 @@
         "type": "meeting",
         "videoId": "xd6QmAS0NbE",
         "ts": "2:31:38",
-        "retrievedISO": "2026-10-15T06:35:22.762Z"
+        "retrievedISO": "2026-10-15T06:35:22.762Z",
+        "endTs": "2:32:23"
       },
       "body": "Maui Planning Commission"
     },
@@ -467,7 +1176,8 @@
         "type": "meeting",
         "videoId": "xd6QmAS0NbE",
         "ts": "1:20:16",
-        "retrievedISO": "2026-10-15T06:35:22.762Z"
+        "retrievedISO": "2026-10-15T06:35:22.762Z",
+        "endTs": "1:20:46"
       },
       "body": "Maui Planning Commission"
     },
@@ -479,7 +1189,8 @@
         "type": "meeting",
         "videoId": "xd6QmAS0NbE",
         "ts": "1:12:49",
-        "retrievedISO": "2026-10-15T06:35:22.762Z"
+        "retrievedISO": "2026-10-15T06:35:22.762Z",
+        "endTs": "1:13:19"
       },
       "body": "Maui Planning Commission"
     },
@@ -491,7 +1202,8 @@
         "type": "meeting",
         "videoId": "xd6QmAS0NbE",
         "ts": "1:05:14",
-        "retrievedISO": "2026-10-15T06:35:22.762Z"
+        "retrievedISO": "2026-10-15T06:35:22.762Z",
+        "endTs": "1:05:44"
       },
       "body": "Maui Planning Commission"
     },
@@ -503,7 +1215,8 @@
         "type": "meeting",
         "videoId": "xd6QmAS0NbE",
         "ts": "0:14:27",
-        "retrievedISO": "2026-10-15T06:35:22.762Z"
+        "retrievedISO": "2026-10-15T06:35:22.762Z",
+        "endTs": "0:14:57"
       },
       "body": "Maui Planning Commission"
     },
@@ -515,7 +1228,8 @@
         "type": "meeting",
         "videoId": "xd6QmAS0NbE",
         "ts": "0:02:25",
-        "retrievedISO": "2026-10-15T06:35:22.762Z"
+        "retrievedISO": "2026-10-15T06:35:22.762Z",
+        "endTs": "0:03:35"
       },
       "body": "Maui Planning Commission"
     },
@@ -527,7 +1241,8 @@
         "type": "meeting",
         "videoId": "xd6QmAS0NbE",
         "ts": "0:00:34",
-        "retrievedISO": "2026-10-15T06:35:22.762Z"
+        "retrievedISO": "2026-10-15T06:35:22.762Z",
+        "endTs": "0:01:04"
       },
       "body": "Maui Planning Commission"
     },
@@ -539,7 +1254,8 @@
         "type": "meeting",
         "videoId": "1Vfea2KJerM",
         "ts": "1:47:18",
-        "retrievedISO": "2026-10-15T06:35:37.723Z"
+        "retrievedISO": "2026-10-15T06:35:37.723Z",
+        "endTs": "1:47:48"
       },
       "body": "Maui Planning Commission"
     },
@@ -551,7 +1267,8 @@
         "type": "meeting",
         "videoId": "1Vfea2KJerM",
         "ts": "1:40:58",
-        "retrievedISO": "2026-10-15T06:35:37.723Z"
+        "retrievedISO": "2026-10-15T06:35:37.723Z",
+        "endTs": "1:41:28"
       },
       "body": "Maui Planning Commission"
     },
@@ -563,7 +1280,8 @@
         "type": "meeting",
         "videoId": "1Vfea2KJerM",
         "ts": "1:30:54",
-        "retrievedISO": "2026-10-15T06:35:37.723Z"
+        "retrievedISO": "2026-10-15T06:35:37.723Z",
+        "endTs": "1:31:26"
       },
       "body": "Maui Planning Commission"
     },
@@ -575,7 +1293,8 @@
         "type": "meeting",
         "videoId": "1Vfea2KJerM",
         "ts": "1:17:54",
-        "retrievedISO": "2026-10-15T06:35:37.723Z"
+        "retrievedISO": "2026-10-15T06:35:37.723Z",
+        "endTs": "1:18:25"
       },
       "body": "Maui Planning Commission"
     },
@@ -587,7 +1306,8 @@
         "type": "meeting",
         "videoId": "1Vfea2KJerM",
         "ts": "0:59:02",
-        "retrievedISO": "2026-10-15T06:35:37.723Z"
+        "retrievedISO": "2026-10-15T06:35:37.723Z",
+        "endTs": "0:59:32"
       },
       "body": "Maui Planning Commission"
     },
@@ -599,7 +1319,8 @@
         "type": "meeting",
         "videoId": "1Vfea2KJerM",
         "ts": "0:57:39",
-        "retrievedISO": "2026-10-15T06:35:37.723Z"
+        "retrievedISO": "2026-10-15T06:35:37.723Z",
+        "endTs": "0:58:40"
       },
       "body": "Maui Planning Commission"
     },
@@ -611,7 +1332,8 @@
         "type": "meeting",
         "videoId": "1Vfea2KJerM",
         "ts": "0:39:23",
-        "retrievedISO": "2026-10-15T06:35:37.723Z"
+        "retrievedISO": "2026-10-15T06:35:37.723Z",
+        "endTs": "0:40:01"
       },
       "body": "Maui Planning Commission"
     },
@@ -623,7 +1345,8 @@
         "type": "meeting",
         "videoId": "1Vfea2KJerM",
         "ts": "0:24:30",
-        "retrievedISO": "2026-10-15T06:35:37.723Z"
+        "retrievedISO": "2026-10-15T06:35:37.723Z",
+        "endTs": "0:25:00"
       },
       "body": "Maui Planning Commission"
     },
@@ -635,7 +1358,8 @@
         "type": "meeting",
         "videoId": "1Vfea2KJerM",
         "ts": "0:16:15",
-        "retrievedISO": "2026-10-15T06:35:37.723Z"
+        "retrievedISO": "2026-10-15T06:35:37.723Z",
+        "endTs": "0:17:48"
       },
       "body": "Maui Planning Commission"
     },
@@ -647,7 +1371,8 @@
         "type": "meeting",
         "videoId": "1Vfea2KJerM",
         "ts": "0:05:36",
-        "retrievedISO": "2026-10-15T06:35:37.723Z"
+        "retrievedISO": "2026-10-15T06:35:37.723Z",
+        "endTs": "0:06:13"
       },
       "body": "Maui Planning Commission"
     },
@@ -659,7 +1384,8 @@
         "type": "meeting",
         "videoId": "1Vfea2KJerM",
         "ts": "0:00:35",
-        "retrievedISO": "2026-10-15T06:35:37.723Z"
+        "retrievedISO": "2026-10-15T06:35:37.723Z",
+        "endTs": "0:01:05"
       },
       "body": "Maui Planning Commission"
     }
