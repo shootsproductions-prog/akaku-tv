@@ -53,6 +53,30 @@
       }
     },
     {
+      "dateISO": "2026-10-15",
+      "text": "CWRM published notice of groundwater and remaining surface water applications in the Lahaina Aquifer Sector Area, with a public objections deadline of Nov. 6, 2026.",
+      "basis": "reported",
+      "source": {
+        "type": "county-page",
+        "url": "https://dlnr.hawaii.gov/cwrm/groundwater/gwma/lahaina/",
+        "publisher": "State of Hawaiʻi, Department of Land and Natural Resources, Commission on Water ",
+        "quote": "Deadline to file objections: November 6, 2026.",
+        "retrievedISO": "2026-10-26T07:59:09.423Z"
+      }
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "CWRM's deadline for the Board of Water Supply to submit comments on the Lahaina water use permit applications.",
+      "basis": "reported",
+      "source": {
+        "type": "county-page",
+        "url": "https://www.mauicounty.gov/DocumentCenter/View/163787/Notice-of-Water-Use-Permit-Applications",
+        "publisher": "State of Hawaiʻi Commission on Water Resource Management",
+        "quote": "Please provide any comments by Monday, August 31, 2026.",
+        "retrievedISO": "2026-10-26T07:59:15.243Z"
+      }
+    },
+    {
       "dateISO": "2026-08-20",
       "text": "Members voted by raising hands, and the chair said the vote was unanimous and the motion passed.",
       "basis": "said-at-meeting",

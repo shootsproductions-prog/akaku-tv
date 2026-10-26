@@ -16,6 +16,16 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-25",
+  "boards": [
+    {
+      "name": "Board of Water Supply",
+      "group": "board",
+      "short": [
+        "BWS"
+      ]
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-09-17",
@@ -25,9 +35,22 @@
         "type": "meeting",
         "videoId": "mJyIAre9As4",
         "ts": "1:05:54",
-        "retrievedISO": "2026-10-07T23:03:55.224Z"
+        "retrievedISO": "2026-10-07T23:03:55.224Z",
+        "endTs": "1:06:24"
       },
       "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-08-22",
+      "text": "Maui Now reported on the study's costs and growing water demand, quoting DWS Chief Engineer James Jensen on timelines, energy demands and capital needs.",
+      "basis": "reported",
+      "source": {
+        "type": "other",
+        "url": "https://mauinow.com/tag/tom-cook/",
+        "publisher": "Maui Now",
+        "quote": "Desalination plants, which the county hopes could create more potable water for Central, South and West Maui, could cost anywhere from $119 million to $328 million.",
+        "retrievedISO": "2026-10-26T07:59:43.957Z"
+      }
     },
     {
       "dateISO": "2026-08-06",
@@ -37,7 +60,8 @@
         "type": "meeting",
         "videoId": "0XMHdbglvJw",
         "ts": "1:02:46",
-        "retrievedISO": "2026-10-09T06:35:01.986Z"
+        "retrievedISO": "2026-10-09T06:35:01.986Z",
+        "endTs": "1:03:16"
       }
     },
     {
@@ -48,7 +72,8 @@
         "type": "meeting",
         "videoId": "0XMHdbglvJw",
         "ts": "0:54:13",
-        "retrievedISO": "2026-10-09T06:35:01.986Z"
+        "retrievedISO": "2026-10-09T06:35:01.986Z",
+        "endTs": "0:54:43"
       }
     },
     {
@@ -59,7 +84,8 @@
         "type": "meeting",
         "videoId": "0XMHdbglvJw",
         "ts": "0:44:32",
-        "retrievedISO": "2026-10-09T06:35:01.986Z"
+        "retrievedISO": "2026-10-09T06:35:01.986Z",
+        "endTs": "0:45:02"
       }
     },
     {
@@ -70,7 +96,8 @@
         "type": "meeting",
         "videoId": "0XMHdbglvJw",
         "ts": "0:29:29",
-        "retrievedISO": "2026-10-09T06:35:01.986Z"
+        "retrievedISO": "2026-10-09T06:35:01.986Z",
+        "endTs": "0:29:59"
       }
     },
     {
@@ -81,7 +108,8 @@
         "type": "meeting",
         "videoId": "0XMHdbglvJw",
         "ts": "0:29:14",
-        "retrievedISO": "2026-10-09T06:35:01.986Z"
+        "retrievedISO": "2026-10-09T06:35:01.986Z",
+        "endTs": "0:29:44"
       }
     },
     {
@@ -92,7 +120,8 @@
         "type": "meeting",
         "videoId": "0XMHdbglvJw",
         "ts": "0:28:31",
-        "retrievedISO": "2026-10-09T06:35:01.986Z"
+        "retrievedISO": "2026-10-09T06:35:01.986Z",
+        "endTs": "0:29:01"
       }
     },
     {
@@ -103,7 +132,8 @@
         "type": "meeting",
         "videoId": "0XMHdbglvJw",
         "ts": "0:28:13",
-        "retrievedISO": "2026-10-09T06:35:01.986Z"
+        "retrievedISO": "2026-10-09T06:35:01.986Z",
+        "endTs": "0:28:43"
       }
     },
     {
@@ -114,7 +144,8 @@
         "type": "meeting",
         "videoId": "0XMHdbglvJw",
         "ts": "0:26:17",
-        "retrievedISO": "2026-10-09T06:35:01.986Z"
+        "retrievedISO": "2026-10-09T06:35:01.986Z",
+        "endTs": "0:26:47"
       }
     },
     {
@@ -125,7 +156,8 @@
         "type": "meeting",
         "videoId": "0XMHdbglvJw",
         "ts": "0:25:44",
-        "retrievedISO": "2026-10-09T06:35:01.986Z"
+        "retrievedISO": "2026-10-09T06:35:01.986Z",
+        "endTs": "0:26:14"
       }
     },
     {
@@ -136,7 +168,8 @@
         "type": "meeting",
         "videoId": "0XMHdbglvJw",
         "ts": "0:24:53",
-        "retrievedISO": "2026-10-09T06:35:01.986Z"
+        "retrievedISO": "2026-10-09T06:35:01.986Z",
+        "endTs": "0:25:23"
       }
     },
     {
@@ -147,7 +180,8 @@
         "type": "meeting",
         "videoId": "0XMHdbglvJw",
         "ts": "0:23:33",
-        "retrievedISO": "2026-10-09T06:35:01.986Z"
+        "retrievedISO": "2026-10-09T06:35:01.986Z",
+        "endTs": "0:24:03"
       }
     },
     {
@@ -158,7 +192,8 @@
         "type": "meeting",
         "videoId": "0XMHdbglvJw",
         "ts": "0:21:42",
-        "retrievedISO": "2026-10-09T06:35:01.986Z"
+        "retrievedISO": "2026-10-09T06:35:01.986Z",
+        "endTs": "0:22:12"
       }
     },
     {
@@ -169,7 +204,8 @@
         "type": "meeting",
         "videoId": "0XMHdbglvJw",
         "ts": "0:06:30",
-        "retrievedISO": "2026-10-09T06:35:01.986Z"
+        "retrievedISO": "2026-10-09T06:35:01.986Z",
+        "endTs": "0:07:00"
       }
     },
     {
@@ -180,7 +216,8 @@
         "type": "meeting",
         "videoId": "0XMHdbglvJw",
         "ts": "0:04:49",
-        "retrievedISO": "2026-10-09T06:35:01.986Z"
+        "retrievedISO": "2026-10-09T06:35:01.986Z",
+        "endTs": "0:05:25"
       }
     },
     {
@@ -191,7 +228,20 @@
         "type": "meeting",
         "videoId": "0XMHdbglvJw",
         "ts": "0:00:05",
-        "retrievedISO": "2026-10-09T06:35:01.986Z"
+        "retrievedISO": "2026-10-09T06:35:01.986Z",
+        "endTs": "0:00:35"
+      }
+    },
+    {
+      "dateISO": "2026-07-22",
+      "text": "The County issued a news release announcing the August community meetings on desalination for South Maui (Aug. 5) and West Maui (Aug. 13).",
+      "basis": "reported",
+      "source": {
+        "type": "county-release",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6TYV8-FLti3OVEcyHFxeA8ZV7XhCovvyO6YrM6PUxd4oTDR1opJF0TtMERR2gVp3y6aHQussQWvVwwnnkfqhiEZsHir6tWWFOfAP2AReyRJUD0gt3OtO4uLA-7yUYXWXeM84VzcO4HxWVxRXg",
+        "publisher": "County of Maui",
+        "quote": "In 2024, DWS completed a Desalination Feasibility Study to evaluate desalination as a long-term water supply option for South and West Maui and identified locations for further evaluation.",
+        "retrievedISO": "2026-10-26T07:59:47.122Z"
       }
     },
     {
@@ -202,7 +252,8 @@
         "type": "meeting",
         "videoId": "zjBo8277OWs",
         "ts": "0:33:17",
-        "retrievedISO": "2026-10-09T06:35:03.270Z"
+        "retrievedISO": "2026-10-09T06:35:03.270Z",
+        "endTs": "0:34:18"
       },
       "body": "Board of Water Supply"
     },
@@ -214,7 +265,8 @@
         "type": "meeting",
         "videoId": "zjBo8277OWs",
         "ts": "0:29:46",
-        "retrievedISO": "2026-10-09T06:35:03.270Z"
+        "retrievedISO": "2026-10-09T06:35:03.270Z",
+        "endTs": "0:30:16"
       },
       "body": "Board of Water Supply"
     },
@@ -226,7 +278,8 @@
         "type": "meeting",
         "videoId": "zjBo8277OWs",
         "ts": "0:29:16",
-        "retrievedISO": "2026-10-09T06:35:03.270Z"
+        "retrievedISO": "2026-10-09T06:35:03.270Z",
+        "endTs": "0:29:46"
       },
       "body": "Board of Water Supply"
     },
@@ -238,7 +291,8 @@
         "type": "meeting",
         "videoId": "zjBo8277OWs",
         "ts": "0:29:03",
-        "retrievedISO": "2026-10-09T06:35:03.270Z"
+        "retrievedISO": "2026-10-09T06:35:03.270Z",
+        "endTs": "0:29:33"
       },
       "body": "Board of Water Supply"
     },
@@ -250,7 +304,8 @@
         "type": "meeting",
         "videoId": "zjBo8277OWs",
         "ts": "0:28:22",
-        "retrievedISO": "2026-10-09T06:35:03.270Z"
+        "retrievedISO": "2026-10-09T06:35:03.270Z",
+        "endTs": "0:28:56"
       },
       "body": "Board of Water Supply"
     },
@@ -262,7 +317,8 @@
         "type": "meeting",
         "videoId": "zjBo8277OWs",
         "ts": "0:26:03",
-        "retrievedISO": "2026-10-09T06:35:03.270Z"
+        "retrievedISO": "2026-10-09T06:35:03.270Z",
+        "endTs": "0:26:33"
       },
       "body": "Board of Water Supply"
     },
@@ -274,7 +330,8 @@
         "type": "meeting",
         "videoId": "zjBo8277OWs",
         "ts": "0:15:43",
-        "retrievedISO": "2026-10-09T06:35:03.270Z"
+        "retrievedISO": "2026-10-09T06:35:03.270Z",
+        "endTs": "0:16:15"
       },
       "body": "Board of Water Supply"
     },
@@ -286,7 +343,8 @@
         "type": "meeting",
         "videoId": "zjBo8277OWs",
         "ts": "0:15:02",
-        "retrievedISO": "2026-10-09T06:35:03.270Z"
+        "retrievedISO": "2026-10-09T06:35:03.270Z",
+        "endTs": "0:15:32"
       },
       "body": "Board of Water Supply"
     },
@@ -298,7 +356,8 @@
         "type": "meeting",
         "videoId": "zjBo8277OWs",
         "ts": "0:13:46",
-        "retrievedISO": "2026-10-09T06:35:03.270Z"
+        "retrievedISO": "2026-10-09T06:35:03.270Z",
+        "endTs": "0:14:16"
       },
       "body": "Board of Water Supply"
     },
@@ -310,7 +369,8 @@
         "type": "meeting",
         "videoId": "zjBo8277OWs",
         "ts": "0:13:14",
-        "retrievedISO": "2026-10-09T06:35:03.270Z"
+        "retrievedISO": "2026-10-09T06:35:03.270Z",
+        "endTs": "0:13:56"
       },
       "body": "Board of Water Supply"
     },
@@ -322,7 +382,8 @@
         "type": "meeting",
         "videoId": "zjBo8277OWs",
         "ts": "0:13:08",
-        "retrievedISO": "2026-10-09T06:35:03.270Z"
+        "retrievedISO": "2026-10-09T06:35:03.270Z",
+        "endTs": "0:14:14"
       },
       "body": "Board of Water Supply"
     },
@@ -334,7 +395,8 @@
         "type": "meeting",
         "videoId": "zjBo8277OWs",
         "ts": "0:12:36",
-        "retrievedISO": "2026-10-09T06:35:03.270Z"
+        "retrievedISO": "2026-10-09T06:35:03.270Z",
+        "endTs": "0:13:16"
       },
       "body": "Board of Water Supply"
     },
@@ -346,13 +408,16 @@
         "type": "meeting",
         "videoId": "XD60_Qatcxw",
         "ts": "1:30:54",
-        "retrievedISO": "2026-10-09T06:35:07.486Z"
+        "retrievedISO": "2026-10-09T06:35:07.486Z",
+        "endTs": "1:31:50"
       },
       "body": "Board of Water Supply"
     }
   ],
   "sourceTypes": [
-    "meeting"
+    "meeting",
+    "other",
+    "county-release"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }
