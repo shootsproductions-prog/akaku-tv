@@ -13,11 +13,67 @@
   "signals": {
     "meetingsLast30d": 1,
     "meetingsLast90d": 3,
-    "mentionsLast30d": 2,
+    "mentionsLast30d": 3,
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-25",
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    },
+    {
+      "name": "Water and Infrastructure Committee",
+      "group": "council",
+      "short": [
+        "WAI"
+      ]
+    }
+  ],
+  "bills": [
+    "Bill 159 (2024)"
+  ],
   "timeline": [
+    {
+      "dateISO": "2026-09-29",
+      "text": "The testifier said he or someone else may file a lawsuit.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "osd2kNYTO0c",
+        "ts": "2:46:10",
+        "retrievedISO": "2026-10-16T18:23:02.372Z",
+        "endTs": "2:46:40"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-09-29",
+      "text": "A testifier said the agreement's map shows water from three wells going downhill, with no pipeline to the planned homestead lands.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "osd2kNYTO0c",
+        "ts": "2:42:54",
+        "retrievedISO": "2026-10-16T18:23:02.372Z",
+        "endTs": "2:43:26"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-09-29",
+      "text": "Department of Hawaiian Home Lands (DHHL) said the bill would help provide more water for its homestead developments.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "osd2kNYTO0c",
+        "ts": "1:17:54",
+        "retrievedISO": "2026-10-16T18:23:02.372Z",
+        "endTs": "1:18:26"
+      },
+      "body": "County Council Meeting"
+    },
     {
       "dateISO": "2026-09-29",
       "text": "The Council approved the water wells report nine to zero.",
@@ -26,7 +82,8 @@
         "type": "meeting",
         "videoId": "CWTHDPLTwS0",
         "ts": "0:31:33",
-        "retrievedISO": "2026-10-16T04:23:58.786Z"
+        "retrievedISO": "2026-10-16T04:23:58.786Z",
+        "endTs": "0:32:12"
       },
       "body": "County Council Meeting"
     },
@@ -38,7 +95,8 @@
         "type": "meeting",
         "videoId": "CWTHDPLTwS0",
         "ts": "0:25:16",
-        "retrievedISO": "2026-10-16T04:23:58.786Z"
+        "retrievedISO": "2026-10-16T04:23:58.786Z",
+        "endTs": "0:25:53"
       },
       "body": "County Council Meeting"
     },
@@ -50,7 +108,8 @@
         "type": "meeting",
         "videoId": "x1bWmSajuIM",
         "ts": "0:58:05",
-        "retrievedISO": "2026-10-16T12:27:11.063Z"
+        "retrievedISO": "2026-10-16T12:27:11.063Z",
+        "endTs": "0:58:38"
       },
       "body": "County Council Water and Infrastructure Committee"
     },
@@ -62,7 +121,8 @@
         "type": "meeting",
         "videoId": "x1bWmSajuIM",
         "ts": "0:56:25",
-        "retrievedISO": "2026-10-16T12:27:11.063Z"
+        "retrievedISO": "2026-10-16T12:27:11.063Z",
+        "endTs": "0:56:55"
       },
       "body": "County Council Water and Infrastructure Committee"
     },
@@ -74,7 +134,8 @@
         "type": "meeting",
         "videoId": "GKaaaoFG2qs",
         "ts": "0:56:01",
-        "retrievedISO": "2026-10-16T05:42:11.235Z"
+        "retrievedISO": "2026-10-16T05:42:11.235Z",
+        "endTs": "0:56:31"
       },
       "body": "County Council Water and Infrastructure Committee"
     },
@@ -86,7 +147,8 @@
         "type": "meeting",
         "videoId": "GKaaaoFG2qs",
         "ts": "0:55:50",
-        "retrievedISO": "2026-10-16T05:42:11.235Z"
+        "retrievedISO": "2026-10-16T05:42:11.235Z",
+        "endTs": "0:56:25"
       },
       "body": "County Council Water and Infrastructure Committee"
     },
@@ -98,7 +160,8 @@
         "type": "meeting",
         "videoId": "GKaaaoFG2qs",
         "ts": "0:55:37",
-        "retrievedISO": "2026-10-16T05:42:11.235Z"
+        "retrievedISO": "2026-10-16T05:42:11.235Z",
+        "endTs": "0:56:25"
       },
       "body": "County Council Water and Infrastructure Committee"
     },
@@ -110,7 +173,8 @@
         "type": "meeting",
         "videoId": "GKaaaoFG2qs",
         "ts": "0:44:19",
-        "retrievedISO": "2026-10-16T05:42:11.235Z"
+        "retrievedISO": "2026-10-16T05:42:11.235Z",
+        "endTs": "0:44:49"
       },
       "body": "County Council Water and Infrastructure Committee"
     },
@@ -122,7 +186,8 @@
         "type": "meeting",
         "videoId": "GKaaaoFG2qs",
         "ts": "0:43:32",
-        "retrievedISO": "2026-10-16T05:42:11.235Z"
+        "retrievedISO": "2026-10-16T05:42:11.235Z",
+        "endTs": "0:44:18"
       },
       "body": "County Council Water and Infrastructure Committee"
     },
@@ -134,7 +199,8 @@
         "type": "meeting",
         "videoId": "GKaaaoFG2qs",
         "ts": "0:39:22",
-        "retrievedISO": "2026-10-16T05:42:11.235Z"
+        "retrievedISO": "2026-10-16T05:42:11.235Z",
+        "endTs": "0:39:52"
       },
       "body": "County Council Water and Infrastructure Committee"
     },
@@ -146,7 +212,8 @@
         "type": "meeting",
         "videoId": "GKaaaoFG2qs",
         "ts": "0:37:39",
-        "retrievedISO": "2026-10-16T05:42:11.235Z"
+        "retrievedISO": "2026-10-16T05:42:11.235Z",
+        "endTs": "0:38:09"
       },
       "body": "County Council Water and Infrastructure Committee"
     },
@@ -158,7 +225,8 @@
         "type": "meeting",
         "videoId": "GKaaaoFG2qs",
         "ts": "0:36:05",
-        "retrievedISO": "2026-10-16T05:42:11.235Z"
+        "retrievedISO": "2026-10-16T05:42:11.235Z",
+        "endTs": "0:37:12"
       },
       "body": "County Council Water and Infrastructure Committee"
     },
@@ -170,7 +238,8 @@
         "type": "meeting",
         "videoId": "x1bWmSajuIM",
         "ts": "0:35:42",
-        "retrievedISO": "2026-10-16T12:27:11.063Z"
+        "retrievedISO": "2026-10-16T12:27:11.063Z",
+        "endTs": "0:36:23"
       },
       "body": "County Council Water and Infrastructure Committee"
     },
@@ -182,7 +251,8 @@
         "type": "meeting",
         "videoId": "x1bWmSajuIM",
         "ts": "0:31:32",
-        "retrievedISO": "2026-10-16T12:27:11.063Z"
+        "retrievedISO": "2026-10-16T12:27:11.063Z",
+        "endTs": "0:32:02"
       },
       "body": "County Council Water and Infrastructure Committee"
     },
@@ -194,7 +264,8 @@
         "type": "meeting",
         "videoId": "GKaaaoFG2qs",
         "ts": "0:21:53",
-        "retrievedISO": "2026-10-16T05:42:11.235Z"
+        "retrievedISO": "2026-10-16T05:42:11.235Z",
+        "endTs": "0:22:28"
       },
       "body": "County Council Water and Infrastructure Committee"
     },
@@ -206,7 +277,8 @@
         "type": "meeting",
         "videoId": "GKaaaoFG2qs",
         "ts": "0:20:56",
-        "retrievedISO": "2026-10-16T05:42:11.235Z"
+        "retrievedISO": "2026-10-16T05:42:11.235Z",
+        "endTs": "0:21:26"
       },
       "body": "County Council Water and Infrastructure Committee"
     },
@@ -218,7 +290,8 @@
         "type": "meeting",
         "videoId": "GKaaaoFG2qs",
         "ts": "0:19:26",
-        "retrievedISO": "2026-10-16T05:42:11.235Z"
+        "retrievedISO": "2026-10-16T05:42:11.235Z",
+        "endTs": "0:19:59"
       },
       "body": "County Council Water and Infrastructure Committee"
     },
@@ -230,7 +303,8 @@
         "type": "meeting",
         "videoId": "GKaaaoFG2qs",
         "ts": "0:19:16",
-        "retrievedISO": "2026-10-16T05:42:11.235Z"
+        "retrievedISO": "2026-10-16T05:42:11.235Z",
+        "endTs": "0:19:46"
       },
       "body": "County Council Water and Infrastructure Committee"
     },
@@ -242,7 +316,8 @@
         "type": "meeting",
         "videoId": "2oq6VqJ13h4",
         "ts": "0:18:22",
-        "retrievedISO": "2026-10-16T05:43:53.105Z"
+        "retrievedISO": "2026-10-16T05:43:53.105Z",
+        "endTs": "0:18:52"
       },
       "body": "County Council Water and Infrastructure Committee"
     },
@@ -254,7 +329,8 @@
         "type": "meeting",
         "videoId": "GKaaaoFG2qs",
         "ts": "0:17:52",
-        "retrievedISO": "2026-10-16T05:42:11.235Z"
+        "retrievedISO": "2026-10-16T05:42:11.235Z",
+        "endTs": "0:18:22"
       },
       "body": "County Council Water and Infrastructure Committee"
     },
@@ -266,7 +342,8 @@
         "type": "meeting",
         "videoId": "GKaaaoFG2qs",
         "ts": "0:17:33",
-        "retrievedISO": "2026-10-16T05:42:11.235Z"
+        "retrievedISO": "2026-10-16T05:42:11.235Z",
+        "endTs": "0:18:03"
       },
       "body": "County Council Water and Infrastructure Committee"
     },
@@ -278,7 +355,8 @@
         "type": "meeting",
         "videoId": "2oq6VqJ13h4",
         "ts": "0:15:53",
-        "retrievedISO": "2026-10-16T05:43:53.105Z"
+        "retrievedISO": "2026-10-16T05:43:53.105Z",
+        "endTs": "0:16:23"
       },
       "body": "County Council Water and Infrastructure Committee"
     },
@@ -290,7 +368,8 @@
         "type": "meeting",
         "videoId": "GKaaaoFG2qs",
         "ts": "0:15:31",
-        "retrievedISO": "2026-10-16T05:42:11.235Z"
+        "retrievedISO": "2026-10-16T05:42:11.235Z",
+        "endTs": "0:16:01"
       },
       "body": "County Council Water and Infrastructure Committee"
     },
@@ -302,7 +381,8 @@
         "type": "meeting",
         "videoId": "GKaaaoFG2qs",
         "ts": "0:15:00",
-        "retrievedISO": "2026-10-16T05:42:11.235Z"
+        "retrievedISO": "2026-10-16T05:42:11.235Z",
+        "endTs": "0:15:31"
       },
       "body": "County Council Water and Infrastructure Committee"
     },
@@ -314,7 +394,8 @@
         "type": "meeting",
         "videoId": "GKaaaoFG2qs",
         "ts": "0:13:45",
-        "retrievedISO": "2026-10-16T05:42:11.235Z"
+        "retrievedISO": "2026-10-16T05:42:11.235Z",
+        "endTs": "0:14:15"
       },
       "body": "County Council Water and Infrastructure Committee"
     },
@@ -326,7 +407,8 @@
         "type": "meeting",
         "videoId": "2oq6VqJ13h4",
         "ts": "0:12:38",
-        "retrievedISO": "2026-10-16T05:43:53.105Z"
+        "retrievedISO": "2026-10-16T05:43:53.105Z",
+        "endTs": "0:13:11"
       },
       "body": "County Council Water and Infrastructure Committee"
     },
@@ -338,7 +420,8 @@
         "type": "meeting",
         "videoId": "x1bWmSajuIM",
         "ts": "0:12:01",
-        "retrievedISO": "2026-10-16T12:27:11.063Z"
+        "retrievedISO": "2026-10-16T12:27:11.063Z",
+        "endTs": "0:13:06"
       },
       "body": "County Council Water and Infrastructure Committee"
     },
@@ -350,7 +433,8 @@
         "type": "meeting",
         "videoId": "x1bWmSajuIM",
         "ts": "0:11:37",
-        "retrievedISO": "2026-10-16T12:27:11.063Z"
+        "retrievedISO": "2026-10-16T12:27:11.063Z",
+        "endTs": "0:12:07"
       },
       "body": "County Council Water and Infrastructure Committee"
     },
@@ -362,7 +446,8 @@
         "type": "meeting",
         "videoId": "x1bWmSajuIM",
         "ts": "0:10:59",
-        "retrievedISO": "2026-10-16T12:27:11.063Z"
+        "retrievedISO": "2026-10-16T12:27:11.063Z",
+        "endTs": "0:11:29"
       },
       "body": "County Council Water and Infrastructure Committee"
     },
@@ -374,7 +459,8 @@
         "type": "meeting",
         "videoId": "x1bWmSajuIM",
         "ts": "0:10:32",
-        "retrievedISO": "2026-10-16T12:27:11.063Z"
+        "retrievedISO": "2026-10-16T12:27:11.063Z",
+        "endTs": "0:11:03"
       },
       "body": "County Council Water and Infrastructure Committee"
     },
@@ -386,7 +472,8 @@
         "type": "meeting",
         "videoId": "x1bWmSajuIM",
         "ts": "0:09:45",
-        "retrievedISO": "2026-10-16T12:27:11.063Z"
+        "retrievedISO": "2026-10-16T12:27:11.063Z",
+        "endTs": "0:10:15"
       },
       "body": "County Council Water and Infrastructure Committee"
     },
@@ -398,7 +485,8 @@
         "type": "meeting",
         "videoId": "x1bWmSajuIM",
         "ts": "0:07:09",
-        "retrievedISO": "2026-10-16T12:27:11.063Z"
+        "retrievedISO": "2026-10-16T12:27:11.063Z",
+        "endTs": "0:07:39"
       },
       "body": "County Council Water and Infrastructure Committee"
     },
@@ -410,7 +498,8 @@
         "type": "meeting",
         "videoId": "x1bWmSajuIM",
         "ts": "0:06:12",
-        "retrievedISO": "2026-10-16T12:27:11.063Z"
+        "retrievedISO": "2026-10-16T12:27:11.063Z",
+        "endTs": "0:06:42"
       },
       "body": "County Council Water and Infrastructure Committee"
     },
@@ -422,7 +511,8 @@
         "type": "meeting",
         "videoId": "jUG5zrO3VCw",
         "ts": "2:34:43",
-        "retrievedISO": "2026-10-21T18:04:36.529Z"
+        "retrievedISO": "2026-10-21T18:04:36.529Z",
+        "endTs": "2:35:41"
       },
       "body": "County Council Meeting"
     }
