@@ -17,47 +17,6 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-25",
-  "timeline": [
-    {
-      "dateISO": "2026-08-18",
-      "text": "A deputy corporation counsel said state law requires defending firefighters sued for acts done on duty.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "h-ed5db7tE4",
-        "ts": "0:25:28",
-        "endTs": "0:26:05",
-        "retrievedISO": "2026-10-16T06:45:12.146Z"
-      },
-      "body": "County Council Government Relations, Ethics, and Transparency Committee"
-    },
-    {
-      "dateISO": "2026-08-18",
-      "text": "The special counsel represents Captain Scott Martin in a lawsuit filed by Chelsea Evans.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "h-ed5db7tE4",
-        "ts": "0:06:40",
-        "endTs": "0:07:10",
-        "retrievedISO": "2026-10-16T06:45:12.146Z"
-      },
-      "body": "County Council Government Relations, Ethics, and Transparency Committee"
-    },
-    {
-      "dateISO": "2026-08-18",
-      "text": "Resolution 26-131 would raise the limit for special counsel by $250,000, to $450,000 total.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "h-ed5db7tE4",
-        "ts": "0:05:01",
-        "endTs": "0:05:32",
-        "retrievedISO": "2026-10-16T06:45:12.146Z"
-      },
-      "body": "County Council Government Relations, Ethics, and Transparency Committee"
-    }
-  ],
   "boards": [
     {
       "name": "Government Relations, Ethics, and Transparency Committee",
@@ -69,6 +28,50 @@
   ],
   "bills": [
     "Resolution 26-131"
+  ],
+  "timeline": [
+    {
+      "dateISO": "2026-08-18",
+      "text": "A deputy corporation counsel said state law requires defending firefighters sued for acts done on duty.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "h-ed5db7tE4",
+        "ts": "0:25:28",
+        "retrievedISO": "2026-10-16T06:45:12.146Z",
+        "endTs": "0:26:05"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-08-18",
+      "text": "The special counsel represents Captain Scott Martin in a lawsuit filed by Chelsea Evans.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "h-ed5db7tE4",
+        "ts": "0:06:40",
+        "retrievedISO": "2026-10-16T06:45:12.146Z",
+        "endTs": "0:07:10"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-08-18",
+      "text": "Resolution 26-131 would raise the limit for special counsel by $250,000, to $450,000 total.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "h-ed5db7tE4",
+        "ts": "0:05:01",
+        "retrievedISO": "2026-10-16T06:45:12.146Z",
+        "endTs": "0:05:32"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

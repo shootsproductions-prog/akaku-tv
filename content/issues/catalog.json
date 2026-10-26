@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-26T08:20:11.090Z",
-  "count": 99,
+  "updatedAt": "2026-10-26T08:32:09.315Z",
+  "count": 104,
   "issues": [
     {
       "slug": "2027-mass-nominations-for-county-boards",
@@ -18843,6 +18843,730 @@
             "ts": "0:03:09",
             "retrievedISO": "2026-10-16T17:27:10.780Z",
             "endTs": "0:03:39"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "expanding-fare-free-bus-passes",
+      "title": "Expanding fare-free bus passes",
+      "summary": "Bill 95 (2026), which expands fare-free bus pass eligibility to boost Maui bus ridership, passed first reading 8–0 on July 24 after the council adopted Committee Report 26-54. The bill would also write the new fiscal year 2027 bus fares, in effect since July 1, into County code. The transportation director estimated each free-ride day, such as for the Maui County Fair or Earth Day, would forgo about $2,806 in fares, and free regular routes would also make paratransit free.",
+      "topics": [
+        "transportation"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-07-02",
+      "lastSeenISO": "2026-08-11",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        },
+        {
+          "name": "Agriculture, Diversification, Environment, and Public Transportation Committee",
+          "group": "council",
+          "short": [
+            "ADEPT"
+          ]
+        }
+      ],
+      "bills": [
+        "Bill 95 (2026)"
+      ],
+      "timeline": [
+        {
+          "dateISO": "2026-08-11",
+          "text": "Bill 95 expands the county's fare-free bus pass program.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "H53ZMTLu47A",
+            "ts": "1:02:15",
+            "retrievedISO": "2026-10-16T06:48:22.352Z",
+            "endTs": "1:02:45"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-07-24",
+          "text": "The council voted 8–0 to advance Bill 95-2026, which aims to increase Maui bus ridership, on first reading.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "7WOTHhYkCV0",
+            "ts": "1:06:21",
+            "retrievedISO": "2026-10-16T17:08:42.619Z",
+            "endTs": "1:07:47"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-07-24",
+          "text": "Committee Report 26-54 recommending first reading of Bill 95-2026: The council adopted the committee report advancing Bill 95-2026, which expands fare-free bus pass eligibility, on first reading.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "7WOTHhYkCV0",
+            "ts": "1:06:09",
+            "retrievedISO": "2026-10-16T17:08:42.619Z",
+            "endTs": "1:07:47"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-07-02",
+          "text": "The director said fare-free day notices would go to the council chair by a letter through the mayor's office.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xKztqre69Yg",
+            "ts": "0:29:24",
+            "retrievedISO": "2026-10-16T17:21:47.496Z",
+            "endTs": "0:29:55"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+        },
+        {
+          "dateISO": "2026-07-02",
+          "text": "The committee chair said making buses free for everyone would be discussed later as the program rolls out.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xKztqre69Yg",
+            "ts": "0:26:04",
+            "retrievedISO": "2026-10-16T17:21:47.496Z",
+            "endTs": "0:26:36"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+        },
+        {
+          "dateISO": "2026-07-02",
+          "text": "The director said federal funding rules mean free regular bus routes would also make paratransit, the ADA ride service, free.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xKztqre69Yg",
+            "ts": "0:23:49",
+            "retrievedISO": "2026-10-16T17:21:47.496Z",
+            "endTs": "0:24:52"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+        },
+        {
+          "dateISO": "2026-07-02",
+          "text": "If the bill moves forward, the director said the department would need an updated talk with MEO about the fare-free application process.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xKztqre69Yg",
+            "ts": "0:20:53",
+            "retrievedISO": "2026-10-16T17:21:47.496Z",
+            "endTs": "0:21:25"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+        },
+        {
+          "dateISO": "2026-07-02",
+          "text": "He estimated the County would not collect about $2,806 in fares for each free day.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xKztqre69Yg",
+            "ts": "0:12:01",
+            "retrievedISO": "2026-10-16T17:21:47.496Z",
+            "endTs": "0:13:00"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+        },
+        {
+          "dateISO": "2026-07-02",
+          "text": "He named the Maui County Fair and Earth Day as possible free-ride days.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xKztqre69Yg",
+            "ts": "0:06:26",
+            "retrievedISO": "2026-10-16T17:21:47.496Z",
+            "endTs": "0:06:56"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+        },
+        {
+          "dateISO": "2026-07-02",
+          "text": "New bus fares in the fiscal year 2027 budget took effect the day before, and Bill 95 would write them into County code.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xKztqre69Yg",
+            "ts": "0:03:27",
+            "retrievedISO": "2026-10-16T17:21:47.496Z",
+            "endTs": "0:03:57"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+        },
+        {
+          "dateISO": "2026-07-02",
+          "text": "The committee's only agenda item was Bill 95.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xKztqre69Yg",
+            "ts": "0:03:04",
+            "retrievedISO": "2026-10-16T17:21:47.496Z",
+            "endTs": "0:03:34"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "harbor-triangle-rezoning-including-maui-ocean-center",
+      "title": "Harbor triangle rezoning including Maui Ocean Center",
+      "summary": "A committee has moved to decision making on rezoning six properties in the triangle area by the harbor, and the resolution now goes to the full council. Unlike a 2022 proposal covering only the Maui Ocean Center properties, this one also includes the harbor shops, and the owners agreed to split costs half and half. Presenters said some current zoning labels do not exist in county code, and a testifier raised concerns about aquarium pathogens.",
+      "topics": [
+        "land-use"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-08-11",
+      "lastSeenISO": "2026-10-19",
+      "signals": {
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 2,
+        "mentionsLast30d": 3,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Water and Infrastructure Committee",
+          "group": "council",
+          "short": [
+            "WAI"
+          ]
+        },
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        }
+      ],
+      "bills": [
+        "Resolution 26-137"
+      ],
+      "timeline": [
+        {
+          "dateISO": "2026-10-19",
+          "text": "The committee will move to decision making on the zoning change.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "81AagZf0euk",
+            "ts": "0:33:56",
+            "retrievedISO": "2026-10-20T04:43:09.471Z",
+            "endTs": "0:34:26"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-10-19",
+          "text": "The presenter said an earlier rezoning effort ran into a lawsuit from another property owner.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "81AagZf0euk",
+            "ts": "0:29:45",
+            "retrievedISO": "2026-10-20T04:43:09.471Z",
+            "endTs": "0:30:24"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-10-19",
+          "text": "Maui Ocean Center and Harbor Shops agreed to split the cost half and half.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "81AagZf0euk",
+            "ts": "0:27:09",
+            "retrievedISO": "2026-10-20T04:43:09.471Z",
+            "endTs": "0:27:39"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-10-19",
+          "text": "He asked for an amendment requiring disclosure of what pathogens may be going into the ocean.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "81AagZf0euk",
+            "ts": "0:22:34",
+            "retrievedISO": "2026-10-20T04:43:09.471Z",
+            "endTs": "0:23:04"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-10-19",
+          "text": "One testifier said pathogens from the aquarium may be going improperly into injection wells.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "81AagZf0euk",
+            "ts": "0:20:51",
+            "retrievedISO": "2026-10-20T04:43:09.471Z",
+            "endTs": "0:21:29"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-10-19",
+          "text": "Unlike a 2022 proposal for only the Maui Ocean Center properties, this one also includes the harbor shops.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "81AagZf0euk",
+            "ts": "0:14:28",
+            "retrievedISO": "2026-10-20T04:43:09.471Z",
+            "endTs": "0:15:15"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-10-19",
+          "text": "He said this makes some buildings non-conforming, which could cause problems if a natural disaster destroyed them.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "81AagZf0euk",
+            "ts": "0:08:30",
+            "retrievedISO": "2026-10-20T04:43:09.471Z",
+            "endTs": "0:09:04"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-10-19",
+          "text": "The resolution now goes to the full council.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xI___ZqSx0k",
+            "ts": "0:08:05",
+            "retrievedISO": "2026-10-20T04:44:49.657Z",
+            "endTs": "0:08:35"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-10-19",
+          "text": "The presenter said some current zoning labels, like \"open zone,\" do not exist in Maui County Code.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "81AagZf0euk",
+            "ts": "0:07:09",
+            "retrievedISO": "2026-10-20T04:43:09.471Z",
+            "endTs": "0:08:08"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-10-19",
+          "text": "The chair proposed correcting a resolution to say Parcel 11 is owned by a partnership and the United States Coast Guard.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xI___ZqSx0k",
+            "ts": "0:04:57",
+            "retrievedISO": "2026-10-20T04:44:49.657Z",
+            "endTs": "0:05:56"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-10-19",
+          "text": "Two presenters explained a proposed zoning change for six properties in the triangle area down by the harbor.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "81AagZf0euk",
+            "ts": "0:04:37",
+            "retrievedISO": "2026-10-20T04:43:09.471Z",
+            "endTs": "0:06:08"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-11",
+          "text": "Resolution 26-137, referring a proposed rezoning bill for six parcels to the Maui Planning Commission: The resolution on rezoning six parcels was referred to the Water and Infrastructure Committee with no objections.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "H53ZMTLu47A",
+            "ts": "0:52:04",
+            "retrievedISO": "2026-10-16T06:48:22.352Z",
+            "endTs": "0:52:52"
+          },
+          "body": "County Council Meeting"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "new-youth-advisory-group-launch",
+      "title": "New youth advisory group launch",
+      "summary": "As of September 21, a youth advisory group not run by the commission has a sign-up flyer with a QR code and hopes to hold its first meeting in mid-October, later than the first week of October hoped for in August. The secretary will email commissioners the agenda and virtual link when available. Commissioners agreed in August the flyer needs no commission approval.",
+      "topics": [
+        "education",
+        "government"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-07-20",
+      "lastSeenISO": "2026-09-21",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 2,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Maui Children & Youth Commission",
+          "group": "board",
+          "short": []
+        },
+        {
+          "name": "Commission on Children & Youth",
+          "group": "board",
+          "short": []
+        },
+        {
+          "name": "Maui Commission on Children & Youth",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-09-21",
+          "text": "The secretary will email commissioners the youth advisory group's first meeting agenda and virtual link to share when it is available.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "R72ep6UsQvk",
+            "ts": "0:53:33",
+            "retrievedISO": "2026-10-07T23:03:53.466Z",
+            "endTs": "0:54:03"
+          },
+          "body": "Maui Children & Youth Commission"
+        },
+        {
+          "dateISO": "2026-09-21",
+          "text": "The group hopes to hold its first meeting in mid-October.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "R72ep6UsQvk",
+            "ts": "0:51:55",
+            "retrievedISO": "2026-10-07T23:03:53.466Z",
+            "endTs": "0:52:25"
+          },
+          "body": "Maui Children & Youth Commission"
+        },
+        {
+          "dateISO": "2026-09-21",
+          "text": "A youth advisory group, not run by the commission, has a sign-up flyer with a QR code.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "R72ep6UsQvk",
+            "ts": "0:51:20",
+            "retrievedISO": "2026-10-07T23:03:53.466Z",
+            "endTs": "0:52:00"
+          },
+          "body": "Maui Children & Youth Commission"
+        },
+        {
+          "dateISO": "2026-08-24",
+          "text": "Youth advisory group materials will be sent to the commission secretary so commissioners can share them.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "_jJfabaKzgo",
+            "ts": "0:39:46",
+            "retrievedISO": "2026-10-09T06:35:13.605Z",
+            "endTs": "0:40:16"
+          },
+          "body": "Commission on Children & Youth"
+        },
+        {
+          "dateISO": "2026-08-24",
+          "text": "Youth advisory group flyer and materials: Commissioners agreed the youth advisory group flyer does not need commission approval.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "_jJfabaKzgo",
+            "ts": "0:39:23",
+            "retrievedISO": "2026-10-09T06:35:13.605Z",
+            "endTs": "0:39:53"
+          },
+          "body": "Commission on Children & Youth"
+        },
+        {
+          "dateISO": "2026-08-24",
+          "text": "The group's first meeting is hoped for the first week of October.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "_jJfabaKzgo",
+            "ts": "0:38:00",
+            "retrievedISO": "2026-10-09T06:35:13.605Z",
+            "endTs": "0:38:34"
+          },
+          "body": "Commission on Children & Youth"
+        },
+        {
+          "dateISO": "2026-08-24",
+          "text": "A commissioner plans a flyer to recruit youth for a youth advisory group.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "_jJfabaKzgo",
+            "ts": "0:37:11",
+            "retrievedISO": "2026-10-09T06:35:13.605Z",
+            "endTs": "0:37:50"
+          },
+          "body": "Commission on Children & Youth"
+        },
+        {
+          "dateISO": "2026-07-20",
+          "text": "A youth group flyer may be added to the next meeting's agenda if a copy is ready.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9Qn8uXAUEl0",
+            "ts": "1:10:50",
+            "retrievedISO": "2026-10-12T06:30:17.159Z",
+            "endTs": "1:11:20"
+          },
+          "body": "Maui Commission on Children & Youth"
+        },
+        {
+          "dateISO": "2026-07-20",
+          "text": "A commissioner agreed to create a flyer for the group and bring it to the next meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9Qn8uXAUEl0",
+            "ts": "1:10:14",
+            "retrievedISO": "2026-10-12T06:30:17.159Z",
+            "endTs": "1:11:13"
+          },
+          "body": "Maui Commission on Children & Youth"
+        },
+        {
+          "dateISO": "2026-07-20",
+          "text": "A commissioner offered to help start the community-led youth advisory group.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9Qn8uXAUEl0",
+            "ts": "1:02:38",
+            "retrievedISO": "2026-10-12T06:30:17.159Z",
+            "endTs": "1:03:09"
+          },
+          "body": "Maui Commission on Children & Youth"
+        },
+        {
+          "dateISO": "2026-07-20",
+          "text": "A youth testifier said she is leaving the proposed youth advisory group.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9Qn8uXAUEl0",
+            "ts": "0:03:52",
+            "retrievedISO": "2026-10-12T06:30:17.159Z",
+            "endTs": "0:04:22"
+          },
+          "body": "Maui Commission on Children & Youth"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "planning-hearing-notices-outside-newspapers-in-bill-85",
+      "title": "Planning hearing notices outside newspapers in Bill 85",
+      "summary": "Bill 85 would let hearing notices run in any suitable publication circulated across Maui County. Planning staff said the change would save the county money. One caller asked that notices also be posted on county bulletin boards.",
+      "topics": [
+        "government",
+        "land-use"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-09-02",
+      "lastSeenISO": "2026-09-02",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Housing and Land Use Committee",
+          "group": "council",
+          "short": [
+            "HLU"
+          ]
+        }
+      ],
+      "bills": [
+        "Bill 85 (2026)"
+      ],
+      "timeline": [
+        {
+          "dateISO": "2026-09-02",
+          "text": "Planning staff said the change would save the county money.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "k-_ISK9hdeQ",
+            "ts": "2:52:16",
+            "retrievedISO": "2026-10-16T16:43:03.917Z",
+            "endTs": "2:52:49"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-09-02",
+          "text": "Bill 85 would let hearing notices run in any suitable publication circulated across Maui County.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "k-_ISK9hdeQ",
+            "ts": "2:51:13",
+            "retrievedISO": "2026-10-16T16:43:03.917Z",
+            "endTs": "2:51:47"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-09-02",
+          "text": "One caller asked that notices also be posted on county bulletin boards.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "E8RNq6wUE1Y",
+            "ts": "1:58:52",
+            "retrievedISO": "2026-10-16T08:22:23.095Z",
+            "endTs": "1:59:39"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "special-counsel-costs-defending-a-fire-captain",
+      "title": "Special counsel costs defending a fire captain",
+      "summary": "Resolution 26-131 would raise the cap on special counsel spending by $250,000, to $450,000 in total. The special counsel represents Captain Scott Martin in a lawsuit filed by Chelsea Evans. A deputy corporation counsel said state law requires defending firefighters sued for acts done on duty.",
+      "topics": [
+        "government",
+        "public-safety"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-08-18",
+      "lastSeenISO": "2026-08-18",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Government Relations, Ethics, and Transparency Committee",
+          "group": "council",
+          "short": [
+            "GREAT"
+          ]
+        }
+      ],
+      "bills": [
+        "Resolution 26-131"
+      ],
+      "timeline": [
+        {
+          "dateISO": "2026-08-18",
+          "text": "A deputy corporation counsel said state law requires defending firefighters sued for acts done on duty.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "h-ed5db7tE4",
+            "ts": "0:25:28",
+            "retrievedISO": "2026-10-16T06:45:12.146Z",
+            "endTs": "0:26:05"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        },
+        {
+          "dateISO": "2026-08-18",
+          "text": "The special counsel represents Captain Scott Martin in a lawsuit filed by Chelsea Evans.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "h-ed5db7tE4",
+            "ts": "0:06:40",
+            "retrievedISO": "2026-10-16T06:45:12.146Z",
+            "endTs": "0:07:10"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        },
+        {
+          "dateISO": "2026-08-18",
+          "text": "Resolution 26-131 would raise the limit for special counsel by $250,000, to $450,000 total.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "h-ed5db7tE4",
+            "ts": "0:05:01",
+            "retrievedISO": "2026-10-16T06:45:12.146Z",
+            "endTs": "0:05:32"
           },
           "body": "County Council Government Relations, Ethics, and Transparency Committee"
         }
