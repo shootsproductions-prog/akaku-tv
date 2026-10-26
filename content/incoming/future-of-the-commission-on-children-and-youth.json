@@ -1,0 +1,85 @@
+{
+  "slug": "future-of-the-commission-on-children-and-youth",
+  "title": "Future of the Commission on Children and Youth",
+  "summary": "The committee chair told Member Johnson on October 20 that he looks forward to supporting the bill to make the youth council full of youth. The bill follows a request from a Maui High School student to turn the Commission on Children and Youth into a youth-led commission. The student reported 56 signatures and 12 testimonies in support and agreed to send the committee the signature list when it is ready.",
+  "topics": [
+    "government",
+    "education"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-10-20",
+  "lastSeenISO": "2026-10-20",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 3,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-26",
+  "timeline": [
+    {
+      "dateISO": "2026-10-20",
+      "text": "The chair told Member Johnson, \"I look forward to supporting your bill\" to make the youth council full of youth.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lTGThFSETwA",
+        "ts": "1:00:00",
+        "endTs": "1:00:56",
+        "retrievedISO": "2026-10-21T04:43:49.296Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-10-20",
+      "text": "The student agreed to send the committee the list of signatures when it is ready.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "4WkkHiuA95Q",
+        "ts": "0:48:26",
+        "endTs": "0:49:03",
+        "retrievedISO": "2026-10-22T07:25:22.886Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-10-20",
+      "text": "The student reported 56 signatures and 12 testimonies in support.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "4WkkHiuA95Q",
+        "ts": "0:47:16",
+        "endTs": "0:47:46",
+        "retrievedISO": "2026-10-22T07:25:22.886Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-10-20",
+      "text": "A Maui High School student asked to turn the Commission on Children and Youth into a youth-led commission.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "4WkkHiuA95Q",
+        "ts": "0:45:05",
+        "endTs": "0:45:38",
+        "retrievedISO": "2026-10-22T07:25:22.886Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Government Relations, Ethics, and Transparency Committee",
+      "group": "council",
+      "short": [
+        "GREAT"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

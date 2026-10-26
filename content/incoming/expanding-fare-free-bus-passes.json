@@ -1,0 +1,182 @@
+{
+  "slug": "expanding-fare-free-bus-passes",
+  "title": "Expanding fare-free bus passes",
+  "summary": "Bill 95 (2026), which expands fare-free bus pass eligibility to boost Maui bus ridership, passed first reading 8–0 on July 24 after the council adopted Committee Report 26-54. The bill would also write the new fiscal year 2027 bus fares, in effect since July 1, into County code. The transportation director estimated each free-ride day, such as for the Maui County Fair or Earth Day, would forgo about $2,806 in fares, and free regular routes would also make paratransit free.",
+  "topics": [
+    "transportation"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-07-02",
+  "lastSeenISO": "2026-08-11",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-26",
+  "timeline": [
+    {
+      "dateISO": "2026-08-11",
+      "text": "Bill 95 expands the county's fare-free bus pass program.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "H53ZMTLu47A",
+        "ts": "1:02:15",
+        "endTs": "1:02:45",
+        "retrievedISO": "2026-10-16T06:48:22.352Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-07-24",
+      "text": "The council voted 8–0 to advance Bill 95-2026, which aims to increase Maui bus ridership, on first reading.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7WOTHhYkCV0",
+        "ts": "1:06:21",
+        "endTs": "1:07:47",
+        "retrievedISO": "2026-10-16T17:08:42.619Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-07-24",
+      "text": "Committee Report 26-54 recommending first reading of Bill 95-2026: The council adopted the committee report advancing Bill 95-2026, which expands fare-free bus pass eligibility, on first reading.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7WOTHhYkCV0",
+        "ts": "1:06:09",
+        "endTs": "1:07:47",
+        "retrievedISO": "2026-10-16T17:08:42.619Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-07-02",
+      "text": "The director said fare-free day notices would go to the council chair by a letter through the mayor's office.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xKztqre69Yg",
+        "ts": "0:29:24",
+        "endTs": "0:29:55",
+        "retrievedISO": "2026-10-16T17:21:47.496Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-07-02",
+      "text": "The committee chair said making buses free for everyone would be discussed later as the program rolls out.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xKztqre69Yg",
+        "ts": "0:26:04",
+        "endTs": "0:26:36",
+        "retrievedISO": "2026-10-16T17:21:47.496Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-07-02",
+      "text": "The director said federal funding rules mean free regular bus routes would also make paratransit, the ADA ride service, free.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xKztqre69Yg",
+        "ts": "0:23:49",
+        "endTs": "0:24:52",
+        "retrievedISO": "2026-10-16T17:21:47.496Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-07-02",
+      "text": "If the bill moves forward, the director said the department would need an updated talk with MEO about the fare-free application process.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xKztqre69Yg",
+        "ts": "0:20:53",
+        "endTs": "0:21:25",
+        "retrievedISO": "2026-10-16T17:21:47.496Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-07-02",
+      "text": "He estimated the County would not collect about $2,806 in fares for each free day.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xKztqre69Yg",
+        "ts": "0:12:01",
+        "endTs": "0:13:00",
+        "retrievedISO": "2026-10-16T17:21:47.496Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-07-02",
+      "text": "He named the Maui County Fair and Earth Day as possible free-ride days.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xKztqre69Yg",
+        "ts": "0:06:26",
+        "endTs": "0:06:56",
+        "retrievedISO": "2026-10-16T17:21:47.496Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-07-02",
+      "text": "New bus fares in the fiscal year 2027 budget took effect the day before, and Bill 95 would write them into County code.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xKztqre69Yg",
+        "ts": "0:03:27",
+        "endTs": "0:03:57",
+        "retrievedISO": "2026-10-16T17:21:47.496Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-07-02",
+      "text": "The committee's only agenda item was Bill 95.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xKztqre69Yg",
+        "ts": "0:03:04",
+        "endTs": "0:03:34",
+        "retrievedISO": "2026-10-16T17:21:47.496Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    },
+    {
+      "name": "Agriculture, Diversification, Environment, and Public Transportation Committee",
+      "group": "council",
+      "short": [
+        "ADEPT"
+      ]
+    }
+  ],
+  "bills": [
+    "Bill 95 (2026)"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

@@ -1,0 +1,371 @@
+{
+  "slug": "bills-163-and-164-for-163-acre-central-maui-growth",
+  "title": "Bills 163 and 164 for 163-acre Central Maui growth",
+  "summary": "On September 29, the Council passed Bills 163 and 164 nine to zero, after a September 3 public hearing. Bill 163 CD1 adds a 163.443-acre Kahului parcel portion to the urban growth boundary, and Bill 164 CD1 changes it from Agriculture to Business Multifamily for the Hoʻonani Village housing project. Testifiers raised concerns about water from one untested well, the airport runway, and the unfinished final EIS.",
+  "topics": [
+    "land-use",
+    "housing",
+    "water"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-06-19",
+  "lastSeenISO": "2026-09-29",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 2,
+    "mentionsLast30d": 1,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-26",
+  "timeline": [
+    {
+      "dateISO": "2026-09-29",
+      "text": "Bills 163 and 164 passed nine to zero.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "CWTHDPLTwS0",
+        "ts": "1:20:38",
+        "endTs": "1:21:42",
+        "retrievedISO": "2026-10-16T04:23:58.786Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-09-03",
+      "text": "The public hearing was adjourned.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UC-kpvvm-hQ",
+        "ts": "0:33:24",
+        "endTs": "0:33:54",
+        "retrievedISO": "2026-10-16T05:04:39.096Z"
+      },
+      "body": "County Council Public Hearing"
+    },
+    {
+      "dateISO": "2026-09-03",
+      "text": "Bill 164 CD1 would change a 163.443-acre portion of a parcel from Agriculture to Business Multifamily in the Wailuku-Kahului Community Plan.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UC-kpvvm-hQ",
+        "ts": "0:32:14",
+        "endTs": "0:32:44",
+        "retrievedISO": "2026-10-16T05:04:39.096Z"
+      },
+      "body": "County Council Public Hearing"
+    },
+    {
+      "dateISO": "2026-09-03",
+      "text": "Close public testimony on Bill 163 CD1: The Council closed public testimony on Bill 163 CD1 and accepted written testimony with no objections.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UC-kpvvm-hQ",
+        "ts": "0:32:08",
+        "endTs": "0:32:38",
+        "retrievedISO": "2026-10-16T05:04:39.096Z"
+      },
+      "body": "County Council Public Hearing"
+    },
+    {
+      "dateISO": "2026-09-03",
+      "text": "A testifier said he wants the housing built but that it could be done elsewhere with less impact.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UC-kpvvm-hQ",
+        "ts": "0:30:00",
+        "endTs": "0:30:30",
+        "retrievedISO": "2026-10-16T05:04:39.096Z"
+      },
+      "body": "County Council Public Hearing"
+    },
+    {
+      "dateISO": "2026-09-03",
+      "text": "A testifier said other land already approved for building is available near the old Dunes restaurant and the Maui Lani project.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UC-kpvvm-hQ",
+        "ts": "0:29:43",
+        "endTs": "0:30:13",
+        "retrievedISO": "2026-10-16T05:04:39.096Z"
+      },
+      "body": "County Council Public Hearing"
+    },
+    {
+      "dateISO": "2026-09-03",
+      "text": "A testifier said there would be no backup water supply if the project's single well stopped working.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UC-kpvvm-hQ",
+        "ts": "0:28:07",
+        "endTs": "0:28:37",
+        "retrievedISO": "2026-10-16T05:04:39.096Z"
+      },
+      "body": "County Council Public Hearing"
+    },
+    {
+      "dateISO": "2026-09-03",
+      "text": "He said the water supply is not certain because the project would use one well that is not yet properly tested.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UC-kpvvm-hQ",
+        "ts": "0:27:54",
+        "endTs": "0:28:24",
+        "retrievedISO": "2026-10-16T05:04:39.096Z"
+      },
+      "body": "County Council Public Hearing"
+    },
+    {
+      "dateISO": "2026-09-03",
+      "text": "A testifier said he hoped a school would be built to serve the 700 to 800 children in the new community.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UC-kpvvm-hQ",
+        "ts": "0:27:49",
+        "endTs": "0:28:19",
+        "retrievedISO": "2026-10-16T05:04:39.096Z"
+      },
+      "body": "County Council Public Hearing"
+    },
+    {
+      "dateISO": "2026-09-03",
+      "text": "He said the site is very close to the end of the runway.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UC-kpvvm-hQ",
+        "ts": "0:25:43",
+        "endTs": "0:26:13",
+        "retrievedISO": "2026-10-16T05:04:39.096Z"
+      },
+      "body": "County Council Public Hearing"
+    },
+    {
+      "dateISO": "2026-09-03",
+      "text": "A testifier said acting now is premature because the final environmental impact statement (EIS, a study of a project's effects) is not done.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UC-kpvvm-hQ",
+        "ts": "0:25:22",
+        "endTs": "0:25:52",
+        "retrievedISO": "2026-10-16T05:04:39.096Z"
+      },
+      "body": "County Council Public Hearing"
+    },
+    {
+      "dateISO": "2026-09-03",
+      "text": "Bill 163 CD1 would add a 163.443-acre portion of a parcel to the Maui Island Plan's urban growth boundary (the area planned for growth).",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UC-kpvvm-hQ",
+        "ts": "0:24:09",
+        "endTs": "0:24:39",
+        "retrievedISO": "2026-10-16T05:04:39.096Z"
+      },
+      "body": "County Council Public Hearing"
+    },
+    {
+      "dateISO": "2026-09-03",
+      "text": "Close public testimony at the beginning of the public hearing: The Council closed opening public testimony and accepted written testimony with no objections.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UC-kpvvm-hQ",
+        "ts": "0:24:01",
+        "endTs": "0:24:31",
+        "retrievedISO": "2026-10-16T05:04:39.096Z"
+      },
+      "body": "County Council Public Hearing"
+    },
+    {
+      "dateISO": "2026-09-03",
+      "text": "A caller said he would support the project if it were for people under 30% of the AMI (area median income).",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UC-kpvvm-hQ",
+        "ts": "0:22:00",
+        "endTs": "0:22:30",
+        "retrievedISO": "2026-10-16T05:04:39.096Z"
+      },
+      "body": "County Council Public Hearing"
+    },
+    {
+      "dateISO": "2026-09-03",
+      "text": "Another testifier said changing the zoning would be great.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UC-kpvvm-hQ",
+        "ts": "0:20:50",
+        "endTs": "0:21:20",
+        "retrievedISO": "2026-10-16T05:04:39.096Z"
+      },
+      "body": "County Council Public Hearing"
+    },
+    {
+      "dateISO": "2026-09-03",
+      "text": "A caller said the Clerk's Office did a poor job telling the public what this hearing was about.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UC-kpvvm-hQ",
+        "ts": "0:15:39",
+        "endTs": "0:16:16",
+        "retrievedISO": "2026-10-16T05:04:39.096Z"
+      },
+      "body": "County Council Public Hearing"
+    },
+    {
+      "dateISO": "2026-09-03",
+      "text": "A council member told a second testifier the bills were not about the overnight parking proposal she read about.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UC-kpvvm-hQ",
+        "ts": "0:14:12",
+        "endTs": "0:14:42",
+        "retrievedISO": "2026-10-16T05:04:39.096Z"
+      },
+      "body": "County Council Public Hearing"
+    },
+    {
+      "dateISO": "2026-09-03",
+      "text": "The first testifier asked council members to look closely at water use and land use.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UC-kpvvm-hQ",
+        "ts": "0:06:16",
+        "endTs": "0:06:46",
+        "retrievedISO": "2026-10-16T05:04:39.096Z"
+      },
+      "body": "County Council Public Hearing"
+    },
+    {
+      "dateISO": "2026-09-03",
+      "text": "The first testifier asked where the water for the development would come from.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UC-kpvvm-hQ",
+        "ts": "0:05:10",
+        "endTs": "0:05:40",
+        "retrievedISO": "2026-10-16T05:04:39.096Z"
+      },
+      "body": "County Council Public Hearing"
+    },
+    {
+      "dateISO": "2026-09-03",
+      "text": "The Council held a public hearing on Bills 163 CD1 and 164 CD1.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UC-kpvvm-hQ",
+        "ts": "0:00:29",
+        "endTs": "0:00:59",
+        "retrievedISO": "2026-10-16T05:04:39.096Z"
+      },
+      "body": "County Council Public Hearing"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Committee Chair Tamara Paltin announced the public hearing on the Maui Island Plan and Wailuku-Kahului Community Plan amendments for Hoʻonani Village.",
+      "basis": "reported",
+      "source": {
+        "type": "county-release",
+        "url": "https://mauicounty.us/press-release/public-hearing-scheduled-thursday-for-ho%CA%BBonani-village-affordable-housing-project/",
+        "publisher": "County of Maui",
+        "quote": "A public hearing on bills to update the Maui Island Plan and Wailuku-Kahului Community Plan for Central Maui's Hoʻonani Village Mixed Use Development is scheduled for Thursday at 4:30 p.m. online and in the Council Chamber, Councilmember Tamara Paltin announced today.",
+        "retrievedISO": "2026-10-25T01:47:00.291Z"
+      }
+    },
+    {
+      "dateISO": "2026-06-19",
+      "text": "A public hearing on Bill 163 is to be held on Maui before second and final reading.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lLsXXrEBmuw",
+        "ts": "0:36:14",
+        "endTs": "0:36:44",
+        "retrievedISO": "2026-10-16T18:09:11.606Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-06-19",
+      "text": "The bills would change the land's community plan designation from agriculture to business and multi-family.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lLsXXrEBmuw",
+        "ts": "0:36:01",
+        "endTs": "0:36:31",
+        "retrievedISO": "2026-10-16T18:09:11.606Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-06-19",
+      "text": "The council is considering bills to allow the Hoʻonani Village mixed-use project on 163.443 acres in Kahului.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lLsXXrEBmuw",
+        "ts": "0:35:35",
+        "endTs": "0:36:29",
+        "retrievedISO": "2026-10-16T18:09:11.606Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-06-19",
+      "text": "A testifier asked the council to wait for a final environmental impact statement before acting on Bills 163 and 164.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lLsXXrEBmuw",
+        "ts": "0:26:32",
+        "endTs": "0:27:58",
+        "retrievedISO": "2026-10-16T18:09:11.606Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "The Disaster Recovery, International Affairs, and Planning Committee recommended first-reading passage of Bills 163 and 164 (Committee Report 26-34) but held back companion zoning Bill 165 pending Land Use Commission review.",
+      "basis": "reported",
+      "source": {
+        "type": "other",
+        "url": "https://www.mauinews.com/news/local-news/2026/06/hoonani-village-mixed-use-development-gains-council-support/",
+        "publisher": "The Maui News",
+        "quote": "The committee held back Bill 165 proposing a change in zoning, pending a review by the state Land Use Commission.",
+        "retrievedISO": "2026-10-26T08:07:18.058Z"
+      }
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [
+    "Bill 163 (2026)",
+    "Bill 164 (2026)"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
