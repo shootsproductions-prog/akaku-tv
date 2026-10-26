@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-25T23:58:43.034Z",
-  "etag": "6538f10dd17a43f465c6135be124603902c2fc4a4e80d24a525ced7f917a161e",
+  "updatedAt": "2026-10-26T08:34:11.259Z",
+  "etag": "0f168c10ededc9574fcfb765f152f8596a99a3ee0761aa48a4e329f94e68bdb0",
   "count": 26,
   "meetings": [
     {
@@ -236,10 +236,11 @@
       "momentCount": 3,
       "issues": [
         "children-and-youth-commission-family-survey-findings",
+        "new-youth-advisory-group-launch",
         "youth-commission-list-of-county-funded-youth-programs"
       ],
-      "updatedAt": "2026-10-25T23:57:19.221Z",
-      "sha256": "5f1898cd2fb2e60d9821194b154a82d23a1c74f6fa4887b1ca2fff053de3e3f9"
+      "updatedAt": "2026-10-26T08:34:11.259Z",
+      "sha256": "110911dd91fe10a53ad6661ce2bcfe0b2e16a90f0a33704fb65e2876e4a6569b"
     },
     {
       "videoId": "jggU3kzKFQI",
