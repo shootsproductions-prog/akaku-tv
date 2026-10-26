@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T08:08:10.547Z",
+  "updatedAt": "2026-10-26T08:16:10.882Z",
   "count": 99,
   "issues": [
     {
@@ -7006,7 +7006,7 @@
       "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-07-24",
-      "lastSeenISO": "2026-08-31",
+      "lastSeenISO": "2026-10-12",
       "signals": {
         "meetingsLast30d": 0,
         "meetingsLast90d": 2,
@@ -7014,7 +7014,36 @@
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Water and Infrastructure Committee",
+          "group": "council",
+          "short": [
+            "WAI"
+          ]
+        },
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        }
+      ],
+      "bills": [
+        "Resolution 26-123"
+      ],
       "timeline": [
+        {
+          "dateISO": "2026-10-12",
+          "text": "After the Aug. 31 deferral, the resolution was still pending in the Water and Infrastructure Committee as of Oct. 12. It had not been reported out to the full Council or acted on at the committee's October meetings.",
+          "basis": "reported",
+          "source": {
+            "type": "county-page",
+            "url": "https://mauicounty.us/wp-content/uploads/2026/10/waiitems-as-of-October-12-2026.pdf",
+            "publisher": "Maui County Council",
+            "quote": "RESOLUTION 26-123, AUTHORIZING A WAIVER UNDER SECTION 2.50.060, MAUI COUNTY CODE, FROM THE REQUIREMENTS OF CODE SECTION 2.50.040, TO ALLOW FOR THE USE OF CERTAIN TYPES OF HERBICIDES IN VARIOUS LOCATIONS ON COUNTY PROPERTY.",
+            "retrievedISO": "2026-10-26T08:15:02.355Z"
+          }
+        },
         {
           "dateISO": "2026-08-31",
           "text": "The chair said the herbicide waiver will be deferred.",
@@ -7023,7 +7052,8 @@
             "type": "meeting",
             "videoId": "x1bWmSajuIM",
             "ts": "2:12:06",
-            "retrievedISO": "2026-10-16T12:27:11.063Z"
+            "retrievedISO": "2026-10-16T12:27:11.063Z",
+            "endTs": "2:12:36"
           },
           "body": "County Council Water and Infrastructure Committee"
         },
@@ -7035,7 +7065,8 @@
             "type": "meeting",
             "videoId": "x1bWmSajuIM",
             "ts": "2:09:37",
-            "retrievedISO": "2026-10-16T12:27:11.063Z"
+            "retrievedISO": "2026-10-16T12:27:11.063Z",
+            "endTs": "2:10:08"
           },
           "body": "County Council Water and Infrastructure Committee"
         },
@@ -7047,7 +7078,8 @@
             "type": "meeting",
             "videoId": "2oq6VqJ13h4",
             "ts": "1:32:23",
-            "retrievedISO": "2026-10-16T05:43:53.105Z"
+            "retrievedISO": "2026-10-16T05:43:53.105Z",
+            "endTs": "1:32:53"
           },
           "body": "County Council Water and Infrastructure Committee"
         },
@@ -7059,7 +7091,8 @@
             "type": "meeting",
             "videoId": "2oq6VqJ13h4",
             "ts": "1:30:00",
-            "retrievedISO": "2026-10-16T05:43:53.105Z"
+            "retrievedISO": "2026-10-16T05:43:53.105Z",
+            "endTs": "1:30:30"
           },
           "body": "County Council Water and Infrastructure Committee"
         },
@@ -7071,7 +7104,8 @@
             "type": "meeting",
             "videoId": "2oq6VqJ13h4",
             "ts": "1:03:30",
-            "retrievedISO": "2026-10-16T05:43:53.105Z"
+            "retrievedISO": "2026-10-16T05:43:53.105Z",
+            "endTs": "1:04:21"
           },
           "body": "County Council Water and Infrastructure Committee"
         },
@@ -7083,7 +7117,8 @@
             "type": "meeting",
             "videoId": "x1bWmSajuIM",
             "ts": "1:00:30",
-            "retrievedISO": "2026-10-16T12:27:11.063Z"
+            "retrievedISO": "2026-10-16T12:27:11.063Z",
+            "endTs": "1:01:14"
           },
           "body": "County Council Water and Infrastructure Committee"
         },
@@ -7095,7 +7130,8 @@
             "type": "meeting",
             "videoId": "2oq6VqJ13h4",
             "ts": "0:47:10",
-            "retrievedISO": "2026-10-16T05:43:53.105Z"
+            "retrievedISO": "2026-10-16T05:43:53.105Z",
+            "endTs": "0:47:40"
           },
           "body": "County Council Water and Infrastructure Committee"
         },
@@ -7107,9 +7143,22 @@
             "type": "meeting",
             "videoId": "2oq6VqJ13h4",
             "ts": "0:20:51",
-            "retrievedISO": "2026-10-16T05:43:53.105Z"
+            "retrievedISO": "2026-10-16T05:43:53.105Z",
+            "endTs": "0:21:33"
           },
           "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-16",
+          "text": "The Aug. 17 Water and Infrastructure Committee meeting where the waiver was first scheduled was canceled because of storm impacts, which is why it was heard on Aug. 31.",
+          "basis": "reported",
+          "source": {
+            "type": "other",
+            "url": "https://mauinow.com/2026/08/16/maui-committee-meetings-canceled-county-legislative-offices-closed-on-monday-aug-17/",
+            "publisher": "Maui Now",
+            "quote": "The Water Authority, Social Services and Parks Committee had been scheduled to meet at 10 a.m. followed by a Water and Infrastructure Committee meeting at 1:30 p.m., Lee said.",
+            "retrievedISO": "2026-10-26T08:15:15.213Z"
+          }
         },
         {
           "dateISO": "2026-07-24",
@@ -7119,13 +7168,28 @@
             "type": "meeting",
             "videoId": "7WOTHhYkCV0",
             "ts": "2:13:29",
-            "retrievedISO": "2026-10-16T17:08:42.619Z"
+            "retrievedISO": "2026-10-16T17:08:42.619Z",
+            "endTs": "2:14:50"
           },
           "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2021-01-01",
+          "text": "Under county code, a waiver request is automatically approved if the Council doesn't act on it by resolution within 180 days.",
+          "basis": "reported",
+          "source": {
+            "type": "county-page",
+            "url": "https://www.mauicounty.gov/DocumentCenter/View/128950/Ord-5242",
+            "publisher": "County of Maui",
+            "quote": "If the council fails to approve or disapprove a waiver application or waiver extension request by resolution within one hundred eighty days, the application or request will be automatically approved.",
+            "retrievedISO": "2026-10-26T08:15:11.238Z"
+          }
         }
       ],
       "sourceTypes": [
-        "meeting"
+        "county-page",
+        "meeting",
+        "other"
       ],
       "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
     },
@@ -10851,6 +10915,19 @@
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-25",
+      "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        },
+        {
+          "name": "Committee on Persons with Disabilities",
+          "group": "council",
+          "short": []
+        }
+      ],
+      "bills": [],
       "timeline": [
         {
           "dateISO": "2026-09-30",
@@ -10860,9 +10937,58 @@
             "type": "meeting",
             "videoId": "oZNc2fyyOPE",
             "ts": "0:19:47",
-            "retrievedISO": "2026-10-16T03:41:33.571Z"
+            "retrievedISO": "2026-10-16T03:41:33.571Z",
+            "endTs": "0:20:17"
           },
           "body": "County Council Special Meeting"
+        },
+        {
+          "dateISO": "2026-09-28",
+          "text": "The County said the Upcountry PSPS remained in effect and directed residents who needed power to charging sites.",
+          "basis": "reported",
+          "source": {
+            "type": "county-release",
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmSiYTLDn7ySJW7Mqb0wYZ_8NOVtcCRC84ybhwAOVPx4kOQIq4UTspFP10IOp-m-C030QHutq_0ODn7j7SzA6ZVkcQygIid4XgOJRCrQS8rhqAp2hVcZJI2c2T8CjcO3C0Sc1DFH4kpntCm_9D",
+            "publisher": "County of Maui",
+            "quote": "The Public Safety Power Shutoff, or PSPS, remains in effect in Upcountry Maui due to high winds, dry conditions and increased wildfire risk.",
+            "retrievedISO": "2026-10-26T08:14:49.934Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-28",
+          "text": "Hawaiian Electric restored power to Pukalani after a few hours and ended the PSPS watch.",
+          "basis": "reported",
+          "source": {
+            "type": "other",
+            "url": "https://www.hawaiianelectric.com/documents/about_us/news/2026/20260928_nolo_news_release_130pm.pdf",
+            "publisher": "Hawaiian Electric",
+            "quote": "For public safety, the company initiated its PSPS program and shut off power for a few hours yesterday in Pukalani, Maui, due to low humidity and high winds.",
+            "retrievedISO": "2026-10-26T08:14:56.559Z"
+          }
+        },
+        {
+          "dateISO": "2026-09-27",
+          "text": "Hawaiian Electric activated a PSPS in Pukalani, affecting about 485 customers.",
+          "basis": "reported",
+          "source": {
+            "type": "county-release",
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGJXSc4k82ybqIxbP78mpBAZ2WVztWkjPFZqPHsGCEIyUQTX1A482k-LBA5hAfH2tFjzEp7igdtmmCDa8QwJjTSgaPEZ9imWTqPfWLOhjRBgmrd8hVtHL-Xa9FWxJdG22YToL-nuuBbkLz_zOy",
+            "publisher": "County of Maui",
+            "quote": "Hawaiian Electric (HECO) announced today that it activated its Public Safety Power Shutoff, or PSPS, program in Pukalani because of high winds, dry conditions and increased wildfire risk, affecting about 485 customers.",
+            "retrievedISO": "2026-10-26T08:14:45.224Z"
+          }
+        },
+        {
+          "dateISO": "2026-02-10",
+          "text": "The County opened a temporary service site at Lahaina Civic Center during a PSPS in West Maui.",
+          "basis": "reported",
+          "source": {
+            "type": "county-release",
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxaI6VcPzQOuAnM03yd97-n4tRRml5fVbdv7PD_vNkiV695ga8dbVZRmME1PMBFXxQZAfwbWRsiJ2cLVPupHY0RAL3sTmeAnOv_eMdqng7d7d7mjO-6N3EZ5b2z1ztSq48rraqrmvc1LR8bCXr",
+            "publisher": "County of Maui",
+            "quote": "'s Public Safety Power Shutoff (PSPS), County of Maui departments are opening at 7 p.m. today a temporary service site at Lahaina Civic Center for West Maui residents needing to charge phones and other electronic devices.",
+            "retrievedISO": "2026-10-26T08:15:07.068Z"
+          }
         },
         {
           "dateISO": "2024-11-14",
@@ -10872,7 +10998,8 @@
             "type": "meeting",
             "videoId": "lh7UtxNLLFU",
             "ts": "0:32:58",
-            "retrievedISO": "2026-10-12T06:30:29.333Z"
+            "retrievedISO": "2026-10-12T06:30:29.333Z",
+            "endTs": "0:33:28"
           },
           "body": "Committee on Persons with Disabilities"
         },
@@ -10884,13 +11011,16 @@
             "type": "meeting",
             "videoId": "lh7UtxNLLFU",
             "ts": "0:27:29",
-            "retrievedISO": "2026-10-12T06:30:29.333Z"
+            "retrievedISO": "2026-10-12T06:30:29.333Z",
+            "endTs": "0:27:59"
           },
           "body": "Committee on Persons with Disabilities"
         }
       ],
       "sourceTypes": [
-        "meeting"
+        "meeting",
+        "county-release",
+        "other"
       ],
       "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
     },
@@ -13138,7 +13268,7 @@
       "status": "quiet",
       "pinned": false,
       "firstSeenISO": "2026-06-18",
-      "lastSeenISO": "2026-07-24",
+      "lastSeenISO": "2026-09-17",
       "signals": {
         "meetingsLast30d": 0,
         "meetingsLast90d": 0,
@@ -13171,6 +13301,18 @@
       ],
       "bills": [],
       "timeline": [
+        {
+          "dateISO": "2026-09-17",
+          "text": "GREAT Committee Chair Kauanoe Batangan announced that eight proposed charter amendments, including Resolutions 26-61, FD1 and 26-88, CD1, will be on the Nov. 3 general election ballot.",
+          "basis": "reported",
+          "source": {
+            "type": "county-release",
+            "url": "https://mauicounty.us/press-release/eight-proposed-maui-county-charter-amendments-to-be-on-general-election-ballot/",
+            "publisher": "Maui County Council",
+            "quote": "3 general election ballot will include eight proposed amendments to the Maui County Charter.",
+            "retrievedISO": "2026-10-26T08:15:19.021Z"
+          }
+        },
         {
           "dateISO": "2026-07-24",
           "text": "The charter amendment motion carried with eight ayes and one member excused.",
@@ -13368,6 +13510,7 @@
         }
       ],
       "sourceTypes": [
+        "county-release",
         "meeting"
       ],
       "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."

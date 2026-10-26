@@ -9,7 +9,7 @@
   "status": "quiet",
   "pinned": false,
   "firstSeenISO": "2026-06-18",
-  "lastSeenISO": "2026-07-24",
+  "lastSeenISO": "2026-09-17",
   "signals": {
     "meetingsLast30d": 0,
     "meetingsLast90d": 0,
@@ -42,6 +42,18 @@
   ],
   "bills": [],
   "timeline": [
+    {
+      "dateISO": "2026-09-17",
+      "text": "GREAT Committee Chair Kauanoe Batangan announced that eight proposed charter amendments, including Resolutions 26-61, FD1 and 26-88, CD1, will be on the Nov. 3 general election ballot.",
+      "basis": "reported",
+      "source": {
+        "type": "county-release",
+        "url": "https://mauicounty.us/press-release/eight-proposed-maui-county-charter-amendments-to-be-on-general-election-ballot/",
+        "publisher": "Maui County Council",
+        "quote": "3 general election ballot will include eight proposed amendments to the Maui County Charter.",
+        "retrievedISO": "2026-10-26T08:15:19.021Z"
+      }
+    },
     {
       "dateISO": "2026-07-24",
       "text": "The charter amendment motion carried with eight ayes and one member excused.",
@@ -239,6 +251,7 @@
     }
   ],
   "sourceTypes": [
+    "county-release",
     "meeting"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
