@@ -6,6 +6,7 @@
   "meetingDateISO": "2026-10-13",
   "headline": "Police Commission Places Chief Pelletier on Leave, Names Wayne Mikaele Acting Chief",
   "topics": [],
+  "bodyType": "board",
   "meeting": {
     "id": "JaWeI22GkDY",
     "mon": "Oct",
@@ -37,7 +38,12 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": [],
+    "trackerIssues": [
+      {
+        "slug": "investigation-of-police-criminal-intelligence-unit-oversight",
+        "title": "Investigation of police criminal intelligence unit oversight"
+      }
+    ],
     "boards": [
       {
         "name": "Police Commission",

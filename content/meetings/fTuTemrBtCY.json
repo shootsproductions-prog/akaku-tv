@@ -6,6 +6,7 @@
   "meetingDateISO": "2026-10-08",
   "headline": "Commission picks top-ranked finalist as new DPS director",
   "topics": [],
+  "bodyType": "board",
   "meeting": {
     "id": "fTuTemrBtCY",
     "mon": "Oct",
@@ -49,7 +50,12 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": [],
+    "trackerIssues": [
+      {
+        "slug": "search-for-new-department-of-personnel-services-director",
+        "title": "Search for new Department of Personnel Services director"
+      }
+    ],
     "boards": [
       {
         "name": "Civil Service Commission",

@@ -8,6 +8,7 @@
   "topics": [
     "Housing"
   ],
+  "bodyType": "board",
   "meeting": {
     "id": "bNmkTTI2aL0",
     "mon": "Sep",
@@ -47,7 +48,12 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": [],
+    "trackerIssues": [
+      {
+        "slug": "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p",
+        "title": "Ending apartment vacation rentals and hotel rezoning of 48 properties"
+      }
+    ],
     "boards": [
       {
         "name": "Maui Planning Commission",

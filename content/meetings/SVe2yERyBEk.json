@@ -9,6 +9,7 @@
     "Food Security",
     "Disaster Recovery"
   ],
+  "bodyType": "board",
   "meeting": {
     "id": "SVe2yERyBEk",
     "mon": "Sep",
@@ -51,6 +52,14 @@
       {
         "slug": "lahaina-banyan-tree-recovery",
         "title": "Lahaina banyan tree recovery"
+      },
+      {
+        "slug": "kula-burn-scar-fencing-and-native-replanting",
+        "title": "Kula burn scar fencing and native replanting"
+      },
+      {
+        "slug": "exceptional-tree-list-update-after-the-fire",
+        "title": "Exceptional tree list update after the fire"
       },
       {
         "slug": "lahaina-tree-program-fruit-forest-with-county-parks",

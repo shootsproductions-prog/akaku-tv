@@ -8,6 +8,7 @@
   "topics": [
     "Disaster Recovery"
   ],
+  "bodyType": "board",
   "meeting": {
     "id": "fDPADbFyXaI",
     "mon": "Sep",
@@ -43,7 +44,16 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": [],
+    "trackerIssues": [
+      {
+        "slug": "mema-community-resiliency-hub-network-plan",
+        "title": "MEMA community resiliency hub network plan"
+      },
+      {
+        "slug": "new-county-emergency-operations-center",
+        "title": "New county emergency operations center"
+      }
+    ],
     "boards": [
       {
         "name": "Maui Fire & Public Safety Commission",

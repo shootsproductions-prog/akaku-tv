@@ -8,6 +8,7 @@
   "topics": [
     "Disaster Recovery"
   ],
+  "bodyType": "board",
   "meeting": {
     "id": "JbnNdXeWXNo",
     "mon": "Sep",
@@ -65,6 +66,14 @@
       {
         "slug": "aloha-spirits-brewery-liquor-license-and-zoning-limits",
         "title": "Aloha Spirits brewery liquor license and zoning limits"
+      },
+      {
+        "slug": "emergency-rule-for-relocating-fire-destroyed-liquor-licenses",
+        "title": "Emergency rule for relocating fire-destroyed liquor licenses"
+      },
+      {
+        "slug": "full-rewrite-of-county-liquor-rules",
+        "title": "Full rewrite of county liquor rules"
       },
       {
         "slug": "liquor-rule-changes-to-speed-restaurant-applications",

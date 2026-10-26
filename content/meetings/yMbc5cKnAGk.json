@@ -6,6 +6,7 @@
   "meetingDateISO": "2026-10-07",
   "headline": "Civil Service Commission",
   "topics": [],
+  "bodyType": "board",
   "meeting": {
     "id": "yMbc5cKnAGk",
     "mon": "Oct",
@@ -46,7 +47,12 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": [],
+    "trackerIssues": [
+      {
+        "slug": "search-for-new-department-of-personnel-services-director",
+        "title": "Search for new Department of Personnel Services director"
+      }
+    ],
     "boards": [
       {
         "name": "Civil Service Commission",

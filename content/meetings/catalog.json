@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-26T08:34:11.259Z",
-  "etag": "0f168c10ededc9574fcfb765f152f8596a99a3ee0761aa48a4e329f94e68bdb0",
+  "updatedAt": "2026-10-26T08:38:17.423Z",
+  "etag": "f4b8dafc35b416d60b8c11e89057735a3169048f0154740261e5899166528a06",
   "count": 26,
   "meetings": [
     {
@@ -29,9 +29,11 @@
       "dur": "3 m",
       "voteCount": 0,
       "momentCount": 3,
-      "issues": [],
-      "updatedAt": "2026-10-25T23:57:19.221Z",
-      "sha256": "13e2b8435e72f4e6ff586510499e6b5460a7694a00e1c16c8010b34699232372"
+      "issues": [
+        "investigation-of-police-criminal-intelligence-unit-oversight"
+      ],
+      "updatedAt": "2026-10-26T08:38:17.423Z",
+      "sha256": "1308bb30db91e4a26d9cff5eec55d6f44a8cf481fdcf3dc5079d5bc3426ca475"
     },
     {
       "videoId": "fTuTemrBtCY",
@@ -44,9 +46,11 @@
       "dur": "31 m",
       "voteCount": 0,
       "momentCount": 5,
-      "issues": [],
-      "updatedAt": "2026-10-25T23:57:19.221Z",
-      "sha256": "4d1bdf8a938c840421c3c61259d21ddd46575f4d37ea0373ea8da7ad6ae1fb1c"
+      "issues": [
+        "search-for-new-department-of-personnel-services-director"
+      ],
+      "updatedAt": "2026-10-26T08:38:17.423Z",
+      "sha256": "35d77205cc4c9ccb5f7541400da6656d844d310a2d5d6c8d8ea55cc4bde64d29"
     },
     {
       "videoId": "Y-qSflW1MSA",
@@ -59,9 +63,11 @@
       "dur": "1 h 26 m",
       "voteCount": 0,
       "momentCount": 4,
-      "issues": [],
-      "updatedAt": "2026-10-25T23:57:19.221Z",
-      "sha256": "0e469be166976d5579c714ecaf1b1d64473ffd73842bf17370df8fa2aae8b09c"
+      "issues": [
+        "county-cyber-security-after-malware-disruption"
+      ],
+      "updatedAt": "2026-10-26T08:38:17.423Z",
+      "sha256": "a407ddd51e127e3c022ea5e7989368916776357f21c516a6844993494c8a0d20"
     },
     {
       "videoId": "JURbN1Cr2OE",
@@ -75,10 +81,11 @@
       "voteCount": 0,
       "momentCount": 4,
       "issues": [
+        "investigation-of-police-criminal-intelligence-unit-oversight",
         "fireworks-damage-complaint-before-police-commission"
       ],
-      "updatedAt": "2026-10-25T23:57:19.221Z",
-      "sha256": "7c09a47adf915884c5cb0dc21e157c997d1e527b13566c8337146d1b9f3e868d"
+      "updatedAt": "2026-10-26T08:38:17.423Z",
+      "sha256": "08f5ee4d321d189f6600b736711a9b4a20497df2459697f69b7ea57466156107"
     },
     {
       "videoId": "yMbc5cKnAGk",
@@ -91,9 +98,11 @@
       "dur": "22 m",
       "voteCount": 0,
       "momentCount": 4,
-      "issues": [],
-      "updatedAt": "2026-10-25T23:57:19.221Z",
-      "sha256": "017bc477cd36feca1add578a445bd20782c8a9d042cf5f42dc62e48cf9647418"
+      "issues": [
+        "search-for-new-department-of-personnel-services-director"
+      ],
+      "updatedAt": "2026-10-26T08:38:17.423Z",
+      "sha256": "766ff74aec9b26f6f77f5a1d1c33bc807f40d9e0073d85f9558a9125050da813"
     },
     {
       "videoId": "ea2l7ovZtF8",
@@ -136,9 +145,11 @@
       "dur": "3 h 54 m",
       "voteCount": 0,
       "momentCount": 3,
-      "issues": [],
-      "updatedAt": "2026-10-25T23:57:19.221Z",
-      "sha256": "1d6db5e8df3ecd32735f301a65659a26a7ebca45a1a024da66521ef1931b4f38"
+      "issues": [
+        "search-for-new-department-of-personnel-services-director"
+      ],
+      "updatedAt": "2026-10-26T08:38:17.423Z",
+      "sha256": "28c993fdef053ece1b916828063698b108986ca5366114c14175208a64b89174"
     },
     {
       "videoId": "H9lx2zorcDM",
@@ -151,9 +162,11 @@
       "dur": "27 m",
       "voteCount": 0,
       "momentCount": 4,
-      "issues": [],
-      "updatedAt": "2026-10-25T23:57:19.221Z",
-      "sha256": "a57269dec1fb221f54ede64061de919ad8517f17ff8414672319d91a86187a8a"
+      "issues": [
+        "search-for-new-department-of-personnel-services-director"
+      ],
+      "updatedAt": "2026-10-26T08:38:17.423Z",
+      "sha256": "567a1c730b0efbbd76b267a3ea01f3b4a9459a81a3562de3c7d9ba2c3b7fbcf2"
     },
     {
       "videoId": "5tSUVNooio0",
@@ -202,9 +215,11 @@
       "dur": "8 h 17 m",
       "voteCount": 0,
       "momentCount": 4,
-      "issues": [],
-      "updatedAt": "2026-10-25T23:57:19.221Z",
-      "sha256": "e304a139f638e588df3fa764f75545a62182394c60f2af3c2caba5537c889315"
+      "issues": [
+        "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p"
+      ],
+      "updatedAt": "2026-10-26T08:38:17.423Z",
+      "sha256": "4c512841d8e1d99a3b28e1a1533050b2478937df51e31dacc5eeb9e3bb28a5aa"
     },
     {
       "videoId": "0NdqPwWtF4o",
@@ -271,9 +286,12 @@
       "dur": "1 h 29 m",
       "voteCount": 0,
       "momentCount": 3,
-      "issues": [],
-      "updatedAt": "2026-10-25T23:57:19.221Z",
-      "sha256": "1f21853ac1adeb0fb4145148901ef1e2ea93e1ca7e79ee66ac5dbecd69b68bd6"
+      "issues": [
+        "mema-community-resiliency-hub-network-plan",
+        "new-county-emergency-operations-center"
+      ],
+      "updatedAt": "2026-10-26T08:38:17.423Z",
+      "sha256": "d2167e8fe62c1a9ef74423e13d035cb1d3e81793e13d918db711bfb7e32cde77"
     },
     {
       "videoId": "mJyIAre9As4",
@@ -287,10 +305,11 @@
       "voteCount": 0,
       "momentCount": 5,
       "issues": [
-        "central-maui-desalination-study-and-report-release"
+        "central-maui-desalination-study-and-report-release",
+        "limits-on-new-swimming-pools-in-west-maui"
       ],
-      "updatedAt": "2026-10-25T23:57:19.221Z",
-      "sha256": "41d96af36f0671b5edf2e1b733c45816c42ea7308d4445bf0a2b73e70c9fe73c"
+      "updatedAt": "2026-10-26T08:38:17.423Z",
+      "sha256": "8611aa140947144c91ff664590d505ac7fcbcd8805fd3a54a151a1a6948f7a34"
     },
     {
       "videoId": "pNKa-YoxirU",
@@ -380,10 +399,12 @@
       "issues": [
         "liquor-control-director-retirement-and-replacement-search",
         "aloha-spirits-brewery-liquor-license-and-zoning-limits",
+        "emergency-rule-for-relocating-fire-destroyed-liquor-licenses",
+        "full-rewrite-of-county-liquor-rules",
         "liquor-rule-changes-to-speed-restaurant-applications"
       ],
-      "updatedAt": "2026-10-25T23:57:19.221Z",
-      "sha256": "1af9ab3c2b6345102191e66173bfd2eed8c6023c1c4ca981c4afac03024b178b"
+      "updatedAt": "2026-10-26T08:38:17.423Z",
+      "sha256": "9269e76b89c9d1c2c9b8a113814e83b5bc9983558d42c37b859b7b3b836da9f0"
     },
     {
       "videoId": "SVe2yERyBEk",
@@ -398,10 +419,12 @@
       "momentCount": 4,
       "issues": [
         "lahaina-banyan-tree-recovery",
+        "kula-burn-scar-fencing-and-native-replanting",
+        "exceptional-tree-list-update-after-the-fire",
         "lahaina-tree-program-fruit-forest-with-county-parks"
       ],
-      "updatedAt": "2026-10-25T23:57:19.221Z",
-      "sha256": "6bbbd0e6b4dbc3e793856a27a8e767279dcdea8f59e19460b15ca6e189cbfeb8"
+      "updatedAt": "2026-10-26T08:38:17.423Z",
+      "sha256": "ad7ee4273fe79f3ca8d848a821057b947971015a6e32f6a50cf46a3c16877571"
     },
     {
       "videoId": "x2IjROxHuYY",

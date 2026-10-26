@@ -6,6 +6,7 @@
   "meetingDateISO": "2026-09-28",
   "headline": "Commission sets interview plan for new department director",
   "topics": [],
+  "bodyType": "board",
   "meeting": {
     "id": "H9lx2zorcDM",
     "mon": "Sep",
@@ -45,7 +46,12 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": [],
+    "trackerIssues": [
+      {
+        "slug": "search-for-new-department-of-personnel-services-director",
+        "title": "Search for new Department of Personnel Services director"
+      }
+    ],
     "boards": [
       {
         "name": "Civil Service Commission",

@@ -8,6 +8,7 @@
   "topics": [
     "Disaster Recovery"
   ],
+  "bodyType": "board",
   "meeting": {
     "id": "Y-qSflW1MSA",
     "mon": "Oct",
@@ -47,7 +48,12 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": [],
+    "trackerIssues": [
+      {
+        "slug": "county-cyber-security-after-malware-disruption",
+        "title": "County cyber security after malware disruption"
+      }
+    ],
     "boards": [],
     "bills": []
   },

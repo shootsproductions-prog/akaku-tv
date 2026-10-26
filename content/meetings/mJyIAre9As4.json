@@ -8,6 +8,7 @@
   "topics": [
     "Water"
   ],
+  "bodyType": "board",
   "meeting": {
     "id": "mJyIAre9As4",
     "mon": "Sep",
@@ -55,6 +56,10 @@
       {
         "slug": "central-maui-desalination-study-and-report-release",
         "title": "Central Maui desalination study and report release"
+      },
+      {
+        "slug": "limits-on-new-swimming-pools-in-west-maui",
+        "title": "Limits on new swimming pools in West Maui"
       }
     ],
     "boards": [

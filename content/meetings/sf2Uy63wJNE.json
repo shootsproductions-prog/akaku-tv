@@ -6,6 +6,7 @@
   "meetingDateISO": "2026-09-30",
   "headline": "Civil Service Commission Interviews 3 DPS Director Candidates",
   "topics": [],
+  "bodyType": "board",
   "meeting": {
     "id": "sf2Uy63wJNE",
     "mon": "Sep",
@@ -41,7 +42,12 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": [],
+    "trackerIssues": [
+      {
+        "slug": "search-for-new-department-of-personnel-services-director",
+        "title": "Search for new Department of Personnel Services director"
+      }
+    ],
     "boards": [
       {
         "name": "Civil Service Commission",

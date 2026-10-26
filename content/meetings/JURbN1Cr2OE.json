@@ -6,6 +6,7 @@
   "meetingDateISO": "2026-10-07",
   "headline": "Maui Police Commission Places Chief Pelletier on Leave",
   "topics": [],
+  "bodyType": "board",
   "meeting": {
     "id": "JURbN1Cr2OE",
     "mon": "Oct",
@@ -51,6 +52,10 @@
     ],
     "bodyType": "board",
     "trackerIssues": [
+      {
+        "slug": "investigation-of-police-criminal-intelligence-unit-oversight",
+        "title": "Investigation of police criminal intelligence unit oversight"
+      },
       {
         "slug": "fireworks-damage-complaint-before-police-commission",
         "title": "Fireworks damage complaint before Police Commission"
