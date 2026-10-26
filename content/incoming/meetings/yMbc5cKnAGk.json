@@ -1,0 +1,69 @@
+{
+  "videoId": "yMbc5cKnAGk",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-11T05:47:59.118Z",
+  "meetingDateISO": "2026-10-07",
+  "source": {
+    "youtubeUrl": "https://youtu.be/yMbc5cKnAGk"
+  },
+  "topics": [],
+  "headline": "Civil Service Commission",
+  "meeting": {
+    "id": "yMbc5cKnAGk",
+    "mon": "Oct",
+    "day": "7",
+    "date": "Wed, Oct 7, 2026",
+    "body": "Civil Service Commission",
+    "dur": "22 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The Civil Service Commission approved minutes, deferred the director selection, and recessed until October 8 at 3 p.m.",
+    "recap": "The vice chair led the Civil Service Commission meeting on October 7, 2026.[[0:00:35]] The commission chair was excused from this meeting.[[0:02:10]] No one testified in person or online at the start of the meeting.[[0:02:49]] The commission approved the minutes from three September meetings.[[0:04:13]] The selection of a new director of personnel services was put off because the chair was not present.[[0:05:26]] A discussion of how the director's job performance will be reviewed was also put off until a new director is chosen.[[0:07:24]] The acting director said the Department of Personnel Services finished its annual report and sent it to the department of management.[[0:08:03]] The acting director said the county does not do enough exit interviews to learn why employees leave.[[0:10:14]] The acting director said the department had more staff turnover than it usually sees.[[0:13:03]] Ocean safety officers will get the first of four arbitration award payments on the October 15th paycheck.[[0:13:19]] A union filed a formal complaint against the employer group over proposed travel language in an agreement.[[0:14:05]] The commission's secretary is leaving, and this was her last meeting.[[0:17:36]] The next regular meeting is scheduled for November 4th, 2026.[[0:19:13]]",
+    "decided": [
+      "The commission approved the minutes of three September meetings as submitted.",
+      "deliberation on selecting a new director of personnel services: The selection of a new director of personnel services was deferred because the chair was absent.",
+      "performance evaluation timetable and procedure for the director of personnel services: The discussion of the director's performance evaluation timetable was deferred until a new director is selected.",
+      "The vice chair announced the meeting is recessed until October 8th at 3 p.m."
+    ],
+    "next": "A deputy corporation counsel attorney has been assigned to the union complaint.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:05:26",
+        "q": "Director selection deferred to October 8 meeting"
+      },
+      {
+        "t": "0:10:18",
+        "q": "\"we don't do enough exit interviews to find out why employees are leaving\""
+      },
+      {
+        "t": "0:13:19",
+        "q": "Ocean safety officers' arbitration award payments"
+      },
+      {
+        "t": "0:17:36",
+        "q": "Farewell to the commission secretary"
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "search-for-new-department-of-personnel-services-director",
+        "title": "Search for new Department of Personnel Services director"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Civil Service Commission",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "board"
+}

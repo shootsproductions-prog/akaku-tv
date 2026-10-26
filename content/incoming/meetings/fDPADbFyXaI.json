@@ -1,0 +1,70 @@
+{
+  "videoId": "fDPADbFyXaI",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-07T23:14:29.362Z",
+  "meetingDateISO": "2026-09-17",
+  "source": {
+    "youtubeUrl": "https://youtu.be/fDPADbFyXaI"
+  },
+  "topics": [
+    "Disaster Recovery"
+  ],
+  "headline": "Maui Fire & Public Safety Commission",
+  "meeting": {
+    "id": "fDPADbFyXaI",
+    "mon": "Sep",
+    "day": "17",
+    "date": "Thu, Sep 17, 2026",
+    "body": "Maui Fire & Public Safety Commission",
+    "dur": "1 h 29 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The Fire and Public Safety Commission approved its fiscal year 2026 annual report and heard emergency management, fire department and fire shop updates.",
+    "recap": "The Fire and Public Safety Commission met on Thursday, September 17th.[[0:00:30]] Commissioners approved the minutes of a past regular meeting by roll call vote.[[0:06:23]] The commission approved its fiscal year 2026 annual report, with one correction to how a commissioner is listed.[[0:10:51]] The chair said the report is due September 28th.[[0:11:55]] MEMA's administrator said the agency hopes its new emergency operations center will be running by October 1st.[[0:18:35]] MEMA has picked a contractor to write a strategic plan for a community resiliency hub network.[[0:20:19]] An assistant chief said a study on a fire department dispatch center should report later this year or early next year.[[0:57:03]] The department will start a fifth round of interviews for a safety specialist.[[1:02:16]] The fire equipment superintendent said the fire shop services over 220 pieces of equipment.[[1:11:41]] The meeting adjourned at 11:28.[[1:29:01]]",
+    "decided": [
+      "The commission approved the minutes as presented by roll call vote.",
+      "The commission approved its fiscal year 2026 annual report on activities with one correction.",
+      "The meeting was adjourned at 11:28 after a motion and a second."
+    ],
+    "next": "The chair said the approved annual report will be forwarded to the mayor. MEMA's administrator said his agency's annual report will be available at the next commission meeting. The chair raised holding a future commission meeting at the new emergency operations center. The commission will get a report on large equipment bids next month.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:11:27",
+        "q": "Annual report approved"
+      },
+      {
+        "t": "0:40:38",
+        "q": "Haʻikū Fire Station update"
+      },
+      {
+        "t": "1:09:04",
+        "q": "Fire shop presentation begins"
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "mema-community-resiliency-hub-network-plan",
+        "title": "MEMA community resiliency hub network plan"
+      },
+      {
+        "slug": "new-county-emergency-operations-center",
+        "title": "New county emergency operations center"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Maui Fire & Public Safety Commission",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "board"
+}

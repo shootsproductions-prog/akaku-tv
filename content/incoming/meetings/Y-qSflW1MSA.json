@@ -1,0 +1,64 @@
+{
+  "videoId": "Y-qSflW1MSA",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-13T06:37:44.271Z",
+  "meetingDateISO": "2026-10-08",
+  "source": {
+    "youtubeUrl": "https://youtu.be/Y-qSflW1MSA"
+  },
+  "topics": [
+    "Disaster Recovery"
+  ],
+  "headline": "Budget & Finance COG",
+  "meeting": {
+    "id": "Y-qSflW1MSA",
+    "mon": "Oct",
+    "day": "8",
+    "date": "Thu, Oct 8, 2026",
+    "body": "Budget & Finance COG",
+    "dur": "1 h 26 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The Cost of Government Commission heard from county technology and council staff on cybersecurity and AI, and approved its minutes.",
+    "recap": "The Cost of Government Commission met October 8, 2026, with five members present.[[0:00:38]] Members approved the September 10, 2026 minutes with five ayes.[[0:05:12]] The county's chief technology officer said the county uses a multi-layered cybersecurity approach.[[0:10:07]] The council services director said someone tried to hack the council's website that morning.[[0:16:50]] Detailed system setup questions were held for an executive session (a closed-door discussion).[[0:25:15]] Council services staff should not use personal email or phones for county business, its director said.[[0:52:13]] A commissioner said a county community meeting in Lahaina had no sound online for about 15 minutes.[[1:08:06]] The technology officer said the comments would go to the county's recovery and communications teams.[[1:09:44]] The commissioner said text alerts with links do not help when power and internet are out.[[1:11:20]] The chair said leftover questions may go to a future executive session, possibly in November, or correspondence.[[1:23:35]] The chair proposed moving other items, including a pension fund deficit inquiry, to the next meeting.[[1:24:53]] The meeting adjourned at 10:29 a.m.[[1:25:45]]",
+    "decided": [
+      "The agenda was confirmed with no changes and no objections.",
+      "The commission approved the September 10, 2026 meeting minutes.",
+      "The meeting was adjourned with no objections."
+    ],
+    "next": "The technology officer said a list of the county's cybersecurity certifications would be provided. The technology officer will share the commissioner's comments with the recovery and communications teams. Commissioners are asked to send remaining questions to the chair, copying the commission's email. Remaining agenda topics are to be taken up at the next meeting.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:16:50",
+        "q": "\"somebody was trying to hack into our WordPress site\""
+      },
+      {
+        "t": "0:30:16",
+        "q": "\"Would you say that your approach is zero trust?\" \"Yes.\""
+      },
+      {
+        "t": "0:38:42",
+        "q": "\"as soon as we issue this policy, it's going to be outdated\""
+      },
+      {
+        "t": "1:08:06",
+        "q": "Commissioner describes no sound on Lahaina recovery meeting stream"
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "county-cyber-security-after-malware-disruption",
+        "title": "County cyber security after malware disruption"
+      }
+    ],
+    "boards": [],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "board"
+}
