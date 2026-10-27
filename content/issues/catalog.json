@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T12:26:11.920Z",
+  "updatedAt": "2026-10-27T19:26:11.613Z",
   "count": 155,
   "issues": [
     {
@@ -6628,7 +6628,7 @@
     {
       "slug": "aloha-spirits-brewery-liquor-license-and-zoning-limits",
       "title": "Aloha Spirits brewery liquor license and zoning limits",
-      "summary": "As of September 9, 2026, no liquor license will be issued to the brewery until it meets the zoning clearance requirement. Staff said the Planning Department raised new zoning questions about one applicant's planned uses. The applicant's attorney said zoning may not allow selling kegs or cases to stores, restaurants or bars.",
+      "summary": "The commission accepted the Aloha Spirits Brewing and Distilling liquor license application on September 9, but staff said the Planning Department has raised new zoning questions about the applicant's planned uses. The department is awaiting written confirmation of what the brewery may do at its location, and zoning may not allow selling kegs or cases to stores, restaurants or bars. No license will be issued until the zoning clearance requirement is met.",
       "topics": [
         "economy",
         "land-use"
@@ -6655,6 +6655,45 @@
       "timeline": [
         {
           "dateISO": "2026-09-09",
+          "text": "New liquor license application number seven (Aloha Spirits Brewing and Distilling): The commission accepted the Aloha Spirits Brewing and Distilling application, with zoning among the requirements still to be met.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vp8RrdPVBC0",
+            "ts": "1:06:59",
+            "retrievedISO": "2026-10-07T23:03:59.641Z",
+            "endTs": "1:08:00"
+          },
+          "body": "Liquor Control Commission"
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "A motion to go into executive session (a closed-door discussion) about county liability failed, four to three.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vp8RrdPVBC0",
+            "ts": "1:04:28",
+            "retrievedISO": "2026-10-07T23:03:59.641Z",
+            "endTs": "1:05:34"
+          },
+          "body": "Liquor Control Commission"
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "Staff said zoning may not let a brewery pub applicant sell beer directly to wholesalers, restaurants or stores.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vp8RrdPVBC0",
+            "ts": "0:37:06",
+            "retrievedISO": "2026-10-07T23:03:59.641Z",
+            "endTs": "0:37:41"
+          },
+          "body": "Liquor Control Commission"
+        },
+        {
+          "dateISO": "2026-09-09",
           "text": "No liquor license will be issued to the brewery until it meets the zoning clearance requirement.",
           "basis": "said-at-meeting",
           "source": {
@@ -6676,6 +6715,19 @@
             "ts": "0:31:26",
             "retrievedISO": "2026-10-07T23:03:46.572Z",
             "endTs": "0:32:19"
+          },
+          "body": "Liquor Control Commission"
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "The department is waiting for the planning department to confirm in writing what the brewery may do at its location.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vp8RrdPVBC0",
+            "ts": "0:29:59",
+            "retrievedISO": "2026-10-07T23:03:59.641Z",
+            "endTs": "0:30:29"
           },
           "body": "Liquor Control Commission"
         },
@@ -11390,18 +11442,18 @@
     {
       "slug": "liquor-control-director-retirement-and-replacement-search",
       "title": "Liquor Control director retirement and replacement search",
-      "summary": "The Liquor Control Commission voted unanimously on September 21 to use an open application process and to create a temporary investigative group to find a new director. That group will hire a search firm to gather, screen and rank applications, and November 23 is held for a possible special meeting to prepare for interviews. The director announced his retirement, and the last search took about eight months.",
+      "summary": "At a September 21 special meeting, the Liquor Control Commission voted unanimously for an open application process and for a temporary investigative group to hire a search firm and gather, screen and rank applicants. The director announced September 9 that he will retire December 31. The last search took about eight months, and November 23 is held for a possible interview-prep meeting.",
       "topics": [
         "government",
         "public-safety"
       ],
       "status": "active",
       "pinned": false,
-      "firstSeenISO": "2026-09-21",
+      "firstSeenISO": "2026-09-09",
       "lastSeenISO": "2026-09-21",
       "signals": {
         "meetingsLast30d": 0,
-        "meetingsLast90d": 1,
+        "meetingsLast90d": 2,
         "mentionsLast30d": 0,
         "upcomingEvent": {
           "dateISO": "2026-11-23",
@@ -11553,6 +11605,32 @@
             "endTs": "0:01:02"
           },
           "body": "Liquor Control Commission"
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "A special meeting is set for September 21 at 1:30 p.m. to discuss how to find a new director.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vp8RrdPVBC0",
+            "ts": "1:40:09",
+            "retrievedISO": "2026-10-07T23:03:59.641Z",
+            "endTs": "1:41:02"
+          },
+          "body": "Liquor Control Commission"
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "The department director said he will retire, with December 31 as his last day.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vp8RrdPVBC0",
+            "ts": "1:37:11",
+            "retrievedISO": "2026-10-07T23:03:59.641Z",
+            "endTs": "1:37:47"
+          },
+          "body": "Liquor Control Commission"
         }
       ],
       "sourceTypes": [
@@ -11588,6 +11666,19 @@
       ],
       "bills": [],
       "timeline": [
+        {
+          "dateISO": "2026-09-09",
+          "text": "The department will ask corporation counsel (the county's lawyers) for advice on signature and notarization rules.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vp8RrdPVBC0",
+            "ts": "2:46:42",
+            "retrievedISO": "2026-10-07T23:03:59.641Z",
+            "endTs": "2:47:17"
+          },
+          "body": "Liquor Control Commission"
+        },
         {
           "dateISO": "2026-09-09",
           "text": "Staff will ask Corporation Counsel for legal advice on all forms that require notarization.",
@@ -22841,7 +22932,7 @@
     {
       "slug": "emergency-rule-for-relocating-fire-destroyed-liquor-licenses",
       "title": "Emergency rule for relocating fire-destroyed liquor licenses",
-      "summary": "On September 9, 2026, the commission voted unanimously to reauthorize its emergency rule on liquor license relocation for premises destroyed in the August 2023 wildfires. The rule lets an applicant ask for a hearing before the commission to make the case for using a relocation application. In November 2024, the commission approved a renewed version that added a paragraph number six missing the month before.",
+      "summary": "On September 9, 2026, the commission unanimously approved the seventh reauthorization of its emergency rule on relocating liquor licenses for premises destroyed in the August 2023 wildfires. The rule lets an applicant ask for a commission hearing to make the case for a relocation application. The liquor department had said 36 licensed businesses were destroyed or unable to operate.",
       "topics": [
         "disaster-recovery",
         "economy"
@@ -22866,6 +22957,45 @@
       ],
       "bills": [],
       "timeline": [
+        {
+          "dateISO": "2026-09-09",
+          "text": "The commission approved the reauthorization unanimously.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vp8RrdPVBC0",
+            "ts": "2:00:55",
+            "retrievedISO": "2026-10-07T23:03:59.641Z",
+            "endTs": "2:01:36"
+          },
+          "body": "Liquor Control Commission"
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "The item was the seventh reauthorization of the emergency rule.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vp8RrdPVBC0",
+            "ts": "2:00:44",
+            "retrievedISO": "2026-10-07T23:03:59.641Z",
+            "endTs": "2:01:14"
+          },
+          "body": "Liquor Control Commission"
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "Seventh reauthorization of emergency rule on relocating liquor licenses: The commission approved the seventh reauthorization of the emergency rule for premises destroyed in the August 2023 wildfires.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vp8RrdPVBC0",
+            "ts": "2:00:03",
+            "retrievedISO": "2026-10-07T23:03:59.641Z",
+            "endTs": "2:01:36"
+          },
+          "body": "Liquor Control Commission"
+        },
         {
           "dateISO": "2026-09-09",
           "text": "The vote to reauthorize the rule was unanimous.",
@@ -26451,6 +26581,32 @@
       ],
       "bills": [],
       "timeline": [
+        {
+          "dateISO": "2026-09-09",
+          "text": "An updated draft of the full rules rewrite will be back on next month's agenda.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vp8RrdPVBC0",
+            "ts": "2:25:07",
+            "retrievedISO": "2026-10-07T23:03:59.641Z",
+            "endTs": "2:25:42"
+          },
+          "body": "Liquor Control Commission"
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "Commissioners agreed to pause new rule changes while the department updates a full rewrite of the liquor rules.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vp8RrdPVBC0",
+            "ts": "2:22:20",
+            "retrievedISO": "2026-10-07T23:03:59.641Z",
+            "endTs": "2:22:50"
+          },
+          "body": "Liquor Control Commission"
+        },
         {
           "dateISO": "2026-09-09",
           "text": "Commissioners said they would pause new rule changes until the new rule book is adopted.",

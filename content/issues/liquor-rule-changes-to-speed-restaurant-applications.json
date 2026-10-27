@@ -28,6 +28,19 @@
   "timeline": [
     {
       "dateISO": "2026-09-09",
+      "text": "The department will ask corporation counsel (the county's lawyers) for advice on signature and notarization rules.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "vp8RrdPVBC0",
+        "ts": "2:46:42",
+        "retrievedISO": "2026-10-07T23:03:59.641Z",
+        "endTs": "2:47:17"
+      },
+      "body": "Liquor Control Commission"
+    },
+    {
+      "dateISO": "2026-09-09",
       "text": "Staff will ask Corporation Counsel for legal advice on all forms that require notarization.",
       "basis": "said-at-meeting",
       "source": {

@@ -1,18 +1,18 @@
 {
   "slug": "liquor-control-director-retirement-and-replacement-search",
   "title": "Liquor Control director retirement and replacement search",
-  "summary": "The Liquor Control Commission voted unanimously on September 21 to use an open application process and to create a temporary investigative group to find a new director. That group will hire a search firm to gather, screen and rank applications, and November 23 is held for a possible special meeting to prepare for interviews. The director announced his retirement, and the last search took about eight months.",
+  "summary": "At a September 21 special meeting, the Liquor Control Commission voted unanimously for an open application process and for a temporary investigative group to hire a search firm and gather, screen and rank applicants. The director announced September 9 that he will retire December 31. The last search took about eight months, and November 23 is held for a possible interview-prep meeting.",
   "topics": [
     "government",
     "public-safety"
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-09-21",
+  "firstSeenISO": "2026-09-09",
   "lastSeenISO": "2026-09-21",
   "signals": {
     "meetingsLast30d": 0,
-    "meetingsLast90d": 1,
+    "meetingsLast90d": 2,
     "mentionsLast30d": 0,
     "upcomingEvent": {
       "dateISO": "2026-11-23",
@@ -162,6 +162,32 @@
         "ts": "0:00:30",
         "retrievedISO": "2026-10-07T23:03:50.760Z",
         "endTs": "0:01:02"
+      },
+      "body": "Liquor Control Commission"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "A special meeting is set for September 21 at 1:30 p.m. to discuss how to find a new director.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "vp8RrdPVBC0",
+        "ts": "1:40:09",
+        "retrievedISO": "2026-10-07T23:03:59.641Z",
+        "endTs": "1:41:02"
+      },
+      "body": "Liquor Control Commission"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "The department director said he will retire, with December 31 as his last day.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "vp8RrdPVBC0",
+        "ts": "1:37:11",
+        "retrievedISO": "2026-10-07T23:03:59.641Z",
+        "endTs": "1:37:47"
       },
       "body": "Liquor Control Commission"
     }
