@@ -1,0 +1,57 @@
+{
+  "slug": "bill-111-on-removing-belongings-from-public-places",
+  "title": "Bill 111 on removing belongings from public places",
+  "summary": "At a November 21, 2024 meeting, the chair urged commissioners to watch a December 3 meeting and review the bill. A testifier said people could not get back belongings taken in homeless sweeps, a concern raised at the same meeting.",
+  "topics": [
+    "housing",
+    "public-safety"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2024-11-21",
+  "lastSeenISO": "2024-11-21",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-27",
+  "timeline": [
+    {
+      "dateISO": "2024-11-21",
+      "text": "The chair urged commissioners to watch a December 3 meeting and review the bill.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Q68bJ_NdJxU",
+        "ts": "1:37:10",
+        "endTs": "1:37:40",
+        "retrievedISO": "2026-10-15T06:35:16.487Z"
+      },
+      "body": "Commission on Healing Solutions for Homelessness"
+    },
+    {
+      "dateISO": "2024-11-21",
+      "text": "A testifier said people could not get back belongings taken in homeless sweeps.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Q68bJ_NdJxU",
+        "ts": "1:30:51",
+        "endTs": "1:31:21",
+        "retrievedISO": "2026-10-15T06:35:16.487Z"
+      },
+      "body": "Commission on Healing Solutions for Homelessness"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Commission on Healing Solutions for Homelessness",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

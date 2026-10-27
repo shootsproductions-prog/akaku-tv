@@ -1,0 +1,46 @@
+{
+  "slug": "bill-130-extending-water-meter-reservations",
+  "title": "Bill 130 extending water meter reservations",
+  "summary": "Bill 130 is still moving: on Nov. 26 it was again described as letting the Director of Water Supply extend water meter reservations beyond five years based on specific findings. On Nov.",
+  "topics": [
+    "water",
+    "housing"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2024-11-26",
+  "lastSeenISO": "2024-11-26",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-27",
+  "timeline": [
+    {
+      "dateISO": "2024-11-26",
+      "text": "Bill 130 lets the Director of Water Supply extend water meter reservations beyond five years based on specific findings.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jUG5zrO3VCw",
+        "ts": "2:27:26",
+        "endTs": "2:28:00",
+        "retrievedISO": "2026-10-21T18:04:36.529Z"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [
+    "Bill 130 (2024)"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

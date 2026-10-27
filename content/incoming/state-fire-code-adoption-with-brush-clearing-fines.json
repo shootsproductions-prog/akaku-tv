@@ -1,0 +1,44 @@
+{
+  "slug": "state-fire-code-adoption-with-brush-clearing-fines",
+  "title": "State fire code adoption with brush clearing fines",
+  "summary": "The department has introduced the 2021 fire code to the County Council. It hopes the council will approve the code in December.",
+  "topics": [
+    "public-safety",
+    "land-use"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2024-11-21",
+  "lastSeenISO": "2024-11-21",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-27",
+  "timeline": [
+    {
+      "dateISO": "2024-11-21",
+      "text": "The department introduced the 2021 fire code to the County Council and hopes for approval in December.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "EzLmqE78YDk",
+        "ts": "0:34:17",
+        "endTs": "0:34:47",
+        "retrievedISO": "2026-10-12T06:30:30.475Z"
+      },
+      "body": "Fire and Public Safety Commission"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Fire and Public Safety Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

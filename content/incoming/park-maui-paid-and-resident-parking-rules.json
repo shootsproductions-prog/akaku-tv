@@ -1,0 +1,58 @@
+{
+  "slug": "park-maui-paid-and-resident-parking-rules",
+  "title": "Park Maui paid and resident parking rules",
+  "summary": "The council gave final approval on July 24 to Bill 68, CD1 (2026), which updates Park Maui paid and permit parking zones. It passed on second and final reading. The bill had cleared first reading 9–0 on July 7, when it was described as updating West Maui parking rules.",
+  "topics": [
+    "transportation"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-07-07",
+  "lastSeenISO": "2026-07-24",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-27",
+  "timeline": [
+    {
+      "dateISO": "2026-07-24",
+      "text": "Bill 68, CD1 (2026), parking regulations: The council passed a bill updating Park Maui paid and permit parking zones on second and final reading.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7WOTHhYkCV0",
+        "ts": "2:25:48",
+        "endTs": "2:26:43",
+        "retrievedISO": "2026-10-16T17:08:42.619Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-07-07",
+      "text": "Bill 68, updating West Maui parking rules, passed first reading 9–0.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "NJzgJmRuAug",
+        "ts": "2:34:47",
+        "endTs": "2:36:04",
+        "retrievedISO": "2026-10-16T20:08:41.455Z"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [
+    "Bill 68 (2026)"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

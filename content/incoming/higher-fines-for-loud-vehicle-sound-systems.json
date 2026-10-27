@@ -1,0 +1,85 @@
+{
+  "slug": "higher-fines-for-loud-vehicle-sound-systems",
+  "title": "Higher fines for loud vehicle sound systems",
+  "summary": "The council postponed a proposed change to noise violation penalties until it takes up a related committee report. Earlier, it voted eight to zero to discharge Bill 119 from committee. It then passed, seven to two, the chair's amendment replacing the bill with a version that raises fines for noise violations.",
+  "topics": [
+    "public-safety",
+    "transportation"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-06-19",
+  "lastSeenISO": "2026-06-19",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-27",
+  "timeline": [
+    {
+      "dateISO": "2026-06-19",
+      "text": "The council postponed a proposed change to noise violation penalties until it takes up a related committee report.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "N5Uix8ba9zI",
+        "ts": "2:01:09",
+        "endTs": "2:01:44",
+        "retrievedISO": "2026-10-16T18:06:35.375Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-06-19",
+      "text": "The amendment passed with seven ayes and two noes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lLsXXrEBmuw",
+        "ts": "1:19:00",
+        "endTs": "1:19:30",
+        "retrievedISO": "2026-10-16T18:09:11.606Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-06-19",
+      "text": "The chair moved to replace Bill 119 with a version that raises fines for noise violations.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lLsXXrEBmuw",
+        "ts": "1:11:35",
+        "endTs": "1:12:59",
+        "retrievedISO": "2026-10-16T18:09:11.606Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-06-19",
+      "text": "The council voted eight ayes, zero noes to discharge, or release, Bill 119 from committee.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lLsXXrEBmuw",
+        "ts": "1:10:02",
+        "endTs": "1:10:42",
+        "retrievedISO": "2026-10-16T18:09:11.606Z"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [
+    "Bill 119 (2026)"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
