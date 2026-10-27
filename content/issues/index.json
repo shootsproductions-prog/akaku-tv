@@ -154,12 +154,13 @@
     "west-maui-affordable-housing-project-water-condition.json",
     "wildfire-after-action-report-from-emergency-agency.json",
     "wildfire-survivor-health-study-findings.json",
-    "yearly-usgs-water-monitoring-agreement.json"
+    "yearly-usgs-water-monitoring-agreement.json",
+    "liquor-rules-for-nonprofit-fundraising-auctions.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-10-27T19:26:11.613Z",
-  "etag": "1407fa1ad99a6786489faaeeafccda5c085251bd10721c10e1780ac797480c60",
+  "updatedAt": "2026-10-27T20:36:07.296Z",
+  "etag": "e67d7a175f9360065314097125bee9ca06ce0c024cde0394266c2a0650bd3683",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-10-27T10:26:14.864Z",
@@ -780,6 +781,10 @@
     "yearly-usgs-water-monitoring-agreement.json": {
       "updatedAt": "2026-10-27T10:26:14.864Z",
       "sha256": "dc30dc55866f083dc0bed821deae6e1e5b0781f2bb07891bc034c7c5dd05106b"
+    },
+    "liquor-rules-for-nonprofit-fundraising-auctions.json": {
+      "updatedAt": "2026-10-27T20:36:07.296Z",
+      "sha256": "29026480422f43577146b72f50207f9a6ee3eebefc073ec5fe5f19276dfed853"
     }
   }
 }

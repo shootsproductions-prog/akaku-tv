@@ -17,6 +17,14 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-27",
+  "boards": [
+    {
+      "name": "Liquor Control Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-09-09",
@@ -26,8 +34,8 @@
         "type": "meeting",
         "videoId": "vp8RrdPVBC0",
         "ts": "1:54:30",
-        "endTs": "1:55:07",
-        "retrievedISO": "2026-10-07T23:03:59.641Z"
+        "retrievedISO": "2026-10-07T23:03:59.641Z",
+        "endTs": "1:55:07"
       },
       "body": "Liquor Control Commission"
     },
@@ -39,19 +47,14 @@
         "type": "meeting",
         "videoId": "vp8RrdPVBC0",
         "ts": "1:46:47",
-        "endTs": "1:47:20",
-        "retrievedISO": "2026-10-07T23:03:59.641Z"
+        "retrievedISO": "2026-10-07T23:03:59.641Z",
+        "endTs": "1:47:20"
       },
       "body": "Liquor Control Commission"
     }
   ],
-  "boards": [
-    {
-      "name": "Liquor Control Commission",
-      "group": "board",
-      "short": []
-    }
+  "sourceTypes": [
+    "meeting"
   ],
-  "bills": [],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

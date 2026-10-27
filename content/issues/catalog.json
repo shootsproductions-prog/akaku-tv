@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-27T19:26:11.613Z",
-  "count": 155,
+  "updatedAt": "2026-10-27T20:36:07.296Z",
+  "count": 156,
   "issues": [
     {
       "slug": "2027-mass-nominations-for-county-boards",
@@ -33408,6 +33408,66 @@
             "endTs": "0:07:00"
           },
           "body": "County Council Water and Infrastructure Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "liquor-rules-for-nonprofit-fundraising-auctions",
+      "title": "Liquor rules for nonprofit fundraising auctions",
+      "summary": "As of the September 9, 2026 meeting, staff will seek written confirmation on whether a nonprofit tax form can serve as proof of nonprofit status. \" A restaurant gift certificate that includes liquor may not be auctioned.",
+      "topics": [
+        "economy",
+        "government"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-09-09",
+      "lastSeenISO": "2026-09-09",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-27",
+      "boards": [
+        {
+          "name": "Liquor Control Commission",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-09-09",
+          "text": "The department said nonprofits may auction a wine country trip, but not a restaurant gift certificate that includes liquor.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vp8RrdPVBC0",
+            "ts": "1:54:30",
+            "retrievedISO": "2026-10-07T23:03:59.641Z",
+            "endTs": "1:55:07"
+          },
+          "body": "Liquor Control Commission"
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "Staff will seek written confirmation on whether a nonprofit tax form can be used as proof of nonprofit status.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "vp8RrdPVBC0",
+            "ts": "1:46:47",
+            "retrievedISO": "2026-10-07T23:03:59.641Z",
+            "endTs": "1:47:20"
+          },
+          "body": "Liquor Control Commission"
         }
       ],
       "sourceTypes": [
