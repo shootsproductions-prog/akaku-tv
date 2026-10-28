@@ -1,7 +1,7 @@
 {
   "slug": "land-purchase-for-new-upcountry-well-at-haleakala-ranch",
   "title": "Land purchase for new Upcountry well at Haleakalā Ranch",
-  "summary": "On June 19, a department representative asked the council to act on Resolution 26-102, a $470,000 land purchase for a new upcountry well. The chair asked him to return when the item comes up, and a council member asked that the department director or deputy attend; staff said they could arrange it. He said the well would add one million gallons a day and, with filter upgrades at a treatment plant, let the county resume processing the upcountry wait list.",
+  "summary": "The council voted 9–0 on June 19 to approve Resolution 26-102, buying 1.714 acres in Kula from Haleakalā Ranch Company for a new upcountry well site at $470,000. The well is expected to add about a million gallons a day and, with water treatment plant filter upgrades, let the county resume processing the upcountry wait list. The department will now do geo work and start designing the well.",
   "topics": [
     "water",
     "housing"
@@ -116,6 +116,84 @@
         "ts": "1:55:50",
         "retrievedISO": "2026-10-16T18:06:35.375Z",
         "endTs": "1:56:29"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-06-19",
+      "text": "The council approved the well site purchase 9–0.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "u9uLIOvdW0o",
+        "ts": "0:34:55",
+        "retrievedISO": "2026-10-16T18:12:05.906Z",
+        "endTs": "0:35:25"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-06-19",
+      "text": "The well is expected to produce about a million gallons per day.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "u9uLIOvdW0o",
+        "ts": "0:29:19",
+        "retrievedISO": "2026-10-16T18:12:05.906Z",
+        "endTs": "0:29:49"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-06-19",
+      "text": "The department said completing the purchase lets it do geo work on the property and start the design process.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "u9uLIOvdW0o",
+        "ts": "0:26:30",
+        "retrievedISO": "2026-10-16T18:12:05.906Z",
+        "endTs": "0:27:00"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-06-19",
+      "text": "A department official said the well was drilled on Haleakalā Ranch land instead of the planned spot.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "u9uLIOvdW0o",
+        "ts": "0:21:06",
+        "retrievedISO": "2026-10-16T18:12:05.906Z",
+        "endTs": "0:21:36"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-06-19",
+      "text": "A council member said the well will increase upcountry water and help the Department of Water Supply work through the upcountry wait list.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "u9uLIOvdW0o",
+        "ts": "0:19:20",
+        "retrievedISO": "2026-10-16T18:12:05.906Z",
+        "endTs": "0:19:50"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-06-19",
+      "text": "The county is buying 1.714 acres in Kula from Haleakalā Ranch Company for a well site.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "u9uLIOvdW0o",
+        "ts": "0:18:45",
+        "retrievedISO": "2026-10-16T18:12:05.906Z",
+        "endTs": "0:19:15"
       },
       "body": "County Council Meeting"
     }

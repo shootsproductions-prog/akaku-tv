@@ -61,6 +61,19 @@
     },
     {
       "dateISO": "2026-10-20",
+      "text": "Sister city relationship discussion: The committee deferred the sister city discussion.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "WtAb16g87L8",
+        "ts": "0:56:30",
+        "retrievedISO": "2026-10-23T00:27:33.159Z",
+        "endTs": "0:57:00"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-10-20",
       "text": "He suggested an ad hoc committee (a special working group) to explore more ideas.",
       "basis": "said-at-meeting",
       "source": {

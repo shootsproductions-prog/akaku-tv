@@ -1,14 +1,14 @@
 {
   "slug": "bill-111-on-removing-belongings-from-public-places",
   "title": "Bill 111 on removing belongings from public places",
-  "summary": "At a November 21, 2024 meeting, the chair urged commissioners to watch a December 3 meeting and review the bill. A testifier said people could not get back belongings taken in homeless sweeps, a concern raised at the same meeting.",
+  "summary": "On September 4, 2025, the committee heard Bill 111 again, and the administration said it does not support it. The vice chair will work with County lawyers on a version they would sign, and the administration will revisit its guidance so people are not moved without shelter space. The bill sets rules for removing and storing personal property in public places.",
   "topics": [
     "housing",
     "public-safety"
   ],
   "status": "quiet",
   "pinned": false,
-  "firstSeenISO": "2024-11-21",
+  "firstSeenISO": "2024-07-19",
   "lastSeenISO": "2024-11-21",
   "signals": {
     "meetingsLast30d": 0,
@@ -22,9 +22,16 @@
       "name": "Commission on Healing Solutions for Homelessness",
       "group": "board",
       "short": []
+    },
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
     }
   ],
-  "bills": [],
+  "bills": [
+    "Bill 111 (2024)"
+  ],
   "timeline": [
     {
       "dateISO": "2024-11-21",
@@ -51,6 +58,19 @@
         "endTs": "1:31:21"
       },
       "body": "Commission on Healing Solutions for Homelessness"
+    },
+    {
+      "dateISO": "2024-07-19",
+      "text": "Referral of Bill 111 (removal and storage of personal property): The council sent Bill 111 to committee.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "CNrEmWu8GiM",
+        "ts": "1:57:34",
+        "retrievedISO": "2026-10-19T19:45:48.233Z",
+        "endTs": "1:58:07"
+      },
+      "body": "County Council Meeting"
     }
   ],
   "sourceTypes": [

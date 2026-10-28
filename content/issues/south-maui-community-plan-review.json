@@ -1,7 +1,7 @@
 {
   "slug": "south-maui-community-plan-review",
   "title": "South Maui Community Plan review",
-  "summary": "The committee deferred Bill 108, the South Maui Community Plan update, on October 8 after approving many text and policy changes, including a housing policy, a study of a County parcel near the Kīhei Police Station, and a data action on South Maui wildfires. Plan discussion continues October 21 and November 18, and a draft must be ready by December 2 to send to the next council. The gulch discussion will return when Public Works can attend.",
+  "summary": "On October 21 the committee took up Bill 139, which would add 85.57 acres in North Kīhei to the urban growth boundary, alongside Bill 108, the South Maui Community Plan. It passed 8 to 0 an amended action to study a new South Maui to Central Maui road that could serve as an evacuation route. Plan review continues November 18, and a draft is due December 2 for the next council.",
   "topics": [
     "land-use",
     "housing"
@@ -47,7 +47,9 @@
   ],
   "bills": [
     "Bill 108 (2026)",
-    "Bill 2026 (2026)"
+    "Bill 139 (2026)",
+    "Bill 2026 (2026)",
+    "Resolution 26-108"
   ],
   "timeline": [
     {
@@ -3442,6 +3444,19 @@
         "endTs": "1:37:07"
       },
       "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-06-19",
+      "text": "Resolution 26-108 gives the Maui Planning Commission more time on the South Maui Community Plan update.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "u9uLIOvdW0o",
+        "ts": "0:50:32",
+        "retrievedISO": "2026-10-16T18:12:05.906Z",
+        "endTs": "0:51:02"
+      },
+      "body": "County Council Meeting"
     },
     {
       "dateISO": "2024-12-10",

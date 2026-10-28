@@ -1,7 +1,7 @@
 {
   "slug": "future-of-the-commission-on-children-and-youth",
   "title": "Future of the Commission on Children and Youth",
-  "summary": "The committee chair told Member Johnson on October 20 that he looks forward to supporting the bill to make the youth council full of youth. The bill follows a request from a Maui High School student to turn the Commission on Children and Youth into a youth-led commission. The student reported 56 signatures and 12 testimonies in support and agreed to send the committee the signature list when it is ready.",
+  "summary": "On October 20, 2026, a Maui High School student asked the committee to make the Commission on Children and Youth youth-led, citing 56 signatures and 12 testimonies in support. The chair told Member Johnson, \"I look forward to supporting your bill\" to fill the council with youth. Earlier, a bill to repeal the commission was deferred in December 2025 after its sponsor said it no longer does its original job.",
   "topics": [
     "government",
     "education"
@@ -28,6 +28,19 @@
   ],
   "bills": [],
   "timeline": [
+    {
+      "dateISO": "2026-10-20",
+      "text": "A student testified in support of making the Commission on Children and Youth led by youth.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "hTPfc9OiJm8",
+        "ts": "1:54:31",
+        "retrievedISO": "2026-10-23T00:42:14.769Z",
+        "endTs": "1:55:01"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
     {
       "dateISO": "2026-10-20",
       "text": "The chair told Member Johnson, \"I look forward to supporting your bill\" to make the youth council full of youth.",

@@ -39,6 +39,19 @@
   "timeline": [
     {
       "dateISO": "2026-10-20",
+      "text": "A county commission gave an update on its study of County boards and commissions.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "hTPfc9OiJm8",
+        "ts": "1:35:29",
+        "retrievedISO": "2026-10-23T00:42:14.769Z",
+        "endTs": "1:35:59"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-10-20",
       "text": "Cost of Government Commission update on boards and commissions: The chair deferred the item with no objections.",
       "basis": "said-at-meeting",
       "source": {

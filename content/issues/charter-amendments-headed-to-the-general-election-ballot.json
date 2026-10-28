@@ -1,7 +1,7 @@
 {
   "slug": "charter-amendments-headed-to-the-general-election-ballot",
   "title": "Charter amendments headed to the general election ballot",
-  "summary": "On July 24, the council voted eight in favor, with one member excused, to send seven charter amendments to voters at the next general election. One of them, passed 9–0 on July 7, would have the Director of Finance receive injury and damage claims starting January 1, 2028. A council member also plans to seek a state law change so claims handling can later be set by ordinance.",
+  "summary": "On July 24, the council carried a motion, eight ayes with one excused, sending seven proposed charter amendments to voters at the next general election. One of them standardizes petition review deadlines, effective January 1, 2027. Earlier, on July 7, the council passed 9–0 a change to have the Director of Finance receive injury and damage claims starting January 1, 2028.",
   "topics": [
     "elections",
     "government"
@@ -33,6 +33,13 @@
       "short": []
     },
     {
+      "name": "Government Relations, Ethics, and Transparency Committee",
+      "group": "council",
+      "short": [
+        "GREAT"
+      ]
+    },
+    {
       "name": "Housing and Land Use Committee",
       "group": "council",
       "short": [
@@ -40,7 +47,9 @@
       ]
     }
   ],
-  "bills": [],
+  "bills": [
+    "Resolution 26-89"
+  ],
   "timeline": [
     {
       "dateISO": "2026-09-17",
@@ -147,6 +156,84 @@
     },
     {
       "dateISO": "2026-06-18",
+      "text": "The committee can write to the managing director about where claims should be filed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TuRCT9XlMsA",
+        "ts": "3:56:08",
+        "retrievedISO": "2026-10-16T20:44:20.345Z",
+        "endTs": "3:56:38"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-06-18",
+      "text": "The chair agreed staff can write to the finance department about the claims proposal.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TuRCT9XlMsA",
+        "ts": "3:53:35",
+        "retrievedISO": "2026-10-16T20:44:20.345Z",
+        "endTs": "3:54:05"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-06-18",
+      "text": "The council vacancy proposal was deferred without objection.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TuRCT9XlMsA",
+        "ts": "3:19:08",
+        "retrievedISO": "2026-10-16T20:44:20.345Z",
+        "endTs": "3:19:40"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-06-18",
+      "text": "The chair said the council vacancy proposal could be worked on later and referred to the next council.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TuRCT9XlMsA",
+        "ts": "3:15:22",
+        "retrievedISO": "2026-10-16T20:44:20.345Z",
+        "endTs": "3:15:54"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-06-18",
+      "text": "Members voted 9–0 to send the claims proposal to the full council without a recommendation.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TuRCT9XlMsA",
+        "ts": "3:06:51",
+        "retrievedISO": "2026-10-16T20:44:20.345Z",
+        "endTs": "3:08:30"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-06-18",
+      "text": "A county litigator said the change could make county attorneys witnesses and force the county to hire outside lawyers.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TuRCT9XlMsA",
+        "ts": "2:14:20",
+        "retrievedISO": "2026-10-16T20:44:20.345Z",
+        "endTs": "2:15:06"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-06-18",
       "text": "The committee planned to go through all the deferred proposals and then decide which to prioritize for the ballot.",
       "basis": "said-at-meeting",
       "source": {
@@ -212,6 +299,19 @@
     },
     {
       "dateISO": "2026-06-18",
+      "text": "Resolution 26-89 would let the mayor move unspent money within a department, under limits the council sets.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TuRCT9XlMsA",
+        "ts": "0:14:01",
+        "retrievedISO": "2026-10-16T20:44:20.345Z",
+        "endTs": "0:14:31"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-06-18",
       "text": "The budget director said that after the recent Kona storms, the County had to come back for a second approval through two readings to fund recovery.",
       "basis": "said-at-meeting",
       "source": {
@@ -248,6 +348,45 @@
         "endTs": "0:11:25"
       },
       "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-06-18",
+      "text": "The budget director said each use would list the emergency declarations that triggered it.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TuRCT9XlMsA",
+        "ts": "0:10:32",
+        "retrievedISO": "2026-10-16T20:44:20.345Z",
+        "endTs": "0:11:02"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-06-18",
+      "text": "The budget director said after recent storms the county had to pass a second, two-reading change to add money needed for recovery.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TuRCT9XlMsA",
+        "ts": "0:07:01",
+        "retrievedISO": "2026-10-16T20:44:20.345Z",
+        "endTs": "0:07:31"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-06-18",
+      "text": "The budget director said emergency fund money is already set aside, so using it is not new spending.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TuRCT9XlMsA",
+        "ts": "0:06:34",
+        "retrievedISO": "2026-10-16T20:44:20.345Z",
+        "endTs": "0:07:12"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
     }
   ],
   "sourceTypes": [

@@ -1,7 +1,7 @@
 {
   "slug": "mutual-aid-agreement-to-help-kauai-after-hurricane-lowell",
   "title": "Mutual aid agreement to help Kauaʻi after Hurricane Lowell",
-  "summary": "A bill would let Maui County help the County of Kauaʻi respond to and recover from a hurricane. The agreement does not require Maui County to send staff or resources it does not have or needs. A council member said Maui wants to help Kauaʻi because of the help Kauaʻi gave after the fire.",
+  "summary": "On October 23, the Council postponed County Communication 26-28, a proposed amendment to Bill 124, until it takes up that bill. Bill 124 would let Maui County help the County of Kauaʻi respond to and recover from Hurricane Lowell. It passed eight to zero on September 29, with one member excused.",
   "topics": [
     "disaster-recovery",
     "government"
@@ -24,8 +24,23 @@
       "short": []
     }
   ],
-  "bills": [],
+  "bills": [
+    "Bill 124 (2026)"
+  ],
   "timeline": [
+    {
+      "dateISO": "2026-09-29",
+      "text": "Eight members, with one excused, backed a bill to send help to Kauaʻi after Hurricane Lowell.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lg4miTbnuz0",
+        "ts": "3:40:05",
+        "retrievedISO": "2026-10-23T00:06:40.815Z",
+        "endTs": "3:41:48"
+      },
+      "body": "County Council Meeting"
+    },
     {
       "dateISO": "2026-09-29",
       "text": "A council member said Maui wants to help Kauaʻi because of the help Kauaʻi gave after the fire.",

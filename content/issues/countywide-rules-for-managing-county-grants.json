@@ -8,7 +8,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-06-24",
+  "firstSeenISO": "2026-05-19",
   "lastSeenISO": "2026-08-18",
   "signals": {
     "meetingsLast30d": 0,
@@ -27,6 +27,7 @@
     }
   ],
   "bills": [
+    "Bill 69 (2026)",
     "Bill 73 (2026)"
   ],
   "timeline": [
@@ -170,6 +171,19 @@
         "ts": "0:48:10",
         "retrievedISO": "2026-10-16T17:44:47.890Z",
         "endTs": "0:48:41"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-05-19",
+      "text": "Bill 69 would let County agencies pay grants upfront or in installments.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "MwEGyy1Tcr4",
+        "ts": "1:16:30",
+        "retrievedISO": "2026-10-17T00:26:25.587Z",
+        "endTs": "1:17:04"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
     }

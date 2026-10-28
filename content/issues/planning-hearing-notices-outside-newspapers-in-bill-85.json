@@ -1,7 +1,7 @@
 {
   "slug": "planning-hearing-notices-outside-newspapers-in-bill-85",
   "title": "Planning hearing notices outside newspapers in Bill 85",
-  "summary": "Bill 85 would let hearing notices run in any suitable publication circulated across Maui County. Planning staff said the change would save the county money. One caller asked that notices also be posted on county bulletin boards.",
+  "summary": "A committee member moved on September 29 to approve a report on Bill 85 (2026), but the vote is not in the recording. The bill would let Planning Commission hearing notices run in any suitable publication circulated across Maui County, not only a newspaper. Planning staff said the change would save the county money, and one caller asked that notices also be posted on county bulletin boards.",
   "topics": [
     "government",
     "land-use"
@@ -9,15 +9,20 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-09-02",
-  "lastSeenISO": "2026-09-02",
+  "lastSeenISO": "2026-09-29",
   "signals": {
-    "meetingsLast30d": 0,
-    "meetingsLast90d": 1,
-    "mentionsLast30d": 0,
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 2,
+    "mentionsLast30d": 1,
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-27",
   "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    },
     {
       "name": "Housing and Land Use Committee",
       "group": "council",
@@ -30,6 +35,19 @@
     "Bill 85 (2026)"
   ],
   "timeline": [
+    {
+      "dateISO": "2026-09-29",
+      "text": "Committee Report 26-67, Bill 85 (2026), public hearing notices: A member moved to approve a report on Bill 85, letting Planning Commission hearing notices run in any countywide publication instead of only a newspaper, but the vote is not in the recording.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lg4miTbnuz0",
+        "ts": "2:44:45",
+        "retrievedISO": "2026-10-23T00:06:40.815Z",
+        "endTs": "2:45:30"
+      },
+      "body": "County Council Meeting"
+    },
     {
       "dateISO": "2026-09-02",
       "text": "Planning staff said the change would save the county money.",

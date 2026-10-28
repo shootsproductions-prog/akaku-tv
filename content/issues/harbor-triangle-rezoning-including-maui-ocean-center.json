@@ -1,7 +1,7 @@
 {
   "slug": "harbor-triangle-rezoning-including-maui-ocean-center",
   "title": "Harbor triangle rezoning including Maui Ocean Center",
-  "summary": "A committee has moved to decision making on rezoning six properties in the triangle area by the harbor, and the resolution now goes to the full council. Unlike a 2022 proposal covering only the Maui Ocean Center properties, this one also includes the harbor shops, and the owners agreed to split costs half and half. Presenters said some current zoning labels do not exist in county code, and a testifier raised concerns about aquarium pathogens.",
+  "summary": "On October 19, a council committee voted 8–0, with one member excused, to recommend adopting Resolution 26-137, which now goes to the full council. It would send a zoning change for six parcels near the harbor, including Maui Ocean Center and the harbor shops, to the Maui Planning Commission. The owners' consultant said the change would make the whole property B2 business zoning, fix labels that don't exist in county code, and involve no new development.",
   "topics": [
     "land-use"
   ],
@@ -36,6 +36,45 @@
   "timeline": [
     {
       "dateISO": "2026-10-19",
+      "text": "Members voted 8–0 to recommend adopting the resolution, with one member excused.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bAmgey8HdV0",
+        "ts": "1:04:39",
+        "retrievedISO": "2026-10-23T00:02:05.685Z",
+        "endTs": "1:05:09"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "He said the owners are not proposing any new development.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bAmgey8HdV0",
+        "ts": "0:39:22",
+        "retrievedISO": "2026-10-23T00:02:05.685Z",
+        "endTs": "0:39:52"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "A consultant for the landowners said the change would make the whole property B2 business zoning.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bAmgey8HdV0",
+        "ts": "0:37:34",
+        "retrievedISO": "2026-10-23T00:02:05.685Z",
+        "endTs": "0:38:04"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
       "text": "The committee will move to decision making on the zoning change.",
       "basis": "said-at-meeting",
       "source": {
@@ -57,6 +96,19 @@
         "ts": "0:29:45",
         "retrievedISO": "2026-10-20T04:43:09.471Z",
         "endTs": "0:30:24"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "Resolution 26-137 would send a zoning change for six parcels to the Maui Planning Commission for review.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bAmgey8HdV0",
+        "ts": "0:28:35",
+        "retrievedISO": "2026-10-23T00:02:05.685Z",
+        "endTs": "0:29:29"
       },
       "body": "County Council Water and Infrastructure Committee"
     },

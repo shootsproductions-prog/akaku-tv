@@ -8,7 +8,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-07-27",
+  "firstSeenISO": "2024-07-19",
   "lastSeenISO": "2026-09-30",
   "signals": {
     "meetingsLast30d": 1,
@@ -45,7 +45,9 @@
       ]
     }
   ],
-  "bills": [],
+  "bills": [
+    "Bill 106 (2024)"
+  ],
   "timeline": [
     {
       "dateISO": "2026-09-30",
@@ -1216,6 +1218,19 @@
         "endTs": "0:05:31"
       },
       "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2024-07-19",
+      "text": "Referral of Bill 106 (regional consolidation and acquisition of private water systems): The council sent Bill 106 to the Water and Infrastructure Committee.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "CNrEmWu8GiM",
+        "ts": "1:47:08",
+        "retrievedISO": "2026-10-19T19:45:48.233Z",
+        "endTs": "1:47:38"
+      },
+      "body": "County Council Meeting"
     }
   ],
   "sourceTypes": [

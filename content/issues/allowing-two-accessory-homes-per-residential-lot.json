@@ -1,14 +1,14 @@
 {
   "slug": "allowing-two-accessory-homes-per-residential-lot",
   "title": "Allowing two accessory homes per residential lot",
-  "summary": "Bill 78 would allow two accessory dwelling units, or extra small homes, on residential lots. The proposal was discussed at the June 19, 2026 meeting.",
+  "summary": "On June 19, Bill 78 was before the council; it would allow two accessory dwelling units, or extra small homes, on residential lots. On June 3, the committee approved a revised version after all three planning commissions recommended approval with 13 changes. State law requires counties to adopt such rules by December 31, 2026.",
   "topics": [
     "housing",
     "land-use"
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-06-19",
+  "firstSeenISO": "2026-05-20",
   "lastSeenISO": "2026-06-19",
   "signals": {
     "meetingsLast30d": 0,
@@ -22,6 +22,13 @@
       "name": "Maui County Council",
       "group": "council",
       "short": []
+    },
+    {
+      "name": "Housing and Land Use Committee",
+      "group": "council",
+      "short": [
+        "HLU"
+      ]
     }
   ],
   "bills": [
@@ -40,6 +47,19 @@
         "endTs": "0:52:58"
       },
       "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "That bill would allow at least two accessory dwelling units, or extra homes, on residential lots.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "2:43:00",
+        "retrievedISO": "2026-10-17T00:13:37.925Z",
+        "endTs": "2:43:30"
+      },
+      "body": "County Council Housing and Land Use Committee"
     }
   ],
   "sourceTypes": [

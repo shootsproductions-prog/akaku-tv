@@ -1,7 +1,7 @@
 {
   "slug": "paia-40-acre-housing-project-rezoning",
   "title": "Pāʻia 40-acre housing project rezoning",
-  "summary": "On Sept. 8, the Maui Planning Commission voted unanimously to recommend that the County Council approve the Pahia–Haʻikū community plan amendment, and recommended the zoning change with conditions, including free parking for Maui residents at the planned public lot and added community engagement in Pahia. The council will now review the recommendations, and the commission's attorney advised holding the zoning until the state Land Use Commission approves an agriculture-to-urban change. The 40.392-acre plan calls for about 170 homes, including at least 34 permanently affordable workforce rentals, with drinking water from two private wells.",
+  "summary": "On September 8, 2026, the Maui Planning Commission recommended that the County Council approve the community plan change unanimously and the Pāʻia zoning change 5 to 3, with conditions, including free parking for Maui residents and more community engagement. The project is about 170 homes on 40.392 acres, with at least 34 workforce rentals kept affordable forever. The council will review the recommendations, and the commission's attorney advised holding the zoning until the state Land Use Commission approves an urban designation.",
   "topics": [
     "housing",
     "land-use",
@@ -9,7 +9,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-06-19",
+  "firstSeenISO": "2026-05-20",
   "lastSeenISO": "2026-09-08",
   "signals": {
     "meetingsLast30d": 0,
@@ -28,6 +28,13 @@
       "name": "Maui County Council",
       "group": "council",
       "short": []
+    },
+    {
+      "name": "Housing and Land Use Committee",
+      "group": "council",
+      "short": [
+        "HLU"
+      ]
     }
   ],
   "bills": [
@@ -345,6 +352,188 @@
         "endTs": "1:00:08"
       },
       "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "The resolution goes next to the Planning Commission.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "2:17:37",
+        "retrievedISO": "2026-10-17T00:13:37.925Z",
+        "endTs": "2:18:07"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "The committee recommended sending a Pahia housing and business project's plan and zoning changes to the Planning Commission.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "2:17:15",
+        "retrievedISO": "2026-10-17T00:13:37.925Z",
+        "endTs": "2:17:51"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "A member asked the project team to keep a schedule of open community meetings to share when the item returns.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "2:05:39",
+        "retrievedISO": "2026-10-17T00:13:37.925Z",
+        "endTs": "2:06:20"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "The planning director said council-started projects get less review, which could reduce community input.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "1:17:27",
+        "retrievedISO": "2026-10-17T00:13:37.925Z",
+        "endTs": "1:18:23"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "The applicant's attorney said 34 workforce rental units would stay affordable in perpetuity, meaning forever.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "1:14:41",
+        "retrievedISO": "2026-10-17T00:13:37.925Z",
+        "endTs": "1:15:11"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "A market study recommended pricing the market homes at $1 million to $1.6 million.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "1:09:26",
+        "retrievedISO": "2026-10-17T00:13:37.925Z",
+        "endTs": "1:09:56"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "Gap group homes for sale would target households between 120 and 220 percent of the area median income.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "1:09:02",
+        "retrievedISO": "2026-10-17T00:13:37.925Z",
+        "endTs": "1:09:32"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "Workforce rentals would serve households earning up to 120 percent of the area median income.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "1:08:50",
+        "retrievedISO": "2026-10-17T00:13:37.925Z",
+        "endTs": "1:09:20"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "The plan also includes about 170 homes: 120 single-family and 50 multi-family.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "1:07:54",
+        "retrievedISO": "2026-10-17T00:13:37.925Z",
+        "endTs": "1:08:24"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "The project team said the plan includes a public parking lot of about 200 stalls.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "1:06:44",
+        "retrievedISO": "2026-10-17T00:13:37.925Z",
+        "endTs": "1:07:14"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "Resolution 26-84 would send Pahia community plan and zoning changes for over 40 acres to the Maui Planning Commission.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "0:52:47",
+        "retrievedISO": "2026-10-17T00:13:37.925Z",
+        "endTs": "0:53:17"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "One testifier asked the committee to require more community meetings in Pahia first.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "0:41:33",
+        "retrievedISO": "2026-10-17T00:13:37.925Z",
+        "endTs": "0:42:03"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "A supporter said Maui is in a housing crisis, and the project would add homes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "0:22:51",
+        "retrievedISO": "2026-10-17T00:13:37.925Z",
+        "endTs": "0:23:21"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "Some testifiers opposed the project, citing Pāʻia's small-town character.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "0:12:33",
+        "retrievedISO": "2026-10-17T00:13:37.925Z",
+        "endTs": "0:13:08"
+      },
+      "body": "County Council Housing and Land Use Committee"
     }
   ],
   "sourceTypes": [

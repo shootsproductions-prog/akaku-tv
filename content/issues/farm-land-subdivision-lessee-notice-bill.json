@@ -8,7 +8,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-08-19",
+  "firstSeenISO": "2026-05-20",
   "lastSeenISO": "2026-10-28",
   "signals": {
     "meetingsLast30d": 0,
@@ -22,6 +22,13 @@
       "name": "Lānaʻi Planning Commission",
       "group": "board",
       "short": []
+    },
+    {
+      "name": "Housing and Land Use Committee",
+      "group": "council",
+      "short": [
+        "HLU"
+      ]
     }
   ],
   "bills": [
@@ -181,6 +188,71 @@
         "endTs": "1:08:44"
       },
       "body": "Lānaʻi Planning Commission"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "The committee recommended adopting it on a 5–2 roll call vote.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "2:41:54",
+        "retrievedISO": "2026-10-17T00:13:37.925Z",
+        "endTs": "2:42:42"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "One member said they would vote no because there was not enough time and Public Works input was needed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "2:26:30",
+        "retrievedISO": "2026-10-17T00:13:37.925Z",
+        "endTs": "2:27:09"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "The member who proposed the bill said a farm tenant was not told of its landowner's plan to subdivide.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "2:18:52",
+        "retrievedISO": "2026-10-17T00:13:37.925Z",
+        "endTs": "2:19:29"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "Resolution 26-68 would send all three planning commissions a bill requiring farm landowners to notify tenants before subdividing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "2:18:26",
+        "retrievedISO": "2026-10-17T00:13:37.925Z",
+        "endTs": "2:18:57"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "A farm testifier said such subdivisions could affect the island's food security.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "0:47:01",
+        "retrievedISO": "2026-10-17T00:13:37.925Z",
+        "endTs": "0:47:31"
+      },
+      "body": "County Council Housing and Land Use Committee"
     }
   ],
   "sourceTypes": [

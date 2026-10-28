@@ -1,7 +1,7 @@
 {
   "slug": "ethics-bills-on-nepotism-lobbyists-and-ex-employees",
   "title": "Ethics bills on nepotism, lobbyists and ex-employees",
-  "summary": "On October 20, a committee took up Bill 100, which would set lobbyist rules, but no vote appears on the motions to replace it with a revised version or to recommend passage. The chair said lawyers would work on amendments during the recess. Attorneys disagreed on whether lobbying the Planning Commission would be covered, and the rules would start July 1, 2027.",
+  "summary": "On October 23, the Board of Ethics director backed Bill 55, which sets a six-year limit for pursuing ethics cases. On October 20, the committee worked on Bill 100 (2026), the lobbyist registration, reporting and penalty rules, voting 9–0 to widen a definition to cover Planning Commission matters. Whether Planning Commission lobbying is covered and the penalty size remain unsettled, and the chair said the full council will take up the bill very shortly.",
   "topics": [
     "government"
   ],
@@ -47,6 +47,32 @@
   "timeline": [
     {
       "dateISO": "2026-10-20",
+      "text": "The chair said the full council will take up the bill very shortly.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "hTPfc9OiJm8",
+        "ts": "1:34:31",
+        "retrievedISO": "2026-10-23T00:42:14.769Z",
+        "endTs": "1:35:01"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-10-20",
+      "text": "The committee voted 9–0 to widen one definition so the rules cover matters sent to the Planning Commission and votes on department heads.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "hTPfc9OiJm8",
+        "ts": "1:31:38",
+        "retrievedISO": "2026-10-23T00:42:14.769Z",
+        "endTs": "1:32:44"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-10-20",
       "text": "Motion to replace Bill 100 (2026) with the proposed CD1 version attached to the chair's amendment summary form: The motion was made and seconded, but no vote appears in the recording.",
       "basis": "said-at-meeting",
       "source": {
@@ -68,6 +94,32 @@
         "ts": "1:26:30",
         "retrievedISO": "2026-10-22T07:23:23.649Z",
         "endTs": "1:27:00"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-10-20",
+      "text": "A motion was made to put the up-to-$5,000 fine back into the bill.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "hTPfc9OiJm8",
+        "ts": "1:26:09",
+        "retrievedISO": "2026-10-23T00:42:14.769Z",
+        "endTs": "1:26:59"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-10-20",
+      "text": "Motion to replace Bill 100 (2026) with the proposed CD1 version: A motion to replace the bill with a revised draft (CD1) was made and seconded, and the captions do not clearly show a separate vote on it.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "hTPfc9OiJm8",
+        "ts": "1:22:31",
+        "retrievedISO": "2026-10-23T00:42:14.769Z",
+        "endTs": "1:23:01"
       },
       "body": "County Council Government Relations, Ethics, and Transparency Committee"
     },
@@ -164,6 +216,19 @@
     },
     {
       "dateISO": "2026-10-20",
+      "text": "The director said she would ask the state whether it has ever given a $5,000 fine and report back.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "hTPfc9OiJm8",
+        "ts": "0:30:58",
+        "retrievedISO": "2026-10-23T00:42:14.769Z",
+        "endTs": "0:31:31"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-10-20",
       "text": "A deputy corporation counsel (a County lawyer) said a $5,000 penalty would be fine.",
       "basis": "said-at-meeting",
       "source": {
@@ -172,6 +237,19 @@
         "ts": "0:30:20",
         "retrievedISO": "2026-10-22T07:23:23.649Z",
         "endTs": "0:31:05"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-10-20",
+      "text": "A County lawyer said a $5,000 fine would be allowed under the County charter.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "hTPfc9OiJm8",
+        "ts": "0:26:02",
+        "retrievedISO": "2026-10-23T00:42:14.769Z",
+        "endTs": "0:26:32"
       },
       "body": "County Council Government Relations, Ethics, and Transparency Committee"
     },
@@ -198,6 +276,32 @@
         "ts": "0:14:30",
         "retrievedISO": "2026-10-22T07:23:23.649Z",
         "endTs": "0:15:07"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-10-20",
+      "text": "The director said a lobbyist training requirement was removed from the bill.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "hTPfc9OiJm8",
+        "ts": "0:09:51",
+        "retrievedISO": "2026-10-23T00:42:14.769Z",
+        "endTs": "0:10:21"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-10-20",
+      "text": "The committee took up Bill 100 (2026), which would set registration, reporting and penalty rules for lobbyists.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "hTPfc9OiJm8",
+        "ts": "0:05:08",
+        "retrievedISO": "2026-10-23T00:42:14.769Z",
+        "endTs": "0:05:45"
       },
       "body": "County Council Government Relations, Ethics, and Transparency Committee"
     },

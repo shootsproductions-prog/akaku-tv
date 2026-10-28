@@ -1,7 +1,7 @@
 {
   "slug": "fukuyama-sister-city-delegation-and-follow-up",
   "title": "Fukuyama sister city delegation and follow-up",
-  "summary": "On September 30, the Maui County Council held a special meeting to welcome members of the Fukuyama City Assembly, and the delegation gave the Council a denim tablecloth. The chair noted that a February 11, 2008 resolution made Fukuyama City a sister city of Maui County. The delegation was to leave for an evening presentation at UH Maui College after a group photo.",
+  "summary": "On October 20, a committee deferred its discussion of the sister city relationship with Fukuyama City, Japan, setting it aside for later. A 2008 resolution made Fukuyama City a sister city of Maui County. A Fukuyama delegation visited the Council on September 30, a few months after an earlier June welcome.",
   "topics": [
     "culture",
     "government"
@@ -9,15 +9,22 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-09-25",
-  "lastSeenISO": "2026-09-30",
+  "lastSeenISO": "2026-10-20",
   "signals": {
-    "meetingsLast30d": 2,
-    "meetingsLast90d": 3,
-    "mentionsLast30d": 6,
+    "meetingsLast30d": 3,
+    "meetingsLast90d": 4,
+    "mentionsLast30d": 7,
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-27",
   "boards": [
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    },
     {
       "name": "Maui County Council",
       "group": "council",
@@ -26,6 +33,19 @@
   ],
   "bills": [],
   "timeline": [
+    {
+      "dateISO": "2026-10-20",
+      "text": "Sister city relationship discussion: The committee deferred the sister city discussion.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "WtAb16g87L8",
+        "ts": "0:56:30",
+        "retrievedISO": "2026-10-23T00:27:33.159Z",
+        "endTs": "0:57:00"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
     {
       "dateISO": "2026-09-30",
       "text": "The delegation gave the Council a denim tablecloth as a gift.",
