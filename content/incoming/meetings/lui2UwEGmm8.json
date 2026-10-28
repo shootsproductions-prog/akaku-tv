@@ -1,0 +1,126 @@
+{
+  "videoId": "lui2UwEGmm8",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T14:27:25.553Z",
+  "meetingDateISO": "2026-09-14",
+  "source": {
+    "youtubeUrl": "https://youtu.be/lui2UwEGmm8"
+  },
+  "headline": "Residents testify on updated South Maui Community Plan",
+  "topics": [
+    "Water",
+    "Housing",
+    "Disaster Recovery"
+  ],
+  "meeting": {
+    "id": "lui2UwEGmm8",
+    "mon": "Sep",
+    "day": "14",
+    "date": "Mon, Sep 14, 2026",
+    "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+    "dur": "2 h 25 m",
+    "voteCount": 1,
+    "voteItem": "Close public testimony",
+    "ayes": null,
+    "noes": null,
+    "summary": "In South Maui, the committee heard public testimony on Bill 108, the updated South Maui Community Plan, and deferred the item.",
+    "recap": "The only item was Bill 108 (2026), which would adopt an updated South Maui Community Plan.[[0:04:05]] The meeting was posted with no legislative action, so no vote was planned.[[0:04:26]] The committee met in South Maui to hear directly from residents.[[0:04:49]] The department said flooding is a major concern in South Maui.[[0:22:08]] One testifier said planned pumping of an aquifer would exceed its estimated sustainable yield.[[0:46:05]] One testifier asked the committee to go back to the CPAC version of the plan.[[0:55:00]] One testifier spoke in support of Bill 108.[[1:56:04]] One testifier asked for a two-to-three-year pause on building new homes while infrastructure is built.[[2:00:20]] The chair closed oral testimony, and written testimony remains open.[[2:12:34]] The chair said the committee has through October 8 to focus only on this plan.[[2:20:20]] The chair said the plan arrived August 4, giving the council one year.[[2:23:18]] The chair deferred the item.[[2:24:17]]",
+    "decided": [
+      "The chair closed oral public testimony, and written testimony stays open for the whole process."
+    ],
+    "next": "The committee will meet tomorrow morning in the council chambers with regular hybrid (in-person and online) procedures. The chair said the committee will start reviewing policies tomorrow. The chair said staff will upload a sheet listing which attachments to bring.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:07:32",
+        "q": "Planning Department presentation begins"
+      },
+      {
+        "t": "0:26:34",
+        "q": "Public testimony begins"
+      },
+      {
+        "t": "1:56:04",
+        "q": "\"I'm here in support of Bill 108\""
+      },
+      {
+        "t": "2:19:09",
+        "q": "Chair explains the review timeline"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "south-maui-community-plan-review",
+        "title": "South Maui Community Plan review"
+      },
+      {
+        "slug": "liloa-drive-extension-in-kihei",
+        "title": "Līloa Drive extension in Kīhei"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Disaster Recovery, International Affairs, and Planning Committee",
+        "group": "council",
+        "short": [
+          "DRIP"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 108 (2026)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Water",
+      "since": "Sep 14, 2026",
+      "oneLine": "A testifier said planned pumping of an aquifer would exceed its estimated sustainable yield.",
+      "why": "The testifier said aquifers pumped too hard can be destroyed and do not recover.",
+      "deadlines": [],
+      "next": "",
+      "brief": "A testifier said the central Maui water system's projected demand is already 98 percent of estimated capacity.[[#1]] A testifier said new developments plan to provide private water through reverse osmosis.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Sep",
+          "day": "14",
+          "source": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+          "kind": "tv",
+          "title": "Residents testify on updated South Maui Community Plan",
+          "note": "A testifier said planned pumping of an aquifer would exceed its estimated sustainable yield.",
+          "proof": "0:45:46",
+          "view": {
+            "type": "meeting",
+            "id": "lui2UwEGmm8"
+          },
+          "seek": "0:45:46"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Sep 14",
+          "where": "Meeting video at 0:45:46",
+          "view": {
+            "type": "meeting",
+            "id": "lui2UwEGmm8"
+          },
+          "seek": "0:45:46"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Sep 14",
+          "where": "Meeting video at 0:28:38",
+          "view": {
+            "type": "meeting",
+            "id": "lui2UwEGmm8"
+          },
+          "seek": "0:28:38"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}
