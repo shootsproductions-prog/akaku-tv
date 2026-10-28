@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T07:26:10.319Z",
+  "updatedAt": "2026-10-28T09:26:11.489Z",
   "count": 156,
   "issues": [
     {
@@ -16304,7 +16304,7 @@
       ],
       "status": "active",
       "pinned": false,
-      "firstSeenISO": "2026-09-29",
+      "firstSeenISO": "2026-04-21",
       "lastSeenISO": "2026-09-29",
       "signals": {
         "meetingsLast30d": 1,
@@ -16318,6 +16318,13 @@
           "name": "Maui County Council",
           "group": "council",
           "short": []
+        },
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
         }
       ],
       "bills": [
@@ -16376,6 +16383,19 @@
             "endTs": "1:15:05"
           },
           "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-04-21",
+          "text": "Add fee waivers from an earlier workforce housing ordinance into Appendix B rates and fees: The motion carried.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iRjah0zHtLw",
+            "ts": "5:39:36",
+            "retrievedISO": "2026-10-17T01:44:37.372Z",
+            "endTs": "5:40:32"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
         }
       ],
       "sourceTypes": [
@@ -34401,7 +34421,7 @@
       ],
       "status": "active",
       "pinned": false,
-      "firstSeenISO": "2026-08-31",
+      "firstSeenISO": "2026-04-21",
       "lastSeenISO": "2026-10-09",
       "signals": {
         "meetingsLast30d": 1,
@@ -34421,6 +34441,13 @@
           "group": "council",
           "short": [
             "WASSP"
+          ]
+        },
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
           ]
         }
       ],
@@ -34984,6 +35011,19 @@
             "endTs": "0:06:02"
           },
           "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-04-21",
+          "text": "A co-director of the Maui Wildfire Exposure Study said more than 2,000 residents have taken part.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iRjah0zHtLw",
+            "ts": "0:15:14",
+            "retrievedISO": "2026-10-17T01:44:37.372Z",
+            "endTs": "0:16:32"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
         }
       ],
       "sourceTypes": [

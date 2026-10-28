@@ -9,7 +9,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-08-31",
+  "firstSeenISO": "2026-04-21",
   "lastSeenISO": "2026-10-09",
   "signals": {
     "meetingsLast30d": 1,
@@ -29,6 +29,13 @@
       "group": "council",
       "short": [
         "WASSP"
+      ]
+    },
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
       ]
     }
   ],
@@ -592,6 +599,19 @@
         "endTs": "0:06:02"
       },
       "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "A co-director of the Maui Wildfire Exposure Study said more than 2,000 residents have taken part.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iRjah0zHtLw",
+        "ts": "0:15:14",
+        "retrievedISO": "2026-10-17T01:44:37.372Z",
+        "endTs": "0:16:32"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
     }
   ],
   "sourceTypes": [

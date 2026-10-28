@@ -7,7 +7,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-09-29",
+  "firstSeenISO": "2026-04-21",
   "lastSeenISO": "2026-09-29",
   "signals": {
     "meetingsLast30d": 1,
@@ -21,6 +21,13 @@
       "name": "Maui County Council",
       "group": "council",
       "short": []
+    },
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
     }
   ],
   "bills": [
@@ -79,6 +86,19 @@
         "endTs": "1:15:05"
       },
       "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "Add fee waivers from an earlier workforce housing ordinance into Appendix B rates and fees: The motion carried.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iRjah0zHtLw",
+        "ts": "5:39:36",
+        "retrievedISO": "2026-10-17T01:44:37.372Z",
+        "endTs": "5:40:32"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
     }
   ],
   "sourceTypes": [
