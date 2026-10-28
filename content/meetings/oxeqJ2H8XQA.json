@@ -4,13 +4,11 @@
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-16T04:41:38.851Z",
   "meetingDateISO": "2026-09-09",
-  "source": {
-    "youtubeUrl": "https://youtu.be/oxeqJ2H8XQA"
-  },
   "headline": "Committee weighs new criteria for Kīhei apartment district properties",
   "topics": [
     "Housing"
   ],
+  "bodyType": "council",
   "meeting": {
     "id": "oxeqJ2H8XQA",
     "mon": "Sep",
@@ -104,5 +102,7 @@
       ]
     }
   ],
-  "bodyType": "council"
+  "source": {
+    "youtubeUrl": "https://youtu.be/oxeqJ2H8XQA"
+  }
 }

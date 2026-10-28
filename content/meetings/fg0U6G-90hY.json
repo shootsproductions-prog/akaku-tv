@@ -4,11 +4,9 @@
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-16T04:26:56.892Z",
   "meetingDateISO": "2026-09-09",
-  "source": {
-    "youtubeUrl": "https://youtu.be/fg0U6G-90hY"
-  },
   "headline": "HLU Committee reviews proposed shoreline conditions before lunch recess",
   "topics": [],
+  "bodyType": "council",
   "meeting": {
     "id": "fg0U6G-90hY",
     "mon": "Sep",
@@ -55,5 +53,7 @@
     "bills": []
   },
   "issues": [],
-  "bodyType": "council"
+  "source": {
+    "youtubeUrl": "https://youtu.be/fg0U6G-90hY"
+  }
 }

@@ -4,13 +4,11 @@
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-16T15:07:55.228Z",
   "meetingDateISO": "2026-09-02",
-  "source": {
-    "youtubeUrl": "https://youtu.be/UmT7VOj3Qn0"
-  },
   "headline": "Committee hears testimony on license plate reader, facial recognition bills",
   "topics": [
     "Disaster Recovery"
   ],
+  "bodyType": "council",
   "meeting": {
     "id": "UmT7VOj3Qn0",
     "mon": "Sep",
@@ -72,5 +70,7 @@
     ]
   },
   "issues": [],
-  "bodyType": "council"
+  "source": {
+    "youtubeUrl": "https://youtu.be/UmT7VOj3Qn0"
+  }
 }

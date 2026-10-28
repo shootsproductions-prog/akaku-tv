@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-28T04:23:47.291Z",
-  "etag": "2fa604cdc5c6d27c4600e7f0891725ffc9604f056084968da15a11b24c7f48a9",
-  "count": 31,
+  "updatedAt": "2026-10-28T04:25:09.366Z",
+  "etag": "eec4abb276bd5c0d5d1621c688292a4cd4c3fea9eeef700ea95fdf7e169ee8aa",
+  "count": 42,
   "meetings": [
     {
       "videoId": "4c-8wbOf3hY",
@@ -154,6 +154,24 @@
       ],
       "updatedAt": "2026-10-26T08:38:17.423Z",
       "sha256": "a407ddd51e127e3c022ea5e7989368916776357f21c516a6844993494c8a0d20"
+    },
+    {
+      "videoId": "5C73aQDRPR4",
+      "status": "reviewed",
+      "meetingDateISO": "2026-10-07",
+      "bodyType": "council",
+      "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+      "headline": "Committee amends South Maui plan on disasters, evacuation and gulches",
+      "summary": "The committee amended South Maui Community Plan items on disaster recovery, evacuation routes and gulch buffers.",
+      "dur": "4 h 57 m",
+      "voteCount": 7,
+      "momentCount": 3,
+      "issues": [
+        "south-maui-community-plan-review",
+        "disinfecting-wastewater-that-reaches-the-ocean"
+      ],
+      "updatedAt": "2026-10-28T04:25:09.366Z",
+      "sha256": "4583f2641696e0ed3e102bdda356cc41a30196d3679f60bea181dae0f9dfe259"
     },
     {
       "videoId": "JURbN1Cr2OE",
@@ -433,6 +451,24 @@
       "sha256": "dc5e344a1302edde55ad58dd1a9f25242dc2fb0b4a763212f46a9d35b2146be6"
     },
     {
+      "videoId": "lui2UwEGmm8",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-14",
+      "bodyType": "council",
+      "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+      "headline": "Residents testify on updated South Maui Community Plan",
+      "summary": "In South Maui, the committee heard public testimony on Bill 108, the updated South Maui Community Plan, and deferred the item.",
+      "dur": "2 h 25 m",
+      "voteCount": 1,
+      "momentCount": 4,
+      "issues": [
+        "south-maui-community-plan-review",
+        "liloa-drive-extension-in-kihei"
+      ],
+      "updatedAt": "2026-10-28T04:25:09.366Z",
+      "sha256": "6c086579760a9a964336601ccb688fb0cf37ec41d4307a791e319b0bdc5ad3c0"
+    },
+    {
       "videoId": "4I6EFuhArJ0",
       "status": "reviewed",
       "meetingDateISO": "2026-09-10",
@@ -472,6 +508,21 @@
       "sha256": "564f888589e11facc1ba98216c7a09473497f39ed82fbd1fa64526d6f1d7f4bb"
     },
     {
+      "videoId": "fg0U6G-90hY",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-09",
+      "bodyType": "council",
+      "body": "Maui County Council Housing and Land Use Committee",
+      "headline": "HLU Committee reviews proposed shoreline conditions before lunch recess",
+      "summary": "The HLU Committee reviewed proposed shoreline conditions, including removing structures near the certified shoreline, before a lunch recess.",
+      "dur": "30 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [],
+      "updatedAt": "2026-10-28T04:25:09.366Z",
+      "sha256": "c36d9ad5a767139f680c7ecaec50ec09f6708eb219b41d63cea1cc51befd4a51"
+    },
+    {
       "videoId": "JbnNdXeWXNo",
       "status": "reviewed",
       "meetingDateISO": "2026-09-09",
@@ -494,6 +545,23 @@
       "sha256": "79070c03effb854549a01b66d7daa7ef750a78439d7b39a8a91adc0b2035f81f"
     },
     {
+      "videoId": "oxeqJ2H8XQA",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-09",
+      "bodyType": "council",
+      "body": "Maui County Council Housing and Land Use Committee",
+      "headline": "Committee weighs new criteria for Kīhei apartment district properties",
+      "summary": "Committee weighs new criteria for Kīhei apartment district properties.",
+      "dur": "52 m",
+      "voteCount": 0,
+      "momentCount": 2,
+      "issues": [
+        "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p"
+      ],
+      "updatedAt": "2026-10-28T04:25:09.366Z",
+      "sha256": "ee39846ef20ec8ecdc50bf5e4572918a9b28f94a9f3e36011e5adb1ae0ea34e5"
+    },
+    {
       "videoId": "SVe2yERyBEk",
       "status": "reviewed",
       "meetingDateISO": "2026-09-09",
@@ -514,6 +582,28 @@
       "sha256": "ad7ee4273fe79f3ca8d848a821057b947971015a6e32f6a50cf46a3c16877571"
     },
     {
+      "videoId": "vp8RrdPVBC0",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-09",
+      "bodyType": "board",
+      "body": "Maui Liquor Commission",
+      "headline": "Maui Liquor Commission",
+      "summary": "The Liquor Control Commission accepted a brewery's application pending zoning, and the department director announced his December 31 retirement.",
+      "dur": "2 h 56 m",
+      "voteCount": 0,
+      "momentCount": 6,
+      "issues": [
+        "liquor-control-director-retirement-and-replacement-search",
+        "aloha-spirits-brewery-liquor-license-and-zoning-limits",
+        "emergency-rule-for-relocating-fire-destroyed-liquor-licenses",
+        "full-rewrite-of-county-liquor-rules",
+        "liquor-rules-for-nonprofit-fundraising-auctions",
+        "liquor-rule-changes-to-speed-restaurant-applications"
+      ],
+      "updatedAt": "2026-10-28T04:25:09.366Z",
+      "sha256": "c334c8e66458b84d128bcee9ce5ef2d3b7d1029eef2f34a0bee2264dd5de7a07"
+    },
+    {
       "videoId": "x2IjROxHuYY",
       "status": "reviewed",
       "meetingDateISO": "2026-09-09",
@@ -530,6 +620,113 @@
       ],
       "updatedAt": "2026-10-25T23:58:43.034Z",
       "sha256": "b199611c6586f50970399b13730409acd3600886d26ad80e10daeeb5c2d91b49"
+    },
+    {
+      "videoId": "Cqu5kcGNyBc",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-08",
+      "bodyType": "board",
+      "body": "Council on Aging",
+      "headline": "Council on Aging",
+      "summary": "The Council on Aging had ethics training and heard the office won $390,000 for a program helping older adults leaving the hospital.",
+      "dur": "1 h 22 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [
+        "kupuna-locally-grown-produce-pilot",
+        "rural-health-grant-for-kupuna-leaving-the-hospital",
+        "lanai-harbor-damaged-by-storm",
+        "kupuna-cited-after-unlicensed-contractor-work",
+        "council-on-aging-four-year-plan"
+      ],
+      "updatedAt": "2026-10-28T04:25:09.366Z",
+      "sha256": "5c2b69e463407e4c34c1a98b2da9d17c2468921fcd935b250585041cca531405"
+    },
+    {
+      "videoId": "UC-kpvvm-hQ",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-03",
+      "bodyType": "council",
+      "body": "Maui County Council Public Hearing",
+      "headline": "Maui County Council Public Hearing",
+      "summary": "The Council heard testimony on Bills 163 CD1 and 164 CD1, including concerns about water and an unfinished environmental impact statement.",
+      "dur": "34 m",
+      "voteCount": 3,
+      "momentCount": 3,
+      "issues": [
+        "bills-163-and-164-for-163-acre-central-maui-growth"
+      ],
+      "updatedAt": "2026-10-28T04:25:09.366Z",
+      "sha256": "bf58e120e9339d620a77185ae131c48981cbdc88884e61407e7cf5fe30b60486"
+    },
+    {
+      "videoId": "k-_ISK9hdeQ",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-02",
+      "bodyType": "council",
+      "body": "Maui County Council Housing and Land Use Committee",
+      "headline": "Maui County Council Housing and Land Use Committee",
+      "summary": "Members added conditions to the Pahia Sugar Mill rezoning bills and voted to recommend Bill 85 on public hearing notices.",
+      "dur": "2 h 58 m",
+      "voteCount": 0,
+      "momentCount": 4,
+      "issues": [
+        "paia-sugar-mill-light-industrial-rezoning",
+        "planning-hearing-notices-outside-newspapers-in-bill-85"
+      ],
+      "updatedAt": "2026-10-28T04:25:09.366Z",
+      "sha256": "6072b0ca3962f79b277733bff5d1baced9730cdc722a676c99edba488df78d96"
+    },
+    {
+      "videoId": "NxeXEYgEbYI",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-02",
+      "bodyType": "council",
+      "body": "Maui County Council Housing and Land Use Committee",
+      "headline": "Committee weighs conditions for Pahia Sugar Mill rezoning",
+      "summary": "Members discussed conditions on rezoning the Pahia Sugar Mill site, including water rules and open space, before going into recess.",
+      "dur": "1 h 19 m",
+      "voteCount": 0,
+      "momentCount": 4,
+      "issues": [
+        "paia-sugar-mill-light-industrial-rezoning"
+      ],
+      "updatedAt": "2026-10-28T04:25:09.366Z",
+      "sha256": "da1c5e74709347b6c93edf615f8a78fda938cafa1c2bc468fa7c4f43743c308d"
+    },
+    {
+      "videoId": "tTdredHGJvc",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-02",
+      "bodyType": "board",
+      "body": "Maui Civil Service Commission",
+      "headline": "Maui Civil Service Commission",
+      "summary": "The Civil Service Commission heard a guest describe the personnel director's work and discussed candidate interviews planned for the 30th.",
+      "dur": "2 h 07 m",
+      "voteCount": 0,
+      "momentCount": 4,
+      "issues": [
+        "search-for-new-department-of-personnel-services-director"
+      ],
+      "updatedAt": "2026-10-28T04:25:09.366Z",
+      "sha256": "00b7b86a1f1ea1864bfd4f55f27c9444818090ab059076115ed06a620ac29018"
+    },
+    {
+      "videoId": "UmT7VOj3Qn0",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-02",
+      "bodyType": "council",
+      "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+      "headline": "Committee hears testimony on license plate reader, facial recognition bills",
+      "summary": "The committee heard police, prosecutors and the public on Bills 112 and 113 on facial recognition and license plate readers, then recessed until tomorrow.",
+      "dur": "2 h 34 m",
+      "voteCount": 4,
+      "momentCount": 4,
+      "issues": [
+        "license-plate-reader-and-facial-recognition-bills"
+      ],
+      "updatedAt": "2026-10-28T04:25:09.366Z",
+      "sha256": "30d7d5c958b3fa85a9f39dbf1501dece6a395f18ec887e6c50124d18e45d1849"
     },
     {
       "videoId": "xpuBwsHeXRw",

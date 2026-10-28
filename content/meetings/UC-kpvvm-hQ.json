@@ -4,14 +4,12 @@
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-16T05:04:39.099Z",
   "meetingDateISO": "2026-09-03",
-  "source": {
-    "youtubeUrl": "https://youtu.be/UC-kpvvm-hQ"
-  },
   "headline": "Maui County Council Public Hearing",
   "topics": [
     "Water",
     "Housing"
   ],
+  "bodyType": "council",
   "meeting": {
     "id": "UC-kpvvm-hQ",
     "mon": "Sep",
@@ -171,5 +169,7 @@
       ]
     }
   ],
-  "bodyType": "council"
+  "source": {
+    "youtubeUrl": "https://youtu.be/UC-kpvvm-hQ"
+  }
 }

@@ -4,15 +4,13 @@
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-07T23:22:13.595Z",
   "meetingDateISO": "2026-09-08",
-  "source": {
-    "youtubeUrl": "https://youtu.be/Cqu5kcGNyBc"
-  },
+  "headline": "Council on Aging",
   "topics": [
     "Housing",
     "Food Security",
     "Disaster Recovery"
   ],
-  "headline": "Council on Aging",
+  "bodyType": "board",
   "meeting": {
     "id": "Cqu5kcGNyBc",
     "mon": "Sep",
@@ -78,5 +76,7 @@
     "bills": []
   },
   "issues": [],
-  "bodyType": "board"
+  "source": {
+    "youtubeUrl": "https://youtu.be/Cqu5kcGNyBc"
+  }
 }

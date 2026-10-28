@@ -4,14 +4,12 @@
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-16T16:43:03.928Z",
   "meetingDateISO": "2026-09-02",
-  "source": {
-    "youtubeUrl": "https://youtu.be/k-_ISK9hdeQ"
-  },
   "headline": "Maui County Council Housing and Land Use Committee",
   "topics": [
     "Water",
     "Food Security"
   ],
+  "bodyType": "council",
   "meeting": {
     "id": "k-_ISK9hdeQ",
     "mon": "Sep",
@@ -138,5 +136,7 @@
       ]
     }
   ],
-  "bodyType": "council"
+  "source": {
+    "youtubeUrl": "https://youtu.be/k-_ISK9hdeQ"
+  }
 }

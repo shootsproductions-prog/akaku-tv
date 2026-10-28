@@ -4,13 +4,11 @@
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-07T23:21:40.947Z",
   "meetingDateISO": "2026-09-09",
-  "source": {
-    "youtubeUrl": "https://youtu.be/vp8RrdPVBC0"
-  },
+  "headline": "Maui Liquor Commission",
   "topics": [
     "Disaster Recovery"
   ],
-  "headline": "Maui Liquor Commission",
+  "bodyType": "board",
   "meeting": {
     "id": "vp8RrdPVBC0",
     "mon": "Sep",
@@ -101,5 +99,7 @@
     "bills": []
   },
   "issues": [],
-  "bodyType": "board"
+  "source": {
+    "youtubeUrl": "https://youtu.be/vp8RrdPVBC0"
+  }
 }

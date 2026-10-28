@@ -4,15 +4,13 @@
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-16T22:24:10.239Z",
   "meetingDateISO": "2026-10-07",
-  "source": {
-    "youtubeUrl": "https://youtu.be/5C73aQDRPR4"
-  },
   "headline": "Committee amends South Maui plan on disasters, evacuation and gulches",
   "topics": [
     "Water",
     "Housing",
     "Disaster Recovery"
   ],
+  "bodyType": "council",
   "meeting": {
     "id": "5C73aQDRPR4",
     "mon": "Oct",
@@ -125,5 +123,7 @@
       ]
     }
   ],
-  "bodyType": "council"
+  "source": {
+    "youtubeUrl": "https://youtu.be/5C73aQDRPR4"
+  }
 }

@@ -4,15 +4,13 @@
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-16T14:27:25.553Z",
   "meetingDateISO": "2026-09-14",
-  "source": {
-    "youtubeUrl": "https://youtu.be/lui2UwEGmm8"
-  },
   "headline": "Residents testify on updated South Maui Community Plan",
   "topics": [
     "Water",
     "Housing",
     "Disaster Recovery"
   ],
+  "bodyType": "council",
   "meeting": {
     "id": "lui2UwEGmm8",
     "mon": "Sep",
@@ -122,5 +120,7 @@
       ]
     }
   ],
-  "bodyType": "council"
+  "source": {
+    "youtubeUrl": "https://youtu.be/lui2UwEGmm8"
+  }
 }

@@ -4,15 +4,13 @@
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-16T23:17:28.076Z",
   "meetingDateISO": "2026-09-02",
-  "source": {
-    "youtubeUrl": "https://youtu.be/NxeXEYgEbYI"
-  },
   "headline": "Committee weighs conditions for Pahia Sugar Mill rezoning",
   "topics": [
     "Water",
     "Housing",
     "Food Security"
   ],
+  "bodyType": "council",
   "meeting": {
     "id": "NxeXEYgEbYI",
     "mon": "Sep",
@@ -171,5 +169,7 @@
       ]
     }
   ],
-  "bodyType": "council"
+  "source": {
+    "youtubeUrl": "https://youtu.be/NxeXEYgEbYI"
+  }
 }
