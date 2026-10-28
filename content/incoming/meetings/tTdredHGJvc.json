@@ -1,0 +1,69 @@
+{
+  "videoId": "tTdredHGJvc",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-07T23:23:33.924Z",
+  "meetingDateISO": "2026-09-02",
+  "source": {
+    "youtubeUrl": "https://youtu.be/tTdredHGJvc"
+  },
+  "topics": [],
+  "headline": "Maui Civil Service Commission",
+  "meeting": {
+    "id": "tTdredHGJvc",
+    "mon": "Sep",
+    "day": "2",
+    "date": "Wed, Sep 2, 2026",
+    "body": "Maui Civil Service Commission",
+    "dur": "2 h 07 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The Civil Service Commission heard a guest describe the personnel director's work and discussed candidate interviews planned for the 30th.",
+    "recap": "The Civil Service Commission of the County of Maui met on Wednesday, September 2nd, 2026.[[0:00:30]] The commission approved its August 5th, 2026 minutes with corrections by voice vote.[[0:03:29]] A guest spoke about the day-to-day work of the Director of Personnel Services.[[0:11:13]] She said the County has 3,000 employees and 20 departments.[[0:14:44]] She said a recent focus has been recruiting, because the County has many vacancies.[[0:18:26]] A firefighter testified that five emails about a timeline had not been answered.[[0:50:19]] Staff said a consultant's review covers recruitment and hiring, classification, and reorganization.[[0:57:16]] Staff said the consultant has done 46 interviews, with 20 more scheduled.[[1:02:25]] Staff said two director candidates had confirmed so far, with a deadline this Friday.[[1:12:37]] A commissioner pointed to a 25-point gap between the fourth- and fifth-ranked candidates.[[1:19:05]] A vote was called, but the captions do not clearly show the motion or the result.[[1:22:45]] Commissioners discussed a full day of candidate interviews on the 30th.[[1:26:14]] A speaker said a letter could be drafted and ready for the 16th.[[1:43:26]] Commissioners discussed writing interview questions in groups of two.[[1:57:31]] A member suggested the next agenda list an executive session (a closed-door discussion) from 12 to 1.[[2:01:53]]",
+    "decided": [
+      "The commission approved the August 5th, 2026 minutes with corrections.",
+      "A vote was called on the revised August 12th, 2026 minutes, but the result was not stated in the captions.",
+      "The commission took a recess.",
+      "A vote was called during discussion of the director candidate pool, but the motion and result are not clear."
+    ],
+    "next": "The chair suggested putting the director search topic on the agenda for the 16th. A letter is to be drafted and ready for the 16th. Staff will research the Sunshine law question about executive session. Commissioners will work on interview questions between now and the 16th.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:14:44",
+        "q": "\"There's 3,000 employees. There's 20 departments.\""
+      },
+      {
+        "t": "0:49:05",
+        "q": "\"I'm loving retirement so it was all worth it.\""
+      },
+      {
+        "t": "0:50:19",
+        "q": "Firefighter testimony on unanswered emails"
+      },
+      {
+        "t": "1:19:05",
+        "q": "Discussion of the 25-point gap between ranked candidates"
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "search-for-new-department-of-personnel-services-director",
+        "title": "Search for new Department of Personnel Services director"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Civil Service Commission",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "board"
+}
