@@ -1,0 +1,540 @@
+{
+  "slug": "paia-40-acre-housing-project-rezoning",
+  "title": "Pāʻia 40-acre housing project rezoning",
+  "summary": "On September 8, 2026, the Maui Planning Commission recommended that the County Council approve the community plan change unanimously and the Pāʻia zoning change 5 to 3, with conditions, including free parking for Maui residents and more community engagement. The project is about 170 homes on 40.392 acres, with at least 34 workforce rentals kept affordable forever. The council will review the recommendations, and the commission's attorney advised holding the zoning until the state Land Use Commission approves an urban designation.",
+  "topics": [
+    "housing",
+    "land-use",
+    "water"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-05-20",
+  "lastSeenISO": "2026-09-08",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-27",
+  "timeline": [
+    {
+      "dateISO": "2026-09-08",
+      "text": "Motion to recommend approval of the change in zoning with the council's three conditions, the owner's build order (infrastructure, parking lot, then workforce and gap-group housing) and added gap-group housing, as amended: The commission voted to recommend that the council approve the change in zoning with conditions, as amended.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tcJLaiUZhjo",
+        "ts": "6:52:52",
+        "endTs": "6:54:07",
+        "retrievedISO": "2026-10-07T23:03:57.780Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2026-09-08",
+      "text": "The owner's representative said the project must show its water source at subdivision or it won't be approved.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tcJLaiUZhjo",
+        "ts": "6:51:50",
+        "endTs": "6:52:20",
+        "retrievedISO": "2026-10-07T23:03:57.780Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2026-09-08",
+      "text": "Comment requesting additional affordable housing: A proposed comment asking the council to request more affordable housing was not added.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tcJLaiUZhjo",
+        "ts": "6:37:26",
+        "endTs": "6:37:56",
+        "retrievedISO": "2026-10-07T23:03:57.780Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2026-09-08",
+      "text": "Amendment: owner to commit to meaningful additional community engagement in Pahia: Commissioners added a request that the property owner commit to meaningful, additional community engagement in Pahia.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tcJLaiUZhjo",
+        "ts": "6:18:41",
+        "endTs": "6:19:11",
+        "retrievedISO": "2026-10-07T23:03:57.780Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2026-09-08",
+      "text": "Amendment: free parking for Maui residents at the proposed public parking lot: Commissioners added to the main motion that Maui residents can park free in the planned public parking lot.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tcJLaiUZhjo",
+        "ts": "6:08:26",
+        "endTs": "6:08:56",
+        "retrievedISO": "2026-10-07T23:03:57.780Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2026-09-08",
+      "text": "Motion to recommend denial of the proposed change in zoning: A motion to recommend that the council deny the change in zoning failed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tcJLaiUZhjo",
+        "ts": "5:50:48",
+        "endTs": "5:52:08",
+        "retrievedISO": "2026-10-07T23:03:57.780Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2026-09-08",
+      "text": "The planning department, which first recommended deferral, said it could now recommend zoning approval.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tcJLaiUZhjo",
+        "ts": "5:26:00",
+        "endTs": "5:26:35",
+        "retrievedISO": "2026-10-07T23:03:57.780Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2026-09-08",
+      "text": "Recommendation on the Pahia–Haʻikū community plan amendment from open space, agriculture and heavy industrial to public/quasi-public, multifamily, business commercial and single family: Commissioners voted unanimously to recommend that the County Council approve the community plan amendment.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tcJLaiUZhjo",
+        "ts": "5:17:06",
+        "endTs": "5:18:05",
+        "retrievedISO": "2026-10-07T23:03:57.780Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2026-09-08",
+      "text": "The project may return to the commission later for an Special Management Area (SMA) (coastal area) permit.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tcJLaiUZhjo",
+        "ts": "3:29:30",
+        "endTs": "3:30:00",
+        "retrievedISO": "2026-10-07T23:03:57.780Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2026-09-08",
+      "text": "The commission's attorney advised the council to hold the zoning until the state Land Use Commission approves a change from agriculture to urban.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tcJLaiUZhjo",
+        "ts": "3:29:07",
+        "endTs": "3:29:39",
+        "retrievedISO": "2026-10-07T23:03:57.780Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2026-09-08",
+      "text": "The County Council will review the commission's recommendations.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tcJLaiUZhjo",
+        "ts": "3:26:11",
+        "endTs": "3:26:41",
+        "retrievedISO": "2026-10-07T23:03:57.780Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2026-09-08",
+      "text": "A Pahia homeowner of 25 years testified in opposition.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tcJLaiUZhjo",
+        "ts": "1:36:35",
+        "endTs": "1:37:05",
+        "retrievedISO": "2026-10-07T23:03:57.780Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2026-09-08",
+      "text": "A small business owner who works in Pahia testified in strong support.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tcJLaiUZhjo",
+        "ts": "1:33:39",
+        "endTs": "1:34:30",
+        "retrievedISO": "2026-10-07T23:03:57.780Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2026-09-08",
+      "text": "The landowner's team plans two private wells for drinking water because the county system is basically at capacity.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tcJLaiUZhjo",
+        "ts": "0:55:47",
+        "endTs": "0:56:17",
+        "retrievedISO": "2026-10-07T23:03:57.780Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2026-09-08",
+      "text": "Non-drinking water would come from an existing brackish well and treated wastewater.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tcJLaiUZhjo",
+        "ts": "0:55:21",
+        "endTs": "0:55:53",
+        "retrievedISO": "2026-10-07T23:03:57.780Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2026-09-08",
+      "text": "The projected drinking water demand is 75,738 gallons per day.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tcJLaiUZhjo",
+        "ts": "0:53:53",
+        "endTs": "0:54:23",
+        "retrievedISO": "2026-10-07T23:03:57.780Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2026-09-08",
+      "text": "At least 34 workforce rentals would stay affordable forever for households earning up to 120% of the area median income.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tcJLaiUZhjo",
+        "ts": "0:35:35",
+        "endTs": "0:36:05",
+        "retrievedISO": "2026-10-07T23:03:57.780Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2026-09-08",
+      "text": "The landowner's team described about 170 homes: 120 single-family and 50 multifamily.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tcJLaiUZhjo",
+        "ts": "0:34:34",
+        "endTs": "0:35:04",
+        "retrievedISO": "2026-10-07T23:03:57.780Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2026-09-08",
+      "text": "The landowner said the plan targets people priced out, including a 'gap group' that earns too much for traditional affordable housing but can't afford today's market.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tcJLaiUZhjo",
+        "ts": "0:16:49",
+        "endTs": "0:17:19",
+        "retrievedISO": "2026-10-07T23:03:57.780Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2026-09-08",
+      "text": "The commission was asked only for a recommendation to the council, not a final approval.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tcJLaiUZhjo",
+        "ts": "0:09:04",
+        "endTs": "0:09:34",
+        "retrievedISO": "2026-10-07T23:03:57.780Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2026-09-08",
+      "text": "The main item was a County Council proposal to change the community plan and zoning (land-use rules) for 40.392 acres in Pahia.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tcJLaiUZhjo",
+        "ts": "0:02:48",
+        "endTs": "0:03:44",
+        "retrievedISO": "2026-10-07T23:03:57.780Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2026-06-19",
+      "text": "A testifier spoke in support of a housing project in Pahia town.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "N5Uix8ba9zI",
+        "ts": "1:08:16",
+        "endTs": "1:09:03",
+        "retrievedISO": "2026-10-16T18:06:35.375Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-06-19",
+      "text": "A committee change requires the project's workforce rental units to stay affordable forever.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lLsXXrEBmuw",
+        "ts": "1:00:16",
+        "endTs": "1:00:46",
+        "retrievedISO": "2026-10-16T18:09:11.606Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-06-19",
+      "text": "Resolution 26-84 would send land use bills for the EC Pahia Town project to the Maui Planning Commission.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lLsXXrEBmuw",
+        "ts": "0:59:38",
+        "endTs": "1:00:08",
+        "retrievedISO": "2026-10-16T18:09:11.606Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "The resolution goes next to the Planning Commission.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "2:17:37",
+        "endTs": "2:18:07",
+        "retrievedISO": "2026-10-17T00:13:37.925Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "The committee recommended sending a Pahia housing and business project's plan and zoning changes to the Planning Commission.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "2:17:15",
+        "endTs": "2:17:51",
+        "retrievedISO": "2026-10-17T00:13:37.925Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "A member asked the project team to keep a schedule of open community meetings to share when the item returns.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "2:05:39",
+        "endTs": "2:06:20",
+        "retrievedISO": "2026-10-17T00:13:37.925Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "The planning director said council-started projects get less review, which could reduce community input.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "1:17:27",
+        "endTs": "1:18:23",
+        "retrievedISO": "2026-10-17T00:13:37.925Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "The applicant's attorney said 34 workforce rental units would stay affordable in perpetuity, meaning forever.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "1:14:41",
+        "endTs": "1:15:11",
+        "retrievedISO": "2026-10-17T00:13:37.925Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "A market study recommended pricing the market homes at $1 million to $1.6 million.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "1:09:26",
+        "endTs": "1:09:56",
+        "retrievedISO": "2026-10-17T00:13:37.925Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "Gap group homes for sale would target households between 120 and 220 percent of the area median income.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "1:09:02",
+        "endTs": "1:09:32",
+        "retrievedISO": "2026-10-17T00:13:37.925Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "Workforce rentals would serve households earning up to 120 percent of the area median income.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "1:08:50",
+        "endTs": "1:09:20",
+        "retrievedISO": "2026-10-17T00:13:37.925Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "The plan also includes about 170 homes: 120 single-family and 50 multi-family.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "1:07:54",
+        "endTs": "1:08:24",
+        "retrievedISO": "2026-10-17T00:13:37.925Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "The project team said the plan includes a public parking lot of about 200 stalls.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "1:06:44",
+        "endTs": "1:07:14",
+        "retrievedISO": "2026-10-17T00:13:37.925Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "Resolution 26-84 would send Pahia community plan and zoning changes for over 40 acres to the Maui Planning Commission.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "0:52:47",
+        "endTs": "0:53:17",
+        "retrievedISO": "2026-10-17T00:13:37.925Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "One testifier asked the committee to require more community meetings in Pahia first.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "0:41:33",
+        "endTs": "0:42:03",
+        "retrievedISO": "2026-10-17T00:13:37.925Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "A supporter said Maui is in a housing crisis, and the project would add homes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "0:22:51",
+        "endTs": "0:23:21",
+        "retrievedISO": "2026-10-17T00:13:37.925Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "Some testifiers opposed the project, citing Pāʻia's small-town character.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "0:12:33",
+        "endTs": "0:13:08",
+        "retrievedISO": "2026-10-17T00:13:37.925Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui Planning Commission",
+      "group": "board",
+      "short": []
+    },
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    },
+    {
+      "name": "Housing and Land Use Committee",
+      "group": "council",
+      "short": [
+        "HLU"
+      ]
+    }
+  ],
+  "bills": [
+    "Resolution 26-84"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

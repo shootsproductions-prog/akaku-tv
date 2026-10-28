@@ -1,0 +1,92 @@
+{
+  "slug": "planning-hearing-notices-outside-newspapers-in-bill-85",
+  "title": "Planning hearing notices outside newspapers in Bill 85",
+  "summary": "A committee member moved on September 29 to approve a report on Bill 85 (2026), but the vote is not in the recording. The bill would let Planning Commission hearing notices run in any suitable publication circulated across Maui County, not only a newspaper. Planning staff said the change would save the county money, and one caller asked that notices also be posted on county bulletin boards.",
+  "topics": [
+    "government",
+    "land-use"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-09-02",
+  "lastSeenISO": "2026-09-29",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 2,
+    "mentionsLast30d": 1,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-27",
+  "timeline": [
+    {
+      "dateISO": "2026-09-29",
+      "text": "Committee Report 26-67, Bill 85 (2026), public hearing notices: A member moved to approve a report on Bill 85, letting Planning Commission hearing notices run in any countywide publication instead of only a newspaper, but the vote is not in the recording.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lg4miTbnuz0",
+        "ts": "2:44:45",
+        "endTs": "2:45:30",
+        "retrievedISO": "2026-10-23T00:06:40.815Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-09-02",
+      "text": "Planning staff said the change would save the county money.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "k-_ISK9hdeQ",
+        "ts": "2:52:16",
+        "endTs": "2:52:49",
+        "retrievedISO": "2026-10-16T16:43:03.917Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-02",
+      "text": "Bill 85 would let hearing notices run in any suitable publication circulated across Maui County.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "k-_ISK9hdeQ",
+        "ts": "2:51:13",
+        "endTs": "2:51:47",
+        "retrievedISO": "2026-10-16T16:43:03.917Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-09-02",
+      "text": "One caller asked that notices also be posted on county bulletin boards.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "E8RNq6wUE1Y",
+        "ts": "1:58:52",
+        "endTs": "1:59:39",
+        "retrievedISO": "2026-10-16T08:22:23.095Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    },
+    {
+      "name": "Housing and Land Use Committee",
+      "group": "council",
+      "short": [
+        "HLU"
+      ]
+    }
+  ],
+  "bills": [
+    "Bill 85 (2026)"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
