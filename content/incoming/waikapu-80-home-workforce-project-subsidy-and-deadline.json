@@ -1,0 +1,56 @@
+{
+  "slug": "waikapu-80-home-workforce-project-subsidy-and-deadline",
+  "title": "Waikapū 80-home workforce project subsidy and deadline",
+  "summary": "As of the November 26, 2024 meeting, the developer said construction could start within 8 to 12 months once grant money can be drawn. The project is an 80-unit development that is 100% residential workforce housing. It is backed by a $10.65 million county grant.",
+  "topics": [
+    "housing"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2024-11-26",
+  "lastSeenISO": "2024-11-26",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-28",
+  "timeline": [
+    {
+      "dateISO": "2024-11-26",
+      "text": "The developer said construction could start within 8 to 12 months once grant money can be drawn.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jUG5zrO3VCw",
+        "ts": "0:45:00",
+        "endTs": "0:45:33",
+        "retrievedISO": "2026-10-21T18:04:36.529Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2024-11-26",
+      "text": "A developer described an 80-unit project that is 100% residential workforce housing, backed by a $10.65 million county grant.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jUG5zrO3VCw",
+        "ts": "0:43:08",
+        "endTs": "0:43:40",
+        "retrievedISO": "2026-10-21T18:04:36.529Z"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

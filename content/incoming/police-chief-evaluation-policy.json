@@ -1,0 +1,57 @@
+{
+  "slug": "police-chief-evaluation-policy",
+  "title": "Police chief evaluation policy",
+  "summary": "On November 20, work on the police chief's evaluation was moved to the December meeting under a new title so all members have the full document. The chair will work with the commission secretary to get members the consultant's document and feedback. A first draft of the evaluation policy and process had been due October 31.",
+  "topics": [
+    "public-safety",
+    "government"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2024-10-23",
+  "lastSeenISO": "2024-11-20",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-28",
+  "timeline": [
+    {
+      "dateISO": "2024-11-20",
+      "text": "The chair will work with the commission secretary so members get the consultant's document and feedback, and the item returns in December under a new title.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TxzLnQKaEY0",
+        "ts": "1:47:09",
+        "endTs": "1:47:52",
+        "retrievedISO": "2026-10-15T06:35:19.562Z"
+      },
+      "body": "Police Commission"
+    },
+    {
+      "dateISO": "2024-10-23",
+      "text": "A first draft of a policy for evaluating the police chief is expected October 31.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1hfypFiHaWQ",
+        "ts": "0:26:53",
+        "endTs": "0:27:31",
+        "retrievedISO": "2026-10-15T06:35:36.810Z"
+      },
+      "body": "Police Commission"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Police Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

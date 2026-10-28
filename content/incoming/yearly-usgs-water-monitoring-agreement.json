@@ -1,0 +1,209 @@
+{
+  "slug": "yearly-usgs-water-monitoring-agreement",
+  "title": "Yearly USGS water monitoring agreement",
+  "summary": "Bill 134 would let the mayor sign a water monitoring agreement with the U.S. Geological Survey covering October 1, 2026 through September 30, 2027. It would cost $225,920, with $199,720 from the Department of Water Supply and $26,200 from the USGS. The program collects rainfall, streamflow, and groundwater data used to track water resources on Maui and Molokaʻi.",
+  "topics": [
+    "water",
+    "environment"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2025-08-18",
+  "lastSeenISO": "2026-10-09",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 3,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-28",
+  "timeline": [
+    {
+      "dateISO": "2026-10-09",
+      "text": "The agreement would cost $225,920, with $199,720 from the Department of Water Supply and $26,200 from the U.S. Geological Survey.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mmnN74BJwhw",
+        "ts": "1:31:06",
+        "endTs": "1:31:36",
+        "retrievedISO": "2026-10-16T10:06:23.221Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-10-09",
+      "text": "The program collects rainfall, streamflow, and groundwater data used to track Maui County water resources on Maui and Molokaʻi.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mmnN74BJwhw",
+        "ts": "1:30:52",
+        "endTs": "1:31:22",
+        "retrievedISO": "2026-10-16T10:06:23.221Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-10-09",
+      "text": "The agreement covers October 1, 2026 through September 30, 2027.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mmnN74BJwhw",
+        "ts": "1:30:37",
+        "endTs": "1:31:07",
+        "retrievedISO": "2026-10-16T10:06:23.221Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-10-09",
+      "text": "Bill 134 would let the mayor sign a water monitoring agreement with the U.S. Geological Survey through September 30, 2027.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mmnN74BJwhw",
+        "ts": "1:30:30",
+        "endTs": "1:31:00",
+        "retrievedISO": "2026-10-16T10:06:23.221Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-08-18",
+      "text": "The chair deferred the item, which means it was set aside for now.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "utyxTwSGIas",
+        "ts": "0:33:13",
+        "endTs": "0:33:43",
+        "retrievedISO": "2026-10-18T09:03:10.793Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2025-08-18",
+      "text": "Data from the rain gauge, stream gauge and well stations under the USGS contract is posted live on the USGS website.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "utyxTwSGIas",
+        "ts": "0:26:30",
+        "endTs": "0:27:02",
+        "retrievedISO": "2026-10-18T09:03:10.793Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2025-08-18",
+      "text": "No new monitoring wells are proposed for East Maui.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "utyxTwSGIas",
+        "ts": "0:25:05",
+        "endTs": "0:25:36",
+        "retrievedISO": "2026-10-18T09:03:10.793Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2025-08-18",
+      "text": "The representative said a monitoring well would give better information about the water and hydrology of a West Maui aquifer.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "utyxTwSGIas",
+        "ts": "0:11:48",
+        "endTs": "0:12:27",
+        "retrievedISO": "2026-10-18T09:03:10.793Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2025-08-18",
+      "text": "Written testimony will continue to be accepted into the record.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "utyxTwSGIas",
+        "ts": "0:11:01",
+        "endTs": "0:11:31",
+        "retrievedISO": "2026-10-18T09:03:10.793Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2025-08-18",
+      "text": "The agreement also funds phase one of a study to pick a site for a deep monitoring well in West Maui.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "utyxTwSGIas",
+        "ts": "0:09:13",
+        "endTs": "0:09:52",
+        "retrievedISO": "2026-10-18T09:03:10.793Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2025-08-18",
+      "text": "The water department plans to operate and maintain the new gauge in fiscal year 26.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "utyxTwSGIas",
+        "ts": "0:08:56",
+        "endTs": "0:09:26",
+        "retrievedISO": "2026-10-18T09:03:10.793Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2025-08-18",
+      "text": "The bill passed first reading on August 12, 2025, and still needs a second and final reading.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "utyxTwSGIas",
+        "ts": "0:07:33",
+        "endTs": "0:08:03",
+        "retrievedISO": "2026-10-18T09:03:10.793Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2025-08-18",
+      "text": "The bill would let the mayor sign a joint funding agreement from October 1, 2025 to September 30, 2026.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "utyxTwSGIas",
+        "ts": "0:06:30",
+        "endTs": "0:07:00",
+        "retrievedISO": "2026-10-18T09:03:10.793Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    },
+    {
+      "name": "Water and Infrastructure Committee",
+      "group": "council",
+      "short": [
+        "WAI"
+      ]
+    }
+  ],
+  "bills": [
+    "Bill 134 (2026)"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
