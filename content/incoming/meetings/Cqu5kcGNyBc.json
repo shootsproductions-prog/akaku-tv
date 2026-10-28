@@ -1,0 +1,82 @@
+{
+  "videoId": "Cqu5kcGNyBc",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-07T23:22:13.595Z",
+  "meetingDateISO": "2026-09-08",
+  "source": {
+    "youtubeUrl": "https://youtu.be/Cqu5kcGNyBc"
+  },
+  "topics": [
+    "Housing",
+    "Food Security",
+    "Disaster Recovery"
+  ],
+  "headline": "Council on Aging",
+  "meeting": {
+    "id": "Cqu5kcGNyBc",
+    "mon": "Sep",
+    "day": "8",
+    "date": "Tue, Sep 8, 2026",
+    "body": "Council on Aging",
+    "dur": "1 h 22 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The Council on Aging had ethics training and heard the office won $390,000 for a program helping older adults leaving the hospital.",
+    "recap": "The Council on Aging met at 12:30 p.m. on September 8, 2026.[[0:00:39]] A Board of Ethics staff member gave a training on the code of ethics.[[0:08:12]] Members agreed that anyone who thinks they may have a conflict should email the ethics office.[[0:31:38]] A Lānaʻi member said a storm badly damaged the harbor that receives gasoline and food.[[0:42:49]] A Hāna member reported landslides and fallen trees on Hāna Highway.[[0:44:14]] The program will link older adults leaving the hospital with a community health worker for 90 days.[[0:50:23]] The rural health funds must be encumbered, or committed, by September 30th.[[1:01:38]] A program bringing locally grown fruits and vegetables to kūpuna (elders) started last week.[[1:06:18]] The office is helping an older adult cited for an unpermitted addition to her home.[[1:08:19]] The office helped check on people on the Big Island after a hurricane.[[1:18:18]] State aging executives are likely to meet in the next couple of days on emergency preparedness.[[1:19:22]]",
+    "decided": [
+      "Members agreed that anyone who feels they may have a conflict should email the ethics office."
+    ],
+    "next": "The council secretary was asked to put the ethics office email contact in the minutes. The ethics office asks members to call three days before a meeting if a question involves a vote or deliberation. In the next couple of weeks, the office will gather and analyze survey data and then work on objectives for the four-year plan. It was suggested that a Maui emergency group be invited to give an emergency preparedness presentation.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:42:59",
+        "q": "\"The harbor where we receive our gasoline and our food supplies is like destroyed.\""
+      },
+      {
+        "t": "0:49:08",
+        "q": "$390,000 rural health grant announced"
+      },
+      {
+        "t": "1:02:33",
+        "q": "\"It's as if I'm building the ship as it's sailing.\""
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "kupuna-locally-grown-produce-pilot",
+        "title": "Kūpuna locally grown produce pilot"
+      },
+      {
+        "slug": "rural-health-grant-for-kupuna-leaving-the-hospital",
+        "title": "Rural health grant for kūpuna leaving the hospital"
+      },
+      {
+        "slug": "lanai-harbor-damaged-by-storm",
+        "title": "Lānaʻi harbor damaged by storm"
+      },
+      {
+        "slug": "kupuna-cited-after-unlicensed-contractor-work",
+        "title": "Kūpuna cited after unlicensed contractor work"
+      },
+      {
+        "slug": "council-on-aging-four-year-plan",
+        "title": "Council on Aging four-year plan"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Council on Aging",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "board"
+}
