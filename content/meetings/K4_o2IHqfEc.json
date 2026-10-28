@@ -4,13 +4,11 @@
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-20T00:03:48.844Z",
   "meetingDateISO": "2026-10-19",
-  "source": {
-    "youtubeUrl": "https://youtu.be/K4_o2IHqfEc"
-  },
   "headline": "Maui County Council Water Authority, Social Services, and Parks Committee",
   "topics": [
     "Housing"
   ],
+  "bodyType": "council",
   "meeting": {
     "id": "K4_o2IHqfEc",
     "mon": "Oct",
@@ -132,5 +130,7 @@
       ]
     }
   ],
-  "bodyType": "council"
+  "source": {
+    "youtubeUrl": "https://youtu.be/K4_o2IHqfEc"
+  }
 }

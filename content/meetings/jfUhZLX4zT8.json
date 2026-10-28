@@ -4,11 +4,9 @@
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-22T07:23:23.658Z",
   "meetingDateISO": "2026-10-20",
-  "source": {
-    "youtubeUrl": "https://youtu.be/jfUhZLX4zT8"
-  },
   "headline": "Ethics committee weighs lobbyist rules, recesses before vote",
   "topics": [],
+  "bodyType": "council",
   "meeting": {
     "id": "jfUhZLX4zT8",
     "mon": "Oct",
@@ -68,5 +66,7 @@
     ]
   },
   "issues": [],
-  "bodyType": "council"
+  "source": {
+    "youtubeUrl": "https://youtu.be/jfUhZLX4zT8"
+  }
 }

@@ -1,8 +1,94 @@
 {
-  "updatedAt": "2026-10-26T08:38:17.423Z",
-  "etag": "f4b8dafc35b416d60b8c11e89057735a3169048f0154740261e5899166528a06",
-  "count": 26,
+  "updatedAt": "2026-10-28T04:23:47.291Z",
+  "etag": "2fa604cdc5c6d27c4600e7f0891725ffc9604f056084968da15a11b24c7f48a9",
+  "count": 31,
   "meetings": [
+    {
+      "videoId": "4c-8wbOf3hY",
+      "status": "reviewed",
+      "meetingDateISO": "2026-10-20",
+      "bodyType": "council",
+      "body": "Maui County Council Government Relations, Ethics, and Transparency Committee",
+      "headline": "Committee weighs lobbyist rules, recesses before voting",
+      "summary": "The committee reviewed Bill 100 on lobbyist rules, discussed a $5,000 penalty, and went into recess before any vote.",
+      "dur": "1 h 37 m",
+      "voteCount": 0,
+      "momentCount": 4,
+      "issues": [
+        "ethics-bills-on-nepotism-lobbyists-and-ex-employees"
+      ],
+      "updatedAt": "2026-10-28T04:23:47.291Z",
+      "sha256": "d0ef90a2bda330b8818ea75cdc6f64a5cf083da380a4891fb9281e3452ea046c"
+    },
+    {
+      "videoId": "4WkkHiuA95Q",
+      "status": "reviewed",
+      "meetingDateISO": "2026-10-20",
+      "bodyType": "council",
+      "body": "Maui County Council Government Relations, Ethics, and Transparency Committee",
+      "headline": "Committee passes amended bill, hears review of county boards",
+      "summary": "The committee passed an amended bill with fines up to $5,000 per violation and heard an update on county boards and commissions.",
+      "dur": "1 h 24 m",
+      "voteCount": 4,
+      "momentCount": 4,
+      "issues": [
+        "cost-of-government-review-of-county-boards",
+        "future-of-the-commission-on-children-and-youth"
+      ],
+      "updatedAt": "2026-10-28T04:23:47.291Z",
+      "sha256": "be506ee12afba3a2d8b01fee6cdcd560f3e1df1f6c75f2fbbedb4a9eb522fb64"
+    },
+    {
+      "videoId": "jfUhZLX4zT8",
+      "status": "reviewed",
+      "meetingDateISO": "2026-10-20",
+      "bodyType": "council",
+      "body": "Maui County Council Government Relations, Ethics, and Transparency Committee",
+      "headline": "Ethics committee weighs lobbyist rules, recesses before vote",
+      "summary": "The committee discussed Bill 100's lobbyist rules, including a possible $5,000 penalty, and recessed before voting on two pending motions.",
+      "dur": "1 h 37 m",
+      "voteCount": 0,
+      "momentCount": 4,
+      "issues": [
+        "ethics-bills-on-nepotism-lobbyists-and-ex-employees"
+      ],
+      "updatedAt": "2026-10-28T04:23:47.291Z",
+      "sha256": "fca31d6e48de075cf6e55c0a5c64921ad0a7a771f2df54940c938cf944d137ab"
+    },
+    {
+      "videoId": "lTGThFSETwA",
+      "status": "reviewed",
+      "meetingDateISO": "2026-10-20",
+      "bodyType": "council",
+      "body": "Maui County Council Government Relations, Ethics, and Transparency Committee",
+      "headline": "Committee approves amended bill, hears review of county boards",
+      "summary": "The committee approved an amended bill and heard a commission's review of 15 of the 37 county boards listed on the county website.",
+      "dur": "1 h 24 m",
+      "voteCount": 3,
+      "momentCount": 4,
+      "issues": [
+        "future-of-the-commission-on-children-and-youth"
+      ],
+      "updatedAt": "2026-10-28T04:23:47.291Z",
+      "sha256": "5c59c9a5c3b740c0310abaddab4f4dc756a46e3a10036b7242c02f5ddc0aa6d3"
+    },
+    {
+      "videoId": "K4_o2IHqfEc",
+      "status": "reviewed",
+      "meetingDateISO": "2026-10-19",
+      "bodyType": "council",
+      "body": "Maui County Council Water Authority, Social Services, and Parks Committee",
+      "headline": "Maui County Council Water Authority, Social Services, and Parks Committee",
+      "summary": "The committee discussed Bill 133, which would expand where houseless people can stay in vehicles; no vote was taken.",
+      "dur": "44 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [
+        "safe-parking-sites-for-people-living-in-cars"
+      ],
+      "updatedAt": "2026-10-28T04:23:47.291Z",
+      "sha256": "0277a3a253570998a6ba850b5be72e7b11dba253c33c54ce89d2d69275358d97"
+    },
     {
       "videoId": "gkthw9WAhio",
       "status": "reviewed",
@@ -401,10 +487,11 @@
         "aloha-spirits-brewery-liquor-license-and-zoning-limits",
         "emergency-rule-for-relocating-fire-destroyed-liquor-licenses",
         "full-rewrite-of-county-liquor-rules",
+        "liquor-rules-for-nonprofit-fundraising-auctions",
         "liquor-rule-changes-to-speed-restaurant-applications"
       ],
-      "updatedAt": "2026-10-26T08:38:17.423Z",
-      "sha256": "9269e76b89c9d1c2c9b8a113814e83b5bc9983558d42c37b859b7b3b836da9f0"
+      "updatedAt": "2026-10-28T04:23:47.291Z",
+      "sha256": "79070c03effb854549a01b66d7daa7ef750a78439d7b39a8a91adc0b2035f81f"
     },
     {
       "videoId": "SVe2yERyBEk",

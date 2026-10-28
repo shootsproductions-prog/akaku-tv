@@ -4,11 +4,9 @@
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-21T04:43:49.300Z",
   "meetingDateISO": "2026-10-20",
-  "source": {
-    "youtubeUrl": "https://youtu.be/lTGThFSETwA"
-  },
   "headline": "Committee approves amended bill, hears review of county boards",
   "topics": [],
+  "bodyType": "council",
   "meeting": {
     "id": "lTGThFSETwA",
     "mon": "Oct",
@@ -67,5 +65,7 @@
     "bills": []
   },
   "issues": [],
-  "bodyType": "council"
+  "source": {
+    "youtubeUrl": "https://youtu.be/lTGThFSETwA"
+  }
 }
