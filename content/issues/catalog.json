@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T13:26:15.741Z",
+  "updatedAt": "2026-10-29T03:46:09.410Z",
   "count": 156,
   "issues": [
     {
@@ -7631,7 +7631,7 @@
     {
       "slug": "contested-case-on-mahi-pono-east-maui-water-permits",
       "title": "Contested case on Mahi Pono East Maui water permits",
-      "summary": "Board of Land and Natural Resources (BLNR) rejected the operator's request for a contested case after a closed-door session, and the operator's attorney appealed that denial in circuit court on September 11. A court-ordered contested case on the 2026 and 2027 revocable permits is moving ahead, with a prehearing October 1, hearings set for November 4 and 5, and a result hoped for by year's end. Permit applicants must show how much water they need, and hearing location will be decided after October 1.",
+      "summary": "The Board of Land and Natural Resources (BLNR) rejected the operator’s request for a contested case after a closed-door session, and the operator’s attorney appealed that denial in circuit court on September 11. A court-ordered contested case on the 2026 and 2027 revocable permits is moving ahead. The hearings, first set for November 4 and 5, were postponed to January 19, 2027, to allow more time for evidence and witness preparation, The Maui Daily reported on October 20. Permit applicants must show how much water they need.",
       "topics": [
         "water",
         "government"
@@ -7644,16 +7644,7 @@
         "meetingsLast30d": 0,
         "meetingsLast90d": 2,
         "mentionsLast30d": 0,
-        "upcomingEvent": {
-          "dateISO": "2026-11-04",
-          "what": "hearings November 4 and 5",
-          "source": {
-            "type": "meeting",
-            "videoId": "jggU3kzKFQI",
-            "ts": "0:22:30",
-            "retrievedISO": "2026-10-07T23:03:54.314Z"
-          }
-        }
+        "upcomingEvent": null
       },
       "asOfISO": "2026-10-28",
       "boards": [
