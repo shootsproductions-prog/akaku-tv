@@ -159,8 +159,8 @@
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-10-29T03:46:09.410Z",
-  "etag": "4aaa50888fdd1f7b65af42983dc4ae73215724b988a7de1776d92dacf6419e1f",
+  "updatedAt": "2026-10-29T06:34:12.364Z",
+  "etag": "4dd4a0859402c1d0688e0397b59b874588ade03b25dc775e6a0e07a0a18ba34b",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-10-28T10:26:11.206Z",
@@ -187,8 +187,8 @@
       "sha256": "eb1a13f8bec4b817062dca7d52e1ed7ff36bad1e7990720c0a71c30a5c6f7ab2"
     },
     "south-maui-community-plan-review.json": {
-      "updatedAt": "2026-10-28T10:26:11.206Z",
-      "sha256": "946b157008187da6b34ecb3394608320468b4719dfaf159788ff4d8d5b8fb320"
+      "updatedAt": "2026-10-29T06:34:12.364Z",
+      "sha256": "6bfad43e0b748f1236ffc4f172015e9b5f98523e12011a0d92ac4a87ecedec6d"
     },
     "mokuula-restoration-master-plan.json": {
       "updatedAt": "2026-10-28T10:26:11.206Z",
@@ -499,8 +499,8 @@
       "sha256": "236889943d6378539e6e71d95aeeda98057e5d3bb65f2027dae165868a943152"
     },
     "allowing-two-accessory-homes-per-residential-lot.json": {
-      "updatedAt": "2026-10-28T10:26:11.206Z",
-      "sha256": "617789aa67a13584e155ea630e395b83dfdf9cc432efdece9ea610e7aea2dae9"
+      "updatedAt": "2026-10-29T06:34:12.364Z",
+      "sha256": "291a4e331c8f8912209422ab5bf882bd51b2fd6212331cfde16f47f4a479e9e6"
     },
     "council-on-aging-four-year-plan.json": {
       "updatedAt": "2026-10-28T10:26:11.206Z",
@@ -515,8 +515,8 @@
       "sha256": "09f0efeba111d43e54f701848add74334ba50ebcfcebefabeb0cfe49334a6efc"
     },
     "future-of-the-commission-on-children-and-youth.json": {
-      "updatedAt": "2026-10-28T10:26:11.206Z",
-      "sha256": "74230dbc4d28b4a3415c6e9eb081a2bc06e76facd45850487224a5967c43fcc7"
+      "updatedAt": "2026-10-29T06:34:12.364Z",
+      "sha256": "c76e0b703fba5ac36f355ff3c21fb7fcdaa3c70f791f2059d1d89f1218fe2d48"
     },
     "higher-fines-for-loud-vehicle-sound-systems.json": {
       "updatedAt": "2026-10-28T10:26:11.206Z",
@@ -527,12 +527,12 @@
       "sha256": "b4f2be5ee32edda757411e5b7690e1bb1735446a9c406092cd30d9fd969e20d6"
     },
     "mutual-aid-agreement-to-help-kauai-after-hurricane-lowell.json": {
-      "updatedAt": "2026-10-28T10:26:11.206Z",
-      "sha256": "246897d7db8419c6d1fc773656020ef60fbd90d7fa7de3dccf52b798c2371cdc"
+      "updatedAt": "2026-10-29T06:34:12.364Z",
+      "sha256": "ae4979a4880a1a58866fad00c2040de338bbd38f598902efe7e1217c57317105"
     },
     "paia-40-acre-housing-project-rezoning.json": {
-      "updatedAt": "2026-10-28T10:26:11.206Z",
-      "sha256": "09b68699b902e8a998f0932e1c17737e5f53fec0c0629524f648dda2d13c1ca8"
+      "updatedAt": "2026-10-29T06:34:12.364Z",
+      "sha256": "703149a085005b4c89ce427cb3ec86f11b6c977115d963a26f4e74b937f0d8ee"
     },
     "paia-sugar-mill-light-industrial-rezoning.json": {
       "updatedAt": "2026-10-28T10:26:11.206Z",
@@ -579,12 +579,12 @@
       "sha256": "3b8b6d12c59a3d5e2f09c76684af2d42ceab9366fdd0437e7c47de67bdbb5869"
     },
     "bill-104-kitchenettes-for-rebuilding-homes.json": {
-      "updatedAt": "2026-10-28T10:26:11.206Z",
-      "sha256": "5f414c221cc9145c3e904e5431bf8accba2cbacecc17303abe0d7bee390ed83b"
+      "updatedAt": "2026-10-29T06:34:12.364Z",
+      "sha256": "ff84a85c68bd644d51c3e2224e8174bfb859477bd6ceda2ec7746889e6651c08"
     },
     "bill-111-on-removing-belongings-from-public-places.json": {
-      "updatedAt": "2026-10-28T10:26:11.206Z",
-      "sha256": "a31f6cd8e453f7802a07d558a12028ecede7ee43d5b32a7b8f123a664e4c4591"
+      "updatedAt": "2026-10-29T06:34:12.364Z",
+      "sha256": "a94334e598b13ed69ac706e594aaaba928326fcff51ee226574e81d8e1e63b70"
     },
     "bill-145-property-tax-exemption-for-child-care.json": {
       "updatedAt": "2026-10-28T10:26:11.206Z",
@@ -627,20 +627,20 @@
       "sha256": "df5d96b220eb8e55b5664c3f479b477be9da82ad2d28e12f604cd6c1b17a7789"
     },
     "disinfecting-wastewater-that-reaches-the-ocean.json": {
-      "updatedAt": "2026-10-28T10:26:11.206Z",
-      "sha256": "f5356d96dc57dce9f2e913716cfda04fc7e8e34c1999fd16a45f00e2634d4052"
+      "updatedAt": "2026-10-29T06:34:12.364Z",
+      "sha256": "18477838bd52c594d486b892f6f76afb0b7d68214984ba9b7aebba27665b255d"
     },
     "emergency-rule-for-relocating-fire-destroyed-liquor-licenses.json": {
       "updatedAt": "2026-10-28T10:26:11.206Z",
       "sha256": "d85cfbf2995b99aeab01b41654cb74f0f6f58a1bdb4a05c2f29028fc91363e9b"
     },
     "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p.json": {
-      "updatedAt": "2026-10-28T10:26:11.206Z",
-      "sha256": "1ad4e3234546755ebdb8d385099f30f362d173f7680c68856744e0044c5adb05"
+      "updatedAt": "2026-10-29T06:34:12.364Z",
+      "sha256": "205499547727a7db43309b88e137606fd44c4321099add1022aa24831086f0f0"
     },
     "ethics-bills-on-nepotism-lobbyists-and-ex-employees.json": {
-      "updatedAt": "2026-10-28T10:26:11.206Z",
-      "sha256": "5b7d5fbb2cddefe7ca471d9700097a533c777a1c2f2d7745d90fc39e199b2a37"
+      "updatedAt": "2026-10-29T06:34:12.364Z",
+      "sha256": "e6d05892c01eb8a97855c085bfccfde5326c1bfb7f7dc02f02a9e2efca03db51"
     },
     "evacuation-software-and-new-evacuation-zones.json": {
       "updatedAt": "2026-10-28T10:26:11.206Z",
@@ -667,8 +667,8 @@
       "sha256": "05a8006f1adf00e86f3ff85b062deb23a9ebbb30c142db72e5355b5d525a97c0"
     },
     "fukuyama-sister-city-delegation-and-follow-up.json": {
-      "updatedAt": "2026-10-28T10:26:11.206Z",
-      "sha256": "890422c2bcc751911506999a1939dc3968f54284e0420b7e899505c707a96a86"
+      "updatedAt": "2026-10-29T06:34:12.364Z",
+      "sha256": "a5c40efb6ec0ce89681ead36e8021fc3c2ea3d46f624ed85ab40b83d6baa0ab3"
     },
     "full-rewrite-of-county-liquor-rules.json": {
       "updatedAt": "2026-10-28T10:26:11.206Z",
@@ -743,8 +743,8 @@
       "sha256": "f5e9b9c7bec1780b33e075c99fdb3b6cb26846d81e330abe6b7d59f8c85e02ef"
     },
     "safe-parking-sites-for-people-living-in-cars.json": {
-      "updatedAt": "2026-10-28T10:26:11.206Z",
-      "sha256": "e84e46ca8344e6477164a0f6c610941bab9f5b4464beebbc53a12a72bc54091a"
+      "updatedAt": "2026-10-29T06:34:12.364Z",
+      "sha256": "45dc6744833062a65adef6866122f720eab84c0b64b20ca8ea121362c0d28b4c"
     },
     "seabird-streetlight-lawsuit-settlement.json": {
       "updatedAt": "2026-10-28T10:26:11.206Z",
