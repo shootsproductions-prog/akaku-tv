@@ -1,0 +1,213 @@
+{
+  "slug": "investigation-of-police-criminal-intelligence-unit-oversight",
+  "title": "Investigation of police criminal intelligence unit oversight",
+  "summary": "On October 13, a motion was made to place Chief John Pelletier on paid administrative leave, effective that day, while the commission's independent investigation into his oversight of the criminal intelligence unit is pending. The commission had first put him on paid leave October 7 and made the deputy chief acting chief. In August, it approved hiring an investigator.",
+  "topics": [
+    "public-safety",
+    "government"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-08-19",
+  "lastSeenISO": "2026-10-13",
+  "signals": {
+    "meetingsLast30d": 2,
+    "meetingsLast90d": 3,
+    "mentionsLast30d": 6,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-29",
+  "timeline": [
+    {
+      "dateISO": "2026-10-13",
+      "text": "The deputy chief said the previous commission did not place Chief Pelletier on leave for the CIU (criminal intelligence unit) investigation.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "JaWeI22GkDY",
+        "ts": "0:02:24",
+        "endTs": "0:02:54",
+        "retrievedISO": "2026-10-14T06:40:05.076Z"
+      },
+      "body": "Police Commission"
+    },
+    {
+      "dateISO": "2026-10-13",
+      "text": "The commission's independent investigation into the chief's oversight of the criminal intelligence unit is pending.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "JaWeI22GkDY",
+        "ts": "0:00:34",
+        "endTs": "0:01:04",
+        "retrievedISO": "2026-10-14T06:40:05.076Z"
+      },
+      "body": "Police Commission"
+    },
+    {
+      "dateISO": "2026-10-13",
+      "text": "A motion was made to place Chief John Pelletier on paid administrative leave, effective today, while the investigation is pending.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "JaWeI22GkDY",
+        "ts": "0:00:29",
+        "endTs": "0:00:59",
+        "retrievedISO": "2026-10-14T06:40:05.076Z"
+      },
+      "body": "Police Commission"
+    },
+    {
+      "dateISO": "2026-10-07",
+      "text": "Motion to authorize the chair to act as spokesperson: The commission made the chair its spokesperson on this matter.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "JURbN1Cr2OE",
+        "ts": "1:08:05",
+        "endTs": "1:08:55",
+        "retrievedISO": "2026-10-13T06:35:02.100Z"
+      },
+      "body": "Police Commission"
+    },
+    {
+      "dateISO": "2026-10-07",
+      "text": "Motion to authorize the chair to send notice letters: The commission let the chair send a letter telling the chief of the leave and telling the deputy chief he will be acting chief.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "JURbN1Cr2OE",
+        "ts": "1:07:23",
+        "endTs": "1:08:18",
+        "retrievedISO": "2026-10-13T06:35:02.100Z"
+      },
+      "body": "Police Commission"
+    },
+    {
+      "dateISO": "2026-10-07",
+      "text": "Motion on a point person for the independent investigator: The commission directed the acting chief to name an assistant chief as the department's contact for records the independent investigator requests.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "JURbN1Cr2OE",
+        "ts": "1:06:08",
+        "endTs": "1:07:38",
+        "retrievedISO": "2026-10-13T06:35:02.100Z"
+      },
+      "body": "Police Commission"
+    },
+    {
+      "dateISO": "2026-10-07",
+      "text": "Motion to appoint the deputy chief as acting chief: The commission made the deputy chief acting chief while the chief is on leave.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "JURbN1Cr2OE",
+        "ts": "1:05:33",
+        "endTs": "1:06:20",
+        "retrievedISO": "2026-10-13T06:35:02.100Z"
+      },
+      "body": "Police Commission"
+    },
+    {
+      "dateISO": "2026-10-07",
+      "text": "The deputy chief said he would rather the chief not be on leave but will take on the duties.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "JURbN1Cr2OE",
+        "ts": "1:04:50",
+        "endTs": "1:05:20",
+        "retrievedISO": "2026-10-13T06:35:02.100Z"
+      },
+      "body": "Police Commission"
+    },
+    {
+      "dateISO": "2026-10-07",
+      "text": "Motion to place the police chief on paid administrative leave: The commission placed the police chief on paid administrative leave, effective that day, while its independent investigation is pending.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "JURbN1Cr2OE",
+        "ts": "1:03:12",
+        "endTs": "1:04:17",
+        "retrievedISO": "2026-10-13T06:35:02.100Z"
+      },
+      "body": "Police Commission"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "It will also look at how the chief responded when he learned of the unit's issues.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ic0yx8fVvEE",
+        "ts": "0:51:03",
+        "endTs": "0:51:33",
+        "retrievedISO": "2026-10-12T06:30:04.199Z"
+      },
+      "body": "Police Commission"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "The investigation will look at oversight of the police criminal intelligence unit.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ic0yx8fVvEE",
+        "ts": "0:50:12",
+        "endTs": "0:50:42",
+        "retrievedISO": "2026-10-12T06:30:04.199Z"
+      },
+      "body": "Police Commission"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "Hiring of an investigator and scope of the investigation: The commission approved hiring an investigator, with a scope to be outlined by corporation counsel.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ic0yx8fVvEE",
+        "ts": "0:49:53",
+        "endTs": "0:51:32",
+        "retrievedISO": "2026-10-12T06:30:04.199Z"
+      },
+      "body": "Police Commission"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "The commission will bring its unpaid leave suggestion to the administration.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ic0yx8fVvEE",
+        "ts": "0:49:44",
+        "endTs": "0:50:14",
+        "retrievedISO": "2026-10-12T06:30:04.199Z"
+      },
+      "body": "Police Commission"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "Suggestion to put a lieutenant on administrative leave without pay: The commission voted to suggest that a lieutenant be put on administrative leave without pay.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ic0yx8fVvEE",
+        "ts": "0:49:29",
+        "endTs": "0:50:02",
+        "retrievedISO": "2026-10-12T06:30:04.199Z"
+      },
+      "body": "Police Commission"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Police Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

@@ -1,0 +1,137 @@
+{
+  "slug": "lanai-koele-project-district-zoning-and-conditions",
+  "title": "Lānaʻi Kōele project district zoning and conditions",
+  "summary": "On October 21, Chair Lee voiced support for the project and its changes, and the Planning Department said it supports the zoning change and amendment. The landowner asked the Council to put a time limit on the reporting required by condition 8, and a member said they will look to the chair for a reasonable limit. The landowner said the State Land Use Commission approved its district boundary amendment with six votes, its traffic study does not require the bypass road, and homes already built have no income limits.",
+  "topics": [
+    "land-use",
+    "water"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-10-21",
+  "lastSeenISO": "2026-10-21",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 3,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-29",
+  "timeline": [
+    {
+      "dateISO": "2026-10-21",
+      "text": "The landowner said the homes already built have no income limits.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PlQb2FwXyok",
+        "ts": "1:02:43",
+        "endTs": "1:03:17",
+        "retrievedISO": "2026-10-21T23:03:18.746Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "Chair Lee voiced support for the project and the changes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PlQb2FwXyok",
+        "ts": "0:48:02",
+        "endTs": "0:48:34",
+        "retrievedISO": "2026-10-21T23:03:18.746Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "A member said they will look to the chair for recommendations on a reasonable time limit for reporting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PlQb2FwXyok",
+        "ts": "0:41:10",
+        "endTs": "0:41:40",
+        "retrievedISO": "2026-10-21T23:03:18.746Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "The landowner said its traffic study does not require the bypass road.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PlQb2FwXyok",
+        "ts": "0:34:46",
+        "endTs": "0:35:16",
+        "retrievedISO": "2026-10-21T23:03:18.746Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "The Planning Department said it supports the zoning change and amendment.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PlQb2FwXyok",
+        "ts": "0:28:29",
+        "endTs": "0:28:59",
+        "retrievedISO": "2026-10-21T23:03:18.746Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "The landowner asked the Council to put a time limit on the reporting required by condition 8.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PlQb2FwXyok",
+        "ts": "0:24:10",
+        "endTs": "0:24:44",
+        "retrievedISO": "2026-10-21T23:03:18.746Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "The landowner said the State Land Use Commission approved its district boundary amendment with six votes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PlQb2FwXyok",
+        "ts": "0:18:10",
+        "endTs": "0:18:50",
+        "retrievedISO": "2026-10-21T23:03:18.746Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "The landowner asked the committee to back the Planning Department and Lānaʻi Planning Commission on the zoning change.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PlQb2FwXyok",
+        "ts": "0:17:51",
+        "endTs": "0:18:21",
+        "retrievedISO": "2026-10-21T23:03:18.746Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Housing and Land Use Committee",
+      "group": "council",
+      "short": [
+        "HLU"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "nomination-board-role-in-corporation-counsel-selection",
+  "title": "Nomination board role in corporation counsel selection",
+  "summary": "A three-member investigative group, including the chair, is looking into the corporation counsel matter, and its report to the full board is tentatively set for the August 12 or August 26 meeting. One member was recused from the corporation counsel selection on attorney advice. The corporation counsel group is ready, but the prosecuting attorney group is not.",
+  "topics": [
+    "government"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-07-13",
+  "lastSeenISO": "2026-07-13",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-29",
+  "timeline": [
+    {
+      "dateISO": "2026-07-13",
+      "text": "The corporation counsel group is ready; the prosecuting attorney group is not.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "DN-bXIWkS7E",
+        "ts": "0:32:45",
+        "endTs": "0:33:15",
+        "retrievedISO": "2026-10-13T06:35:15.675Z"
+      },
+      "body": "Independent Nomination Board"
+    },
+    {
+      "dateISO": "2026-07-13",
+      "text": "The investigative groups will meet on their own and report back at the next meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "DN-bXIWkS7E",
+        "ts": "0:31:16",
+        "endTs": "0:31:46",
+        "retrievedISO": "2026-10-13T06:35:15.675Z"
+      },
+      "body": "Independent Nomination Board"
+    },
+    {
+      "dateISO": "2026-07-13",
+      "text": "Recusal of a member from the corporation counsel process: After the closed session, the chair said one member was recused from the corporation counsel selection on attorney advice.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "DN-bXIWkS7E",
+        "ts": "0:19:29",
+        "endTs": "0:20:03",
+        "retrievedISO": "2026-10-13T06:35:15.675Z"
+      },
+      "body": "Independent Nomination Board"
+    },
+    {
+      "dateISO": "2026-07-13",
+      "text": "That group's report to the full board is tentatively set for the August 12 or August 26 meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "DN-bXIWkS7E",
+        "ts": "0:13:09",
+        "endTs": "0:13:39",
+        "retrievedISO": "2026-10-13T06:35:15.675Z"
+      },
+      "body": "Independent Nomination Board"
+    },
+    {
+      "dateISO": "2026-07-13",
+      "text": "Three members, including the chair, serve on the corporation counsel investigative group (a small fact-finding team).",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "DN-bXIWkS7E",
+        "ts": "0:12:35",
+        "endTs": "0:13:05",
+        "retrievedISO": "2026-10-13T06:35:15.675Z"
+      },
+      "body": "Independent Nomination Board"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Independent Nomination Board",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

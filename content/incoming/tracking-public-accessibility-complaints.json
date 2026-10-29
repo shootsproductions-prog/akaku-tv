@@ -1,0 +1,92 @@
+{
+  "slug": "tracking-public-accessibility-complaints",
+  "title": "Tracking public accessibility complaints",
+  "summary": "As of August 13, a commissioner volunteered to work on a way to track public accessibility complaints and report back. On July 9, the commission voted 5-0 to explore a list of problems reported by the public, after a request to check whether county restrooms, elevators and crosswalks work for blind people. County officials will send a response letter, with no date given.",
+  "topics": [
+    "health",
+    "government"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-07-09",
+  "lastSeenISO": "2026-08-13",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-29",
+  "timeline": [
+    {
+      "dateISO": "2026-08-13",
+      "text": "A commissioner volunteered to work on a way to track public accessibility complaints and report back.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "sY6AwUuHzjI",
+        "ts": "0:39:23",
+        "endTs": "0:40:42",
+        "retrievedISO": "2026-10-12T06:30:07.228Z"
+      },
+      "body": "Commission on Persons with Disabilities"
+    },
+    {
+      "dateISO": "2026-07-09",
+      "text": "A commissioner asked to follow up on the accessibility list at a future meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "4m34BcHhzUs",
+        "ts": "1:24:41",
+        "endTs": "1:25:11",
+        "retrievedISO": "2026-10-13T06:35:17.645Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-09",
+      "text": "The commission voted 5-0 to explore making a list of accessibility problems reported by the public.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "4m34BcHhzUs",
+        "ts": "0:59:59",
+        "endTs": "1:01:25",
+        "retrievedISO": "2026-10-13T06:35:17.645Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-09",
+      "text": "County officials will send the commission a response letter, but no date was given.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "4m34BcHhzUs",
+        "ts": "0:48:47",
+        "endTs": "0:49:19",
+        "retrievedISO": "2026-10-13T06:35:17.645Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-09",
+      "text": "He asked the commission to check whether county restrooms, elevators and crosswalks work for blind people.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "4m34BcHhzUs",
+        "ts": "0:23:28",
+        "endTs": "0:24:52",
+        "retrievedISO": "2026-10-13T06:35:17.645Z"
+      }
+    }
+  ],
+  "boards": [
+    {
+      "name": "Commission on Persons with Disabilities",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

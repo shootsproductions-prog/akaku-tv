@@ -1,0 +1,213 @@
+{
+  "slug": "spending-the-1-6-billion-federal-recovery-grant",
+  "title": "Spending the $1.6 billion federal recovery grant",
+  "summary": "As of late September 2026, the county is spending a $1.6 billion HUD disaster recovery grant, with $1.39 billion obligated and spending projected through 2031. Staff report 577 housing units completed, 400 under construction and 597 in progress, with 83 shopping letters issued in the first-time homebuyer program. Rising infrastructure costs are a key risk, and multifamily rebuilds must give fire survivors priority to move back.",
+  "topics": [
+    "disaster-recovery",
+    "housing"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-08-05",
+  "lastSeenISO": "2026-10-20",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 3,
+    "mentionsLast30d": 1,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-29",
+  "timeline": [
+    {
+      "dateISO": "2026-10-20",
+      "text": "The County's Hoʻokumu Hou First-Time Homebuyer program issued its 100th shopping letter to displaced fire survivors.",
+      "basis": "reported",
+      "source": {
+        "type": "county-release",
+        "url": "https://hookumuhou.mauicounty.gov/",
+        "publisher": "County of Maui Office of Recovery",
+        "quote": "Eighteen households displaced by the 2023 Maui Wildfires received their home-shopping letters today through the County of Maui’s Hoʻokumu Hou First-Time Homebuyer Opportunity Program, bringing the total issued through the program to 100.",
+        "retrievedISO": "2026-10-25T01:47:00.295Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-30",
+      "text": "A speaker said the federal government gave 1.6 billion dollars for housing and rebuilding.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oZNc2fyyOPE",
+        "ts": "0:27:34",
+        "endTs": "0:28:04",
+        "retrievedISO": "2026-10-16T03:41:33.571Z"
+      },
+      "body": "County Council Special Meeting"
+    },
+    {
+      "dateISO": "2026-08-18",
+      "text": "The chair deferred the disaster recovery item.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ZI16NC6wq_w",
+        "ts": "1:38:37",
+        "endTs": "1:39:07",
+        "retrievedISO": "2026-10-16T06:42:24.117Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-08-18",
+      "text": "Staff said the funding for multifamily rebuilds requires them to give fire survivors priority to move back.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ZI16NC6wq_w",
+        "ts": "1:24:53",
+        "endTs": "1:25:23",
+        "retrievedISO": "2026-10-16T06:42:24.117Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-08-18",
+      "text": "Staff said 577 housing units are completed, 400 are under construction and 597 are in progress.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ZI16NC6wq_w",
+        "ts": "1:21:36",
+        "endTs": "1:22:10",
+        "retrievedISO": "2026-10-16T06:42:24.117Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-08-18",
+      "text": "Staff said 83 shopping letters have been issued in the first-time homebuyer program.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ZI16NC6wq_w",
+        "ts": "1:01:28",
+        "endTs": "1:01:58",
+        "retrievedISO": "2026-10-16T06:42:24.117Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-08-18",
+      "text": "Staff named rising infrastructure costs as a key risk.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ZI16NC6wq_w",
+        "ts": "0:31:12",
+        "endTs": "0:31:42",
+        "retrievedISO": "2026-10-16T06:42:24.117Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-08-18",
+      "text": "Staff said it is a six-year grant with spending projected through 2031.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ZI16NC6wq_w",
+        "ts": "0:28:43",
+        "endTs": "0:29:32",
+        "retrievedISO": "2026-10-16T06:42:24.117Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-08-18",
+      "text": "Staff said the county deals directly with the federal government on these funds, with no state in the middle.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ZI16NC6wq_w",
+        "ts": "0:25:24",
+        "endTs": "0:25:59",
+        "retrievedISO": "2026-10-16T06:42:24.117Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-08-18",
+      "text": "Staff said $1.39 billion of the $1.6 billion has been obligated, meaning set aside for programs.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ZI16NC6wq_w",
+        "ts": "0:24:00",
+        "endTs": "0:24:35",
+        "retrievedISO": "2026-10-16T06:42:24.117Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-08-18",
+      "text": "Staff said the funds are geared primarily toward helping housing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ZI16NC6wq_w",
+        "ts": "0:23:35",
+        "endTs": "0:24:07",
+        "retrievedISO": "2026-10-16T06:42:24.117Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-08-18",
+      "text": "The county is spending $1.6 billion in disaster recovery block grant funds from HUD.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ZI16NC6wq_w",
+        "ts": "0:21:56",
+        "endTs": "0:22:26",
+        "retrievedISO": "2026-10-16T06:42:24.117Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-08-05",
+      "text": "The county has committed $1.278 billion of its $1.6 billion in recovery funds.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "VgE2vefgTzg",
+        "ts": "0:15:49",
+        "endTs": "0:16:19",
+        "retrievedISO": "2026-10-16T07:27:27.980Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    },
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    },
+    {
+      "name": "Disaster Recovery, International Affairs, and Planning Committee",
+      "group": "council",
+      "short": [
+        "DRIP"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
