@@ -161,12 +161,17 @@
     "county-funding-for-lahaina-community-land-trust.json",
     "lower-waiehu-beach-road-land-purchase-and-title-dispute.json",
     "voluntary-deed-restriction-program-for-homeowners.json",
-    "water-rate-increases-and-19-80-top-tier.json"
+    "water-rate-increases-and-19-80-top-tier.json",
+    "bill-105-rebuilding-nonconforming-structures-after-disasters.json",
+    "bill-110-street-improvement-exemption-for-front-street-rebui.json",
+    "bill-87-extending-temporary-structure-permits-to-five-years.json",
+    "countys-wildfire-lawsuits-and-global-settlement.json",
+    "yearly-9-percent-sewer-rate-increases.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-10-30T06:16:47.121Z",
-  "etag": "67890d3b3419353a175f28bd135201488497033f853e9f609e35e44e3d2f5255",
+  "updatedAt": "2026-10-30T06:17:05.774Z",
+  "etag": "a151f3c0118fc3e5c6bb0a7cac275eb03a7e3b5a73fe43fae63cd8b1b35f2ff3",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-10-29T10:26:13.643Z",
@@ -815,6 +820,26 @@
     "water-rate-increases-and-19-80-top-tier.json": {
       "updatedAt": "2026-10-30T06:16:47.121Z",
       "sha256": "376626aaee2138c6ed1ca2064cb85b025f1be89c85da8d89e2bd42816f44b909"
+    },
+    "bill-105-rebuilding-nonconforming-structures-after-disasters.json": {
+      "updatedAt": "2026-10-30T06:17:05.774Z",
+      "sha256": "9ac4479f27b6078ff744401b98efd0f34d6206aa9ae818ec700da98bba3aa829"
+    },
+    "bill-110-street-improvement-exemption-for-front-street-rebui.json": {
+      "updatedAt": "2026-10-30T06:17:05.774Z",
+      "sha256": "b5546c933d37767a96c2bde203744ca728437f428b093b15f1ea63ea3947dd28"
+    },
+    "bill-87-extending-temporary-structure-permits-to-five-years.json": {
+      "updatedAt": "2026-10-30T06:17:05.774Z",
+      "sha256": "40496d470a5cb8dd415a221ec3ae62f216d145e3b33f23dd8e21716ccff7f06d"
+    },
+    "countys-wildfire-lawsuits-and-global-settlement.json": {
+      "updatedAt": "2026-10-30T06:17:05.774Z",
+      "sha256": "7e6993638bfd6cce74bd6d0c00ba8dc824a9eea8462b2bb464149ccf0e2381c5"
+    },
+    "yearly-9-percent-sewer-rate-increases.json": {
+      "updatedAt": "2026-10-30T06:17:05.774Z",
+      "sha256": "f0ce316a35ab17a9a0f29b38cf102289a7ef220e96993ed94bc6ec21e0f633e6"
     }
   }
 }

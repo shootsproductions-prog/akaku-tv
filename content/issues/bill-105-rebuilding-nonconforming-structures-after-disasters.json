@@ -17,34 +17,6 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-29",
-  "timeline": [
-    {
-      "dateISO": "2024-07-19",
-      "text": "Referral of Bill 105 (nonconformities): The council sent Bill 105 to the Housing and Land Use Committee.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "CNrEmWu8GiM",
-        "ts": "1:46:51",
-        "endTs": "1:47:22",
-        "retrievedISO": "2026-10-19T19:45:48.233Z"
-      },
-      "body": "County Council Meeting"
-    },
-    {
-      "dateISO": "2024-07-19",
-      "text": "Another testifier said Bills 87, 105 and 110 would help provide temporary housing.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "CNrEmWu8GiM",
-        "ts": "1:16:06",
-        "endTs": "1:16:36",
-        "retrievedISO": "2026-10-19T19:45:48.233Z"
-      },
-      "body": "County Council Meeting"
-    }
-  ],
   "boards": [
     {
       "name": "Maui County Council",
@@ -56,6 +28,37 @@
     "Bill 87 (2024)",
     "Bill 105 (2024)",
     "Bill 110 (2024)"
+  ],
+  "timeline": [
+    {
+      "dateISO": "2024-07-19",
+      "text": "Referral of Bill 105 (nonconformities): The council sent Bill 105 to the Housing and Land Use Committee.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "CNrEmWu8GiM",
+        "ts": "1:46:51",
+        "retrievedISO": "2026-10-19T19:45:48.233Z",
+        "endTs": "1:47:22"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2024-07-19",
+      "text": "Another testifier said Bills 87, 105 and 110 would help provide temporary housing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "CNrEmWu8GiM",
+        "ts": "1:16:06",
+        "retrievedISO": "2026-10-19T19:45:48.233Z",
+        "endTs": "1:16:36"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }
