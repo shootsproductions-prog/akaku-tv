@@ -1,0 +1,126 @@
+{
+  "slug": "disinfecting-wastewater-that-reaches-the-ocean",
+  "title": "Disinfecting wastewater that reaches the ocean",
+  "summary": "On October 19, testifiers asked members to advance $1.8 million for design of UV disinfection and urged against adding flow to the existing Kahului plant until it disinfects effectively; earlier, another testifier asked for $4 million for South Maui UV. Testifiers say Kahului stopped all disinfection in 2018. The Kīhei UV upgrade was at 5% design in March, and the department said water sent to injection wells need not be R1 quality.",
+  "topics": [
+    "water",
+    "environment",
+    "health"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-04-06",
+  "lastSeenISO": "2026-10-19",
+  "signals": {
+    "meetingsLast30d": 2,
+    "meetingsLast90d": 2,
+    "mentionsLast30d": 4,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-30",
+  "timeline": [
+    {
+      "dateISO": "2026-10-19",
+      "text": "A testifier asked members to advance $1.8 million for design work on UV disinfection.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "FylynoI1kKk",
+        "ts": "0:18:05",
+        "endTs": "0:19:10",
+        "retrievedISO": "2026-10-20T04:41:37.015Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "A testifier urged against adding flow to the existing plant until it has effective disinfection.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bAmgey8HdV0",
+        "ts": "0:15:53",
+        "endTs": "0:16:23",
+        "retrievedISO": "2026-10-23T00:02:05.685Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "A testifier said the Kahului plant stopped all disinfection in 2018.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bAmgey8HdV0",
+        "ts": "0:12:58",
+        "endTs": "0:13:28",
+        "retrievedISO": "2026-10-23T00:02:05.685Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-10-07",
+      "text": "Another testifier asked for $4 million for UV (ultraviolet light) disinfection in South Maui.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5C73aQDRPR4",
+        "ts": "0:16:17",
+        "endTs": "0:16:47",
+        "retrievedISO": "2026-10-16T22:24:10.229Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-04-06",
+      "text": "The testifier said he believes people are getting sick and that limits are being exceeded in the water.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "YGuzDd85eAQ",
+        "ts": "1:05:23",
+        "endTs": "1:05:53",
+        "retrievedISO": "2026-10-17T04:46:58.271Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-06",
+      "text": "A testifier said wastewater disinfection in Kahului stopped in 2018.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "YGuzDd85eAQ",
+        "ts": "1:04:13",
+        "endTs": "1:04:49",
+        "retrievedISO": "2026-10-17T04:46:58.271Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Water and Infrastructure Committee",
+      "group": "council",
+      "short": [
+        "WAI"
+      ]
+    },
+    {
+      "name": "Disaster Recovery, International Affairs, and Planning Committee",
+      "group": "council",
+      "short": [
+        "DRIP"
+      ]
+    },
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

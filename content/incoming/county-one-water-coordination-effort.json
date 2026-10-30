@@ -1,0 +1,72 @@
+{
+  "slug": "county-one-water-coordination-effort",
+  "title": "County One Water coordination effort",
+  "summary": "The director said the effort is just getting off the ground and that its head could come present it to the board. The One Water idea coordinates county water supply, wastewater and storm water efforts.",
+  "topics": [
+    "water",
+    "government"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-07-16",
+  "lastSeenISO": "2026-07-16",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-30",
+  "timeline": [
+    {
+      "dateISO": "2026-07-16",
+      "text": "The director said the effort is just getting off the ground.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "zjBo8277OWs",
+        "ts": "0:20:24",
+        "endTs": "0:20:54",
+        "retrievedISO": "2026-10-09T06:35:03.270Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-07-16",
+      "text": "The director said the head of the effort could come present it to the board.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "zjBo8277OWs",
+        "ts": "0:20:07",
+        "endTs": "0:20:37",
+        "retrievedISO": "2026-10-09T06:35:03.270Z"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-07-16",
+      "text": "The director said the One Water idea coordinates county water supply, wastewater and storm water efforts.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "zjBo8277OWs",
+        "ts": "0:19:36",
+        "endTs": "0:20:06",
+        "retrievedISO": "2026-10-09T06:35:03.270Z"
+      },
+      "body": "Board of Water Supply"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Board of Water Supply",
+      "group": "board",
+      "short": [
+        "BWS"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

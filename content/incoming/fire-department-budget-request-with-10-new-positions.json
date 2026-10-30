@@ -1,0 +1,83 @@
+{
+  "slug": "fire-department-budget-request-with-10-new-positions",
+  "title": "Fire department budget request with 10 new positions",
+  "summary": "On November 21, 2024, the commission voted to send the mayor a letter supporting the fire department's budget. The fire chief had proposed 10 new positions costing about $555,000 in the first year. The department also plans to rent a three- or four-bedroom house for off-duty firefighters working away from home.",
+  "topics": [
+    "public-safety",
+    "government"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2024-10-17",
+  "lastSeenISO": "2024-11-21",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-30",
+  "timeline": [
+    {
+      "dateISO": "2024-11-21",
+      "text": "Motion to send a letter of support to the mayor for the fire chief's budget: The commission voted to send a letter of support to the mayor for the fire department's budget.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "EzLmqE78YDk",
+        "ts": "2:27:10",
+        "endTs": "2:28:54",
+        "retrievedISO": "2026-10-12T06:30:30.475Z"
+      },
+      "body": "Fire and Public Safety Commission"
+    },
+    {
+      "dateISO": "2024-11-21",
+      "text": "The department plans to rent a three- or four-bedroom house for off-duty firefighters working away from home.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "EzLmqE78YDk",
+        "ts": "1:47:36",
+        "endTs": "1:48:27",
+        "retrievedISO": "2026-10-12T06:30:30.475Z"
+      },
+      "body": "Fire and Public Safety Commission"
+    },
+    {
+      "dateISO": "2024-11-21",
+      "text": "A fire chief proposed 10 new positions costing about $555,000 in the first year.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "EzLmqE78YDk",
+        "ts": "1:36:16",
+        "endTs": "1:36:54",
+        "retrievedISO": "2026-10-12T06:30:30.475Z"
+      },
+      "body": "Fire and Public Safety Commission"
+    },
+    {
+      "dateISO": "2024-10-17",
+      "text": "A fire department chief explained how the budget works, ahead of the proposed budget at the next meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Nf0iqQ4qIuA",
+        "ts": "1:11:30",
+        "endTs": "1:12:08",
+        "retrievedISO": "2026-10-15T06:35:41.629Z"
+      },
+      "body": "Fire and Public Safety Commission"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Fire and Public Safety Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

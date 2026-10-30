@@ -1,0 +1,135 @@
+{
+  "slug": "lanai-inter-island-internet-cable",
+  "title": "Lānaʻi inter-island internet cable",
+  "summary": "At its August 19 meeting, the Lānaʻi commission heard an information-only update on the inter-island internet cable, with no action taken. A future permit will come before the commission for action. The presenter said a landing station building is no longer needed on Lānaʻi, and construction, expected to start in the second half of next year, should take about a month.",
+  "topics": [
+    "economy",
+    "land-use"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-08-19",
+  "lastSeenISO": "2026-08-19",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-30",
+  "timeline": [
+    {
+      "dateISO": "2026-08-19",
+      "text": "A team member said there would be no cost to Lānaʻi residents.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Z4fnObg2c0I",
+        "ts": "1:00:24",
+        "endTs": "1:01:05",
+        "retrievedISO": "2026-10-12T06:30:03.060Z"
+      },
+      "body": "Lānaʻi Planning Commission"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "A team member said the cable now serving Lānaʻi is 29 years old.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Z4fnObg2c0I",
+        "ts": "0:47:06",
+        "endTs": "0:47:36",
+        "retrievedISO": "2026-10-12T06:30:03.060Z"
+      },
+      "body": "Lānaʻi Planning Commission"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "A commissioner asked about digging near a harbor road that was once closed for years.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Z4fnObg2c0I",
+        "ts": "0:39:24",
+        "endTs": "0:40:33",
+        "retrievedISO": "2026-10-12T06:30:03.060Z"
+      },
+      "body": "Lānaʻi Planning Commission"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "The state historic preservation division asked for an archaeological survey with digging tests.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Z4fnObg2c0I",
+        "ts": "0:32:29",
+        "endTs": "0:32:59",
+        "retrievedISO": "2026-10-12T06:30:03.060Z"
+      },
+      "body": "Lānaʻi Planning Commission"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "Construction is expected to take about a month.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Z4fnObg2c0I",
+        "ts": "0:29:05",
+        "endTs": "0:29:35",
+        "retrievedISO": "2026-10-12T06:30:03.060Z"
+      },
+      "body": "Lānaʻi Planning Commission"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "The presenter said a cable landing station building is no longer needed on Lānaʻi.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Z4fnObg2c0I",
+        "ts": "0:21:14",
+        "endTs": "0:21:44",
+        "retrievedISO": "2026-10-12T06:30:03.060Z"
+      },
+      "body": "Lānaʻi Planning Commission"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "A future permit for the cable project will come before the commission for action.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Z4fnObg2c0I",
+        "ts": "0:17:47",
+        "endTs": "0:18:17",
+        "retrievedISO": "2026-10-12T06:30:03.060Z"
+      },
+      "body": "Lānaʻi Planning Commission"
+    },
+    {
+      "dateISO": "2026-08-19",
+      "text": "A county planner said the presentation was for information only, with no action taken.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Z4fnObg2c0I",
+        "ts": "0:17:41",
+        "endTs": "0:18:11",
+        "retrievedISO": "2026-10-12T06:30:03.060Z"
+      },
+      "body": "Lānaʻi Planning Commission"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Lānaʻi Planning Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

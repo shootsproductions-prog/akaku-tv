@@ -1,0 +1,96 @@
+{
+  "slug": "lahaina-tree-program-fruit-forest-with-county-parks",
+  "title": "Lahaina tree program fruit forest with county parks",
+  "summary": "The tree recovery program is planning a fruit forest in partnership with the county parks department, which the chair called a partnership with Maui County. It is meant to give the community more fruit and food, mainly for the people, with scions (cuttings) used to grow more trees. The chair will invite members to visit once ground is broken on the parcel.",
+  "topics": [
+    "food-security",
+    "environment"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-09-09",
+  "lastSeenISO": "2026-09-09",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-30",
+  "timeline": [
+    {
+      "dateISO": "2026-09-09",
+      "text": "The chair will invite members to visit once ground is broken on the parcel.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "SVe2yERyBEk",
+        "ts": "0:10:56",
+        "endTs": "0:11:26",
+        "retrievedISO": "2026-10-07T23:03:58.863Z"
+      },
+      "body": "Arborist Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "The chair called it a partnership between the program and Maui County.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "SVe2yERyBEk",
+        "ts": "0:10:48",
+        "endTs": "0:11:18",
+        "retrievedISO": "2026-10-07T23:03:58.863Z"
+      },
+      "body": "Arborist Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "The fruit is mainly for the people, and scions (cuttings) will be used to grow more trees.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "SVe2yERyBEk",
+        "ts": "0:10:42",
+        "endTs": "0:11:12",
+        "retrievedISO": "2026-10-07T23:03:58.863Z"
+      },
+      "body": "Arborist Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "The chair described a fruit forest with the county parks department to provide more fruit for the community.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "SVe2yERyBEk",
+        "ts": "0:10:33",
+        "endTs": "0:11:09",
+        "retrievedISO": "2026-10-07T23:03:58.863Z"
+      },
+      "body": "Arborist Committee"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "The tree recovery program is planning a fruit forest with the county parks department.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "SVe2yERyBEk",
+        "ts": "0:10:29",
+        "endTs": "0:10:59",
+        "retrievedISO": "2026-10-07T23:03:58.863Z"
+      },
+      "body": "Arborist Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Arborist Committee",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

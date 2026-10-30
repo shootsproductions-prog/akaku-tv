@@ -1,0 +1,325 @@
+{
+  "slug": "bill-to-track-emergency-donations-deferred",
+  "title": "Bill to track emergency donations deferred",
+  "summary": "On October 20, the committee reviewed three bills on emergency donations, and a member moved to recommend Bill 142 for passage on first reading before the chair called a recess to fix amendment wording. Bill 142 would let the mayor accept and use disaster donations during an emergency and for a year after without prior council approval. The budget director said the administration supports the revised bills, which include mandatory quarterly reports to the council.",
+  "topics": [
+    "government",
+    "disaster-recovery"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-09-01",
+  "lastSeenISO": "2026-10-20",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 2,
+    "mentionsLast30d": 3,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-30",
+  "timeline": [
+    {
+      "dateISO": "2026-10-20",
+      "text": "The chair called a 10-minute recess to get the amendment wording right.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tXQ_uHSav58",
+        "ts": "1:17:29",
+        "endTs": "1:18:04",
+        "retrievedISO": "2026-10-20T23:05:15.591Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-10-20",
+      "text": "Motion to recommend passage on first reading of Bill 142, 2026, with non-substantive revisions: A member moved to recommend passage of Bill 142 on first reading, and the chair called a recess before any vote.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tXQ_uHSav58",
+        "ts": "1:16:58",
+        "endTs": "1:18:04",
+        "retrievedISO": "2026-10-20T23:05:15.591Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-10-20",
+      "text": "A speaker said the intent is to create a list of nonprofits before any disaster.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tXQ_uHSav58",
+        "ts": "1:13:58",
+        "endTs": "1:14:34",
+        "retrievedISO": "2026-10-20T23:05:15.591Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-10-20",
+      "text": "A council member said people were not sure where to send donations, and some groups asking for money are bad actors.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tXQ_uHSav58",
+        "ts": "1:09:20",
+        "endTs": "1:10:10",
+        "retrievedISO": "2026-10-20T23:05:15.591Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-10-20",
+      "text": "The budget director said the administration supports the revised bills.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tXQ_uHSav58",
+        "ts": "1:08:37",
+        "endTs": "1:09:07",
+        "retrievedISO": "2026-10-20T23:05:15.591Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-10-20",
+      "text": "The deputy finance director shared a staff idea to change code wording to \"disaster recovery and related expenditures.\"",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tXQ_uHSav58",
+        "ts": "1:06:12",
+        "endTs": "1:06:42",
+        "retrievedISO": "2026-10-20T23:05:15.591Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-10-20",
+      "text": "Bill 132 would add a $100,000 disaster donation line to the fiscal year 27 budget.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tXQ_uHSav58",
+        "ts": "1:03:40",
+        "endTs": "1:04:10",
+        "retrievedISO": "2026-10-20T23:05:15.591Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-10-20",
+      "text": "A revised version of Bill 131 would make quarterly reports to the council mandatory.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tXQ_uHSav58",
+        "ts": "1:03:28",
+        "endTs": "1:03:58",
+        "retrievedISO": "2026-10-20T23:05:15.591Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-10-20",
+      "text": "Bill 142 would let the mayor accept and use disaster donations during a declared emergency, and for one year after, without council approval first.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tXQ_uHSav58",
+        "ts": "1:02:30",
+        "endTs": "1:03:13",
+        "retrievedISO": "2026-10-20T23:05:15.591Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-10-20",
+      "text": "The committee reviewed three bills on money donated to the County during an emergency.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tXQ_uHSav58",
+        "ts": "1:02:06",
+        "endTs": "1:02:36",
+        "retrievedISO": "2026-10-20T23:05:15.591Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-09-01",
+      "text": "The next committee meeting is October 20th.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "MjxK8A0xoG8",
+        "ts": "0:56:01",
+        "endTs": "0:56:31",
+        "retrievedISO": "2026-10-16T05:09:44.606Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-09-01",
+      "text": "The committee deferred the bill, meaning it put off a decision.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "x6KG7KwLCAY",
+        "ts": "0:55:13",
+        "endTs": "0:55:43",
+        "retrievedISO": "2026-10-16T12:24:33.830Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-09-01",
+      "text": "A member suggested forming a Temporary Investigative Group (TIG), a group of Council members, to work on these ideas.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "MjxK8A0xoG8",
+        "ts": "0:51:20",
+        "endTs": "0:52:22",
+        "retrievedISO": "2026-10-16T05:09:44.606Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-09-01",
+      "text": "An administration speaker said County wildfire donations were used for the Lahaina Homecoming.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "MjxK8A0xoG8",
+        "ts": "0:44:34",
+        "endTs": "0:45:04",
+        "retrievedISO": "2026-10-16T05:09:44.606Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-09-01",
+      "text": "One testifier, James Langford, supported the bill's oversight.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "MjxK8A0xoG8",
+        "ts": "0:22:39",
+        "endTs": "0:23:29",
+        "retrievedISO": "2026-10-16T05:09:44.606Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-09-01",
+      "text": "The mayor would approve spending in writing and report to the Council every quarter.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "MjxK8A0xoG8",
+        "ts": "0:09:39",
+        "endTs": "0:10:09",
+        "retrievedISO": "2026-10-16T05:09:44.606Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-09-01",
+      "text": "A bill would let the County accept emergency donations without first getting Council approval.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "MjxK8A0xoG8",
+        "ts": "0:09:19",
+        "endTs": "0:09:49",
+        "retrievedISO": "2026-10-16T05:09:44.606Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-09-01",
+      "text": "The committee took up Bill 93-2024, Chair Lee's bill about money donated during an emergency.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "MjxK8A0xoG8",
+        "ts": "0:08:55",
+        "endTs": "0:09:25",
+        "retrievedISO": "2026-10-16T05:09:44.606Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-09-01",
+      "text": "Finance officials prefer a grant fund so donations do not show up as County revenue.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "x6KG7KwLCAY",
+        "ts": "0:08:30",
+        "endTs": "0:09:02",
+        "retrievedISO": "2026-10-16T12:24:33.830Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-09-01",
+      "text": "Finance officials asked that donations go into a grant fund, not a special revolving fund.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "x6KG7KwLCAY",
+        "ts": "0:08:04",
+        "endTs": "0:09:08",
+        "retrievedISO": "2026-10-16T12:24:33.830Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-09-01",
+      "text": "The money could be used only for emergency management, with quarterly reports to the Council.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "x6KG7KwLCAY",
+        "ts": "0:04:36",
+        "endTs": "0:05:06",
+        "retrievedISO": "2026-10-16T12:24:33.830Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-09-01",
+      "text": "The committee took up two items: an emergency donations bill and the vehicle disposal fee fund.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "x6KG7KwLCAY",
+        "ts": "0:02:56",
+        "endTs": "0:03:32",
+        "retrievedISO": "2026-10-16T12:24:33.830Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    }
+  ],
+  "bills": [
+    "Bill 93 (2026)",
+    "Bill 131 (2026)",
+    "Bill 132 (2026)",
+    "Bill 142 (2026)",
+    "Bill 2026 (2026)"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

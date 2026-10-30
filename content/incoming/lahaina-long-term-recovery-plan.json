@@ -1,0 +1,57 @@
+{
+  "slug": "lahaina-long-term-recovery-plan",
+  "title": "Lahaina long-term recovery plan",
+  "summary": "County, state and federal partners are drafting a long-term recovery plan. It includes a project for a rebuild Lahaina plan, which is to be completed within two years.",
+  "topics": [
+    "disaster-recovery",
+    "housing"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2024-10-09",
+  "lastSeenISO": "2024-10-09",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-30",
+  "timeline": [
+    {
+      "dateISO": "2024-10-09",
+      "text": "The long-term recovery plan includes a project for a rebuild Lahaina plan, to be done within two years.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "XFOvEpVuIu0",
+        "ts": "0:53:20",
+        "endTs": "0:53:51",
+        "retrievedISO": "2026-10-21T13:44:06.198Z"
+      },
+      "body": "County Council Disaster, Resilience, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2024-10-09",
+      "text": "County, state and federal partners are drafting a long-term recovery plan.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "XFOvEpVuIu0",
+        "ts": "0:13:53",
+        "endTs": "0:14:23",
+        "retrievedISO": "2026-10-21T13:44:06.198Z"
+      },
+      "body": "County Council Disaster, Resilience, International Affairs, and Planning Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "County Council Disaster, Resilience, International Affairs, and Planning Committee",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

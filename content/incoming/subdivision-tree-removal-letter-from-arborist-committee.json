@@ -1,0 +1,69 @@
+{
+  "slug": "subdivision-tree-removal-letter-from-arborist-committee",
+  "title": "Subdivision tree removal letter from Arborist Committee",
+  "summary": "A letter to the subdivision's board will go on the August agenda for the committee to approve. The chair asked to be told of the board's next meeting so a committee member can attend. This follows a homeowner's testimony against the board's plan to remove trees, though the committee said it does not have any regulatory power.",
+  "topics": [
+    "environment"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-07-08",
+  "lastSeenISO": "2026-07-08",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-30",
+  "timeline": [
+    {
+      "dateISO": "2026-07-08",
+      "text": "The chair asked to be told of the subdivision board's next meeting so a committee member can attend.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Rhz4ecFDSAM",
+        "ts": "0:14:39",
+        "endTs": "0:15:09",
+        "retrievedISO": "2026-10-13T06:35:20.466Z"
+      },
+      "body": "Maui Arborist Committee"
+    },
+    {
+      "dateISO": "2026-07-08",
+      "text": "A letter to the subdivision's board will go on the August agenda for the committee to approve.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Rhz4ecFDSAM",
+        "ts": "0:13:46",
+        "endTs": "0:14:25",
+        "retrievedISO": "2026-10-13T06:35:20.466Z"
+      },
+      "body": "Maui Arborist Committee"
+    },
+    {
+      "dateISO": "2026-07-08",
+      "text": "A homeowner testified against a subdivision board's plan to remove trees.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Rhz4ecFDSAM",
+        "ts": "0:01:40",
+        "endTs": "0:02:23",
+        "retrievedISO": "2026-10-13T06:35:20.466Z"
+      },
+      "body": "Maui Arborist Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui Arborist Committee",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

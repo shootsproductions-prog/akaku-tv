@@ -1,0 +1,72 @@
+{
+  "slug": "bill-145-property-tax-exemption-for-child-care",
+  "title": "Bill 145 property tax exemption for child care",
+  "summary": "At the November 18, 2024 meeting, the chair asked commissioners to read about Bill 145 and discuss it at the next meeting. The bill would create a property tax exemption for child care providers. A speaker said committees have raised the proposed exemption from $100,000 to $200,000.",
+  "topics": [
+    "economy",
+    "education"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2024-11-18",
+  "lastSeenISO": "2024-11-18",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-30",
+  "timeline": [
+    {
+      "dateISO": "2024-11-18",
+      "text": "The chair asked commissioners to read about Bill 145 and discuss it at the next meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ylzQrfRgg-g",
+        "ts": "0:41:17",
+        "endTs": "0:41:51",
+        "retrievedISO": "2026-10-15T06:35:21.777Z"
+      },
+      "body": "Commission on Children and Youth"
+    },
+    {
+      "dateISO": "2024-11-18",
+      "text": "The speaker said committees raised the proposed exemption from $100,000 to $200,000.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ylzQrfRgg-g",
+        "ts": "0:39:20",
+        "endTs": "0:39:50",
+        "retrievedISO": "2026-10-15T06:35:21.777Z"
+      },
+      "body": "Commission on Children and Youth"
+    },
+    {
+      "dateISO": "2024-11-18",
+      "text": "A speaker raised Bill 145, a property tax exemption for child care providers.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ylzQrfRgg-g",
+        "ts": "0:38:56",
+        "endTs": "0:39:26",
+        "retrievedISO": "2026-10-15T06:35:21.777Z"
+      },
+      "body": "Commission on Children and Youth"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Commission on Children and Youth",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [
+    "Bill 145 (2024)"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
