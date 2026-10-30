@@ -166,12 +166,13 @@
     "bill-110-street-improvement-exemption-for-front-street-rebui.json",
     "bill-87-extending-temporary-structure-permits-to-five-years.json",
     "countys-wildfire-lawsuits-and-global-settlement.json",
-    "yearly-9-percent-sewer-rate-increases.json"
+    "yearly-9-percent-sewer-rate-increases.json",
+    "building-permit-exemption-for-storage-shipping-containers.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-10-30T06:17:05.774Z",
-  "etag": "a151f3c0118fc3e5c6bb0a7cac275eb03a7e3b5a73fe43fae63cd8b1b35f2ff3",
+  "updatedAt": "2026-10-30T06:18:10.367Z",
+  "etag": "28be862e53d2d026846806fb587db8478e95f76f8195a23d12a2987e6120ae6b",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-10-29T10:26:13.643Z",
@@ -840,6 +841,10 @@
     "yearly-9-percent-sewer-rate-increases.json": {
       "updatedAt": "2026-10-30T06:17:05.774Z",
       "sha256": "f0ce316a35ab17a9a0f29b38cf102289a7ef220e96993ed94bc6ec21e0f633e6"
+    },
+    "building-permit-exemption-for-storage-shipping-containers.json": {
+      "updatedAt": "2026-10-30T06:18:10.367Z",
+      "sha256": "9ada8ecfca1fcf9d1e87db71f7ca5a872048e04380520eaf803f80a3156572be"
     }
   }
 }

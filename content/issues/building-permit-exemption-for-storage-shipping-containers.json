@@ -17,21 +17,6 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-29",
-  "timeline": [
-    {
-      "dateISO": "2024-07-19",
-      "text": "Bill 96, exempting storage shipping containers in industrial zones from building permits, passed.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "CNrEmWu8GiM",
-        "ts": "2:05:29",
-        "endTs": "2:06:10",
-        "retrievedISO": "2026-10-19T19:45:48.233Z"
-      },
-      "body": "County Council Meeting"
-    }
-  ],
   "boards": [
     {
       "name": "Maui County Council",
@@ -41,6 +26,24 @@
   ],
   "bills": [
     "Bill 96 (2024)"
+  ],
+  "timeline": [
+    {
+      "dateISO": "2024-07-19",
+      "text": "Bill 96, exempting storage shipping containers in industrial zones from building permits, passed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "CNrEmWu8GiM",
+        "ts": "2:05:29",
+        "retrievedISO": "2026-10-19T19:45:48.233Z",
+        "endTs": "2:06:10"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }
