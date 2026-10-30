@@ -171,12 +171,12 @@
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-10-30T06:34:10.677Z",
-  "etag": "5314bf36d4e9208e4e3b0b7923a2758bb75e278d36c528935bc6442c88eaa6ef",
+  "updatedAt": "2026-10-30T07:26:11.079Z",
+  "etag": "f7274406112b5fc41873068245548ad2dd8f0136346358d1ee6f5546818ccb50",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
-      "updatedAt": "2026-10-29T10:26:13.643Z",
-      "sha256": "1ed85a2dff60510000a91155d446ba331733762db35df217ba89a526ac3166be"
+      "updatedAt": "2026-10-30T07:26:11.079Z",
+      "sha256": "fb3af7b0e40bd0ecdbe8efa2ce2c8bde2d9cd9e9285fb68168d99d3d8e3ebba5"
     },
     "lahaina-water-use-permit-applications-and-tig-report.json": {
       "updatedAt": "2026-10-29T10:26:13.643Z",
@@ -195,8 +195,8 @@
       "sha256": "9ced29ff7e4f97c9c4749fdb78414b4d0e4fb7cf290c5a9099ede62cf700ffa1"
     },
     "maui-research-and-technology-park-land-designation.json": {
-      "updatedAt": "2026-10-29T10:26:13.643Z",
-      "sha256": "a9df67c1205e5c50713e99f8109e720e66e19cffd9f4c593ea90d489b6eccedc"
+      "updatedAt": "2026-10-30T07:26:11.079Z",
+      "sha256": "dc055e91b14f28fcd33f27e3ce3c8dd5894fc1426bac20fc37f08070884faf1d"
     },
     "south-maui-community-plan-review.json": {
       "updatedAt": "2026-10-29T10:26:13.643Z",
@@ -231,8 +231,8 @@
       "sha256": "5d110254f3cf8c6f56f01fe280b35405aaeaac7f5deb87b854d1258f201d3883"
     },
     "bills-163-and-164-for-163-acre-central-maui-growth.json": {
-      "updatedAt": "2026-10-29T12:26:14.230Z",
-      "sha256": "27a606777f903716d57cbd6e9b71157795598034f80fc13e6820c09b45e87f56"
+      "updatedAt": "2026-10-30T07:26:11.079Z",
+      "sha256": "79f2ffcec96e128f90da07f1d2e62df89f671f8bcf2e00a1c59dc83ffa57db0a"
     },
     "board-of-variances-short-on-members.json": {
       "updatedAt": "2026-10-29T10:26:13.643Z",
@@ -323,8 +323,8 @@
       "sha256": "a8cce6d7a31ca0873e8d4c107f55074a3d94e8100cc1648b9e2254ca99695b14"
     },
     "johnson-controls-energy-savings-contract-phase-3.json": {
-      "updatedAt": "2026-10-29T10:26:13.643Z",
-      "sha256": "84a351a5a5e089786ca56b55e7a51f73833c7de1fd793012cf47d48c10bd5d08"
+      "updatedAt": "2026-10-30T07:26:11.079Z",
+      "sha256": "06dd155bee94b199b395dac11274de11820610af52f0db0966908e1a9222b0ce"
     },
     "kaanapali-fight-case-referred-to-the-fbi.json": {
       "updatedAt": "2026-10-29T10:26:13.643Z",
@@ -391,8 +391,8 @@
       "sha256": "159d409d895bfdb83c17d0e4cabaf6132651cacc9e0301560a90cd03620a10ee"
     },
     "moving-fire-survivors-off-fema-interim-housing.json": {
-      "updatedAt": "2026-10-30T00:34:09.762Z",
-      "sha256": "581ebbf8ce8c2015e4901d7af96b2fb0262b0f9fe9a7b8f2b02dd29b43e53dcd"
+      "updatedAt": "2026-10-30T07:26:11.079Z",
+      "sha256": "60404a7500cdb04ed41dc4940f4e3a5e7b6b1f284b441fd8a75b9cf824af9ed7"
     },
     "mrc-partners-violation-appeal-nearing-final-continuance.json": {
       "updatedAt": "2026-10-29T10:26:13.643Z",
@@ -403,8 +403,8 @@
       "sha256": "781c5306b947e9c1f743d5c9e9d6fce08144850cd093eef786516cb0080d516c"
     },
     "park-maui-paid-and-resident-parking-rules.json": {
-      "updatedAt": "2026-10-29T10:26:13.643Z",
-      "sha256": "d261315ffd85e8294e4b0ceb15c359403492b580585ef11eff5fc4c9a42ccdde"
+      "updatedAt": "2026-10-30T07:26:11.079Z",
+      "sha256": "4962c38a477a4ac1e9d608b0152dd0195d134d62358d739c5f7dbaedea6d8f4a"
     },
     "police-chief-evaluation-policy.json": {
       "updatedAt": "2026-10-29T10:26:13.643Z",
@@ -447,8 +447,8 @@
       "sha256": "3ad45206f8041aeaa0a01114f06ec0b485a5dadfa8cf17c4343e0d811f5b7814"
     },
     "spending-the-1-6-billion-federal-recovery-grant.json": {
-      "updatedAt": "2026-10-29T10:26:13.643Z",
-      "sha256": "bbdab58c11717cc7b4928acc78b11fac7e4001e0aafeaeebf13d6996fdccff08"
+      "updatedAt": "2026-10-30T07:26:11.079Z",
+      "sha256": "4058bdbff2b766fe68654e09d7689b5468d63086e091d886ef7f86f01f57bf5e"
     },
     "staff-approvals-of-lahaina-historic-district-rebuilds.json": {
       "updatedAt": "2026-10-30T00:34:09.762Z",
@@ -499,8 +499,8 @@
       "sha256": "b75a1e6a2bd48a12bfcffacff2260e8d809d949a7e486188ca64417d4764edda"
     },
     "charter-amendments-headed-to-the-general-election-ballot.json": {
-      "updatedAt": "2026-10-29T10:26:13.643Z",
-      "sha256": "99601a222cb781e685dd2441ed97a1711b25805d2705e39f888270369282af90"
+      "updatedAt": "2026-10-30T07:26:11.079Z",
+      "sha256": "9e78c8ae9fe20991642657b04300a3a9ef1e46379019a6dc024ccfa79ec884a6"
     },
     "highway-realignment-crossing-17-archaeological-sites.json": {
       "updatedAt": "2026-10-29T10:26:13.643Z",
@@ -519,8 +519,8 @@
       "sha256": "81b62a202ca73ea19eadeea7d163e9fbca2440ea7b84614db39edf358fd683cc"
     },
     "county-bus-advertising-rules-in-bill-13.json": {
-      "updatedAt": "2026-10-29T10:26:13.643Z",
-      "sha256": "90d6ee1364c05e739dec109716cf0b2a5de4fdbc20b62b256d3a54f9c13b1d56"
+      "updatedAt": "2026-10-30T07:26:11.079Z",
+      "sha256": "85039e19d51b20fbfe980a909b8d40edc58c3d10e42433e55f6fea69013ef17e"
     },
     "countywide-rules-for-managing-county-grants.json": {
       "updatedAt": "2026-10-29T10:26:13.643Z",
@@ -531,16 +531,16 @@
       "sha256": "031ef7daca1c062e2d9717d4c54cc667b5260721e5f3b0ff18646ab602c419cb"
     },
     "higher-fines-for-loud-vehicle-sound-systems.json": {
-      "updatedAt": "2026-10-29T10:26:13.643Z",
-      "sha256": "3fe81744709c0a7b2b661dc0a14f5e956868a12888ad8a643b0de080bc97bb75"
+      "updatedAt": "2026-10-30T07:26:11.079Z",
+      "sha256": "5f076b282dba57f163131dc733bd8b8754a2062d705db00fe96798375e8dbf07"
     },
     "lanai-koele-project-district-zoning-and-conditions.json": {
-      "updatedAt": "2026-10-29T10:26:13.643Z",
-      "sha256": "d91808eee6f1cf59bd168b4dc656fcc4a2f59e4dafec3564ade71c84ecc46c2f"
+      "updatedAt": "2026-10-30T07:26:11.079Z",
+      "sha256": "ec53bb627bf22221d5e1fe7b00c202388dce761dd2d51c7185994838bb034568"
     },
     "mutual-aid-agreement-to-help-kauai-after-hurricane-lowell.json": {
-      "updatedAt": "2026-10-29T12:26:14.230Z",
-      "sha256": "c0f36b0b804d2f5095b3bac69473b1432452cbd80326ccb96944e17795ecd32b"
+      "updatedAt": "2026-10-30T07:26:11.079Z",
+      "sha256": "a138d13e4b2d9c6fe989c0dd670d43d4dd9a43d8658cac74e4800d53f1cbeb6a"
     },
     "paia-40-acre-housing-project-rezoning.json": {
       "updatedAt": "2026-10-29T10:26:13.643Z",
@@ -559,8 +559,8 @@
       "sha256": "bee2c55cad588d43a5ec65fd539810ab5bc4f6a9f302172b88f2297a5e1eb9e7"
     },
     "storm-damaged-parks-and-closed-kula-gym.json": {
-      "updatedAt": "2026-10-29T10:26:13.643Z",
-      "sha256": "6815c84c1fca8d6f5950031f03e39bd0f54db875a335244835b4a241c080db5d"
+      "updatedAt": "2026-10-30T07:26:11.079Z",
+      "sha256": "2d1982847292b128029bffd73b865c05fe8f643ba5d0a47181828ef4f1adf468"
     },
     "taxi-fare-and-baggage-charge-increases.json": {
       "updatedAt": "2026-10-29T10:26:13.643Z",
@@ -591,8 +591,8 @@
       "sha256": "ec9a6ead02f3027d3974edba9238e298f0eec1a4a1b75caa184d0ff014d118e5"
     },
     "bill-104-kitchenettes-for-rebuilding-homes.json": {
-      "updatedAt": "2026-10-29T10:26:13.643Z",
-      "sha256": "b28ce920229770f63349f396963aeb9b141b8f6491094325bc145f1e25d8549b"
+      "updatedAt": "2026-10-30T07:26:11.079Z",
+      "sha256": "36fe6d99f447b5c49620c2da5be456a863a1c3d698c662063664378c3f675d34"
     },
     "bill-111-on-removing-belongings-from-public-places.json": {
       "updatedAt": "2026-10-29T10:26:13.643Z",
@@ -607,16 +607,16 @@
       "sha256": "2149308f6d8f6243bcbc025c3c8e8e185511559c674b102cc066a5eee7e01c29"
     },
     "bills-128-and-129-for-countywide-water-upgrades.json": {
-      "updatedAt": "2026-10-29T12:26:14.230Z",
-      "sha256": "6cc104170324ad70306943cd810439e94a5f4bd57301b8f6dbe4c7304ebb32d3"
+      "updatedAt": "2026-10-30T07:26:11.079Z",
+      "sha256": "53cfdebacd1993de8ba0559886c2805fba3d62c7b26321d56664e74996d76035"
     },
     "cap-on-bed-and-breakfast-homes-on-molokai.json": {
       "updatedAt": "2026-10-29T10:26:13.643Z",
       "sha256": "d22bb87e56c974447235c85912b8d3d849e0541d2116c5a74157b7bb724469e1"
     },
     "central-maui-wastewater-reclamation-facility-funding.json": {
-      "updatedAt": "2026-10-29T10:26:13.643Z",
-      "sha256": "be6019d297a1edccccf43ff08e7e2e74945434e7dfbfd1ef2fb4335dbca42c31"
+      "updatedAt": "2026-10-30T07:26:11.079Z",
+      "sha256": "a31f9e3293c0b1acdefeb36b9b36261028a3c814c5877ff69dae04973bfefa9a"
     },
     "cost-of-government-commission-empty-seat-and-staggered-terms.json": {
       "updatedAt": "2026-10-29T10:26:13.643Z",
@@ -639,20 +639,20 @@
       "sha256": "a443b9b6faae04f1571108fdeb61ed726c804970afc0024243e41a05332af51e"
     },
     "disinfecting-wastewater-that-reaches-the-ocean.json": {
-      "updatedAt": "2026-10-29T10:26:13.643Z",
-      "sha256": "e91bc1420538c2c36044a5ad9bcc0a8813fcdc92433d0d4115665930d6da2fa4"
+      "updatedAt": "2026-10-30T07:26:11.079Z",
+      "sha256": "171ae18fde819ba958c8ef30210c3cb0d849145f78725e1fb07c55fd6dd05837"
     },
     "emergency-rule-for-relocating-fire-destroyed-liquor-licenses.json": {
       "updatedAt": "2026-10-29T10:26:13.643Z",
       "sha256": "4c48625e9582325461f1a0d875cd7560869167d65d2f22834165158731ba4fac"
     },
     "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p.json": {
-      "updatedAt": "2026-10-29T12:26:14.230Z",
-      "sha256": "ce80a4af85a5adbcbcec325acd045feaf2952e2823210d890eb1d80265f8aa22"
+      "updatedAt": "2026-10-30T07:26:11.079Z",
+      "sha256": "ffed13b614c401f6cb5bfbfea40cc78d1a1725fd22a87214d048948aaec67e4e"
     },
     "ethics-bills-on-nepotism-lobbyists-and-ex-employees.json": {
-      "updatedAt": "2026-10-29T10:26:13.643Z",
-      "sha256": "f06f1e539161c60936b4ca029d97107ad0adec00ceb0ba5090b5a2e625b11a42"
+      "updatedAt": "2026-10-30T07:26:11.079Z",
+      "sha256": "a3e19e225c9ce9f554a32b16ee06b4f7a91a3dba8d958808dd1e76eddb54e80a"
     },
     "evacuation-software-and-new-evacuation-zones.json": {
       "updatedAt": "2026-10-29T10:26:13.643Z",
@@ -663,8 +663,8 @@
       "sha256": "06abb73fe2d606999fa5bdfd107e5bcb89d8a666a7690ec6e40622be78b65dda"
     },
     "extending-property-tax-relief-for-wildfire-hit-properties.json": {
-      "updatedAt": "2026-10-29T10:26:13.643Z",
-      "sha256": "a0808573477137fa97a38c3a1ca5c004b66c61b141a9d06ca964d544250c4884"
+      "updatedAt": "2026-10-30T07:26:11.079Z",
+      "sha256": "485c554a47fd995a1eeff03ee2aa32aa8ad300e34c2554e05569b4809e6e04c3"
     },
     "fema-reimbursement-of-county-wildfire-response-costs.json": {
       "updatedAt": "2026-10-29T10:26:13.643Z",
@@ -679,8 +679,8 @@
       "sha256": "9f2929f19991ac5daf670ab1b7db2eae53b09adc77e0e0f4a288a4b5f342f4af"
     },
     "fukuyama-sister-city-delegation-and-follow-up.json": {
-      "updatedAt": "2026-10-30T06:34:10.677Z",
-      "sha256": "1fd9a938bed38ce51f72a56549da4063af749a6c09eb42ec70092bfe88a0381e"
+      "updatedAt": "2026-10-30T07:26:11.079Z",
+      "sha256": "c538a67d0890b91f032be5efe458fd0c96394d7d54ee7e2a8ddec58911101212"
     },
     "full-rewrite-of-county-liquor-rules.json": {
       "updatedAt": "2026-10-29T10:26:13.643Z",
@@ -719,8 +719,8 @@
       "sha256": "b5e83a89c77e0de045bd90c37c8ce38daa1fbdf105b9c6e28c35af2600fdfb34"
     },
     "limits-on-new-swimming-pools-in-west-maui.json": {
-      "updatedAt": "2026-10-29T10:26:13.643Z",
-      "sha256": "9cd6d9ed787c998bd0a713854d03efc78a9ebd0b958bebae0f764bcc69f3f5cb"
+      "updatedAt": "2026-10-30T07:26:11.079Z",
+      "sha256": "f27e192bfe492eb29047d648a6307c7211acda25d9e91032a3a1cc06dd7ecf23"
     },
     "mema-community-resiliency-hub-network-plan.json": {
       "updatedAt": "2026-10-29T10:26:13.643Z",
@@ -751,12 +751,12 @@
       "sha256": "c0839a5e0939f3bf661e40d04dd3d9876018191d5da9bdcdc9c18e019537a881"
     },
     "rewrite-of-title-19-county-zoning-code.json": {
-      "updatedAt": "2026-10-29T10:26:13.643Z",
-      "sha256": "82e697987249e25e54fb772dcccd34763752bf82a4cbb6c10677257eeb108025"
+      "updatedAt": "2026-10-30T07:26:11.079Z",
+      "sha256": "da3809606d273e41a7d221d5f243a7889807c76c04e731166969b71eead1ef21"
     },
     "safe-parking-sites-for-people-living-in-cars.json": {
-      "updatedAt": "2026-10-29T10:26:13.643Z",
-      "sha256": "52d8c2ca3fa7f3de7e52d69329a060396f567986e55ed35f2006c3154e7c2b33"
+      "updatedAt": "2026-10-30T07:26:11.079Z",
+      "sha256": "377ad3a351cb74ff16af6fd1cc9f9f559e6b7bc1db4d667ed058f24af0d2436c"
     },
     "seabird-streetlight-lawsuit-settlement.json": {
       "updatedAt": "2026-10-29T10:26:13.643Z",
@@ -767,8 +767,8 @@
       "sha256": "7753b53d4cdd720f666532b8c5e9dfd0fbc335fb761ec565a52199c3931eee5c"
     },
     "special-management-area-boundary-assessment.json": {
-      "updatedAt": "2026-10-29T10:26:13.643Z",
-      "sha256": "a64eb1d16491ce75b30ece53ecb80f738ff94fd272b55fe1eda6b8403ce39713"
+      "updatedAt": "2026-10-30T07:26:11.079Z",
+      "sha256": "27aa74769d12877eb8471ccff5613ae77bd28703c4d073d68925fe89eab5594a"
     },
     "vehicle-disposal-fund-uses-and-25-fee.json": {
       "updatedAt": "2026-10-29T10:26:13.643Z",
@@ -787,28 +787,28 @@
       "sha256": "f6ec861c2bc0944f63c41920e4cce0a14d1aab136b82f88269281baeeb2a3b75"
     },
     "wildfire-survivor-health-study-findings.json": {
-      "updatedAt": "2026-10-29T10:26:13.643Z",
-      "sha256": "92b1168afaba96e9cc433fba803a7a06d3d314900ff3f9bc6e912e61622275f3"
+      "updatedAt": "2026-10-30T07:26:11.079Z",
+      "sha256": "e0e92c680072121eae7bc05f7d9b260943d304b0d159dc68e459dcc586a51e4e"
     },
     "yearly-usgs-water-monitoring-agreement.json": {
-      "updatedAt": "2026-10-29T10:26:13.643Z",
-      "sha256": "1b5ce0c47aebc3b50047451d75cc4dc77c0da6ff062bfbf368c42ee470d43dea"
+      "updatedAt": "2026-10-30T07:26:11.079Z",
+      "sha256": "7e9b3c24ea75e7e099dca07874bee5724f74680654c26645a1921ff84d0e91e4"
     },
     "liquor-rules-for-nonprofit-fundraising-auctions.json": {
       "updatedAt": "2026-10-29T10:26:13.643Z",
       "sha256": "ba6a8723066c1e87ff71ec938b48dd11031aaeb7a0ad37961ffd68eebe3cb1c0"
     },
     "village-association-plan-to-stop-using-injection-wells.json": {
-      "updatedAt": "2026-10-30T06:16:26.104Z",
-      "sha256": "fb2ef50be7740d253c4036964e3d1654665586c0b61523202159c73fec3927f2"
+      "updatedAt": "2026-10-30T07:26:11.079Z",
+      "sha256": "2c5cd837d3b90a9528c3a28152e1f4fb72319fa70cdae16a02d2f9cdc51a4380"
     },
     "water-system-development-fee-based-on-daily-use.json": {
-      "updatedAt": "2026-10-30T06:16:26.104Z",
-      "sha256": "50a9ab0e4e1eac4e07c73ac1f80eefdd7610651d5f1bb60b97e929d733d215b0"
+      "updatedAt": "2026-10-30T07:26:11.079Z",
+      "sha256": "f17f7885364b456800f16782fb5de05a7298d4c0c516aacb02f0c23c0d5c8661"
     },
     "county-funding-for-lahaina-community-land-trust.json": {
-      "updatedAt": "2026-10-30T06:16:47.121Z",
-      "sha256": "f90ff2f8eaad758004c17220d124d33580820c5aa63585d568204fc88744a36f"
+      "updatedAt": "2026-10-30T07:26:11.079Z",
+      "sha256": "18e06c26de30a265cfbcd09a40ffa0125083d06f84b5d4d8512aaaec25e5d5b7"
     },
     "lower-waiehu-beach-road-land-purchase-and-title-dispute.json": {
       "updatedAt": "2026-10-30T06:16:47.121Z",
@@ -819,8 +819,8 @@
       "sha256": "4ed596d54038598a7b95af5a08f04df70c407456f522815701e5d8fc1414f005"
     },
     "water-rate-increases-and-19-80-top-tier.json": {
-      "updatedAt": "2026-10-30T06:16:47.121Z",
-      "sha256": "376626aaee2138c6ed1ca2064cb85b025f1be89c85da8d89e2bd42816f44b909"
+      "updatedAt": "2026-10-30T07:26:11.079Z",
+      "sha256": "3fcb8cd06e88afe1528a00055e3553fd2a10c38c5d4bfd22f170325f34fa28b8"
     },
     "bill-105-rebuilding-nonconforming-structures-after-disasters.json": {
       "updatedAt": "2026-10-30T06:17:05.774Z",
@@ -839,8 +839,8 @@
       "sha256": "7e6993638bfd6cce74bd6d0c00ba8dc824a9eea8462b2bb464149ccf0e2381c5"
     },
     "yearly-9-percent-sewer-rate-increases.json": {
-      "updatedAt": "2026-10-30T06:17:05.774Z",
-      "sha256": "f0ce316a35ab17a9a0f29b38cf102289a7ef220e96993ed94bc6ec21e0f633e6"
+      "updatedAt": "2026-10-30T07:26:11.079Z",
+      "sha256": "b1c6212349b025cd26600e47e12c3bb41e87dedc9e18186dbc30db10d18a5ae3"
     },
     "building-permit-exemption-for-storage-shipping-containers.json": {
       "updatedAt": "2026-10-30T06:18:10.367Z",

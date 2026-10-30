@@ -1,14 +1,14 @@
 {
   "slug": "extending-property-tax-relief-for-wildfire-hit-properties",
   "title": "Extending property tax relief for wildfire-hit properties",
-  "summary": "Bill 103 now changes the budget tied to the real property tax expiry date for wildfire-impacted properties, as of August 25. The bill would extend the property tax exemption for those properties to June 30, 2028. The budget director said this updates the exemption's end date to line up with Ordinance 5913.",
+  "summary": "On August 25, 2026, Bill 103 changed the budget tied to the real property tax expiration date for wildfire-impacted properties. The bill would move the exemption's end date from December 31, 2026, to June 30, 2028, to line up with Ordinance 5913, the budget director said. Earlier bills, including Bill 171, also sought to extend wildfire tax relief to June 30, 2028.",
   "topics": [
     "disaster-recovery",
     "economy"
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2024-11-26",
+  "firstSeenISO": "2024-09-24",
   "lastSeenISO": "2026-08-25",
   "signals": {
     "meetingsLast30d": 0,
@@ -31,11 +31,20 @@
       "name": "Maui County Council",
       "group": "council",
       "short": []
+    },
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
     }
   ],
   "bills": [
     "Bill 103 (2026)",
-    "Bill 147 (2024)"
+    "Bill 115 (2024)",
+    "Bill 147 (2024)",
+    "Bill 171 (2026)"
   ],
   "timeline": [
     {
@@ -89,6 +98,58 @@
         "endTs": "2:30:18"
       },
       "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2024-09-24",
+      "text": "The tax relief item was deferred, or put off to come back later.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "moLMa3wtcAQ",
+        "ts": "1:21:39",
+        "retrievedISO": "2026-10-21T13:48:47.884Z",
+        "endTs": "1:22:15"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2024-09-24",
+      "text": "An amendment setting that new deadline passed with nine ayes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "moLMa3wtcAQ",
+        "ts": "0:23:45",
+        "retrievedISO": "2026-10-21T13:48:47.884Z",
+        "endTs": "0:24:15"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2024-09-24",
+      "text": "Current law gives owners renting to people displaced by the wildfire until May 31, 2025 to file.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "moLMa3wtcAQ",
+        "ts": "0:08:45",
+        "retrievedISO": "2026-10-21T13:48:47.884Z",
+        "endTs": "0:09:18"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2024-09-24",
+      "text": "The committee took up Bill 115 (2024), a wildfire-related bill on tax exemption filing deadlines.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "moLMa3wtcAQ",
+        "ts": "0:08:13",
+        "retrievedISO": "2026-10-21T13:48:47.884Z",
+        "endTs": "0:08:43"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
     }
   ],
   "sourceTypes": [

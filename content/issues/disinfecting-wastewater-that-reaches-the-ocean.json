@@ -1,7 +1,7 @@
 {
   "slug": "disinfecting-wastewater-that-reaches-the-ocean",
   "title": "Disinfecting wastewater that reaches the ocean",
-  "summary": "At the October 19 meeting, a testifier asked members to advance $1.8 million for design work on UV disinfection and urged against adding flow to the existing plant until it has effective disinfection. The testifier said the Kahului plant stopped all disinfection in 2018. Earlier, on October 7, another testifier asked for $4 million for UV disinfection in South Maui.",
+  "summary": "On October 19, testifiers asked members to advance $1.8 million for design of UV disinfection and urged against adding flow to the existing Kahului plant until it disinfects effectively; earlier, another testifier asked for $4 million for South Maui UV. Testifiers say Kahului stopped all disinfection in 2018. The Kīhei UV upgrade was at 5% design in March, and the department said water sent to injection wells need not be R1 quality.",
   "topics": [
     "water",
     "environment",
@@ -9,7 +9,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-10-07",
+  "firstSeenISO": "2026-04-06",
   "lastSeenISO": "2026-10-19",
   "signals": {
     "meetingsLast30d": 2,
@@ -31,6 +31,13 @@
       "group": "council",
       "short": [
         "DRIP"
+      ]
+    },
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
       ]
     }
   ],
@@ -87,6 +94,32 @@
         "endTs": "0:16:47"
       },
       "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-04-06",
+      "text": "The testifier said he believes people are getting sick and that limits are being exceeded in the water.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "YGuzDd85eAQ",
+        "ts": "1:05:23",
+        "retrievedISO": "2026-10-17T04:46:58.271Z",
+        "endTs": "1:05:53"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-06",
+      "text": "A testifier said wastewater disinfection in Kahului stopped in 2018.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "YGuzDd85eAQ",
+        "ts": "1:04:13",
+        "retrievedISO": "2026-10-17T04:46:58.271Z",
+        "endTs": "1:04:49"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
     }
   ],
   "sourceTypes": [

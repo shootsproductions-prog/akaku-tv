@@ -1,14 +1,14 @@
 {
   "slug": "county-funding-for-lahaina-community-land-trust",
   "title": "County funding for Lahaina Community Land Trust",
-  "summary": "On April 21, a council member proposed a $6 million grant to the Lahaina Community Land Trust. The member said the grant would help homeowners who have a gap in rebuilding money. The member also said the land trust raised over $9.5 million using the County's first $6 million.",
+  "summary": "On April 21, a council member proposed a new $6 million grant to the Lahaina Community Land Trust to help wildfire survivors with rebuilding gaps, noting the trust raised over $9.5 million using the County's first $6 million. Testifiers had urged restoring $6 million in unrestricted funding. The trust has bought about 20% of post-fire Lahaina parcel sales and uses 99-year deed restrictions, with a goal of about 400 units over 10 years.",
   "topics": [
     "housing",
     "disaster-recovery"
   ],
   "status": "quiet",
   "pinned": false,
-  "firstSeenISO": "2026-04-21",
+  "firstSeenISO": "2025-07-25",
   "lastSeenISO": "2026-04-21",
   "signals": {
     "meetingsLast30d": 0,
@@ -24,9 +24,16 @@
       "short": [
         "BFED"
       ]
+    },
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
     }
   ],
-  "bills": [],
+  "bills": [
+    "Bill 4 (2026)"
+  ],
   "timeline": [
     {
       "dateISO": "2026-04-21",
@@ -66,6 +73,123 @@
         "endTs": "4:32:17"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-01-07",
+      "text": "Bill 4 moves $5 million from the Open Space Fund to a grant for the Lahaina Community Land Trust.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mJsxaTtDu9Q",
+        "ts": "2:18:10",
+        "retrievedISO": "2026-10-17T11:04:07.310Z",
+        "endTs": "2:18:47"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-01-07",
+      "text": "The testifier said 25 parcels have been protected in just over two years.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mJsxaTtDu9Q",
+        "ts": "1:16:11",
+        "retrievedISO": "2026-10-17T11:04:07.310Z",
+        "endTs": "1:16:41"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-01-07",
+      "text": "A testifier said many lots may go up for sale once the fire settlement is signed, and the money helps keep them out of investor hands.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mJsxaTtDu9Q",
+        "ts": "1:15:00",
+        "retrievedISO": "2026-10-17T11:04:07.310Z",
+        "endTs": "1:15:30"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-07-25",
+      "text": "The land trust resolution passed with six ayes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "IdiAmc4W5Zo",
+        "ts": "2:13:15",
+        "retrievedISO": "2026-10-21T22:24:51.067Z",
+        "endTs": "2:13:48"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-07-25",
+      "text": "The vice chair said she will schedule the land trust to explain its funding at her committee.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "IdiAmc4W5Zo",
+        "ts": "2:11:26",
+        "retrievedISO": "2026-10-21T22:24:51.067Z",
+        "endTs": "2:11:58"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-07-25",
+      "text": "The land trust representative said she will keep the council updated on any purchases.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "IdiAmc4W5Zo",
+        "ts": "2:10:27",
+        "retrievedISO": "2026-10-21T22:24:51.067Z",
+        "endTs": "2:11:07"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-07-25",
+      "text": "The land trust has identified two, maybe three, properties that fit so far.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "IdiAmc4W5Zo",
+        "ts": "2:03:59",
+        "retrievedISO": "2026-10-21T22:24:51.067Z",
+        "endTs": "2:04:34"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-07-25",
+      "text": "The land trust said some families who would still live on their Lahaina shoreline land, if not for the fire, face barriers to rebuilding.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "IdiAmc4W5Zo",
+        "ts": "0:18:17",
+        "retrievedISO": "2026-10-21T22:24:51.067Z",
+        "endTs": "0:18:47"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-07-25",
+      "text": "Five million dollars in managed retreat funds was dedicated to the land trust by ordinance.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "IdiAmc4W5Zo",
+        "ts": "0:17:26",
+        "retrievedISO": "2026-10-21T22:24:51.067Z",
+        "endTs": "0:17:56"
+      },
+      "body": "County Council Meeting"
     }
   ],
   "sourceTypes": [

@@ -1,18 +1,18 @@
 {
   "slug": "ethics-bills-on-nepotism-lobbyists-and-ex-employees",
   "title": "Ethics bills on nepotism, lobbyists and ex-employees",
-  "summary": "On October 20, a council committee took up Bill 100 (2026), which would set registration, reporting and penalty rules for lobbyists, and voted 9–0 to widen one definition to cover matters sent to the Planning Commission and votes on department heads. The chair said the full council will take up the bill very shortly. Attorneys disagreed on whether lobbying the Planning Commission is covered, and the fine amount, up to $5,000 or capped at $1,000 under Bill 55, was still being debated.",
+  "summary": "On October 23, the Board of Ethics director backed Bill 55, which sets a six-year limit for pursuing ethics cases. On October 20, the committee worked on Bill 100 (2026), the lobbyist registration, reporting and penalty rules, voting 9–0 to widen a definition to cover Planning Commission matters. Whether Planning Commission lobbying is covered and the penalty size remain unsettled, and the chair said the full council will take up the bill very shortly.",
   "topics": [
     "government"
   ],
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-06-22",
-  "lastSeenISO": "2026-10-20",
+  "lastSeenISO": "2026-10-23",
   "signals": {
-    "meetingsLast30d": 1,
-    "meetingsLast90d": 1,
-    "mentionsLast30d": 3,
+    "meetingsLast30d": 2,
+    "meetingsLast90d": 2,
+    "mentionsLast30d": 4,
     "upcomingEvent": {
       "dateISO": "2027-01-31",
       "what": "First report due",
@@ -26,6 +26,11 @@
   },
   "asOfISO": "2026-10-29",
   "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    },
     {
       "name": "Government Relations, Ethics, and Transparency Committee",
       "group": "council",
@@ -45,6 +50,19 @@
     "Bill 100 (2026)"
   ],
   "timeline": [
+    {
+      "dateISO": "2026-10-23",
+      "text": "The Board of Ethics director supported Bill 55, which sets a six-year time limit to pursue ethics cases.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mWb79anG_Js",
+        "ts": "0:13:07",
+        "retrievedISO": "2026-10-24T01:22:29.098Z",
+        "endTs": "0:14:03"
+      },
+      "body": "County Council Meeting"
+    },
     {
       "dateISO": "2026-10-20",
       "text": "The chair said the full council will take up the bill very shortly.",

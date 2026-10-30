@@ -7,7 +7,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-07-27",
+  "firstSeenISO": "2026-06-17",
   "lastSeenISO": "2026-07-27",
   "signals": {
     "meetingsLast30d": 0,
@@ -22,6 +22,13 @@
       "group": "council",
       "short": [
         "WASSP"
+      ]
+    },
+    {
+      "name": "Disaster Recovery, International Affairs, and Planning Committee",
+      "group": "council",
+      "short": [
+        "DRIP"
       ]
     }
   ],
@@ -182,6 +189,32 @@
         "endTs": "1:30:58"
       },
       "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-17",
+      "text": "A structural review of a storm-damaged gym is expected within about 60 days.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "e2VurwUrZvg",
+        "ts": "1:16:55",
+        "retrievedISO": "2026-10-16T19:25:29.862Z",
+        "endTs": "1:18:32"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-06-17",
+      "text": "FEMA (the federal disaster agency) left parks facilities out of reimbursement, and the state has appealed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "e2VurwUrZvg",
+        "ts": "0:34:37",
+        "retrievedISO": "2026-10-16T19:25:29.862Z",
+        "endTs": "0:35:30"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
     }
   ],
   "sourceTypes": [

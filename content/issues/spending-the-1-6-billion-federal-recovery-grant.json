@@ -8,7 +8,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-08-05",
+  "firstSeenISO": "2025-03-11",
   "lastSeenISO": "2026-10-20",
   "signals": {
     "meetingsLast30d": 1,
@@ -207,6 +207,214 @@
         "endTs": "0:16:19"
       },
       "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-04-08",
+      "text": "The managing director said heavy subsidies are needed to bring these projects back for people who already lived there.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "4QEyWDNRkiY",
+        "ts": "3:00:53",
+        "retrievedISO": "2026-10-17T04:27:03.392Z",
+        "endTs": "3:01:23"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-08",
+      "text": "About $96 million has been conditionally awarded for rebuilding the French Street Apartments.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "4QEyWDNRkiY",
+        "ts": "2:58:47",
+        "retrievedISO": "2026-10-17T04:27:03.392Z",
+        "endTs": "2:59:17"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-08",
+      "text": "Officials said much of the rebuild funding is going to 11 multifamily housing rebuilds.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "4QEyWDNRkiY",
+        "ts": "2:58:27",
+        "retrievedISO": "2026-10-17T04:27:03.392Z",
+        "endTs": "2:58:57"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-03-11",
+      "text": "The chair said the administration will give the Council reports on the grant.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dgEPJUYuZJw",
+        "ts": "1:47:57",
+        "retrievedISO": "2026-10-21T15:08:08.552Z",
+        "endTs": "1:48:27"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-03-11",
+      "text": "Rule 7B overview of federal disaster recovery grant funding: The committee deferred the overview item on federal disaster recovery grant funding.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dgEPJUYuZJw",
+        "ts": "1:36:21",
+        "retrievedISO": "2026-10-21T15:08:08.552Z",
+        "endTs": "1:36:51"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-03-11",
+      "text": "The administrator said data and community feedback show housing is the biggest need.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dgEPJUYuZJw",
+        "ts": "1:11:41",
+        "retrievedISO": "2026-10-21T15:08:08.552Z",
+        "endTs": "1:12:14"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-03-11",
+      "text": "The draft action plan sets aside $903 million for housing, starting in Lahaina.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dgEPJUYuZJw",
+        "ts": "1:06:15",
+        "retrievedISO": "2026-10-21T15:08:08.552Z",
+        "endTs": "1:07:16"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-03-11",
+      "text": "HUD will tell the County yes or no on the action plan within 45 days.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dgEPJUYuZJw",
+        "ts": "1:06:10",
+        "retrievedISO": "2026-10-21T15:08:08.552Z",
+        "endTs": "1:06:40"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-03-11",
+      "text": "Staff said they are looking at deed restriction programs tied to the funding to help keep properties with families.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dgEPJUYuZJw",
+        "ts": "1:01:11",
+        "retrievedISO": "2026-10-21T15:08:08.552Z",
+        "endTs": "1:01:49"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-03-11",
+      "text": "Staff said housing projects not funded by the Affordable Housing Fund can apply for this grant.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dgEPJUYuZJw",
+        "ts": "0:59:38",
+        "retrievedISO": "2026-10-21T15:08:08.552Z",
+        "endTs": "1:00:09"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-03-11",
+      "text": "The administrator said HUD gives the County six years to spend the grant.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dgEPJUYuZJw",
+        "ts": "0:55:40",
+        "retrievedISO": "2026-10-21T15:08:08.552Z",
+        "endTs": "0:56:10"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-03-11",
+      "text": "The County's request for proposals for an implementation contractor closes in about two weeks.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dgEPJUYuZJw",
+        "ts": "0:54:12",
+        "retrievedISO": "2026-10-21T15:08:08.552Z",
+        "endTs": "0:54:42"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-03-11",
+      "text": "Program policies and eligibility intake will be developed after the action plan, aiming for this summer.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dgEPJUYuZJw",
+        "ts": "0:24:18",
+        "retrievedISO": "2026-10-21T15:08:08.552Z",
+        "endTs": "0:24:51"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-03-11",
+      "text": "HUD requires 15% of the grant to go to mitigation (work to reduce future disaster risk).",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dgEPJUYuZJw",
+        "ts": "0:22:39",
+        "retrievedISO": "2026-10-21T15:08:08.552Z",
+        "endTs": "0:23:09"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-03-11",
+      "text": "Planned programs include single-family home rebuilding and multi-family rental rebuilding.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dgEPJUYuZJw",
+        "ts": "0:22:06",
+        "retrievedISO": "2026-10-21T15:08:08.552Z",
+        "endTs": "0:22:36"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-03-11",
+      "text": "The administrator said this grant is the funding of last resort that fills the gap left by insurance, nonprofits and other federal programs.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dgEPJUYuZJw",
+        "ts": "0:08:07",
+        "retrievedISO": "2026-10-21T15:08:08.552Z",
+        "endTs": "0:09:17"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
     }
   ],
   "sourceTypes": [

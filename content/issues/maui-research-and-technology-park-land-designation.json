@@ -88,6 +88,19 @@
     },
     {
       "dateISO": "2026-10-21",
+      "text": "The number of homes allowed would stay at 1,250.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "RJwnI3weRIY",
+        "ts": "0:23:27",
+        "retrievedISO": "2026-10-23T00:25:06.189Z",
+        "endTs": "0:23:57"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
       "text": "The main item was Bill 141 (2026), which would amend the county code chapter for the Maui Research and Technology Park.",
       "basis": "said-at-meeting",
       "source": {
@@ -96,6 +109,45 @@
         "ts": "0:18:53",
         "retrievedISO": "2026-10-21T23:01:41.623Z",
         "endTs": "0:19:23"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "The developer said Maui has a critical need for housing, while demand for commercial space is low.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "RJwnI3weRIY",
+        "ts": "0:18:22",
+        "retrievedISO": "2026-10-23T00:25:06.189Z",
+        "endTs": "0:18:56"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "The Maui Planning Commission unanimously recommended approval at its September 8 meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "RJwnI3weRIY",
+        "ts": "0:15:53",
+        "retrievedISO": "2026-10-23T00:25:06.189Z",
+        "endTs": "0:16:28"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "Bill 141 (2026) would move land in the Maui Research and Technology Park into the Residential District.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "RJwnI3weRIY",
+        "ts": "0:12:40",
+        "retrievedISO": "2026-10-23T00:25:06.189Z",
+        "endTs": "0:13:22"
       },
       "body": "County Council Housing and Land Use Committee"
     },

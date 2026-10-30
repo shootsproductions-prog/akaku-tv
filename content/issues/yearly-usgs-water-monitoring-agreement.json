@@ -1,7 +1,7 @@
 {
   "slug": "yearly-usgs-water-monitoring-agreement",
   "title": "Yearly USGS water monitoring agreement",
-  "summary": "Bill 134 would let the mayor sign a water monitoring agreement with the U.S. Geological Survey covering October 1, 2026 through September 30, 2027. It would cost $225,920, with $199,720 from the Department of Water Supply and $26,200 from the USGS. The program collects rainfall, streamflow, and groundwater data used to track water resources on Maui and Molokaʻi.",
+  "summary": "On October 23, 2026, the council passed Bill 134 by 8–0, letting the mayor sign a joint funding agreement with the U.S. Geological Survey to continue the water resources program. The agreement runs October 1, 2026 through September 30, 2027 and costs $225,920, with $199,720 from the water department, already in the fiscal year 2027 budget. The program collects rainfall, streamflow and groundwater data on Maui and Molokaʻi, and the agreement is renewed yearly.",
   "topics": [
     "water",
     "environment"
@@ -9,11 +9,11 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2025-08-18",
-  "lastSeenISO": "2026-10-09",
+  "lastSeenISO": "2026-10-23",
   "signals": {
-    "meetingsLast30d": 1,
-    "meetingsLast90d": 1,
-    "mentionsLast30d": 3,
+    "meetingsLast30d": 2,
+    "meetingsLast90d": 2,
+    "mentionsLast30d": 6,
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-29",
@@ -35,6 +35,45 @@
     "Bill 134 (2026)"
   ],
   "timeline": [
+    {
+      "dateISO": "2026-10-23",
+      "text": "The water department's share, $199,720, is already in the fiscal year 2027 budget.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xMD8TVwkYz8",
+        "ts": "1:20:33",
+        "retrievedISO": "2026-10-24T01:03:52.665Z",
+        "endTs": "1:21:03"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-10-23",
+      "text": "Bill 134, a water resources study agreement with the U.S. Geological Survey, passed 8–0.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xMD8TVwkYz8",
+        "ts": "1:19:55",
+        "retrievedISO": "2026-10-24T01:03:52.665Z",
+        "endTs": "1:21:27"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-10-23",
+      "text": "Bill 134 lets the mayor sign a joint funding agreement to continue a water resources program with the U.S. Geological Survey.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xMD8TVwkYz8",
+        "ts": "1:19:49",
+        "retrievedISO": "2026-10-24T01:03:52.665Z",
+        "endTs": "1:20:48"
+      },
+      "body": "County Council Meeting"
+    },
     {
       "dateISO": "2026-10-09",
       "text": "The agreement would cost $225,920, with $199,720 from the Department of Water Supply and $26,200 from the U.S. Geological Survey.",

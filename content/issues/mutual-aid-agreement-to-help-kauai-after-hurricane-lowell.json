@@ -1,7 +1,7 @@
 {
   "slug": "mutual-aid-agreement-to-help-kauai-after-hurricane-lowell",
   "title": "Mutual aid agreement to help Kauaʻi after Hurricane Lowell",
-  "summary": "Eight council members, with one excused, backed a bill letting Maui County help the County of Kauaʻi respond to and recover from Hurricane Lowell. The agreement does not require Maui County to send staff or resources it does not have or needs. A council member said Maui wants to help because of the help Kauaʻi gave after the fire.",
+  "summary": "On October 23, the Council postponed County Communication 26-28, a proposed amendment to Bill 124, until it takes up that bill. Bill 124 would let Maui County help the County of Kauaʻi respond to and recover from Hurricane Lowell. It passed eight to zero on September 29, with one member excused.",
   "topics": [
     "disaster-recovery",
     "government"
@@ -9,11 +9,11 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-09-29",
-  "lastSeenISO": "2026-09-29",
+  "lastSeenISO": "2026-10-23",
   "signals": {
-    "meetingsLast30d": 0,
-    "meetingsLast90d": 1,
-    "mentionsLast30d": 0,
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 2,
+    "mentionsLast30d": 1,
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-29",
@@ -24,8 +24,23 @@
       "short": []
     }
   ],
-  "bills": [],
+  "bills": [
+    "Bill 124 (2026)"
+  ],
   "timeline": [
+    {
+      "dateISO": "2026-10-23",
+      "text": "County Communication 26-28 (proposed amendment to Bill 124, mutual aid with the County of Kauaʻi related to Hurricane Lowell): The Council postponed this item until it takes up Bill 124.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mWb79anG_Js",
+        "ts": "2:07:51",
+        "retrievedISO": "2026-10-24T01:22:29.098Z",
+        "endTs": "2:08:32"
+      },
+      "body": "County Council Meeting"
+    },
     {
       "dateISO": "2026-09-29",
       "text": "Eight members, with one excused, backed a bill to send help to Kauaʻi after Hurricane Lowell.",

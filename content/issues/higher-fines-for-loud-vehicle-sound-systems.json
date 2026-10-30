@@ -1,14 +1,14 @@
 {
   "slug": "higher-fines-for-loud-vehicle-sound-systems",
   "title": "Higher fines for loud vehicle sound systems",
-  "summary": "The council postponed a proposed change to noise violation penalties until it takes up a related committee report. Earlier, it voted eight to zero to discharge Bill 119 from committee. It then passed, seven to two, the chair's amendment replacing the bill with a version that raises fines for noise violations.",
+  "summary": "On July 7 the council held a roll call on the vehicle noise bill, Bill 119; the facts do not give the result. On June 19 it released the bill from committee, 8-0, and passed an amendment 7-2 that raises noise fines. The revised version drops forfeiture of sound systems for a third offense, and the chair said state law caps these fines at $1,000.",
   "topics": [
     "public-safety",
     "transportation"
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-06-19",
+  "firstSeenISO": "2026-05-21",
   "lastSeenISO": "2026-06-19",
   "signals": {
     "meetingsLast30d": 0,
@@ -22,6 +22,13 @@
       "name": "Maui County Council",
       "group": "council",
       "short": []
+    },
+    {
+      "name": "Water Authority, Social Services, and Parks Committee",
+      "group": "council",
+      "short": [
+        "WASSP"
+      ]
     }
   ],
   "bills": [
@@ -79,6 +86,162 @@
         "endTs": "1:10:42"
       },
       "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-05-21",
+      "text": "The committee voted five ayes, with four members excused, to discharge Bill 119-2025.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "SeBC5ZwtUfI",
+        "ts": "0:48:03",
+        "retrievedISO": "2026-10-16T23:35:26.913Z",
+        "endTs": "0:48:49"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-05-21",
+      "text": "Chair Lee said the discharge moves the bill to the full council.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "SeBC5ZwtUfI",
+        "ts": "0:47:29",
+        "retrievedISO": "2026-10-16T23:35:26.913Z",
+        "endTs": "0:47:59"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-05-21",
+      "text": "The deputy prosecuting attorney said he has not seen anyone fight a noise ticket in court in 15 years.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "SeBC5ZwtUfI",
+        "ts": "0:36:42",
+        "retrievedISO": "2026-10-16T23:35:26.913Z",
+        "endTs": "0:37:14"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-05-21",
+      "text": "A police sergeant said he could look into how many noise citations were given in the last year.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "SeBC5ZwtUfI",
+        "ts": "0:35:37",
+        "retrievedISO": "2026-10-16T23:35:26.913Z",
+        "endTs": "0:36:07"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-05-21",
+      "text": "Chair Lee, who introduced the bill, said loud music is a problem in Wailuku and asked members to pass it.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "SeBC5ZwtUfI",
+        "ts": "0:17:12",
+        "retrievedISO": "2026-10-16T23:35:26.913Z",
+        "endTs": "0:18:16"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-05-21",
+      "text": "The deputy prosecuting attorney said unpaid fines block people from renewing their driver's license.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "SeBC5ZwtUfI",
+        "ts": "0:15:40",
+        "retrievedISO": "2026-10-16T23:35:26.913Z",
+        "endTs": "0:16:13"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-05-21",
+      "text": "A deputy prosecuting attorney said the department supports the revised version without forfeiture.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "SeBC5ZwtUfI",
+        "ts": "0:15:33",
+        "retrievedISO": "2026-10-16T23:35:26.913Z",
+        "endTs": "0:16:03"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-05-21",
+      "text": "The chair said state law does not allow fines for these violations to go above $1,000.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "SeBC5ZwtUfI",
+        "ts": "0:12:20",
+        "retrievedISO": "2026-10-16T23:35:26.913Z",
+        "endTs": "0:12:50"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-05-21",
+      "text": "The committee chair prepared a revised version, called CD1, that removes forfeiture from the third offense and raises fines for first and second offenses.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "SeBC5ZwtUfI",
+        "ts": "0:12:03",
+        "retrievedISO": "2026-10-16T23:35:26.913Z",
+        "endTs": "0:12:33"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-05-21",
+      "text": "The bill would raise fines for loud vehicle sound systems and allow the systems to be taken away, called forfeiture.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "SeBC5ZwtUfI",
+        "ts": "0:11:03",
+        "retrievedISO": "2026-10-16T23:35:26.913Z",
+        "endTs": "0:11:35"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-05-21",
+      "text": "One person testified that the fines seemed too high for poor people.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "SeBC5ZwtUfI",
+        "ts": "0:09:52",
+        "retrievedISO": "2026-10-16T23:35:26.913Z",
+        "endTs": "0:10:22"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-05-21",
+      "text": "The committee had one item: Bill 119-2025, about penalties for prohibited noise violations.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "SeBC5ZwtUfI",
+        "ts": "0:03:48",
+        "retrievedISO": "2026-10-16T23:35:26.913Z",
+        "endTs": "0:04:18"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
     }
   ],
   "sourceTypes": [

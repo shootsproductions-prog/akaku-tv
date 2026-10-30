@@ -1,7 +1,7 @@
 {
   "slug": "bills-128-and-129-for-countywide-water-upgrades",
   "title": "Bills 128 and 129 for countywide water upgrades",
-  "summary": "On September 29, 2026, Bill 128, which would re-fund $3 million for countywide water upgrades, had its first reading and a vote was taken, though the count is cut off in the recording. The money is being re-funded because last year's funding lapsed. Bill 129 would separately allow a loan from the state's Drinking Water State Revolving Fund for water supply projects.",
+  "summary": "Bill 129 FD1, which authorizes a loan from the state's drinking water revolving fund for water supply projects, was the latest item, dated October 23, 2026. Bill 129 was first introduced to allow that loan, and a substitute FD1 version was approved on October 10, 2025. Bill 128 would re-fund $3 million for countywide water upgrades after last year's money lapsed; its first-reading vote count is cut off in the recording.",
   "topics": [
     "water",
     "government"
@@ -9,11 +9,11 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-09-29",
-  "lastSeenISO": "2026-09-29",
+  "lastSeenISO": "2026-10-23",
   "signals": {
-    "meetingsLast30d": 0,
-    "meetingsLast90d": 1,
-    "mentionsLast30d": 0,
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 2,
+    "mentionsLast30d": 1,
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-29",
@@ -30,6 +30,19 @@
     "Bill 2026 (2026)"
   ],
   "timeline": [
+    {
+      "dateISO": "2026-10-23",
+      "text": "Bill 129 FD1 authorizes a loan from the state's drinking water revolving fund for water supply projects.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xMD8TVwkYz8",
+        "ts": "1:17:17",
+        "retrievedISO": "2026-10-24T01:03:52.665Z",
+        "endTs": "1:17:47"
+      },
+      "body": "County Council Meeting"
+    },
     {
       "dateISO": "2026-09-29",
       "text": "Bill 129 would allow a loan from the state's Drinking Water State Revolving Fund for water supply projects.",

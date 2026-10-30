@@ -1,23 +1,28 @@
 {
   "slug": "safe-parking-sites-for-people-living-in-cars",
   "title": "Safe parking sites for people living in cars",
-  "summary": "On Oct. 21, a testifier asked about safe parking near the police station at the tech park. On Oct. 19 the committee discussed Bill 133 (2026), which would let more county properties host people living in vehicles and drop some entry requirements; no vote was taken, and the bill is set for second and final reading Friday. The county plans a temporary site with 24-hour security for 50 to 60 people, and the pilot would first run six months.",
+  "summary": "Bill 133 had no vote yet as of October 23, when the recording ended at a recess. It would let vehicles that are not fully registered join the safe parking pilot and expand the county properties people may use. An amendment lets the county approve cooking at sites.",
   "topics": [
     "housing",
     "public-safety"
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-06-29",
-  "lastSeenISO": "2026-10-21",
+  "firstSeenISO": "2025-02-25",
+  "lastSeenISO": "2026-10-23",
   "signals": {
-    "meetingsLast30d": 2,
-    "meetingsLast90d": 3,
-    "mentionsLast30d": 6,
+    "meetingsLast30d": 4,
+    "meetingsLast90d": 5,
+    "mentionsLast30d": 12,
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-29",
   "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    },
     {
       "name": "Housing and Land Use Committee",
       "group": "council",
@@ -31,11 +36,6 @@
       "short": [
         "WASSP"
       ]
-    },
-    {
-      "name": "Maui County Council",
-      "group": "council",
-      "short": []
     }
   ],
   "bills": [
@@ -43,6 +43,110 @@
     "Resolution 26-150"
   ],
   "timeline": [
+    {
+      "dateISO": "2026-10-23",
+      "text": "The recording ends at a ten-minute recess, with no vote yet on Bill 133.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mWb79anG_Js",
+        "ts": "3:06:19",
+        "retrievedISO": "2026-10-24T01:22:29.098Z",
+        "endTs": "3:06:49"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-10-23",
+      "text": "The vice chair asked for a copy of the department's rules for the site.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xMD8TVwkYz8",
+        "ts": "0:36:32",
+        "retrievedISO": "2026-10-24T01:03:52.665Z",
+        "endTs": "0:37:02"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-10-23",
+      "text": "A member said she wants to see progress a year from now because this is a pilot.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xMD8TVwkYz8",
+        "ts": "0:28:55",
+        "retrievedISO": "2026-10-24T01:03:52.665Z",
+        "endTs": "0:29:25"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-10-23",
+      "text": "Bill 133 would let vehicles that are not fully registered take part in the safe parking pilot.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mWb79anG_Js",
+        "ts": "0:28:35",
+        "retrievedISO": "2026-10-24T01:22:29.098Z",
+        "endTs": "0:29:05"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-10-23",
+      "text": "A testifier for a group serving houseless families said Bill 133 would let vehicles that are not fully registered join the safe parking pilot.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mWb79anG_Js",
+        "ts": "0:28:20",
+        "retrievedISO": "2026-10-24T01:22:29.098Z",
+        "endTs": "0:29:02"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-10-23",
+      "text": "A member said the director stressed the urgency of a managed temporary site while the permanent site is finished.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xMD8TVwkYz8",
+        "ts": "0:27:34",
+        "retrievedISO": "2026-10-24T01:03:52.665Z",
+        "endTs": "0:28:04"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-10-23",
+      "text": "An amendment lets the county approve cooking at sites, such as with food trucks.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xMD8TVwkYz8",
+        "ts": "0:26:01",
+        "retrievedISO": "2026-10-24T01:03:52.665Z",
+        "endTs": "0:26:34"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-10-23",
+      "text": "A member said Bill 133 expands the county properties where people may temporarily live in vehicles.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xMD8TVwkYz8",
+        "ts": "0:23:45",
+        "retrievedISO": "2026-10-24T01:03:52.665Z",
+        "endTs": "0:24:15"
+      },
+      "body": "County Council Meeting"
+    },
     {
       "dateISO": "2026-10-21",
       "text": "A testifier asked about safe parking for people in need near the police station at the tech park.",
@@ -1015,6 +1119,123 @@
         "ts": "0:15:00",
         "retrievedISO": "2026-10-16T17:42:17.592Z",
         "endTs": "0:15:38"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "The chair said the committee will discuss a safe parking program on June 29th.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6WVDJO1LxXM",
+        "ts": "0:40:07",
+        "retrievedISO": "2026-10-16T20:45:46.557Z",
+        "endTs": "0:40:37"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-01-07",
+      "text": "Bills for a safe parking program and a $40,000 grant passed first reading 9–0.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mJsxaTtDu9Q",
+        "ts": "2:24:16",
+        "retrievedISO": "2026-10-17T11:04:07.310Z",
+        "endTs": "2:25:55"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-02-25",
+      "text": "The committee chair said the item would be deferred so it can be discussed at more length later.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HACSXG3i0fs",
+        "ts": "3:15:41",
+        "retrievedISO": "2026-10-22T00:44:50.737Z",
+        "endTs": "3:16:11"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2025-02-25",
+      "text": "Pilot project using county parking lots for human habitation update: The chair said the item would be deferred for a longer discussion.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HACSXG3i0fs",
+        "ts": "3:15:27",
+        "retrievedISO": "2026-10-22T00:44:50.737Z",
+        "endTs": "3:16:01"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2025-02-25",
+      "text": "The mayor's homeless coordinator said the team is actively scouting sites but had nothing specific to report yet.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HACSXG3i0fs",
+        "ts": "2:06:34",
+        "retrievedISO": "2026-10-22T00:44:50.737Z",
+        "endTs": "2:07:11"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2025-02-25",
+      "text": "The chair said that without the ordinance, state law bars living in vehicles parked on public property between 6 p.m. and 6 a.m.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HACSXG3i0fs",
+        "ts": "2:04:28",
+        "retrievedISO": "2026-10-22T00:44:50.737Z",
+        "endTs": "2:05:07"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2025-02-25",
+      "text": "The committee chair said a 2022 ordinance created a pilot letting houseless people sleep in vehicles on chosen county property.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HACSXG3i0fs",
+        "ts": "2:03:59",
+        "retrievedISO": "2026-10-22T00:44:50.737Z",
+        "endTs": "2:04:35"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2025-02-25",
+      "text": "A council member suggested a committee site visit to a Molokaʻi safe sleeping site.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HACSXG3i0fs",
+        "ts": "0:34:22",
+        "retrievedISO": "2026-10-22T00:44:50.737Z",
+        "endTs": "0:35:06"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2025-02-25",
+      "text": "The agenda had two items: an East Maui board appointment and a safe parking pilot update.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HACSXG3i0fs",
+        "ts": "0:04:15",
+        "retrievedISO": "2026-10-22T00:44:50.737Z",
+        "endTs": "0:04:47"
       },
       "body": "County Council Water Authority, Social Services, and Parks Committee"
     }

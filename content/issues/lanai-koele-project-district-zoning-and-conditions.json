@@ -1,7 +1,7 @@
 {
   "slug": "lanai-koele-project-district-zoning-and-conditions",
   "title": "Lānaʻi Kōele project district zoning and conditions",
-  "summary": "On October 21, Chair Lee voiced support for the project and its changes, and the Planning Department said it supports the zoning change and amendment. The landowner asked the Council to put a time limit on the reporting required by condition 8, and a member said they will look to the chair for a reasonable limit. The landowner said the State Land Use Commission approved its district boundary amendment with six votes, its traffic study does not require the bypass road, and homes already built have no income limits.",
+  "summary": "On Oct. 21, 2026, the committee approved the zoning bills for Lānaʻi Project District 2, Kōele, 8 to 1, after voting 5 to 4 to strike condition 9, the bypass road requirement. It also added water use reporting to the Lānaʻi Planning Commission, with a time limit. The landowner says the plan shrinks the district by 8% and lowers density, and Planning supports it.",
   "topics": [
     "land-use",
     "water"
@@ -26,8 +26,102 @@
       ]
     }
   ],
-  "bills": [],
+  "bills": [
+    "Bill 24 (2026)",
+    "Bill 25 (2024)"
+  ],
   "timeline": [
+    {
+      "dateISO": "2026-10-21",
+      "text": "In an 8 to 1 roll call vote, the committee approved the main motion as amended.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "RJwnI3weRIY",
+        "ts": "2:09:46",
+        "retrievedISO": "2026-10-23T00:25:06.189Z",
+        "endTs": "2:10:37"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "Members voted 5 to 4 to strike condition 9, the bypass road requirement.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "RJwnI3weRIY",
+        "ts": "2:01:24",
+        "retrievedISO": "2026-10-23T00:25:06.189Z",
+        "endTs": "2:02:51"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "Planning said future build-out needs a phase two approval from the Lānaʻi Planning Commission, which is when more reporting could be added.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "RJwnI3weRIY",
+        "ts": "1:34:31",
+        "retrievedISO": "2026-10-23T00:25:06.189Z",
+        "endTs": "1:35:03"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "The chair said Planning called a five-year period typical and consistent with past conditions.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "RJwnI3weRIY",
+        "ts": "1:34:16",
+        "retrievedISO": "2026-10-23T00:25:06.189Z",
+        "endTs": "1:34:46"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "A motion was made to limit quarterly water use reports for Lānaʻi Project District 2, Kōele to five years.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "RJwnI3weRIY",
+        "ts": "1:32:02",
+        "retrievedISO": "2026-10-23T00:25:06.189Z",
+        "endTs": "1:33:07"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "Planning said a road built by the landowner and turned over to the County could be considered later in another project.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "RJwnI3weRIY",
+        "ts": "1:30:26",
+        "retrievedISO": "2026-10-23T00:25:06.189Z",
+        "endTs": "1:31:15"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "The landowner said the old bypass road route would affect at least 50 or 60 homes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "RJwnI3weRIY",
+        "ts": "1:16:53",
+        "retrievedISO": "2026-10-23T00:25:06.189Z",
+        "endTs": "1:17:30"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
     {
       "dateISO": "2026-10-21",
       "text": "The landowner said the homes already built have no income limits.",
@@ -38,6 +132,32 @@
         "ts": "1:02:43",
         "retrievedISO": "2026-10-21T23:03:18.746Z",
         "endTs": "1:03:17"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "The landowner said it would move and preserve two old homes, including the Richardson Home.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "RJwnI3weRIY",
+        "ts": "0:57:38",
+        "retrievedISO": "2026-10-23T00:25:06.189Z",
+        "endTs": "0:58:14"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "The landowner said that without a time limit, reporting could still be going on in 100 years.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "RJwnI3weRIY",
+        "ts": "0:49:08",
+        "retrievedISO": "2026-10-23T00:25:06.189Z",
+        "endTs": "0:49:38"
       },
       "body": "County Council Housing and Land Use Committee"
     },
@@ -56,6 +176,19 @@
     },
     {
       "dateISO": "2026-10-21",
+      "text": "The landowner said the plan shrinks the district by 8% and lowers density.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "RJwnI3weRIY",
+        "ts": "0:42:10",
+        "retrievedISO": "2026-10-23T00:25:06.189Z",
+        "endTs": "0:42:40"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
       "text": "A member said they will look to the chair for recommendations on a reasonable time limit for reporting.",
       "basis": "said-at-meeting",
       "source": {
@@ -64,6 +197,19 @@
         "ts": "0:41:10",
         "retrievedISO": "2026-10-21T23:03:18.746Z",
         "endTs": "0:41:40"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "The second item was Bills 24 and 25 (2024) on the zoning of Lānaʻi Project District 2, Kōele.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "RJwnI3weRIY",
+        "ts": "0:40:12",
+        "retrievedISO": "2026-10-23T00:25:06.189Z",
+        "endTs": "0:40:42"
       },
       "body": "County Council Housing and Land Use Committee"
     },

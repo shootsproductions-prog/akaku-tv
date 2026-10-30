@@ -8,7 +8,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-05-19",
+  "firstSeenISO": "2026-04-17",
   "lastSeenISO": "2026-10-19",
   "signals": {
     "meetingsLast30d": 1,
@@ -31,9 +31,16 @@
       "short": [
         "BFED"
       ]
+    },
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
     }
   ],
-  "bills": [],
+  "bills": [
+    "Bill 30 (2026)"
+  ],
   "timeline": [
     {
       "dateISO": "2026-10-19",
@@ -151,6 +158,71 @@
         "endTs": "1:45:57"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-23",
+      "text": "The member withdrew the loan motion for now.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "AYcQ3sdhHaI",
+        "ts": "6:17:02",
+        "retrievedISO": "2026-10-17T01:31:18.022Z",
+        "endTs": "6:17:32"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-23",
+      "text": "The member said the project is stalled while waiting on the County plant, and the community needs its affordable housing and school.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "AYcQ3sdhHaI",
+        "ts": "6:09:24",
+        "retrievedISO": "2026-10-17T01:31:18.022Z",
+        "endTs": "6:10:06"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-23",
+      "text": "A member said the Central Maui wastewater facility may not be working until 2031.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "AYcQ3sdhHaI",
+        "ts": "6:09:02",
+        "retrievedISO": "2026-10-17T01:31:18.022Z",
+        "endTs": "6:09:37"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-23",
+      "text": "A member proposed a $500,000 zero-interest loan to design a private wastewater plant for part of a country town development.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "AYcQ3sdhHaI",
+        "ts": "6:06:08",
+        "retrievedISO": "2026-10-17T01:31:18.022Z",
+        "endTs": "6:06:43"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-17",
+      "text": "Bill 30 adds $3.5 million for the Central Maui Regional Wastewater Reclamation Facility in Waikapū.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "cWThkDX_iTA",
+        "ts": "3:07:20",
+        "retrievedISO": "2026-10-17T02:49:45.529Z",
+        "endTs": "3:08:03"
+      },
+      "body": "County Council Meeting"
     }
   ],
   "sourceTypes": [

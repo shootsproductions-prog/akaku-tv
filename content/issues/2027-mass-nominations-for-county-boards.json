@@ -28,12 +28,21 @@
       "short": []
     },
     {
+      "name": "Housing and Land Use Committee",
+      "group": "council",
+      "short": [
+        "HLU"
+      ]
+    },
+    {
       "name": "Civil Service Commission",
       "group": "board",
       "short": []
     }
   ],
-  "bills": [],
+  "bills": [
+    "Resolution 26-93"
+  ],
   "timeline": [
     {
       "dateISO": "2026-10-08",
@@ -273,6 +282,32 @@
         "endTs": "0:03:13"
       },
       "body": "Independent Nomination Board"
+    },
+    {
+      "dateISO": "2026-06-18",
+      "text": "A county lawyer advised removing a line about the mayor naming applicants, citing applicant privacy.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6U_23aemZtI",
+        "ts": "0:27:10",
+        "retrievedISO": "2026-10-16T19:12:22.388Z",
+        "endTs": "0:27:59"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-06-18",
+      "text": "The mayor's office supported Resolution 26-93, which would dissolve the Independent Nomination Board.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6U_23aemZtI",
+        "ts": "0:23:08",
+        "retrievedISO": "2026-10-16T19:12:22.388Z",
+        "endTs": "0:23:49"
+      },
+      "body": "County Council Housing and Land Use Committee"
     },
     {
       "dateISO": "2024-11-06",

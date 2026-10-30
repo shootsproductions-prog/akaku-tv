@@ -1,14 +1,14 @@
 {
   "slug": "special-management-area-boundary-assessment",
   "title": "Special management area boundary assessment",
-  "summary": "At a July 14, 2026 meeting, a consultant said Maui's special management area (SMA), a protected coastal zone, has not changed since 1979.",
+  "summary": "A consultant said on July 14, 2026 that Maui's special management area (SMA), a protected coastal zone, has not changed since 1979. Findings on the Special Management Area (SMA) boundary are to be presented to the commission in July of next year. The review stems from a $250,000 shoreline boundary study that Planning said in April 2025 would go out for bids and give recommendations to the Maui Planning Commission.",
   "topics": [
     "land-use",
     "environment"
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-07-14",
+  "firstSeenISO": "2025-04-07",
   "lastSeenISO": "2026-07-14",
   "signals": {
     "meetingsLast30d": 0,
@@ -22,6 +22,13 @@
       "name": "Maui Planning Commission",
       "group": "board",
       "short": []
+    },
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
     }
   ],
   "bills": [],
@@ -38,6 +45,32 @@
         "endTs": "3:14:39"
       },
       "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2025-04-07",
+      "text": "Planning said the shoreline boundary study would give recommendations to the Maui Planning Commission.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TuF5fAqpWVU",
+        "ts": "2:23:57",
+        "retrievedISO": "2026-10-21T21:24:01.342Z",
+        "endTs": "2:24:27"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-04-07",
+      "text": "Planning said a $250,000 study of the shoreline special management area boundary will go out for bids.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TuF5fAqpWVU",
+        "ts": "2:22:53",
+        "retrievedISO": "2026-10-21T21:24:01.342Z",
+        "endTs": "2:23:23"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
     }
   ],
   "sourceTypes": [

@@ -1,7 +1,7 @@
 {
   "slug": "yearly-9-percent-sewer-rate-increases",
   "title": "Yearly 9 percent sewer rate increases",
-  "summary": "On April 21, 2026, the committee approved cutting $500,000 from the wastewater operations B account. It also approved reducing bond funding for a wastewater pump station project by $500,000.",
+  "summary": "On April 21, 2026, the committee approved a motion moving $500,000 from the sewer fund to reduce bond borrowing for a wastewater pump station project. A member had asked why savings keep carrying over while rates rise 9% every year. The department proposes another 9% average increase, about $2.2 million more, and a division chief said rates may stay near 9% for a couple more years before slowly easing.",
   "topics": [
     "economy",
     "government"
@@ -38,6 +38,45 @@
         "ts": "2:38:31",
         "retrievedISO": "2026-10-17T01:44:37.372Z",
         "endTs": "2:39:50"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "Move $500,000 from the sewer fund category B to reduce bonding for a wastewater pump station project: The motion to use $500,000 in sewer money to reduce bond borrowing for a pump station project passed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "d9P72k1KGO4",
+        "ts": "0:43:29",
+        "retrievedISO": "2026-10-17T01:49:28.314Z",
+        "endTs": "0:44:49"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "A member asked why savings keep carrying over while sewer rates rise 9% every year.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "d9P72k1KGO4",
+        "ts": "0:40:00",
+        "retrievedISO": "2026-10-17T01:49:28.314Z",
+        "endTs": "0:40:30"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "A member moved to cut $500,000 from the sewer budget for a sewer project.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "d9P72k1KGO4",
+        "ts": "0:27:54",
+        "retrievedISO": "2026-10-17T01:49:28.314Z",
+        "endTs": "0:28:24"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
     }
