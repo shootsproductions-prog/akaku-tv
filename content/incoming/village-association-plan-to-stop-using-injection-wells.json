@@ -1,0 +1,59 @@
+{
+  "slug": "village-association-plan-to-stop-using-injection-wells",
+  "title": "Village association plan to stop using injection wells",
+  "summary": "A motion to delete funding for the village wastewater project failed on a 4–4 vote on April 21, leaving the money in place. The budget director said the mayor has pledged up to $9.5 million for the project.",
+  "topics": [
+    "water",
+    "environment"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2026-04-21",
+  "lastSeenISO": "2026-04-21",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-29",
+  "timeline": [
+    {
+      "dateISO": "2026-04-21",
+      "text": "A motion to delete that project's funding failed on a 4–4 vote.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iRjah0zHtLw",
+        "ts": "3:15:00",
+        "endTs": "3:16:18",
+        "retrievedISO": "2026-10-17T01:44:37.372Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "The budget director said the mayor pledged up to $9.5 million for a village wastewater project.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iRjah0zHtLw",
+        "ts": "2:58:44",
+        "endTs": "2:59:15",
+        "retrievedISO": "2026-10-17T01:44:37.372Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
