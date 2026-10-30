@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T10:24:11.211Z",
+  "updatedAt": "2026-10-30T12:26:10.093Z",
   "count": 168,
   "issues": [
     {
@@ -1909,9 +1909,9 @@
       "firstSeenISO": "2024-10-22",
       "lastSeenISO": "2026-10-08",
       "signals": {
-        "meetingsLast30d": 4,
+        "meetingsLast30d": 3,
         "meetingsLast90d": 12,
-        "mentionsLast30d": 12,
+        "mentionsLast30d": 9,
         "upcomingEvent": {
           "dateISO": "2026-11-18",
           "what": "Plan discussion will continue",
@@ -14288,9 +14288,9 @@
       "firstSeenISO": "2024-11-14",
       "lastSeenISO": "2026-09-30",
       "signals": {
-        "meetingsLast30d": 1,
+        "meetingsLast30d": 0,
         "meetingsLast90d": 1,
-        "mentionsLast30d": 1,
+        "mentionsLast30d": 0,
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-30",
@@ -14908,9 +14908,9 @@
       "firstSeenISO": "2025-03-11",
       "lastSeenISO": "2026-10-20",
       "signals": {
-        "meetingsLast30d": 1,
+        "meetingsLast30d": 0,
         "meetingsLast90d": 3,
-        "mentionsLast30d": 1,
+        "mentionsLast30d": 0,
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-30",
@@ -16657,9 +16657,9 @@
       "firstSeenISO": "2026-09-30",
       "lastSeenISO": "2026-09-30",
       "signals": {
-        "meetingsLast30d": 1,
+        "meetingsLast30d": 0,
         "meetingsLast90d": 1,
-        "mentionsLast30d": 2,
+        "mentionsLast30d": 0,
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-30",
@@ -23871,9 +23871,9 @@
       "firstSeenISO": "2024-07-19",
       "lastSeenISO": "2026-09-30",
       "signals": {
-        "meetingsLast30d": 1,
+        "meetingsLast30d": 0,
         "meetingsLast90d": 5,
-        "mentionsLast30d": 3,
+        "mentionsLast30d": 0,
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-30",
@@ -29837,9 +29837,9 @@
       "firstSeenISO": "2026-06-04",
       "lastSeenISO": "2026-10-20",
       "signals": {
-        "meetingsLast30d": 2,
+        "meetingsLast30d": 1,
         "meetingsLast90d": 4,
-        "mentionsLast30d": 4,
+        "mentionsLast30d": 1,
         "upcomingEvent": null
       },
       "asOfISO": "2026-10-30",
