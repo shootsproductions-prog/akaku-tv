@@ -1,0 +1,683 @@
+{
+  "slug": "wildfire-survivor-health-study-findings",
+  "title": "Wildfire survivor health study findings",
+  "summary": "On Oct. 9, a researcher testified about youth depression and anxiety symptoms, and the resolution says the study covers survivors' physical and mental health, child development and recovery. At the Aug. 31 update, researchers said recovery is uneven: employment and insurance improved, but about 23% remain severely food insecure. They seek free screening sites for Hoʻala, which would serve 1,000 more residents from January.",
+  "topics": [
+    "health",
+    "disaster-recovery",
+    "food-security"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-04-21",
+  "lastSeenISO": "2026-10-09",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 2,
+    "mentionsLast30d": 1,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-29",
+  "timeline": [
+    {
+      "dateISO": "2026-10-09",
+      "text": "The resolution says the study examines how the 2023 Maui wildfires affect survivors' physical and mental health, child development, and recovery.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mmnN74BJwhw",
+        "ts": "1:01:13",
+        "endTs": "1:01:43",
+        "retrievedISO": "2026-10-16T10:06:23.221Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "The committee deferred the item without objection.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iWO4pTUu848",
+        "ts": "1:59:52",
+        "endTs": "2:00:22",
+        "retrievedISO": "2026-10-16T11:06:52.616Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Council members are to contact the study team to schedule meetings about sites in their districts.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iWO4pTUu848",
+        "ts": "1:58:56",
+        "endTs": "1:59:26",
+        "retrievedISO": "2026-10-16T11:06:52.616Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "The study team said it will post its screening schedule on its website.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iWO4pTUu848",
+        "ts": "1:47:22",
+        "endTs": "1:47:52",
+        "retrievedISO": "2026-10-16T11:06:52.616Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Presenters said County parks have not let them hold screenings because they collect blood.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iWO4pTUu848",
+        "ts": "1:26:01",
+        "endTs": "1:26:31",
+        "retrievedISO": "2026-10-16T11:06:52.616Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "A researcher said they may contact council members to identify spaces in each district for screenings and support.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fVsUFhO9fb4",
+        "ts": "1:03:57",
+        "endTs": "1:04:27",
+        "retrievedISO": "2026-10-16T05:46:14.583Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "At a recent event, the team saw 100 people, and more than 30 had food insecurity and were referred to resources.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iWO4pTUu848",
+        "ts": "1:00:03",
+        "endTs": "1:00:33",
+        "retrievedISO": "2026-10-16T11:06:52.616Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Council members are to reach out to the team by email to schedule follow-up meetings.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "LH2oI6gfdB0",
+        "ts": "0:49:07",
+        "endTs": "0:49:38",
+        "retrievedISO": "2026-10-16T06:07:45.277Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Researchers said they will share an upcoming paper on lung function differences across Maui with the committee once it is released.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fVsUFhO9fb4",
+        "ts": "0:48:06",
+        "endTs": "0:48:51",
+        "retrievedISO": "2026-10-16T05:46:14.583Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "A researcher said the share of participants with poor lung function rose about 5%, for reasons not yet known.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fVsUFhO9fb4",
+        "ts": "0:47:26",
+        "endTs": "0:48:00",
+        "retrievedISO": "2026-10-16T05:46:14.583Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Presenters said the study stopped in June for a couple of months because it had no funding.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iWO4pTUu848",
+        "ts": "0:42:57",
+        "endTs": "0:43:27",
+        "retrievedISO": "2026-10-16T11:06:52.616Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "The team asked past participants who have not been contacted to email or call them.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "LH2oI6gfdB0",
+        "ts": "0:40:47",
+        "endTs": "0:41:17",
+        "retrievedISO": "2026-10-16T06:07:45.277Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "The team said about 200 past participants cannot be reached by email or phone.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "LH2oI6gfdB0",
+        "ts": "0:40:35",
+        "endTs": "0:41:05",
+        "retrievedISO": "2026-10-16T06:07:45.277Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Presenters said they had not reviewed the food security plan but are happy to review it and give comments.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iWO4pTUu848",
+        "ts": "0:39:37",
+        "endTs": "0:40:07",
+        "retrievedISO": "2026-10-16T11:06:52.616Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "The team works Tuesdays and Thursdays at the Lahaina Comprehensive Health Center and Mondays and Fridays at the Wailuku health office.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "LH2oI6gfdB0",
+        "ts": "0:37:42",
+        "endTs": "0:38:12",
+        "retrievedISO": "2026-10-16T06:07:45.277Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Researchers asked council members to help find schools, churches, community centers and housing sites for free screenings.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fVsUFhO9fb4",
+        "ts": "0:31:55",
+        "endTs": "0:32:26",
+        "retrievedISO": "2026-10-16T05:46:14.583Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Among children, low self-esteem rose from about 13% to 26%.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fVsUFhO9fb4",
+        "ts": "0:30:54",
+        "endTs": "0:31:24",
+        "retrievedISO": "2026-10-16T05:46:14.583Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Researchers hope to serve 1,000 more residents, mainly children, through a program called Hoʻala starting in January.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fVsUFhO9fb4",
+        "ts": "0:29:49",
+        "endTs": "0:30:19",
+        "retrievedISO": "2026-10-16T05:46:14.583Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Presenters asked council members to help find community spaces for free health screenings under a new program called Hoʻala.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iWO4pTUu848",
+        "ts": "0:25:43",
+        "endTs": "0:26:13",
+        "retrievedISO": "2026-10-16T11:06:52.616Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "About 23% of participants remain severely food insecure, which researchers said is unchanged.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fVsUFhO9fb4",
+        "ts": "0:25:03",
+        "endTs": "0:25:33",
+        "retrievedISO": "2026-10-16T05:46:14.583Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Food hardship among participants improved from about 49.8% to 44.9%.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fVsUFhO9fb4",
+        "ts": "0:24:55",
+        "endTs": "0:25:25",
+        "retrievedISO": "2026-10-16T05:46:14.583Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Among adults who came back for follow-up, employment rose from 62% to nearly 81%.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fVsUFhO9fb4",
+        "ts": "0:23:06",
+        "endTs": "0:23:43",
+        "retrievedISO": "2026-10-16T05:46:14.583Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "The team said a Kaiser Permanente charity insurance program lowered the uninsured rate from 40% to 20%.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "LH2oI6gfdB0",
+        "ts": "0:22:47",
+        "endTs": "0:23:17",
+        "retrievedISO": "2026-10-16T06:07:45.277Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "The study has completed more than 4,000 appointments involving over 2,500 children and adults since January 2024.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fVsUFhO9fb4",
+        "ts": "0:21:26",
+        "endTs": "0:21:56",
+        "retrievedISO": "2026-10-16T05:46:14.583Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Researchers updated the committee on a study that has tracked survivors' health for three years after the Maui wildfires.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fVsUFhO9fb4",
+        "ts": "0:21:00",
+        "endTs": "0:21:30",
+        "retrievedISO": "2026-10-16T05:46:14.583Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Strong social support fell from about 60% to about 50% of people.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iWO4pTUu848",
+        "ts": "0:20:03",
+        "endTs": "0:20:33",
+        "retrievedISO": "2026-10-16T11:06:52.616Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Researchers said recovery means making sure people are not only screened but connected to care.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fVsUFhO9fb4",
+        "ts": "0:18:30",
+        "endTs": "0:19:00",
+        "retrievedISO": "2026-10-16T05:46:14.583Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "The study said housing uncertainty can make it harder to sleep, manage stress, get to appointments and keep children in school.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fVsUFhO9fb4",
+        "ts": "0:16:59",
+        "endTs": "0:17:29",
+        "retrievedISO": "2026-10-16T05:46:14.583Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "The study said many survivors are still living in temporary housing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fVsUFhO9fb4",
+        "ts": "0:16:53",
+        "endTs": "0:17:23",
+        "retrievedISO": "2026-10-16T05:46:14.583Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Temporary housing among adults in the wildfire study fell from about 4 in 10 to about 3 in 10.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fVsUFhO9fb4",
+        "ts": "0:16:48",
+        "endTs": "0:17:18",
+        "retrievedISO": "2026-10-16T05:46:14.583Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "The team said the parks department would not let them use parks because they collect blood from adults.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "LH2oI6gfdB0",
+        "ts": "0:16:14",
+        "endTs": "0:16:44",
+        "retrievedISO": "2026-10-16T06:07:45.277Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "The study said food insecurity affects stress, blood pressure, mental health and family well-being.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fVsUFhO9fb4",
+        "ts": "0:16:14",
+        "endTs": "0:16:44",
+        "retrievedISO": "2026-10-16T05:46:14.583Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "The study said many families are still stretching meals and worrying about groceries.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fVsUFhO9fb4",
+        "ts": "0:16:06",
+        "endTs": "0:16:36",
+        "retrievedISO": "2026-10-16T05:46:14.583Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "A wildfire health study found food insecurity improved slightly but remains high.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fVsUFhO9fb4",
+        "ts": "0:15:48",
+        "endTs": "0:16:18",
+        "retrievedISO": "2026-10-16T05:46:14.583Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "The committee returned from a break for a second round of questions to a health study team.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "LH2oI6gfdB0",
+        "ts": "0:14:21",
+        "endTs": "0:14:51",
+        "retrievedISO": "2026-10-16T06:07:45.277Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Researchers said recovery is underway but uneven.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fVsUFhO9fb4",
+        "ts": "0:13:39",
+        "endTs": "0:14:09",
+        "retrievedISO": "2026-10-16T05:46:14.583Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "The committee received an update on the Maui Wildfire Exposure Cohort Study, a health study of wildfire survivors.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fVsUFhO9fb4",
+        "ts": "0:11:47",
+        "endTs": "0:12:28",
+        "retrievedISO": "2026-10-16T05:46:14.583Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Presenters said housing uncertainty affects health, including sleep, stress and getting to appointments.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iWO4pTUu848",
+        "ts": "0:10:45",
+        "endTs": "0:11:15",
+        "retrievedISO": "2026-10-16T11:06:52.616Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "The share of adults in temporary housing fell from about four in ten to about three in ten.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iWO4pTUu848",
+        "ts": "0:10:33",
+        "endTs": "0:11:03",
+        "retrievedISO": "2026-10-16T11:06:52.616Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Presenters said food insecurity affects more than hunger, including stress.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iWO4pTUu848",
+        "ts": "0:10:03",
+        "endTs": "0:10:33",
+        "retrievedISO": "2026-10-16T11:06:52.616Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "Presenters said gains in jobs, insurance and housing have not yet led to full physical and mental health recovery.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iWO4pTUu848",
+        "ts": "0:07:35",
+        "endTs": "0:08:05",
+        "retrievedISO": "2026-10-16T11:06:52.616Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "The study, called Maui West, released a new report on July 27, 2026.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iWO4pTUu848",
+        "ts": "0:06:08",
+        "endTs": "0:06:53",
+        "retrievedISO": "2026-10-16T11:06:52.616Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-08-31",
+      "text": "The committee's only item was the Maui Wildfire Exposure Cohort Study.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iWO4pTUu848",
+        "ts": "0:05:32",
+        "endTs": "0:06:02",
+        "retrievedISO": "2026-10-16T11:06:52.616Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "He said the money would help serve 3,000 people through prevention, diagnosis, community navigation and referral to care.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dybLwXF__KI",
+        "ts": "0:29:01",
+        "endTs": "0:29:31",
+        "retrievedISO": "2026-10-17T01:47:01.859Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "A University of Hawaiʻi researcher asked for 2 million dollars in county co-funding for Hoʻala, a health program.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dybLwXF__KI",
+        "ts": "0:28:49",
+        "endTs": "0:29:27",
+        "retrievedISO": "2026-10-17T01:47:01.859Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "A testifier said the program has included first responders.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dybLwXF__KI",
+        "ts": "0:27:22",
+        "endTs": "0:27:52",
+        "retrievedISO": "2026-10-17T01:47:01.859Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "Testifiers supported county money for Hoʻala, a planned rural prevention and disaster recovery health system.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dybLwXF__KI",
+        "ts": "0:24:43",
+        "endTs": "0:25:13",
+        "retrievedISO": "2026-10-17T01:47:01.859Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "A testifier said the health effects of the 2023 Maui wildfires are still unfolding years later.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dybLwXF__KI",
+        "ts": "0:23:47",
+        "endTs": "0:24:18",
+        "retrievedISO": "2026-10-17T01:47:01.859Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "A co-director of the Maui Wildfire Exposure Study said more than 2,000 residents have taken part.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iRjah0zHtLw",
+        "ts": "0:15:14",
+        "endTs": "0:16:32",
+        "retrievedISO": "2026-10-17T01:44:37.372Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    },
+    {
+      "name": "Water Authority, Social Services, and Parks Committee",
+      "group": "council",
+      "short": [
+        "WASSP"
+      ]
+    },
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
