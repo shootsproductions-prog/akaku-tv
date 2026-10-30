@@ -1,0 +1,83 @@
+{
+  "slug": "police-commission-rule-on-rapid-adjudication-complaints",
+  "title": "Police Commission rule on rapid adjudication complaints",
+  "summary": "On May 20, the police commission deferred a proposed rule change and said it would continue the discussion at its next meeting, after voting by roll call to hold the discussion in executive session (a closed-door discussion). The chair had proposed letting the commission skip complaints the department already settled through its faster rapid adjudication process.",
+  "topics": [
+    "public-safety",
+    "government"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-05-20",
+  "lastSeenISO": "2026-05-20",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-30",
+  "timeline": [
+    {
+      "dateISO": "2026-05-20",
+      "text": "The rule change discussion will continue at the next meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7U6qV2DXCW8",
+        "ts": "1:39:24",
+        "endTs": "1:39:54",
+        "retrievedISO": "2026-10-14T06:40:13.308Z"
+      },
+      "body": "Police Commission"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "Item 7, changes to the rules of the police commission: The commission deferred the rule changes and will continue the discussion at its next meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7U6qV2DXCW8",
+        "ts": "1:39:16",
+        "endTs": "1:39:56",
+        "retrievedISO": "2026-10-14T06:40:13.308Z"
+      },
+      "body": "Police Commission"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "Motion to continue discussion of rule changes in executive session: The commission voted by roll call to continue the rules discussion in executive session (a closed-door discussion).",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7U6qV2DXCW8",
+        "ts": "1:25:20",
+        "endTs": "1:26:18",
+        "retrievedISO": "2026-10-14T06:40:13.308Z"
+      },
+      "body": "Police Commission"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "The chair proposed a rule letting the commission skip complaints the department already settled through its faster rapid adjudication process.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7U6qV2DXCW8",
+        "ts": "1:17:51",
+        "endTs": "1:18:54",
+        "retrievedISO": "2026-10-14T06:40:13.308Z"
+      },
+      "body": "Police Commission"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Police Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
