@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T06:16:26.104Z",
-  "count": 158,
+  "updatedAt": "2026-10-30T06:16:47.121Z",
+  "count": 162,
   "issues": [
     {
       "slug": "2027-mass-nominations-for-county-boards",
@@ -35391,6 +35391,266 @@
             "ts": "2:38:31",
             "retrievedISO": "2026-10-17T01:44:37.372Z",
             "endTs": "2:39:50"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "county-funding-for-lahaina-community-land-trust",
+      "title": "County funding for Lahaina Community Land Trust",
+      "summary": "On April 21, a council member proposed a $6 million grant to the Lahaina Community Land Trust. The member said the grant would help homeowners who have a gap in rebuilding money. The member also said the land trust raised over $9.5 million using the County's first $6 million.",
+      "topics": [
+        "housing",
+        "disaster-recovery"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2026-04-21",
+      "lastSeenISO": "2026-04-21",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-29",
+      "boards": [
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-04-21",
+          "text": "A council member said the land trust raised over $9.5 million using the County's first $6 million.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iRjah0zHtLw",
+            "ts": "4:35:19",
+            "retrievedISO": "2026-10-17T01:44:37.372Z",
+            "endTs": "4:35:53"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-21",
+          "text": "The council member said the grant would help homeowners who have a gap in rebuilding money.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iRjah0zHtLw",
+            "ts": "4:32:12",
+            "retrievedISO": "2026-10-17T01:44:37.372Z",
+            "endTs": "4:32:42"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-21",
+          "text": "A council member proposed a $6 million grant to the Lahaina Community Land Trust.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iRjah0zHtLw",
+            "ts": "4:31:47",
+            "retrievedISO": "2026-10-17T01:44:37.372Z",
+            "endTs": "4:32:17"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "lower-waiehu-beach-road-land-purchase-and-title-dispute",
+      "title": "Lower Waiehu Beach Road land purchase and title dispute",
+      "summary": "A council member's office will contact the family before the bill's first reading. The chair said the church may put the land on the open market if the County does not act.",
+      "topics": [
+        "land-use",
+        "culture"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-05-19",
+      "lastSeenISO": "2026-05-19",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-29",
+      "boards": [
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-05-19",
+          "text": "A council member's office will contact the family before first reading.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MwEGyy1Tcr4",
+            "ts": "2:24:54",
+            "retrievedISO": "2026-10-17T00:26:25.587Z",
+            "endTs": "2:25:24"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-05-19",
+          "text": "The chair said the church may put the land on the open market if the County does not act.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MwEGyy1Tcr4",
+            "ts": "2:06:06",
+            "retrievedISO": "2026-10-17T00:26:25.587Z",
+            "endTs": "2:07:00"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "voluntary-deed-restriction-program-for-homeowners",
+      "title": "Voluntary deed restriction program for homeowners",
+      "summary": "On April 21, 2026, a motion carried to condition $2 million in the homeowner programs revolving fund on the voluntary deed restriction program.",
+      "topics": [
+        "housing"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2026-04-21",
+      "lastSeenISO": "2026-04-21",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-29",
+      "boards": [
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-04-21",
+          "text": "Condition $2 million in the homeowner programs revolving fund for the voluntary deed restriction program: The motion carried.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iRjah0zHtLw",
+            "ts": "4:49:56",
+            "retrievedISO": "2026-10-17T01:44:37.372Z",
+            "endTs": "4:51:25"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "water-rate-increases-and-19-80-top-tier",
+      "title": "Water rate increases and $19.80 top tier",
+      "summary": "At the April 21 meeting, a testifier opposed the proposed water rate increases. The testifier said the budget's top tier charges $19.80 per thousand gallons above 50,000 gallons. They also said neighbors got high bills when meters went unread for months and their use landed in the top tier.",
+      "topics": [
+        "water",
+        "economy"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2026-04-21",
+      "lastSeenISO": "2026-04-21",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-29",
+      "boards": [
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-04-21",
+          "text": "A testifier opposed the proposed water rate increases.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iRjah0zHtLw",
+            "ts": "1:41:05",
+            "retrievedISO": "2026-10-17T01:44:37.372Z",
+            "endTs": "1:41:35"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-21",
+          "text": "The testifier said the budget's top tier charges $19.80 per thousand gallons above 50,000 gallons.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iRjah0zHtLw",
+            "ts": "1:40:05",
+            "retrievedISO": "2026-10-17T01:44:37.372Z",
+            "endTs": "1:40:35"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-21",
+          "text": "The testifier said neighbors got high bills when meters went unread for months and use landed in the top tier.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iRjah0zHtLw",
+            "ts": "1:39:39",
+            "retrievedISO": "2026-10-17T01:44:37.372Z",
+            "endTs": "1:40:18"
           },
           "body": "County Council Budget, Finance, and Economic Development Committee"
         }

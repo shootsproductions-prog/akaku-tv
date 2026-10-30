@@ -157,12 +157,16 @@
     "yearly-usgs-water-monitoring-agreement.json",
     "liquor-rules-for-nonprofit-fundraising-auctions.json",
     "village-association-plan-to-stop-using-injection-wells.json",
-    "water-system-development-fee-based-on-daily-use.json"
+    "water-system-development-fee-based-on-daily-use.json",
+    "county-funding-for-lahaina-community-land-trust.json",
+    "lower-waiehu-beach-road-land-purchase-and-title-dispute.json",
+    "voluntary-deed-restriction-program-for-homeowners.json",
+    "water-rate-increases-and-19-80-top-tier.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-10-30T06:16:26.104Z",
-  "etag": "4006700490ca7b21f6590e916be319b55894575052a6c35eddbdd9edffbec8a3",
+  "updatedAt": "2026-10-30T06:16:47.121Z",
+  "etag": "67890d3b3419353a175f28bd135201488497033f853e9f609e35e44e3d2f5255",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-10-29T10:26:13.643Z",
@@ -795,6 +799,22 @@
     "water-system-development-fee-based-on-daily-use.json": {
       "updatedAt": "2026-10-30T06:16:26.104Z",
       "sha256": "50a9ab0e4e1eac4e07c73ac1f80eefdd7610651d5f1bb60b97e929d733d215b0"
+    },
+    "county-funding-for-lahaina-community-land-trust.json": {
+      "updatedAt": "2026-10-30T06:16:47.121Z",
+      "sha256": "f90ff2f8eaad758004c17220d124d33580820c5aa63585d568204fc88744a36f"
+    },
+    "lower-waiehu-beach-road-land-purchase-and-title-dispute.json": {
+      "updatedAt": "2026-10-30T06:16:47.121Z",
+      "sha256": "e9d8d15ca72e7505d00822961dd02a64126de12da20f1b15551057dd653d7953"
+    },
+    "voluntary-deed-restriction-program-for-homeowners.json": {
+      "updatedAt": "2026-10-30T06:16:47.121Z",
+      "sha256": "4ed596d54038598a7b95af5a08f04df70c407456f522815701e5d8fc1414f005"
+    },
+    "water-rate-increases-and-19-80-top-tier.json": {
+      "updatedAt": "2026-10-30T06:16:47.121Z",
+      "sha256": "376626aaee2138c6ed1ca2064cb85b025f1be89c85da8d89e2bd42816f44b909"
     }
   }
 }
