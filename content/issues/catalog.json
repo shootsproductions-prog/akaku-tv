@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T00:54:10.475Z",
-  "count": 156,
+  "updatedAt": "2026-10-30T06:16:26.104Z",
+  "count": 158,
   "issues": [
     {
       "slug": "2027-mass-nominations-for-county-boards",
@@ -35282,6 +35282,117 @@
             "endTs": "1:47:20"
           },
           "body": "Liquor Control Commission"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "village-association-plan-to-stop-using-injection-wells",
+      "title": "Village association plan to stop using injection wells",
+      "summary": "A motion to delete funding for the village wastewater project failed on a 4–4 vote on April 21, leaving the money in place. The budget director said the mayor has pledged up to $9.5 million for the project.",
+      "topics": [
+        "water",
+        "environment"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2026-04-21",
+      "lastSeenISO": "2026-04-21",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-29",
+      "boards": [
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-04-21",
+          "text": "A motion to delete that project's funding failed on a 4–4 vote.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iRjah0zHtLw",
+            "ts": "3:15:00",
+            "retrievedISO": "2026-10-17T01:44:37.372Z",
+            "endTs": "3:16:18"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-21",
+          "text": "The budget director said the mayor pledged up to $9.5 million for a village wastewater project.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iRjah0zHtLw",
+            "ts": "2:58:44",
+            "retrievedISO": "2026-10-17T01:44:37.372Z",
+            "endTs": "2:59:15"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "water-system-development-fee-based-on-daily-use",
+      "title": "Water system development fee based on daily use",
+      "summary": "On April 21, 2026, the committee approved cutting $500,000 from the wastewater operations B account. It also approved reducing bond funding for a wastewater pump station project by $500,000.",
+      "topics": [
+        "water",
+        "housing"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2026-04-21",
+      "lastSeenISO": "2026-04-21",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-29",
+      "boards": [
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-04-21",
+          "text": "Cut $500,000 from the wastewater operations B account and reduce bond funding for a wastewater pump station project by $500,000: The committee approved the change.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iRjah0zHtLw",
+            "ts": "2:38:31",
+            "retrievedISO": "2026-10-17T01:44:37.372Z",
+            "endTs": "2:39:50"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
         }
       ],
       "sourceTypes": [

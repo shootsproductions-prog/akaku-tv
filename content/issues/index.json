@@ -155,12 +155,14 @@
     "wildfire-after-action-report-from-emergency-agency.json",
     "wildfire-survivor-health-study-findings.json",
     "yearly-usgs-water-monitoring-agreement.json",
-    "liquor-rules-for-nonprofit-fundraising-auctions.json"
+    "liquor-rules-for-nonprofit-fundraising-auctions.json",
+    "village-association-plan-to-stop-using-injection-wells.json",
+    "water-system-development-fee-based-on-daily-use.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-10-30T00:54:10.475Z",
-  "etag": "b71a9c279cfaf42592588778d874b9d9f2522eeaf18e584e188c136faa2faf43",
+  "updatedAt": "2026-10-30T06:16:26.104Z",
+  "etag": "4006700490ca7b21f6590e916be319b55894575052a6c35eddbdd9edffbec8a3",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-10-29T10:26:13.643Z",
@@ -785,6 +787,14 @@
     "liquor-rules-for-nonprofit-fundraising-auctions.json": {
       "updatedAt": "2026-10-29T10:26:13.643Z",
       "sha256": "ba6a8723066c1e87ff71ec938b48dd11031aaeb7a0ad37961ffd68eebe3cb1c0"
+    },
+    "village-association-plan-to-stop-using-injection-wells.json": {
+      "updatedAt": "2026-10-30T06:16:26.104Z",
+      "sha256": "fb2ef50be7740d253c4036964e3d1654665586c0b61523202159c73fec3927f2"
+    },
+    "water-system-development-fee-based-on-daily-use.json": {
+      "updatedAt": "2026-10-30T06:16:26.104Z",
+      "sha256": "50a9ab0e4e1eac4e07c73ac1f80eefdd7610651d5f1bb60b97e929d733d215b0"
     }
   }
 }
