@@ -1,0 +1,72 @@
+{
+  "slug": "water-rate-increases-and-19-80-top-tier",
+  "title": "Water rate increases and $19.80 top tier",
+  "summary": "At the April 21 meeting, a testifier opposed the proposed water rate increases. The testifier said the budget's top tier charges $19.80 per thousand gallons above 50,000 gallons. They also said neighbors got high bills when meters went unread for months and their use landed in the top tier.",
+  "topics": [
+    "water",
+    "economy"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2026-04-21",
+  "lastSeenISO": "2026-04-21",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-29",
+  "timeline": [
+    {
+      "dateISO": "2026-04-21",
+      "text": "A testifier opposed the proposed water rate increases.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iRjah0zHtLw",
+        "ts": "1:41:05",
+        "endTs": "1:41:35",
+        "retrievedISO": "2026-10-17T01:44:37.372Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "The testifier said the budget's top tier charges $19.80 per thousand gallons above 50,000 gallons.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iRjah0zHtLw",
+        "ts": "1:40:05",
+        "endTs": "1:40:35",
+        "retrievedISO": "2026-10-17T01:44:37.372Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "The testifier said neighbors got high bills when meters went unread for months and use landed in the top tier.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iRjah0zHtLw",
+        "ts": "1:39:39",
+        "endTs": "1:40:18",
+        "retrievedISO": "2026-10-17T01:44:37.372Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
