@@ -1,0 +1,129 @@
+{
+  "videoId": "5C73aQDRPR4",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T22:24:10.239Z",
+  "meetingDateISO": "2026-10-07",
+  "source": {
+    "youtubeUrl": "https://youtu.be/5C73aQDRPR4"
+  },
+  "headline": "Committee amends South Maui plan on disasters, evacuation and gulches",
+  "topics": [
+    "Water",
+    "Housing",
+    "Disaster Recovery"
+  ],
+  "meeting": {
+    "id": "5C73aQDRPR4",
+    "mon": "Oct",
+    "day": "7",
+    "date": "Wed, Oct 7, 2026",
+    "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+    "dur": "4 h 57 m",
+    "voteCount": 7,
+    "voteItem": "Motion to amend action item 3.16 on page 130",
+    "ayes": 8,
+    "noes": 0,
+    "summary": "The committee amended South Maui Community Plan items on disaster recovery, evacuation routes and gulch buffers.",
+    "recap": "The committee's one agenda item was Bill 108 (2026), the South Maui Community Plan update.[[0:06:38]] A testifier asked the County to study infrastructure, safety and costs before approving a golf course redevelopment of about 900 homes.[[0:10:52]] Another testifier asked for $4 million for UV (ultraviolet light) disinfection in South Maui.[[0:16:17]] A condo owner said a County crew set two water meters on shared condo land without a permit.[[0:43:34]] Members voted 8–0 to plan a post-disaster recovery and reconstruction framework for South Maui, led by the Office of Recovery.[[1:34:54]] Members voted 7–0 to amend an action item on more emergency evacuation routes in and out of South Maui.[[1:37:42]] New gulch policies set streamside (riparian) areas along gulches and natural drainage ways at a minimum of 50 feet.[[4:14:00]] A new definition of natural drainage way passed on a roll call vote with six ayes.[[4:19:11]] The committee recessed until 9 a.m. tomorrow, October 8, 2026.[[4:55:32]]",
+    "decided": [
+      "Action item 3.16 now calls for a post-disaster recovery and reconstruction framework for South Maui, with long timing and the Office of Recovery as lead.",
+      "Action item 3.17 was amended to identify and develop more emergency evacuation routes in and out of South Maui.",
+      "A motion was offered to add resident education on next steps after sirens sound, but the vote is not in the captions.",
+      "The tsunami evacuation site action item was updated with language recommended by the County's emergency management agency.",
+      "A new action item was added to evaluate private roads for emergency access and seek access agreements with landowners.",
+      "The private roads action item was amended to add multi-channel communication, mid timing, a $50,000 cost and County funding.",
+      "Policy 2.5.11A on historic sites within project areas was amended, including changing \"shall\" to \"must.\".",
+      "Policy 2.5.11B now requires mitigation within the project area when a project is next to historic sites."
+    ],
+    "next": "The chair said she would follow up with the chief of staff and managing director about the condo owner's email. Members plan to add \"allows for public serving infrastructure as necessary\" to the open space description when Section 3 amendments are taken up. The chair said housing policies 2.2.18, 19 and 26 will be revisited when a staff member working on housing is available.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:10:22",
+        "q": "Public testimony begins"
+      },
+      {
+        "t": "1:34:24",
+        "q": "\"Develop a post-disaster recovery and reconstruction framework\""
+      },
+      {
+        "t": "4:19:11",
+        "q": "Roll call vote on the natural drainage way definition"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "south-maui-community-plan-review",
+        "title": "South Maui Community Plan review"
+      },
+      {
+        "slug": "disinfecting-wastewater-that-reaches-the-ocean",
+        "title": "Disinfecting wastewater that reaches the ocean"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Disaster Recovery, International Affairs, and Planning Committee",
+        "group": "council",
+        "short": [
+          "DRIP"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 108 (2026)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Oct 7, 2026",
+      "oneLine": "A testifier asked for infrastructure, safety and cost studies before approving a golf course redevelopment of about 900 homes.",
+      "why": "The testifier said workforce housing depends on safe access, reliable infrastructure and long-term affordability.",
+      "deadlines": [],
+      "next": "",
+      "brief": "The testifier said about 8,000 more homes are projected in South Maui.[[#1]] The testifier said the redevelopment would remove golf course open space.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Oct",
+          "day": "7",
+          "source": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+          "kind": "tv",
+          "title": "Committee amends South Maui plan on disasters, evacuation and gulches",
+          "note": "A testifier asked for infrastructure, safety and cost studies before approving a golf course redevelopment of about 900 homes.",
+          "proof": "0:11:11",
+          "view": {
+            "type": "meeting",
+            "id": "5C73aQDRPR4"
+          },
+          "seek": "0:11:11"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Oct 7",
+          "where": "Meeting video at 0:11:11",
+          "view": {
+            "type": "meeting",
+            "id": "5C73aQDRPR4"
+          },
+          "seek": "0:11:11"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Oct 7",
+          "where": "Meeting video at 0:11:52",
+          "view": {
+            "type": "meeting",
+            "id": "5C73aQDRPR4"
+          },
+          "seek": "0:11:52"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

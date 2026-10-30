@@ -1,0 +1,108 @@
+{
+  "videoId": "oxeqJ2H8XQA",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T04:41:38.851Z",
+  "meetingDateISO": "2026-09-09",
+  "source": {
+    "youtubeUrl": "https://youtu.be/oxeqJ2H8XQA"
+  },
+  "headline": "Committee weighs new criteria for Kīhei apartment district properties",
+  "topics": [
+    "Housing"
+  ],
+  "meeting": {
+    "id": "oxeqJ2H8XQA",
+    "mon": "Sep",
+    "day": "9",
+    "date": "Wed, Sep 9, 2026",
+    "body": "Maui County Council Housing and Land Use Committee",
+    "dur": "52 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "Committee weighs new criteria for Kīhei apartment district properties.",
+    "recap": "The chair said the committee would vote on criteria proposed by Member Paltin and another member.[[0:20:04]] The chair said proposed conditions would go to the Maui Planning Commission for review.[[0:20:10]] One member said they did not agree with the proposed conditions.[[0:21:11]] The chair said the conditions had no unanimous support and would be sent as ideas.[[0:21:34]] Members received a list of Kīhei apartment district properties with TVR uses phasing out.[[0:26:40]] Staff said a checked flood box means over 50% of a structure's footprint is in a special flood hazard area.[[0:28:21]] The chair said Member Paltin's criteria adds to the existing criteria and does not undo it.[[0:30:19]] The chair said only one of the five, Shores of Maui, had been proposed by a council member.[[0:42:04]] Members were told the lawyer advised that criteria be objective and apply to all properties.[[0:42:44]] Member Cook distributed information on Shores of Maui.[[0:45:23]]",
+    "decided": [],
+    "next": "The chair said that after a short recess for staff to compile qualifying properties, the committee will vote on Resolution 129. The chair said the committee will then move to Resolution 130, where Member Cook has changes. Staff said they are creating one master list of all the properties. The chair asked planning staff to explain, after the recess, a straight line on the flood designation map.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:21:11",
+        "q": "\"After reviewing these proposals, I personally don't agree with them.\""
+      },
+      {
+        "t": "0:42:44",
+        "q": "\"Applicable and objective, not subjective and just picking properties.\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p",
+        "title": "Ending apartment vacation rentals and hotel rezoning of 48 properties"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Housing and Land Use Committee",
+        "group": "council",
+        "short": [
+          "HLU"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Sep 9, 2026",
+      "oneLine": "Members are considering added criteria that shape which Kīhei properties go on a recommendation list for the Planning Commission.",
+      "why": "The chair said the new criteria could, in part, remove properties members expected to be on the list.",
+      "deadlines": [],
+      "next": "The chair said the committee will vote on the criteria, then on Resolution 129.",
+      "brief": "A checked flood box means over 50% of a structure's footprint is in a special flood hazard area.[[#1]] Only Shores of Maui, of those five, had been proposed by a council member.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Sep",
+          "day": "9",
+          "source": "Maui County Council Housing and Land Use Committee",
+          "kind": "tv",
+          "title": "Committee weighs new criteria for Kīhei apartment district properties",
+          "note": "Members are considering added criteria that shape which Kīhei properties go on a recommendation list for the Planning Commission.",
+          "proof": "0:28:21",
+          "view": {
+            "type": "meeting",
+            "id": "oxeqJ2H8XQA"
+          },
+          "seek": "0:28:21"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Housing and Land Use Committee · Sep 9",
+          "where": "Meeting video at 0:28:21",
+          "view": {
+            "type": "meeting",
+            "id": "oxeqJ2H8XQA"
+          },
+          "seek": "0:28:21"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Housing and Land Use Committee · Sep 9",
+          "where": "Meeting video at 0:42:04",
+          "view": {
+            "type": "meeting",
+            "id": "oxeqJ2H8XQA"
+          },
+          "seek": "0:42:04"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

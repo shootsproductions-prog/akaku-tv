@@ -1,0 +1,75 @@
+{
+  "videoId": "4WkkHiuA95Q",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-22T07:25:22.892Z",
+  "meetingDateISO": "2026-10-20",
+  "source": {
+    "youtubeUrl": "https://youtu.be/4WkkHiuA95Q"
+  },
+  "headline": "Committee passes amended bill, hears review of county boards",
+  "topics": [],
+  "meeting": {
+    "id": "4WkkHiuA95Q",
+    "mon": "Oct",
+    "day": "20",
+    "date": "Tue, Oct 20, 2026",
+    "body": "Maui County Council Government Relations, Ethics, and Transparency Committee",
+    "dur": "1 h 24 m",
+    "voteCount": 4,
+    "voteItem": "Amendment to the definition of administrative action to cover boards and commissions",
+    "ayes": 9,
+    "noes": 0,
+    "summary": "The committee passed an amended bill with fines up to $5,000 per violation and heard an update on county boards and commissions.",
+    "recap": "A proposed amendment set a fine of up to $5,000 for each knowing violation of a section of the bill.[[0:12:50]] Members approved the fine amendment 9 to 0.[[0:15:17]] Members voted 9 to 0 to expand the bill's definition of administrative action to cover some actions by boards and commissions.[[0:18:05]] Members voted 9 to 0 to adopt the revised version of the bill, called CD1, as amended.[[0:20:00]] Members passed the main motion 8 to 0, with one member excused.[[0:20:16]] The Cost of Government Commission updated members on its study of county boards and commissions.[[0:26:02]] The commission reviewed 15 of the 37 boards listed on the county website.[[0:28:15]] Its recommendations included end dates or regular reviews for new boards, and a minimum level of staff support for every board.[[0:34:22]] A commission member, testifying as a private citizen, proposed replacing topic-based boards with boards based on council districts.[[0:36:34]] A Maui High School student asked to turn the Commission on Children and Youth into a youth-led commission.[[0:45:05]] The student reported 56 signatures and 12 testimonies in support.[[0:47:16]] The commission chair said the county stopped reviewing property tax appeals itself and now sends them all to the review board.[[0:56:03]] The commission chair said the commission is now focusing on topics like transportation and disaster readiness.[[1:21:52]] The committee deferred (set aside for now) the item, which was posted for no legislative action.[[1:23:17]]",
+    "decided": [
+      "Members approved the amendment 9 to 0.",
+      "Members adopted the CD1 version as amended 9 to 0.",
+      "Members passed the main motion 8 to 0, with one member excused.",
+      "The chair deferred the item with no objections."
+    ],
+    "next": "Written testimony on the boards and commissions item will continue to be accepted. The student agreed to send the committee the list of signatures when it is ready. The commission has moved on to studying transportation and disaster readiness.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:12:50",
+        "q": "\"up to $5,000 for each violation\""
+      },
+      {
+        "t": "0:28:02",
+        "q": "Commission's boards and commissions report begins"
+      },
+      {
+        "t": "0:45:05",
+        "q": "Student testifies for a youth-led commission"
+      },
+      {
+        "t": "0:57:36",
+        "q": "\"is it a rubber stamp type of activity?\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "cost-of-government-review-of-county-boards",
+        "title": "Cost of Government review of county boards"
+      },
+      {
+        "slug": "future-of-the-commission-on-children-and-youth",
+        "title": "Future of the Commission on Children and Youth"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Government Relations, Ethics, and Transparency Committee",
+        "group": "council",
+        "short": [
+          "GREAT"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "council"
+}

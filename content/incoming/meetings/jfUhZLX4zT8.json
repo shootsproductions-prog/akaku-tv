@@ -1,0 +1,72 @@
+{
+  "videoId": "jfUhZLX4zT8",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-22T07:23:23.658Z",
+  "meetingDateISO": "2026-10-20",
+  "source": {
+    "youtubeUrl": "https://youtu.be/jfUhZLX4zT8"
+  },
+  "headline": "Ethics committee weighs lobbyist rules, recesses before vote",
+  "topics": [],
+  "meeting": {
+    "id": "jfUhZLX4zT8",
+    "mon": "Oct",
+    "day": "20",
+    "date": "Tue, Oct 20, 2026",
+    "body": "Maui County Council Government Relations, Ethics, and Transparency Committee",
+    "dur": "1 h 37 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee discussed Bill 100's lobbyist rules, including a possible $5,000 penalty, and recessed before voting on two pending motions.",
+    "recap": "The committee took up Bill 100 (2026), which would set registration, reporting and penalty rules for lobbyists.[[0:09:27]] The director said a $5,000 penalty was replaced with a reference to fines that Bill 55 would cap at $1,000.[[0:14:30]] The director said the Board of Ethics prefers a penalty of up to $5,000, matching the state.[[0:15:00]] A deputy corporation counsel (a County lawyer) said a $5,000 penalty would be fine.[[0:30:20]] The director said lobbyists would be able to register online.[[0:36:11]] The rules would take effect July 1, 2027, with the first report due January 31.[[0:41:44]] The attorneys present did not all agree on whether lobbying before the Planning Commission would be covered.[[1:06:12]] The chair proposed a recess so the lawyers could work on amendments.[[1:21:19]] A motion to recommend passing Bill 100 on first reading was made and seconded.[[1:26:30]] A second motion to replace the bill with a revised version, called CD1, was made and seconded.[[1:26:49]]",
+    "decided": [
+      "The motion was made and seconded, but no vote appears in the recording.",
+      "The motion was made and seconded, but no vote appears in the recording."
+    ],
+    "next": "The chair said the lawyers would use the recess to work on amendments, which the committee would take up after returning. The director said she would get back to the committee on how the rules apply to boards and commissions.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:17:53",
+        "q": "\"Transparency benefits everyone.\""
+      },
+      {
+        "t": "0:28:34",
+        "q": "County lawyer on the $5,000 penalty"
+      },
+      {
+        "t": "1:06:12",
+        "q": "Lawyers debate Planning Commission coverage"
+      },
+      {
+        "t": "1:26:30",
+        "q": "Motions on Bill 100"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "ethics-bills-on-nepotism-lobbyists-and-ex-employees",
+        "title": "Ethics bills on nepotism, lobbyists and ex-employees"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Government Relations, Ethics, and Transparency Committee",
+        "group": "council",
+        "short": [
+          "GREAT"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 100 (2026)",
+      "Bill 55 (2026)"
+    ]
+  },
+  "issues": [],
+  "bodyType": "council"
+}

@@ -1,0 +1,142 @@
+{
+  "videoId": "k-_ISK9hdeQ",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T16:43:03.928Z",
+  "meetingDateISO": "2026-09-02",
+  "source": {
+    "youtubeUrl": "https://youtu.be/k-_ISK9hdeQ"
+  },
+  "headline": "Maui County Council Housing and Land Use Committee",
+  "topics": [
+    "Water",
+    "Food Security"
+  ],
+  "meeting": {
+    "id": "k-_ISK9hdeQ",
+    "mon": "Sep",
+    "day": "2",
+    "date": "Wed, Sep 2, 2026",
+    "body": "Maui County Council Housing and Land Use Committee",
+    "dur": "2 h 58 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "Members added conditions to the Pahia Sugar Mill rezoning bills and voted to recommend Bill 85 on public hearing notices.",
+    "recap": "The main item was Bills 109 and 115 for the Pahia Sugar Mill redevelopment project.[[0:15:24]] Bill 115 would rezone the land from Urban Reserve to M1 Light Industrial.[[0:16:11]] A council member proposed more conditions, including water-saving practices, no short-term rentals, and an evacuation route.[[0:39:40]] Members moved to recommend passing both bills on first reading.[[1:38:43]] One amendment removed uses such as bed-and-breakfasts, animal kennels, and car lots.[[1:53:28]] Seven members voted aye on that amendment.[[1:56:44]] Members reviewed conditions on water-saving practices, an evacuation route, and chain businesses.[[1:58:26]] Seven members voted aye to add those three conditions.[[2:08:23]] A council member moved to keep the 20% open space rule.[[2:09:35]] The owners said 20% open space, about four acres, is a big burden.[[2:17:02]] Members took a roll call vote on counting the evacuation route as open space.[[2:48:18]] Bill 85 would let hearing notices run in any suitable publication circulated across Maui County.[[2:51:13]] Planning staff said the change would save the county money.[[2:52:16]]",
+    "decided": [
+      "The vote on this amendment is not in the recording."
+    ],
+    "next": "Staff will send a letter to Public Works asking what building standards are now required for hurricanes. Staff will send a letter asking a county department for comments before the full council's final review. Staff will have final wording for the new conditions when the bills come back for first reading. Planning staff said they will have a firmer answer on allowing weddings by first reading.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:39:40",
+        "q": "A council member lists proposed conditions"
+      },
+      {
+        "t": "0:48:17",
+        "q": "\"Conditions can be good, but they are costly.\""
+      },
+      {
+        "t": "2:17:02",
+        "q": "Owners say the 20% open space is a big burden"
+      },
+      {
+        "t": "2:48:34",
+        "q": "Roll call on counting the evacuation route as open space"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "paia-sugar-mill-light-industrial-rezoning",
+        "title": "Pāʻia Sugar Mill light industrial rezoning"
+      },
+      {
+        "slug": "planning-hearing-notices-outside-newspapers-in-bill-85",
+        "title": "Planning hearing notices outside newspapers in Bill 85"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Housing and Land Use Committee",
+        "group": "council",
+        "short": [
+          "HLU"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 85 (2026)",
+      "Bill 109 (2026)",
+      "Bill 115 (2026)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Food Security",
+      "since": "Sep 2, 2026",
+      "oneLine": "The chair said cold storage and ag processing facilities are allowed in M1 light industrial zoning.",
+      "why": "A council member said farmers find refrigeration hard to come by, and it limits what they can do.",
+      "deadlines": [
+        {
+          "d": "This Friday",
+          "t": "Council takes up the Food, Nutrition and Security Plan."
+        }
+      ],
+      "next": "A council member said the Food, Nutrition and Security Plan is on this Friday's council agenda.",
+      "brief": "A council member said turning some ag land into light industrial is a reason to seek an ag processing facility.[[#1]] The owners said they want a commercial kitchen at the site.[[#2]] The owners said current zoning keeps them from building a food processing center and cold storage.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Sep",
+          "day": "2",
+          "source": "Maui County Council Housing and Land Use Committee",
+          "kind": "tv",
+          "title": "Maui County Council Housing and Land Use Committee",
+          "note": "The chair said cold storage and ag processing facilities are allowed in M1 light industrial zoning.",
+          "proof": "0:40:35",
+          "view": {
+            "type": "meeting",
+            "id": "k-_ISK9hdeQ"
+          },
+          "seek": "0:40:35"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Housing and Land Use Committee · Sep 2",
+          "where": "Meeting video at 0:40:35",
+          "view": {
+            "type": "meeting",
+            "id": "k-_ISK9hdeQ"
+          },
+          "seek": "0:40:35"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Housing and Land Use Committee · Sep 2",
+          "where": "Meeting video at 0:43:22",
+          "view": {
+            "type": "meeting",
+            "id": "k-_ISK9hdeQ"
+          },
+          "seek": "0:43:22"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Housing and Land Use Committee · Sep 2",
+          "where": "Meeting video at 1:09:33",
+          "view": {
+            "type": "meeting",
+            "id": "k-_ISK9hdeQ"
+          },
+          "seek": "1:09:33"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}
