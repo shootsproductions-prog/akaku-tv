@@ -171,8 +171,8 @@
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-10-30T22:40:22.059Z",
-  "etag": "4a558b1c576f9a6bd5d80ae5fc6c438f804b1006ba15b593d196f660bea4ad13",
+  "updatedAt": "2026-10-30T22:52:10.858Z",
+  "etag": "2428dfd168c179444c5e009765607c7d4fab9f8d5b74de6c8cfaa9a4a4ea41b8",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-10-30T10:24:11.211Z",
@@ -843,8 +843,8 @@
       "sha256": "65ece068ef571a4029c882cb7f5ad3574ec329541990e6f778cf59a945ed0338"
     },
     "building-permit-exemption-for-storage-shipping-containers.json": {
-      "updatedAt": "2026-10-30T10:24:11.211Z",
-      "sha256": "a951073f14a0f12167d9f2c9fbff3361eb0fc3a0583fb8b44102ed309a6624df"
+      "updatedAt": "2026-10-30T22:52:10.858Z",
+      "sha256": "6cf6b3d736143124bc2879e58b243ac2f9028d0881cef8280e265ddd817090a3"
     }
   }
 }
