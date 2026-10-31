@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T03:27:27.815Z",
+  "generatedAt": "2026-10-31T03:29:47.792Z",
   "areas": [
     {
       "id": "west-maui",
@@ -11,11 +11,47 @@
       "label": "Upcountry"
     },
     {
+      "id": "south-maui",
+      "label": "South Maui"
+    },
+    {
+      "id": "east-maui",
+      "label": "Hāna and East Maui"
+    },
+    {
       "id": "molokai",
       "label": "Molokaʻi"
     }
   ],
   "meetings": [
+    {
+      "videoId": "OXzFs-r67NA",
+      "slug": "2024-06-26-molokai-town-hall",
+      "accent": "#aa6822",
+      "thumbnail": "https://i.ytimg.com/vi/OXzFs-r67NA/hqdefault.jpg",
+      "title": "Molokai Town Hall Meeting: June 26, 2024",
+      "dateISO": "2024-06-26",
+      "headline": "Molokaʻi town hall weighs sites for a new County public cemetery",
+      "in60": "Molokaʻi's Council office held its June town hall, mainly to hear the County Department of Public Works on finding a site for a new public cemetery. Kapaʻakea Cemetery, the island's only public cemetery, has only a few plots left. Public Works reviewed six sites, and the two top-ranked are both privately owned: the R.W. Meyer property near Kalaʻe and the Holomua Junction parcel. About 14 residents asked questions or commented, and most who stated a preference favored the Meyer site. The County has budgeted about $750,000; no site was chosen and no vote was taken. It is still unclear how long a new site would last, how big a buffer from homes would be, and what happens if Kapaʻakea fills first.",
+      "minutes": 61,
+      "parts": 8,
+      "speakers": 21,
+      "participation": {
+        "residents": 14,
+        "organizations": 3,
+        "officials": 4,
+        "committee_members": 0
+      },
+      "votes": 0,
+      "openQuestions": 4,
+      "areas": [
+        "molokai"
+      ],
+      "issues": [
+        "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p"
+      ],
+      "moments": 1
+    },
     {
       "videoId": "-DdmFETaPMM",
       "slug": "2024-03-13-lahaina-disaster-recovery-update",
@@ -43,6 +79,63 @@
         "lahaina-long-term-recovery-plan"
       ],
       "moments": 0
+    },
+    {
+      "videoId": "tuh7ycL5AqM",
+      "slug": "2024-03-06-lahaina-disaster-recovery-update",
+      "accent": "#887042",
+      "thumbnail": "https://i.ytimg.com/vi/tuh7ycL5AqM/hqdefault.jpg",
+      "title": "Lahaina Disaster Recovery Update Meeting: March 6, 2024",
+      "dateISO": "2024-03-06",
+      "headline": "Lahaina recovery update: mental health help, interim housing and Wahikuli water",
+      "in60": "County, State, FEMA and Red Cross officials held a weekly Lahaina recovery meeting focused on mental health services and interim housing. Health staff described new wellness programs, crisis lines and a planned Resiliency Center. FEMA described the 169-unit Kīlohana group site, and the State described Kālai Ola, 450 units for FEMA-ineligible survivors, with first homes expected July to September. About 27 residents asked questions, mostly about Wahikuli water testing, expedited permits, being placed outside West Maui, and what happens when hotel sheltering ends April 10. The State has asked FEMA to extend hotel sheltering, but no decision was announced. Who will handle permits under a possible Lahaina community district was left open.",
+      "minutes": 116,
+      "parts": 10,
+      "speakers": 32,
+      "participation": {
+        "residents": 27,
+        "organizations": 1,
+        "officials": 12,
+        "committee_members": 0
+      },
+      "votes": 0,
+      "openQuestions": 4,
+      "areas": [
+        "west-maui"
+      ],
+      "issues": [
+        "moving-fire-survivors-off-fema-interim-housing"
+      ],
+      "moments": 3
+    },
+    {
+      "videoId": "Uj0Tugn8wFw",
+      "slug": "2024-02-29-upcountry-community-on-hazard-mitigation-and-recovery",
+      "accent": "#3a4b85",
+      "thumbnail": "https://i.ytimg.com/vi/Uj0Tugn8wFw/hqdefault.jpg",
+      "title": "Upcountry Community Meeting on Hazard Mitigation & Recovery: February 29, 2024",
+      "dateISO": "2024-02-29",
+      "headline": "Upcountry meeting on wildfire prevention, Firewise and Kula burn scar recovery",
+      "in60": "Council Vice Chair Yuki Lei Sugimura held an Upcountry community meeting on hazard mitigation and recovery after the August 2023 wildfires. The new Maui Emergency Management Agency administrator, the Maui fire chief, Hawaiʻi Wildfire Management Organization and the Kula Community Watershed Alliance presented, and six community members spoke in the question period. Speakers urged neighborhoods to join the Firewise program and explained brush code enforcement, new Upcountry fire equipment, and native replanting of the Kula burn scar. The Alliance said $2.7 million in federal erosion-control money for Kula has been set aside since November but work has not started. Concerns about absentee landowners with overgrown land, green waste drop-off, agricultural burn smoke, burnout and mental health were raised, and most got no firm commitment.",
+      "minutes": 123,
+      "parts": 7,
+      "speakers": 10,
+      "participation": {
+        "residents": 3,
+        "organizations": 4,
+        "officials": 4,
+        "committee_members": 0
+      },
+      "votes": 0,
+      "openQuestions": 5,
+      "areas": [
+        "upcountry"
+      ],
+      "issues": [
+        "kula-burn-scar-fencing-and-native-replanting",
+        "state-fire-code-adoption-with-brush-clearing-fines"
+      ],
+      "moments": 6
     },
     {
       "videoId": "eiqG5W7BGpY",
@@ -73,6 +166,123 @@
       "moments": 0
     },
     {
+      "videoId": "_VbAKrfK5-s",
+      "slug": "2024-02-21-lahaina-disaster-recovery-update",
+      "accent": "#2c58a0",
+      "thumbnail": "https://i.ytimg.com/vi/_VbAKrfK5-s/hqdefault.jpg",
+      "title": "Lahaina Disaster Recovery Update Meeting: February 21, 2024",
+      "dateISO": "2024-02-21",
+      "headline": "Lahaina recovery update: debris removal, cesspool guidance and disposal site survey",
+      "in60": "County, state and federal recovery officials held their weekly Lahaina update to report on debris removal, water and sewer testing, health studies and the permanent debris disposal site survey. Thirteen residents asked questions, many about new Department of Health guidance letting burned Wahikuli homes keep their cesspools. The Corps of Engineers said debris work has reached 149 properties, with 15 fully completed. The County said more than 2,700 survey responses will re-weight its criteria, with a site decision on or before March 1. Residents' questions on engineer costs, testing of unscraped yard areas, FEMA housing delays and rebuild permitting were left partly unanswered or set for follow-up.",
+      "minutes": 122,
+      "parts": 10,
+      "speakers": 15,
+      "participation": {
+        "residents": 13,
+        "organizations": 1,
+        "officials": 11,
+        "committee_members": 0
+      },
+      "votes": 0,
+      "openQuestions": 5,
+      "areas": [
+        "west-maui"
+      ],
+      "issues": [
+        "lahaina-long-term-recovery-plan",
+        "wildfire-survivor-health-study-findings",
+        "moving-fire-survivors-off-fema-interim-housing"
+      ],
+      "moments": 5
+    },
+    {
+      "videoId": "NgjqfZyf-cg",
+      "slug": "2024-01-31-kula-disaster-recovery-update",
+      "accent": "#0c4295",
+      "thumbnail": "https://i.ytimg.com/vi/NgjqfZyf-cg/hqdefault.jpg",
+      "title": "Kula Disaster Recovery Update Meeting: January 31, 2024",
+      "dateISO": "2024-01-31",
+      "headline": "Kula fire recovery: debris removal done, survey results shared, insurance questions",
+      "in60": "Maui County, state and federal agencies held a Kula disaster recovery update at the invitation of the area's Councilmember. The new Maui Emergency Management administrator introduced himself, the Department of Health reported no asbestos in the latest air samples, and the Department of Water said fire-related water advisories are lifted and long-term monitoring continues. The Councilmember announced that debris removal in Kula is 100% done, and staff shared 17 needs survey responses sorted into six recovery areas. Three residents spoke, raising how leftover insurance debris coverage will be collected, debris outside the cleared areas, wind damage, trees over power lines, road damage and a green waste site. Many of the last resident's questions were put on the record without answers.",
+      "minutes": 51,
+      "parts": 10,
+      "speakers": 10,
+      "participation": {
+        "residents": 3,
+        "organizations": 1,
+        "officials": 10,
+        "committee_members": 0
+      },
+      "votes": 0,
+      "openQuestions": 6,
+      "areas": [
+        "upcountry"
+      ],
+      "issues": [
+        "kula-burn-scar-fencing-and-native-replanting"
+      ],
+      "moments": 2
+    },
+    {
+      "videoId": "BRBfJRbA_jU",
+      "slug": "2024-01-25-hana-maui-county-water-dept-of-water-supply-conservation",
+      "accent": "#0f589d",
+      "thumbnail": "https://i.ytimg.com/vi/BRBfJRbA_jU/hqdefault.jpg",
+      "title": "Hana, Maui County Water Dept. of Water Supply Conservation Plan Community Meeting: January 25, 2024",
+      "dateISO": "2024-01-25",
+      "headline": "Water Supply seeks Hāna feedback on countywide water conservation plan",
+      "in60": "The County Department of Water Supply and its consultant, Carollo Engineers, held a virtual community meeting focused on the Hāna-area water systems to get feedback on a new Water Shortage and Conservation Plan. Staff proposed a goal of cutting per-person water use 10 percent in Hāna and Molokaʻi and 20 percent in Central, West Maui and Upcountry by 2040, using about 20 measures such as smart meters, a three-day-a-week irrigation limit and a water waste ordinance. Four residents spoke, and a short online poll ranked smart meters (Ami) first, followed by a hotel and resort program. Residents raised fairness about hotel water use, how mandates apply to catchment users, confusing drought-restriction messaging, and poor awareness of the free toilet program. Staff said the plan should be done by the end of March, but gave no date for smart meters in Hāna and did not clearly answer how Haʻikū's grouping with Upcountry affects its restrictions.",
+      "minutes": 65,
+      "parts": 7,
+      "speakers": 10,
+      "participation": {
+        "residents": 4,
+        "organizations": 0,
+        "officials": 4,
+        "committee_members": 0
+      },
+      "votes": 0,
+      "openQuestions": 3,
+      "areas": [
+        "east-maui"
+      ],
+      "issues": [
+        "upcountry-water-shortage-conservation-plan",
+        "using-recycled-r1-water-for-irrigation-and-firefighting"
+      ],
+      "moments": 4
+    },
+    {
+      "videoId": "Pcry7-Bpzfw",
+      "slug": "2024-01-24-lahaina-disaster-recovery-update",
+      "accent": "#3d518c",
+      "thumbnail": "https://i.ytimg.com/vi/Pcry7-Bpzfw/hqdefault.jpg",
+      "title": "Lahaina Disaster Recovery Update Meeting: January 24, 2024",
+      "dateISO": "2024-01-24",
+      "headline": "Lahaina recovery update: debris removal, expedited permits, housing and sewer",
+      "in60": "County, state and federal agencies gave their weekly Lahaina wildfire recovery update in Lahaina. The Mayor said a burned 89-unit Kupuohi affordable housing project will start rebuilding next week after cleaning its own site. The Army Corps of Engineers has finished 10 properties and plans to grow from 7 to about 15 cleanup crews by the end of next week. The County reported 1,934 right-of-entry forms started and 970 processed. Eight residents asked questions about expedited building permits, housing sites, shoreline setbacks, rising rents and the long-awaited Wahikuli sewer line. Funding and timing for the Wahikuli sewer, rules for landlords ending leases, and drinking water at a West Side distribution site were left unresolved.",
+      "minutes": 123,
+      "parts": 10,
+      "speakers": 9,
+      "participation": {
+        "residents": 8,
+        "organizations": 0,
+        "officials": 12,
+        "committee_members": 0
+      },
+      "votes": 0,
+      "openQuestions": 4,
+      "areas": [
+        "west-maui"
+      ],
+      "issues": [
+        "lahaina-long-term-recovery-plan",
+        "moving-fire-survivors-off-fema-interim-housing",
+        "bill-105-rebuilding-nonconforming-structures-after-disasters"
+      ],
+      "moments": 3
+    },
+    {
       "videoId": "Js4JdVaJyc0",
       "slug": "2024-01-23-kula-disaster-recovery-update",
       "accent": "#2e5760",
@@ -99,6 +309,94 @@
       "moments": 0
     },
     {
+      "videoId": "vTgXxcJQPwA",
+      "slug": "2024-01-17-lahaina-disaster-recovery-update",
+      "accent": "#53602e",
+      "thumbnail": "https://i.ytimg.com/vi/vTgXxcJQPwA/hqdefault.jpg",
+      "title": "Lahaina Disaster Recovery Update Meeting: January 17, 2024",
+      "dateISO": "2024-01-17",
+      "headline": "Lahaina debris removal begins as agencies update sewer, water, air and permits",
+      "in60": "County, state and federal agencies gave their weekly Lahaina recovery update on January 17, 2024, while the Mayor was in Washington, D.C. No residents spoke during the program; questions were taken one-on-one after the meeting. The Army Corps of Engineers said debris removal on Lahaina residential lots began that morning, with a goal of clearing the first 100 properties within 30 days, and that all 25 Kula properties are now done. EPA will start inspecting about 99,000 feet of Lahaina sewer lines in early February, and the County said sewer service could return down to Puamana in about a month. The County expects to pick a firm to help with expedited rebuild permits around February 16 and open a Lahaina permit office by the end of March. A plan on landlords evicting tenants to lease units to FEMA, and the location of a permanent ash and debris site, are still to come.",
+      "minutes": 51,
+      "parts": 10,
+      "speakers": 0,
+      "participation": {
+        "residents": 0,
+        "organizations": 2,
+        "officials": 9,
+        "committee_members": 0
+      },
+      "votes": 0,
+      "openQuestions": 4,
+      "areas": [
+        "west-maui"
+      ],
+      "issues": [
+        "lahaina-long-term-recovery-plan"
+      ],
+      "moments": 1
+    },
+    {
+      "videoId": "Dn_NML8t4wg",
+      "slug": "2024-01-10-lahaina-disaster-recovery-update",
+      "accent": "#675632",
+      "thumbnail": "https://i.ytimg.com/vi/Dn_NML8t4wg/hqdefault.jpg",
+      "title": "Lahaina Disaster Recovery Update Meeting of January 10, 2024",
+      "dateISO": "2024-01-10",
+      "headline": "Lahaina recovery update: debris removal start, checkpoints, housing and new recovery office",
+      "in60": "Mayor Bissen and county, state, federal and nonprofit partners gave their weekly Lahaina recovery update. Twelve officials and three people speaking for organizations presented, and no residents spoke from the floor; questions went to tables afterward. The Army Corps said Lahaina residential debris removal is ready to start with 5 properties, growing to as many as 35 teams, once the County Council finishes its review of the Olowalu temporary debris site. The county reported over 1,800 of about 2,100 rights of entry submitted, and SBA said its loan application grace period ends January 25. Red Cross said Honua Kai shelter guests told to move can stay for now, and a new county Office of Recovery will build a long-term recovery plan with community input. A housing update from the Mayor's Advisory Team was promised for January 31.",
+      "minutes": 75,
+      "parts": 10,
+      "speakers": 0,
+      "participation": {
+        "residents": 0,
+        "organizations": 3,
+        "officials": 11,
+        "committee_members": 0
+      },
+      "votes": 0,
+      "openQuestions": 0,
+      "areas": [
+        "west-maui"
+      ],
+      "issues": [
+        "lahaina-long-term-recovery-plan",
+        "mema-community-resiliency-hub-network-plan"
+      ],
+      "moments": 3
+    },
+    {
+      "videoId": "YnG1F_VmTeE",
+      "slug": "2023-12-19-kula-disaster-recovery-update",
+      "accent": "#3e6d81",
+      "thumbnail": "https://i.ytimg.com/vi/YnG1F_VmTeE/hqdefault.jpg",
+      "title": "Kula Disaster Recovery Update Meeting: December 19, 2023",
+      "dateISO": "2023-12-19",
+      "headline": "Kula wildfire recovery update: debris nearly done, lead worries, insurance and housing",
+      "in60": "County, State and federal agencies held their last weekly Kula wildfire recovery meeting of 2023, with presentations from MEMA, the U.S. Army Corps of Engineers, the Department of Water Supply, the State Department of Health and FEMA. The Corps reported 20 Kula parcels cleared of debris. Water Supply said Upcountry restrictions will ease to stage one with watering one day a week. Four residents spoke about lead and ash exposure beyond burned lots, insurance living expenses running out, short-term rentals and taxes, and homes still standing in burned areas. The Mayor explained a property tax incentive for owners who rent to displaced families, and FEMA said it can help when insurance living expenses run out. Requests for wider lead testing, a review of the full burn area, and help for ash on unburned properties got no firm answer; the next meeting is expected January 9.",
+      "minutes": 57,
+      "parts": 9,
+      "speakers": 8,
+      "participation": {
+        "residents": 4,
+        "organizations": 0,
+        "officials": 6,
+        "committee_members": 0
+      },
+      "votes": 0,
+      "openQuestions": 5,
+      "areas": [
+        "upcountry"
+      ],
+      "issues": [
+        "upcountry-water-shortage-conservation-plan",
+        "extending-property-tax-relief-for-wildfire-hit-properties",
+        "wildfire-survivor-health-study-findings",
+        "moving-fire-survivors-off-fema-interim-housing"
+      ],
+      "moments": 6
+    },
+    {
       "videoId": "YFLMwRW1Bu0",
       "slug": "2023-12-18-debris-disposal-at-lahaina-civic-center",
       "accent": "#775f32",
@@ -123,6 +421,34 @@
       ],
       "issues": [],
       "moments": 0
+    },
+    {
+      "videoId": "Ms5j_Ga0EGg",
+      "slug": "2023-12-13-lahaina-disaster-recovery-update",
+      "accent": "#818a42",
+      "thumbnail": "https://i.ytimg.com/vi/Ms5j_Ga0EGg/hqdefault.jpg",
+      "title": "Lahaina Disaster Recovery Update Meeting: December 13, 2023",
+      "dateISO": "2023-12-13",
+      "headline": "Lahaina weekly recovery update: debris removal sign-ups, rebuild permits, housing and ash",
+      "in60": "Maui County, State and federal agencies held their weekly Lahaina community meeting to update fire survivors on recovery. Thirteen officials and one nonprofit researcher presented; there was no public testimony, and questions were taken one-on-one at stations after the talks. About 60% of the 2,176 burned properties (1,275) have signed up for government debris removal, and Public Works urged owners to avoid the costly alternate program. The County plans to send an expedited rebuild permitting ordinance to the Council before month's end. FEMA reported 50 households placed through direct leases, and the Department of Health released Lahaina ash results. The final debris disposal site is still undecided, with a community meeting set for Monday, December 18, and the timing of the Wahikuli sewer line remains unknown.",
+      "minutes": 65,
+      "parts": 10,
+      "speakers": 0,
+      "participation": {
+        "residents": 0,
+        "organizations": 1,
+        "officials": 13,
+        "committee_members": 0
+      },
+      "votes": 0,
+      "openQuestions": 4,
+      "areas": [
+        "west-maui"
+      ],
+      "issues": [
+        "moving-fire-survivors-off-fema-interim-housing"
+      ],
+      "moments": 2
     },
     {
       "videoId": "_AlZIX9Z6JE",
@@ -177,6 +503,88 @@
       "moments": 0
     },
     {
+      "videoId": "evdod711Zmo",
+      "slug": "2023-12-05-kula-disaster-recovery-update",
+      "accent": "#2e5460",
+      "thumbnail": "https://i.ytimg.com/vi/evdod711Zmo/hqdefault.jpg",
+      "title": "Kula Disaster Recovery Update Meeting: December 5, 2023",
+      "dateISO": "2023-12-05",
+      "headline": "Kula fire recovery update: debris cleanup, soil rescrapes, lead screening, test results",
+      "in60": "The Maui Emergency Management Agency hosted its weekly Kula disaster recovery meeting at Kula Elementary with the Mayor, the U.S. Army Corps of Engineers, the State Department of Health and FEMA. The Corps reported 21 rights of entry, 14 lots cleared, and one closeout package returned to the County; it aims to finish most debris removal by the week of December 18. Three of the soil-sampled lots need another scrape, and waivers are being worked out with owners. Health officials offered lead screening and Tdap shots and said early air sampling found no asbestos and metals below screening levels. About eight residents spoke, pressing for public posting of test results, help for neighbors of contaminated lots, broader health testing, door-to-door schedule notices, and a water line problem that could leave homes without fire protection. Several questions, including when results will be posted and who will help neighbors of contaminated lots, were left for follow-up.",
+      "minutes": 78,
+      "parts": 9,
+      "speakers": 20,
+      "participation": {
+        "residents": 8,
+        "organizations": 0,
+        "officials": 8,
+        "committee_members": 0
+      },
+      "votes": 0,
+      "openQuestions": 6,
+      "areas": [
+        "upcountry"
+      ],
+      "issues": [],
+      "moments": 1
+    },
+    {
+      "videoId": "TOdgpF-O49c",
+      "slug": "2023-11-16-kula-disaster-recovery-update",
+      "accent": "#42528a",
+      "thumbnail": "https://i.ytimg.com/vi/TOdgpF-O49c/hqdefault.jpg",
+      "title": "Kula Disaster Recovery Update Meeting of November 16, 2023",
+      "dateISO": "2023-11-16",
+      "headline": "Kula fire debris cleanup, air and soil testing worries, and Upcountry water",
+      "in60": "Mayor Bissen, Maui Emergency Management, the Army Corps of Engineers, the State Department of Health and County water staff held a recovery update for Kula fire-area residents. About 12 residents spoke. Officials said two cleanup crews are working, a third will start once five rights of entry clear, and owners get at least 72 hours' notice. Residents pressed for better air monitoring, soil tests on neighboring yards and health screening; the Health Department said its request to FEMA for neighbor soil testing is still pending, and it will look into subsidizing blood and urine tests. The weekly Kula meetings will move to Tuesdays, and EPA is expected at the next one.",
+      "minutes": 86,
+      "parts": 10,
+      "speakers": 20,
+      "participation": {
+        "residents": 12,
+        "organizations": 0,
+        "officials": 9,
+        "committee_members": 0
+      },
+      "votes": 1,
+      "openQuestions": 6,
+      "areas": [
+        "upcountry"
+      ],
+      "issues": [
+        "upcountry-water-shortage-conservation-plan"
+      ],
+      "moments": 4
+    },
+    {
+      "videoId": "vcvmmWhbZro",
+      "slug": "2023-11-15-disaster-recovery-community-update-2-at-lahaina-civic-center",
+      "accent": "#2e3a60",
+      "thumbnail": "https://i.ytimg.com/vi/vcvmmWhbZro/hqdefault.jpg",
+      "title": "Disaster Recovery Community Update Meeting #2 at Lahaina Civic Center: November 15, 2023",
+      "dateISO": "2023-11-15",
+      "headline": "Lahaina recovery update on water, wastewater, air quality, debris and housing",
+      "in60": "County, State and federal officials held their second weekly disaster recovery update at the Lahaina Civic Center. Eight officials presented, and no residents spoke at the microphone; questions were taken at information tables. Officials said residential reentry should be finished by mid-December, drinking water should be restored to most of the system in three to six months, and FEMA has raised its rental assistance limit to 175% of fair market rent. Officials also explained debris removal sign-up and insurance, and how air quality is monitored at schools and in burn areas. No date was given for possible sewer service in Wahikuli, and soil sample results are still about three weeks away. The next meeting is next Wednesday.",
+      "minutes": 36,
+      "parts": 10,
+      "speakers": 0,
+      "participation": {
+        "residents": 0,
+        "organizations": 0,
+        "officials": 8,
+        "committee_members": 0
+      },
+      "votes": 0,
+      "openQuestions": 2,
+      "areas": [
+        "west-maui"
+      ],
+      "issues": [
+        "moving-fire-survivors-off-fema-interim-housing"
+      ],
+      "moments": 1
+    },
+    {
       "videoId": "_nlcVTlvHj0",
       "slug": "2023-11-08-disaster-recovery-community-update-1-at-lahaina-civic-center",
       "accent": "#23774e",
@@ -203,17 +611,408 @@
         "moving-fire-survivors-off-fema-interim-housing"
       ],
       "moments": 0
+    },
+    {
+      "videoId": "_BFktstxBSM",
+      "slug": "2023-10-23-we-are-south-maui-cpac",
+      "accent": "#14307b",
+      "thumbnail": "https://i.ytimg.com/vi/_BFktstxBSM/hqdefault.jpg",
+      "title": "We Are South Maui CPAC Meeting of October 23, 2023",
+      "dateISO": "2023-10-23",
+      "headline": "South Maui plan advisory group falls short of votes to send plan on, recesses",
+      "in60": "The South Maui Community Plan Advisory Committee met to finish reviewing its draft community plan and decide whether to send it to the Maui Planning Commission. Members adopted several text changes, set nearly all unprioritized actions to high priority, and added an action for a safe crossing of Pi’ilani Highway by the new high school. A proposed list of historic and cultural sites failed 4 to 5. Nine members of the public testified, split between asking for more time and asking the group to finish. The motion to send the plan to the Planning Commission got 5 yes and 3 no votes, short of the 7 needed. The committee recessed to November 1 at 5:30 p.m., and the Planning Department said it will not seek more time beyond this meeting.",
+      "minutes": 179,
+      "parts": 10,
+      "speakers": 19,
+      "participation": {
+        "residents": 9,
+        "organizations": 0,
+        "officials": 3,
+        "committee_members": 9
+      },
+      "votes": 10,
+      "openQuestions": 4,
+      "areas": [
+        "south-maui"
+      ],
+      "issues": [
+        "south-maui-community-plan-review",
+        "maui-research-and-technology-park-land-designation"
+      ],
+      "moments": 3
+    },
+    {
+      "videoId": "iEvMvlI_05w",
+      "slug": "2023-10-16-we-are-south-maui-cpac",
+      "accent": "#8a5f42",
+      "thumbnail": "https://i.ytimg.com/vi/iEvMvlI_05w/hqdefault.jpg",
+      "title": "We Are South Maui CPAC Meeting of October 16, 2023",
+      "dateISO": "2023-10-16",
+      "headline": "South Maui plan committee revisits land use maps for Kīhei, Wailea and Mākena",
+      "in60": "The South Maui Community Plan Advisory Committee met to make final changes to the plan's land use maps, sub-area by sub-area. No one gave public testimony; two people spoke as resource persons for landowners or businesses, and County planning staff answered questions. A 5–4 vote to return the Pi’ilani Promenade lands to residential fell short of the needed majority, so they stay small town center. A motion to turn Kīhei Mauka into open space and agriculture failed 4–5. The committee voted to make a 23-acre Wailea parcel park, to make four Mākena parcels outside the growth boundary agriculture, and to change three Mākena hotel-resort areas to residential. A proposal to expand a recycling area above the Kīhei wastewater plant, and whether the committee gets more time, were left for later; the next meeting is Wednesday.",
+      "minutes": 186,
+      "parts": 9,
+      "speakers": 2,
+      "participation": {
+        "residents": 0,
+        "organizations": 2,
+        "officials": 1,
+        "committee_members": 9
+      },
+      "votes": 10,
+      "openQuestions": 4,
+      "areas": [
+        "south-maui"
+      ],
+      "issues": [
+        "south-maui-community-plan-review",
+        "maui-research-and-technology-park-land-designation"
+      ],
+      "moments": 4
+    },
+    {
+      "videoId": "6h09nOok8Jg",
+      "slug": "2023-09-20-cpac",
+      "accent": "#8a6842",
+      "thumbnail": "https://i.ytimg.com/vi/6h09nOok8Jg/hqdefault.jpg",
+      "title": "CPAC 230920",
+      "dateISO": "2023-09-20",
+      "headline": "South Maui plan committee pauses meetings until virtual testimony returns",
+      "in60": "The South Maui Community Plan Advisory Committee met to review the policies and actions it has already adopted for the South Maui Community Plan. Before the review, members voted to finish this meeting but hold no further meetings until virtual public testimony is restored, after Planning staff said Akaka no longer has staff to run it; a separate motion to cancel this meeting failed. Four people testified in person: three residents and one representative of the Honuaʻula project, on emergency exits, a bike and pedestrian path along Pi’ilani Highway, a bypass road, project setbacks, cultural terms and native trees. The committee then adopted many policy and action changes without objection, including a path inside the 150-foot highway setback, a South Maui bypass right-of-way policy, protection of mature trees, more athletic fields and implementing wildfire plans. It is unresolved when virtual testimony will return, and whether the Council would extend the committee's deadline, now October 17.",
+      "minutes": 180,
+      "parts": 10,
+      "speakers": 13,
+      "participation": {
+        "residents": 3,
+        "organizations": 1,
+        "officials": 2,
+        "committee_members": 10
+      },
+      "votes": 15,
+      "openQuestions": 4,
+      "areas": [
+        "south-maui"
+      ],
+      "issues": [
+        "south-maui-community-plan-review",
+        "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p"
+      ],
+      "moments": 3
+    },
+    {
+      "videoId": "ycvYPoiAfJ8",
+      "slug": "2023-04-26-we-are-south-maui-community-plan-advisory-committee",
+      "accent": "#6b3f8d",
+      "thumbnail": "https://i.ytimg.com/vi/ycvYPoiAfJ8/hqdefault.jpg",
+      "title": "We Are South Maui: Community Plan Advisory Committee Meeting of April 26, 2023",
+      "dateISO": "2023-04-26",
+      "headline": "South Maui plan committee reviews land use categories and sets Māʻalaea map designations",
+      "in60": "The South Maui Community Plan Advisory Committee heard a Planning Department briefing on the 15 proposed land use designations, then worked on the Māʻalaea sub-area map. Five people testified, raising vague designation definitions, open space and water use in Māʻalaea, truck safety in ʻŌhukai, and wetland land near Keālia. The committee adopted residential for the Haʻoli Street condos without objection, rejecting a resort hotel request, and adopted the department's other Māʻalaea designations 9-1. A second vote to make the Māʻalaea triangle Small Town Center instead of Transit-Oriented Corridor was first announced as passing. Staff later said it fell one vote short of the seven needed, so the triangle must be revisited. Votes on the designation definitions and ahupuaʻa wording for the sub-area are set for next week.",
+      "minutes": 149,
+      "parts": 9,
+      "speakers": 11,
+      "participation": {
+        "residents": 4,
+        "organizations": 1,
+        "officials": 2,
+        "committee_members": 10
+      },
+      "votes": 4,
+      "openQuestions": 3,
+      "areas": [
+        "south-maui"
+      ],
+      "issues": [
+        "south-maui-community-plan-review",
+        "harbor-triangle-rezoning-including-maui-ocean-center"
+      ],
+      "moments": 9
+    },
+    {
+      "videoId": "XXsVVLXd8vk",
+      "slug": "2023-04-12-we-are-south-maui-community-plan-advisory-committee",
+      "accent": "#8d663f",
+      "thumbnail": "https://i.ytimg.com/vi/XXsVVLXd8vk/hqdefault.jpg",
+      "title": "We Are South Maui: Community Plan Advisory Committee Meeting of April 12, 2023",
+      "dateISO": "2023-04-12",
+      "headline": "South Maui plan committee finishes policy review and ranks every plan action",
+      "in60": "The South Maui Community Plan Advisory Committee met to finish reviewing draft policies and actions and to set priorities for each action. There was no public testimony because the meeting resumed after a recess; about 11 committee members and 2 planning staff spoke. Members adopted wording changes on shoreline restrooms, sewer extension in Mākena, dune management staffing, water quality monitoring, cesspool conversion dates and the County wetlands mapping study. They added new actions to fund a study on restoring Puʻu Hale, to find land for cultural centers and museums in Kula Kai and Honuaʻula Kai, and to create a green waste and compost program. They then rated every action high, medium or low, with most rated high or medium. Proposals on shipping recyclables off island and cutting single-use plastics were deferred, and land use work starts next week.",
+      "minutes": 188,
+      "parts": 9,
+      "speakers": 0,
+      "participation": {
+        "residents": 0,
+        "organizations": 0,
+        "officials": 2,
+        "committee_members": 11
+      },
+      "votes": 12,
+      "openQuestions": 4,
+      "areas": [
+        "south-maui"
+      ],
+      "issues": [
+        "south-maui-community-plan-review"
+      ],
+      "moments": 8
+    },
+    {
+      "videoId": "ZhnYySqZlpw",
+      "slug": "2023-03-15-we-are-south-maui-community-plan-advisory-committee",
+      "accent": "#9d972f",
+      "thumbnail": "https://i.ytimg.com/vi/ZhnYySqZlpw/hqdefault.jpg",
+      "title": "We Are South Maui: Community Plan Advisory Committee Meeting of March 15, 2023",
+      "dateISO": "2023-03-15",
+      "headline": "South Maui plan committee finishes resiliency actions and revises wetland purchase goal",
+      "in60": "The South Maui Community Plan Advisory Committee met on March 15, 2023 to keep drafting actions for the South Maui Community Plan. No members of the public testified. Remote testimony was still not available, and the meeting was not streamed on Akaka. About 12 committee members and 2 Planning Department staff spoke. The committee voted to call for the County to acquire seven North Kīhei parcels it sees as wetlands and to protect them as open space. It also adopted actions on wildfire data, a new fire station in North Kīhei, evacuation routes and gate blockages, resiliency hubs, native and canoe plants, recycled water, water reuse and desalination studies, and drought planning, and it finished the resiliency section. Whether the seven parcels are legally wetlands is still open; staff said a County wetland map is due around October or November.",
+      "minutes": 192,
+      "parts": 9,
+      "speakers": 0,
+      "participation": {
+        "residents": 0,
+        "organizations": 0,
+        "officials": 2,
+        "committee_members": 12
+      },
+      "votes": 21,
+      "openQuestions": 4,
+      "areas": [
+        "south-maui"
+      ],
+      "issues": [
+        "south-maui-community-plan-review",
+        "mema-community-resiliency-hub-network-plan",
+        "using-recycled-r1-water-for-irrigation-and-firefighting"
+      ],
+      "moments": 3
+    },
+    {
+      "videoId": "IZirMMY0G7o",
+      "slug": "2023-03-08-we-are-south-maui-community-plan-advisory-committee",
+      "accent": "#bcb810",
+      "thumbnail": "https://i.ytimg.com/vi/IZirMMY0G7o/hqdefault.jpg",
+      "title": "We Are South Maui: Community Plan Advisory Committee Meeting of March 8, 2023",
+      "dateISO": "2023-03-08",
+      "headline": "South Maui plan committee adopts watershed, flood, wastewater and cesspool actions",
+      "in60": "The South Maui Community Plan Advisory Committee met with all members present to keep working on the plan's watershed management actions and its ready and resilient systems policies and actions. Three people testified: two residents and the Maui Ocean Center general manager, who also sits on the Māʻalaea Village Association board. The committee adopted more than 20 policies and actions, all without objection or by show of hands. They cover R1 recycled water reuse, buying flood-prone parcels in North Kīhei, flood rules, managed retreat, ending wastewater injection wells in Māʻalaea and South Maui, and converting cesspools in Maui Meadows and Māʻalaea. One member objected strongly to a policy on expanding R1 water reuse, saying it could open the door to more development in Wailea and Mākena, but the policy passed. Another member recused himself from the cesspool action after a Board of Ethics opinion, and a motion to ask the County Council for a three-month extension was made as the meeting recessed.",
+      "minutes": 196,
+      "parts": 9,
+      "speakers": 4,
+      "participation": {
+        "residents": 3,
+        "organizations": 1,
+        "officials": 1,
+        "committee_members": 13
+      },
+      "votes": 23,
+      "openQuestions": 4,
+      "areas": [
+        "south-maui"
+      ],
+      "issues": [
+        "south-maui-community-plan-review",
+        "village-association-plan-to-stop-using-injection-wells",
+        "using-recycled-r1-water-for-irrigation-and-firefighting",
+        "disinfecting-wastewater-that-reaches-the-ocean"
+      ],
+      "moments": 3
+    },
+    {
+      "videoId": "ipMVZxROPr8",
+      "slug": "2023-02-22-we-are-south-maui-community-plan-advisory-committee",
+      "accent": "#8c5a40",
+      "thumbnail": "https://i.ytimg.com/vi/ipMVZxROPr8/hqdefault.jpg",
+      "title": "We Are South Maui: Community Plan Advisory Committee Meeting of February 22, 2023",
+      "dateISO": "2023-02-22",
+      "headline": "South Maui plan advisory committee adopts watershed, wetland and dune actions",
+      "in60": "The South Maui Community Plan Advisory Committee met to keep writing actions for the Mauka to Mākaʻi Watershed Management section of the South Maui Community Plan. Four people testified, raising stormwater quality, wetlands as green infrastructure, riparian fencing, an unused Pi’ilani Village drainage basin, and the Ridge to Reef wording. Members adopted actions 4.03 through 4.11. These include a stormwater quality program, monitoring and enforcement of gulch and culvert clearing, returning diverted streams such as Kanaio Stream in Māʻalaea, a regional stormwater park, implementing the Southwest Maui Watershed Plan, and dune programs for North Kīhei and Māʻalaea. Several questions went to Planning staff without answers, including what the law requires of private owners for gulch clearing and what County land lies in the gulches mauka of the highway. Action 4.12 on near-shore water monitoring was still unfinished when the recording ran out.",
+      "minutes": 220,
+      "parts": 7,
+      "speakers": 10,
+      "participation": {
+        "residents": 3,
+        "organizations": 1,
+        "officials": 2,
+        "committee_members": 9
+      },
+      "votes": 17,
+      "openQuestions": 4,
+      "areas": [
+        "south-maui"
+      ],
+      "issues": [
+        "south-maui-community-plan-review"
+      ],
+      "moments": 4
+    },
+    {
+      "videoId": "kz9L3pPPsXA",
+      "slug": "2023-01-25-we-are-south-maui-community-plan-advisory-committee",
+      "accent": "#8b4d41",
+      "thumbnail": "https://i.ytimg.com/vi/kz9L3pPPsXA/hqdefault.jpg",
+      "title": "We Are South Maui: Community Plan Advisory Committee Meeting of January 25th (fixed)",
+      "dateISO": "2023-01-25",
+      "headline": "South Maui plan committee adopts four watershed policies, stalls on gulch setbacks",
+      "in60": "The South Maui Community Plan Advisory Committee met to work through the plan's mauka-to-mākaʻi watershed management policies, with the County Public Works Director on hand as a resource. Ten people testified, mostly asking for stronger \"require\" language, better links to mauka lands and the Southwest Maui Watershed Plan, axis deer control, and less concrete in drainage plans. The committee adopted policies 2.4.1 through 2.4.4 without objection, including a reworded wetland buffer policy. It did not reach a motion on 2.4.5, the 100-foot gulch setback, after debate over which gulches it covers, and recessed to continue next week. Members also leaned toward adding an extra weeknight meeting to catch up, since the committee is behind schedule.",
+      "minutes": 170,
+      "parts": 8,
+      "speakers": 25,
+      "participation": {
+        "residents": 8,
+        "organizations": 2,
+        "officials": 3,
+        "committee_members": 12
+      },
+      "votes": 4,
+      "openQuestions": 4,
+      "areas": [
+        "south-maui"
+      ],
+      "issues": [
+        "south-maui-community-plan-review",
+        "using-recycled-r1-water-for-irrigation-and-firefighting"
+      ],
+      "moments": 4
     }
   ],
   "askedAgain": [
     {
+      "label": "Wahikuli sewer service and connection",
+      "meetings": [
+        "2023-11-15-disaster-recovery-community-update-2-at-lahaina-civic-center",
+        "2023-12-06-lahaina-disaster-recovery-update",
+        "2023-12-13-lahaina-disaster-recovery-update",
+        "2024-01-17-lahaina-disaster-recovery-update",
+        "2024-01-24-lahaina-disaster-recovery-update",
+        "2024-03-06-lahaina-disaster-recovery-update"
+      ],
+      "from": "2023-11-15",
+      "to": "2024-03-06"
+    },
+    {
       "label": "Building permits and timing for fire rebuilds",
       "meetings": [
+        "2023-12-05-kula-disaster-recovery-update",
         "2023-12-18-debris-disposal-at-lahaina-civic-center",
+        "2024-01-24-lahaina-disaster-recovery-update",
+        "2024-02-21-lahaina-disaster-recovery-update",
         "2024-03-13-lahaina-disaster-recovery-update"
       ],
-      "from": "2023-12-18",
+      "from": "2023-12-05",
       "to": "2024-03-13"
+    },
+    {
+      "label": "Permanent Lahaina fire debris disposal site",
+      "meetings": [
+        "2023-11-08-disaster-recovery-community-update-1-at-lahaina-civic-center",
+        "2023-12-13-lahaina-disaster-recovery-update",
+        "2023-12-18-debris-disposal-at-lahaina-civic-center",
+        "2024-01-17-lahaina-disaster-recovery-update"
+      ],
+      "from": "2023-11-08",
+      "to": "2024-01-17"
+    },
+    {
+      "label": "Testing and cleanup help for neighbors of burned Kula lots",
+      "meetings": [
+        "2023-11-16-kula-disaster-recovery-update",
+        "2023-12-05-kula-disaster-recovery-update",
+        "2023-12-12-kula-disaster-recovery-update",
+        "2023-12-19-kula-disaster-recovery-update"
+      ],
+      "from": "2023-11-16",
+      "to": "2023-12-19"
+    },
+    {
+      "label": "Blood and lead testing for exposed residents",
+      "meetings": [
+        "2023-11-16-kula-disaster-recovery-update",
+        "2023-12-05-kula-disaster-recovery-update",
+        "2023-12-12-kula-disaster-recovery-update",
+        "2023-12-19-kula-disaster-recovery-update"
+      ],
+      "from": "2023-11-16",
+      "to": "2023-12-19"
+    },
+    {
+      "label": "Community mental health after disasters",
+      "meetings": [
+        "2024-02-21-lahaina-disaster-recovery-update",
+        "2024-02-29-upcountry-community-on-hazard-mitigation-and-recovery",
+        "2024-03-06-lahaina-disaster-recovery-update"
+      ],
+      "from": "2024-02-21",
+      "to": "2024-03-06"
+    },
+    {
+      "label": "Fire debris and ash left outside cleanup footprints",
+      "meetings": [
+        "2024-01-23-kula-disaster-recovery-update",
+        "2024-01-31-kula-disaster-recovery-update",
+        "2024-02-21-lahaina-disaster-recovery-update"
+      ],
+      "from": "2024-01-23",
+      "to": "2024-02-21"
+    },
+    {
+      "label": "Extending insurance additional living expense coverage",
+      "meetings": [
+        "2023-12-12-kula-disaster-recovery-update",
+        "2023-12-19-kula-disaster-recovery-update",
+        "2024-01-23-kula-disaster-recovery-update"
+      ],
+      "from": "2023-12-12",
+      "to": "2024-01-23"
+    },
+    {
+      "label": "Water conservation requirements for South Maui",
+      "meetings": [
+        "2023-01-25-we-are-south-maui-community-plan-advisory-committee",
+        "2023-04-26-we-are-south-maui-community-plan-advisory-committee",
+        "2023-10-23-we-are-south-maui-cpac"
+      ],
+      "from": "2023-01-25",
+      "to": "2023-10-23"
+    },
+    {
+      "label": "More time for the South Maui plan committee",
+      "meetings": [
+        "2023-09-20-cpac",
+        "2023-10-16-we-are-south-maui-cpac",
+        "2023-10-23-we-are-south-maui-cpac"
+      ],
+      "from": "2023-09-20",
+      "to": "2023-10-23"
+    },
+    {
+      "label": "Virtual participation in South Maui committee meetings",
+      "meetings": [
+        "2023-01-25-we-are-south-maui-community-plan-advisory-committee",
+        "2023-03-08-we-are-south-maui-community-plan-advisory-committee",
+        "2023-09-20-cpac"
+      ],
+      "from": "2023-01-25",
+      "to": "2023-09-20"
+    },
+    {
+      "label": "R-1 recycled water use in South Maui",
+      "meetings": [
+        "2023-01-25-we-are-south-maui-community-plan-advisory-committee",
+        "2023-02-22-we-are-south-maui-community-plan-advisory-committee",
+        "2023-03-08-we-are-south-maui-community-plan-advisory-committee"
+      ],
+      "from": "2023-01-25",
+      "to": "2023-03-08"
+    },
+    {
+      "label": "Ungulate fencing and riparian restoration",
+      "meetings": [
+        "2023-01-25-we-are-south-maui-community-plan-advisory-committee",
+        "2023-02-22-we-are-south-maui-community-plan-advisory-committee",
+        "2023-03-08-we-are-south-maui-community-plan-advisory-committee"
+      ],
+      "from": "2023-01-25",
+      "to": "2023-03-08"
     },
     {
       "label": "Restoring sewer service in the Lahaina burn zone",
@@ -225,22 +1024,148 @@
       "to": "2024-03-13"
     },
     {
-      "label": "Extending insurance additional living expense coverage",
+      "label": "Slow water testing and clearance in Lahaina",
       "meetings": [
-        "2023-12-12-kula-disaster-recovery-update",
-        "2024-01-23-kula-disaster-recovery-update"
+        "2024-03-06-lahaina-disaster-recovery-update",
+        "2024-03-13-lahaina-disaster-recovery-update"
       ],
-      "from": "2023-12-12",
-      "to": "2024-01-23"
+      "from": "2024-03-06",
+      "to": "2024-03-13"
     },
     {
-      "label": "Permanent Lahaina fire debris disposal site",
+      "label": "Backup generators for Upcountry water pumps",
       "meetings": [
-        "2023-11-08-disaster-recovery-community-update-1-at-lahaina-civic-center",
-        "2023-12-18-debris-disposal-at-lahaina-civic-center"
+        "2023-11-16-kula-disaster-recovery-update",
+        "2024-02-29-upcountry-community-on-hazard-mitigation-and-recovery"
       ],
-      "from": "2023-11-08",
-      "to": "2023-12-18"
+      "from": "2023-11-16",
+      "to": "2024-02-29"
+    },
+    {
+      "label": "Green waste facility or drop-off sites Upcountry",
+      "meetings": [
+        "2024-01-31-kula-disaster-recovery-update",
+        "2024-02-29-upcountry-community-on-hazard-mitigation-and-recovery"
+      ],
+      "from": "2024-01-31",
+      "to": "2024-02-29"
+    },
+    {
+      "label": "Order of debris removal and property queue",
+      "meetings": [
+        "2023-12-18-debris-disposal-at-lahaina-civic-center",
+        "2024-02-21-lahaina-disaster-recovery-update"
+      ],
+      "from": "2023-12-18",
+      "to": "2024-02-21"
+    },
+    {
+      "label": "Insurance debris removal payments for government cleanup",
+      "meetings": [
+        "2023-11-15-disaster-recovery-community-update-2-at-lahaina-civic-center",
+        "2024-01-31-kula-disaster-recovery-update"
+      ],
+      "from": "2023-11-15",
+      "to": "2024-01-31"
+    },
+    {
+      "label": "Access to Kula soil sample results",
+      "meetings": [
+        "2023-12-05-kula-disaster-recovery-update",
+        "2024-01-31-kula-disaster-recovery-update"
+      ],
+      "from": "2023-12-05",
+      "to": "2024-01-31"
+    },
+    {
+      "label": "Approval-by-default emergency rebuild permit provision",
+      "meetings": [
+        "2023-12-12-kula-disaster-recovery-update",
+        "2024-01-24-lahaina-disaster-recovery-update"
+      ],
+      "from": "2023-12-12",
+      "to": "2024-01-24"
+    },
+    {
+      "label": "Landlords displacing tenants for FEMA-paid leases",
+      "meetings": [
+        "2024-01-17-lahaina-disaster-recovery-update",
+        "2024-01-24-lahaina-disaster-recovery-update"
+      ],
+      "from": "2024-01-17",
+      "to": "2024-01-24"
+    },
+    {
+      "label": "Air monitoring in Kula and public posting of results",
+      "meetings": [
+        "2023-11-16-kula-disaster-recovery-update",
+        "2023-12-05-kula-disaster-recovery-update"
+      ],
+      "from": "2023-11-16",
+      "to": "2023-12-05"
+    },
+    {
+      "label": "Advance notice of neighboring lot cleanup schedules",
+      "meetings": [
+        "2023-11-16-kula-disaster-recovery-update",
+        "2023-12-05-kula-disaster-recovery-update"
+      ],
+      "from": "2023-11-16",
+      "to": "2023-12-05"
+    },
+    {
+      "label": "Mauka road or bypass parallel to Pi’ilani Highway",
+      "meetings": [
+        "2023-09-20-cpac",
+        "2023-10-16-we-are-south-maui-cpac"
+      ],
+      "from": "2023-09-20",
+      "to": "2023-10-16"
+    },
+    {
+      "label": "Future of the Kīhei compost and recycling site",
+      "meetings": [
+        "2023-04-12-we-are-south-maui-community-plan-advisory-committee",
+        "2023-10-16-we-are-south-maui-cpac"
+      ],
+      "from": "2023-04-12",
+      "to": "2023-10-16"
+    },
+    {
+      "label": "Opening private roads and gates as evacuation routes",
+      "meetings": [
+        "2023-03-15-we-are-south-maui-community-plan-advisory-committee",
+        "2023-09-20-cpac"
+      ],
+      "from": "2023-03-15",
+      "to": "2023-09-20"
+    },
+    {
+      "label": "Funding a Māʻalaea wastewater plant",
+      "meetings": [
+        "2023-03-08-we-are-south-maui-community-plan-advisory-committee",
+        "2023-04-26-we-are-south-maui-community-plan-advisory-committee"
+      ],
+      "from": "2023-03-08",
+      "to": "2023-04-26"
+    },
+    {
+      "label": "North Kīhei wetlands mapping, protection and acquisition",
+      "meetings": [
+        "2023-01-25-we-are-south-maui-community-plan-advisory-committee",
+        "2023-03-15-we-are-south-maui-community-plan-advisory-committee"
+      ],
+      "from": "2023-01-25",
+      "to": "2023-03-15"
+    },
+    {
+      "label": "Waipuʻilani and Kūlanihākoʻi gulch flooding",
+      "meetings": [
+        "2023-02-22-we-are-south-maui-community-plan-advisory-committee",
+        "2023-03-08-we-are-south-maui-community-plan-advisory-committee"
+      ],
+      "from": "2023-02-22",
+      "to": "2023-03-08"
     }
   ]
 }
