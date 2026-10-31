@@ -1,0 +1,104 @@
+{
+  "videoId": "UElWUY1WxpQ",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T17:44:47.896Z",
+  "meetingDateISO": "2026-06-24",
+  "source": {
+    "youtubeUrl": "https://youtu.be/UElWUY1WxpQ"
+  },
+  "headline": "Committee recommends passage of energy contract financing, discusses grant rules",
+  "topics": [
+    "Housing"
+  ],
+  "meeting": {
+    "id": "UElWUY1WxpQ",
+    "mon": "Jun",
+    "day": "24",
+    "date": "Wed, Jun 24, 2026",
+    "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+    "dur": "1 h 34 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee voted to recommend passage, as amended, of a resolution to finance a Johnson Controls Inc. energy contract by lease purchase. On the grants rules bill, staff will ask the administration when rulemaking is required.",
+    "recap": "The committee continued a meeting that was recessed on June 16 because of technical difficulties.[[0:02:02]] The first item was a resolution to finance a Johnson Controls Inc. energy contract through a tax-exempt lease purchase with TD Equipment Finance Inc.[[0:21:36]] The proposed cost for Phase 3 is $9,021,259 plus 4.49 percent interest.[[0:22:14]] During testimony, a speaker said they do not consent to the energy contract.[[0:24:30]] The committee approved an amendment letting the final financed amount come in lower than the amount stated.[[0:45:54]] The committee voted to recommend passage of the resolution as amended.[[0:47:27]] The second item was Bill 73, which would require countywide administrative rules for the County Grants Program.[[0:48:10]] A council member asked staff to send the administration a question about when formal rulemaking is required.[[1:17:12]]",
+    "decided": [],
+    "next": "Staff will send the administration a question on when rulemaking is required instead of internal policies. The chair said the rulemaking question would be clarified by the next meeting.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:44:03",
+        "q": "\"At the end of the lease period, it is a county asset.\""
+      },
+      {
+        "t": "0:52:37",
+        "q": "\"There is no guarantee that they will be approved by August 15th date.\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "countywide-rules-for-managing-county-grants",
+        "title": "Countywide rules for managing county grants"
+      },
+      {
+        "slug": "johnson-controls-energy-savings-contract-phase-3",
+        "title": "Johnson Controls energy savings contract Phase 3"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Budget, Finance, and Economic Development Committee",
+        "group": "council",
+        "short": [
+          "BFED"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 73 (2026)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Jun 24, 2026",
+      "oneLine": "A council member said county grant funds for homeless outreach are sometimes rejected by the department.",
+      "why": "The member said nonprofits working in the community need the funding to keep operating.",
+      "deadlines": [],
+      "next": "",
+      "brief": "The member said staff reported that HUD is not following the Housing First model.[[#1]]",
+      "timeline": [
+        {
+          "mon": "Jun",
+          "day": "24",
+          "source": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "kind": "tv",
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "note": "A council member said county grant funds for homeless outreach are sometimes rejected by the department.",
+          "proof": "0:56:28",
+          "view": {
+            "type": "meeting",
+            "id": "UElWUY1WxpQ"
+          },
+          "seek": "0:56:28"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Jun 24",
+          "where": "Meeting video at 0:56:28",
+          "view": {
+            "type": "meeting",
+            "id": "UElWUY1WxpQ"
+          },
+          "seek": "0:56:28"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

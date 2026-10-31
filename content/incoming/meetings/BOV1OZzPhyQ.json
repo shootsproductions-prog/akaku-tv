@@ -1,0 +1,75 @@
+{
+  "videoId": "BOV1OZzPhyQ",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-14T06:59:26.303Z",
+  "meetingDateISO": "2026-06-05",
+  "source": {
+    "youtubeUrl": "https://youtu.be/BOV1OZzPhyQ"
+  },
+  "topics": [],
+  "headline": "Civil Service Commission sets open search for personnel director",
+  "meeting": {
+    "id": "BOV1OZzPhyQ",
+    "mon": "Jun",
+    "day": "5",
+    "date": "Fri, Jun 5, 2026",
+    "body": "Maui Civil Service Commission",
+    "dur": "1 h 33 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The Civil Service Commission voted to fill the personnel services director job through open recruitment and formed a working group to plan hiring.",
+    "recap": "The commission put off old business to focus on hiring a new personnel services director.[[0:02:45]] It voted unanimously to make the deputy director acting director if no new director is chosen by the current director's retirement.[[0:12:42]] With four ayes, the commission voted to fill the job through open recruitment.[[0:21:29]] With four ayes, it voted to advertise through the department's usual methods and a County press release.[[0:35:06]] With four ayes, it voted to accept applications by a special email address or by mail.[[0:47:44]] With four ayes, it voted to remove identifying details from applications before the first review.[[0:49:17]] One person testified in support of an open, competitive hiring process.[[1:04:54]] A motion was made to form a small working group, called a TIG, made up of the vice chair and Commissioner Suzuki.[[1:24:40]] Its tasks include setting the application process, timelines, a scoring rubric and interview stages.[[1:25:28]] The group will send three top candidates to the full commission for interviews.[[1:26:22]] The commission voted to approve the working group.[[1:27:00]] The commission's lawyer said recent court decisions favor open sessions over closed sessions.[[1:28:33]] The lawyer will check if interviews can follow the group's report at the same meeting, or recommend a special meeting.[[1:29:24]]",
+    "decided": [
+      "The commission approved naming the deputy director as acting director if no new director is chosen by the current director's retirement date.",
+      "The commission approved using open recruitment to find the new director.",
+      "The commission approved advertising through the department's usual methods and a County press release that can be sent to professional organizations.",
+      "The commission approved receiving applications by a designated email address or by mail, in care of a designee in the Department of Management.",
+      "The commission approved having identifying information removed from applications, with corporation counsel's support, before the first review.",
+      "The commission voted to adjourn."
+    ],
+    "next": "The commission's lawyer will research whether interviews can happen right after the working group's presentation, and if not, will recommend a special meeting for interviews. The lawyer will look into which parts of the hiring process can be done in closed session and which must be done in open session.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:13:30",
+        "q": "Acting director vote: \"Voting is unanimous. The motion carries.\""
+      },
+      {
+        "t": "0:21:29",
+        "q": "Open recruitment approved"
+      },
+      {
+        "t": "1:04:37",
+        "q": "Public testimony on the hiring process"
+      },
+      {
+        "t": "1:08:04",
+        "q": "Vice chair reads the working group's draft scope"
+      },
+      {
+        "t": "1:28:23",
+        "q": "Lawyer on open versus closed sessions for interviews"
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "search-for-new-department-of-personnel-services-director",
+        "title": "Search for new Department of Personnel Services director"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Civil Service Commission",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "board"
+}

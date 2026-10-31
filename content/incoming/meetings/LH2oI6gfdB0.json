@@ -1,0 +1,120 @@
+{
+  "videoId": "LH2oI6gfdB0",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T06:07:45.286Z",
+  "meetingDateISO": "2026-08-31",
+  "source": {
+    "youtubeUrl": "https://youtu.be/LH2oI6gfdB0"
+  },
+  "headline": "Committee questions health study team, hears update on Kīlohana housing units",
+  "topics": [
+    "Housing"
+  ],
+  "meeting": {
+    "id": "LH2oI6gfdB0",
+    "mon": "Aug",
+    "day": "31",
+    "date": "Mon, Aug 31, 2026",
+    "body": "Maui County Council Water Authority, Social Services, and Parks Committee",
+    "dur": "52 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee asked a health study team about park access, insurance enrollment and outreach, and heard Kīlohana units and land are moving to county control. Council members are to email the team to schedule follow-up meetings.",
+    "recap": "The committee returned from a break for a second round of questions to a health study team.[[0:14:21]] The team said the parks department would not let them use parks because they collect blood from adults.[[0:16:14]] The team said a Kaiser Permanente charity insurance program lowered the uninsured rate from 40% to 20%.[[0:22:47]] A county official said a new health and human services coordination position will be posted online soon.[[0:27:54]] The team works Tuesdays and Thursdays at the Lahaina Comprehensive Health Center and Mondays and Fridays at the Wailuku health office.[[0:37:42]] The team said about 200 past participants cannot be reached by email or phone.[[0:40:35]] He said the land is also moving from HHFDC to the County of Maui.[[0:41:58]] He said the county is meeting with FEMA so caseworkers can meet together with Kīlohana residents.[[0:42:10]] He said not everyone at Kīlohana is eligible to stay.[[0:42:24]]",
+    "decided": [],
+    "next": "The team said it will post its event schedule on its website. Council members are to reach out to the team by email to schedule follow-up meetings. A county official said their office can start outreach to youth coaches and work with Human Concerns on it. The team asked past participants who have not been contacted to email or call them.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:16:26",
+        "q": "\"We do it in every single space except county parks for some reason.\""
+      },
+      {
+        "t": "0:27:54",
+        "q": "New health and human services coordination position announced"
+      },
+      {
+        "t": "0:29:27",
+        "q": "How to contact the team: email given on the record"
+      },
+      {
+        "t": "0:41:14",
+        "q": "Question on reaching Kīlohana residents about county taking over units"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "moving-fire-survivors-off-fema-interim-housing",
+        "title": "Moving fire survivors off FEMA interim housing"
+      },
+      {
+        "slug": "wildfire-survivor-health-study-findings",
+        "title": "Wildfire survivor health study findings"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Water Authority, Social Services, and Parks Committee",
+        "group": "council",
+        "short": [
+          "WASSP"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Aug 31, 2026",
+      "oneLine": "Kīlohana temporary housing units are moving from FEMA control to county control.",
+      "why": "A member said some people living at Kīlohana did not know the county was acquiring the units.",
+      "deadlines": [],
+      "next": "The county is meeting with FEMA so caseworkers can meet together with Kīlohana residents.",
+      "brief": "The land at Kīlohana is moving from HHFDC to the County of Maui.[[#1]] Not everyone living at Kīlohana is eligible to stay.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Aug",
+          "day": "31",
+          "source": "Maui County Council Water Authority, Social Services, and Parks Committee",
+          "kind": "tv",
+          "title": "Health study team takes questions; Kīlohana units moving to county control",
+          "note": "Kīlohana temporary housing units are moving from FEMA control to county control.",
+          "proof": "0:41:58",
+          "view": {
+            "type": "meeting",
+            "id": "LH2oI6gfdB0"
+          },
+          "seek": "0:41:58"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Aug 31",
+          "where": "Meeting video at 0:41:58",
+          "view": {
+            "type": "meeting",
+            "id": "LH2oI6gfdB0"
+          },
+          "seek": "0:41:58"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Aug 31",
+          "where": "Meeting video at 0:42:24",
+          "view": {
+            "type": "meeting",
+            "id": "LH2oI6gfdB0"
+          },
+          "seek": "0:42:24"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

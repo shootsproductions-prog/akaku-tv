@@ -1,0 +1,85 @@
+{
+  "videoId": "TxzLnQKaEY0",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-15T06:49:17.601Z",
+  "meetingDateISO": "2024-11-20",
+  "source": {
+    "youtubeUrl": "https://youtu.be/TxzLnQKaEY0"
+  },
+  "topics": [
+    "Disaster Recovery"
+  ],
+  "headline": "Maui County Police Commission",
+  "meeting": {
+    "id": "TxzLnQKaEY0",
+    "mon": "Nov",
+    "day": "20",
+    "date": "Wed, Nov 20, 2024",
+    "body": "Maui County Police Commission",
+    "dur": "1 h 53 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The commission heard a call to dismiss the police chief, voted on its budget letter, and set its next meeting for December 18.",
+    "recap": "The Maui Police Commission met on November 20 with a quorum present.[[0:00:30]] A commissioner said commission rules put matters the testifier may take to civil court outside its jurisdiction.[[0:25:15]] The head of an immigrant-serving group said the chief has worked with the group for over a year.[[0:31:42]] Police reported 15 traffic deaths so far this year, compared with 16 at this time last year.[[0:41:37]] The deputy chief presented a proposed department budget of $98.14 million.[[1:00:17]] The commission voted to let a commissioner draft its budget letter for the chair to sign.[[1:16:59]] A commissioner said the commission is asking for $351,500 for its own budget.[[1:18:25]] Work on the chief's evaluation was moved to the December meeting under a new title so all members have the full document.[[1:47:09]] After an executive session (a closed-door discussion), the commission voted unanimously not to send a complaint for investigation.[[1:51:45]] The next meeting is December 18, 2024, at 10 a.m.[[1:52:43]]",
+    "decided": [
+      "The commission voted to go into executive session to discuss a complaint.",
+      "The commission decided not to forward a complaint alleging inappropriate behavior, offensive language and use of force for investigation."
+    ],
+    "next": "The chair will work with the commission secretary so members get the consultant's document and feedback, and the item returns in December under a new title. The department said it will tell the commission when it presents its budget to the council. The deputy chief said the commission's investigator position is waiting on the mayor's office to move it onto the department's organization chart.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:05:44",
+        "q": "\"take decisive action to hold this Chief accountable through dismissal\""
+      },
+      {
+        "t": "0:25:15",
+        "q": "Point of order on possible civil litigation"
+      },
+      {
+        "t": "0:47:19",
+        "q": "Chief responds and describes Top Cop award for forensic team"
+      },
+      {
+        "t": "1:17:33",
+        "q": "Vote on the budget letter"
+      },
+      {
+        "t": "1:42:55",
+        "q": "Deputy corporation counsel on executive session for the evaluation"
+      },
+      {
+        "t": "1:51:45",
+        "q": "Complaint decision announced"
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "fema-reimbursement-of-county-wildfire-response-costs",
+        "title": "FEMA reimbursement of county wildfire response costs"
+      },
+      {
+        "slug": "police-chief-evaluation-policy",
+        "title": "Police chief evaluation policy"
+      },
+      {
+        "slug": "police-real-time-operations-center",
+        "title": "Police real-time operations center"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Police Commission",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "board"
+}

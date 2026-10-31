@@ -1,0 +1,127 @@
+{
+  "videoId": "6WVDJO1LxXM",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T20:45:46.561Z",
+  "meetingDateISO": "2026-06-15",
+  "source": {
+    "youtubeUrl": "https://youtu.be/6WVDJO1LxXM"
+  },
+  "headline": "Committee discusses bill on housing funds for houseless residents, likely to defer",
+  "topics": [
+    "Housing"
+  ],
+  "meeting": {
+    "id": "6WVDJO1LxXM",
+    "mon": "Jun",
+    "day": "15",
+    "date": "Mon, Jun 15, 2026",
+    "body": "Maui County Council Water Authority, Social Services, and Parks Committee",
+    "dur": "54 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "The housing director said the department would work with a nonprofit partner, suggested softer wording than \"ensure,\" and noted no fiscal year 27 funds are set aside. The chair said the bill will likely be deferred, and a safe parking program will be discussed June 29th.",
+    "recap": "A member asked whether the Housing Department plans to create long-term or permanent housing for houseless residents.[[0:20:13]] The housing director said the department is not set up to manage those units and would work with a nonprofit partner.[[0:21:08]] The director said the bill's word “ensure” could be read as a guarantee.[[0:22:04]] The director recommended softer wording, so the department would try to use funds or issue RFPs (requests for proposals) as needed.[[0:22:28]] The director said no funds are set aside for this in fiscal year 27, so a budget amendment would be needed.[[0:22:58]] The department plans to study a South Kīhei parcel of over 100 acres, called the Kīhei Police Station parcel.[[0:26:19]] The chair said the committee would likely defer the bill and invite Director Willis to join the discussion.[[0:27:36]] The housing director agreed to share a list of county properties that could be developed for housing.[[0:29:47]] A member asked the director to meet with other directors and resource people before the bill returns; the director said yes.[[0:35:21]] A member said they are open to creating a new zoning category for this type of housing.[[0:36:27]] The chair said the committee will discuss a safe parking program on June 29th.[[0:40:07]]",
+    "decided": [],
+    "next": "The chair said Director Willis will be invited to the next meeting. The housing director said the department will share its list of county properties that could be developed for housing. The housing director said they would meet with colleagues in the Planning Department before giving reactions on new zoning.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:22:04",
+        "q": "“The word ensure can be read as a guarantee”"
+      },
+      {
+        "t": "0:26:19",
+        "q": "Plans for the Kīhei Police Station parcel"
+      },
+      {
+        "t": "0:27:36",
+        "q": "Chair says the bill will likely be deferred"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "safe-parking-sites-for-people-living-in-cars",
+        "title": "Safe parking sites for people living in cars"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Water Authority, Social Services, and Parks Committee",
+        "group": "council",
+        "short": [
+          "WASSP"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Jun 15, 2026",
+      "oneLine": "A bill would require the housing director to use part of a fund each year for living spaces for houseless residents.",
+      "why": "A member said the county needed to start this work 10 years ago.",
+      "deadlines": [
+        {
+          "d": "June 29th",
+          "t": "Committee discussion of the safe parking program with the department."
+        }
+      ],
+      "next": "The chair said Director Willis will be invited to the next meeting.",
+      "brief": "The housing director said the department would work with a nonprofit partner instead of managing units itself.[[#1]] The director said no funds are set aside for this in fiscal year 27, so a budget amendment would be needed.[[#2]] The department plans to study a South Kīhei parcel of over 100 acres for possible development.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Jun",
+          "day": "15",
+          "source": "Maui County Council Water Authority, Social Services, and Parks Committee",
+          "kind": "tv",
+          "title": "Committee weighs houseless housing bill, plans to defer it",
+          "note": "A bill would require the housing director to use part of a fund each year for living spaces for houseless residents.",
+          "proof": "0:21:08",
+          "view": {
+            "type": "meeting",
+            "id": "6WVDJO1LxXM"
+          },
+          "seek": "0:21:08"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Jun 15",
+          "where": "Meeting video at 0:21:08",
+          "view": {
+            "type": "meeting",
+            "id": "6WVDJO1LxXM"
+          },
+          "seek": "0:21:08"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Jun 15",
+          "where": "Meeting video at 0:22:58",
+          "view": {
+            "type": "meeting",
+            "id": "6WVDJO1LxXM"
+          },
+          "seek": "0:22:58"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Jun 15",
+          "where": "Meeting video at 0:26:19",
+          "view": {
+            "type": "meeting",
+            "id": "6WVDJO1LxXM"
+          },
+          "seek": "0:26:19"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

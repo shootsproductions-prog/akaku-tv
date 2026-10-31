@@ -1,0 +1,145 @@
+{
+  "videoId": "M4N8hOpnIco",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-23T00:44:19.485Z",
+  "meetingDateISO": "2026-10-19",
+  "source": {
+    "youtubeUrl": "https://youtu.be/M4N8hOpnIco"
+  },
+  "headline": "Maui County Council Water Authority, Social Services, and Parks Committee",
+  "topics": [
+    "Housing"
+  ],
+  "meeting": {
+    "id": "M4N8hOpnIco",
+    "mon": "Oct",
+    "day": "19",
+    "date": "Mon, Oct 19, 2026",
+    "body": "Maui County Council Water Authority, Social Services, and Parks Committee",
+    "dur": "2 h 17 m",
+    "voteCount": 1,
+    "voteItem": "Close public testimony",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee discussed Bill 133, which would let more county properties be used for temporary living in vehicles; no legislative action was taken.",
+    "recap": "The committee discussed Bill 133 (2026), which amends Chapter 10.76 of the Maui County Code.[[0:04:59]] The bill would let more county properties be used for temporary living in vehicles.[[0:07:37]] This was a Rule 7B discussion, so no legislative action was taken.[[0:08:01]] A deputy corporation counsel (county attorney) said the changes allow living in vehicles 24 hours a day, not only 7 p.m. to 7 a.m.[[0:16:00]] A testifier said the proposed site has no stores or gas stations nearby.[[0:28:12]] Another testifier asked the council to slow down and work with the people who will use the program.[[0:35:43]] The director said the site will have private security around the clock.[[1:01:23]] The director expects to serve 50 to 60 people.[[1:12:30]] If the bill passes Friday and the site is finished this week, moving people could start next week.[[1:21:56]] The pilot is expected to run six months at first.[[1:29:29]] A separate permanent safe parking site in Kahului is still moving forward.[[1:41:12]] Detailed liability questions would need an executive session (a closed-door discussion) or private calls before Friday.[[2:14:17]]",
+    "decided": [
+      "Public testimony was closed with no objections."
+    ],
+    "next": "The chair said the bill will get non-substantive (wording-only) cleanup for Friday. Members can call the deputy corporation counsel with liability questions before Friday. The public can email site or program ideas to the director at director.hc@co.maui.hi.us. The director said she will tell members when the security agreement is finalized.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:22:12",
+        "q": "Public testimony begins"
+      },
+      {
+        "t": "1:21:56",
+        "q": "Director explains when the temporary site could open"
+      },
+      {
+        "t": "1:55:08",
+        "q": "\"We will not be allowing people to remain in that area.\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "safe-parking-sites-for-people-living-in-cars",
+        "title": "Safe parking sites for people living in cars"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Water Authority, Social Services, and Parks Committee",
+        "group": "council",
+        "short": [
+          "WASSP"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 133 (2026)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Oct 19, 2026",
+      "oneLine": "The county plans a temporary site for people now living in vehicles along the road.",
+      "why": "The director said the site aims to keep people safer, away from traffic and its danger.",
+      "deadlines": [
+        {
+          "d": "next week",
+          "t": "Start moving people to the temporary site."
+        },
+        {
+          "d": "this fall",
+          "t": "Workshop with community providers."
+        }
+      ],
+      "next": "The bill is set for second and final reading on Friday.",
+      "brief": "The director expects the site to serve 50 to 60 people.[[#1]] The site will have private security 24 hours a day.[[#2]] The site will offer portable toilets, hand washing stations and drinking water.[[#3]] People who turn down all options will not be allowed to stay in the current roadside area.[[#4]]",
+      "timeline": [
+        {
+          "mon": "Oct",
+          "day": "19",
+          "source": "Maui County Council Water Authority, Social Services, and Parks Committee",
+          "kind": "tv",
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee",
+          "note": "The county plans a temporary site for people now living in vehicles along the road.",
+          "proof": "1:12:30",
+          "view": {
+            "type": "meeting",
+            "id": "M4N8hOpnIco"
+          },
+          "seek": "1:12:30"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Oct 19",
+          "where": "Meeting video at 1:12:30",
+          "view": {
+            "type": "meeting",
+            "id": "M4N8hOpnIco"
+          },
+          "seek": "1:12:30"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Oct 19",
+          "where": "Meeting video at 1:01:23",
+          "view": {
+            "type": "meeting",
+            "id": "M4N8hOpnIco"
+          },
+          "seek": "1:01:23"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Oct 19",
+          "where": "Meeting video at 2:08:31",
+          "view": {
+            "type": "meeting",
+            "id": "M4N8hOpnIco"
+          },
+          "seek": "2:08:31"
+        },
+        {
+          "n": 4,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Oct 19",
+          "where": "Meeting video at 1:55:08",
+          "view": {
+            "type": "meeting",
+            "id": "M4N8hOpnIco"
+          },
+          "seek": "1:55:08"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

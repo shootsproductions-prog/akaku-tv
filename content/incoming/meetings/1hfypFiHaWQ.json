@@ -1,0 +1,65 @@
+{
+  "videoId": "1hfypFiHaWQ",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-15T06:57:54.777Z",
+  "meetingDateISO": "2024-10-23",
+  "source": {
+    "youtubeUrl": "https://youtu.be/1hfypFiHaWQ"
+  },
+  "topics": [],
+  "headline": "Maui County Police Commission Meeting",
+  "meeting": {
+    "id": "1hfypFiHaWQ",
+    "mon": "Oct",
+    "day": "23",
+    "date": "Wed, Oct 23, 2024",
+    "body": "Maui County Police Commission Meeting",
+    "dur": "1 h 12 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The Police Commission voted to send letters to the mayor about an investigator job and to the salary commission about the chief's pay.",
+    "recap": "The Police Commission held a special meeting on October 23, 2024.[[0:00:35]] Police said a September 16 shooting death is still under investigation.[[0:03:21]] Police said a 64-year-old woman was killed by a hit-and-run driver on September 5.[[0:04:31]] A new investigator job for the commission still needs union and DPS approval, with no time frame given.[[0:20:40]] The commission voted to have a commissioner write to the mayor, copying the union, about the investigator job.[[0:25:53]] A first draft of a policy for evaluating the police chief is expected October 31.[[0:26:53]] A resident testified that the chief's pay should not be discussed before his evaluation report is submitted.[[0:29:13]] Commissioners said the salary commission has not acted on the commission's letter sent over a year ago.[[0:44:10]] The commission voted, with seven ayes, to have a commissioner write and send a new letter to the salary commission.[[1:06:30]] The commission met in executive session (a closed-door discussion).[[1:09:05]] The vice chair decided complaint MPC 2403 will not be referred for investigation.[[1:10:39]] The next regular meeting is November 20, 2024, at 10 a.m.[[1:11:20]]",
+    "decided": [
+      "The commission approved having a commissioner write a letter to the mayor, copying the union, about the status of the investigator position.",
+      "The commission approved having a commissioner draft and send a letter to the salary commission about the police chief's salary.",
+      "The commission voted to go into executive session.",
+      "The vice chair's decision not to refer complaint MPC 2403 for investigation stood with no objection."
+    ],
+    "next": "Police agreed to tell the commission when the investigator job proposal goes to the union. The deputy corporation counsel said he will report at the next meeting on who must approve salary commission raises. Commissioners were told to email letter ideas only to the writing commissioner, without copying others, under the Sunshine Law.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:13:03",
+        "q": "\"the standards haven't dropped uh at all\""
+      },
+      {
+        "t": "0:18:29",
+        "q": "Police on homelessness: \"being homeless is not a crime in itself\""
+      },
+      {
+        "t": "0:34:15",
+        "q": "\"Chief didn't ask for a raise\""
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "police-chief-evaluation-policy",
+        "title": "Police chief evaluation policy"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Police Commission",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "board"
+}

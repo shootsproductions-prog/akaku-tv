@@ -1,0 +1,205 @@
+{
+  "videoId": "R11kAu6emiw",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-17T00:42:15.251Z",
+  "meetingDateISO": "2026-05-18",
+  "source": {
+    "youtubeUrl": "https://youtu.be/R11kAu6emiw"
+  },
+  "headline": "Committee discusses Bill 76 water fee change and an overnight parking ban",
+  "topics": [
+    "Water",
+    "Housing"
+  ],
+  "meeting": {
+    "id": "R11kAu6emiw",
+    "mon": "May",
+    "day": "18",
+    "date": "Mon, May 18, 2026",
+    "body": "Maui County Council Water and Infrastructure Committee",
+    "dur": "1 h 46 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee discussed Bill 76, which would base the water system development fee on daily water use rather than meter size, and took testimony on a parking ban. The chair said the parking bill will return with Public Works, police and Human Concerns present.",
+    "recap": "The committee discussed Bill 76, which would base the water system development fee on daily water use, not meter size.[[0:04:01]] Staff said one equivalent single dwelling, a standard unit, equals 300 gallons a day.[[0:12:20]] Staff said properties already legally connected would not pay the fee again.[[0:15:08]] Affordable and workforce housing projects could pay the fee later, when the impact happens.[[0:15:42]] A testifier said it was unclear how the new fee would be applied.[[0:19:43]] Staff said fees for a small single-family meter would be very similar to before.[[0:38:47]] The councilmember presenting it said police could not enforce the existing overnight ban.[[1:07:58]] One testifier asked the committee to pause the bill.[[1:11:09]] A second testifier strongly opposed it.[[1:17:35]] A councilmember said the Department of Human Concerns will update the council on safe parking on June 29th.[[1:30:00]] The chair said the bill will return with Public Works, police and Human Concerns present.[[1:41:04]]",
+    "decided": [],
+    "next": "A councilmember said they will work on updating the Lahaina section of the parking code so it is consistent.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:07:54",
+        "q": "Water department presentation on Bill 76"
+      },
+      {
+        "t": "0:39:11",
+        "q": "Example of how a large irrigation meter fee would change"
+      },
+      {
+        "t": "1:02:13",
+        "q": "County lawyer on whether the fee could differ by type of use"
+      },
+      {
+        "t": "1:11:02",
+        "q": "Public testimony on Bill 49 begins"
+      },
+      {
+        "t": "1:38:30",
+        "q": "\"It's already illegal to park overnight.\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "water-system-development-fee-based-on-daily-use",
+        "title": "Water system development fee based on daily use"
+      },
+      {
+        "slug": "safe-parking-sites-for-people-living-in-cars",
+        "title": "Safe parking sites for people living in cars"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Water and Infrastructure Committee",
+        "group": "council",
+        "short": [
+          "WAI"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 76 (2026)",
+      "Bill 49 (2026)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Water",
+      "since": "May 18, 2026",
+      "oneLine": "Bill 76 would change the water system development fee to be based on average daily demand instead of meter size.",
+      "why": "The chair said the change makes the fee more accurately reflect a project's actual impact on the county's water source and storage.",
+      "deadlines": [
+        {
+          "d": "June 5th, 2026",
+          "t": "Second and final reading of Bill 76 at the Council."
+        }
+      ],
+      "next": "Bill 76 is scheduled for second and final reading on June 5th, 2026.",
+      "brief": "One equivalent single dwelling is a standard unit equal to 300 gallons of water a day.[[#1]] Staff said the fee had not been raised in quite some time and was well overdue for this restructuring.[[#2]] Staff said future budgets plan a 2 to 3 percent yearly increase in the fee.[[#3]]",
+      "timeline": [
+        {
+          "mon": "May",
+          "day": "18",
+          "source": "Maui County Council Water and Infrastructure Committee",
+          "kind": "tv",
+          "title": "Maui County Council Water and Infrastructure Committee",
+          "note": "Bill 76 would change the water system development fee to be based on average daily demand instead of meter size.",
+          "proof": "0:12:20",
+          "view": {
+            "type": "meeting",
+            "id": "R11kAu6emiw"
+          },
+          "seek": "0:12:20"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Water and Infrastructure Committee · May 18",
+          "where": "Meeting video at 0:12:20",
+          "view": {
+            "type": "meeting",
+            "id": "R11kAu6emiw"
+          },
+          "seek": "0:12:20"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Water and Infrastructure Committee · May 18",
+          "where": "Meeting video at 0:52:18",
+          "view": {
+            "type": "meeting",
+            "id": "R11kAu6emiw"
+          },
+          "seek": "0:52:18"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Water and Infrastructure Committee · May 18",
+          "where": "Meeting video at 0:52:31",
+          "view": {
+            "type": "meeting",
+            "id": "R11kAu6emiw"
+          },
+          "seek": "0:52:31"
+        }
+      ]
+    },
+    {
+      "issue": "Housing",
+      "since": "May 18, 2026",
+      "oneLine": "A testifier said many people live in their vehicles and the county has never established safe parking.",
+      "why": "A testifier said the parking ban would make life more dangerous for working families, kūpuna and disaster survivors struggling in Maui's housing crisis.",
+      "deadlines": [
+        {
+          "d": "June 29th",
+          "t": "Department of Human Concerns update on safe parking."
+        }
+      ],
+      "next": "The Department of Human Concerns is set to give the council an update on safe parking on June 29th.",
+      "brief": "A testifier asked the county to set up safe overnight parking with sanitation and security.[[#1]] A councilmember cited a news report that the unsheltered population rose by about 40 percent.[[#2]] The bill's presenter said there was no clear answer on when the safe parking program will start.[[#3]]",
+      "timeline": [
+        {
+          "mon": "May",
+          "day": "18",
+          "source": "Maui County Council Water and Infrastructure Committee",
+          "kind": "tv",
+          "title": "Maui County Council Water and Infrastructure Committee",
+          "note": "A testifier said many people live in their vehicles and the county has never established safe parking.",
+          "proof": "1:19:25",
+          "view": {
+            "type": "meeting",
+            "id": "R11kAu6emiw"
+          },
+          "seek": "1:19:25"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Water and Infrastructure Committee · May 18",
+          "where": "Meeting video at 1:19:25",
+          "view": {
+            "type": "meeting",
+            "id": "R11kAu6emiw"
+          },
+          "seek": "1:19:25"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Water and Infrastructure Committee · May 18",
+          "where": "Meeting video at 1:31:46",
+          "view": {
+            "type": "meeting",
+            "id": "R11kAu6emiw"
+          },
+          "seek": "1:31:46"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Water and Infrastructure Committee · May 18",
+          "where": "Meeting video at 1:39:33",
+          "view": {
+            "type": "meeting",
+            "id": "R11kAu6emiw"
+          },
+          "seek": "1:39:33"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

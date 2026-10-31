@@ -1,0 +1,124 @@
+{
+  "videoId": "IDdA2PEpsxc",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T19:27:10.055Z",
+  "meetingDateISO": "2026-06-17",
+  "source": {
+    "youtubeUrl": "https://youtu.be/IDdA2PEpsxc"
+  },
+  "headline": "Planning staff update council committee on zoning code rewrite",
+  "topics": [
+    "Housing"
+  ],
+  "meeting": {
+    "id": "IDdA2PEpsxc",
+    "mon": "Jun",
+    "day": "17",
+    "date": "Wed, Jun 17, 2026",
+    "body": "Maui County Council Housing and Land Use Committee",
+    "dur": "1 h 60 m",
+    "voteCount": 1,
+    "voteItem": "Close oral testimony",
+    "ayes": null,
+    "noes": null,
+    "summary": "Planning staff updated the committee on the Title 19 zoning code rewrite, begun in 2019, and the item was deferred.",
+    "recap": "The committee's only agenda item was the rewrite of Title 19, the County's zoning code.[[0:02:30]] Planning staff said the rewrite began in 2019 and is not yet finished.[[0:05:22]] Staff said draft chapters will come to the Council and the three planning commissions in groups called modules.[[0:16:56]] Staff said the first group of draft chapters could be introduced later this summer or fall.[[0:19:35]] Another testifier asked that project applicants be required to show a clear chain of title (proof of ownership history).[[0:32:46]] Staff said the agricultural district will be discussed in module five.[[1:12:12]] Staff said that if members cannot agree on a change, the current rule will stay in place for now.[[1:17:24]] The consultant said housing types will be looked at mainly in module four, the residential module.[[1:39:34]] The chair said a question about sending changes back to the planning commissions will go in writing to planning and the attorney.[[1:58:07]] The committee deferred the item, meaning it was put off for now.[[1:59:20]]",
+    "decided": [
+      "The chair closed oral testimony without objection; written testimony will still be accepted."
+    ],
+    "next": "Staff said they will ask the Maui Planning Commission to refer the rewrite to the Hāna Advisory Committee. Staff said each module will come to the committee informally for feedback before going to the commissions. The chair said the question on sending changes back will be sent in writing to planning and the attorney.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:03:23",
+        "q": "\"This is Title 19.\""
+      },
+      {
+        "t": "0:15:11",
+        "q": "\"It is a land use tool, not a magic wand.\""
+      },
+      {
+        "t": "0:22:09",
+        "q": "Public testimony begins"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "rewrite-of-title-19-county-zoning-code",
+        "title": "Rewrite of Title 19 county zoning code"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Housing and Land Use Committee",
+        "group": "council",
+        "short": [
+          "HLU"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Jun 17, 2026",
+      "oneLine": "The zoning rewrite will look at allowing more types of housing in each district.",
+      "why": "The consultant said housing is a flashpoint issue on Maui and in places across the country.",
+      "deadlines": [],
+      "next": "The consultant said housing will be looked at mainly in module four, the residential module.",
+      "brief": "Staff said zoning can set land aside for housing but cannot force owners to build it.[[#1]] The council chair asked how housing can get cheaper when plans keep adding conditions.[[#2]] The consultant said some housing types could be allowed outright or with set conditions.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Jun",
+          "day": "17",
+          "source": "Maui County Council Housing and Land Use Committee",
+          "kind": "tv",
+          "title": "Planning staff update council committee on zoning code rewrite",
+          "note": "The zoning rewrite will look at allowing more types of housing in each district.",
+          "proof": "0:15:11",
+          "view": {
+            "type": "meeting",
+            "id": "IDdA2PEpsxc"
+          },
+          "seek": "0:15:11"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Housing and Land Use Committee · Jun 17",
+          "where": "Meeting video at 0:15:11",
+          "view": {
+            "type": "meeting",
+            "id": "IDdA2PEpsxc"
+          },
+          "seek": "0:15:11"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Housing and Land Use Committee · Jun 17",
+          "where": "Meeting video at 1:09:03",
+          "view": {
+            "type": "meeting",
+            "id": "IDdA2PEpsxc"
+          },
+          "seek": "1:09:03"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Housing and Land Use Committee · Jun 17",
+          "where": "Meeting video at 1:38:30",
+          "view": {
+            "type": "meeting",
+            "id": "IDdA2PEpsxc"
+          },
+          "seek": "1:38:30"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

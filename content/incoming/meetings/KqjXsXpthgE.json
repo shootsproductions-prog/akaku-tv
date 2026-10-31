@@ -1,0 +1,62 @@
+{
+  "videoId": "KqjXsXpthgE",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-15T06:57:36.594Z",
+  "meetingDateISO": "2024-10-23",
+  "source": {
+    "youtubeUrl": "https://youtu.be/KqjXsXpthgE"
+  },
+  "topics": [
+    "Water"
+  ],
+  "headline": "Molokaʻi commission denies exemption for home demolition",
+  "meeting": {
+    "id": "KqjXsXpthgE",
+    "mon": "Oct",
+    "day": "23",
+    "date": "Wed, Oct 23, 2024",
+    "body": "Molokai Planning Commission Meeting",
+    "dur": "43 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The commission denied an exemption for demolishing a two-story home after questions about landfill disposal and the site went unanswered.",
+    "recap": "The meeting opened at 11:16 a.m.[[0:00:40]] Staff recommended granting the exemption.[[0:05:00]] The chair asked to skip the applicant's presentation because some commissioners had to leave at 12 o'clock.[[0:06:37]] No one from the public testified.[[0:08:50]] The chair asked whether the landfill can safely take waste containing arsenic.[[0:11:03]] Staff said the application was sent twice to the Department of Environmental Management with no response.[[0:12:11]] A commissioner asked to see the actual letters from the State Historic Preservation office.[[0:17:43]] The applicant's consultant said a demolition contractor has not been hired yet.[[0:21:27]] The chair said a denial means the project would come back as an SMA minor permit.[[0:33:04]] A commissioner moved to deny the exemption, and another commissioner seconded.[[0:33:44]] The chair listed information the commission wants, starting with a disposal plan verified by Environmental Management for the landfill.[[0:35:41]] The motion to deny carried unanimously by a show of hands.[[0:42:12]]",
+    "decided": [],
+    "next": "With a denial, the request would come back to the commission as an SMA minor permit. The planning department said it will try to do more outreach to Environmental Management on future demolition permits.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:10:52",
+        "q": "\"I don't have a problem with the Demolition I think that it needs to come down\""
+      },
+      {
+        "t": "0:33:44",
+        "q": "Motion to deny is made"
+      },
+      {
+        "t": "0:42:12",
+        "q": "Vote: \"motion carries unanimous\""
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "molokai-landfill-limits-for-hazardous-and-disaster-debris",
+        "title": "Molokaʻi landfill limits for hazardous and disaster debris"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Molokaʻi Planning Commission",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "board"
+}

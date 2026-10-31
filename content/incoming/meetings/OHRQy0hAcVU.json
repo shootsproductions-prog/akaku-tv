@@ -1,0 +1,112 @@
+{
+  "videoId": "OHRQy0hAcVU",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T22:27:14.861Z",
+  "meetingDateISO": "2026-09-30",
+  "source": {
+    "youtubeUrl": "https://youtu.be/OHRQy0hAcVU"
+  },
+  "headline": "Committee discusses 2026 South Maui Community Plan, votes on stormwater and flood actions",
+  "topics": [
+    "Housing"
+  ],
+  "meeting": {
+    "id": "OHRQy0hAcVU",
+    "mon": "Sep",
+    "day": "30",
+    "date": "Wed, Sep 30, 2026",
+    "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+    "dur": "5 h 07 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee took up Section 3 of the plan after a Planning Department presentation and public testimony. Members voted to add a stormwater runoff action, rewrite a flood oversight action and pursue funding for nature-based flood projects.",
+    "recap": "The only agenda item was the 2026 South Maui Community Plan.[[0:06:35]] The Planning Department gave a presentation and a quiz game on the plan's updated land use designations.[[0:10:36]] A community group's president asked the county not to designate Wailea Golf land for redevelopment until the applicant shows it can be served safely.[[0:43:02]] A testifier said some people were stuck for hours trying to leave Wailea during the 2025 tsunami.[[1:21:58]] The committee began work on Section 3 of the plan.[[1:46:18]] The plan splits South Maui into six sub-areas.[[1:55:40]] A county lawyer urged caution about redesignating land the county doesn't own for a possible wastewater plant.[[2:55:54]] Members voted to add an action to develop a plan to manage stormwater runoff from county facilities in South Maui.[[3:23:06]] Members voted to rewrite a flood action to improve oversight of repairs in flood hazard areas.[[3:38:31]] Members voted to have the county pursue funding for flood projects that favor nature-based solutions.[[3:44:33]]",
+    "decided": [],
+    "next": "The chair asked staff to check with the state about designating a planned veterans home parcel as public/quasi-public.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:26:27",
+        "q": "\"Okay, now it's time for a test. I mean a game.\""
+      },
+      {
+        "t": "1:21:58",
+        "q": "\"During the 2025 tsunami, some of us were stuck for hours trying to leave Wailea.\""
+      },
+      {
+        "t": "3:57:24",
+        "q": "\"That proposal was adopted as a bundle with all the other ones without even discussing it.\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "south-maui-community-plan-review",
+        "title": "South Maui Community Plan review"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Disaster Recovery, International Affairs, and Planning Committee",
+        "group": "council",
+        "short": [
+          "DRIP"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Sep 30, 2026",
+      "oneLine": "The plan's sub-area tables list total, occupied and vacant housing units for each area.",
+      "why": "A council member said the word \"vacant\" is not very accurate for these units.",
+      "deadlines": [],
+      "next": "The chair suggested a footnote explaining where the vacant housing count comes from.",
+      "brief": "In sub-area one, 462 of 604 housing units are listed as vacant.[[#1]] Planning staff said public/quasi-public land can include affordable housing built by the government.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Sep",
+          "day": "30",
+          "source": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+          "kind": "tv",
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+          "note": "The plan's sub-area tables list total, occupied and vacant housing units for each area.",
+          "proof": "2:25:50",
+          "view": {
+            "type": "meeting",
+            "id": "OHRQy0hAcVU"
+          },
+          "seek": "2:25:50"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Sep 30",
+          "where": "Meeting video at 2:25:50",
+          "view": {
+            "type": "meeting",
+            "id": "OHRQy0hAcVU"
+          },
+          "seek": "2:25:50"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Sep 30",
+          "where": "Meeting video at 0:39:35",
+          "view": {
+            "type": "meeting",
+            "id": "OHRQy0hAcVU"
+          },
+          "seek": "0:39:35"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

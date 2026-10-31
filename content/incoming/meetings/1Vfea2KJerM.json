@@ -1,0 +1,62 @@
+{
+  "videoId": "1Vfea2KJerM",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-15T06:58:16.884Z",
+  "meetingDateISO": "2024-10-22",
+  "source": {
+    "youtubeUrl": "https://youtu.be/1Vfea2KJerM"
+  },
+  "topics": [
+    "Housing"
+  ],
+  "headline": "Maui Planning Commission Meeting - South Maui Plan",
+  "meeting": {
+    "id": "1Vfea2KJerM",
+    "mon": "Oct",
+    "day": "22",
+    "date": "Tue, Oct 22, 2024",
+    "body": "Maui Planning Commission Meeting - South Maui Plan",
+    "dur": "1 h 48 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The Maui Planning Commission heard testimony on the South Maui Community Plan, including the Promenade property, and took no action.",
+    "recap": "The Maui Planning Commission met to review the South Maui Community Plan.[[0:00:35]] The chair said the meeting would end at 5:00 so people could attend a South Maui budget session that evening.[[0:03:02]] A resort employee asked to remove two gulch and drainage areas from the plan maps.[[0:05:36]] A speaker for four short-term rental properties with 782 owners asked to change them from residential to resort hotel.[[0:16:15]] Another testifier supported keeping the gulches on the maps.[[0:24:30]] He said the project would then be mostly housing.[[0:39:23]] A landowner's representative said a proposed 150-foot setback would cut into land set aside for workforce housing at the 670 property.[[0:57:39]] A ranch representative asked to designate about 80 acres above the wastewater treatment plant for industrial use.[[1:17:54]] The commission took no action, so the next agenda will be largely the same.[[1:47:18]]",
+    "decided": [],
+    "next": "The planning department reminded commissioners to watch the South Maui advisory committee's housing forum. The next meeting will have largely the same agenda because the commission did not take action.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:35:12",
+        "q": "Promenade owner asks for Small Town Center designation"
+      },
+      {
+        "t": "0:59:02",
+        "q": "\"nothing will be built there there will be no homes\""
+      },
+      {
+        "t": "1:42:03",
+        "q": "Maui Tomorrow: \"will not stand in the way of residential on this land\""
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "south-maui-community-plan-review",
+        "title": "South Maui Community Plan review"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Maui Planning Commission",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "board"
+}

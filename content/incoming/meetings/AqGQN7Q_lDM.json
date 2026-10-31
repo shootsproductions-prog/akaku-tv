@@ -1,0 +1,76 @@
+{
+  "videoId": "AqGQN7Q_lDM",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T16:45:12.510Z",
+  "meetingDateISO": "2026-07-27",
+  "source": {
+    "youtubeUrl": "https://youtu.be/AqGQN7Q_lDM"
+  },
+  "headline": "Maui County Council Water and Infrastructure Committee",
+  "topics": [
+    "Water",
+    "Disaster Recovery"
+  ],
+  "meeting": {
+    "id": "AqGQN7Q_lDM",
+    "mon": "Jul",
+    "day": "27",
+    "date": "Mon, Jul 27, 2026",
+    "body": "Maui County Council Water and Infrastructure Committee",
+    "dur": "1 h 13 m",
+    "voteCount": 2,
+    "voteItem": "Closing public testimony",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee heard a plan for the County to buy two private West Maui water systems for up to $6 million.",
+    "recap": "The total price is up to $6 million for both systems, not counting closing costs.[[0:08:40]] The first system has 402 active connections, a $3.5 million price, and an appraised value of $8,056,000.[[0:13:05]] The second system has a $2.5 million price and an appraised value of $1.987 million.[[0:17:56]] The department plans to have the seller keep running the systems for about six months during the handover.[[0:30:56]] The department expects everything to be completed by April 2027.[[0:35:23]] A testifier from South Lahaina said they fully support the purchase.[[0:39:20]] Another testifier asked why the County is offering more than the appraised value for one system.[[0:48:51]] The department said the systems are not connected to each other or to the County system.[[0:56:30]] The department said the seller required a package deal, with both systems appraised at about $10 million together.[[0:58:09]] A County official said the County is buying the companies' assets, not the companies themselves.[[0:59:45]] The department intends to move water toward Lahaina once the systems are tied together.[[1:03:08]] The seller will need to be bonded, and County inspectors will check its work.[[1:08:51]]",
+    "decided": [
+      "Members agreed with no objections to close public testimony.",
+      "Members agreed to two rounds of three-minute questions per member."
+    ],
+    "next": "After Council action, the department needs to go to the PUC for approval. Once the PUC approves, the sale goes to escrow, roughly 20 days later. After buying the systems, the department plans to study the aging equipment to plan CIP (capital improvement) work. The department offered to provide a handout with both companies' base rates.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:08:40",
+        "q": "\"up to $6 million for both systems\""
+      },
+      {
+        "t": "0:10:35",
+        "q": "Water stewardship and the Lahaina Long-Term Recovery Plan"
+      },
+      {
+        "t": "0:34:52",
+        "q": "Proposed closing schedule"
+      },
+      {
+        "t": "0:37:52",
+        "q": "Public testimony opens"
+      },
+      {
+        "t": "0:57:25",
+        "q": "Question on gap between appraised and purchase prices"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "county-buying-private-west-maui-water-systems",
+        "title": "County buying private West Maui water systems"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Water and Infrastructure Committee",
+        "group": "council",
+        "short": [
+          "WAI"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "council"
+}

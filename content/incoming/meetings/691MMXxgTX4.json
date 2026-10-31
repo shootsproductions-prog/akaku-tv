@@ -1,0 +1,72 @@
+{
+  "videoId": "691MMXxgTX4",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-15T06:41:24.942Z",
+  "meetingDateISO": "2024-12-11",
+  "source": {
+    "youtubeUrl": "https://youtu.be/691MMXxgTX4"
+  },
+  "topics": [
+    "Disaster Recovery"
+  ],
+  "headline": "Molokai Planning Commission",
+  "meeting": {
+    "id": "691MMXxgTX4",
+    "mon": "Dec",
+    "day": "11",
+    "date": "Wed, Dec 11, 2024",
+    "body": "Molokai Planning Commission",
+    "dur": "1 h 18 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The commission approved an SMA exemption for Molokaʻi Community Health Center's renovations and heard an update on the Molokaʻi landfill.",
+    "recap": "No one signed up to give public testimony at the start.[[0:07:21]] The commission voted to change the agenda order and hear the health center request first.[[0:11:37]] The project manager said the center is now the island's only dental practice accepting all patients regardless of insurance.[[0:19:01]] She said the center has taken almost 500 new patients since January 1.[[0:19:20]] She said full completion is expected by December 2025.[[0:22:14]] She said the work was designed to avoid ground disturbance because the campus is in a flood plain.[[0:26:14]] The commission approved the exemption unanimously in a roll call vote.[[0:46:40]] He said the landfill cannot accept hazardous waste but can take some \"special waste\" under written handling rules.[[0:51:07]] He said a medium-sized disaster would probably create more debris than the landfill could hold.[[1:08:25]] Staff said the next agenda will include training for commissioners.[[1:16:01]] The next meeting was announced for January 8.[[1:17:34]]",
+    "decided": [
+      "The commission voted to hear the health center item before the landfill presentation."
+    ],
+    "next": "The health center said it expects to come back to the commission for guidance when it relocates. The landfill official said he could probably get past tonnage information and the annual report for the commission. The next agenda will include commissioner training, HR paperwork, and a planning overview. Staff is working with the Board of Ethics to clear a new commissioner, who will then be added to the agenda. Staff said a future agenda will likely include an SMA exemption for building a single-family home.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:21:21",
+        "q": "\"the SMA is the final piece that we need to resolve before we can begin construction\""
+      },
+      {
+        "t": "0:30:28",
+        "q": "Chair asks if the health center has a demolition plan for when it moves"
+      },
+      {
+        "t": "0:46:40",
+        "q": "Roll call vote on the health center exemption"
+      },
+      {
+        "t": "0:50:15",
+        "q": "Landfill presentation begins"
+      },
+      {
+        "t": "1:08:04",
+        "q": "Chair asks if the landfill could handle disaster debris"
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "molokai-landfill-limits-for-hazardous-and-disaster-debris",
+        "title": "Molokaʻi landfill limits for hazardous and disaster debris"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Molokaʻi Planning Commission",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "board"
+}

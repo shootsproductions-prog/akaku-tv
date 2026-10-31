@@ -1,0 +1,69 @@
+{
+  "videoId": "Qk0CE0sVrAw",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-09T06:42:09.918Z",
+  "meetingDateISO": "2024-01-24",
+  "source": {
+    "youtubeUrl": "https://youtu.be/Qk0CE0sVrAw"
+  },
+  "topics": [
+    "Water",
+    "Housing"
+  ],
+  "headline": "Upcountry residents weigh in on water conservation plan",
+  "meeting": {
+    "id": "Qk0CE0sVrAw",
+    "mon": "Jan",
+    "day": "24",
+    "date": "Wed, Jan 24, 2024",
+    "body": "Upcountry Maui County Dept. of Water Supply Conservation Plan Meeting",
+    "dur": "1 h 20 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The Department of Water Supply presented a proposed Upcountry water conservation plan aiming for 20% savings by 2040, and residents asked about water meters.",
+    "recap": "The department hopes to finish the plan by the end of March.[[0:05:51]] Staff said low-flow fixture programs have saved about 300,000 gallons of water per day so far.[[0:07:13]] The department is aiming for a 20% water conservation goal by 2040.[[0:18:29]] An engineering consultant described 19 possible conservation measures in nine categories.[[0:22:28]] One proposed ordinance (a county law) could set watering schedules by time of day or day of the week.[[0:29:42]] Attendees got four stickers each to mark which measures the department should prioritize.[[0:36:23]] Staff said a shortage of engineers has been the main limit on processing meter applications.[[0:46:05]] Staff said the demand forecast is based on population growth and does not include individual housing projects.[[1:01:57]] A council member said the council will be working on budgets in March and April.[[1:09:00]] Staff said the earliest a new ordinance bill could go to the council is March.[[1:09:30]]",
+    "decided": [],
+    "next": "Residents can still send ideas on comment cards or by email after the meeting. The plan goes to the department's advisory board and the state Water Commission for feedback. Staff stayed after the meeting to talk story with residents.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:22:28",
+        "q": "Consultant walks through the 19 proposed measures"
+      },
+      {
+        "t": "0:36:23",
+        "q": "Sticker poll: which measures should the department prioritize?"
+      },
+      {
+        "t": "0:43:39",
+        "q": "Question and answer: the water meter priority list"
+      },
+      {
+        "t": "1:08:42",
+        "q": "Council member on the budget timeline"
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "upcountry-water-shortage-conservation-plan",
+        "title": "Upcountry water shortage conservation plan"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Department of Water Supply",
+        "group": "county",
+        "short": [
+          "DWS"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "board"
+}
