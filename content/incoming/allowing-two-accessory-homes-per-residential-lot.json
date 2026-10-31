@@ -1,0 +1,75 @@
+{
+  "slug": "allowing-two-accessory-homes-per-residential-lot",
+  "title": "Allowing two accessory homes per residential lot",
+  "summary": "Bill 78 would allow two accessory dwelling units, or extra small homes, on residential lots. An earlier description of the bill said it would allow at least two such units on residential lots.",
+  "topics": [
+    "housing",
+    "land-use"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-05-20",
+  "lastSeenISO": "2026-06-19",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": {
+      "dateISO": "2026-12-31",
+      "what": "County must adopt its rules",
+      "source": {
+        "type": "meeting",
+        "videoId": "uMPNxxCZOYk",
+        "ts": "0:06:29",
+        "retrievedISO": "2026-10-16T21:12:39.091Z"
+      }
+    }
+  },
+  "asOfISO": "2026-10-30",
+  "timeline": [
+    {
+      "dateISO": "2026-06-19",
+      "text": "Bill 78 would allow two accessory dwelling units, or extra small homes, on residential lots.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lLsXXrEBmuw",
+        "ts": "0:52:28",
+        "endTs": "0:52:58",
+        "retrievedISO": "2026-10-16T18:09:11.606Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-05-20",
+      "text": "That bill would allow at least two accessory dwelling units, or extra homes, on residential lots.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "y1OOtPpBzeU",
+        "ts": "2:43:00",
+        "endTs": "2:43:30",
+        "retrievedISO": "2026-10-17T00:13:37.925Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    },
+    {
+      "name": "Housing and Land Use Committee",
+      "group": "council",
+      "short": [
+        "HLU"
+      ]
+    }
+  ],
+  "bills": [
+    "Bill 78 (2026)"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
