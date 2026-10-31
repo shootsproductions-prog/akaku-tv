@@ -1,0 +1,114 @@
+{
+  "videoId": "ZpCop-IEXjk",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-21T12:47:06.104Z",
+  "meetingDateISO": "2025-04-08",
+  "headline": "Budget committee reviews emergency agency plan, hears public testimony",
+  "topics": [
+    "Disaster Recovery"
+  ],
+  "bodyType": "council",
+  "meeting": {
+    "id": "ZpCop-IEXjk",
+    "mon": "Apr",
+    "day": "8",
+    "date": "Tue, Apr 8, 2025",
+    "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+    "dur": "2 h 18 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee heard the emergency management agency's 2026 budget request and public testimony, and the chair deferred the item without decisions.",
+    "recap": "The emergency management administrator presented his agency's budget for fiscal year 2026.[[0:04:46]] He asked the committee to fund 22 positions proposed last fiscal year plus three new positions.[[0:05:59]] A wedding and event business owner said the fires left the industry in a dire situation.[[0:12:45]] A council member said permanent debris hauling in West Maui starts in June, with about 50 truck round trips a day.[[0:17:18]] A community group representative asked for $100,000 to fix the roof of the group's hall.[[0:26:40]] A resident said part of a planned Haʻikū fire station project would run through his family's kuleana (family land) parcel.[[0:33:16]] He said the final environmental study was done in summer 2024, but his family was not contacted until October 2024.[[0:41:13]] The administrator said there were no clear procedures for how emergency funds were spent.[[0:55:16]] He said a partner applied for a grant to study West Maui evacuation and awaits an award.[[0:58:33]] The administrator said the agency wants backup power for a main radio partner so it can broadcast nonstop.[[1:31:26]] With only a bare quorum (the fewest members needed to meet), the chair said no decisions would be made.[[2:05:58]] The chair deferred the item and adjourned the meeting.[[2:17:36]]",
+    "decided": [
+      "The chair deferred the agenda item without a vote."
+    ],
+    "next": "The budget director said the Mayor intends to look at emergency management position salaries and possibly make changes. The chair said she would talk with the administrator after the meeting about personnel.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:31:54",
+        "q": "\"No, no, the roof is leaking today.\""
+      },
+      {
+        "t": "0:36:53",
+        "q": "\"You folks have been put on notice.\""
+      },
+      {
+        "t": "1:32:45",
+        "q": "\"There was Hawaiian music playing.\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [],
+    "boards": [
+      {
+        "name": "Budget, Finance, and Economic Development Committee",
+        "group": "council",
+        "short": [
+          "BFED"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Disaster Recovery",
+      "since": "Apr 8, 2025",
+      "oneLine": "A council member said permanent debris hauling in West Maui starts in June, with about 50 truck round trips a day.",
+      "why": "The emergency management administrator said disaster recovery costs are complicated and need clearer procedures.",
+      "deadlines": [
+        {
+          "d": "starting June",
+          "t": "Permanent debris transport begins."
+        }
+      ],
+      "next": "The administrator said a finance chief position would help build those procedures.",
+      "brief": "A wedding and event business owner said the fires left the industry in a dire situation.[[#1]] A council member said debris hauling will run from sunup to sundown during West Maui canoe regattas.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Apr",
+          "day": "8",
+          "source": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "kind": "tv",
+          "title": "Budget committee reviews emergency agency plan, hears public testimony",
+          "note": "A council member said permanent debris hauling in West Maui starts in June, with about 50 truck round trips a day.",
+          "proof": "0:12:45",
+          "view": {
+            "type": "meeting",
+            "id": "ZpCop-IEXjk"
+          },
+          "seek": "0:12:45"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 8",
+          "where": "Meeting video at 0:12:45",
+          "view": {
+            "type": "meeting",
+            "id": "ZpCop-IEXjk"
+          },
+          "seek": "0:12:45"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 8",
+          "where": "Meeting video at 0:17:41",
+          "view": {
+            "type": "meeting",
+            "id": "ZpCop-IEXjk"
+          },
+          "seek": "0:17:41"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "youtubeUrl": "https://youtu.be/ZpCop-IEXjk"
+  }
+}

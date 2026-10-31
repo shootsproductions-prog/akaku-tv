@@ -1,0 +1,68 @@
+{
+  "videoId": "ylzQrfRgg-g",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-15T06:49:12.016Z",
+  "meetingDateISO": "2024-11-18",
+  "headline": "Maui County Commission on Children and Youth",
+  "topics": [],
+  "bodyType": "board",
+  "meeting": {
+    "id": "ylzQrfRgg-g",
+    "mon": "Nov",
+    "day": "18",
+    "date": "Mon, Nov 18, 2024",
+    "body": "Maui County Commission on Children and Youth",
+    "dur": "43 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The commission reviewed sample Talking Is Teaching bus posters and heard its budget cannot cover printing while donation rules are researched.",
+    "recap": "The commission moved its Talking Is Teaching poster item up because the presenter had to leave early.[[0:02:08]] The presenter showed sample posters meant for display on buses.[[0:03:06]] The chair said about 70 posters would be needed.[[0:13:21]] The chair said $20 per poster was only a guess.[[0:13:37]] One speaker said the commission's budget could not cover even the printing.[[0:17:31]] The lawyer said the Sunshine Law (an open-meetings law) keeps commissioners from meeting as a group outside a public meeting.[[0:20:35]] The lawyer confirmed the poster printing is exempt from the procurement code (purchasing rules).[[0:27:03]] Whether the commission may ask for donations is still being researched.[[0:28:02]] A motion to approve the September 16 minutes was seconded, but no vote was heard.[[0:30:13]] A commissioner said the school bus issue is close to being resolved.[[0:36:50]] A speaker raised Bill 145, a property tax exemption for child care providers.[[0:38:56]] The speaker said committees raised the proposed exemption from $100,000 to $200,000.[[0:39:20]]",
+    "decided": [
+      "A commissioner moved to approve the minutes and the chair said it was seconded, but no vote was heard in the recording."
+    ],
+    "next": "The chair asked for the poster samples by email so they can be sent to commissioners to review and vote on. One speaker suggested asking the budget office for a briefing on the county budget process. The lawyer recommended the department send a request for legal services on whether the commission may ask for donations. The chair said they hope to have the community survey ready by December. A speaker asked to put family engagement surveys from the early childhood sector on the next agenda. The chair asked commissioners to read about Bill 145 and discuss it at the next meeting.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:11:08",
+        "q": "\"I was under the impression that the cost would be covered\""
+      },
+      {
+        "t": "0:27:03",
+        "q": "Printing is exempt from the procurement code"
+      },
+      {
+        "t": "0:38:56",
+        "q": "Bill 145: property tax exemption for child care providers"
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "talking-is-teaching-bus-posters-and-donations",
+        "title": "Talking Is Teaching bus posters and donations"
+      },
+      {
+        "slug": "bill-145-property-tax-exemption-for-child-care",
+        "title": "Bill 145 property tax exemption for child care"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Commission on Children and Youth",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": [
+      "Bill 145 (2024)"
+    ]
+  },
+  "issues": [],
+  "source": {
+    "youtubeUrl": "https://youtu.be/ylzQrfRgg-g"
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "videoId": "bNJZc33FonA",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T17:05:01.211Z",
+  "meetingDateISO": "2026-07-27",
+  "headline": "Committee hears tiny-home village update and storm damage to parks",
+  "topics": [
+    "Housing",
+    "Disaster Recovery"
+  ],
+  "bodyType": "council",
+  "meeting": {
+    "id": "bNJZc33FonA",
+    "mon": "Jul",
+    "day": "27",
+    "date": "Mon, Jul 27, 2026",
+    "body": "Maui County Council Water Authority, Social Services, and Parks Committee",
+    "dur": "2 h 08 m",
+    "voteCount": 2,
+    "voteItem": "Update on Maui's first kauhale (tiny-home village) community",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee heard updates on a 64-home tiny-home village for homeless people and on storm damage to county parks, including the closed Kula gym.",
+    "recap": "The committee heard an update on a 64-home tiny-home village for people who are homeless.[[0:13:29]] Each tiny home is 100 square feet and has air conditioning.[[0:16:48]] The village received 538 applications in its first eight months.[[0:26:20]] Residents pay a program fee of $450 a month, all included.[[1:08:10]] Three residents have moved into permanent housing so far.[[1:27:19]] The committee deferred the housing item, meaning it was held for later, with no objections.[[1:28:06]] Only one contractor bid to tarp the open part of the gym, at $1.9 million.[[1:31:18]] The department said FEMA left parks out of its categories of work for this storm event.[[1:38:44]] A Kula resident asked whether the gym will be rebuilt, and when.[[1:45:51]] Parks said it has no timeline yet for the gym.[[1:56:08]] Repair costs may be repaid six to nine months after full invoices go to FEMA.[[1:58:24]]",
+    "decided": [
+      "The committee deferred the update on the tiny-home village with no objections.",
+      "The chair asked for objections to deferring the parks storm update; the captions do not record a reply."
+    ],
+    "next": "The chair said a member's question about two other converted facilities will be sent in writing. A member asked the Parks Department to keep the council informed about the Kula gym, and the department agreed.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "1:22:28",
+        "q": "\"how can versus why no can\""
+      },
+      {
+        "t": "1:27:19",
+        "q": "Three exits into permanent housing, none to the streets"
+      },
+      {
+        "t": "1:31:18",
+        "q": "$1.9 million bid to tarp the gym"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "storm-damaged-parks-and-closed-kula-gym",
+        "title": "Storm-damaged parks and closed Kula gym"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Water Authority, Social Services, and Parks Committee",
+        "group": "council",
+        "short": [
+          "WASSP"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Jul 27, 2026",
+      "oneLine": "A nonprofit runs a 64-home tiny-home village for people who are homeless.",
+      "why": "The nonprofit's leader called it the community's first development for deeply affordable housing.",
+      "deadlines": [],
+      "next": "The nonprofit's chief executive officer said he can get the breakdown of who paid for the village.",
+      "brief": "About 80% of applicants are single men and 20% are women.[[#1]] The village opened to residents in December and became full last month.[[#2]] Residents sign a six-month program agreement that can be renewed monthly.[[#3]] Applicants are taken on a first-come, first-served basis.[[#4]]",
+      "timeline": [
+        {
+          "mon": "Jul",
+          "day": "27",
+          "source": "Maui County Council Water Authority, Social Services, and Parks Committee",
+          "kind": "tv",
+          "title": "Committee hears tiny-home village update and storm damage to parks",
+          "note": "A nonprofit runs a 64-home tiny-home village for people who are homeless.",
+          "proof": "0:16:27",
+          "view": {
+            "type": "meeting",
+            "id": "bNJZc33FonA"
+          },
+          "seek": "0:16:27"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Jul 27",
+          "where": "Meeting video at 0:16:27",
+          "view": {
+            "type": "meeting",
+            "id": "bNJZc33FonA"
+          },
+          "seek": "0:16:27"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Jul 27",
+          "where": "Meeting video at 1:14:57",
+          "view": {
+            "type": "meeting",
+            "id": "bNJZc33FonA"
+          },
+          "seek": "1:14:57"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Jul 27",
+          "where": "Meeting video at 1:15:40",
+          "view": {
+            "type": "meeting",
+            "id": "bNJZc33FonA"
+          },
+          "seek": "1:15:40"
+        },
+        {
+          "n": 4,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Jul 27",
+          "where": "Meeting video at 1:15:18",
+          "view": {
+            "type": "meeting",
+            "id": "bNJZc33FonA"
+          },
+          "seek": "1:15:18"
+        }
+      ]
+    },
+    {
+      "issue": "Disaster Recovery",
+      "since": "Jul 27, 2026",
+      "oneLine": "Storms damaged county parks, and the Kula gym remains closed.",
+      "why": "The department said FEMA leaving parks out of its categories of work affects financial recovery.",
+      "deadlines": [
+        {
+          "d": "within the next 30 days",
+          "t": "Emergency work projects submitted to FEMA with all costs."
+        }
+      ],
+      "next": "",
+      "brief": "Parks said there is no other gym close by for Kula kids to use.[[#1]] Repairing a golf course driving range is estimated to cost $657,000.[[#2]] Parks said tree removal so far has been paid from its general fund budget.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Jul",
+          "day": "27",
+          "source": "Maui County Council Water Authority, Social Services, and Parks Committee",
+          "kind": "tv",
+          "title": "Committee hears tiny-home village update and storm damage to parks",
+          "note": "Storms damaged county parks, and the Kula gym remains closed.",
+          "proof": "1:51:07",
+          "view": {
+            "type": "meeting",
+            "id": "bNJZc33FonA"
+          },
+          "seek": "1:51:07"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Jul 27",
+          "where": "Meeting video at 1:51:07",
+          "view": {
+            "type": "meeting",
+            "id": "bNJZc33FonA"
+          },
+          "seek": "1:51:07"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Jul 27",
+          "where": "Meeting video at 1:36:55",
+          "view": {
+            "type": "meeting",
+            "id": "bNJZc33FonA"
+          },
+          "seek": "1:36:55"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Jul 27",
+          "where": "Meeting video at 2:01:16",
+          "view": {
+            "type": "meeting",
+            "id": "bNJZc33FonA"
+          },
+          "seek": "2:01:16"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "youtubeUrl": "https://youtu.be/bNJZc33FonA"
+  }
+}

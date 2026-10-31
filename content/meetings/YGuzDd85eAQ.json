@@ -1,0 +1,225 @@
+{
+  "videoId": "YGuzDd85eAQ",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-17T04:46:58.284Z",
+  "meetingDateISO": "2026-04-06",
+  "headline": "Budget committee takes up fiscal year 27 budget, hearing fire, housing and public testimony",
+  "topics": [
+    "Water",
+    "Housing",
+    "Disaster Recovery"
+  ],
+  "bodyType": "council",
+  "meeting": {
+    "id": "YGuzDd85eAQ",
+    "mon": "Apr",
+    "day": "6",
+    "date": "Mon, Apr 6, 2026",
+    "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+    "dur": "3 h 15 m",
+    "voteCount": 1,
+    "voteItem": "Close public testimony",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee reviewed the proposed fiscal year 27 County of Maui budget, with the fire chief reporting a 0.6% increase and the housing department asking for $4.4 million more for rental assistance. The chair closed public testimony and accepted written testimony.",
+    "recap": "The committee had one item: the proposed fiscal year 27 budget for the County of Maui.[[0:05:29]] The fire chief said the fire department's budget is nearly flat, with a 0.6% increase.[[0:16:42]] The housing department asked for $4.4 million more for its rental assistance program.[[0:19:57]] A Pāʻia youth center asked for $554,000 but is in the budget for $350,000.[[0:32:26]] A testifier backed a $4.5 million Affordable Housing Fund request for supported housing in Pāʻia for adults with intellectual and developmental disabilities.[[0:49:39]] A testifier said wastewater disinfection in Kahului stopped in 2018.[[1:04:13]] A member said fire calls rose from 10,931 in 2016 to 17,497 in 2025.[[1:49:12]] The chair recommended moving the South Maui district meeting because of a water outage at the building with district offices and the weather report.[[2:13:14]] The South Maui meeting moves to Tuesday the 14th.[[2:15:00]] The West Maui meeting moves to the 17th.[[2:15:04]] The housing department said county money would keep an interim housing program running through February of next year.[[2:56:25]] The chair said the proposed budget includes $174 million in carryover savings.[[3:08:36]] The chair said the budget asks for more than 90 new positions.[[3:10:00]]",
+    "decided": [
+      "The chair closed public testimony for the meeting and accepted written testimony, with no objections.",
+      "The committee rescheduled the South Maui and West Maui residency area meetings because of the weather and a water outage."
+    ],
+    "next": "The fire chief said the Haʻikū fire station will come to the council soon for approval after the Planning Commission approved it. The fire chief said the lifeguards' arbitrator will have 30 days to decide after lawyers file final briefs. Staff will put out a press release about the rescheduled meetings. The housing director said the department will send members a copy of its housing RFP (request for proposals) and the share of the fund not spent last year. Staff are working with the budget director on an adjusted meeting schedule.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:16:00",
+        "q": "Fire department opening comments"
+      },
+      {
+        "t": "0:29:18",
+        "q": "Public testimony begins"
+      },
+      {
+        "t": "2:13:02",
+        "q": "District meetings rescheduled"
+      },
+      {
+        "t": "3:05:26",
+        "q": "Chair's budget outlook"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "disinfecting-wastewater-that-reaches-the-ocean",
+        "title": "Disinfecting wastewater that reaches the ocean"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Budget, Finance, and Economic Development Committee",
+        "group": "council",
+        "short": [
+          "BFED"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Water",
+      "since": "Apr 6, 2026",
+      "oneLine": "A testifier raised concerns about wastewater treatment in Kahului.",
+      "why": "The testifier said he believes people are getting sick and that limits are being exceeded in the water.",
+      "deadlines": [],
+      "next": "",
+      "brief": "At a Haʻikū-area community meeting, residents spoke about water testing of surface water and streams.[[#1]] The testifier said wastewater disinfection stopped in 2018.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Apr",
+          "day": "6",
+          "source": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "kind": "tv",
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "note": "A testifier raised concerns about wastewater treatment in Kahului.",
+          "proof": "0:09:12",
+          "view": {
+            "type": "meeting",
+            "id": "YGuzDd85eAQ"
+          },
+          "seek": "0:09:12"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 6",
+          "where": "Meeting video at 0:09:12",
+          "view": {
+            "type": "meeting",
+            "id": "YGuzDd85eAQ"
+          },
+          "seek": "0:09:12"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 6",
+          "where": "Meeting video at 1:04:13",
+          "view": {
+            "type": "meeting",
+            "id": "YGuzDd85eAQ"
+          },
+          "seek": "1:04:13"
+        }
+      ]
+    },
+    {
+      "issue": "Housing",
+      "since": "Apr 6, 2026",
+      "oneLine": "The housing department presented its budget, including $4.4 million more for rental assistance.",
+      "why": "A testifier said demand for affordable housing will likely exceed what is available.",
+      "deadlines": [],
+      "next": "The housing department will send members its RFP and the share of the fund not spent last year.",
+      "brief": "The housing department expects a 50% cut in Housing Trust Fund money.[[#1]] Aloha House asked for $2 million to buy two new sober living homes.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Apr",
+          "day": "6",
+          "source": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "kind": "tv",
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "note": "The housing department presented its budget, including $4.4 million more for rental assistance.",
+          "proof": "0:22:11",
+          "view": {
+            "type": "meeting",
+            "id": "YGuzDd85eAQ"
+          },
+          "seek": "0:22:11"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 6",
+          "where": "Meeting video at 0:22:11",
+          "view": {
+            "type": "meeting",
+            "id": "YGuzDd85eAQ"
+          },
+          "seek": "0:22:11"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 6",
+          "where": "Meeting video at 1:19:21",
+          "view": {
+            "type": "meeting",
+            "id": "YGuzDd85eAQ"
+          },
+          "seek": "1:19:21"
+        }
+      ]
+    },
+    {
+      "issue": "Disaster Recovery",
+      "since": "Apr 6, 2026",
+      "oneLine": "County money would keep an interim housing program that first housed wildfire survivors running through February of next year.",
+      "why": "The chair said flood-impacted communities in many districts need support after recent storms.",
+      "deadlines": [],
+      "next": "The county is picking a developer, who will get a sublease to develop the interim housing property.",
+      "brief": "A member said a fire station helped kūpuna who needed power for oxygen tanks when electricity went out during a storm.[[#1]] The housing director said the interim housing facility included wildfire survivors when it was first filled.[[#2]] The housing department issued an RFP in March to redevelop the interim housing property.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Apr",
+          "day": "6",
+          "source": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "kind": "tv",
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "note": "County money would keep an interim housing program that first housed wildfire survivors running through February of next year.",
+          "proof": "1:51:30",
+          "view": {
+            "type": "meeting",
+            "id": "YGuzDd85eAQ"
+          },
+          "seek": "1:51:30"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 6",
+          "where": "Meeting video at 1:51:30",
+          "view": {
+            "type": "meeting",
+            "id": "YGuzDd85eAQ"
+          },
+          "seek": "1:51:30"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 6",
+          "where": "Meeting video at 2:57:23",
+          "view": {
+            "type": "meeting",
+            "id": "YGuzDd85eAQ"
+          },
+          "seek": "2:57:23"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 6",
+          "where": "Meeting video at 2:57:42",
+          "view": {
+            "type": "meeting",
+            "id": "YGuzDd85eAQ"
+          },
+          "seek": "2:57:42"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "youtubeUrl": "https://youtu.be/YGuzDd85eAQ"
+  }
+}

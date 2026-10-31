@@ -1,0 +1,73 @@
+{
+  "videoId": "ic0yx8fVvEE",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-12T06:32:22.394Z",
+  "meetingDateISO": "2026-08-19",
+  "headline": "Maui Police Commission",
+  "topics": [],
+  "bodyType": "board",
+  "meeting": {
+    "id": "ic0yx8fVvEE",
+    "mon": "Aug",
+    "day": "19",
+    "date": "Wed, Aug 19, 2026",
+    "body": "Maui Police Commission",
+    "dur": "52 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "In closed session, the Maui Police Commission voted to suggest unpaid leave for a lieutenant and approved hiring an investigator.",
+    "recap": "The commission received 17 written testimonies on agenda item 6A.[[0:01:59]] Eight juveniles were arrested for riot in that case.[[0:10:15]] The case was referred to the FBI for possible hate crime implications.[[0:10:28]] The department gave back over $5 million in unspent salary money at the end of the fiscal year.[[0:20:35]] As of August 12, 44 police applicants were in the hiring process.[[0:31:47]] The commission voted 8 to 1 to go into executive session (a closed-door discussion).[[0:47:29]] In closed session, the commission voted to suggest that a lieutenant be put on administrative leave without pay.[[0:49:29]] The commission voted 7 to 0 to hire an investigator.[[0:49:53]] The investigation will look at oversight of the police criminal intelligence unit.[[0:50:12]] It will also look at how the chief responded when he learned of the unit's issues.[[0:51:03]] The commission voted 5 to 2 to hire a commission investigator recommended by one of its working groups.[[0:51:24]]",
+    "decided": [
+      "A letter of commendation for a police officer was filed without objection.",
+      "The commission voted to suggest that a lieutenant be put on administrative leave without pay.",
+      "The commission approved hiring an investigator, with a scope to be outlined by corporation counsel.",
+      "The commission voted to accept a working group's recommendation on who to hire as commission investigator."
+    ],
+    "next": "The commission will bring its unpaid leave suggestion to the administration. The chief agreed to provide more statistics, including month-to-date, year-to-date and year-over-year comparisons.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:10:28",
+        "q": "Kāʻanapali fight case referred to the FBI"
+      },
+      {
+        "t": "0:40:08",
+        "q": "Public testimony on allegations against a police commander"
+      },
+      {
+        "t": "0:49:19",
+        "q": "Executive session results announced"
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "investigation-of-police-criminal-intelligence-unit-oversight",
+        "title": "Investigation of police criminal intelligence unit oversight"
+      },
+      {
+        "slug": "kaanapali-fight-case-referred-to-the-fbi",
+        "title": "Kāʻanapali fight case referred to the FBI"
+      },
+      {
+        "slug": "police-hiring-and-unspent-salary-money",
+        "title": "Police hiring and unspent salary money"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Police Commission",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "source": {
+    "youtubeUrl": "https://youtu.be/ic0yx8fVvEE"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "videoId": "iEkzGiAP0Q4",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-15T06:55:06.213Z",
+  "meetingDateISO": "2024-11-06",
+  "headline": "Commission delays in-person meetings, hears update on empty seats",
+  "topics": [],
+  "bodyType": "board",
+  "meeting": {
+    "id": "iEkzGiAP0Q4",
+    "mon": "Nov",
+    "day": "6",
+    "date": "Wed, Nov 6, 2024",
+    "body": "Civil Service Commission",
+    "dur": "31 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The Civil Service Commission set April 2025 as a tentative date to meet in person and learned two empty seats will stay open.",
+    "recap": "The Civil Service Commission met online on November 6.[[0:00:33]] The commission approved its October 2, 2024 meeting minutes.[[0:01:50]] In-person meetings had been set to resume in January 2025.[[0:02:23]] The director of Personnel Services said the building is still under construction.[[0:02:55]] The chair set April 2025 as a tentative date to meet in person again.[[0:04:10]] That seat can be filled in a \"mass nomination,\" when many terms end on March 31.[[0:06:43]] A commissioner suggested also getting input from about three department leaders.[[0:17:30]] The director said the County's move to Microsoft 365 may replace WebEx with Microsoft Teams.[[0:19:10]] The director said the County negotiated a pay increase for engineering jobs.[[0:20:03]] Those jobs have had vacancy rates of about 30%.[[0:20:39]] The department received 2,379 job applications in the quarter.[[0:23:18]] A commissioner asked why personnel transactions now take five days instead of three.[[0:25:27]] The next meeting is December 4, 2024.[[0:30:08]] The commission voted to adjourn.[[0:30:26]]",
+    "decided": [
+      "The commission approved the minutes as presented by a unanimous voice vote.",
+      "The chair set April 2025 as a tentative date to resume in-person meetings, without a vote.",
+      "The commission voted unanimously to adjourn its regular meeting."
+    ],
+    "next": "Staff agreed to tell the commission if anything changes that could help fill the empty seats. The director said she will look into why transaction times went up. Payroll is testing the new engineering salary schedule and hopes to start it by next month.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:02:23",
+        "q": "Discussion of returning to in-person meetings"
+      },
+      {
+        "t": "0:04:55",
+        "q": "Update on the independent nomination board and empty seats"
+      },
+      {
+        "t": "0:15:38",
+        "q": "Director's performance review process"
+      },
+      {
+        "t": "0:18:50",
+        "q": "Director's monthly report begins"
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "2027-mass-nominations-for-county-boards",
+        "title": "2027 mass nominations and the vote on dissolving the nomination board"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Civil Service Commission",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "source": {
+    "youtubeUrl": "https://youtu.be/iEkzGiAP0Q4"
+  }
+}

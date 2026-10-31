@@ -1,0 +1,72 @@
+{
+  "videoId": "YXklH_FH7zQ",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-14T06:48:21.530Z",
+  "meetingDateISO": "2026-07-15",
+  "headline": "Planning commission hears zoning rewrite and shoreline rules briefings",
+  "topics": [],
+  "bodyType": "board",
+  "meeting": {
+    "id": "YXklH_FH7zQ",
+    "mon": "Jul",
+    "day": "15",
+    "date": "Wed, Jul 15, 2026",
+    "body": "Lānaʻi Planning Commission",
+    "dur": "1 h 45 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "Commissioners heard briefings on the zoning code rewrite and shoreline rules; new SMA minor permit rules head to the mayor for signature.",
+    "recap": "The Lānaʻi Planning Commission met on July 15, 2026, with a quorum.[[0:00:30]] The chair welcomed new commissioner Paul Taylor.[[0:01:14]] He said the County Council, not the commission, has the final say on zoning code changes.[[0:20:10]] The first module, a group of draft chapters, is planned to come to the commission later this summer or fall.[[0:31:50]] Long-range planning staff said an update of the Lānaʻi community plan is a while away.[[1:01:24]] Staff said 22 of the 152 actions in the Lānaʻi community plan are completed, and 30 have not begun.[[1:07:58]] A staff planner explained the rules for the special management area (SMA), a protected zone along the coast.[[1:13:45]] She said a 2020 state law raised the minimum shoreline setback to 40 feet.[[1:34:13]] She said no new seawalls are allowed statewide.[[1:34:39]] The next step is to send the rules to the mayor to sign.[[1:37:55]] The chair asked that the planning director attend the next meeting.[[1:42:36]] Staff said there are no agenda items yet for the August 19th meeting.[[1:42:57]]",
+    "decided": [],
+    "next": "Staff will send the SMA minor permit rules to the mayor for his signature, which makes them official. Staff said they can ask the planning director to attend the next meeting.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:18:19",
+        "q": "\"It is a land use tool, not a magic wand.\""
+      },
+      {
+        "t": "1:00:32",
+        "q": "Question on when the Lānaʻi community plan will be updated"
+      },
+      {
+        "t": "1:13:45",
+        "q": "Special management area and shoreline rules overview begins"
+      },
+      {
+        "t": "1:36:49",
+        "q": "Director's report begins"
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "lanai-minor-sma-permit-rule-change",
+        "title": "Lānaʻi minor SMA permit rule change"
+      },
+      {
+        "slug": "rewrite-of-title-19-county-zoning-code",
+        "title": "Rewrite of Title 19 county zoning code"
+      },
+      {
+        "slug": "lanai-community-plan-update-timing",
+        "title": "Lānaʻi community plan update timing"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Lānaʻi Planning Commission",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "source": {
+    "youtubeUrl": "https://youtu.be/YXklH_FH7zQ"
+  }
+}
