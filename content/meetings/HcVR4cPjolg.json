@@ -1,0 +1,127 @@
+{
+  "videoId": "HcVR4cPjolg",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T17:24:56.016Z",
+  "meetingDateISO": "2026-07-01",
+  "headline": "Committee recommends Lahaina church rezoning bill as amended, 9-0",
+  "topics": [
+    "Housing",
+    "Disaster Recovery"
+  ],
+  "bodyType": "council",
+  "meeting": {
+    "id": "HcVR4cPjolg",
+    "mon": "Jul",
+    "day": "1",
+    "date": "Wed, Jul 1, 2026",
+    "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+    "dur": "56 m",
+    "voteCount": 1,
+    "voteItem": "Friendly amendment to include a land zoning map",
+    "ayes": null,
+    "noes": null,
+    "summary": "The 9-0 vote covers Bill 94-2026, which would rezone Lahaina United Methodist Church land from R2 Residential to P1 Public/Quasi-Public, with acreage amended to 3.26. A land use zoning map and committee report are needed before first reading.",
+    "recap": "The committee took up Bill 94-2026, to rezone Lahaina United Methodist Church land from residential to public/quasi-public use.[[0:06:38]] The church burned down in August 2023 and wants to rebuild.[[0:07:22]] The church's deed shows the land is about 3.26 acres, so the bill needed an amendment.[[0:09:16]] The pastor said the church is holding services on the property again.[[0:10:33]] No one signed up for public testimony.[[0:17:26]] The planning director had concerns about the bill's conditions of zoning, which are extra rules tied to a rezoning.[[0:22:34]] The planning department supports the rezoning because it matches past uses and the community plan.[[0:25:35]] The pastor said a parsonage and a duplex housing two families are on the property.[[0:29:04]] The public works director said combining the two lots could cost about $5,000 to $10,000.[[0:36:07]] The pastor said the church would likely be interested in combining the lots, pending its church council's approval.[[0:36:48]] Amendments changed the acreage to 3.26 acres and used the deed's property description.[[0:50:32]] The amendments passed with nine ayes and zero noes.[[0:53:40]] The main motion, recommending the bill as amended, passed with nine ayes and zero noes.[[0:54:53]] The committee now waits for a land use zoning map and a committee report before first reading.[[0:55:09]]",
+    "decided": [
+      "Members agreed without objection to add a land zoning map to the motion in time for first reading."
+    ],
+    "next": "A land use zoning map and a committee report are needed before the bill moves to first reading.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:10:33",
+        "q": "\"it's wonderful to be back in Lahaina\""
+      },
+      {
+        "t": "0:15:30",
+        "q": "Deputy corporation counsel recommends removing Section 1 of the bill"
+      },
+      {
+        "t": "0:55:00",
+        "q": "Final vote: nine ayes, zero noes"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [],
+    "boards": [
+      {
+        "name": "Disaster Recovery, International Affairs, and Planning Committee",
+        "group": "council",
+        "short": [
+          "DRIP"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 94 (2026)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Disaster Recovery",
+      "since": "Jul 1, 2026",
+      "oneLine": "Lahaina United Methodist Church, which burned down in August 2023, is seeking a rezoning so it can rebuild.",
+      "why": "The pastor said the church wants to use the property to benefit the community.",
+      "deadlines": [
+        {
+          "d": "2029",
+          "t": "Special management area exemption expires."
+        }
+      ],
+      "next": "The committee is waiting for a land use zoning map and a committee report before first reading.",
+      "brief": "The bill would change the zoning from R2 Residential to P1 Public/Quasi-Public.[[#1]] The Office of Recovery said required improvements can be handled at the building permit stage.[[#2]] The committee voted nine to zero to recommend the bill as amended.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Jul",
+          "day": "1",
+          "source": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+          "kind": "tv",
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+          "note": "Lahaina United Methodist Church, which burned down in August 2023, is seeking a rezoning so it can rebuild.",
+          "proof": "0:06:38",
+          "view": {
+            "type": "meeting",
+            "id": "HcVR4cPjolg"
+          },
+          "seek": "0:06:38"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Jul 1",
+          "where": "Meeting video at 0:06:38",
+          "view": {
+            "type": "meeting",
+            "id": "HcVR4cPjolg"
+          },
+          "seek": "0:06:38"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Jul 1",
+          "where": "Meeting video at 0:15:00",
+          "view": {
+            "type": "meeting",
+            "id": "HcVR4cPjolg"
+          },
+          "seek": "0:15:00"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Jul 1",
+          "where": "Meeting video at 0:55:00",
+          "view": {
+            "type": "meeting",
+            "id": "HcVR4cPjolg"
+          },
+          "seek": "0:55:00"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "youtubeUrl": "https://youtu.be/HcVR4cPjolg"
+  }
+}

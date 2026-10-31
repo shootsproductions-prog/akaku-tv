@@ -1,0 +1,67 @@
+{
+  "videoId": "NOJbdAOpcZw",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T16:14:23.912Z",
+  "meetingDateISO": "2026-07-29",
+  "headline": "Maui County Council Housing and Land Use Committee",
+  "topics": [
+    "Disaster Recovery"
+  ],
+  "bodyType": "council",
+  "meeting": {
+    "id": "NOJbdAOpcZw",
+    "mon": "Jul",
+    "day": "29",
+    "date": "Wed, Jul 29, 2026",
+    "body": "Maui County Council Housing and Land Use Committee",
+    "dur": "2 h 29 m",
+    "voteCount": 3,
+    "voteItem": "Designate project consultants as resource persons under Rule 18A",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee heard testimony on three bills for a proposed Haʻikū Fire Station and went into recess at 12:09.",
+    "recap": "The station would use about 6.1 acres of a 27.9-acre county-owned property.[[0:04:08]] The bills would change the site's agricultural designations to rural and public/quasi-public (public facility) uses.[[0:04:15]] The Maui Planning Commission voted to recommend approval.[[0:04:40]] A testifier asked the committee to pick Site D over Site B, citing land title conflicts.[[0:22:37]] A Lahaina fire survivor testified that funding meant for Lahaina should stay in Lahaina.[[0:29:12]] A testifier said the county has not followed through on consultation about burials reported on the property.[[1:23:43]] The committee chair stepped aside after a conflict-of-interest question was raised.[[1:37:30]] The fire chief said the project currently has no federal funding and uses only county funds.[[1:49:33]] The deputy corporation counsel (county lawyer) said a title report shows the county owns the parcel free and clear.[[2:11:45]] A resource person said the county's title is not clear.[[2:17:19]]",
+    "decided": [
+      "With no objections, the project consultants were named resource persons for the meeting.",
+      "Oral testimony was closed without objection.",
+      "The meeting was put in recess."
+    ],
+    "next": "The temporary chair said a formal Board of Ethics opinion is hoped for by the recess date. If the committee recommends the bills, they would go to the full council for first and second reading. The committee will continue this meeting on a later date using the same Teams link and conference room.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:21:31",
+        "q": "Public testimony begins"
+      },
+      {
+        "t": "1:38:35",
+        "q": "Temporary chair vote"
+      },
+      {
+        "t": "1:49:33",
+        "q": "Fire chief: \"So this is all county funds.\""
+      },
+      {
+        "t": "2:02:15",
+        "q": "County lawyer shows parcel map on title"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [],
+    "boards": [
+      {
+        "name": "Housing and Land Use Committee",
+        "group": "council",
+        "short": [
+          "HLU"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "source": {
+    "youtubeUrl": "https://youtu.be/NOJbdAOpcZw"
+  }
+}

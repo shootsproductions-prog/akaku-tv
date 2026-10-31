@@ -1,0 +1,74 @@
+{
+  "videoId": "R_MPvIqY5cU",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-15T06:37:39.618Z",
+  "meetingDateISO": "2026-05-21",
+  "headline": "Maui Fire Commission",
+  "topics": [],
+  "bodyType": "board",
+  "meeting": {
+    "id": "R_MPvIqY5cU",
+    "mon": "May",
+    "day": "21",
+    "date": "Thu, May 21, 2026",
+    "body": "Maui Fire Commission",
+    "dur": "42 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The Fire and Public Safety Commission re-elected its chair and heard salary and emergency management updates before audio problems ended the meeting.",
+    "recap": "The Fire and Public Safety Commission met on Thursday, May 21.[[0:00:35]] The commission approved the minutes of its last meeting in a vote the chair called unanimous.[[0:03:21]] Commissioners re-elected the chair for another one-year term by a unanimous vote.[[0:09:02]] The sitting vice chair withdrew from the vice chair race.[[0:12:22]] Commissioners elected a vice chair by a unanimous vote.[[0:14:11]] The chair said the commission sent a May 8 letter supporting a 3.5% salary structure adjustment for 2026.[[0:19:51]] The chair said the commission got most of what it had asked the salary commission for.[[0:20:43]] A union representative testified that Maui Fire Department pay is under the 40th percentile when cost-of-living changes are added.[[0:23:47]] A fire department official said firefighter contract arbitration ended in early April but is still being finalized.[[0:27:22]] Corporation counsel said the disconnections were close to keeping the public from getting the meeting's information.[[0:34:52]] The emergency management agency said its move into the new Maui EOC (emergency operations center) was pushed from June to July 15.[[0:37:25]] The agency said it is working with large landowners so private roads can be used during evacuations.[[0:38:27]] The chair called an end to the meeting as audio problems continued.[[0:40:12]]",
+    "decided": [
+      "The commission approved the minutes of its previous meeting.",
+      "The commission closed nominations for chair.",
+      "The commission re-elected the sitting chair for another year.",
+      "The commission closed nominations for vice chair.",
+      "The commission elected a vice chair; the captions do not make clear who was elected."
+    ],
+    "next": "A speaker said the salary commission would likely make its decisions within the next three months. The chair said that if the audio problems continued, the commission would end the meeting and proceed next month.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:09:42",
+        "q": "Chair re-elected unanimously"
+      },
+      {
+        "t": "0:23:56",
+        "q": "\"our members could use some help, too\""
+      },
+      {
+        "t": "0:34:29",
+        "q": "Corporation counsel advice on continuing the meeting"
+      },
+      {
+        "t": "0:40:12",
+        "q": "\"Okay, I'm I'm going to call it.\""
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "new-county-emergency-operations-center",
+        "title": "New county emergency operations center"
+      },
+      {
+        "slug": "evacuation-software-and-new-evacuation-zones",
+        "title": "Evacuation software and new evacuation zones"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Maui Fire Commission",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "source": {
+    "youtubeUrl": "https://youtu.be/R_MPvIqY5cU"
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "videoId": "RJwnI3weRIY",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-23T00:25:06.197Z",
+  "meetingDateISO": "2026-10-21",
+  "headline": "Maui County Council Housing and Land Use Committee",
+  "topics": [
+    "Water",
+    "Housing"
+  ],
+  "bodyType": "council",
+  "meeting": {
+    "id": "RJwnI3weRIY",
+    "mon": "Oct",
+    "day": "21",
+    "date": "Wed, Oct 21, 2026",
+    "body": "Maui County Council Housing and Land Use Committee",
+    "dur": "2 h 11 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee recommended Bill 141, moving tech park land into residential use, and approved amended Lānaʻi Kōele zoning bills 8 to 1.",
+    "recap": "A testifier asked members to wait until after the election.[[0:09:50]] Bill 141 (2026) would move land in the Maui Research and Technology Park into the Residential District.[[0:12:40]] The developer said Maui has a critical need for housing, while demand for commercial space is low.[[0:18:22]] The number of homes allowed would stay at 1,250.[[0:23:27]] The second item was Bills 24 and 25 (2024) on the zoning of Lānaʻi Project District 2, Kōele.[[0:40:12]] The landowner said the plan shrinks the district by 8% and lowers density.[[0:42:10]] The landowner said it would move and preserve two old homes, including the Richardson Home.[[0:57:38]] The landowner said the old bypass road route would affect at least 50 or 60 homes.[[1:16:53]] A council member moved to require quarterly reports for five years, then annual reports.[[1:41:01]] Members passed it 6 to 3 in a roll call vote.[[1:42:17]] Members voted 5 to 4 to strike condition 9, the bypass road requirement.[[2:01:24]] In an 8 to 1 roll call vote, the committee approved the main motion as amended.[[2:09:46]]",
+    "decided": [],
+    "next": "Planning said a road built by the landowner and turned over to the County could be considered later in another project. Staff said they understood the intent and would wordsmith the reporting condition.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:39:13",
+        "q": "Bill 141 vote"
+      },
+      {
+        "t": "0:54:49",
+        "q": "\"the department does support the change of zoning\""
+      },
+      {
+        "t": "2:01:24",
+        "q": "Bypass road condition vote"
+      },
+      {
+        "t": "2:09:46",
+        "q": "Final vote on Lānaʻi bills"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "maui-research-and-technology-park-land-designation",
+        "title": "Maui Research and Technology Park land designation"
+      },
+      {
+        "slug": "lanai-koele-project-district-zoning-and-conditions",
+        "title": "Lānaʻi Kōele project district zoning and conditions"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Housing and Land Use Committee",
+        "group": "council",
+        "short": [
+          "HLU"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 141 (2026)",
+      "Bill 8 (2026)",
+      "Bill 24 (2026)",
+      "Bill 25 (2024)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Water",
+      "since": "Oct 21, 2026",
+      "oneLine": "A motion was made to limit quarterly water use reports for Lānaʻi Project District 2, Kōele to five years.",
+      "why": "The landowner said that without a time limit, reporting could still be going on in 100 years.",
+      "deadlines": [],
+      "next": "Planning said future build-out needs a phase two approval from the Lānaʻi Planning Commission, which is when more reporting could be added.",
+      "brief": "The chair said Planning called a five-year period typical and consistent with past conditions.[[#1]] The landowner said full build-out would take about 10 years.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Oct",
+          "day": "21",
+          "source": "Maui County Council Housing and Land Use Committee",
+          "kind": "tv",
+          "title": "Maui County Council Housing and Land Use Committee",
+          "note": "A motion was made to limit quarterly water use reports for Lānaʻi Project District 2, Kōele to five years.",
+          "proof": "1:34:16",
+          "view": {
+            "type": "meeting",
+            "id": "RJwnI3weRIY"
+          },
+          "seek": "1:34:16"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Housing and Land Use Committee · Oct 21",
+          "where": "Meeting video at 1:34:16",
+          "view": {
+            "type": "meeting",
+            "id": "RJwnI3weRIY"
+          },
+          "seek": "1:34:16"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Housing and Land Use Committee · Oct 21",
+          "where": "Meeting video at 1:34:56",
+          "view": {
+            "type": "meeting",
+            "id": "RJwnI3weRIY"
+          },
+          "seek": "1:34:56"
+        }
+      ]
+    },
+    {
+      "issue": "Housing",
+      "since": "Oct 21, 2026",
+      "oneLine": "Bill 141 would move land in the Maui Research and Technology Park into the Residential District.",
+      "why": "The developer said Maui has a critical need for housing, while demand for commercial space is low.",
+      "deadlines": [],
+      "next": "",
+      "brief": "The Maui Planning Commission unanimously recommended approval at its September 8 meeting.[[#1]] The cap of 1,250 homes would not change.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Oct",
+          "day": "21",
+          "source": "Maui County Council Housing and Land Use Committee",
+          "kind": "tv",
+          "title": "Maui County Council Housing and Land Use Committee",
+          "note": "Bill 141 would move land in the Maui Research and Technology Park into the Residential District.",
+          "proof": "0:15:53",
+          "view": {
+            "type": "meeting",
+            "id": "RJwnI3weRIY"
+          },
+          "seek": "0:15:53"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Housing and Land Use Committee · Oct 21",
+          "where": "Meeting video at 0:15:53",
+          "view": {
+            "type": "meeting",
+            "id": "RJwnI3weRIY"
+          },
+          "seek": "0:15:53"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Housing and Land Use Committee · Oct 21",
+          "where": "Meeting video at 0:23:27",
+          "view": {
+            "type": "meeting",
+            "id": "RJwnI3weRIY"
+          },
+          "seek": "0:23:27"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "youtubeUrl": "https://youtu.be/RJwnI3weRIY"
+  }
+}

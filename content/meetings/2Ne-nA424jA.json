@@ -1,0 +1,136 @@
+{
+  "videoId": "2Ne-nA424jA",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T17:27:10.793Z",
+  "meetingDateISO": "2026-06-30",
+  "headline": "Committee reviews Spire Hawaiʻi fraud risk report, discusses direct pay at Water Supply",
+  "topics": [
+    "Water"
+  ],
+  "bodyType": "council",
+  "meeting": {
+    "id": "2Ne-nA424jA",
+    "mon": "Jun",
+    "day": "30",
+    "date": "Tue, Jun 30, 2026",
+    "body": "Maui County Council Government Relations, Ethics, and Transparency Committee",
+    "dur": "2 h 40 m",
+    "voteCount": 1,
+    "voteItem": "Close oral testimony",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee reviewed the fraud risk assessment, which found no nepotism policy and no countywide fraud complaint policy. The chair asked staff to send it to boards and commissions, and the committee next meets July 28, 2026 at 1:30 p.m.",
+    "recap": "The committee reviewed a fraud risk assessment of the County of Maui by Spire Hawaiʻi LLP.[[0:03:09]] The county auditor said a new fraud, waste, and abuse hotline is now live.[[0:07:51]] The auditor added a review of \"direct pay\" purchases to the fiscal year 2027 audit plan.[[0:08:03]] In the report's survey, 86% of elected officials saw medium fraud risk, but 95% of department heads saw low risk.[[0:13:10]] The report found county controls are not designed well enough to address the fraud risks it identified.[[0:13:30]] The report noted the county has no nepotism policy, which is a rule about hiring relatives.[[0:15:25]] The report also found no countywide policy for handling fraud complaints.[[0:16:50]] The chair noted the report found 6,223 direct pay transactions at the Department of Water Supply, totaling $21 million.[[1:14:43]] A water fiscal officer said almost $17 million of that was for utilities.[[1:19:10]] The auditor's office said the assessment cost about $200,000.[[2:00:21]] The chair asked staff to send the report to boards and commissions that oversee departments that did not respond.[[2:26:58]]",
+    "decided": [
+      "Oral testimony on the item was closed without objection."
+    ],
+    "next": "Staff will send the report to boards and commissions that oversee departments that did not respond. The chair will work with committee staff to bring back a more detailed plan for the unmet needs discussed. The auditor's office will test direct pay as part of its fiscal 2027 audit plan.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:07:51",
+        "q": "\"As of today, the hotline is live and active.\""
+      },
+      {
+        "t": "0:13:05",
+        "q": "Survey shows gap in how officials see fraud risk"
+      },
+      {
+        "t": "0:32:56",
+        "q": "Public testimony begins"
+      },
+      {
+        "t": "1:14:43",
+        "q": "Questions on water direct pay"
+      },
+      {
+        "t": "1:59:08",
+        "q": "\"We stand by the report as it's written.\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "water-department-purchases-outside-county-safeguards",
+        "title": "Water department purchases outside county safeguards"
+      },
+      {
+        "slug": "ethics-bills-on-nepotism-lobbyists-and-ex-employees",
+        "title": "Ethics bills on nepotism, lobbyists and ex-employees"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Government Relations, Ethics, and Transparency Committee",
+        "group": "council",
+        "short": [
+          "GREAT"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Water",
+      "since": "Jun 30, 2026",
+      "oneLine": "The fraud report flagged direct pay purchases by the Department of Water Supply.",
+      "why": "The chair said the report found $21 million in goods and services bought outside county safeguards.",
+      "deadlines": [],
+      "next": "The auditor's office will test direct pay as part of its fiscal 2027 audit plan.",
+      "brief": "A water fiscal officer said almost $17 million of the $21 million was for utilities.[[#1]] The chair said finance and water gave conflicting answers about who oversees water's direct pay.[[#2]] An official said direct pay is used when crews need a part quickly, such as for a well pump.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Jun",
+          "day": "30",
+          "source": "Maui County Council Government Relations, Ethics, and Transparency Committee",
+          "kind": "tv",
+          "title": "Committee reviews countywide fraud risk report",
+          "note": "The fraud report flagged direct pay purchases by the Department of Water Supply.",
+          "proof": "1:19:10",
+          "view": {
+            "type": "meeting",
+            "id": "2Ne-nA424jA"
+          },
+          "seek": "1:19:10"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Government Relations, Ethics, and Transparency Committee · Jun 30",
+          "where": "Meeting video at 1:19:10",
+          "view": {
+            "type": "meeting",
+            "id": "2Ne-nA424jA"
+          },
+          "seek": "1:19:10"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Government Relations, Ethics, and Transparency Committee · Jun 30",
+          "where": "Meeting video at 1:21:39",
+          "view": {
+            "type": "meeting",
+            "id": "2Ne-nA424jA"
+          },
+          "seek": "1:21:39"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Government Relations, Ethics, and Transparency Committee · Jun 30",
+          "where": "Meeting video at 1:23:02",
+          "view": {
+            "type": "meeting",
+            "id": "2Ne-nA424jA"
+          },
+          "seek": "1:23:02"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "youtubeUrl": "https://youtu.be/2Ne-nA424jA"
+  }
+}

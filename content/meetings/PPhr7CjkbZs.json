@@ -1,0 +1,126 @@
+{
+  "videoId": "PPhr7CjkbZs",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T23:25:43.653Z",
+  "meetingDateISO": "2026-09-18",
+  "headline": "Committee works on South Maui Community Plan, Bill 108, and votes on flood and housing policies",
+  "topics": [
+    "Water",
+    "Housing"
+  ],
+  "bodyType": "council",
+  "meeting": {
+    "id": "PPhr7CjkbZs",
+    "mon": "Sep",
+    "day": "18",
+    "date": "Fri, Sep 18, 2026",
+    "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+    "dur": "5 h 18 m",
+    "voteCount": 4,
+    "voteItem": "Replace the Why Is It Important section on page 47 with the updated attachment",
+    "ayes": 6,
+    "noes": 0,
+    "summary": "The committee took up Bill 108 and voted on policies on flooding, housing outside special flood hazard areas, and government trails. It plans to hear public testimony on Monday, and the chair will work on Policy 2.3.6.",
+    "recap": "The committee worked on its one agenda item, Bill 108, the 2026 South Maui Community Plan.[[0:08:57]] A Water Department official said the department supports protecting water rights for owners who move back from the shoreline.[[0:21:41]] A motion asked that Policy 2.4.2 put traditional Hawaiian practices and nature-based solutions first to manage flooding.[[1:37:54]] That motion passed with six ayes, one no and two members excused.[[1:40:31]] Members voted six to zero to require affordable and workforce housing to be outside special flood hazard areas.[[2:05:33]] Members voted eight to zero to encourage restoring existing government trails and historical roads where practicable.[[3:16:47]] The chair supported a policy for a cultural center and museum in South Maui.[[4:23:30]] On Monday, the committee plans to hear public testimony and a short presentation on expected growth.[[5:15:26]]",
+    "decided": [
+      "The motion passed with six ayes, zero noes and three members excused.",
+      "The motion passed with eight ayes, zero noes and one member excused.",
+      "The motion passed with eight ayes, zero noes and one member excused.",
+      "The motion passed with eight ayes, zero noes and one member excused."
+    ],
+    "next": "The chair will work on Policy 2.3.6 about moving water rights for coastal retreat.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:24:14",
+        "q": "\"I would tend to be against commoditizing those rights.\""
+      },
+      {
+        "t": "1:24:47",
+        "q": "Why South Maui residents push for nature-based drainage"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "south-maui-community-plan-review",
+        "title": "South Maui Community Plan review"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Disaster Recovery, International Affairs, and Planning Committee",
+        "group": "council",
+        "short": [
+          "DRIP"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 108 (2026)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Sep 18, 2026",
+      "oneLine": "The committee voted to keep new affordable and workforce housing out of special flood hazard areas.",
+      "why": "",
+      "deadlines": [],
+      "next": "",
+      "brief": "The policy requires affordable and workforce housing to be outside flood zones V, VE, A, AO, AH and AE.[[#1]] It passed with six ayes, zero noes and three members excused.[[#2]] The draft South Maui vision statement calls for affordable housing close to good jobs.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Sep",
+          "day": "18",
+          "source": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+          "kind": "tv",
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+          "note": "The committee voted to keep new affordable and workforce housing out of special flood hazard areas.",
+          "proof": "2:05:33",
+          "view": {
+            "type": "meeting",
+            "id": "PPhr7CjkbZs"
+          },
+          "seek": "2:05:33"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Sep 18",
+          "where": "Meeting video at 2:05:33",
+          "view": {
+            "type": "meeting",
+            "id": "PPhr7CjkbZs"
+          },
+          "seek": "2:05:33"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Sep 18",
+          "where": "Meeting video at 2:06:11",
+          "view": {
+            "type": "meeting",
+            "id": "PPhr7CjkbZs"
+          },
+          "seek": "2:06:11"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Sep 18",
+          "where": "Meeting video at 0:09:29",
+          "view": {
+            "type": "meeting",
+            "id": "PPhr7CjkbZs"
+          },
+          "seek": "0:09:29"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "youtubeUrl": "https://youtu.be/PPhr7CjkbZs"
+  }
+}

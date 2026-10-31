@@ -1,0 +1,131 @@
+{
+  "videoId": "Gjw_tbHieQw",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-17T07:45:16.917Z",
+  "meetingDateISO": "2026-03-09",
+  "headline": "Committee defers Aloha House care item and East Maui Water Authority budget review",
+  "topics": [
+    "Water"
+  ],
+  "bodyType": "council",
+  "meeting": {
+    "id": "Gjw_tbHieQw",
+    "mon": "Mar",
+    "day": "9",
+    "date": "Mon, Mar 9, 2026",
+    "body": "Maui County Council Water Authority, Social Services, and Parks Committee",
+    "dur": "1 h 55 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee deferred both items without objection: Aloha House's substance abuse care, and the East Maui Water Authority's operations and fiscal year 2026 budget. The authority's director said a capacity update is due in the next couple of weeks.",
+    "recap": "The committee met Monday, March 9, 2026.[[0:00:29]] The first item was Continuum of Care for Substance Abuse, focused on Aloha House.[[0:05:32]] The CEO of Maui Behavioral Health Resources said Aloha House has served the community since 1977.[[0:07:20]] She said Aloha House is about 85% funded by Medicaid.[[0:15:24]] She said federal Medicaid cuts in the \"big beautiful bill\" are starting to have impacts.[[0:15:32]] She said wildfire work in Lāhainā drew nurses and counselors away with higher pay.[[0:34:55]] She said the gap is mostly payroll, especially nursing staff.[[0:43:51]] She said about 50% of people who come to Aloha House are unhoused.[[0:50:03]] The committee deferred the item without objection.[[1:15:30]] The second item reviewed the East Maui Water Authority's operations and fiscal year 2026 budget.[[1:15:45]] The director said the authority has nine employees in eight positions, because two are half-time.[[1:20:46]] She said the authority awarded $75,000 to five grantees.[[1:28:10]] The grant coordinator said applicants asked for over $200,000 in total.[[1:38:07]] The director said an update on the authority's capacity to manage the system is coming in the next couple of weeks.[[1:52:53]] The committee deferred the item without objection.[[1:53:50]]",
+    "decided": [],
+    "next": "The authority is preparing a plan and an update that includes its capacity for managing the system.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:34:18",
+        "q": "\"Absolutely. I would love an increase.\""
+      },
+      {
+        "t": "0:43:17",
+        "q": "\"I know my gap is about 500,000 right now. That's our gap.\""
+      },
+      {
+        "t": "1:15:45",
+        "q": "East Maui Water Authority presentation begins"
+      },
+      {
+        "t": "1:28:10",
+        "q": "\"We were able to award our $75,000 to five grantees.\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [],
+    "boards": [
+      {
+        "name": "Water Authority, Social Services, and Parks Committee",
+        "group": "council",
+        "short": [
+          "WASSP"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Water",
+      "since": "Mar 9, 2026",
+      "oneLine": "The East Maui Water Authority presented a review of its operations and fiscal year 2026 budget.",
+      "why": "The grant coordinator said grant requests topped $200,000, so not all qualified applicants could be funded.",
+      "deadlines": [],
+      "next": "The director said an update on the authority's capacity to manage the system will come out in the next couple of weeks.",
+      "brief": "The director said fiscal year 2026 is the authority's first year of full operation.[[#1]] The authority has nine employees in eight positions, because two are half-time.[[#2]] The authority awarded $75,000 to five grantees.[[#3]] The director said the mayor is leading ongoing talks with county departments and others about acquiring water infrastructure.[[#4]]",
+      "timeline": [
+        {
+          "mon": "Mar",
+          "day": "9",
+          "source": "Maui County Council Water Authority, Social Services, and Parks Committee",
+          "kind": "tv",
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee",
+          "note": "The East Maui Water Authority presented a review of its operations and fiscal year 2026 budget.",
+          "proof": "1:18:49",
+          "view": {
+            "type": "meeting",
+            "id": "Gjw_tbHieQw"
+          },
+          "seek": "1:18:49"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Mar 9",
+          "where": "Meeting video at 1:18:49",
+          "view": {
+            "type": "meeting",
+            "id": "Gjw_tbHieQw"
+          },
+          "seek": "1:18:49"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Mar 9",
+          "where": "Meeting video at 1:20:46",
+          "view": {
+            "type": "meeting",
+            "id": "Gjw_tbHieQw"
+          },
+          "seek": "1:20:46"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Mar 9",
+          "where": "Meeting video at 1:28:10",
+          "view": {
+            "type": "meeting",
+            "id": "Gjw_tbHieQw"
+          },
+          "seek": "1:28:10"
+        },
+        {
+          "n": 4,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Mar 9",
+          "where": "Meeting video at 1:48:29",
+          "view": {
+            "type": "meeting",
+            "id": "Gjw_tbHieQw"
+          },
+          "seek": "1:48:29"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "youtubeUrl": "https://youtu.be/Gjw_tbHieQw"
+  }
+}

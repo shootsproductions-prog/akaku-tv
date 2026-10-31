@@ -1,0 +1,135 @@
+{
+  "videoId": "E8RNq6wUE1Y",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T08:22:23.102Z",
+  "meetingDateISO": "2026-09-02",
+  "headline": "Committee passes open space amendment, discusses hearing notice Bill 85-2026",
+  "topics": [
+    "Water",
+    "Housing"
+  ],
+  "bodyType": "council",
+  "meeting": {
+    "id": "E8RNq6wUE1Y",
+    "mon": "Sep",
+    "day": "2",
+    "date": "Wed, Sep 2, 2026",
+    "body": "Maui County Council Housing and Land Use Committee",
+    "dur": "2 h 02 m",
+    "voteCount": 1,
+    "voteItem": "Amendment to the open space amendment: include the evacuation route in the open space",
+    "ayes": 6,
+    "noes": 1,
+    "summary": "Members took up a chair proposal to use M1 light industrial uses minus some uses, and voted six to one to count an evacuation route as open space. On Bill 85-2026, one caller asked that hearing notices also go on county bulletin boards.",
+    "recap": "The chair proposed using the M1 light industrial zoning uses, minus some uses.[[0:47:12]] Bed-and-breakfasts would also be barred, except for housing people in a disaster.[[0:47:52]] This amendment passed with seven ayes and two members excused.[[1:00:56]] Members discussed a condition requiring water-saving practices, enforced by the Department of Water Supply.[[1:01:19]] Members discussed banning chain businesses, called formula businesses.[[1:05:35]] A council member moved to keep at least 20 percent of the property as open space.[[1:13:38]] The applicant said the 20 percent rule is a burden on the project.[[1:35:12]] Members voted six to one to count the evacuation route as open space.[[1:52:36]] The open space amendment passed with seven ayes.[[1:54:10]] Bill 85-2026 would let hearing notices run in a suitable publication instead of a twice-weekly newspaper.[[1:55:14]] One caller asked that notices also be posted on county bulletin boards.[[1:58:52]]",
+    "decided": [
+      "In a roll call vote, the committee agreed to count the evacuation route as part of the required open space."
+    ],
+    "next": "",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:47:37",
+        "q": "Chair lists which M1 uses to remove"
+      },
+      {
+        "t": "1:21:04",
+        "q": "\"the 20% is a big burden on the project\""
+      },
+      {
+        "t": "1:52:36",
+        "q": "Roll call on counting the evacuation route as open space"
+      },
+      {
+        "t": "1:55:10",
+        "q": "Bill 85-2026 on hearing notices begins"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "paia-sugar-mill-light-industrial-rezoning",
+        "title": "Pāʻia Sugar Mill light industrial rezoning"
+      },
+      {
+        "slug": "planning-hearing-notices-outside-newspapers-in-bill-85",
+        "title": "Planning hearing notices outside newspapers in Bill 85"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Housing and Land Use Committee",
+        "group": "council",
+        "short": [
+          "HLU"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 85 (2026)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Sep 2, 2026",
+      "oneLine": "Under the proposed M1 zoning, the owners could build apartments but not single-family homes.",
+      "why": "A member said that after the fire, people were moved around a lot, so B&B space could serve as temporary housing in a disaster.",
+      "deadlines": [],
+      "next": "",
+      "brief": "Bed-and-breakfasts would not be allowed, except for temporary humanitarian housing in a disaster.[[#1]] Live-work units, with a shop below and a home above, would be allowed.[[#2]] Homes must be in the same building as a business or other non-home use.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Sep",
+          "day": "2",
+          "source": "Maui County Council Housing and Land Use Committee",
+          "kind": "tv",
+          "title": "Maui County Council Housing and Land Use Committee",
+          "note": "Under the proposed M1 zoning, the owners could build apartments but not single-family homes.",
+          "proof": "0:47:52",
+          "view": {
+            "type": "meeting",
+            "id": "E8RNq6wUE1Y"
+          },
+          "seek": "0:47:52"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Housing and Land Use Committee · Sep 2",
+          "where": "Meeting video at 0:47:52",
+          "view": {
+            "type": "meeting",
+            "id": "E8RNq6wUE1Y"
+          },
+          "seek": "0:47:52"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Housing and Land Use Committee · Sep 2",
+          "where": "Meeting video at 0:58:27",
+          "view": {
+            "type": "meeting",
+            "id": "E8RNq6wUE1Y"
+          },
+          "seek": "0:58:27"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Housing and Land Use Committee · Sep 2",
+          "where": "Meeting video at 0:58:53",
+          "view": {
+            "type": "meeting",
+            "id": "E8RNq6wUE1Y"
+          },
+          "seek": "0:58:53"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "youtubeUrl": "https://youtu.be/E8RNq6wUE1Y"
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "videoId": "VgE2vefgTzg",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T07:27:27.988Z",
+  "meetingDateISO": "2026-08-05",
+  "headline": "Recovery update covers housing gap and water system purchase",
+  "topics": [
+    "Water",
+    "Housing",
+    "Disaster Recovery"
+  ],
+  "bodyType": "council",
+  "meeting": {
+    "id": "VgE2vefgTzg",
+    "mon": "Aug",
+    "day": "5",
+    "date": "Wed, Aug 5, 2026",
+    "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+    "dur": "1 h 46 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee heard updates on Maui's long-term recovery, housing, and a proposed water system purchase, and met in closed session.",
+    "recap": "The county has committed $1.278 billion of its $1.6 billion in recovery funds.[[0:15:49]] More than 1,100 households are still in temporary housing.[[0:18:28]] The county will take over the disaster case management program from the state in August.[[0:19:16]] A new rental help program, the Disaster Interim Housing Program, starts in August.[[0:22:05]] The county is proposing to buy a private irrigation company's non-potable (not for drinking) water system.[[0:28:48]] The county wants about $2.9 million in improvements to that system after the sale closes.[[0:30:30]] The state's temporary housing site, now housing 960 people, runs through August 2029.[[0:37:15]] The state said the case management program has closed 898 cases, meaning those households reached their recovery goals.[[0:41:40]] A water coalition testifier said Lahaina already uses at least 90 percent of its sustainable water supply.[[1:10:20]] The chair said the water and land purchase must be discussed privately due to a nondisclosure agreement.[[1:27:50]] Members voted 7–0 to go into executive session (a closed-door discussion).[[1:39:16]] The housing director said he would look into a mold complaint at Haleʻola.[[1:43:12]]",
+    "decided": [],
+    "next": "",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:08:31",
+        "q": "This week marks the three-year anniversary of the August 2023 wildfires."
+      },
+      {
+        "t": "0:31:33",
+        "q": "Total cost $2.9 million."
+      },
+      {
+        "t": "0:37:42",
+        "q": "What are we going to do with the 960 or 1000 plus individuals"
+      },
+      {
+        "t": "1:10:34",
+        "q": "We are at least at 90 percent of sustainable yield"
+      },
+      {
+        "t": "1:39:16",
+        "q": "Vote to enter executive session: 7 ayes, 0 nos"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "county-buying-private-west-maui-water-systems",
+        "title": "County buying private West Maui water systems"
+      },
+      {
+        "slug": "moving-fire-survivors-off-fema-interim-housing",
+        "title": "Moving fire survivors off FEMA interim housing"
+      },
+      {
+        "slug": "possible-county-purchase-of-maui-land-and-pine-water-assets",
+        "title": "Possible county purchase of Maui Land and Pine water assets"
+      },
+      {
+        "slug": "spending-the-1-6-billion-federal-recovery-grant",
+        "title": "Spending the $1.6 billion federal recovery grant"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Disaster Recovery, International Affairs, and Planning Committee",
+        "group": "council",
+        "short": [
+          "DRIP"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Water",
+      "since": "Aug 5, 2026",
+      "oneLine": "The county is proposing to buy a private irrigation company's non-potable water system.",
+      "why": "A water coalition testifier said Lahaina already uses at least 90 percent of its sustainable water supply.",
+      "deadlines": [],
+      "next": "",
+      "brief": "The system has two stream diversions, two shaft wells, one well, and three reservoirs.[[#1]] The county is requesting about $2.9 million in improvements after the sale closes.[[#2]] A testifier said water source has held up shovel-ready housing projects in West Maui.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Aug",
+          "day": "5",
+          "source": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+          "kind": "tv",
+          "title": "Recovery update covers housing gap and water system purchase",
+          "note": "The county is proposing to buy a private irrigation company's non-potable water system.",
+          "proof": "0:29:01",
+          "view": {
+            "type": "meeting",
+            "id": "VgE2vefgTzg"
+          },
+          "seek": "0:29:01"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Aug 5",
+          "where": "Meeting video at 0:29:01",
+          "view": {
+            "type": "meeting",
+            "id": "VgE2vefgTzg"
+          },
+          "seek": "0:29:01"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Aug 5",
+          "where": "Meeting video at 0:30:30",
+          "view": {
+            "type": "meeting",
+            "id": "VgE2vefgTzg"
+          },
+          "seek": "0:30:30"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Aug 5",
+          "where": "Meeting video at 0:51:25",
+          "view": {
+            "type": "meeting",
+            "id": "VgE2vefgTzg"
+          },
+          "seek": "0:51:25"
+        }
+      ]
+    },
+    {
+      "issue": "Housing",
+      "since": "Aug 5, 2026",
+      "oneLine": "More than 1,100 households remain in temporary housing after the wildfires.",
+      "why": "Officials said the housing gap will remain until 2030, when rebuilding is expected to be done.",
+      "deadlines": [
+        {
+          "d": "in August",
+          "t": "Start of the Disaster Interim Housing Program."
+        },
+        {
+          "d": "August of 2029",
+          "t": "End of the state temporary housing site program."
+        }
+      ],
+      "next": "A new rental help program, the Disaster Interim Housing Program, starts in August.",
+      "brief": "The Kīlohana site is moving from a federal facility to a county facility.[[#1]] The state's temporary housing site houses 960 people and runs through August 2029.[[#2]] The state said housing remains survivors' number one unmet need.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Aug",
+          "day": "5",
+          "source": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+          "kind": "tv",
+          "title": "Recovery update covers housing gap and water system purchase",
+          "note": "More than 1,100 households remain in temporary housing after the wildfires.",
+          "proof": "0:21:31",
+          "view": {
+            "type": "meeting",
+            "id": "VgE2vefgTzg"
+          },
+          "seek": "0:21:31"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Aug 5",
+          "where": "Meeting video at 0:21:31",
+          "view": {
+            "type": "meeting",
+            "id": "VgE2vefgTzg"
+          },
+          "seek": "0:21:31"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Aug 5",
+          "where": "Meeting video at 0:37:15",
+          "view": {
+            "type": "meeting",
+            "id": "VgE2vefgTzg"
+          },
+          "seek": "0:37:15"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Aug 5",
+          "where": "Meeting video at 0:44:39",
+          "view": {
+            "type": "meeting",
+            "id": "VgE2vefgTzg"
+          },
+          "seek": "0:44:39"
+        }
+      ]
+    },
+    {
+      "issue": "Disaster Recovery",
+      "since": "Aug 5, 2026",
+      "oneLine": "The county has committed $1.278 billion of its $1.6 billion in recovery funds.",
+      "why": "",
+      "deadlines": [
+        {
+          "d": "in August",
+          "t": "County takeover of the disaster case management program."
+        }
+      ],
+      "next": "The county will take over the disaster case management program from the state in August.",
+      "brief": "The case management program has closed 898 cases.[[#1]] The program has made over 19,000 referrals, resulting in over $173 million in services.[[#2]] The state said survivors' case managers will stay the same after the county takes over.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Aug",
+          "day": "5",
+          "source": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+          "kind": "tv",
+          "title": "Recovery update covers housing gap and water system purchase",
+          "note": "The county has committed $1.278 billion of its $1.6 billion in recovery funds.",
+          "proof": "0:41:40",
+          "view": {
+            "type": "meeting",
+            "id": "VgE2vefgTzg"
+          },
+          "seek": "0:41:40"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Aug 5",
+          "where": "Meeting video at 0:41:40",
+          "view": {
+            "type": "meeting",
+            "id": "VgE2vefgTzg"
+          },
+          "seek": "0:41:40"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Aug 5",
+          "where": "Meeting video at 0:42:35",
+          "view": {
+            "type": "meeting",
+            "id": "VgE2vefgTzg"
+          },
+          "seek": "0:42:35"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Aug 5",
+          "where": "Meeting video at 0:47:02",
+          "view": {
+            "type": "meeting",
+            "id": "VgE2vefgTzg"
+          },
+          "seek": "0:47:02"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "youtubeUrl": "https://youtu.be/VgE2vefgTzg"
+  }
+}

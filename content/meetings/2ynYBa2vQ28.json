@@ -1,0 +1,130 @@
+{
+  "videoId": "2ynYBa2vQ28",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T15:48:00.199Z",
+  "meetingDateISO": "2026-07-29",
+  "headline": "Committee reviews possible county purchase of Maui Land and Pineapple water assets",
+  "topics": [
+    "Water",
+    "Housing"
+  ],
+  "bodyType": "council",
+  "meeting": {
+    "id": "2ynYBa2vQ28",
+    "mon": "Jul",
+    "day": "29",
+    "date": "Wed, Jul 29, 2026",
+    "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+    "dur": "2 h 48 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee reviewed a non-binding MOU on buying Maui Land and Pineapple Company water assets and deferred the item.",
+    "recap": "The MOU covers possible county purchase of land and water assets in West Maui and upcountry.[[0:05:29]] The managing director said these purchases, with others discussed this week, would raise public control of West Maui drinking water systems from about 45% to 93%.[[0:08:54]] The West Maui assets listed include a ditch system, two tunnels, two reservoirs and four wells.[[0:13:30]] The county will also consider requests to change zoning on some properties to support housing.[[0:16:21]] One testifier said the community wants water put back toward ʻāina and local communities, not private interests.[[0:26:14]] Another testifier said Kanaka Maoli need a stronghold in water decisions.[[0:49:03]] The managing director said the council would have to approve any final purchase.[[1:00:36]] Water staff said a memo last year found West Maui water demand was over the system's reliable capacity.[[1:56:39]] A member asked to meet again after the county gets the due diligence documents and preliminary title reports.[[2:26:05]] Another member said he supports buying the assets but is concerned about turning farm land into homes.[[2:28:26]] With no objections, the chair deferred the item to bring it back later.[[2:47:22]]",
+    "decided": [],
+    "next": "The county will do due diligence, title reports and appraisals, then come to the council with an offer and resolution. The administration was asked to tell committee staff once it has reviewed the documents so the item can be put back on an agenda. A member asked that the Fourth Amendment to the Agreement for Water Purchase be sent to the committee.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:09:31",
+        "q": "\"So what it is, is it's a non-binding MOU.\""
+      },
+      {
+        "t": "0:23:32",
+        "q": "Public testimony begins"
+      },
+      {
+        "t": "1:56:55",
+        "q": "\"We stop issuing water service.\""
+      },
+      {
+        "t": "2:47:22",
+        "q": "Item deferred"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "county-buying-private-west-maui-water-systems",
+        "title": "County buying private West Maui water systems"
+      },
+      {
+        "slug": "possible-county-purchase-of-maui-land-and-pine-water-assets",
+        "title": "Possible county purchase of Maui Land and Pine water assets"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Disaster Recovery, International Affairs, and Planning Committee",
+        "group": "council",
+        "short": [
+          "DRIP"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Water",
+      "since": "Jul 29, 2026",
+      "oneLine": "The county is in early talks to possibly buy Maui Land and Pineapple Company water assets in West Maui and upcountry.",
+      "why": "The managing director said the goal is long-term water care in the face of climate change, drought and the need for more reliable systems.",
+      "deadlines": [
+        {
+          "d": "by fall of 2026",
+          "t": "Appraisers contracted for the water assets."
+        },
+        {
+          "d": "within 60 days of the effective date",
+          "t": "MLP delivers the due diligence documents listed in Exhibit C."
+        }
+      ],
+      "next": "The county will finish due diligence and appraisals before bringing an offer and resolution to the council.",
+      "brief": "Water staff said the county would not give water credits to golf courses.[[#1]] Water staff said adding water to the upcountry system would help with the water meter waiting list.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Jul",
+          "day": "29",
+          "source": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+          "kind": "tv",
+          "title": "Committee reviews possible county purchase of Maui Land and Pineapple water assets",
+          "note": "The county is in early talks to possibly buy Maui Land and Pineapple Company water assets in West Maui and upcountry.",
+          "proof": "2:05:10",
+          "view": {
+            "type": "meeting",
+            "id": "2ynYBa2vQ28"
+          },
+          "seek": "2:05:10"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Jul 29",
+          "where": "Meeting video at 2:05:10",
+          "view": {
+            "type": "meeting",
+            "id": "2ynYBa2vQ28"
+          },
+          "seek": "2:05:10"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Jul 29",
+          "where": "Meeting video at 1:35:49",
+          "view": {
+            "type": "meeting",
+            "id": "2ynYBa2vQ28"
+          },
+          "seek": "1:35:49"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "youtubeUrl": "https://youtu.be/2ynYBa2vQ28"
+  }
+}

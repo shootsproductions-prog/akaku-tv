@@ -1,0 +1,128 @@
+{
+  "videoId": "Pcpudwx07B4",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-21T23:01:41.633Z",
+  "meetingDateISO": "2026-10-21",
+  "headline": "Committee backs Bill 141, shifting tech park land to housing",
+  "topics": [
+    "Housing"
+  ],
+  "bodyType": "council",
+  "meeting": {
+    "id": "Pcpudwx07B4",
+    "mon": "Oct",
+    "day": "21",
+    "date": "Wed, Oct 21, 2026",
+    "body": "Maui County Council Housing and Land Use Committee",
+    "dur": "47 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee voted to recommend Bill 141, which shifts some tech park commercial land to housing while keeping a 1,250-unit cap.",
+    "recap": "A testifier asked about safe parking for people in need near the police station at the tech park.[[0:13:23]] The same testifier asked to defer the item until after the election.[[0:16:03]] The main item was Bill 141 (2026), which would amend the county code chapter for the Maui Research and Technology Park.[[0:18:53]] The cap of 1,250 housing units would not change.[[0:26:21]] The planning director said the county will study where to put a South Maui transit hub.[[0:36:03]] The chair said the residential area would grow from 102.3 acres to 158 acres.[[0:43:45]] The committee voted eight ayes, no noes, with one member excused, to recommend passing Bill 141 on first reading.[[0:45:30]]",
+    "decided": [],
+    "next": "After the recess, the committee will move on to its next agenda item.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:18:53",
+        "q": "Bill 141 is introduced"
+      },
+      {
+        "t": "0:21:34",
+        "q": "Pacific Rim Land presentation begins"
+      },
+      {
+        "t": "0:45:30",
+        "q": "Vote on Bill 141"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "maui-research-and-technology-park-land-designation",
+        "title": "Maui Research and Technology Park land designation"
+      },
+      {
+        "slug": "safe-parking-sites-for-people-living-in-cars",
+        "title": "Safe parking sites for people living in cars"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Housing and Land Use Committee",
+        "group": "council",
+        "short": [
+          "HLU"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 141 (2026)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Oct 21, 2026",
+      "oneLine": "Bill 141 would move some Maui Research and Technology Park land to the residential district while keeping the same number of homes.",
+      "why": "",
+      "deadlines": [],
+      "next": "",
+      "brief": "The residential district would grow from 102.3 acres to 158 acres.[[#1]] The cap of 1,250 residential units stays the same.[[#2]] The committee voted eight ayes, no noes, with one excused, to recommend passing the bill on first reading.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Oct",
+          "day": "21",
+          "source": "Maui County Council Housing and Land Use Committee",
+          "kind": "tv",
+          "title": "Committee backs Bill 141, shifting tech park land to housing",
+          "note": "Bill 141 would move some Maui Research and Technology Park land to the residential district while keeping the same number of homes.",
+          "proof": "0:43:45",
+          "view": {
+            "type": "meeting",
+            "id": "Pcpudwx07B4"
+          },
+          "seek": "0:43:45"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Housing and Land Use Committee · Oct 21",
+          "where": "Meeting video at 0:43:45",
+          "view": {
+            "type": "meeting",
+            "id": "Pcpudwx07B4"
+          },
+          "seek": "0:43:45"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Housing and Land Use Committee · Oct 21",
+          "where": "Meeting video at 0:29:33",
+          "view": {
+            "type": "meeting",
+            "id": "Pcpudwx07B4"
+          },
+          "seek": "0:29:33"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Housing and Land Use Committee · Oct 21",
+          "where": "Meeting video at 0:45:30",
+          "view": {
+            "type": "meeting",
+            "id": "Pcpudwx07B4"
+          },
+          "seek": "0:45:30"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "youtubeUrl": "https://youtu.be/Pcpudwx07B4"
+  }
+}

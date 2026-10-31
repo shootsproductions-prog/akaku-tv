@@ -1,0 +1,78 @@
+{
+  "videoId": "XD60_Qatcxw",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-09T06:40:32.501Z",
+  "meetingDateISO": "2024-11-21",
+  "headline": "Maui County Board of Water Supply",
+  "topics": [
+    "Water",
+    "Housing"
+  ],
+  "bodyType": "board",
+  "meeting": {
+    "id": "XD60_Qatcxw",
+    "mon": "Nov",
+    "day": "21",
+    "date": "Thu, Nov 21, 2024",
+    "body": "Maui County Board of Water Supply",
+    "dur": "2 h 10 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The Board of Water Supply heard a West Maui groundwater briefing, put off a draft letter, reviewed capital projects, and approved its 2025 schedule.",
+    "recap": "The Board of Water Supply met on November 21, 2024.[[0:00:30]] The board approved its October 2, 2024 minutes by voice vote.[[0:02:51]] The department said it buys water from EMI at six cents per thousand gallons.[[0:18:00]] A board member said West Maui groundwater is overallocated by about 50% beyond safe pumping limits.[[0:38:10]] He argued against long-term commitments to permanent new construction until the water supply is known.[[0:44:23]] A testifier urged the board to prioritize water for housing for displaced fire survivors.[[0:52:14]] The chair put off the draft letter to the next meeting for new members' input.[[0:53:46]] The department's current 2025 budget plans about $33 million for capital projects.[[0:56:24]] Its six-year projection is $443 million.[[0:56:39]] The budget holds $75 million in fiscal year 2029 for possible desalination in Central Maui.[[1:30:54]] The board approved its 2025 meeting and contested case hearing schedule.[[2:07:02]] The next meeting is December 19.[[2:09:26]]",
+    "decided": [
+      "The board approved the minutes of its October 2, 2024 meeting.",
+      "The chair deferred the draft letter, with changes, to the next meeting without a vote."
+    ],
+    "next": "The East Maui speaker said the mayor wants to bring all stakeholders together to discuss a new way to manage East Maui water. The board will discuss the draft letter at its next meeting. Members can email questions on the written department reports to staff or ask them at the next meeting.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:50:25",
+        "q": "Public testimony on the draft housing water letter"
+      },
+      {
+        "t": "0:55:11",
+        "q": "Department's capital improvement program presentation begins"
+      },
+      {
+        "t": "2:02:03",
+        "q": "Update on Bill 130, extending water meter reservations"
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "central-maui-desalination-study-and-report-release",
+        "title": "Central Maui desalination study and report release"
+      },
+      {
+        "slug": "water-board-letter-on-housing-for-fire-survivors",
+        "title": "Water board letter on housing for fire survivors"
+      },
+      {
+        "slug": "bill-130-extending-water-meter-reservations",
+        "title": "Bill 130 extending water meter reservations"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Board of Water Supply",
+        "group": "board",
+        "short": [
+          "BWS"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 130 (2024)"
+    ]
+  },
+  "issues": [],
+  "source": {
+    "youtubeUrl": "https://youtu.be/XD60_Qatcxw"
+  }
+}

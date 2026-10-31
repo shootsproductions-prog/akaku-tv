@@ -1,0 +1,84 @@
+{
+  "videoId": "Ail920zTE4c",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-14T06:49:31.453Z",
+  "meetingDateISO": "2026-07-14",
+  "headline": "Maui Planning Commission - Meeting of July 14, 2026",
+  "topics": [
+    "Water"
+  ],
+  "bodyType": "board",
+  "meeting": {
+    "id": "Ail920zTE4c",
+    "mon": "Jul",
+    "day": "14",
+    "date": "Tue, Jul 14, 2026",
+    "body": "Maui Planning Commission - Meeting of July 14, 2026",
+    "dur": "4 h 09 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The commission approved restrooms and showers at Mākena State Park, six to one, with a carrying capacity study due by July 31, 2029.",
+    "recap": "The commission returned to a State Parks request for restrooms, showers, and parking upgrades at Mākena State Park.[[0:01:36]] Public testimony closed at the June 23 meeting.[[0:02:06]] Commissioners added a condition that the study report is due by July 31, 2029.[[1:59:52]] A State Parks lawyer said resident-only parking would likely be found unconstitutional.[[2:04:23]] The commission approved the permit, six to one.[[2:21:29]] The commission took up its written decision on permits for a solar project.[[2:23:59]] The commission voted to adopt that decision.[[2:27:36]] Planning staff updated the commission on rewriting Title 19, the county zoning code.[[2:30:32]] Staff said the first draft chapters should come later this summer or fall.[[2:48:16]] A consultant said Maui's special management area (SMA), a protected coastal zone, has not changed since 1979.[[3:14:09]] One testifier asked that wheelchair access standards be written into SMA rules.[[3:25:37]] The next meeting is July 28.[[4:06:14]]",
+    "decided": [
+      "The commission adopted the written decision and the motion carried."
+    ],
+    "next": "State Parks will keep working with the fire department to fix tight spots in the parking lot. Planning staff said they will revise condition 3 to reference the State's July 2 letter. The solar project's state permit moves to the Land Use Commission.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:07:06",
+        "q": "\"we see no need to add any asphalt at all to this park\""
+      },
+      {
+        "t": "2:04:14",
+        "q": "State Parks lawyer on resident-only parking"
+      },
+      {
+        "t": "2:18:19",
+        "q": "A commissioner explains a no vote"
+      },
+      {
+        "t": "2:30:32",
+        "q": "Title 19 zoning code rewrite update begins"
+      },
+      {
+        "t": "3:08:47",
+        "q": "SMA boundary assessment update begins"
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "rewrite-of-title-19-county-zoning-code",
+        "title": "Rewrite of Title 19 county zoning code"
+      },
+      {
+        "slug": "makena-state-park-restrooms-and-parking-permit",
+        "title": "Mākena State Park restrooms and parking permit"
+      },
+      {
+        "slug": "special-management-area-boundary-assessment",
+        "title": "Special management area boundary assessment"
+      },
+      {
+        "slug": "disability-access-in-sma-permit-reviews",
+        "title": "Disability access in SMA permit reviews"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Maui Planning Commission",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "source": {
+    "youtubeUrl": "https://youtu.be/Ail920zTE4c"
+  }
+}
