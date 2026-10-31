@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-30T20:46:13.720Z",
-  "etag": "615f63fac602aa5dc7e737ca948e41ab26b37935a5aa0811bc5677c5a79b0580",
-  "count": 42,
+  "updatedAt": "2026-10-31T10:01:49.211Z",
+  "etag": "73bc5a694f1aea436765fa401fab6dc65197d713feed9ee7c631e092e1011c8c",
+  "count": 43,
   "meetings": [
     {
       "videoId": "4c-8wbOf3hY",
@@ -727,6 +727,23 @@
       ],
       "updatedAt": "2026-10-30T06:16:26.131Z",
       "sha256": "70f54714dcbdbeca7fba34727d4fafd55a1a3f2bd338ad1873ac5b122f33b628"
+    },
+    {
+      "videoId": "-MFOZYw7b7E",
+      "status": "reviewed",
+      "meetingDateISO": "2026-08-26",
+      "bodyType": "board",
+      "body": "Maui Civil Service Commission",
+      "headline": "Maui Civil Service Commission",
+      "summary": "The Civil Service Commission approved a reference questionnaire and candidate letter topics and set September 30 interviews for a new personnel director.",
+      "dur": "2 h 31 m",
+      "voteCount": 0,
+      "momentCount": 4,
+      "issues": [
+        "search-for-new-department-of-personnel-services-director"
+      ],
+      "updatedAt": "2026-10-31T10:01:49.211Z",
+      "sha256": "d446efdcd4cbd435bab9cc22f9368cd773479c5b038fdd62e59c12d71b4b012d"
     },
     {
       "videoId": "xpuBwsHeXRw",

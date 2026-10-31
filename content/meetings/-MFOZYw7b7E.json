@@ -4,11 +4,9 @@
   "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-07T23:24:27.883Z",
   "meetingDateISO": "2026-08-26",
-  "source": {
-    "youtubeUrl": "https://youtu.be/-MFOZYw7b7E"
-  },
-  "topics": [],
   "headline": "Maui Civil Service Commission",
+  "topics": [],
+  "bodyType": "board",
   "meeting": {
     "id": "-MFOZYw7b7E",
     "mon": "Aug",
@@ -67,5 +65,7 @@
     "bills": []
   },
   "issues": [],
-  "bodyType": "board"
+  "source": {
+    "youtubeUrl": "https://youtu.be/-MFOZYw7b7E"
+  }
 }
