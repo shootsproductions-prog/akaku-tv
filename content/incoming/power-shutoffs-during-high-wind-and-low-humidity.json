@@ -1,0 +1,164 @@
+{
+  "slug": "power-shutoffs-during-high-wind-and-low-humidity",
+  "title": "Power shutoffs during high wind and low humidity",
+  "summary": "At the latest meeting, on September 30, 2026, a council member said the power company shuts off power when wind is over 45 miles per hour and humidity is under 45 percent. This matches what the company said on November 14, 2024, when it listed drought, gusts of 45 mph or more, and humidity below 45% as factors. At that time a shutoff was possible as early as Friday, and people relying on powered medical equipment were urged to fill out a medical needs form.",
+  "topics": [
+    "public-safety",
+    "health"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2024-11-14",
+  "lastSeenISO": "2026-09-30",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-30",
+  "timeline": [
+    {
+      "dateISO": "2026-09-30",
+      "text": "A council member said the power company shuts off power when wind is over 45 miles per hour and humidity is under 45 percent.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oZNc2fyyOPE",
+        "ts": "0:19:47",
+        "endTs": "0:20:17",
+        "retrievedISO": "2026-10-16T03:41:33.571Z"
+      },
+      "body": "County Council Special Meeting"
+    },
+    {
+      "dateISO": "2026-09-28",
+      "text": "The County said the Upcountry PSPS remained in effect and directed residents who needed power to charging sites.",
+      "basis": "reported",
+      "source": {
+        "type": "county-release",
+        "url": "https://www.mauicounty.gov/m/newsflash/Home/Detail/19533",
+        "publisher": "County of Maui",
+        "quote": "The Public Safety Power Shutoff, or PSPS, remains in effect in Upcountry Maui due to high winds, dry conditions and increased wildfire risk.",
+        "retrievedISO": "2026-10-26T08:14:49.934Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-28",
+      "text": "Hawaiian Electric restored power to Pukalani after a few hours and ended the PSPS watch.",
+      "basis": "reported",
+      "source": {
+        "type": "other",
+        "url": "https://www.hawaiianelectric.com/about-us/newsroom",
+        "publisher": "Hawaiian Electric",
+        "quote": "For public safety, the company initiated its PSPS program and shut off power for a few hours yesterday in Pukalani, Maui, due to low humidity and high winds.",
+        "retrievedISO": "2026-10-26T08:14:56.559Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-27",
+      "text": "Hawaiian Electric activated a PSPS in Pukalani, affecting about 485 customers.",
+      "basis": "reported",
+      "source": {
+        "type": "county-release",
+        "url": "https://www.mauicounty.gov/m/newsflash/Home/Detail/19532",
+        "publisher": "County of Maui",
+        "quote": "Hawaiian Electric (HECO) announced today that it activated its Public Safety Power Shutoff, or PSPS, program in Pukalani because of high winds, dry conditions and increased wildfire risk, affecting about 485 customers.",
+        "retrievedISO": "2026-10-26T08:14:45.224Z"
+      }
+    },
+    {
+      "dateISO": "2026-02-10",
+      "text": "The County opened a temporary service site at Lahaina Civic Center during a PSPS in West Maui.",
+      "basis": "reported",
+      "source": {
+        "type": "county-release",
+        "url": "https://www.mauicounty.gov/m/newsflash/Home/Detail/18266",
+        "publisher": "County of Maui",
+        "quote": "'s Public Safety Power Shutoff (PSPS), County of Maui departments are opening at 7 p.m. today a temporary service site at Lahaina Civic Center for West Maui residents needing to charge phones and other electronic devices.",
+        "retrievedISO": "2026-10-26T08:15:07.068Z"
+      }
+    },
+    {
+      "dateISO": "2024-11-14",
+      "text": "People who rely on powered medical equipment were urged to fill out a medical needs form.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lh7UtxNLLFU",
+        "ts": "0:32:58",
+        "endTs": "0:33:28",
+        "retrievedISO": "2026-10-12T06:30:29.333Z"
+      },
+      "body": "Committee on Persons with Disabilities"
+    },
+    {
+      "dateISO": "2024-11-14",
+      "text": "The company said shutoffs depend on drought, wind gusts of 45 miles per hour or more, and humidity below 45%.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lh7UtxNLLFU",
+        "ts": "0:27:29",
+        "endTs": "0:27:59",
+        "retrievedISO": "2026-10-12T06:30:29.333Z"
+      },
+      "body": "Committee on Persons with Disabilities"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    },
+    {
+      "name": "Committee on Persons with Disabilities",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
+  "fromCommunityMeetings": [
+    {
+      "dateISO": "2024-07-23",
+      "kind": "official",
+      "who": "Director of the Department of Water Supply",
+      "quote": "But we are implementing technologies that would allow an automatic switch over. So if the power goes off, the generator automatically comes on.",
+      "about": "Explains that water facilities are getting automatic generator switchovers for when the power company shuts off power.",
+      "source": {
+        "type": "community-meeting",
+        "title": "Kula Community Meeting: Fire Preparedness July 23, 2024",
+        "videoId": "1eqgL4KYGwU",
+        "ts": 3680
+      }
+    },
+    {
+      "dateISO": "2024-07-23",
+      "kind": "resident",
+      "who": "An Upcountry resident",
+      "quote": "If we were to have, let's say the PSPS program activates for upper Kula, the power is shut off. What's your comfort level of our ability to access water to fight a fire?",
+      "about": "Shows resident concern about whether firefighting water would be available during a utility power shutoff in Upper Kula.",
+      "source": {
+        "type": "community-meeting",
+        "title": "Kula Community Meeting: Fire Preparedness July 23, 2024",
+        "videoId": "1eqgL4KYGwU",
+        "ts": 6593
+      }
+    },
+    {
+      "dateISO": "2024-07-23",
+      "kind": "official",
+      "who": "Director of the Department of Water Supply",
+      "quote": "Most likely it would be 8 or 9. We're in good shape.",
+      "about": "Gives the water director's confidence that Upcountry water would hold up for firefighting during a power shutoff.",
+      "source": {
+        "type": "community-meeting",
+        "title": "Kula Community Meeting: Fire Preparedness July 23, 2024",
+        "videoId": "1eqgL4KYGwU",
+        "ts": 6607
+      }
+    }
+  ]
+}

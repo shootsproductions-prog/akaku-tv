@@ -1,0 +1,223 @@
+{
+  "slug": "maui-research-and-technology-park-land-designation",
+  "title": "Maui Research and Technology Park land designation",
+  "summary": "On October 21, 2026, Bill 141 (2026) was the main item. It would move part of the Maui Research and Technology Park's commercial land into the Residential District, growing it from 102.3 to 158 acres, with the 1,250-home cap unchanged. The Maui Planning Commission unanimously recommended approval on September 8, after the council sent the zoning change to it in May.",
+  "topics": [
+    "land-use"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2024-12-10",
+  "lastSeenISO": "2026-10-21",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 2,
+    "mentionsLast30d": 3,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-30",
+  "timeline": [
+    {
+      "dateISO": "2026-10-21",
+      "text": "The chair said the residential area would grow from 102.3 acres to 158 acres.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Pcpudwx07B4",
+        "ts": "0:43:45",
+        "endTs": "0:44:15",
+        "retrievedISO": "2026-10-21T23:01:41.623Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "The cap of 1,250 residential units stays the same.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Pcpudwx07B4",
+        "ts": "0:29:33",
+        "endTs": "0:30:03",
+        "retrievedISO": "2026-10-21T23:01:41.623Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "The bill would also allow minor medical centers in the park's civic district.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "OfgqgyE6vs0",
+        "ts": "0:27:22",
+        "endTs": "0:28:19",
+        "retrievedISO": "2026-10-22T07:21:21.243Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "The top reason given for the bill was to switch part of the park's commercial land to residential land.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "OfgqgyE6vs0",
+        "ts": "0:24:36",
+        "endTs": "0:25:06",
+        "retrievedISO": "2026-10-22T07:21:21.243Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "The number of homes allowed would stay at 1,250.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "RJwnI3weRIY",
+        "ts": "0:23:27",
+        "endTs": "0:23:57",
+        "retrievedISO": "2026-10-23T00:25:06.189Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "The main item was Bill 141 (2026), which would amend the county code chapter for the Maui Research and Technology Park.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Pcpudwx07B4",
+        "ts": "0:18:53",
+        "endTs": "0:19:23",
+        "retrievedISO": "2026-10-21T23:01:41.623Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "The developer said Maui has a critical need for housing, while demand for commercial space is low.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "RJwnI3weRIY",
+        "ts": "0:18:22",
+        "endTs": "0:18:56",
+        "retrievedISO": "2026-10-23T00:25:06.189Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "The Maui Planning Commission unanimously recommended approval at its September 8 meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "RJwnI3weRIY",
+        "ts": "0:15:53",
+        "endTs": "0:16:28",
+        "retrievedISO": "2026-10-23T00:25:06.189Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "Bill 141 (2026) would move land in the Maui Research and Technology Park into the Residential District.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "RJwnI3weRIY",
+        "ts": "0:12:40",
+        "endTs": "0:13:22",
+        "retrievedISO": "2026-10-23T00:25:06.189Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-25",
+      "text": "The September 8th meeting will include a council resolution and zoning changes for the Maui Research and Technology Park.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Anutl3CRkaQ",
+        "ts": "6:26:52",
+        "endTs": "6:27:36",
+        "retrievedISO": "2026-10-09T06:35:11.734Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2024-12-10",
+      "text": "The director said the department could talk with the research park's landowner if the commission takes up the map again later.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "nBW_aexDotM",
+        "ts": "1:29:10",
+        "endTs": "1:29:41",
+        "retrievedISO": "2026-10-12T06:30:18.226Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2024-12-10",
+      "text": "A second motion to designate the whole park special purpose district also failed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "nBW_aexDotM",
+        "ts": "1:23:53",
+        "endTs": "1:24:44",
+        "retrievedISO": "2026-10-12T06:30:18.226Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2024-12-10",
+      "text": "The planning director said special purpose district is absolutely inappropriate for the park.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "nBW_aexDotM",
+        "ts": "0:42:46",
+        "endTs": "0:43:16",
+        "retrievedISO": "2026-10-12T06:30:18.226Z"
+      },
+      "body": "Maui Planning Commission"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Housing and Land Use Committee",
+      "group": "council",
+      "short": [
+        "HLU"
+      ]
+    },
+    {
+      "name": "Maui Planning Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [
+    "Bill 141 (2026)"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
+  "fromCommunityMeetings": [
+    {
+      "dateISO": "2023-10-16",
+      "kind": "official",
+      "who": "County Planning Department staff",
+      "quote": "And then MRTP is saying the entire area should be special purpose district and not include the park designation or the open space designation.",
+      "about": "Staff explain that the Maui Research and Technology Park has asked for its whole area to be designated special purpose district without park or open space designations in the South Maui Community Plan.",
+      "source": {
+        "type": "community-meeting",
+        "title": "We Are South Maui CPAC Meeting of October 16, 2023",
+        "videoId": "iEvMvlI_05w",
+        "ts": 6207
+      }
+    }
+  ]
+}
