@@ -25,7 +25,7 @@
       }
     }
   },
-  "asOfISO": "2026-10-30",
+  "asOfISO": "2026-10-31",
   "boards": [
     {
       "name": "Maui County Council",
@@ -658,7 +658,7 @@
     },
     {
       "dateISO": "2026-09-09",
-      "text": "Motion to adopt Resolution 26-130: A motion to adopt Resolution 26-130 was on the floor when the recording ended, with no vote heard.",
+      "text": "Motion to adopt Resolution 26-130: A motion to adopt Resolution 26-130 was on the floor when the meeting video ended, with no vote heard.",
       "basis": "said-at-meeting",
       "source": {
         "type": "meeting",
@@ -710,7 +710,7 @@
     },
     {
       "dateISO": "2026-09-09",
-      "text": "Motion to recommend adoption of resolution 26-129: A motion to recommend adoption of resolution 26-129 was made and seconded, but no vote was taken in this recording.",
+      "text": "Motion to recommend adoption of resolution 26-129: A motion to recommend adoption of resolution 26-129 was made and seconded, but no vote was taken in the meeting video.",
       "basis": "said-at-meeting",
       "source": {
         "type": "meeting",
