@@ -1,7 +1,246 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T09:59:19.466Z",
-  "areas": [],
-  "meetings": [],
-  "askedAgain": []
+  "generatedAt": "2026-10-31T03:27:27.815Z",
+  "areas": [
+    {
+      "id": "west-maui",
+      "label": "Lahaina and West Maui"
+    },
+    {
+      "id": "upcountry",
+      "label": "Upcountry"
+    },
+    {
+      "id": "molokai",
+      "label": "Molokaʻi"
+    }
+  ],
+  "meetings": [
+    {
+      "videoId": "-DdmFETaPMM",
+      "slug": "2024-03-13-lahaina-disaster-recovery-update",
+      "accent": "#917a3b",
+      "thumbnail": "https://i.ytimg.com/vi/-DdmFETaPMM/hqdefault.jpg",
+      "title": "Lahaina Disaster Recovery Update Meeting: March 13, 2024",
+      "dateISO": "2024-03-13",
+      "headline": "Lahaina debris cleanup, water and sewer testing, and landfill land vote update",
+      "in60": "Maui County held its weekly Lahaina disaster recovery meeting with Mayor Bissen, Councilmember Paltin, the Army Corps of Engineers and the EPA. The Army Corps said 306 fire-damaged properties have been cleared of debris, and the EPA said sewer line inspections are done and water main testing is nearly finished. Councilmember Paltin said a resolution to take Central Maui landfill land by eminent domain fell one vote short at five of six needed, with more discussion March 19 and a new vote March 22. About 14 residents asked questions, mostly about the gravel left on cleared lots, rebuilding timelines, water and sewer restoration, and the eminent domain plan. Some questions were left open, including FEMA housing eligibility for people with past convictions and whether water meters can be permitted before building permits.",
+      "minutes": 79,
+      "parts": 8,
+      "speakers": 16,
+      "participation": {
+        "residents": 14,
+        "organizations": 0,
+        "officials": 8,
+        "committee_members": 0
+      },
+      "votes": 0,
+      "openQuestions": 4,
+      "areas": [
+        "west-maui"
+      ],
+      "issues": [
+        "lahaina-long-term-recovery-plan"
+      ],
+      "moments": 0
+    },
+    {
+      "videoId": "eiqG5W7BGpY",
+      "slug": "2024-02-24-molokai-history-project-mid-nite-inn-talk-story-with-john",
+      "accent": "#0f6cbd",
+      "thumbnail": "https://i.ytimg.com/vi/eiqG5W7BGpY/hqdefault.jpg",
+      "title": "Molokai History Project - Mid Nite Inn: Talk Story with John & Philip Kikukawa",
+      "dateISO": "2024-02-24",
+      "headline": "Molokaʻi talk story recalls the Midnight Inn and plantation-era island life",
+      "in60": "The Molokaʻi History Project hosted a recorded talk story with two brothers whose family ran the Midnight Inn restaurant in Kaunakakai. They shared memories of growing up in the restaurant, their grandmother's start with a saimin stand, their father's service in the 442nd, and plantation-era jobs and businesses. About seven people spoke, including audience members who worked at the inn or grew up nearby. Speakers raised concerns about newcomers who do not connect with the community, youth fights between parts of the island, development pressure and whether ferry service will return. No decisions were made, and participants said they would like to hold more sessions like this.",
+      "minutes": 115,
+      "parts": 9,
+      "speakers": 10,
+      "participation": {
+        "residents": 7,
+        "organizations": 0,
+        "officials": 0,
+        "committee_members": 0
+      },
+      "votes": 0,
+      "openQuestions": 1,
+      "areas": [
+        "molokai"
+      ],
+      "issues": [
+        "proposed-maui-county-passenger-ferry-to-molokai-and-lanai"
+      ],
+      "moments": 0
+    },
+    {
+      "videoId": "Js4JdVaJyc0",
+      "slug": "2024-01-23-kula-disaster-recovery-update",
+      "accent": "#2e5760",
+      "thumbnail": "https://i.ytimg.com/vi/Js4JdVaJyc0/hqdefault.jpg",
+      "title": "Kula Disaster Recovery Update Meeting: January 23, 2024",
+      "dateISO": "2024-01-23",
+      "headline": "Kula debris cleanup finished; residents press on leftover debris and insurance",
+      "in60": "Maui County, federal and state officials met with Kula fire survivors for a recovery update. The Army Corps of Engineers said it finished all 25 Kula properties in the federal debris program and returned the rights of entry to the County. The SBA said its disaster loan grace period ends Thursday, and the Office of Recovery said an expedited permitting vendor should be picked by February 16 and running this spring. Five people asked questions. A Mālama Kula leader said Kula is not clean and asked who will clear debris and toxic ash outside home footprints. A resident pressed the State Insurance Commissioner on whether insurers will extend living-expense coverage to three years. Both questions, along with when gulch cleanup will start and whether permits filed now go ahead of expedited ones, were left without firm answers.",
+      "minutes": 79,
+      "parts": 10,
+      "speakers": 7,
+      "participation": {
+        "residents": 4,
+        "organizations": 1,
+        "officials": 10,
+        "committee_members": 0
+      },
+      "votes": 0,
+      "openQuestions": 5,
+      "areas": [
+        "upcountry"
+      ],
+      "issues": [],
+      "moments": 0
+    },
+    {
+      "videoId": "YFLMwRW1Bu0",
+      "slug": "2023-12-18-debris-disposal-at-lahaina-civic-center",
+      "accent": "#775f32",
+      "thumbnail": "https://i.ytimg.com/vi/YFLMwRW1Bu0/hqdefault.jpg",
+      "title": "Debris Disposal Meeting at Lahaina Civic Center: December 18, 2023",
+      "dateISO": "2023-12-18",
+      "headline": "Lahaina wildfire debris removal plan and search for a permanent ash disposal site",
+      "in60": "County of Maui, FEMA and U.S. Army Corps of Engineers officials held a community meeting at Lahaina Civic Center on the next phase of the wildfire cleanup, which is removing debris and ash from Lahaina. The Army Corps said debris removal in Lahaina should begin in mid-January, with ash going first to a temporary storage site being built at the Olowalu cinder pits. The County said no permanent disposal site has been chosen; it scored eight sites, and Olowalu ranked first on infrastructure and health criteria. Officials answered about 25 written questions, and three people spoke from the floor, including a Lahaina Strong representative who shared survey results from 834 people. Unresolved items include the final site, how human remains in the ash will be respected, and whether alternatives like pyrolysis or bioremediation will be used. The Mayor said the final site decision will be his, with his advisors.",
+      "minutes": 108,
+      "parts": 8,
+      "speakers": 32,
+      "participation": {
+        "residents": 2,
+        "organizations": 2,
+        "officials": 6,
+        "committee_members": 0
+      },
+      "votes": 0,
+      "openQuestions": 5,
+      "areas": [
+        "west-maui"
+      ],
+      "issues": [],
+      "moments": 0
+    },
+    {
+      "videoId": "_AlZIX9Z6JE",
+      "slug": "2023-12-12-kula-disaster-recovery-update",
+      "accent": "#2d5362",
+      "thumbnail": "https://i.ytimg.com/vi/_AlZIX9Z6JE/hqdefault.jpg",
+      "title": "Kula Disaster Recovery Update Meeting: December 12, 2023",
+      "dateISO": "2023-12-12",
+      "headline": "Kula fire recovery update: debris removal, rebuild permits, lead and air testing",
+      "in60": "County, state and federal agencies held their weekly Upcountry meeting on Kula wildfire recovery. The Army Corps of Engineers reported debris fully removed from 18 of 24 enrolled properties. Public Works said rebuild permits can be submitted now but cannot be issued until debris removal is verified, with no fee waivers and an emergency permit office targeted for March or early April. Health officials reported no asbestos in air samples and no elevated blood lead among 25 Kula adults tested. Eight people asked questions, mostly about neighbors' damaged but unburned properties, permit delays, temporary housing and insurance living expenses. A visit by the state insurance commissioner and soil testing for neighboring properties remain unresolved.",
+      "minutes": 63,
+      "parts": 10,
+      "speakers": 9,
+      "participation": {
+        "residents": 7,
+        "organizations": 1,
+        "officials": 10,
+        "committee_members": 0
+      },
+      "votes": 0,
+      "openQuestions": 5,
+      "areas": [
+        "upcountry"
+      ],
+      "issues": [],
+      "moments": 0
+    },
+    {
+      "videoId": "4bfNvnqBrwc",
+      "slug": "2023-12-06-lahaina-disaster-recovery-update",
+      "accent": "#8e3e47",
+      "thumbnail": "https://i.ytimg.com/vi/4bfNvnqBrwc/hqdefault.jpg",
+      "title": "Lahaina Disaster Recovery Update Meeting: December 6, 2023",
+      "dateISO": "2023-12-06",
+      "headline": "Lahaina recovery update: housing, debris removal timeline, temporary school and loans",
+      "in60": "Maui County, federal and state agencies gave their weekly Lahaina recovery update at a community gym, with staff staying afterward to answer individual questions at tables. No residents testified from the floor; about a dozen officials and community partners presented. The Mayor said a council measure offering tax waivers to owners who rent units to fire survivors passed and faces final reading next week, aiming for 2,700 to 3,000 units. Reentry ends next Tuesday, debris removal is set to start mid-January, the temporary King Kamehameha III Elementary is due within 95 days of November 20, and the FEMA aid deadline is December 11, with SBA loan applications accepted until January 25. Unresolved items include sewer service for Wahikuli and standing burn-zone homes, the Olowalu debris site transfer, and release of ash test results.",
+      "minutes": 57,
+      "parts": 10,
+      "speakers": 0,
+      "participation": {
+        "residents": 0,
+        "organizations": 2,
+        "officials": 11,
+        "committee_members": 0
+      },
+      "votes": 0,
+      "openQuestions": 5,
+      "areas": [
+        "west-maui"
+      ],
+      "issues": [],
+      "moments": 0
+    },
+    {
+      "videoId": "_nlcVTlvHj0",
+      "slug": "2023-11-08-disaster-recovery-community-update-1-at-lahaina-civic-center",
+      "accent": "#23774e",
+      "thumbnail": "https://i.ytimg.com/vi/_nlcVTlvHj0/hqdefault.jpg",
+      "title": "Disaster Recovery Community Update Meeting #1 at Lahaina Civic Center: November 8, 2023",
+      "dateISO": "2023-11-08",
+      "headline": "First weekly Lahaina fire recovery update covers reentry, cleanup, insurance and housing",
+      "in60": "County, state and federal agencies held the first of a planned weekly series of recovery updates at the Lahaina Civic Center. The Mayor opened, and Maui Emergency Management's administrator ran a program of short agency reports, with questions sent to breakout tables instead of an open mic. EPA said its hazardous material cleanup was 92 percent done and soil stabilizer work was about 34 percent done. The Army Corps explained right-of-entry debris removal, the Department of Health covered air and ash testing, the Insurance Commissioner reported claims paid, and FEMA described rental help that can run up to 18 months. One resident objected loudly to soil stabilizer being sprayed while owners were on their properties, and the emergency administrator said he would fix the coordination. Officials announced the SBA loan deadline had been extended into December and that meetings will continue every Wednesday at 5:30.",
+      "minutes": 52,
+      "parts": 10,
+      "speakers": 1,
+      "participation": {
+        "residents": 1,
+        "organizations": 0,
+        "officials": 8,
+        "committee_members": 0
+      },
+      "votes": 0,
+      "openQuestions": 2,
+      "areas": [
+        "west-maui"
+      ],
+      "issues": [
+        "moving-fire-survivors-off-fema-interim-housing"
+      ],
+      "moments": 0
+    }
+  ],
+  "askedAgain": [
+    {
+      "label": "Building permits and timing for fire rebuilds",
+      "meetings": [
+        "2023-12-18-debris-disposal-at-lahaina-civic-center",
+        "2024-03-13-lahaina-disaster-recovery-update"
+      ],
+      "from": "2023-12-18",
+      "to": "2024-03-13"
+    },
+    {
+      "label": "Restoring sewer service in the Lahaina burn zone",
+      "meetings": [
+        "2023-12-06-lahaina-disaster-recovery-update",
+        "2024-03-13-lahaina-disaster-recovery-update"
+      ],
+      "from": "2023-12-06",
+      "to": "2024-03-13"
+    },
+    {
+      "label": "Extending insurance additional living expense coverage",
+      "meetings": [
+        "2023-12-12-kula-disaster-recovery-update",
+        "2024-01-23-kula-disaster-recovery-update"
+      ],
+      "from": "2023-12-12",
+      "to": "2024-01-23"
+    },
+    {
+      "label": "Permanent Lahaina fire debris disposal site",
+      "meetings": [
+        "2023-11-08-disaster-recovery-community-update-1-at-lahaina-civic-center",
+        "2023-12-18-debris-disposal-at-lahaina-civic-center"
+      ],
+      "from": "2023-11-08",
+      "to": "2023-12-18"
+    }
+  ]
 }
