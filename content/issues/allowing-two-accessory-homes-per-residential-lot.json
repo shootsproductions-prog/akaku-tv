@@ -14,7 +14,16 @@
     "meetingsLast30d": 0,
     "meetingsLast90d": 0,
     "mentionsLast30d": 0,
-    "upcomingEvent": null
+    "upcomingEvent": {
+      "dateISO": "2026-12-31",
+      "what": "County must adopt its rules",
+      "source": {
+        "type": "meeting",
+        "videoId": "uMPNxxCZOYk",
+        "ts": "0:06:29",
+        "retrievedISO": "2026-10-16T21:12:39.091Z"
+      }
+    }
   },
   "asOfISO": "2026-10-30",
   "boards": [
