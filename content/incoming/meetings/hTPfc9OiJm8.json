@@ -1,0 +1,80 @@
+{
+  "videoId": "hTPfc9OiJm8",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-23T00:42:14.777Z",
+  "meetingDateISO": "2026-10-20",
+  "source": {
+    "youtubeUrl": "https://youtu.be/hTPfc9OiJm8"
+  },
+  "headline": "Maui County Council Government Relations, Ethics, and Transparency Committee",
+  "topics": [],
+  "meeting": {
+    "id": "hTPfc9OiJm8",
+    "mon": "Oct",
+    "day": "20",
+    "date": "Tue, Oct 20, 2026",
+    "body": "Maui County Council Government Relations, Ethics, and Transparency Committee",
+    "dur": "2 h 33 m",
+    "voteCount": 1,
+    "voteItem": "Amendment to restore an administrative fine of up to $5,000 per violation",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee voted 8–0 on Bill 100, which sets lobbyist rules, and heard an update on a study of County boards and commissions.",
+    "recap": "The committee took up Bill 100 (2026), which would set registration, reporting and penalty rules for lobbyists.[[0:05:08]] The director said a lobbyist training requirement was removed from the bill.[[0:09:51]] The Board of Ethics wanted fines of up to $5,000 per violation, like the state.[[0:10:34]] A County lawyer said a $5,000 fine would be allowed under the County charter.[[0:26:02]] A motion was made to put the up-to-$5,000 fine back into the bill.[[1:26:09]] The committee voted 9–0 to widen one definition so the rules cover matters sent to the Planning Commission and votes on department heads.[[1:31:38]] The committee voted 8–0 on the main motion as amended, with one member excused.[[1:33:41]] A county commission gave an update on its study of County boards and commissions.[[1:35:29]] The commission chair said it reviewed 15 of the County's 37 boards.[[1:37:35]] The chair recommended sunset dates or regular reviews for boards, and a minimum staff support standard for each.[[1:43:45]] A student testified in support of making the Commission on Children and Youth led by youth.[[1:54:31]] The committee deferred the item, which was posted for no vote.[[2:32:44]]",
+    "decided": [
+      "A motion to replace the bill with a revised draft (CD1) was made and seconded, and the captions do not clearly show a separate vote on it.",
+      "The amendment was moved and seconded, but the vote result is not clear in the captions.",
+      "The chair deferred the boards and commissions update item after asking for objections."
+    ],
+    "next": "The chair said the full council will take up the bill very shortly. The director said she would ask the state whether it has ever given a $5,000 fine and report back.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:08:25",
+        "q": "\"Maui County remains the only jurisdiction in Hawaiʻi without comprehensive lobbyist rules.\""
+      },
+      {
+        "t": "0:59:19",
+        "q": "Ethics director cites an ad campaign as an example the rules would cover"
+      },
+      {
+        "t": "1:35:29",
+        "q": "Boards and commissions study update begins"
+      },
+      {
+        "t": "1:54:31",
+        "q": "Student testifies for a youth-led commission"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "cost-of-government-review-of-county-boards",
+        "title": "Cost of Government review of county boards"
+      },
+      {
+        "slug": "ethics-bills-on-nepotism-lobbyists-and-ex-employees",
+        "title": "Ethics bills on nepotism, lobbyists and ex-employees"
+      },
+      {
+        "slug": "future-of-the-commission-on-children-and-youth",
+        "title": "Future of the Commission on Children and Youth"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Government Relations, Ethics, and Transparency Committee",
+        "group": "council",
+        "short": [
+          "GREAT"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 100 (2026)"
+    ]
+  },
+  "issues": [],
+  "bodyType": "council"
+}

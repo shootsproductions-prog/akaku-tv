@@ -1,0 +1,126 @@
+{
+  "videoId": "elf0DfB_afI",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T07:24:07.403Z",
+  "meetingDateISO": "2026-08-06",
+  "source": {
+    "youtubeUrl": "https://youtu.be/elf0DfB_afI"
+  },
+  "headline": "Maui County Council Agriculture, Diversification, Environment, & Public Transportation Committee",
+  "topics": [
+    "Food Security"
+  ],
+  "meeting": {
+    "id": "elf0DfB_afI",
+    "mon": "Aug",
+    "day": "6",
+    "date": "Thu, Aug 6, 2026",
+    "body": "Maui County Council Agriculture, Diversification, Environment, & Public Transportation Committee",
+    "dur": "1 h 34 m",
+    "voteCount": 1,
+    "voteItem": "Amendment to section F on where the five-year updated plan is submitted",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee recommended passing Bill 98, which would establish a Food and Nutrition Security Plan, with six ayes and one member excused.",
+    "recap": "The only item was Bill 98, which would establish a Food and Nutrition Security Plan.[[0:03:36]] The chair said a 2024 survey found 60 percent of Maui County residents and 70 percent of fire survivors cut back on groceries for money reasons.[[0:04:27]] The Department of Agriculture director said the department supports adding the plan to the county code.[[0:10:19]] A speaker for the Maui County Farm Bureau asked the committee to delay the bill so producers could suggest changes.[[0:20:33]] The speaker said the Farm Bureau does not want to stop the bill and hopes to weigh in before a later reading.[[0:23:08]] The chair called for a motion to recommend passing Bill 98 on first reading.[[1:24:19]] Members voted to have each five-year plan update sent to the council instead of the county.[[1:27:10]] That motion, as amended, passed with six ayes and one member excused.[[1:32:20]]",
+    "decided": [
+      "The committee approved changing the bill so each five-year updated plan is submitted to the council instead of the county."
+    ],
+    "next": "The chair said first reading of the bill happens at the full council. The chair said there is a chance to make changes at first and second reading. Department staff said they will share an annual progress update on the dashboard.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:04:27",
+        "q": "Survey: 60 percent of residents and 70 percent of fire survivors cut back on groceries"
+      },
+      {
+        "t": "0:20:33",
+        "q": "Farm Bureau asks the committee to defer the bill"
+      },
+      {
+        "t": "0:52:28",
+        "q": "\"It's really just advisory.\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [],
+    "boards": [
+      {
+        "name": "Agriculture, Diversification, Environment, and Public Transportation Committee",
+        "group": "council",
+        "short": [
+          "ADEPT"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 98 (2026)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Food Security",
+      "since": "Aug 6, 2026",
+      "oneLine": "Bill 98 would establish a Food and Nutrition Security Plan in county law.",
+      "why": "The chair said a 2024 survey found 60 percent of Maui County residents and 70 percent of fire survivors cut back on groceries for money reasons.",
+      "deadlines": [
+        {
+          "d": "within 120 days of the effective date of this chapter",
+          "t": "Online dashboard to track the plan's progress."
+        }
+      ],
+      "next": "The chair said first reading of the bill happens at the full council.",
+      "brief": "The bill requires an online dashboard within 120 days to track the plan's progress.[[#1]] Department staff said the plan has 131 actions.[[#2]] The committee's final motion on the bill passed with six ayes and one member excused.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Aug",
+          "day": "6",
+          "source": "Maui County Council Agriculture, Diversification, Environment, & Public Transportation Committee",
+          "kind": "tv",
+          "title": "Maui County Council Agriculture, Diversification, Environment, & Public Transportation Committee",
+          "note": "Bill 98 would establish a Food and Nutrition Security Plan in county law.",
+          "proof": "0:22:03",
+          "view": {
+            "type": "meeting",
+            "id": "elf0DfB_afI"
+          },
+          "seek": "0:22:03"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Agriculture, Diversification, Environment, & Public Transportation Committee · Aug 6",
+          "where": "Meeting video at 0:22:03",
+          "view": {
+            "type": "meeting",
+            "id": "elf0DfB_afI"
+          },
+          "seek": "0:22:03"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Agriculture, Diversification, Environment, & Public Transportation Committee · Aug 6",
+          "where": "Meeting video at 0:43:14",
+          "view": {
+            "type": "meeting",
+            "id": "elf0DfB_afI"
+          },
+          "seek": "0:43:14"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Agriculture, Diversification, Environment, & Public Transportation Committee · Aug 6",
+          "where": "Meeting video at 1:32:20",
+          "view": {
+            "type": "meeting",
+            "id": "elf0DfB_afI"
+          },
+          "seek": "1:32:20"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

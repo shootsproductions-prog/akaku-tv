@@ -1,0 +1,124 @@
+{
+  "videoId": "x6KG7KwLCAY",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T12:24:33.838Z",
+  "meetingDateISO": "2026-09-01",
+  "source": {
+    "youtubeUrl": "https://youtu.be/x6KG7KwLCAY"
+  },
+  "headline": "Committee defers emergency donations bill and vehicle disposal fee fund item",
+  "topics": [
+    "Disaster Recovery"
+  ],
+  "meeting": {
+    "id": "x6KG7KwLCAY",
+    "mon": "Sep",
+    "day": "1",
+    "date": "Tue, Sep 1, 2026",
+    "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+    "dur": "2 h 11 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee deferred both items without a vote on the vehicle fund. The department asked to keep the $25 fee, and the chair said the committee will work with the department and return with a bill on the vehicle disposal fund.",
+    "recap": "The committee took up two items: an emergency donations bill and the vehicle disposal fee fund.[[0:02:56]] The money could be used only for emergency management, with quarterly reports to the Council.[[0:04:36]] Finance officials asked that donations go into a grant fund, not a special revolving fund.[[0:08:04]] One testifier supported the bill.[[0:19:04]] The committee deferred the bill, meaning it put off a decision.[[0:55:13]] The vehicle disposal fund holds over $19 million, and about $3 million of it is budgeted for fiscal year 27.[[0:57:26]] A testifier asked for help removing cars from property when the car's owner is unknown.[[1:06:07]] A department official said the County code could be changed to widen how the fund is used.[[1:25:05]] A department official said electric vehicles are being stockpiled because of permitting and shipping limits.[[1:37:27]] The department asked to keep the $25 fee at $25.[[1:49:54]] The committee deferred this item too.[[2:10:39]]",
+    "decided": [
+      "The committee chair deferred the item without a vote."
+    ],
+    "next": "The committee will wait for the new draft and the general budget provision changes. The committee chair said the committee will work with the department and come back with a bill on the vehicle disposal fund. The department offered to provide data on how soon reported abandoned vehicles are towed. The committee will send the question about an electric vehicle battery holding or processing facility to the department.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:13:45",
+        "q": "\"Over $140 million is a lot of money, and we need to have some kind of oversight\""
+      },
+      {
+        "t": "1:49:54",
+        "q": "Department asks to keep the $25 vehicle disposal fee"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "bill-to-track-emergency-donations-deferred",
+        "title": "Bill to track emergency donations deferred"
+      },
+      {
+        "slug": "vehicle-disposal-fund-uses-and-25-fee",
+        "title": "Vehicle disposal fund uses and $25 fee"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Budget, Finance, and Economic Development Committee",
+        "group": "council",
+        "short": [
+          "BFED"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Disaster Recovery",
+      "since": "Sep 1, 2026",
+      "oneLine": "A bill would set up a way for the County to accept donations during emergencies.",
+      "why": "",
+      "deadlines": [],
+      "next": "",
+      "brief": "Donations under the bill would be used only for emergency management functions.[[#1]] Finance officials prefer a grant fund so donations do not show up as County revenue.[[#2]] The administration said it can work with the Council on reporting for donations.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Sep",
+          "day": "1",
+          "source": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "kind": "tv",
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "note": "A bill would set up a way for the County to accept donations during emergencies.",
+          "proof": "0:04:36",
+          "view": {
+            "type": "meeting",
+            "id": "x6KG7KwLCAY"
+          },
+          "seek": "0:04:36"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Sep 1",
+          "where": "Meeting video at 0:04:36",
+          "view": {
+            "type": "meeting",
+            "id": "x6KG7KwLCAY"
+          },
+          "seek": "0:04:36"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Sep 1",
+          "where": "Meeting video at 0:08:30",
+          "view": {
+            "type": "meeting",
+            "id": "x6KG7KwLCAY"
+          },
+          "seek": "0:08:30"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Sep 1",
+          "where": "Meeting video at 0:30:44",
+          "view": {
+            "type": "meeting",
+            "id": "x6KG7KwLCAY"
+          },
+          "seek": "0:30:44"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

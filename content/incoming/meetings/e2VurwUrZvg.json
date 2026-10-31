@@ -1,0 +1,121 @@
+{
+  "videoId": "e2VurwUrZvg",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T19:25:29.870Z",
+  "meetingDateISO": "2026-06-17",
+  "source": {
+    "youtubeUrl": "https://youtu.be/e2VurwUrZvg"
+  },
+  "headline": "Committee discusses 2026 storm recovery, SBA loans and Kīhei gulch sediment; item deferred",
+  "topics": [
+    "Disaster Recovery"
+  ],
+  "meeting": {
+    "id": "e2VurwUrZvg",
+    "mon": "Jun",
+    "day": "17",
+    "date": "Wed, Jun 17, 2026",
+    "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+    "dur": "1 h 54 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee took up DRIP 9.4 on long-term recovery from the 2026 storms, including SBA loans, 92 damaged County sites and about $100 million in damages. The item was deferred without objection.",
+    "recap": "The committee's only item was DRIP 9.4, Maui's long-term recovery operations, focused on recovery from the 2026 storms.[[0:06:03]] The deadline was June 14, but late applications are accepted until August 13.[[0:11:22]] SBA has approved 170 loans, for over $11 million.[[0:16:19]] No loan payments are due until 12 months after the first payout.[[0:16:52]] SBA opened a loan help center in Kīhei, open Monday through Friday, 9 to 6.[[0:17:20]] About 300,000 cubic yards of sediment in the Kīhei gulches needs to be removed.[[0:28:43]] FEMA (the federal disaster agency) left parks facilities out of reimbursement, and the state has appealed.[[0:34:37]] A request for more than $20 million to clear three gulches is with the USDA.[[0:52:20]] A structural review of a storm-damaged gym is expected within about 60 days.[[1:16:55]] Officials agreed to send a follow-up letter about a detention basin issue the chair raised.[[1:47:34]] The item was deferred without objection.[[1:52:57]]",
+    "decided": [],
+    "next": "The County is doing more site inspections with FEMA, then will send a final damage report to FEMA. Officials expect to come back sometime in fiscal 27 with a budget amendment to cover the funding need. A follow-up letter will go to Public Works about the detention basin issue.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:08:27",
+        "q": "\"So please remember to tell people that homeowners and renters are eligible for loans.\""
+      },
+      {
+        "t": "0:22:23",
+        "q": "Map of storm damage: \"every circle on there represents damaged infrastructure that the county owns\""
+      },
+      {
+        "t": "1:01:41",
+        "q": "How sinkholes form: \"Water is kind of an enemy of pavement.\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "storm-damaged-parks-and-closed-kula-gym",
+        "title": "Storm-damaged parks and closed Kula gym"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Disaster Recovery, International Affairs, and Planning Committee",
+        "group": "council",
+        "short": [
+          "DRIP"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Disaster Recovery",
+      "since": "Jun 17, 2026",
+      "oneLine": "The County is working on long-term recovery from damage caused by the 2026 storms.",
+      "why": "Officials said about $100 million in storm projects are coming that the County must pay for up front, and that cost was not really budgeted.",
+      "deadlines": [
+        {
+          "d": "over the next two weeks",
+          "t": "Storm line work at the sinkhole repair still in progress."
+        },
+        {
+          "d": "in the next 60 days or so",
+          "t": "Structural evaluation of the storm-damaged gym."
+        }
+      ],
+      "next": "The County is checking damaged sites with FEMA in the field before sending a final report.",
+      "brief": "FEMA has approved $4 million for individuals and households on Maui.[[#1]] The County counts 92 damaged sites, adding up to around $100 million in damages.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Jun",
+          "day": "17",
+          "source": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+          "kind": "tv",
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+          "note": "The County is working on long-term recovery from damage caused by the 2026 storms.",
+          "proof": "0:26:53",
+          "view": {
+            "type": "meeting",
+            "id": "e2VurwUrZvg"
+          },
+          "seek": "0:26:53"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Jun 17",
+          "where": "Meeting video at 0:26:53",
+          "view": {
+            "type": "meeting",
+            "id": "e2VurwUrZvg"
+          },
+          "seek": "0:26:53"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Jun 17",
+          "where": "Meeting video at 1:24:41",
+          "view": {
+            "type": "meeting",
+            "id": "e2VurwUrZvg"
+          },
+          "seek": "1:24:41"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

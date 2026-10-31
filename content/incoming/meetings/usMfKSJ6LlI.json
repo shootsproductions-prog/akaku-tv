@@ -1,0 +1,67 @@
+{
+  "videoId": "usMfKSJ6LlI",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-15T06:45:19.590Z",
+  "meetingDateISO": "2024-12-10",
+  "source": {
+    "youtubeUrl": "https://youtu.be/usMfKSJ6LlI"
+  },
+  "topics": [
+    "Water",
+    "Housing",
+    "Disaster Recovery"
+  ],
+  "headline": "Maui Planning Commission",
+  "meeting": {
+    "id": "usMfKSJ6LlI",
+    "mon": "Dec",
+    "day": "10",
+    "date": "Tue, Dec 10, 2024",
+    "body": "Maui Planning Commission",
+    "dur": "4 h 51 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The commission voted to recommend amending, not deleting, a water condition on a West Maui housing project.",
+    "recap": "The Maui Planning Commission held its last meeting of the year.[[0:00:34]] The main item was a Council resolution to change conditions on a West Maui housing project.[[0:04:21]] The applicant said the project's first phase is now 240 affordable rentals.[[0:08:30]] The applicant said fire-affected residents, starting with seniors, will get those rentals first.[[0:09:40]] The applicant asked to delete condition two, saying the project already provides its own water source.[[0:11:08]] A carpenters union representative testified against the request.[[0:18:47]] A West Maui resident testified in support of the resolution.[[0:23:09]] The commission met in executive session (a closed-door discussion) with its attorney.[[1:21:55]] The vice chair moved to recommend amending condition two with the applicant's wording.[[2:00:47]] The commission voted to recommend keeping condition 15.[[2:07:02]] That motion passed by roll call.[[2:08:00]] The commission held training on coastal zone and special management area rules.[[2:09:07]] The director of a new County department created by voters in 2022 presented its plans.[[4:29:00]]",
+    "decided": [
+      "The commission went into executive session; no vote on the motion was heard in the recording.",
+      "deny the removal of condition 15: The commission approved an amendment recommending that condition 15 not be removed."
+    ],
+    "next": "The commission's recommendation goes to the County Council, which sent the resolution. The applicant said the project is still waiting for the state water commission to approve its water use permits. Staff said they will post the three training handouts on the agenda website. The planning director said staff will try to put the shoreline rules training on a January agenda. The planning director said she hopes to have County department directors attend commission meetings again early in the year.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:56:55",
+        "q": "\"we're not opposed at all to removing condition two\""
+      },
+      {
+        "t": "1:22:41",
+        "q": "Back from executive session: attorney's summary"
+      },
+      {
+        "t": "3:38:38",
+        "q": "\"about 8 to nine inches of sea level rise in Maui\""
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "west-maui-affordable-housing-project-water-condition",
+        "title": "West Maui affordable housing project water condition"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Maui Planning Commission",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "board"
+}

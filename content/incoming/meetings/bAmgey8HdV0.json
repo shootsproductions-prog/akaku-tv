@@ -1,0 +1,148 @@
+{
+  "videoId": "bAmgey8HdV0",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-23T00:02:05.694Z",
+  "meetingDateISO": "2026-10-19",
+  "source": {
+    "youtubeUrl": "https://youtu.be/bAmgey8HdV0"
+  },
+  "headline": "Committee advances school wastewater deal and zoning cleanup",
+  "topics": [
+    "Water"
+  ],
+  "meeting": {
+    "id": "bAmgey8HdV0",
+    "mon": "Oct",
+    "day": "19",
+    "date": "Mon, Oct 19, 2026",
+    "body": "Maui County Council Water and Infrastructure Committee",
+    "dur": "1 h 27 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee recommended a temporary wastewater deal for a new Central Maui school and a zoning change for six parcels.",
+    "recap": "The committee took up Bill 116, an agreement for temporary wastewater service to a new Central Maui school.[[0:06:02]] The school is expected to open in 2031.[[0:06:15]] If the county's new wastewater plant is not running by then, the existing Wailuku-Kahului plant would take up to 14,500 gallons a day.[[0:06:28]] A testifier urged against adding flow to the existing plant until it has effective disinfection.[[0:15:53]] The environmental management director said the new plant should be running before the school needs service in July 2031.[[0:18:44]] Members voted 9–0 to recommend passing the bill on first reading.[[0:28:13]] Resolution 26-137 would send a zoning change for six parcels to the Maui Planning Commission for review.[[0:28:35]] A consultant for the landowners said the change would make the whole property B2 business zoning.[[0:37:34]] He said the owners are not proposing any new development.[[0:39:22]] Members voted 8–0 to recommend adopting the resolution, with one member excused.[[1:04:39]] The program began in July 2024.[[1:10:36]] Three volunteer groups now take part.[[1:12:25]] The committee deferred the item, setting it aside for now, with no objections.[[1:26:50]]",
+    "decided": [],
+    "next": "",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:13:22",
+        "q": "\"I call it toilet to ocean pathogens.\""
+      },
+      {
+        "t": "0:32:45",
+        "q": "Zoning presentation by the landowners' consultant"
+      },
+      {
+        "t": "1:09:07",
+        "q": "Adopt-a-Street presentation"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "disinfecting-wastewater-that-reaches-the-ocean",
+        "title": "Disinfecting wastewater that reaches the ocean"
+      },
+      {
+        "slug": "central-maui-wastewater-reclamation-facility-funding",
+        "title": "Central Maui wastewater reclamation facility funding"
+      },
+      {
+        "slug": "harbor-triangle-rezoning-including-maui-ocean-center",
+        "title": "Harbor triangle rezoning including Maui Ocean Center"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Water and Infrastructure Committee",
+        "group": "council",
+        "short": [
+          "WAI"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 116 (2026)",
+      "Resolution 26-137"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Water",
+      "since": "Oct 19, 2026",
+      "oneLine": "Bill 116 would set up temporary wastewater service for a new Central Maui school.",
+      "why": "The director called the agreement a Plan B in case the county's new wastewater plant is not running when the school opens.",
+      "deadlines": [
+        {
+          "d": "July of 2031",
+          "t": "New Central Maui school needs wastewater service."
+        }
+      ],
+      "next": "The bill moves to the full Council.",
+      "brief": "The new Central Maui wastewater plant is projected to begin operating in late 2029 or later.[[#1]] The temporary service at the existing plant would be up to 14,500 gallons a day, subject to available capacity.[[#2]] The director said the county has environmental permits for the new plant and is working through land approvals.[[#3]] A testifier said the Kahului plant stopped all disinfection in 2018.[[#4]]",
+      "timeline": [
+        {
+          "mon": "Oct",
+          "day": "19",
+          "source": "Maui County Council Water and Infrastructure Committee",
+          "kind": "tv",
+          "title": "Committee advances school wastewater deal and zoning cleanup",
+          "note": "Bill 116 would set up temporary wastewater service for a new Central Maui school.",
+          "proof": "0:06:21",
+          "view": {
+            "type": "meeting",
+            "id": "bAmgey8HdV0"
+          },
+          "seek": "0:06:21"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Water and Infrastructure Committee · Oct 19",
+          "where": "Meeting video at 0:06:21",
+          "view": {
+            "type": "meeting",
+            "id": "bAmgey8HdV0"
+          },
+          "seek": "0:06:21"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Water and Infrastructure Committee · Oct 19",
+          "where": "Meeting video at 0:06:34",
+          "view": {
+            "type": "meeting",
+            "id": "bAmgey8HdV0"
+          },
+          "seek": "0:06:34"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Water and Infrastructure Committee · Oct 19",
+          "where": "Meeting video at 0:22:55",
+          "view": {
+            "type": "meeting",
+            "id": "bAmgey8HdV0"
+          },
+          "seek": "0:22:55"
+        },
+        {
+          "n": 4,
+          "title": "Maui County Council Water and Infrastructure Committee · Oct 19",
+          "where": "Meeting video at 0:12:58",
+          "view": {
+            "type": "meeting",
+            "id": "bAmgey8HdV0"
+          },
+          "seek": "0:12:58"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

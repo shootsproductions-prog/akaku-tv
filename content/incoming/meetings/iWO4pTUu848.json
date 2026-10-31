@@ -1,0 +1,250 @@
+{
+  "videoId": "iWO4pTUu848",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T11:06:52.625Z",
+  "meetingDateISO": "2026-08-31",
+  "source": {
+    "youtubeUrl": "https://youtu.be/iWO4pTUu848"
+  },
+  "headline": "Maui County Council Water Authority, Social Services, and Parks Committee",
+  "topics": [
+    "Housing",
+    "Food Security",
+    "Disaster Recovery"
+  ],
+  "meeting": {
+    "id": "iWO4pTUu848",
+    "mon": "Aug",
+    "day": "31",
+    "date": "Mon, Aug 31, 2026",
+    "body": "Maui County Council Water Authority, Social Services, and Parks Committee",
+    "dur": "2 h 01 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "A wildfire health study reported fewer people in temporary housing but 23% still severely food insecure; the committee deferred the item.",
+    "recap": "The committee's only item was the Maui Wildfire Exposure Cohort Study.[[0:05:32]] The study, called Maui West, released a new report on July 27, 2026.[[0:06:08]] The share of adults in temporary housing fell from about four in ten to about three in ten.[[0:10:33]] Employment among returning adults rose from 62% to nearly 81%.[[0:17:02]] Food insecurity dropped from about 49.8% to 44.9%, but about 23% remain severely food insecure.[[0:18:37]] Presenters asked council members to help find community spaces for free health screenings under a new program called Hoʻala.[[0:25:43]] A wildfire survivor testified and asked the County to audit subcontractors.[[0:33:57]] Presenters said the study stopped in June for a couple of months because it had no funding.[[0:42:57]] Presenters said County parks have not let them hold screenings because they collect blood.[[1:26:01]] The committee deferred the item without objection.[[1:59:52]]",
+    "decided": [],
+    "next": "Presenters said they had not reviewed the food security plan but are happy to review it and give comments. The study team said it will post its screening schedule on its website. The County is meeting with FEMA on how their caseworkers can meet together with residents at the housing site. Council members are to contact the study team to schedule meetings about sites in their districts.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:07:28",
+        "q": "\"Recovery is underway, but it remains uneven.\""
+      },
+      {
+        "t": "0:08:11",
+        "q": "Study video: the road to recovery, three years later"
+      },
+      {
+        "t": "0:30:26",
+        "q": "Public testimony begins"
+      },
+      {
+        "t": "0:49:00",
+        "q": "\"I don't even think Lahaina's in recovery yet.\""
+      },
+      {
+        "t": "1:26:01",
+        "q": "\"They didn't let us use the Parks because we do collect blood from adults.\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "moving-fire-survivors-off-fema-interim-housing",
+        "title": "Moving fire survivors off FEMA interim housing"
+      },
+      {
+        "slug": "wildfire-survivor-health-study-findings",
+        "title": "Wildfire survivor health study findings"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Water Authority, Social Services, and Parks Committee",
+        "group": "council",
+        "short": [
+          "WASSP"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Aug 31, 2026",
+      "oneLine": "Fewer survivors in the study are living in temporary housing.",
+      "why": "Presenters said housing uncertainty affects health, including sleep, stress and getting to appointments.",
+      "deadlines": [],
+      "next": "The County is meeting with FEMA on how their caseworkers can meet together with residents at the housing site.",
+      "brief": "The share of adults in temporary housing fell from about four in ten to about three in ten.[[#1]] The official said not everyone living at the site will be eligible to stay.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Aug",
+          "day": "31",
+          "source": "Maui County Council Water Authority, Social Services, and Parks Committee",
+          "kind": "tv",
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee",
+          "note": "Fewer survivors in the study are living in temporary housing.",
+          "proof": "0:10:33",
+          "view": {
+            "type": "meeting",
+            "id": "iWO4pTUu848"
+          },
+          "seek": "0:10:33"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Aug 31",
+          "where": "Meeting video at 0:10:33",
+          "view": {
+            "type": "meeting",
+            "id": "iWO4pTUu848"
+          },
+          "seek": "0:10:33"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Aug 31",
+          "where": "Meeting video at 1:52:11",
+          "view": {
+            "type": "meeting",
+            "id": "iWO4pTUu848"
+          },
+          "seek": "1:52:11"
+        }
+      ]
+    },
+    {
+      "issue": "Food Security",
+      "since": "Aug 31, 2026",
+      "oneLine": "The study found food insecurity among survivors improved slightly but remains high.",
+      "why": "Presenters said food insecurity affects more than hunger, including stress.",
+      "deadlines": [
+        {
+          "d": "this Friday",
+          "t": "Second reading of the food security and nutrition plan."
+        }
+      ],
+      "next": "The County's food security and nutrition plan is up for second reading this Friday.",
+      "brief": "Food insecurity dropped from about 49.8% to 44.9%.[[#1]] About 23% of people remain severely food insecure, which did not change.[[#2]] At a recent event, the team saw 100 people, and more than 30 had food insecurity and were referred to resources.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Aug",
+          "day": "31",
+          "source": "Maui County Council Water Authority, Social Services, and Parks Committee",
+          "kind": "tv",
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee",
+          "note": "The study found food insecurity among survivors improved slightly but remains high.",
+          "proof": "0:18:37",
+          "view": {
+            "type": "meeting",
+            "id": "iWO4pTUu848"
+          },
+          "seek": "0:18:37"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Aug 31",
+          "where": "Meeting video at 0:18:37",
+          "view": {
+            "type": "meeting",
+            "id": "iWO4pTUu848"
+          },
+          "seek": "0:18:37"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Aug 31",
+          "where": "Meeting video at 0:18:43",
+          "view": {
+            "type": "meeting",
+            "id": "iWO4pTUu848"
+          },
+          "seek": "0:18:43"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Aug 31",
+          "where": "Meeting video at 1:00:03",
+          "view": {
+            "type": "meeting",
+            "id": "iWO4pTUu848"
+          },
+          "seek": "1:00:03"
+        }
+      ]
+    },
+    {
+      "issue": "Disaster Recovery",
+      "since": "Aug 31, 2026",
+      "oneLine": "A health study of wildfire survivors says recovery is underway but uneven.",
+      "why": "Presenters said gains in jobs, insurance and housing have not yet led to full physical and mental health recovery.",
+      "deadlines": [
+        {
+          "d": "January",
+          "t": "Start of the Hoʻala program year."
+        }
+      ],
+      "next": "Presenters asked council members to help find community spaces for free health screenings under Hoʻala.",
+      "brief": "Employment among returning adults rose from 62% to nearly 81%.[[#1]] Strong social support fell from about 60% to about 50% of people.[[#2]] Low self-esteem among children rose from about 13% to 26%.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Aug",
+          "day": "31",
+          "source": "Maui County Council Water Authority, Social Services, and Parks Committee",
+          "kind": "tv",
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee",
+          "note": "A health study of wildfire survivors says recovery is underway but uneven.",
+          "proof": "0:17:02",
+          "view": {
+            "type": "meeting",
+            "id": "iWO4pTUu848"
+          },
+          "seek": "0:17:02"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Aug 31",
+          "where": "Meeting video at 0:17:02",
+          "view": {
+            "type": "meeting",
+            "id": "iWO4pTUu848"
+          },
+          "seek": "0:17:02"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Aug 31",
+          "where": "Meeting video at 0:20:03",
+          "view": {
+            "type": "meeting",
+            "id": "iWO4pTUu848"
+          },
+          "seek": "0:20:03"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Aug 31",
+          "where": "Meeting video at 0:24:44",
+          "view": {
+            "type": "meeting",
+            "id": "iWO4pTUu848"
+          },
+          "seek": "0:24:44"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

@@ -1,0 +1,62 @@
+{
+  "videoId": "YYBXcngSv8c",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-15T06:53:35.267Z",
+  "meetingDateISO": "2024-11-13",
+  "source": {
+    "youtubeUrl": "https://youtu.be/YYBXcngSv8c"
+  },
+  "topics": [],
+  "headline": "Maui County Independent Nomination Board",
+  "meeting": {
+    "id": "YYBXcngSv8c",
+    "mon": "Nov",
+    "day": "13",
+    "date": "Wed, Nov 13, 2024",
+    "body": "Maui County Independent Nomination Board",
+    "dur": "1 h 14 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The Independent Nomination Board was called to order on November 13 at 4:45 p.m.",
+    "recap": "The Independent Nomination Board was called to order on November 13 at 4:45 p.m.[[0:00:32]] Members voted to go into executive session (a closed-door discussion).[[0:07:20]] The board has until December 31 to send a nominee for that seat to the mayor.[[0:12:28]] The board voted unanimously to accept the resignation.[[0:13:30]] Staff suggested each member review applicants for three assigned boards and report back on the 27th.[[0:15:53]] Some members traded board assignments with each other.[[0:37:42]] The board voted unanimously to defer its review of applicants to the next meeting.[[0:47:50]] The board voted unanimously to defer work on its governing rules.[[0:52:14]] The board was told some vacant seats will stay empty until their terms come up, unless the County Charter changes.[[1:00:19]] The next meeting is November 27 at 3:30 in the same conference room.[[1:06:15]] A discussion of the county auditor process is planned for December 4.[[1:11:26]] The meeting adjourned at 6:32 p.m.[[1:12:37]]",
+    "decided": [
+      "motion to defer the status update on board governing rules: The board deferred the item on its governing rules."
+    ],
+    "next": "Staff will update the shared document showing each member's board assignments. A letter is being prepared in response to written testimony about filling vacancies. Another letter about the South Maui advisory committee will be brought up at the next meeting. The chair is to report at the next meeting on a meeting with another County commission.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:07:20",
+        "q": "Vote to go into executive session"
+      },
+      {
+        "t": "0:36:03",
+        "q": "Members trade board assignments"
+      },
+      {
+        "t": "1:00:19",
+        "q": "How vacant seats will be filled"
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "county-auditor-search-process",
+        "title": "County auditor search process"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Independent Nomination Board",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "board"
+}

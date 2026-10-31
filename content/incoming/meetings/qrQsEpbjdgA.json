@@ -1,0 +1,67 @@
+{
+  "videoId": "qrQsEpbjdgA",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-14T06:56:49.387Z",
+  "meetingDateISO": "2026-07-01",
+  "source": {
+    "youtubeUrl": "https://youtu.be/qrQsEpbjdgA"
+  },
+  "topics": [],
+  "headline": "Civil Service Commission",
+  "meeting": {
+    "id": "qrQsEpbjdgA",
+    "mon": "Jul",
+    "day": "1",
+    "date": "Wed, Jul 1, 2026",
+    "body": "Civil Service Commission",
+    "dur": "46 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The Civil Service Commission met July 1, 2026, in person and online.",
+    "recap": "The Civil Service Commission met July 1, 2026, in person and online.[[0:00:36]] Presentations planned for this meeting were put off because one commissioner was absent.[[0:09:09]] Staff hope to open the job posting for a new Director of Personnel Services tomorrow.[[0:09:40]] The posting is set to close July 31.[[0:10:54]] An arbitration award (a ruling by a neutral decision-maker) for bargaining unit 15 is still pending.[[0:12:37]] Most county employees get an across-the-board raise starting today, the director said.[[0:13:17]] The department's new consultant plans to present its work to county leaders July 13.[[0:15:34]] The department's fiscal year 2027 budget was approved at a little over $3.2 million.[[0:25:21]] The budget adds an investigator and a public information officer.[[0:25:28]] The salary commission met June 12 and gave no raises to elected officials, directors or deputies.[[0:28:24]] The county has 962 open positions.[[0:30:17]] Departments have sent only 335 requests to fill vacant positions.[[0:31:49]] The director said this was a final monthly report before leaving July 31.[[0:44:18]] The next meeting is set for August 5, 2026, at 9 a.m.[[0:45:18]]",
+    "decided": [
+      "Presentations planned for this meeting were put off because one commissioner was absent.",
+      "The commission voted to adjourn the meeting."
+    ],
+    "next": "Staff hope to open the job posting for the new director tomorrow. Staff are working on a press release to announce the director's retirement. The commission's legal counsel will report back on whether commissioners working with the consultant can give a summary after each meeting. The director agreed to give the commission a breakdown of the open positions.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:10:11",
+        "q": "Update on the director job posting"
+      },
+      {
+        "t": "0:13:17",
+        "q": "\"Starting today, every most every employee will have a across the board increase.\""
+      },
+      {
+        "t": "0:25:21",
+        "q": "FY2027 budget and two new positions"
+      },
+      {
+        "t": "0:44:18",
+        "q": "Director's final report and farewell"
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "search-for-new-department-of-personnel-services-director",
+        "title": "Search for new Department of Personnel Services director"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Civil Service Commission",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "board"
+}

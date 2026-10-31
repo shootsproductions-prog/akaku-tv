@@ -1,0 +1,128 @@
+{
+  "videoId": "i3rjszlLse8",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T19:42:52.728Z",
+  "meetingDateISO": "2026-07-01",
+  "source": {
+    "youtubeUrl": "https://youtu.be/i3rjszlLse8"
+  },
+  "headline": "Committee weighs rezoning apartment properties for short-term rentals, recesses to July 6",
+  "topics": [
+    "Housing"
+  ],
+  "meeting": {
+    "id": "i3rjszlLse8",
+    "mon": "Jul",
+    "day": "1",
+    "date": "Wed, Jul 1, 2026",
+    "body": "Maui County Council Housing and Land Use Committee",
+    "dur": "3 h 42 m",
+    "voteCount": 2,
+    "voteItem": "Close oral testimony",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee closed oral testimony, with written testimony still accepted, and recessed until July 6, 2026 at 11 a.m. Affected properties would get letters if the resolutions pass, and the Planning Commission may hear the matter in mid or late September.",
+    "recap": "The H3 and H4 districts match the A1 and A2 apartment districts, except short-term vacation rentals are allowed.[[0:03:18]] Planning said it is not sure some properties meet the rule that short-term rental use began before September 24, 2020.[[0:11:17]] The Realtors Association of Maui asked for a clearer path for qualifying properties that are not on any list.[[1:04:11]] A testifier for Lahaina Strong said apartment districts are meant to provide long-term housing for residents.[[1:30:28]] An executive session (a closed-door discussion) was requested for when the meeting resumes.[[2:54:48]] The chair said that if the resolutions pass, affected properties will get letters asking for boundary details and whether they want to be included.[[3:33:44]] The Planning Commission may hear the matter in mid or late September.[[3:36:45]] The meeting was recessed until July 6, 2026 at 11 a.m.[[3:41:07]]",
+    "decided": [
+      "Oral testimony was closed, and written testimony will still be accepted.",
+      "The meeting was recessed until July 6, 2026 at 11 a.m. with no objections."
+    ],
+    "next": "The committee plans to discuss going into executive session when it returns Monday. What happens to properties that did not get a Bill 9 letter will be discussed Monday.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:16:15",
+        "q": "Public testimony begins"
+      },
+      {
+        "t": "3:00:00",
+        "q": "Planning explains how county-initiated rezoning and notices work"
+      },
+      {
+        "t": "3:16:29",
+        "q": "\"What was the point of Bill 9?\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p",
+        "title": "Ending apartment vacation rentals and hotel rezoning of 48 properties"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Housing and Land Use Committee",
+        "group": "council",
+        "short": [
+          "HLU"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 9 (2026)",
+      "Resolution 26-110",
+      "Resolution 26-111"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Jul 1, 2026",
+      "oneLine": "The committee is weighing whether to rezone certain apartment properties so short-term vacation rentals can continue.",
+      "why": "A testifier said apartment districts are meant to provide long-term housing for residents, especially during recovery.",
+      "deadlines": [
+        {
+          "d": "by July 6th",
+          "t": "Written response to the committee's questions."
+        },
+        {
+          "d": "maybe mid-September, late September",
+          "t": "Possible Planning Commission hearing."
+        }
+      ],
+      "next": "The committee meets again July 6, 2026 at 11 a.m.",
+      "brief": "A member said the Maui Island Plan aims to discourage using housing for visitors when it hurts long-term rentals.[[#1]] Another member said about 2,200 units is too few to include.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Jul",
+          "day": "1",
+          "source": "Maui County Council Housing and Land Use Committee",
+          "kind": "tv",
+          "title": "Committee hears testimony on rezoning rental properties to hotel districts",
+          "note": "The committee is weighing whether to rezone certain apartment properties so short-term vacation rentals can continue.",
+          "proof": "3:17:23",
+          "view": {
+            "type": "meeting",
+            "id": "i3rjszlLse8"
+          },
+          "seek": "3:17:23"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Housing and Land Use Committee · Jul 1",
+          "where": "Meeting video at 3:17:23",
+          "view": {
+            "type": "meeting",
+            "id": "i3rjszlLse8"
+          },
+          "seek": "3:17:23"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Housing and Land Use Committee · Jul 1",
+          "where": "Meeting video at 3:22:55",
+          "view": {
+            "type": "meeting",
+            "id": "i3rjszlLse8"
+          },
+          "seek": "3:22:55"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

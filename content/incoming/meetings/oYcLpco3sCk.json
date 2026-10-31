@@ -1,0 +1,140 @@
+{
+  "videoId": "oYcLpco3sCk",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T16:11:53.346Z",
+  "meetingDateISO": "2026-07-29",
+  "source": {
+    "youtubeUrl": "https://youtu.be/oYcLpco3sCk"
+  },
+  "headline": "Committee defers possible County purchase of Maui Land and Pine water assets",
+  "topics": [
+    "Water",
+    "Housing"
+  ],
+  "meeting": {
+    "id": "oYcLpco3sCk",
+    "mon": "Jul",
+    "day": "29",
+    "date": "Wed, Jul 29, 2026",
+    "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+    "dur": "2 h 54 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee discussed the possible County purchase of Maui Land and Pine water systems in West Maui and Upcountry, and the chair deferred the item until the administration has reports a member requested. The Council must approve any final purchase.",
+    "recap": "The only item was the possible County purchase of Maui Land and Pine water assets in West Maui and Upcountry.[[0:11:12]] On May 18, 2026, the mayor announced a memorandum of understanding (MOU, a written outline of basic terms) with the company.[[0:11:57]] The managing director said these and other purchases would raise public control of West Maui drinking water systems from about 45% to 93%.[[0:15:21]] The administration plans to bring the Council an offer and resolution after reviews and appraisals.[[0:25:14]] A testifier supported removing private companies from owning public trust water but raised concerns about water credits.[[0:43:43]] The managing director said the Council must approve any final purchase.[[1:07:05]] The chair deferred the item with no objections until the administration has the reports a member requested.[[2:53:57]]",
+    "decided": [],
+    "next": "The County will do due diligence, title reports and appraisals before bringing an offer and resolution to the Council. A question about eminent domain was set aside for a possible later executive session (a closed-door discussion). The item will come back after the administration has and reviews the reports a member requested.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:16:02",
+        "q": "\"It's a non-binding MOU.\""
+      },
+      {
+        "t": "0:29:48",
+        "q": "Public testimony begins"
+      },
+      {
+        "t": "1:07:05",
+        "q": "\"Council would have to approve the ultimate authority to acquire\""
+      },
+      {
+        "t": "2:03:24",
+        "q": "\"We stop issuing water service.\""
+      },
+      {
+        "t": "2:52:35",
+        "q": "\"The devil is in the detail.\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "possible-county-purchase-of-maui-land-and-pine-water-assets",
+        "title": "Possible county purchase of Maui Land and Pine water assets"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Disaster Recovery, International Affairs, and Planning Committee",
+        "group": "council",
+        "short": [
+          "DRIP"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Water",
+      "since": "Jul 29, 2026",
+      "oneLine": "The County is negotiating to buy Maui Land and Pine water systems in West Maui and Upcountry.",
+      "why": "The managing director said the goal is long-term water care for future generations facing climate change and drought.",
+      "deadlines": [
+        {
+          "d": "fall of this year",
+          "t": "Recommendations brought back to the Council."
+        },
+        {
+          "d": "May 18, 2027",
+          "t": "MOU expires."
+        }
+      ],
+      "next": "Due diligence, title reports and appraisals come before an offer goes to the Council.",
+      "brief": "The County also wants land to build a 100 million gallon reservoir.[[#1]] An official said the County would not give water credits to golf courses.[[#2]] An official said new water uses will still need a state water use permit after the County buys the assets.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Jul",
+          "day": "29",
+          "source": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+          "kind": "tv",
+          "title": "Committee reviews plan to buy Maui Land and Pine water systems",
+          "note": "The County is negotiating to buy Maui Land and Pine water systems in West Maui and Upcountry.",
+          "proof": "0:21:02",
+          "view": {
+            "type": "meeting",
+            "id": "oYcLpco3sCk"
+          },
+          "seek": "0:21:02"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Jul 29",
+          "where": "Meeting video at 0:21:02",
+          "view": {
+            "type": "meeting",
+            "id": "oYcLpco3sCk"
+          },
+          "seek": "0:21:02"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Jul 29",
+          "where": "Meeting video at 2:11:32",
+          "view": {
+            "type": "meeting",
+            "id": "oYcLpco3sCk"
+          },
+          "seek": "2:11:32"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Jul 29",
+          "where": "Meeting video at 2:39:05",
+          "view": {
+            "type": "meeting",
+            "id": "oYcLpco3sCk"
+          },
+          "seek": "2:39:05"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

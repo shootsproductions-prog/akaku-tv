@@ -1,0 +1,69 @@
+{
+  "videoId": "k9sST0HTG-0",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-14T06:46:56.737Z",
+  "meetingDateISO": "2026-08-04",
+  "source": {
+    "youtubeUrl": "https://youtu.be/k9sST0HTG-0"
+  },
+  "topics": [
+    "Water",
+    "Housing",
+    "Disaster Recovery"
+  ],
+  "headline": "Urban Design Review Board",
+  "meeting": {
+    "id": "k9sST0HTG-0",
+    "mon": "Aug",
+    "day": "4",
+    "date": "Tue, Aug 4, 2026",
+    "body": "Urban Design Review Board",
+    "dur": "1 h 50 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The board approved a Lahaina fire rebuild design and passed two recommendations on a South Maui apartment project.",
+    "recap": "The Urban Design Review Board meeting was called to order at 10:02.[[0:00:30]] Planning Department staff gave the board orientation training.[[0:01:16]] A board member said five votes are needed to pass anything, because it is a nine-member board.[[0:33:10]] The applicant said the ʻohana now sits above the garage to stay outside the shoreline setback.[[0:36:27]] The chair said the board had no comments or recommendations on the rebuild.[[0:48:44]] The board voted to approve the rebuild design.[[0:49:08]] The board reviewed plans for three apartment communities and about 3 acres of public open space.[[0:50:02]] The landscape architect said irrigation will meet the county's new water conservation bill, which limits watering to three times a week.[[1:15:27]] The developer said this would be the area's first workforce housing under county workforce housing rules in 50 years.[[1:23:47]] The project architect said the design relies more on how the buildings perform than on style.[[1:33:17]] A board member said the mid-rise buildings could be a dominant feature on the skyline.[[1:35:22]] The recommendations ask for renderings showing true colors and highway-to-ocean views if views are affected.[[1:47:44]] The board voted to approve the two recommendations.[[1:48:17]] Staff said the next meeting is September 1st.[[1:49:48]]",
+    "decided": [
+      "renderings that better match intended colors, and renderings from the highway toward the ocean if views are affected: The board voted to approve two recommendations on the apartment project's design."
+    ],
+    "next": "Staff said they would email board members the checklist of standard concerns. The developer said it will keep meeting with the community association's design review board. Staff said no items are scheduled yet for the next meeting, and an agenda will be sent if items come up.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:01:16",
+        "q": "Orientation training begins"
+      },
+      {
+        "t": "0:33:10",
+        "q": "\"we still need five to pass something\""
+      },
+      {
+        "t": "1:33:20",
+        "q": "\"we're hanging our hat on the performance of the buildings, less on the style\""
+      },
+      {
+        "t": "1:35:22",
+        "q": "Board member raises skyline concern"
+      },
+      {
+        "t": "1:48:17",
+        "q": "Vote on two recommendations"
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [],
+    "boards": [
+      {
+        "name": "Urban Design Review Board",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "board"
+}

@@ -1,0 +1,79 @@
+{
+  "videoId": "_jJfabaKzgo",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-09T06:44:40.245Z",
+  "meetingDateISO": "2026-08-24",
+  "source": {
+    "youtubeUrl": "https://youtu.be/_jJfabaKzgo"
+  },
+  "topics": [
+    "Housing",
+    "Disaster Recovery"
+  ],
+  "headline": "Commission on Children & Youth",
+  "meeting": {
+    "id": "_jJfabaKzgo",
+    "mon": "Aug",
+    "day": "24",
+    "date": "Mon, Aug 24, 2026",
+    "body": "Commission on Children & Youth",
+    "dur": "1 h 15 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The Commission on Children and Youth approved a 2028 budget request, a brochure and website updates, and reviewed family survey results.",
+    "recap": "The Commission on Children and Youth met August 24, 2026.[[0:00:30]] Commissioners approved the July 20, 2026 meeting minutes, five to zero.[[0:03:13]] The chair drafted a fiscal year 2028 budget request to the Department of Human Concerns.[[0:04:01]] It asks for $1,000 so commissioners can attend the Hawaiʻi Children and Youth Summit on Oʻahu in October 2027.[[0:05:00]] Commissioners approved the budget request, six to zero.[[0:10:15]] A youth safety item was put off to the next meeting because no draft was ready.[[0:35:36]] A commissioner plans a flyer to recruit youth for a youth advisory group.[[0:37:11]] The group's first meeting is hoped for the first week of October.[[0:38:00]] Commissioners approved a new brochure, adding how to testify, six to zero.[[0:51:56]] In the commission's family survey, stable housing was the top priority, followed by mental health support and safe youth spaces.[[0:56:38]] The vice chair offered to research youth mental health resources and report at the next meeting.[[1:07:14]] Commissioners approved sending a list of updates for the commission's web page, with six ayes.[[1:13:11]]",
+    "decided": [
+      "Commissioners approved the July 20, 2026 draft minutes.",
+      "Commissioners approved the proposed fiscal year 2028 budget request as presented.",
+      "The youth safety item was tabled to the next meeting because there was no draft.",
+      "Commissioners agreed the youth advisory group flyer does not need commission approval.",
+      "Commissioners approved moving forward with the brochure, with a revision adding how to testify.",
+      "The family survey will stay on the agenda so commissioners can keep checking the data.",
+      "Commissioners approved sending a list of recommended updates for the commission's county web page."
+    ],
+    "next": "Youth advisory group materials will be sent to the commission secretary so commissioners can share them. The chair will make the brochure revision and send the final version to the commission secretary to distribute. The vice chair will research youth mental health resources and report at the next meeting.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:04:01",
+        "q": "Budget request presentation"
+      },
+      {
+        "t": "0:13:28",
+        "q": "Sunshine Law presentation begins"
+      },
+      {
+        "t": "0:55:34",
+        "q": "Family survey results presentation"
+      },
+      {
+        "t": "0:57:42",
+        "q": "\"available somewhere is not the same as accessible\""
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "children-and-youth-commission-family-survey-findings",
+        "title": "Children and Youth Commission family survey findings"
+      },
+      {
+        "slug": "new-youth-advisory-group-launch",
+        "title": "New youth advisory group launch"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Commission on Children & Youth",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "board"
+}
