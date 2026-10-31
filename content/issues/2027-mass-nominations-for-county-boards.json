@@ -35,6 +35,13 @@
       ]
     },
     {
+      "name": "Government Relations, Ethics, and Transparency Committee",
+      "group": "council",
+      "short": [
+        "GREAT"
+      ]
+    },
+    {
       "name": "Civil Service Commission",
       "group": "board",
       "short": []
@@ -308,6 +315,32 @@
         "endTs": "0:23:49"
       },
       "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-06-16",
+      "text": "The chair asked staff for data on vacancies and quorum problems before and after the board began.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "nUYc4kmAsp0",
+        "ts": "3:33:37",
+        "retrievedISO": "2026-10-16T19:45:01.270Z",
+        "endTs": "3:34:20"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-06-16",
+      "text": "The board's chair said its members want to keep it.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "nUYc4kmAsp0",
+        "ts": "3:10:06",
+        "retrievedISO": "2026-10-16T19:45:01.270Z",
+        "endTs": "3:10:37"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
     },
     {
       "dateISO": "2024-11-06",

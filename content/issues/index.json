@@ -171,12 +171,12 @@
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-10-31T02:40:12.157Z",
-  "etag": "7ec1e0c53ac2d104f32004fcea114c4c21b13e2f4376c8d7be0042891d511c59",
+  "updatedAt": "2026-10-31T02:48:11.986Z",
+  "etag": "ad7aeb2558fd40f9c684c060f215058583612684bbf5db30a414463ff519deb4",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
-      "updatedAt": "2026-10-30T10:24:11.211Z",
-      "sha256": "8bc74111b70af85b41dbb568322b7e947135a576362425214b7d4d9d353da29a"
+      "updatedAt": "2026-10-31T02:48:11.986Z",
+      "sha256": "0058653c11dab75e7cb08501df56cda93f9796a41478c84e1157587891d272a8"
     },
     "lahaina-water-use-permit-applications-and-tig-report.json": {
       "updatedAt": "2026-10-30T10:24:11.211Z",
@@ -499,8 +499,8 @@
       "sha256": "28144b4b4163ae32f38f7ff9f4ef2921f5520c0a23ceb5cc67a1dd0460cbfcb7"
     },
     "charter-amendments-headed-to-the-general-election-ballot.json": {
-      "updatedAt": "2026-10-30T10:24:11.211Z",
-      "sha256": "69b89d60cb28168cbc19dfa33b48b06b6f1225512291501f36fb452010c70cc0"
+      "updatedAt": "2026-10-31T02:48:11.986Z",
+      "sha256": "b28c2a7b5e0302237c2cada3a5bbabafad5c36bb9909b95f34bab79f4de0b2fc"
     },
     "highway-realignment-crossing-17-archaeological-sites.json": {
       "updatedAt": "2026-10-30T21:26:11.251Z",
