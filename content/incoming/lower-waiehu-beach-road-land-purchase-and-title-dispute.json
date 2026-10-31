@@ -1,0 +1,92 @@
+{
+  "slug": "lower-waiehu-beach-road-land-purchase-and-title-dispute",
+  "title": "Lower Waiehu Beach Road land purchase and title dispute",
+  "summary": "On June 5, a council member moved to file Bill 102, which would have added $500,000 to buy land on Lower Waiehu Beach Road in Wailuku, and the motion passed 9–0. Family members had asked in May to defer the bill, and the chair said the church may sell on the open market if the County does not act. Testifiers have disputed whether the church holds clear title.",
+  "topics": [
+    "land-use",
+    "culture"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-05-19",
+  "lastSeenISO": "2026-06-05",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-30",
+  "timeline": [
+    {
+      "dateISO": "2026-06-05",
+      "text": "That motion passed 9–0.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "r35y6R967gY",
+        "ts": "2:06:52",
+        "endTs": "2:07:22",
+        "retrievedISO": "2026-10-16T23:32:54.179Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-06-05",
+      "text": "A council member moved to file, or set aside, Bill 102, which would fund buying a Wailuku property.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "r35y6R967gY",
+        "ts": "2:00:15",
+        "endTs": "2:01:36",
+        "retrievedISO": "2026-10-16T23:32:54.179Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-05-19",
+      "text": "A council member's office will contact the family before first reading.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "MwEGyy1Tcr4",
+        "ts": "2:24:54",
+        "endTs": "2:25:24",
+        "retrievedISO": "2026-10-17T00:26:25.587Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-05-19",
+      "text": "The chair said the church may put the land on the open market if the County does not act.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "MwEGyy1Tcr4",
+        "ts": "2:06:06",
+        "endTs": "2:07:00",
+        "retrievedISO": "2026-10-17T00:26:25.587Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    },
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    }
+  ],
+  "bills": [
+    "Bill 102 (2026)"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
