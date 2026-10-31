@@ -1,7 +1,7 @@
 {
   "slug": "countys-wildfire-lawsuits-and-global-settlement",
   "title": "County's wildfire lawsuits and global settlement",
-  "summary": "A committee voted 8 ayes, with one member excused, to adopt a resolution adding $240,000 to pay the law firm Myers-Nave for work on the August 2023 wildfire lawsuits, and it now goes to the full council. That would bring the total to up to $740,000. The insurer agreed to pay $521,000 of the firm's $854,000 bill, and the County cut another $93,000.",
+  "summary": "On May 19, 2026, a council committee voted 8-0, with one member excused, to advance Resolution 26-82 to the full council. It adds $240,000 to pay the law firm Myers-Nave for August 2023 wildfire lawsuit work, for a total of up to $740,000. The insurer agreed to pay $521,000 of the firm's $854,000 bill.",
   "topics": [
     "disaster-recovery",
     "government"
@@ -31,7 +31,9 @@
       "short": []
     }
   ],
-  "bills": [],
+  "bills": [
+    "Resolution 26-82"
+  ],
   "timeline": [
     {
       "dateISO": "2026-05-19",
@@ -97,6 +99,19 @@
         "endTs": "0:07:03"
       },
       "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-05-01",
+      "text": "Resolution 26-82, referral to committee: The council referred a resolution on extra pay for special counsel in wildfire lawsuits to the Government Relations, Ethics, and Transparency Committee.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7eJyblKPm2w",
+        "ts": "2:15:07",
+        "retrievedISO": "2026-10-17T01:13:59.013Z",
+        "endTs": "2:15:45"
+      },
+      "body": "County Council Meeting"
     },
     {
       "dateISO": "2024-07-19",

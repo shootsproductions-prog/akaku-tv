@@ -1,14 +1,14 @@
 {
   "slug": "cap-on-bed-and-breakfast-homes-on-molokai",
   "title": "Cap on bed and breakfast homes on Molokaʻi",
-  "summary": "Bill 84 passed 9–0 on July 7. The measure caps bed and breakfast homes on Molokaʻi at five. It had been introduced as a proposal to set that limit as of June 19.",
+  "summary": "Bill 84, which caps bed and breakfast homes on Molokaʻi at five, passed 9–0 on July 7, 2026. An earlier version of the proposal would also have kept such homes 1,000 feet apart. The limit was first sent to the Molokaʻi Planning Commission for review in October 2025.",
   "topics": [
     "land-use",
     "housing"
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-06-19",
+  "firstSeenISO": "2026-06-03",
   "lastSeenISO": "2026-07-07",
   "signals": {
     "meetingsLast30d": 0,
@@ -22,6 +22,13 @@
       "name": "Maui County Council",
       "group": "council",
       "short": []
+    },
+    {
+      "name": "Housing and Land Use Committee",
+      "group": "council",
+      "short": [
+        "HLU"
+      ]
     }
   ],
   "bills": [
@@ -53,6 +60,19 @@
         "endTs": "0:57:59"
       },
       "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-06-03",
+      "text": "The second bill would cap bed and breakfast homes on Molokaʻi at five and keep them 1,000 feet apart.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "uMPNxxCZOYk",
+        "ts": "1:11:30",
+        "retrievedISO": "2026-10-16T21:12:39.091Z",
+        "endTs": "1:12:00"
+      },
+      "body": "County Council Housing and Land Use Committee"
     }
   ],
   "sourceTypes": [

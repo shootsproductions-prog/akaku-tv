@@ -1,7 +1,7 @@
 {
   "slug": "water-system-development-fee-based-on-daily-use",
   "title": "Water system development fee based on daily use",
-  "summary": "Bill 76, which would base the water system development fee on daily water use rather than meter size, was discussed in committee on May 18 and is scheduled for second and final reading on June 5th, 2026. The chair said it better reflects a project's impact on the county's water source and storage. Staff said fees for a small single-family meter would be very similar, and future budgets plan 2 to 3 percent yearly increases.",
+  "summary": "On June 5, 2026, a budget amendment aligned the Water Supply water fund section with the proposed Bill 76 changes, and the water system development fee changes take effect July 1, 2026. Bill 76 bases the fee on average daily demand, not meter size, and was set for second and final reading that day. Properties already legally connected would not pay again, and future budgets plan 2 to 3 percent yearly increases.",
   "topics": [
     "water",
     "housing"
@@ -9,7 +9,7 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-04-21",
-  "lastSeenISO": "2026-05-18",
+  "lastSeenISO": "2026-06-05",
   "signals": {
     "meetingsLast30d": 0,
     "meetingsLast90d": 0,
@@ -18,6 +18,11 @@
   },
   "asOfISO": "2026-10-30",
   "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    },
     {
       "name": "Water and Infrastructure Committee",
       "group": "council",
@@ -37,6 +42,19 @@
     "Bill 76 (2026)"
   ],
   "timeline": [
+    {
+      "dateISO": "2026-06-05",
+      "text": "A budget amendment changed the Water Supply water fund section to match the proposed Bill 76 changes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "r35y6R967gY",
+        "ts": "3:31:35",
+        "retrievedISO": "2026-10-16T23:32:54.179Z",
+        "endTs": "3:32:29"
+      },
+      "body": "County Council Meeting"
+    },
     {
       "dateISO": "2026-05-18",
       "text": "Staff said future budgets plan a 2 to 3 percent yearly increase in the fee.",
@@ -153,6 +171,58 @@
         "endTs": "0:04:31"
       },
       "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-04-27",
+      "text": "Recommend passage of Bill 76 on first reading: Members recommended passing Bill 76 on first reading with any non-substantive revisions.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "SY7ceHt82eM",
+        "ts": "0:22:18",
+        "retrievedISO": "2026-10-17T01:16:49.944Z",
+        "endTs": "0:23:12"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-27",
+      "text": "Members voted nine ayes to reconsider that referral.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "SY7ceHt82eM",
+        "ts": "0:21:42",
+        "retrievedISO": "2026-10-17T01:16:49.944Z",
+        "endTs": "0:22:16"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-27",
+      "text": "The chair said the other committee would not have time to review the bill before second reading and the start of fiscal year 27.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "SY7ceHt82eM",
+        "ts": "0:19:32",
+        "retrievedISO": "2026-10-17T01:16:49.944Z",
+        "endTs": "0:20:07"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-27",
+      "text": "On Friday, the committee had recommended sending Bill 76 to another committee.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "SY7ceHt82eM",
+        "ts": "0:19:18",
+        "retrievedISO": "2026-10-17T01:16:49.944Z",
+        "endTs": "0:19:48"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
     },
     {
       "dateISO": "2026-04-24",

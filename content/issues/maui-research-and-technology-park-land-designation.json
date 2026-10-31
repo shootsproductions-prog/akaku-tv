@@ -28,6 +28,11 @@
       "name": "Maui Planning Commission",
       "group": "board",
       "short": []
+    },
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
     }
   ],
   "bills": [
@@ -163,6 +168,45 @@
         "endTs": "6:27:36"
       },
       "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2026-05-01",
+      "text": "The council adopted the amended resolution 9–0, sending a zoning bill to the Maui Planning Commission.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7eJyblKPm2w",
+        "ts": "2:13:52",
+        "retrievedISO": "2026-10-17T01:13:59.013Z",
+        "endTs": "2:15:22"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-05-01",
+      "text": "A member said the change lowers commercial space to better meet housing needs without changing the number of homes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7eJyblKPm2w",
+        "ts": "2:12:27",
+        "retrievedISO": "2026-10-17T01:13:59.013Z",
+        "endTs": "2:12:57"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-05-01",
+      "text": "The council sent a proposed zoning change for the Maui Research and Technology Park District to the Maui Planning Commission.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7eJyblKPm2w",
+        "ts": "2:10:28",
+        "retrievedISO": "2026-10-17T01:13:59.013Z",
+        "endTs": "2:11:08"
+      },
+      "body": "County Council Meeting"
     },
     {
       "dateISO": "2024-12-10",

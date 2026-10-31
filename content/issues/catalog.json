@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T06:34:10.875Z",
+  "updatedAt": "2026-10-31T08:26:12.746Z",
   "count": 168,
   "issues": [
     {
@@ -1748,6 +1748,11 @@
           "name": "Maui Planning Commission",
           "group": "board",
           "short": []
+        },
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
         }
       ],
       "bills": [
@@ -1883,6 +1888,45 @@
             "endTs": "6:27:36"
           },
           "body": "Maui Planning Commission"
+        },
+        {
+          "dateISO": "2026-05-01",
+          "text": "The council adopted the amended resolution 9–0, sending a zoning bill to the Maui Planning Commission.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "7eJyblKPm2w",
+            "ts": "2:13:52",
+            "retrievedISO": "2026-10-17T01:13:59.013Z",
+            "endTs": "2:15:22"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-05-01",
+          "text": "A member said the change lowers commercial space to better meet housing needs without changing the number of homes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "7eJyblKPm2w",
+            "ts": "2:12:27",
+            "retrievedISO": "2026-10-17T01:13:59.013Z",
+            "endTs": "2:12:57"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-05-01",
+          "text": "The council sent a proposed zoning change for the Maui Research and Technology Park District to the Maui Planning Commission.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "7eJyblKPm2w",
+            "ts": "2:10:28",
+            "retrievedISO": "2026-10-17T01:13:59.013Z",
+            "endTs": "2:11:08"
+          },
+          "body": "County Council Meeting"
         },
         {
           "dateISO": "2024-12-10",
@@ -7485,6 +7529,19 @@
         },
         {
           "dateISO": "2026-05-20",
+          "text": "The project representative said the homes are planned as apartment units.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "sLR8tSPOYbo",
+            "ts": "2:08:15",
+            "retrievedISO": "2026-10-16T23:49:56.052Z",
+            "endTs": "2:08:45"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-05-20",
           "text": "The project representative agreed to work with the chair on getting the word out before each chance for public testimony.",
           "basis": "said-at-meeting",
           "source": {
@@ -7506,6 +7563,45 @@
             "ts": "2:04:46",
             "retrievedISO": "2026-10-16T23:47:04.598Z",
             "endTs": "2:05:33"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-05-20",
+          "text": "The area's committee member said he would probably ask to wait for the final EIS.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "sLR8tSPOYbo",
+            "ts": "2:02:26",
+            "retrievedISO": "2026-10-16T23:49:56.052Z",
+            "endTs": "2:02:56"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-05-20",
+          "text": "A testifier raised concerns about water drawn from an old agricultural well.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "sLR8tSPOYbo",
+            "ts": "1:06:31",
+            "retrievedISO": "2026-10-16T23:49:56.052Z",
+            "endTs": "1:07:01"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-05-20",
+          "text": "Another testifier said the project would put families directly beneath the Kahului Airport main flight path.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "sLR8tSPOYbo",
+            "ts": "1:06:14",
+            "retrievedISO": "2026-10-16T23:49:56.052Z",
+            "endTs": "1:06:44"
           },
           "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
         },
@@ -7537,6 +7633,19 @@
         },
         {
           "dateISO": "2026-05-20",
+          "text": "A hotel industry group's executive director testified in support, saying housing is the biggest hurdle for workforce development.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "sLR8tSPOYbo",
+            "ts": "0:54:56",
+            "retrievedISO": "2026-10-16T23:49:56.052Z",
+            "endTs": "0:56:35"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-05-20",
           "text": "A testifier said housing is the biggest hurdle to keeping workers on Maui.",
           "basis": "said-at-meeting",
           "source": {
@@ -7545,6 +7654,32 @@
             "ts": "0:52:02",
             "retrievedISO": "2026-10-16T23:47:04.598Z",
             "endTs": "0:52:32"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-05-20",
+          "text": "The project representative cited a 2025 housing study showing that at a minimum, 3,800 new units will be needed.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "sLR8tSPOYbo",
+            "ts": "0:47:39",
+            "retrievedISO": "2026-10-16T23:49:56.052Z",
+            "endTs": "0:48:09"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-05-20",
+          "text": "The project representative said the goal is to build the water system in partnership with the county and dedicate it to the county.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "sLR8tSPOYbo",
+            "ts": "0:46:00",
+            "retrievedISO": "2026-10-16T23:49:56.052Z",
+            "endTs": "0:46:30"
           },
           "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
         },
@@ -7571,6 +7706,32 @@
             "ts": "0:42:37",
             "retrievedISO": "2026-10-16T23:47:04.598Z",
             "endTs": "0:43:07"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-05-20",
+          "text": "The proposed project plans to use private water instead of county water.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "sLR8tSPOYbo",
+            "ts": "0:42:03",
+            "retrievedISO": "2026-10-16T23:49:56.052Z",
+            "endTs": "0:42:33"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-05-20",
+          "text": "The housing director said the project is in very early stages.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "sLR8tSPOYbo",
+            "ts": "0:40:53",
+            "retrievedISO": "2026-10-16T23:49:56.052Z",
+            "endTs": "0:41:23"
           },
           "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
         },
@@ -7610,6 +7771,32 @@
             "ts": "0:16:13",
             "retrievedISO": "2026-10-16T23:47:04.598Z",
             "endTs": "0:16:43"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-05-20",
+          "text": "No action was taken on Bill 165, the zoning change.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "sLR8tSPOYbo",
+            "ts": "0:12:53",
+            "retrievedISO": "2026-10-16T23:49:56.052Z",
+            "endTs": "0:13:23"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-05-20",
+          "text": "The committee took up one item: Bills 163, 164 and 165 for a proposed project on land in Kahului.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "sLR8tSPOYbo",
+            "ts": "0:08:30",
+            "retrievedISO": "2026-10-16T23:49:56.052Z",
+            "endTs": "0:09:09"
           },
           "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
         },
@@ -18393,7 +18580,7 @@
     {
       "slug": "allowing-two-accessory-homes-per-residential-lot",
       "title": "Allowing two accessory homes per residential lot",
-      "summary": "Bill 78 would allow two accessory dwelling units, or extra small homes, on residential lots. An earlier description of the bill said it would allow at least two such units on residential lots.",
+      "summary": "On June 19, Bill 78 was before the council; it would allow two accessory dwelling units, or extra small homes, on residential lots. On June 3, the committee approved a revised version after all three planning commissions recommended approval with 13 changes. State law requires counties to adopt such rules by December 31, 2026.",
       "topics": [
         "housing",
         "land-use"
@@ -18448,6 +18635,149 @@
             "endTs": "0:52:58"
           },
           "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-06-03",
+          "text": "Chair's amendment on rural zoning and accessory dwelling parking: Members approved an amendment on rural lot rules and parking language.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "uMPNxxCZOYk",
+            "ts": "1:03:10",
+            "retrievedISO": "2026-10-16T21:12:39.091Z",
+            "endTs": "1:04:29"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-06-03",
+          "text": "Members approved a revised version of the bill and a council member's amendment on conditional zoning agreements, with seven ayes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "uMPNxxCZOYk",
+            "ts": "1:02:32",
+            "retrievedISO": "2026-10-16T21:12:39.091Z",
+            "endTs": "1:03:12"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-06-03",
+          "text": "Planning staff said subdivision rules (CC&Rs) that restrict accessory dwellings still win over the state law.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "uMPNxxCZOYk",
+            "ts": "0:38:44",
+            "retrievedISO": "2026-10-16T21:12:39.091Z",
+            "endTs": "0:39:20"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-06-03",
+          "text": "A fire captain said the fire department may revisit its second-access road rule as more homes are allowed.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "uMPNxxCZOYk",
+            "ts": "0:32:14",
+            "retrievedISO": "2026-10-16T21:12:39.091Z",
+            "endTs": "0:33:06"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-06-03",
+          "text": "Planning staff said building permits are sent to the water and wastewater departments to check that service is adequate.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "uMPNxxCZOYk",
+            "ts": "0:21:12",
+            "retrievedISO": "2026-10-16T21:12:39.091Z",
+            "endTs": "0:21:42"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-06-03",
+          "text": "All three planning commissions recommended approval, with 13 changes from the Planning Department.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "uMPNxxCZOYk",
+            "ts": "0:14:37",
+            "retrievedISO": "2026-10-16T21:12:39.091Z",
+            "endTs": "0:15:07"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-06-03",
+          "text": "Planning staff said the county general plan encourages more housing through accessory dwellings.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "uMPNxxCZOYk",
+            "ts": "0:10:39",
+            "retrievedISO": "2026-10-16T21:12:39.091Z",
+            "endTs": "0:11:09"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-06-03",
+          "text": "Planning staff said current accessory dwelling units cannot be used as short-term or vacation rentals.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "uMPNxxCZOYk",
+            "ts": "0:09:15",
+            "retrievedISO": "2026-10-16T21:12:39.091Z",
+            "endTs": "0:09:45"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-06-03",
+          "text": "Planning staff said the county must adopt its rules by December 31, 2026.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "uMPNxxCZOYk",
+            "ts": "0:06:29",
+            "retrievedISO": "2026-10-16T21:12:39.091Z",
+            "endTs": "0:06:59"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-06-03",
+          "text": "Planning staff said that state law allows two accessory dwelling units on each residential lot.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "uMPNxxCZOYk",
+            "ts": "0:06:23",
+            "retrievedISO": "2026-10-16T21:12:39.091Z",
+            "endTs": "0:06:53"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-06-03",
+          "text": "The committee is updating county rules so residential lots can have two accessory dwelling units, as a state law requires.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "uMPNxxCZOYk",
+            "ts": "0:06:05",
+            "retrievedISO": "2026-10-16T21:12:39.091Z",
+            "endTs": "0:06:51"
+          },
+          "body": "County Council Housing and Land Use Committee"
         },
         {
           "dateISO": "2026-05-20",
@@ -23366,14 +23696,14 @@
     {
       "slug": "cap-on-bed-and-breakfast-homes-on-molokai",
       "title": "Cap on bed and breakfast homes on Molokaʻi",
-      "summary": "Bill 84 passed 9–0 on July 7. The measure caps bed and breakfast homes on Molokaʻi at five. It had been introduced as a proposal to set that limit as of June 19.",
+      "summary": "Bill 84, which caps bed and breakfast homes on Molokaʻi at five, passed 9–0 on July 7, 2026. An earlier version of the proposal would also have kept such homes 1,000 feet apart. The limit was first sent to the Molokaʻi Planning Commission for review in October 2025.",
       "topics": [
         "land-use",
         "housing"
       ],
       "status": "active",
       "pinned": false,
-      "firstSeenISO": "2026-06-19",
+      "firstSeenISO": "2026-06-03",
       "lastSeenISO": "2026-07-07",
       "signals": {
         "meetingsLast30d": 0,
@@ -23387,6 +23717,13 @@
           "name": "Maui County Council",
           "group": "council",
           "short": []
+        },
+        {
+          "name": "Housing and Land Use Committee",
+          "group": "council",
+          "short": [
+            "HLU"
+          ]
         }
       ],
       "bills": [
@@ -23418,6 +23755,19 @@
             "endTs": "0:57:59"
           },
           "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-06-03",
+          "text": "The second bill would cap bed and breakfast homes on Molokaʻi at five and keep them 1,000 feet apart.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "uMPNxxCZOYk",
+            "ts": "1:11:30",
+            "retrievedISO": "2026-10-16T21:12:39.091Z",
+            "endTs": "1:12:00"
+          },
+          "body": "County Council Housing and Land Use Committee"
         }
       ],
       "sourceTypes": [
@@ -28467,6 +28817,71 @@
             "ts": "0:54:39",
             "retrievedISO": "2026-10-16T18:12:05.906Z",
             "endTs": "0:55:22"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-06-05",
+          "text": "Members amended the bill so expansion of the existing total square footage of the floor area is prohibited.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "r35y6R967gY",
+            "ts": "2:42:41",
+            "retrievedISO": "2026-10-16T23:32:54.179Z",
+            "endTs": "2:43:57"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-06-05",
+          "text": "A legal advisor said the list of possibly qualifying properties is informational and does not stop others from applying.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "r35y6R967gY",
+            "ts": "2:33:31",
+            "retrievedISO": "2026-10-16T23:32:54.179Z",
+            "endTs": "2:34:17"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-06-05",
+          "text": "Bill 88 would create H3 and H4 hotel districts that conditionally allow vacation rentals being phased out of apartment districts.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "r35y6R967gY",
+            "ts": "2:09:35",
+            "retrievedISO": "2026-10-16T23:32:54.179Z",
+            "endTs": "2:10:07"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-06-05",
+          "text": "Bill 88 would create H3 and H4 hotel districts for properties now in A1 and A2 apartment districts.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "r35y6R967gY",
+            "ts": "2:08:58",
+            "retrievedISO": "2026-10-16T23:32:54.179Z",
+            "endTs": "2:09:28"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-06-05",
+          "text": "A testifier urged the council to pass Bill 88, which creates H3 and H4 zoning, unchanged.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "r35y6R967gY",
+            "ts": "0:16:20",
+            "retrievedISO": "2026-10-16T23:32:54.179Z",
+            "endTs": "0:16:51"
           },
           "body": "County Council Meeting"
         },
@@ -38565,7 +38980,7 @@
     {
       "slug": "water-system-development-fee-based-on-daily-use",
       "title": "Water system development fee based on daily use",
-      "summary": "Bill 76, which would base the water system development fee on daily water use rather than meter size, was discussed in committee on May 18 and is scheduled for second and final reading on June 5th, 2026. The chair said it better reflects a project's impact on the county's water source and storage. Staff said fees for a small single-family meter would be very similar, and future budgets plan 2 to 3 percent yearly increases.",
+      "summary": "On June 5, 2026, a budget amendment aligned the Water Supply water fund section with the proposed Bill 76 changes, and the water system development fee changes take effect July 1, 2026. Bill 76 bases the fee on average daily demand, not meter size, and was set for second and final reading that day. Properties already legally connected would not pay again, and future budgets plan 2 to 3 percent yearly increases.",
       "topics": [
         "water",
         "housing"
@@ -38573,7 +38988,7 @@
       "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-04-21",
-      "lastSeenISO": "2026-05-18",
+      "lastSeenISO": "2026-06-05",
       "signals": {
         "meetingsLast30d": 0,
         "meetingsLast90d": 0,
@@ -38582,6 +38997,11 @@
       },
       "asOfISO": "2026-10-30",
       "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        },
         {
           "name": "Water and Infrastructure Committee",
           "group": "council",
@@ -38601,6 +39021,19 @@
         "Bill 76 (2026)"
       ],
       "timeline": [
+        {
+          "dateISO": "2026-06-05",
+          "text": "A budget amendment changed the Water Supply water fund section to match the proposed Bill 76 changes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "r35y6R967gY",
+            "ts": "3:31:35",
+            "retrievedISO": "2026-10-16T23:32:54.179Z",
+            "endTs": "3:32:29"
+          },
+          "body": "County Council Meeting"
+        },
         {
           "dateISO": "2026-05-18",
           "text": "Staff said future budgets plan a 2 to 3 percent yearly increase in the fee.",
@@ -38717,6 +39150,58 @@
             "endTs": "0:04:31"
           },
           "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-04-27",
+          "text": "Recommend passage of Bill 76 on first reading: Members recommended passing Bill 76 on first reading with any non-substantive revisions.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "SY7ceHt82eM",
+            "ts": "0:22:18",
+            "retrievedISO": "2026-10-17T01:16:49.944Z",
+            "endTs": "0:23:12"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-27",
+          "text": "Members voted nine ayes to reconsider that referral.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "SY7ceHt82eM",
+            "ts": "0:21:42",
+            "retrievedISO": "2026-10-17T01:16:49.944Z",
+            "endTs": "0:22:16"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-27",
+          "text": "The chair said the other committee would not have time to review the bill before second reading and the start of fiscal year 27.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "SY7ceHt82eM",
+            "ts": "0:19:32",
+            "retrievedISO": "2026-10-17T01:16:49.944Z",
+            "endTs": "0:20:07"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-27",
+          "text": "On Friday, the committee had recommended sending Bill 76 to another committee.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "SY7ceHt82eM",
+            "ts": "0:19:18",
+            "retrievedISO": "2026-10-17T01:16:49.944Z",
+            "endTs": "0:19:48"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
         },
         {
           "dateISO": "2026-04-24",
@@ -38952,7 +39437,7 @@
     {
       "slug": "lower-waiehu-beach-road-land-purchase-and-title-dispute",
       "title": "Lower Waiehu Beach Road land purchase and title dispute",
-      "summary": "A council member's office will contact the family before the bill's first reading. The chair said the church may put the land on the open market if the County does not act.",
+      "summary": "On June 5, a council member moved to file Bill 102, which would have added $500,000 to buy land on Lower Waiehu Beach Road in Wailuku, and the motion passed 9–0. Family members had asked in May to defer the bill, and the chair said the church may sell on the open market if the County does not act. Testifiers have disputed whether the church holds clear title.",
       "topics": [
         "land-use",
         "culture"
@@ -38960,7 +39445,7 @@
       "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-05-19",
-      "lastSeenISO": "2026-05-19",
+      "lastSeenISO": "2026-06-05",
       "signals": {
         "meetingsLast30d": 0,
         "meetingsLast90d": 0,
@@ -38970,6 +39455,11 @@
       "asOfISO": "2026-10-30",
       "boards": [
         {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        },
+        {
           "name": "Budget, Finance, and Economic Development Committee",
           "group": "council",
           "short": [
@@ -38977,8 +39467,36 @@
           ]
         }
       ],
-      "bills": [],
+      "bills": [
+        "Bill 102 (2026)"
+      ],
       "timeline": [
+        {
+          "dateISO": "2026-06-05",
+          "text": "That motion passed 9–0.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "r35y6R967gY",
+            "ts": "2:06:52",
+            "retrievedISO": "2026-10-16T23:32:54.179Z",
+            "endTs": "2:07:22"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-06-05",
+          "text": "A council member moved to file, or set aside, Bill 102, which would fund buying a Wailuku property.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "r35y6R967gY",
+            "ts": "2:00:15",
+            "retrievedISO": "2026-10-16T23:32:54.179Z",
+            "endTs": "2:01:36"
+          },
+          "body": "County Council Meeting"
+        },
         {
           "dateISO": "2026-05-19",
           "text": "A council member's office will contact the family before first reading.",
@@ -39420,7 +39938,7 @@
     {
       "slug": "countys-wildfire-lawsuits-and-global-settlement",
       "title": "County's wildfire lawsuits and global settlement",
-      "summary": "A committee voted 8 ayes, with one member excused, to adopt a resolution adding $240,000 to pay the law firm Myers-Nave for work on the August 2023 wildfire lawsuits, and it now goes to the full council. That would bring the total to up to $740,000. The insurer agreed to pay $521,000 of the firm's $854,000 bill, and the County cut another $93,000.",
+      "summary": "On May 19, 2026, a council committee voted 8-0, with one member excused, to advance Resolution 26-82 to the full council. It adds $240,000 to pay the law firm Myers-Nave for August 2023 wildfire lawsuit work, for a total of up to $740,000. The insurer agreed to pay $521,000 of the firm's $854,000 bill.",
       "topics": [
         "disaster-recovery",
         "government"
@@ -39450,7 +39968,9 @@
           "short": []
         }
       ],
-      "bills": [],
+      "bills": [
+        "Resolution 26-82"
+      ],
       "timeline": [
         {
           "dateISO": "2026-05-19",
@@ -39516,6 +40036,19 @@
             "endTs": "0:07:03"
           },
           "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        },
+        {
+          "dateISO": "2026-05-01",
+          "text": "Resolution 26-82, referral to committee: The council referred a resolution on extra pay for special counsel in wildfire lawsuits to the Government Relations, Ethics, and Transparency Committee.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "7eJyblKPm2w",
+            "ts": "2:15:07",
+            "retrievedISO": "2026-10-17T01:13:59.013Z",
+            "endTs": "2:15:45"
+          },
+          "body": "County Council Meeting"
         },
         {
           "dateISO": "2024-07-19",

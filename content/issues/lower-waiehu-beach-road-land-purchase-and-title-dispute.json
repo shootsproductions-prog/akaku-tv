@@ -1,7 +1,7 @@
 {
   "slug": "lower-waiehu-beach-road-land-purchase-and-title-dispute",
   "title": "Lower Waiehu Beach Road land purchase and title dispute",
-  "summary": "A council member's office will contact the family before the bill's first reading. The chair said the church may put the land on the open market if the County does not act.",
+  "summary": "On June 5, a council member moved to file Bill 102, which would have added $500,000 to buy land on Lower Waiehu Beach Road in Wailuku, and the motion passed 9–0. Family members had asked in May to defer the bill, and the chair said the church may sell on the open market if the County does not act. Testifiers have disputed whether the church holds clear title.",
   "topics": [
     "land-use",
     "culture"
@@ -9,7 +9,7 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-05-19",
-  "lastSeenISO": "2026-05-19",
+  "lastSeenISO": "2026-06-05",
   "signals": {
     "meetingsLast30d": 0,
     "meetingsLast90d": 0,
@@ -19,6 +19,11 @@
   "asOfISO": "2026-10-30",
   "boards": [
     {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    },
+    {
       "name": "Budget, Finance, and Economic Development Committee",
       "group": "council",
       "short": [
@@ -26,8 +31,36 @@
       ]
     }
   ],
-  "bills": [],
+  "bills": [
+    "Bill 102 (2026)"
+  ],
   "timeline": [
+    {
+      "dateISO": "2026-06-05",
+      "text": "That motion passed 9–0.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "r35y6R967gY",
+        "ts": "2:06:52",
+        "retrievedISO": "2026-10-16T23:32:54.179Z",
+        "endTs": "2:07:22"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-06-05",
+      "text": "A council member moved to file, or set aside, Bill 102, which would fund buying a Wailuku property.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "r35y6R967gY",
+        "ts": "2:00:15",
+        "retrievedISO": "2026-10-16T23:32:54.179Z",
+        "endTs": "2:01:36"
+      },
+      "body": "County Council Meeting"
+    },
     {
       "dateISO": "2026-05-19",
       "text": "A council member's office will contact the family before first reading.",
