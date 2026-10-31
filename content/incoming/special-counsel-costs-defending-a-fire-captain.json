@@ -1,0 +1,74 @@
+{
+  "slug": "special-counsel-costs-defending-a-fire-captain",
+  "title": "Special counsel costs defending a fire captain",
+  "summary": "Resolution 26-131 would raise the cap on special counsel spending by $250,000, to $450,000 in total. The special counsel represents Captain Scott Martin in a lawsuit filed by Chelsea Evans. A deputy corporation counsel said state law requires defending firefighters sued for acts done on duty.",
+  "topics": [
+    "government",
+    "public-safety"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-08-18",
+  "lastSeenISO": "2026-08-18",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-31",
+  "timeline": [
+    {
+      "dateISO": "2026-08-18",
+      "text": "A deputy corporation counsel said state law requires defending firefighters sued for acts done on duty.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "h-ed5db7tE4",
+        "ts": "0:25:28",
+        "endTs": "0:26:05",
+        "retrievedISO": "2026-10-16T06:45:12.146Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-08-18",
+      "text": "The special counsel represents Captain Scott Martin in a lawsuit filed by Chelsea Evans.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "h-ed5db7tE4",
+        "ts": "0:06:40",
+        "endTs": "0:07:10",
+        "retrievedISO": "2026-10-16T06:45:12.146Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-08-18",
+      "text": "Resolution 26-131 would raise the limit for special counsel by $250,000, to $450,000 total.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "h-ed5db7tE4",
+        "ts": "0:05:01",
+        "endTs": "0:05:32",
+        "retrievedISO": "2026-10-16T06:45:12.146Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Government Relations, Ethics, and Transparency Committee",
+      "group": "council",
+      "short": [
+        "GREAT"
+      ]
+    }
+  ],
+  "bills": [
+    "Resolution 26-131"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

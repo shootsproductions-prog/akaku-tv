@@ -1,0 +1,111 @@
+{
+  "slug": "state-fire-code-adoption-with-brush-clearing-fines",
+  "title": "State fire code adoption with brush clearing fines",
+  "summary": "In November 2024, the department said it had introduced the 2021 fire code to the County Council and hoped for approval in December 2024.",
+  "topics": [
+    "public-safety",
+    "land-use"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2024-11-21",
+  "lastSeenISO": "2024-11-21",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-31",
+  "timeline": [
+    {
+      "dateISO": "2024-11-21",
+      "text": "The department introduced the 2021 fire code to the County Council and hopes for approval in December.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "EzLmqE78YDk",
+        "ts": "0:34:17",
+        "endTs": "0:34:47",
+        "retrievedISO": "2026-10-12T06:30:30.475Z"
+      },
+      "body": "Fire and Public Safety Commission"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Fire and Public Safety Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
+  "fromCommunityMeetings": [
+    {
+      "dateISO": "2024-07-23",
+      "kind": "official",
+      "who": "Maui Fire Department chief",
+      "quote": "The clarity of the fire code is the first thing we're working on, and we're working on our fire code amendments right now. Just to let you know what the fire code states is that 30 feet from the nearest structure, your fuel needs to be cut to 18 inches or shorter.",
+      "about": "Explains the current brush-clearing rule and says the department is drafting fire code amendments.",
+      "source": {
+        "type": "community-meeting",
+        "title": "Kula Community Meeting: Fire Preparedness July 23, 2024",
+        "videoId": "1eqgL4KYGwU",
+        "ts": 5320
+      }
+    },
+    {
+      "dateISO": "2024-07-23",
+      "kind": "official",
+      "who": "Maui Fire Department chief",
+      "quote": "what we're going to do is we're going to increase that fire code to go all the way up to 100 feet depending on the size of the vegetation.",
+      "about": "Says the planned fire code change would extend required fuel clearing up to 100 feet depending on vegetation.",
+      "source": {
+        "type": "community-meeting",
+        "title": "Kula Community Meeting: Fire Preparedness July 23, 2024",
+        "videoId": "1eqgL4KYGwU",
+        "ts": 5375
+      }
+    },
+    {
+      "dateISO": "2024-02-29",
+      "kind": "official",
+      "who": "Maui Fire Chief",
+      "quote": "The main thing to note is that anything 30 feet from a structure has to be 18 inches or shorter.",
+      "about": "The fire chief explains the brush clearing standard that the fire code enforces around structures.",
+      "source": {
+        "type": "community-meeting",
+        "title": "Upcountry Community Meeting on Hazard Mitigation & Recovery: February 29, 2024",
+        "videoId": "Uj0Tugn8wFw",
+        "ts": 1819
+      }
+    },
+    {
+      "dateISO": "2024-02-29",
+      "kind": "official",
+      "who": "Maui Fire Chief",
+      "quote": "The way the process works is if we identify a fire code violation, we will give the owner of the property a notice of warning. They have 30 days to correct it. After that, we give them a notice of violation, which means they're going to be getting fined, and then they have 30 days to correct it.",
+      "about": "The fire chief lays out the warning, fine and clearing steps the department uses for brush code violations.",
+      "source": {
+        "type": "community-meeting",
+        "title": "Upcountry Community Meeting on Hazard Mitigation & Recovery: February 29, 2024",
+        "videoId": "Uj0Tugn8wFw",
+        "ts": 1875
+      }
+    },
+    {
+      "dateISO": "2024-02-29",
+      "kind": "official",
+      "who": "Maui Fire Chief",
+      "quote": "But remember, the fire code is 30 feet from the nearest structure. And so a lot of people are protected from that, but we have to change legislation, which we may see some of that this year.",
+      "about": "The fire chief says the current code's 30-foot limit leaves overgrown absentee parcels outside enforcement, so the rules would have to change to reach them.",
+      "source": {
+        "type": "community-meeting",
+        "title": "Upcountry Community Meeting on Hazard Mitigation & Recovery: February 29, 2024",
+        "videoId": "Uj0Tugn8wFw",
+        "ts": 6977
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "slug": "village-association-plan-to-stop-using-injection-wells",
+  "title": "Village association plan to stop using injection wells",
+  "summary": "On April 23, testifiers urged funding for a regional wastewater system for a Maui bay, which an engineer said could cost $12.48 million to $16.14 million, and members discussed a resolution urging the administration to fund a loan from carryover savings. On April 21, a motion to delete $2.5 million for the village association's project failed 4–4. The mayor has pledged up to $9.5 million over several years, subject to council approval.",
+  "topics": [
+    "water",
+    "environment"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2026-04-21",
+  "lastSeenISO": "2026-04-23",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-31",
+  "timeline": [
+    {
+      "dateISO": "2026-04-23",
+      "text": "Members discussed drafting a resolution urging the administration to fund the wastewater loan from carryover savings.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "AYcQ3sdhHaI",
+        "ts": "6:19:03",
+        "endTs": "6:19:50",
+        "retrievedISO": "2026-10-17T01:31:18.022Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-23",
+      "text": "Testifiers urged funding for a regional wastewater system to improve water quality in a Maui bay.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "AYcQ3sdhHaI",
+        "ts": "1:07:05",
+        "endTs": "1:07:50",
+        "retrievedISO": "2026-10-17T01:31:18.022Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-23",
+      "text": "An engineer testified that a regional wastewater project for a bay community may cost $12.48 million to $16.14 million.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "AYcQ3sdhHaI",
+        "ts": "0:23:19",
+        "endTs": "0:23:52",
+        "retrievedISO": "2026-10-17T01:31:18.022Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-23",
+      "text": "The engineer described one year for design and permitting and one year for construction, pending funding.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "AYcQ3sdhHaI",
+        "ts": "0:22:16",
+        "endTs": "0:22:53",
+        "retrievedISO": "2026-10-17T01:31:18.022Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-23",
+      "text": "An engineer said the bay is on the EPA's list of impaired water bodies and has less than 5% living coral.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "AYcQ3sdhHaI",
+        "ts": "0:18:49",
+        "endTs": "0:19:20",
+        "retrievedISO": "2026-10-17T01:31:18.022Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "A motion to delete that project's funding failed on a 4–4 vote.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iRjah0zHtLw",
+        "ts": "3:15:00",
+        "endTs": "3:16:18",
+        "retrievedISO": "2026-10-17T01:44:37.372Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "The budget director said the mayor pledged up to $9.5 million for a village wastewater project.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iRjah0zHtLw",
+        "ts": "2:58:44",
+        "endTs": "2:59:15",
+        "retrievedISO": "2026-10-17T01:44:37.372Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

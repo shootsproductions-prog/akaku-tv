@@ -1,0 +1,107 @@
+{
+  "slug": "cost-of-government-commission-empty-seat-and-staggered-terms",
+  "title": "Cost of Government Commission empty seat and staggered terms",
+  "summary": "As of August 13, 2026, one commission seat remains empty with no nominee, and the chair asked members to recruit candidates and have them fill out application forms. The chair will follow up on the vacancy and consult corporation counsel on staggered terms, a plan that did not make the ballot. A possible letter asking county lawyers to clarify the vacancy was still an action item in November 2024.",
+  "topics": [
+    "government",
+    "elections"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2024-11-14",
+  "lastSeenISO": "2026-08-13",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-31",
+  "timeline": [
+    {
+      "dateISO": "2026-08-13",
+      "text": "The chair asked members to recruit possible candidates and have them fill out application forms.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mEoIJx_G1XQ",
+        "ts": "0:58:22",
+        "endTs": "0:58:52",
+        "retrievedISO": "2026-10-12T06:30:06.096Z"
+      },
+      "body": "Cost of Government Commission"
+    },
+    {
+      "dateISO": "2026-08-13",
+      "text": "Staff said one seat is empty and no one has been nominated for it.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mEoIJx_G1XQ",
+        "ts": "0:49:39",
+        "endTs": "0:50:33",
+        "retrievedISO": "2026-10-12T06:30:06.096Z"
+      },
+      "body": "Cost of Government Commission"
+    },
+    {
+      "dateISO": "2026-08-13",
+      "text": "The chair will follow up on the empty seat and with corporation counsel on staggered terms.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mEoIJx_G1XQ",
+        "ts": "0:46:20",
+        "endTs": "0:46:50",
+        "retrievedISO": "2026-10-12T06:30:06.096Z"
+      },
+      "body": "Cost of Government Commission"
+    },
+    {
+      "dateISO": "2026-08-13",
+      "text": "A plan for staggered terms, so members don't all leave at once, did not make the ballot.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mEoIJx_G1XQ",
+        "ts": "0:40:26",
+        "endTs": "0:40:56",
+        "retrievedISO": "2026-10-12T06:30:06.096Z"
+      },
+      "body": "Cost of Government Commission"
+    },
+    {
+      "dateISO": "2024-11-14",
+      "text": "A possible letter asking county lawyers to clarify the vacancy on the commission remains an action item.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ji15bQv82GM",
+        "ts": "2:39:20",
+        "endTs": "2:40:02",
+        "retrievedISO": "2026-10-15T06:35:28.600Z"
+      }
+    },
+    {
+      "dateISO": "2024-11-14",
+      "text": "Update on recruitment and nomination process for the commission: Without objection, the chair deferred the update on recruitment for the commission's own seat.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ji15bQv82GM",
+        "ts": "1:33:15",
+        "endTs": "1:33:45",
+        "retrievedISO": "2026-10-15T06:35:28.600Z"
+      }
+    }
+  ],
+  "boards": [
+    {
+      "name": "Cost of Government Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

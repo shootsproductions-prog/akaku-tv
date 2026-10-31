@@ -1,0 +1,425 @@
+{
+  "slug": "rewrite-of-title-19-county-zoning-code",
+  "title": "Rewrite of Title 19 county zoning code",
+  "summary": "On July 15, the planning commission heard a briefing on the Title 19 zoning code rewrite, and staff said the first module of draft chapters should reach the commission later this summer or fall. The County Council, not the commission, has final say on zoning changes. The rewrite began in 2019 and is not finished; chapters will come in modules, and housing types are a main focus.",
+  "topics": [
+    "land-use",
+    "government"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-06-17",
+  "lastSeenISO": "2026-07-15",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-31",
+  "timeline": [
+    {
+      "dateISO": "2026-07-15",
+      "text": "The first module, a group of draft chapters, is planned to come to the commission later this summer or fall.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "YXklH_FH7zQ",
+        "ts": "0:31:50",
+        "endTs": "0:32:20",
+        "retrievedISO": "2026-10-13T06:35:13.750Z"
+      },
+      "body": "Lānaʻi Planning Commission"
+    },
+    {
+      "dateISO": "2026-07-15",
+      "text": "He said the County Council, not the commission, has the final say on zoning code changes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "YXklH_FH7zQ",
+        "ts": "0:20:10",
+        "endTs": "0:20:40",
+        "retrievedISO": "2026-10-13T06:35:13.750Z"
+      },
+      "body": "Lānaʻi Planning Commission"
+    },
+    {
+      "dateISO": "2026-07-14",
+      "text": "Staff said they will listen and consider whether the rewrite can do anything to address it.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Ail920zTE4c",
+        "ts": "3:03:02",
+        "endTs": "3:03:32",
+        "retrievedISO": "2026-10-13T06:35:14.575Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2026-07-14",
+      "text": "Staff said water is assessed by other means in permit reviews.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Ail920zTE4c",
+        "ts": "3:02:54",
+        "endTs": "3:03:24",
+        "retrievedISO": "2026-10-13T06:35:14.575Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2026-07-14",
+      "text": "Staff said water is not under the planning department's purview.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Ail920zTE4c",
+        "ts": "3:02:46",
+        "endTs": "3:03:16",
+        "retrievedISO": "2026-10-13T06:35:14.575Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2026-07-14",
+      "text": "The testifier said there is a big gap between the county code titles on whether the water supply is sufficient.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Ail920zTE4c",
+        "ts": "2:59:56",
+        "endTs": "3:00:26",
+        "retrievedISO": "2026-10-13T06:35:14.575Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2026-07-14",
+      "text": "A testifier said the zoning code rewrite does not address water supply.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Ail920zTE4c",
+        "ts": "2:57:57",
+        "endTs": "2:58:30",
+        "retrievedISO": "2026-10-13T06:35:14.575Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2026-07-14",
+      "text": "Staff said the first draft chapters should come later this summer or fall.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Ail920zTE4c",
+        "ts": "2:48:16",
+        "endTs": "2:48:46",
+        "retrievedISO": "2026-10-13T06:35:14.575Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2026-07-14",
+      "text": "Planning staff updated the commission on rewriting Title 19, the county zoning code.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Ail920zTE4c",
+        "ts": "2:30:32",
+        "endTs": "2:31:08",
+        "retrievedISO": "2026-10-13T06:35:14.575Z"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2026-06-24",
+      "text": "The next meeting is July 22 at 11:00 a.m., with a Title 19 update from the planning implementation division.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "S6g6qYGt6OI",
+        "ts": "0:29:15",
+        "endTs": "0:29:45",
+        "retrievedISO": "2026-10-14T06:40:09.011Z"
+      },
+      "body": "Molokaʻi Planning Commission"
+    },
+    {
+      "dateISO": "2026-06-24",
+      "text": "Staff said Title 19 is the county zoning code, which is being rewritten.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "S6g6qYGt6OI",
+        "ts": "0:28:02",
+        "endTs": "0:28:32",
+        "retrievedISO": "2026-10-14T06:40:09.011Z"
+      },
+      "body": "Molokaʻi Planning Commission"
+    },
+    {
+      "dateISO": "2026-06-17",
+      "text": "The committee deferred the item, meaning it was put off for now.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "IDdA2PEpsxc",
+        "ts": "1:59:20",
+        "endTs": "1:59:50",
+        "retrievedISO": "2026-10-16T19:27:10.049Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-06-17",
+      "text": "The chair said a question about sending changes back to the planning commissions will go in writing to planning and the attorney.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "IDdA2PEpsxc",
+        "ts": "1:58:07",
+        "endTs": "1:58:37",
+        "retrievedISO": "2026-10-16T19:27:10.049Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-06-17",
+      "text": "Staff said each module will come to the committee informally for feedback before going to the commissions.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "IDdA2PEpsxc",
+        "ts": "1:55:23",
+        "endTs": "1:55:53",
+        "retrievedISO": "2026-10-16T19:27:10.049Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-06-17",
+      "text": "The consultant said housing types will be looked at mainly in module four, the residential module.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "IDdA2PEpsxc",
+        "ts": "1:39:34",
+        "endTs": "1:40:04",
+        "retrievedISO": "2026-10-16T19:27:10.049Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-06-17",
+      "text": "The consultant said some housing types could be allowed outright or with set conditions.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "IDdA2PEpsxc",
+        "ts": "1:38:30",
+        "endTs": "1:39:00",
+        "retrievedISO": "2026-10-16T19:27:10.049Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-06-17",
+      "text": "The zoning rewrite will look at allowing more types of housing in each district.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "IDdA2PEpsxc",
+        "ts": "1:38:19",
+        "endTs": "1:38:59",
+        "retrievedISO": "2026-10-16T19:27:10.049Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-06-17",
+      "text": "The consultant said housing is a flashpoint issue on Maui and in places across the country.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "IDdA2PEpsxc",
+        "ts": "1:38:02",
+        "endTs": "1:38:34",
+        "retrievedISO": "2026-10-16T19:27:10.049Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-06-17",
+      "text": "Staff said that if members cannot agree on a change, the current rule will stay in place for now.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "IDdA2PEpsxc",
+        "ts": "1:17:24",
+        "endTs": "1:17:58",
+        "retrievedISO": "2026-10-16T19:27:10.049Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-06-17",
+      "text": "Staff said they will ask the Maui Planning Commission to refer the rewrite to the Hāna Advisory Committee.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "IDdA2PEpsxc",
+        "ts": "1:13:12",
+        "endTs": "1:13:42",
+        "retrievedISO": "2026-10-16T19:27:10.049Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-06-17",
+      "text": "Staff said the agricultural district will be discussed in module five.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "IDdA2PEpsxc",
+        "ts": "1:12:12",
+        "endTs": "1:12:45",
+        "retrievedISO": "2026-10-16T19:27:10.049Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-06-17",
+      "text": "The council chair asked how housing can get cheaper when plans keep adding conditions.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "IDdA2PEpsxc",
+        "ts": "1:09:03",
+        "endTs": "1:09:37",
+        "retrievedISO": "2026-10-16T19:27:10.049Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-06-17",
+      "text": "Close oral testimony: The chair closed oral testimony without objection; written testimony will still be accepted.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "IDdA2PEpsxc",
+        "ts": "0:46:28",
+        "endTs": "0:46:58",
+        "retrievedISO": "2026-10-16T19:27:10.049Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-06-17",
+      "text": "Another testifier asked that project applicants be required to show a clear chain of title (proof of ownership history).",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "IDdA2PEpsxc",
+        "ts": "0:32:46",
+        "endTs": "0:33:16",
+        "retrievedISO": "2026-10-16T19:27:10.049Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-06-17",
+      "text": "Staff said the first group of draft chapters could be introduced later this summer or fall.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "IDdA2PEpsxc",
+        "ts": "0:19:35",
+        "endTs": "0:20:05",
+        "retrievedISO": "2026-10-16T19:27:10.049Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-06-17",
+      "text": "Staff said draft chapters will come to the Council and the three planning commissions in groups called modules.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "IDdA2PEpsxc",
+        "ts": "0:16:56",
+        "endTs": "0:17:26",
+        "retrievedISO": "2026-10-16T19:27:10.049Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-06-17",
+      "text": "Staff said zoning can set land aside for housing but cannot force owners to build it.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "IDdA2PEpsxc",
+        "ts": "0:15:11",
+        "endTs": "0:15:41",
+        "retrievedISO": "2026-10-16T19:27:10.049Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-06-17",
+      "text": "Planning staff said the rewrite began in 2019 and is not yet finished.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "IDdA2PEpsxc",
+        "ts": "0:05:22",
+        "endTs": "0:05:52",
+        "retrievedISO": "2026-10-16T19:27:10.049Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-06-17",
+      "text": "The committee's only agenda item was the rewrite of Title 19, the County's zoning code.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "IDdA2PEpsxc",
+        "ts": "0:02:30",
+        "endTs": "0:03:00",
+        "retrievedISO": "2026-10-16T19:27:10.049Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Lānaʻi Planning Commission",
+      "group": "board",
+      "short": []
+    },
+    {
+      "name": "Maui Planning Commission",
+      "group": "board",
+      "short": []
+    },
+    {
+      "name": "Molokaʻi Planning Commission",
+      "group": "board",
+      "short": []
+    },
+    {
+      "name": "Housing and Land Use Committee",
+      "group": "council",
+      "short": [
+        "HLU"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

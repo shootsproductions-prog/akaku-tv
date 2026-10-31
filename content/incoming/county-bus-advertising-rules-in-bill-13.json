@@ -1,0 +1,118 @@
+{
+  "slug": "county-bus-advertising-rules-in-bill-13",
+  "title": "County bus advertising rules in Bill 13",
+  "summary": "On June 19, Committee Report 26-33 recommended first reading of Bill 13, which updates rules for ads on County buses and bus passes, but the meeting video did not capture the vote on that motion. On May 21 the committee voted 6–0 to replace the bill with a revised version, CD1. After the law changes, the transportation department plans to seek proposals from advertising agencies and may return to change ad rates.",
+  "topics": [
+    "transportation",
+    "government"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-05-21",
+  "lastSeenISO": "2026-06-19",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-31",
+  "timeline": [
+    {
+      "dateISO": "2026-06-19",
+      "text": "Committee Report 26-33 recommending first reading of Bill 13 on county transit bus advertising: The vote on this motion was not captured in the meeting video.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lLsXXrEBmuw",
+        "ts": "0:33:00",
+        "endTs": "0:33:34",
+        "retrievedISO": "2026-10-16T18:09:11.606Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-05-21",
+      "text": "Motion to amend by replacing Bill 13 (2026) with Bill 13, CD1 (2026): The committee approved replacing Bill 13 (2026) with the revised CD1 version.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oGAlti5AS88",
+        "ts": "0:42:20",
+        "endTs": "0:43:17",
+        "retrievedISO": "2026-10-16T21:46:42.217Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-05-21",
+      "text": "The transportation director said the department may come back to change ad rates if proposals suggest different prices.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oGAlti5AS88",
+        "ts": "0:21:19",
+        "endTs": "0:21:49",
+        "retrievedISO": "2026-10-16T21:46:42.217Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-05-21",
+      "text": "After the law changes, the transportation department will put out a request for proposals from advertising agencies.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oGAlti5AS88",
+        "ts": "0:19:59",
+        "endTs": "0:20:47",
+        "retrievedISO": "2026-10-16T21:46:42.217Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-05-21",
+      "text": "The transportation director said outside groups could only buy ads that offer to sell something.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oGAlti5AS88",
+        "ts": "0:10:28",
+        "endTs": "0:11:06",
+        "retrievedISO": "2026-10-16T21:46:42.217Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-05-21",
+      "text": "The committee took up Bill 13 (2026), which updates rules for ads on County buses and bus passes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oGAlti5AS88",
+        "ts": "0:04:09",
+        "endTs": "0:04:43",
+        "retrievedISO": "2026-10-16T21:46:42.217Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    },
+    {
+      "name": "Agriculture, Diversification, Environment, and Public Transportation Committee",
+      "group": "council",
+      "short": [
+        "ADEPT"
+      ]
+    }
+  ],
+  "bills": [
+    "Bill 13 (2026)"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

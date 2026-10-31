@@ -1,0 +1,45 @@
+{
+  "slug": "liloa-drive-extension-in-kihei",
+  "title": "Līloa Drive extension in Kīhei",
+  "summary": "As of September 2026, the department says the first phase of the Līloa Drive extension should begin in 2027. As of December 2024, the project had a $25 million federal grant and a draft environmental assessment, but cost had risen to $72 million and 13 of 38 affected property owners had not signed permit letters. The committee deferred the item.",
+  "topics": [
+    "transportation"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-09-14",
+  "lastSeenISO": "2026-09-14",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-31",
+  "timeline": [
+    {
+      "dateISO": "2026-09-14",
+      "text": "The department said the first phase of the Līloa Drive extension is expected to begin in 2027.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lui2UwEGmm8",
+        "ts": "0:23:41",
+        "endTs": "0:24:11",
+        "retrievedISO": "2026-10-16T14:27:25.548Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Disaster Recovery, International Affairs, and Planning Committee",
+      "group": "council",
+      "short": [
+        "DRIP"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
