@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T10:02:18.959Z",
-  "etag": "ebbddf0ee28f0633ad3634414499baba2c481d5901ce3ddfe7bcdd63e61e7b10",
+  "updatedAt": "2026-10-31T10:10:09.960Z",
+  "etag": "0cf67cff661206a2d0671e19679227c7bee8d62c0f4d5e7bbc0d23d863791b75",
   "count": 208,
   "meetings": [
     {
@@ -528,8 +528,8 @@
       "status": "reviewed",
       "meetingDateISO": "2026-09-18",
       "bodyType": "board",
-      "body": "Aha Moku o Maui Hikina",
-      "headline": "Aha Moku o Maui Hikina",
+      "body": "ʻAha Moku o Maui Hikina",
+      "headline": "ʻAha Moku o Maui Hikina",
       "summary": "BLNR rejected the operator's request for a contested case (a trial-like hearing) after an executive session (a closed-door discussion).",
       "dur": "1 h 18 m",
       "voteCount": 0,
@@ -538,8 +538,8 @@
         "contested-case-on-mahi-pono-east-maui-water-permits",
         "east-maui-watershed-plan-based-on-ahupuaa"
       ],
-      "updatedAt": "2026-10-30T06:16:26.131Z",
-      "sha256": "0eeaf8a8a312c4ec6b42a12ae777e711d39c7e6f8691c58b309337b8d7aaa32c"
+      "updatedAt": "2026-10-31T10:10:09.960Z",
+      "sha256": "4711d5dabc012dd4158345d398213b74203b3ce81cfc058d6fb98db95c226a8a"
     },
     {
       "videoId": "PPhr7CjkbZs",
