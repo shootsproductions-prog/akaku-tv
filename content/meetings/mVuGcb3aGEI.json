@@ -42,7 +42,12 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": [],
+    "trackerIssues": [
+      {
+        "slug": "fixes-to-workforce-housing-law-chapter-2-96",
+        "title": "Fixes to workforce housing law chapter 2.96"
+      }
+    ],
     "boards": [
       {
         "name": "Housing Advisory Board",

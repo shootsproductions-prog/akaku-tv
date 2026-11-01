@@ -44,7 +44,12 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": [],
+    "trackerIssues": [
+      {
+        "slug": "lanai-city-parking-code-change",
+        "title": "Lānaʻi City parking code change"
+      }
+    ],
     "boards": [
       {
         "name": "Lānaʻi Planning Commission",

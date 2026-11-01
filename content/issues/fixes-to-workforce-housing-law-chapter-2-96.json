@@ -17,6 +17,16 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-31",
+  "boards": [
+    {
+      "name": "Housing Advisory Board",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [
+    "Bill 88 (2026)"
+  ],
   "timeline": [
     {
       "dateISO": "2026-05-29",
@@ -26,8 +36,8 @@
         "type": "meeting",
         "videoId": "mVuGcb3aGEI",
         "ts": "0:22:43",
-        "endTs": "0:23:13",
-        "retrievedISO": "2026-10-14T06:40:12.420Z"
+        "retrievedISO": "2026-10-14T06:40:12.420Z",
+        "endTs": "0:23:13"
       },
       "body": "Housing Advisory Board"
     },
@@ -39,8 +49,8 @@
         "type": "meeting",
         "videoId": "mVuGcb3aGEI",
         "ts": "0:22:26",
-        "endTs": "0:22:56",
-        "retrievedISO": "2026-10-14T06:40:12.420Z"
+        "retrievedISO": "2026-10-14T06:40:12.420Z",
+        "endTs": "0:22:56"
       },
       "body": "Housing Advisory Board"
     },
@@ -52,8 +62,8 @@
         "type": "meeting",
         "videoId": "mVuGcb3aGEI",
         "ts": "0:22:09",
-        "endTs": "0:22:39",
-        "retrievedISO": "2026-10-14T06:40:12.420Z"
+        "retrievedISO": "2026-10-14T06:40:12.420Z",
+        "endTs": "0:22:39"
       },
       "body": "Housing Advisory Board"
     },
@@ -65,8 +75,8 @@
         "type": "meeting",
         "videoId": "mVuGcb3aGEI",
         "ts": "0:21:43",
-        "endTs": "0:22:37",
-        "retrievedISO": "2026-10-14T06:40:12.420Z"
+        "retrievedISO": "2026-10-14T06:40:12.420Z",
+        "endTs": "0:22:37"
       },
       "body": "Housing Advisory Board"
     },
@@ -78,8 +88,8 @@
         "type": "meeting",
         "videoId": "mVuGcb3aGEI",
         "ts": "0:19:41",
-        "endTs": "0:20:24",
-        "retrievedISO": "2026-10-14T06:40:12.420Z"
+        "retrievedISO": "2026-10-14T06:40:12.420Z",
+        "endTs": "0:20:24"
       },
       "body": "Housing Advisory Board"
     },
@@ -91,8 +101,8 @@
         "type": "meeting",
         "videoId": "mVuGcb3aGEI",
         "ts": "0:18:35",
-        "endTs": "0:19:05",
-        "retrievedISO": "2026-10-14T06:40:12.420Z"
+        "retrievedISO": "2026-10-14T06:40:12.420Z",
+        "endTs": "0:19:05"
       },
       "body": "Housing Advisory Board"
     },
@@ -104,8 +114,8 @@
         "type": "meeting",
         "videoId": "mVuGcb3aGEI",
         "ts": "0:17:11",
-        "endTs": "0:18:08",
-        "retrievedISO": "2026-10-14T06:40:12.420Z"
+        "retrievedISO": "2026-10-14T06:40:12.420Z",
+        "endTs": "0:18:08"
       },
       "body": "Housing Advisory Board"
     },
@@ -117,8 +127,8 @@
         "type": "meeting",
         "videoId": "mVuGcb3aGEI",
         "ts": "0:14:48",
-        "endTs": "0:15:50",
-        "retrievedISO": "2026-10-14T06:40:12.420Z"
+        "retrievedISO": "2026-10-14T06:40:12.420Z",
+        "endTs": "0:15:50"
       },
       "body": "Housing Advisory Board"
     },
@@ -130,8 +140,8 @@
         "type": "meeting",
         "videoId": "mVuGcb3aGEI",
         "ts": "0:13:19",
-        "endTs": "0:13:56",
-        "retrievedISO": "2026-10-14T06:40:12.420Z"
+        "retrievedISO": "2026-10-14T06:40:12.420Z",
+        "endTs": "0:13:56"
       },
       "body": "Housing Advisory Board"
     },
@@ -143,8 +153,8 @@
         "type": "meeting",
         "videoId": "mVuGcb3aGEI",
         "ts": "0:12:26",
-        "endTs": "0:13:27",
-        "retrievedISO": "2026-10-14T06:40:12.420Z"
+        "retrievedISO": "2026-10-14T06:40:12.420Z",
+        "endTs": "0:13:27"
       },
       "body": "Housing Advisory Board"
     },
@@ -156,8 +166,8 @@
         "type": "meeting",
         "videoId": "mVuGcb3aGEI",
         "ts": "0:11:06",
-        "endTs": "0:11:36",
-        "retrievedISO": "2026-10-14T06:40:12.420Z"
+        "retrievedISO": "2026-10-14T06:40:12.420Z",
+        "endTs": "0:11:36"
       },
       "body": "Housing Advisory Board"
     },
@@ -169,21 +179,14 @@
         "type": "meeting",
         "videoId": "mVuGcb3aGEI",
         "ts": "0:09:47",
-        "endTs": "0:10:36",
-        "retrievedISO": "2026-10-14T06:40:12.420Z"
+        "retrievedISO": "2026-10-14T06:40:12.420Z",
+        "endTs": "0:10:36"
       },
       "body": "Housing Advisory Board"
     }
   ],
-  "boards": [
-    {
-      "name": "Housing Advisory Board",
-      "group": "board",
-      "short": []
-    }
-  ],
-  "bills": [
-    "Bill 88 (2026)"
+  "sourceTypes": [
+    "meeting"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

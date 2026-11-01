@@ -189,12 +189,20 @@
     "board-of-water-supply-opposes-bill-1.json",
     "county-worker-vacancies-and-hr-consultant-review.json",
     "east-maui-water-authority-grant-program-funding.json",
-    "haiku-fire-station-awaits-county-council-approval.json"
+    "haiku-fire-station-awaits-county-council-approval.json",
+    "east-maui-water-board-budget-and-staffing-requests.json",
+    "fire-department-equipment-repair-and-replacement.json",
+    "fire-department-input-on-housing-density-bills.json",
+    "fixes-to-workforce-housing-law-chapter-2-96.json",
+    "haiku-stream-water-testing-funding.json",
+    "lanai-city-parking-code-change.json",
+    "new-west-maui-wells-timeline.json",
+    "ocean-safety-officers-arbitration-award-payments.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-11-01T03:10:01.341Z",
-  "etag": "6c191f06477f92e76bb20160ed188f66c54137044e1e93c268d2728b0f766aa8",
+  "updatedAt": "2026-11-01T03:10:46.778Z",
+  "etag": "44bf426b92c66d656a83c1c327f3f8274708562099f4f9ddc84f699568ed4150",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-10-31T10:08:15.036Z",
@@ -955,6 +963,38 @@
     "haiku-fire-station-awaits-county-council-approval.json": {
       "updatedAt": "2026-11-01T03:10:01.341Z",
       "sha256": "0220458c3774171664494ca102661929a2cedb0c33e41788ac8aa12fc8d54ebe"
+    },
+    "east-maui-water-board-budget-and-staffing-requests.json": {
+      "updatedAt": "2026-11-01T03:10:46.778Z",
+      "sha256": "2eeeaa3125c2fdc56c323661367a40d0a5a215984241ce352050a8631ac3a006"
+    },
+    "fire-department-equipment-repair-and-replacement.json": {
+      "updatedAt": "2026-11-01T03:10:46.778Z",
+      "sha256": "e95f9d15e8573f2012e49dfcda61b261408b35856cb670b9a4224b303f57ac46"
+    },
+    "fire-department-input-on-housing-density-bills.json": {
+      "updatedAt": "2026-11-01T03:10:46.778Z",
+      "sha256": "4052bc6f015cd5cd6866ac4d77db28e68945e4f006140a16de15612c9fb2eefb"
+    },
+    "fixes-to-workforce-housing-law-chapter-2-96.json": {
+      "updatedAt": "2026-11-01T03:10:46.778Z",
+      "sha256": "1e3415f712ab337948ee63a1d3733365186874cc3db2d4adebbd8de37fed0f35"
+    },
+    "haiku-stream-water-testing-funding.json": {
+      "updatedAt": "2026-11-01T03:10:46.778Z",
+      "sha256": "9ece7bf152041817daef68b24dea69786d2e2cf2080f5ac3a8ed97009e1a3a89"
+    },
+    "lanai-city-parking-code-change.json": {
+      "updatedAt": "2026-11-01T03:10:46.778Z",
+      "sha256": "c196b176d7f5f90e0c32b26da5f90190ade2c0cd832c145948ad67dba151437b"
+    },
+    "new-west-maui-wells-timeline.json": {
+      "updatedAt": "2026-11-01T03:10:46.778Z",
+      "sha256": "ab20054736261d050c8eaa680de4f3626b4b7d8ec887fa0ac18bafe4967486dc"
+    },
+    "ocean-safety-officers-arbitration-award-payments.json": {
+      "updatedAt": "2026-11-01T03:10:46.778Z",
+      "sha256": "170d2526343548807344f300b4061efd645d80fc98deb9081c6f37ccc4ae77c5"
     }
   }
 }

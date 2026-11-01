@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-01T03:10:01.341Z",
-  "count": 190,
+  "updatedAt": "2026-11-01T03:10:46.778Z",
+  "count": 198,
   "issues": [
     {
       "slug": "2027-mass-nominations-for-county-boards",
@@ -44093,6 +44093,1087 @@
             "ts": "0:16:48",
             "retrievedISO": "2026-10-21T21:24:01.342Z",
             "endTs": "0:17:18"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "east-maui-water-board-budget-and-staffing-requests",
+      "title": "East Maui water board budget and staffing requests",
+      "summary": "The director will bring next year's budget to the East Maui Water Authority board at its October meeting. In May, the director's idea of a finance committee was set to possibly go on the June agenda. The authority has nine employees in eight positions, since two are half-time, and a 2024 budget request proposed a water resource specialist and a half-time intern, plus money for watershed programs, a strategic plan, and special counsel.",
+      "topics": [
+        "water",
+        "government"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2024-11-14",
+      "lastSeenISO": "2026-09-18",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-31",
+      "boards": [
+        {
+          "name": "ʻAha Moku o Maui Hikina",
+          "group": "board",
+          "short": []
+        },
+        {
+          "name": "East Maui Regional Community Board",
+          "group": "board",
+          "short": []
+        },
+        {
+          "name": "Water Authority, Social Services, and Parks Committee",
+          "group": "council",
+          "short": [
+            "WASSP"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-09-18",
+          "text": "The director will bring the next year's budget to the board at its October meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jggU3kzKFQI",
+            "ts": "1:07:06",
+            "retrievedISO": "2026-10-07T23:03:54.314Z",
+            "endTs": "1:07:38"
+          },
+          "body": "ʻAha Moku o Maui Hikina"
+        },
+        {
+          "dateISO": "2026-05-15",
+          "text": "The director's idea of a finance committee could be put on next month's agenda.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "6QAT7xS4o6U",
+            "ts": "0:58:35",
+            "retrievedISO": "2026-10-09T06:35:05.182Z",
+            "endTs": "0:59:35"
+          },
+          "body": "East Maui Regional Community Board"
+        },
+        {
+          "dateISO": "2026-03-09",
+          "text": "The director said the authority has nine employees in eight positions, because two are half-time.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Gjw_tbHieQw",
+            "ts": "1:20:46",
+            "retrievedISO": "2026-10-17T07:45:16.907Z",
+            "endTs": "1:21:16"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-03-09",
+          "text": "The second item reviewed the East Maui Water Authority's operations and fiscal year 2026 budget.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Gjw_tbHieQw",
+            "ts": "1:15:45",
+            "retrievedISO": "2026-10-17T07:45:16.907Z",
+            "endTs": "1:16:19"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2024-11-14",
+          "text": "The request also adds money for watershed programs, a strategic plan, and special counsel (outside lawyers).",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "5iHkOVL1-vQ",
+            "ts": "0:16:57",
+            "retrievedISO": "2026-10-09T06:35:08.811Z",
+            "endTs": "0:17:46"
+          },
+          "body": "East Maui Regional Community Board"
+        },
+        {
+          "dateISO": "2024-11-14",
+          "text": "The director proposed two new positions in the budget: a water resource specialist and a half-time intern.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "5iHkOVL1-vQ",
+            "ts": "0:15:16",
+            "retrievedISO": "2026-10-09T06:35:08.811Z",
+            "endTs": "0:16:04"
+          },
+          "body": "East Maui Regional Community Board"
+        },
+        {
+          "dateISO": "2024-11-14",
+          "text": "Taking item 5A out of order: With no objection, the board agreed to take up the budget request, item 5A, right after public testimony.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "5iHkOVL1-vQ",
+            "ts": "0:04:09",
+            "retrievedISO": "2026-10-09T06:35:08.811Z",
+            "endTs": "0:04:58"
+          },
+          "body": "East Maui Regional Community Board"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "fire-department-equipment-repair-and-replacement",
+      "title": "Fire department equipment repair and replacement",
+      "summary": "As of September 17, 2026, the commission is due to receive a report on large equipment bids next month. The fire equipment superintendent said the fire shop services over 220 pieces of equipment. Earlier, in November 2024, it was reported that engine six, which survived the fire, needed hundreds of hours of repairs.",
+      "topics": [
+        "public-safety"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2024-11-21",
+      "lastSeenISO": "2026-09-17",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-31",
+      "boards": [
+        {
+          "name": "Maui Fire & Public Safety Commission",
+          "group": "board",
+          "short": []
+        },
+        {
+          "name": "Fire and Public Safety Commission",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-09-17",
+          "text": "The fire equipment superintendent said the fire shop services over 220 pieces of equipment.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fDPADbFyXaI",
+            "ts": "1:11:41",
+            "retrievedISO": "2026-10-07T23:03:52.575Z",
+            "endTs": "1:12:11"
+          },
+          "body": "Maui Fire & Public Safety Commission"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "The commission will get a report on large equipment bids next month.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fDPADbFyXaI",
+            "ts": "0:50:21",
+            "retrievedISO": "2026-10-07T23:03:52.575Z",
+            "endTs": "0:51:01"
+          },
+          "body": "Maui Fire & Public Safety Commission"
+        },
+        {
+          "dateISO": "2024-11-21",
+          "text": "Engine six, which survived the fire, needed hundreds of hours of repairs.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "EzLmqE78YDk",
+            "ts": "2:22:14",
+            "retrievedISO": "2026-10-12T06:30:30.475Z",
+            "endTs": "2:23:28"
+          },
+          "body": "Fire and Public Safety Commission"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "fire-department-input-on-housing-density-bills",
+      "title": "Fire department input on housing density bills",
+      "summary": "Maui's fire department gave safety input to County Council committees on housing proposals, including safe parking lots where people can sleep in vehicles overnight and accessory dwelling rules allowing up to three dwellings per property. In February 2025, a fire captain said officials cannot require extra fire protection when several code-built homes share one lot. In 2024, the fire chief called housing a crisis but warned of density, substandard roads and evacuation safety.",
+      "topics": [
+        "housing",
+        "public-safety"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2024-10-17",
+      "lastSeenISO": "2026-07-16",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-31",
+      "boards": [
+        {
+          "name": "Fire Commission",
+          "group": "board",
+          "short": []
+        },
+        {
+          "name": "Disaster Recovery, International Affairs, and Planning Committee",
+          "group": "council",
+          "short": [
+            "DRIP"
+          ]
+        },
+        {
+          "name": "Fire and Public Safety Commission",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-07-16",
+          "text": "Another proposal on accessory dwellings allows up to three dwellings per property.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "so1BNvpx4nc",
+            "ts": "0:37:07",
+            "retrievedISO": "2026-10-13T06:35:12.699Z",
+            "endTs": "0:37:37"
+          },
+          "body": "Fire Commission"
+        },
+        {
+          "dateISO": "2026-07-16",
+          "text": "One proposal was a program for safe parking lots where people can sleep in their vehicles at night.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "so1BNvpx4nc",
+            "ts": "0:36:57",
+            "retrievedISO": "2026-10-13T06:35:12.699Z",
+            "endTs": "0:37:27"
+          },
+          "body": "Fire Commission"
+        },
+        {
+          "dateISO": "2026-07-16",
+          "text": "The fire department gave safety input to County Council committees on housing-related proposals.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "so1BNvpx4nc",
+            "ts": "0:36:39",
+            "retrievedISO": "2026-10-13T06:35:12.699Z",
+            "endTs": "0:37:27"
+          },
+          "body": "Fire Commission"
+        },
+        {
+          "dateISO": "2025-02-19",
+          "text": "The fire captain said fire officials cannot require extra fire protection when several homes are built on one lot to code.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Rn2tS9VtKOk",
+            "ts": "2:17:21",
+            "retrievedISO": "2026-10-21T19:49:05.300Z",
+            "endTs": "2:18:01"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2024-10-17",
+          "text": "The fire chief said the department continues to go to meetings with council members on this topic.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Nf0iqQ4qIuA",
+            "ts": "0:31:03",
+            "retrievedISO": "2026-10-15T06:35:41.629Z",
+            "endTs": "0:31:33"
+          },
+          "body": "Fire and Public Safety Commission"
+        },
+        {
+          "dateISO": "2024-10-17",
+          "text": "The fire chief said housing must be safe so people can get out if evacuations are needed.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Nf0iqQ4qIuA",
+            "ts": "0:30:49",
+            "retrievedISO": "2026-10-15T06:35:41.629Z",
+            "endTs": "0:31:19"
+          },
+          "body": "Fire and Public Safety Commission"
+        },
+        {
+          "dateISO": "2024-10-17",
+          "text": "The fire chief said many housing ideas add density to crowded neighborhoods with substandard roads.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Nf0iqQ4qIuA",
+            "ts": "0:30:38",
+            "retrievedISO": "2026-10-15T06:35:41.629Z",
+            "endTs": "0:31:08"
+          },
+          "body": "Fire and Public Safety Commission"
+        },
+        {
+          "dateISO": "2024-10-17",
+          "text": "The fire chief said the department is trying to compromise.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Nf0iqQ4qIuA",
+            "ts": "0:30:35",
+            "retrievedISO": "2026-10-15T06:35:41.629Z",
+            "endTs": "0:31:05"
+          },
+          "body": "Fire and Public Safety Commission"
+        },
+        {
+          "dateISO": "2024-10-17",
+          "text": "The fire chief said many housing ideas do not always match fire safety and the fire code.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Nf0iqQ4qIuA",
+            "ts": "0:30:25",
+            "retrievedISO": "2026-10-15T06:35:41.629Z",
+            "endTs": "0:30:55"
+          },
+          "body": "Fire and Public Safety Commission"
+        },
+        {
+          "dateISO": "2024-10-17",
+          "text": "The fire department is speaking up on proposed housing bills and meeting with council members.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Nf0iqQ4qIuA",
+            "ts": "0:30:19",
+            "retrievedISO": "2026-10-15T06:35:41.629Z",
+            "endTs": "0:31:27"
+          },
+          "body": "Fire and Public Safety Commission"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "fixes-to-workforce-housing-law-chapter-2-96",
+      "title": "Fixes to workforce housing law chapter 2.96",
+      "summary": "The board's May 29 review of proposed changes to chapter 2.96, the county's residential workforce housing law, ended early when the chair adjourned over a meeting link problem that might violate the Sunshine Law. All items will be reposted, and the next meeting is June 26. The department had proposed defining area median income and fixing code that wrongly points to chapter 2.96 for fee waiver definitions.",
+      "topics": [
+        "housing",
+        "government"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-05-29",
+      "lastSeenISO": "2026-05-29",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-31",
+      "boards": [
+        {
+          "name": "Housing Advisory Board",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [
+        "Bill 88 (2026)"
+      ],
+      "timeline": [
+        {
+          "dateISO": "2026-05-29",
+          "text": "The chair said reposting gives the public more time to review the items and prepare testimony.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mVuGcb3aGEI",
+            "ts": "0:22:43",
+            "retrievedISO": "2026-10-14T06:40:12.420Z",
+            "endTs": "0:23:13"
+          },
+          "body": "Housing Advisory Board"
+        },
+        {
+          "dateISO": "2026-05-29",
+          "text": "Staff confirmed the next meeting is June 26.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mVuGcb3aGEI",
+            "ts": "0:22:26",
+            "retrievedISO": "2026-10-14T06:40:12.420Z",
+            "endTs": "0:22:56"
+          },
+          "body": "Housing Advisory Board"
+        },
+        {
+          "dateISO": "2026-05-29",
+          "text": "All items discussed at this meeting will be reposted for another time.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mVuGcb3aGEI",
+            "ts": "0:22:09",
+            "retrievedISO": "2026-10-14T06:40:12.420Z",
+            "endTs": "0:22:39"
+          },
+          "body": "Housing Advisory Board"
+        },
+        {
+          "dateISO": "2026-05-29",
+          "text": "Adjournment due to a meeting link problem and Sunshine Law concern: The chair adjourned the meeting so the items can be reposted for another time.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mVuGcb3aGEI",
+            "ts": "0:21:43",
+            "retrievedISO": "2026-10-14T06:40:12.420Z",
+            "endTs": "0:22:37"
+          },
+          "body": "Housing Advisory Board"
+        },
+        {
+          "dateISO": "2026-05-29",
+          "text": "The lawyer said discussing items without voting would not change that.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mVuGcb3aGEI",
+            "ts": "0:19:41",
+            "retrievedISO": "2026-10-14T06:40:12.420Z",
+            "endTs": "0:20:24"
+          },
+          "body": "Housing Advisory Board"
+        },
+        {
+          "dateISO": "2026-05-29",
+          "text": "The lawyer said the safest option was to move the items to a future meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mVuGcb3aGEI",
+            "ts": "0:18:35",
+            "retrievedISO": "2026-10-14T06:40:12.420Z",
+            "endTs": "0:19:05"
+          },
+          "body": "Housing Advisory Board"
+        },
+        {
+          "dateISO": "2026-05-29",
+          "text": "A county lawyer said a problem with the agenda's meeting link might violate the Sunshine Law, a public meeting law.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mVuGcb3aGEI",
+            "ts": "0:17:11",
+            "retrievedISO": "2026-10-14T06:40:12.420Z",
+            "endTs": "0:18:08"
+          },
+          "body": "Housing Advisory Board"
+        },
+        {
+          "dateISO": "2026-05-29",
+          "text": "The department proposed defining area median income, a term used throughout chapter 2.96 but not defined.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mVuGcb3aGEI",
+            "ts": "0:14:48",
+            "retrievedISO": "2026-10-14T06:40:12.420Z",
+            "endTs": "0:15:50"
+          },
+          "body": "Housing Advisory Board"
+        },
+        {
+          "dateISO": "2026-05-29",
+          "text": "The department said Bill 88, a fee waiver bill, has not yet been added to the code.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mVuGcb3aGEI",
+            "ts": "0:13:19",
+            "retrievedISO": "2026-10-14T06:40:12.420Z",
+            "endTs": "0:13:56"
+          },
+          "body": "Housing Advisory Board"
+        },
+        {
+          "dateISO": "2026-05-29",
+          "text": "The department said other parts of county code wrongly point to chapter 2.96 for fee waiver definitions.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mVuGcb3aGEI",
+            "ts": "0:12:26",
+            "retrievedISO": "2026-10-14T06:40:12.420Z",
+            "endTs": "0:13:27"
+          },
+          "body": "Housing Advisory Board"
+        },
+        {
+          "dateISO": "2026-05-29",
+          "text": "The department said one proposed fix matters because it relates to fee waivers.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mVuGcb3aGEI",
+            "ts": "0:11:06",
+            "retrievedISO": "2026-10-14T06:40:12.420Z",
+            "endTs": "0:11:36"
+          },
+          "body": "Housing Advisory Board"
+        },
+        {
+          "dateISO": "2026-05-29",
+          "text": "The board is reviewing a department chart of proposed changes to chapter 2.96, the county's residential workforce housing law.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mVuGcb3aGEI",
+            "ts": "0:09:47",
+            "retrievedISO": "2026-10-14T06:40:12.420Z",
+            "endTs": "0:10:36"
+          },
+          "body": "Housing Advisory Board"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "haiku-stream-water-testing-funding",
+      "title": "Haʻikū stream water testing funding",
+      "summary": "On April 21, a motion carried to add up to $40,000 to environmental protection grants for the Haʻikū Community Association stream testing program. The money was sought by a Haʻikū community group that asked on April 16 to restore $40,000 for a fourth year of stream testing, and a Haʻikū Community Association testifier backed it. Residents had spoken about testing of surface water and streams at a Haʻikū-area meeting on April 6.",
+      "topics": [
+        "water",
+        "environment"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2026-04-06",
+      "lastSeenISO": "2026-04-21",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-31",
+      "boards": [
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-04-21",
+          "text": "Add up to $40,000 to environmental protection grants for the Haʻikū Community Association stream testing program: The motion carried.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iRjah0zHtLw",
+            "ts": "2:08:10",
+            "retrievedISO": "2026-10-17T01:44:37.372Z",
+            "endTs": "2:09:32"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-06",
+          "text": "At a Haʻikū-area community meeting, residents spoke about water testing of surface water and streams.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "YGuzDd85eAQ",
+            "ts": "0:09:12",
+            "retrievedISO": "2026-10-17T04:46:58.271Z",
+            "endTs": "0:09:42"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "lanai-city-parking-code-change",
+      "title": "Lānaʻi City parking code change",
+      "summary": "Commissioners voted unanimously by show of hands on November 22 to start a parking code change for part of Lānaʻi City. A county planner said the vote only begins the process, and a formal amendment is tentatively set to return December 18th. If the commission moves it forward, the planner will take it to the council.",
+      "topics": [
+        "land-use",
+        "transportation"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2024-11-22",
+      "lastSeenISO": "2024-11-22",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-31",
+      "boards": [
+        {
+          "name": "Lānaʻi Planning Commission",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2024-11-22",
+          "text": "Commissioners voted unanimously by a show of hands to start the code change.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "purcMuxRmiM",
+            "ts": "0:09:41",
+            "retrievedISO": "2026-10-15T06:35:17.710Z",
+            "endTs": "0:10:18"
+          },
+          "body": "Lānaʻi Planning Commission"
+        },
+        {
+          "dateISO": "2024-11-22",
+          "text": "The planner said that if the commission moves the amendment forward, he will take it to the council.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "purcMuxRmiM",
+            "ts": "0:06:31",
+            "retrievedISO": "2026-10-15T06:35:17.710Z",
+            "endTs": "0:07:01"
+          },
+          "body": "Lānaʻi Planning Commission"
+        },
+        {
+          "dateISO": "2024-11-22",
+          "text": "The planner said a formal amendment is tentatively set to return on December 18th.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "purcMuxRmiM",
+            "ts": "0:06:19",
+            "retrievedISO": "2026-10-15T06:35:17.710Z",
+            "endTs": "0:06:49"
+          },
+          "body": "Lānaʻi Planning Commission"
+        },
+        {
+          "dateISO": "2024-11-22",
+          "text": "A county planner said this vote would only start the code change process.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "purcMuxRmiM",
+            "ts": "0:05:57",
+            "retrievedISO": "2026-10-15T06:35:17.710Z",
+            "endTs": "0:06:27"
+          },
+          "body": "Lānaʻi Planning Commission"
+        },
+        {
+          "dateISO": "2024-11-22",
+          "text": "One testifier spoke in strong support of the change.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "purcMuxRmiM",
+            "ts": "0:04:07",
+            "retrievedISO": "2026-10-15T06:35:17.710Z",
+            "endTs": "0:04:37"
+          },
+          "body": "Lānaʻi Planning Commission"
+        },
+        {
+          "dateISO": "2024-11-22",
+          "text": "The commission held a public hearing on starting a parking code change for part of Lānaʻi City.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "purcMuxRmiM",
+            "ts": "0:03:02",
+            "retrievedISO": "2026-10-15T06:35:17.710Z",
+            "endTs": "0:03:34"
+          },
+          "body": "Lānaʻi Planning Commission"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "new-west-maui-wells-timeline",
+      "title": "New West Maui wells timeline",
+      "summary": "On September 17, staff presented a timeline for new West Maui wells, which are being developed on overlapping schedules. The Kahana well is projected to finish in the fourth quarter of this year, and the well called H2 in early 2032. Staff said the L1 and H1 wells are fully funded and all four wells will use federal grants or the water system development fund.",
+      "topics": [
+        "water",
+        "disaster-recovery"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2023-03-21",
+      "lastSeenISO": "2026-09-17",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-31",
+      "boards": [
+        {
+          "name": "Board of Water Supply",
+          "group": "board",
+          "short": [
+            "BWS"
+          ]
+        },
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        },
+        {
+          "name": "Government Relations, Ethics, and Transparency Committee",
+          "group": "council",
+          "short": [
+            "GREAT"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-09-17",
+          "text": "Staff said the four wells are a top priority for West Maui residents, for reliable water for fire protection and peak demand.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mJyIAre9As4",
+            "ts": "0:58:42",
+            "retrievedISO": "2026-10-07T23:03:55.224Z",
+            "endTs": "0:59:18"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "Staff said all four wells will be funded through federal grants or the department's water system development fund.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mJyIAre9As4",
+            "ts": "0:57:58",
+            "retrievedISO": "2026-10-07T23:03:55.224Z",
+            "endTs": "0:59:26"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "Staff said the L1 and H1 wells are fully funded.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mJyIAre9As4",
+            "ts": "0:57:09",
+            "retrievedISO": "2026-10-07T23:03:55.224Z",
+            "endTs": "0:57:39"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "The well called H2 is projected to be finished in early 2032.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mJyIAre9As4",
+            "ts": "0:54:31",
+            "retrievedISO": "2026-10-07T23:03:55.224Z",
+            "endTs": "0:55:01"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "The Kahana well is projected to be finished in the fourth quarter of this year.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mJyIAre9As4",
+            "ts": "0:49:04",
+            "retrievedISO": "2026-10-07T23:03:55.224Z",
+            "endTs": "0:49:35"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "The water department is working on several new West Maui wells on overlapping timelines.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mJyIAre9As4",
+            "ts": "0:48:19",
+            "retrievedISO": "2026-10-07T23:03:55.224Z",
+            "endTs": "0:49:11"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-07-16",
+          "text": "A board member asked to add the West Maui well schedule and desalination report release to a future agenda.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "zjBo8277OWs",
+            "ts": "0:33:17",
+            "retrievedISO": "2026-10-09T06:35:03.270Z",
+            "endTs": "0:34:18"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-07-16",
+          "text": "The director said a West Maui well development schedule should be presented in September.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "zjBo8277OWs",
+            "ts": "0:16:26",
+            "retrievedISO": "2026-10-09T06:35:03.270Z",
+            "endTs": "0:17:35"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2025-03-11",
+          "text": "The Department of Water Supply is applying for the wells now.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "dgEPJUYuZJw",
+            "ts": "1:13:30",
+            "retrievedISO": "2026-10-21T15:08:08.552Z",
+            "endTs": "1:14:00"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2025-03-11",
+          "text": "The administrator said the well project would support about 3,200 housing units.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "dgEPJUYuZJw",
+            "ts": "1:12:39",
+            "retrievedISO": "2026-10-21T15:08:08.552Z",
+            "endTs": "1:13:09"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2025-03-11",
+          "text": "The County is applying for state revolving fund money for the well project.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "dgEPJUYuZJw",
+            "ts": "0:12:03",
+            "retrievedISO": "2026-10-21T15:08:08.552Z",
+            "endTs": "0:12:33"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2025-03-11",
+          "text": "The County applied for hazard mitigation funds for the well project but did not get them.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "dgEPJUYuZJw",
+            "ts": "0:11:57",
+            "retrievedISO": "2026-10-21T15:08:08.552Z",
+            "endTs": "0:12:27"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2025-03-11",
+          "text": "The administrator said the wells would bring more water to West Maui for fighting fires and building housing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "dgEPJUYuZJw",
+            "ts": "0:11:44",
+            "retrievedISO": "2026-10-21T15:08:08.552Z",
+            "endTs": "0:12:14"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2025-03-11",
+          "text": "The County may use disaster recovery money as a last option for a West Maui project with four wells.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "dgEPJUYuZJw",
+            "ts": "0:11:34",
+            "retrievedISO": "2026-10-21T15:08:08.552Z",
+            "endTs": "0:12:32"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2023-03-21",
+          "text": "A nominee said a meeting that evening would discuss five wells the County wants to put in for Lahaina.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "hszpCXOEVuY",
+            "ts": "0:14:13",
+            "retrievedISO": "2026-10-23T04:07:05.805Z",
+            "endTs": "0:14:44"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "ocean-safety-officers-arbitration-award-payments",
+      "title": "Ocean safety officers arbitration award payments",
+      "summary": "Ocean safety officers will receive the first of four arbitration award payments on their October 15th paycheck. A report in August said they had received an arbitration award for a four-year contract. In April, the fire chief said the lifeguards' arbitrator would have 30 days to decide after lawyers filed final briefs.",
+      "topics": [
+        "public-safety",
+        "economy"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-04-06",
+      "lastSeenISO": "2026-10-07",
+      "signals": {
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 2,
+        "mentionsLast30d": 1,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-31",
+      "boards": [
+        {
+          "name": "Civil Service Commission",
+          "group": "board",
+          "short": []
+        },
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-10-07",
+          "text": "Ocean safety officers will get the first of four arbitration award payments on the October 15th paycheck.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yMbc5cKnAGk",
+            "ts": "0:13:19",
+            "retrievedISO": "2026-10-11T05:47:59.118Z",
+            "endTs": "0:14:01"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-08-05",
+          "text": "A report said ocean safety officers received an arbitration award for a four-year contract.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "nIulYAJQPvU",
+            "ts": "0:47:41",
+            "retrievedISO": "2026-10-13T06:35:08.656Z",
+            "endTs": "0:48:11"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-04-06",
+          "text": "The fire chief said the lifeguards' arbitrator will have 30 days to decide after lawyers file final briefs.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "YGuzDd85eAQ",
+            "ts": "1:56:25",
+            "retrievedISO": "2026-10-17T04:46:58.271Z",
+            "endTs": "1:56:59"
           },
           "body": "County Council Budget, Finance, and Economic Development Committee"
         }

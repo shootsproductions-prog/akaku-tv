@@ -17,6 +17,14 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-31",
+  "boards": [
+    {
+      "name": "Lānaʻi Planning Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2024-11-22",
@@ -26,8 +34,8 @@
         "type": "meeting",
         "videoId": "purcMuxRmiM",
         "ts": "0:09:41",
-        "endTs": "0:10:18",
-        "retrievedISO": "2026-10-15T06:35:17.710Z"
+        "retrievedISO": "2026-10-15T06:35:17.710Z",
+        "endTs": "0:10:18"
       },
       "body": "Lānaʻi Planning Commission"
     },
@@ -39,8 +47,8 @@
         "type": "meeting",
         "videoId": "purcMuxRmiM",
         "ts": "0:06:31",
-        "endTs": "0:07:01",
-        "retrievedISO": "2026-10-15T06:35:17.710Z"
+        "retrievedISO": "2026-10-15T06:35:17.710Z",
+        "endTs": "0:07:01"
       },
       "body": "Lānaʻi Planning Commission"
     },
@@ -52,8 +60,8 @@
         "type": "meeting",
         "videoId": "purcMuxRmiM",
         "ts": "0:06:19",
-        "endTs": "0:06:49",
-        "retrievedISO": "2026-10-15T06:35:17.710Z"
+        "retrievedISO": "2026-10-15T06:35:17.710Z",
+        "endTs": "0:06:49"
       },
       "body": "Lānaʻi Planning Commission"
     },
@@ -65,8 +73,8 @@
         "type": "meeting",
         "videoId": "purcMuxRmiM",
         "ts": "0:05:57",
-        "endTs": "0:06:27",
-        "retrievedISO": "2026-10-15T06:35:17.710Z"
+        "retrievedISO": "2026-10-15T06:35:17.710Z",
+        "endTs": "0:06:27"
       },
       "body": "Lānaʻi Planning Commission"
     },
@@ -78,8 +86,8 @@
         "type": "meeting",
         "videoId": "purcMuxRmiM",
         "ts": "0:04:07",
-        "endTs": "0:04:37",
-        "retrievedISO": "2026-10-15T06:35:17.710Z"
+        "retrievedISO": "2026-10-15T06:35:17.710Z",
+        "endTs": "0:04:37"
       },
       "body": "Lānaʻi Planning Commission"
     },
@@ -91,19 +99,14 @@
         "type": "meeting",
         "videoId": "purcMuxRmiM",
         "ts": "0:03:02",
-        "endTs": "0:03:34",
-        "retrievedISO": "2026-10-15T06:35:17.710Z"
+        "retrievedISO": "2026-10-15T06:35:17.710Z",
+        "endTs": "0:03:34"
       },
       "body": "Lānaʻi Planning Commission"
     }
   ],
-  "boards": [
-    {
-      "name": "Lānaʻi Planning Commission",
-      "group": "board",
-      "short": []
-    }
+  "sourceTypes": [
+    "meeting"
   ],
-  "bills": [],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

@@ -16,47 +16,6 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-31",
-  "timeline": [
-    {
-      "dateISO": "2026-09-17",
-      "text": "The fire equipment superintendent said the fire shop services over 220 pieces of equipment.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "fDPADbFyXaI",
-        "ts": "1:11:41",
-        "endTs": "1:12:11",
-        "retrievedISO": "2026-10-07T23:03:52.575Z"
-      },
-      "body": "Maui Fire & Public Safety Commission"
-    },
-    {
-      "dateISO": "2026-09-17",
-      "text": "The commission will get a report on large equipment bids next month.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "fDPADbFyXaI",
-        "ts": "0:50:21",
-        "endTs": "0:51:01",
-        "retrievedISO": "2026-10-07T23:03:52.575Z"
-      },
-      "body": "Maui Fire & Public Safety Commission"
-    },
-    {
-      "dateISO": "2024-11-21",
-      "text": "Engine six, which survived the fire, needed hundreds of hours of repairs.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "EzLmqE78YDk",
-        "ts": "2:22:14",
-        "endTs": "2:23:28",
-        "retrievedISO": "2026-10-12T06:30:30.475Z"
-      },
-      "body": "Fire and Public Safety Commission"
-    }
-  ],
   "boards": [
     {
       "name": "Maui Fire & Public Safety Commission",
@@ -70,5 +29,49 @@
     }
   ],
   "bills": [],
+  "timeline": [
+    {
+      "dateISO": "2026-09-17",
+      "text": "The fire equipment superintendent said the fire shop services over 220 pieces of equipment.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fDPADbFyXaI",
+        "ts": "1:11:41",
+        "retrievedISO": "2026-10-07T23:03:52.575Z",
+        "endTs": "1:12:11"
+      },
+      "body": "Maui Fire & Public Safety Commission"
+    },
+    {
+      "dateISO": "2026-09-17",
+      "text": "The commission will get a report on large equipment bids next month.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fDPADbFyXaI",
+        "ts": "0:50:21",
+        "retrievedISO": "2026-10-07T23:03:52.575Z",
+        "endTs": "0:51:01"
+      },
+      "body": "Maui Fire & Public Safety Commission"
+    },
+    {
+      "dateISO": "2024-11-21",
+      "text": "Engine six, which survived the fire, needed hundreds of hours of repairs.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "EzLmqE78YDk",
+        "ts": "2:22:14",
+        "retrievedISO": "2026-10-12T06:30:30.475Z",
+        "endTs": "2:23:28"
+      },
+      "body": "Fire and Public Safety Commission"
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

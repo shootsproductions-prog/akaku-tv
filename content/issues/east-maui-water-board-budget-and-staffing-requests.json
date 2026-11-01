@@ -17,99 +17,6 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-31",
-  "timeline": [
-    {
-      "dateISO": "2026-09-18",
-      "text": "The director will bring the next year's budget to the board at its October meeting.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "jggU3kzKFQI",
-        "ts": "1:07:06",
-        "endTs": "1:07:38",
-        "retrievedISO": "2026-10-07T23:03:54.314Z"
-      },
-      "body": "ʻAha Moku o Maui Hikina"
-    },
-    {
-      "dateISO": "2026-05-15",
-      "text": "The director's idea of a finance committee could be put on next month's agenda.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "6QAT7xS4o6U",
-        "ts": "0:58:35",
-        "endTs": "0:59:35",
-        "retrievedISO": "2026-10-09T06:35:05.182Z"
-      },
-      "body": "East Maui Regional Community Board"
-    },
-    {
-      "dateISO": "2026-03-09",
-      "text": "The director said the authority has nine employees in eight positions, because two are half-time.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "Gjw_tbHieQw",
-        "ts": "1:20:46",
-        "endTs": "1:21:16",
-        "retrievedISO": "2026-10-17T07:45:16.907Z"
-      },
-      "body": "County Council Water Authority, Social Services, and Parks Committee"
-    },
-    {
-      "dateISO": "2026-03-09",
-      "text": "The second item reviewed the East Maui Water Authority's operations and fiscal year 2026 budget.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "Gjw_tbHieQw",
-        "ts": "1:15:45",
-        "endTs": "1:16:19",
-        "retrievedISO": "2026-10-17T07:45:16.907Z"
-      },
-      "body": "County Council Water Authority, Social Services, and Parks Committee"
-    },
-    {
-      "dateISO": "2024-11-14",
-      "text": "The request also adds money for watershed programs, a strategic plan, and special counsel (outside lawyers).",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "5iHkOVL1-vQ",
-        "ts": "0:16:57",
-        "endTs": "0:17:46",
-        "retrievedISO": "2026-10-09T06:35:08.811Z"
-      },
-      "body": "East Maui Regional Community Board"
-    },
-    {
-      "dateISO": "2024-11-14",
-      "text": "The director proposed two new positions in the budget: a water resource specialist and a half-time intern.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "5iHkOVL1-vQ",
-        "ts": "0:15:16",
-        "endTs": "0:16:04",
-        "retrievedISO": "2026-10-09T06:35:08.811Z"
-      },
-      "body": "East Maui Regional Community Board"
-    },
-    {
-      "dateISO": "2024-11-14",
-      "text": "Taking item 5A out of order: With no objection, the board agreed to take up the budget request, item 5A, right after public testimony.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "5iHkOVL1-vQ",
-        "ts": "0:04:09",
-        "endTs": "0:04:58",
-        "retrievedISO": "2026-10-09T06:35:08.811Z"
-      },
-      "body": "East Maui Regional Community Board"
-    }
-  ],
   "boards": [
     {
       "name": "ʻAha Moku o Maui Hikina",
@@ -130,5 +37,101 @@
     }
   ],
   "bills": [],
+  "timeline": [
+    {
+      "dateISO": "2026-09-18",
+      "text": "The director will bring the next year's budget to the board at its October meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jggU3kzKFQI",
+        "ts": "1:07:06",
+        "retrievedISO": "2026-10-07T23:03:54.314Z",
+        "endTs": "1:07:38"
+      },
+      "body": "ʻAha Moku o Maui Hikina"
+    },
+    {
+      "dateISO": "2026-05-15",
+      "text": "The director's idea of a finance committee could be put on next month's agenda.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6QAT7xS4o6U",
+        "ts": "0:58:35",
+        "retrievedISO": "2026-10-09T06:35:05.182Z",
+        "endTs": "0:59:35"
+      },
+      "body": "East Maui Regional Community Board"
+    },
+    {
+      "dateISO": "2026-03-09",
+      "text": "The director said the authority has nine employees in eight positions, because two are half-time.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Gjw_tbHieQw",
+        "ts": "1:20:46",
+        "retrievedISO": "2026-10-17T07:45:16.907Z",
+        "endTs": "1:21:16"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-03-09",
+      "text": "The second item reviewed the East Maui Water Authority's operations and fiscal year 2026 budget.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Gjw_tbHieQw",
+        "ts": "1:15:45",
+        "retrievedISO": "2026-10-17T07:45:16.907Z",
+        "endTs": "1:16:19"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2024-11-14",
+      "text": "The request also adds money for watershed programs, a strategic plan, and special counsel (outside lawyers).",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5iHkOVL1-vQ",
+        "ts": "0:16:57",
+        "retrievedISO": "2026-10-09T06:35:08.811Z",
+        "endTs": "0:17:46"
+      },
+      "body": "East Maui Regional Community Board"
+    },
+    {
+      "dateISO": "2024-11-14",
+      "text": "The director proposed two new positions in the budget: a water resource specialist and a half-time intern.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5iHkOVL1-vQ",
+        "ts": "0:15:16",
+        "retrievedISO": "2026-10-09T06:35:08.811Z",
+        "endTs": "0:16:04"
+      },
+      "body": "East Maui Regional Community Board"
+    },
+    {
+      "dateISO": "2024-11-14",
+      "text": "Taking item 5A out of order: With no objection, the board agreed to take up the budget request, item 5A, right after public testimony.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5iHkOVL1-vQ",
+        "ts": "0:04:09",
+        "retrievedISO": "2026-10-09T06:35:08.811Z",
+        "endTs": "0:04:58"
+      },
+      "body": "East Maui Regional Community Board"
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }
