@@ -23,6 +23,13 @@
       "short": [
         "BWS"
       ]
+    },
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
     }
   ],
   "bills": [],
@@ -399,6 +406,19 @@
         "endTs": "0:13:16"
       },
       "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-04-14",
+      "text": "A resident asked how a planned Central Maui, South Maui desalination plant would work and be powered.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ovi31J36l8U",
+        "ts": "0:20:34",
+        "retrievedISO": "2026-10-17T03:27:26.812Z",
+        "endTs": "0:21:38"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
     },
     {
       "dateISO": "2024-11-21",

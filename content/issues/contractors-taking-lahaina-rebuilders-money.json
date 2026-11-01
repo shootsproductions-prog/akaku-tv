@@ -1,7 +1,7 @@
 {
   "slug": "contractors-taking-lahaina-rebuilders-money",
   "title": "Contractors taking Lahaina rebuilders' money",
-  "summary": "The prosecuting attorney has asked for an investigator position dedicated full time to possible contractor fraud in Lahaina. The request follows a council member's statement that a contractor who presented at a council committee left with people's money without delivering the work.",
+  "summary": "The prosecuting attorney has asked for a full-time investigator position to look into possible contractor fraud in Lahaina, and a member said a contractor who presented at a council committee left with people's money without delivering. Testifiers have said some contractors took hundreds of thousands of dollars from families without rebuilding, and one licensed contractor keeps taking new rebuilders' money. The state consumer agency (DCCA) is involved and legal steps are in process.",
   "topics": [
     "disaster-recovery",
     "housing",
@@ -9,7 +9,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-10-23",
+  "firstSeenISO": "2026-04-14",
   "lastSeenISO": "2026-10-23",
   "signals": {
     "meetingsLast30d": 2,
@@ -23,6 +23,13 @@
       "name": "Maui County Council",
       "group": "council",
       "short": []
+    },
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
     }
   ],
   "bills": [],
@@ -52,6 +59,71 @@
         "endTs": "0:17:36"
       },
       "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-04-17",
+      "text": "A construction manager said families are getting stuck with faulty contractors and homes that are not livable.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "l1rbB08YXsw",
+        "ts": "0:20:29",
+        "retrievedISO": "2026-10-17T02:45:30.322Z",
+        "endTs": "0:20:59"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-14",
+      "text": "A councilmember said new rebuilders keep getting ripped off by the same licensed contractor.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ovi31J36l8U",
+        "ts": "2:09:40",
+        "retrievedISO": "2026-10-17T03:27:26.812Z",
+        "endTs": "2:10:10"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-14",
+      "text": "The disaster case manager said the state consumer agency (DCCA) was involved and legal steps are in process.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ovi31J36l8U",
+        "ts": "2:06:52",
+        "retrievedISO": "2026-10-17T03:27:26.812Z",
+        "endTs": "2:07:31"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-14",
+      "text": "The testifier said the DCCA was involved with the faulty contractor's license.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "KNKf5DnTCgw",
+        "ts": "2:06:21",
+        "retrievedISO": "2026-10-17T03:42:22.322Z",
+        "endTs": "2:06:55"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-14",
+      "text": "A councilmember asked why contractors who took rebuilders' money are not named publicly.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ovi31J36l8U",
+        "ts": "2:06:10",
+        "retrievedISO": "2026-10-17T03:27:26.812Z",
+        "endTs": "2:06:58"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
     }
   ],
   "sourceTypes": [

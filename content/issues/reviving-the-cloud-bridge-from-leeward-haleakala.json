@@ -1,14 +1,14 @@
 {
   "slug": "reviving-the-cloud-bridge-from-leeward-haleakala",
   "title": "Reviving the cloud bridge from leeward Haleakalā",
-  "summary": "The white papers on the cloud bridge proposal will be submitted so that every member has a copy. This was said at the April 21, 2026 meeting.",
+  "summary": "On April 21, the committee said the white papers on the cloud bridge proposal will be submitted so every member has a copy. A watershed group said the full restoration initiative is slated for about $2.9 million, and it is seeking up to $600,000 to create five new positions. Earlier, the committee approved a limited meeting and site visit to see restoration work and possible work sites.",
   "topics": [
     "environment",
     "water"
   ],
   "status": "quiet",
   "pinned": false,
-  "firstSeenISO": "2026-04-21",
+  "firstSeenISO": "2026-04-16",
   "lastSeenISO": "2026-04-21",
   "signals": {
     "meetingsLast30d": 0,
@@ -38,6 +38,45 @@
         "ts": "0:18:02",
         "retrievedISO": "2026-10-17T01:49:28.314Z",
         "endTs": "0:18:32"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-16",
+      "text": "The watershed group's executive director agreed to submit a map of the proposed work area.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "rOO2eQ7ZFn8",
+        "ts": "1:16:24",
+        "retrievedISO": "2026-10-17T03:04:22.530Z",
+        "endTs": "1:16:54"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-16",
+      "text": "A watershed group leader said the full cloud bridge restoration initiative is slated for about $2.9 million.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "rOO2eQ7ZFn8",
+        "ts": "1:08:02",
+        "retrievedISO": "2026-10-17T03:04:22.530Z",
+        "endTs": "1:08:32"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-16",
+      "text": "A watershed group said it is seeking up to $600,000 to create five new positions.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "rOO2eQ7ZFn8",
+        "ts": "0:58:22",
+        "retrievedISO": "2026-10-17T03:04:22.530Z",
+        "endTs": "0:58:56"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
     }

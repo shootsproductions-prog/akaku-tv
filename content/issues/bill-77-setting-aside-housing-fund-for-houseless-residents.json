@@ -37,6 +37,32 @@
   "timeline": [
     {
       "dateISO": "2026-06-15",
+      "text": "The chair said staff will take note of members' support for the housing director's suggested wording changes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "v2siMsfjOX4",
+        "ts": "1:45:00",
+        "retrievedISO": "2026-10-16T20:25:28.705Z",
+        "endTs": "1:45:36"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "The chair said the committee would probably defer the bill and invite the Director of Human Concerns.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "v2siMsfjOX4",
+        "ts": "1:38:45",
+        "retrievedISO": "2026-10-16T20:25:28.705Z",
+        "endTs": "1:39:21"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
       "text": "The director said the department will focus on houselessness whether or not the bill passes.",
       "basis": "said-at-meeting",
       "source": {
@@ -71,6 +97,19 @@
         "ts": "1:04:51",
         "retrievedISO": "2026-10-16T20:27:24.013Z",
         "endTs": "1:05:30"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "The bill adds a definition of \"houseless\" to the county code.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "v2siMsfjOX4",
+        "ts": "0:46:32",
+        "retrievedISO": "2026-10-16T20:25:28.705Z",
+        "endTs": "0:47:02"
       },
       "body": "County Council Water Authority, Social Services, and Parks Committee"
     },
@@ -227,6 +266,19 @@
         "ts": "0:07:06",
         "retrievedISO": "2026-10-16T20:27:24.013Z",
         "endTs": "0:07:36"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "The chair said HUD, the federal housing agency, has restructured its homeless-services funding since June 1st.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "v2siMsfjOX4",
+        "ts": "0:05:00",
+        "retrievedISO": "2026-10-16T20:25:28.705Z",
+        "endTs": "0:05:30"
       },
       "body": "County Council Water Authority, Social Services, and Parks Committee"
     },

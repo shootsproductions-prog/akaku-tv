@@ -1,7 +1,7 @@
 {
   "slug": "east-maui-water-board-budget-and-staffing-requests",
   "title": "East Maui water board budget and staffing requests",
-  "summary": "The director will bring next year's budget to the East Maui Water Authority board at its October meeting. In May, the director's idea of a finance committee was set to possibly go on the June agenda. The authority has nine employees in eight positions, since two are half-time, and a 2024 budget request proposed a water resource specialist and a half-time intern, plus money for watershed programs, a strategic plan, and special counsel.",
+  "summary": "The director will bring next year's budget to the board in October, and a finance committee the director suggested could be added to an agenda. In April the committee cut $26,998 from the East Maui Water Authority's new-position funding by trimming two months from each position. The authority has nine employees in eight positions, since two are half-time.",
   "topics": [
     "water",
     "government"
@@ -27,6 +27,13 @@
       "name": "East Maui Regional Community Board",
       "group": "board",
       "short": []
+    },
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
     },
     {
       "name": "Water Authority, Social Services, and Parks Committee",
@@ -63,6 +70,19 @@
         "endTs": "0:59:35"
       },
       "body": "East Maui Regional Community Board"
+    },
+    {
+      "dateISO": "2026-04-20",
+      "text": "The committee cut $26,998 from the authority's new-position funding by trimming two months from each position.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BsZX-gnBZU8",
+        "ts": "5:17:12",
+        "retrievedISO": "2026-10-17T02:43:47.704Z",
+        "endTs": "5:18:02"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
     },
     {
       "dateISO": "2026-03-09",

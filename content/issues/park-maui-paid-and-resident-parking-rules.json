@@ -1,7 +1,7 @@
 {
   "slug": "park-maui-paid-and-resident-parking-rules",
   "title": "Park Maui paid and resident parking rules",
-  "summary": "The council gave final approval on July 24 to Bill 68, CD1 (2026), which updates Park Maui paid and permit parking zones. It had passed first reading 9–0 on July 7, and the bill was first sent to the Water and Infrastructure Committee in April without objection.",
+  "summary": "The council passed Bill 68, CD1 (2026) on second and final reading on July 24, updating Park Maui paid and permit parking zones. It had passed first reading 9–0 on July 7. The bill creates paid parking zones at three Lahaina lots, gives Hawaiʻi residents with a valid license the first two hours free at the Wailuku Garage, and removes a Kamaʻole Beach 3 dirt area from resident-only hours.",
   "topics": [
     "transportation"
   ],
@@ -21,6 +21,13 @@
       "name": "Maui County Council",
       "group": "council",
       "short": []
+    },
+    {
+      "name": "Water and Infrastructure Committee",
+      "group": "council",
+      "short": [
+        "WAI"
+      ]
     }
   ],
   "bills": [
@@ -52,6 +59,149 @@
         "endTs": "2:36:04"
       },
       "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "The bill now goes to the full council.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "XkMjh93-dPc",
+        "ts": "0:47:53",
+        "retrievedISO": "2026-10-16T20:10:07.342Z",
+        "endTs": "0:48:23"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "A motion was made to recommend passing Bill 68 on first reading.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "XkMjh93-dPc",
+        "ts": "0:44:30",
+        "retrievedISO": "2026-10-16T20:10:07.342Z",
+        "endTs": "0:45:00"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "Committee staff will send the question about the app convenience fee to the County's lawyers in writing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "XkMjh93-dPc",
+        "ts": "0:41:39",
+        "retrievedISO": "2026-10-16T20:10:07.342Z",
+        "endTs": "0:42:13"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "A council member's question about whether that fee is allowed will be sent in writing to the County's lawyers.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "XkMjh93-dPc",
+        "ts": "0:40:53",
+        "retrievedISO": "2026-10-16T20:10:07.342Z",
+        "endTs": "0:42:13"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "The department said the 500 Front Street lot may leave the Park Maui program in the future, but they don't know when.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "XkMjh93-dPc",
+        "ts": "0:15:58",
+        "retrievedISO": "2026-10-16T20:10:07.342Z",
+        "endTs": "0:16:28"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "No one signed up to give public testimony.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "XkMjh93-dPc",
+        "ts": "0:09:52",
+        "retrievedISO": "2026-10-16T20:10:07.342Z",
+        "endTs": "0:10:22"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "The bill also creates paid parking zones at three lots in Lahaina.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "XkMjh93-dPc",
+        "ts": "0:08:15",
+        "retrievedISO": "2026-10-16T20:10:07.342Z",
+        "endTs": "0:08:47"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "Resident-only hours mean that on weekends and County holidays, parking at certain beaches is for residents only before 10 a.m.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "XkMjh93-dPc",
+        "ts": "0:07:49",
+        "retrievedISO": "2026-10-16T20:10:07.342Z",
+        "endTs": "0:08:24"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "The bill removes a dirt area at Kamaʻole Beach 3 from resident-only beach hours, which the department said was listed by mistake.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "XkMjh93-dPc",
+        "ts": "0:07:28",
+        "retrievedISO": "2026-10-16T20:10:07.342Z",
+        "endTs": "0:08:04"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "Under the bill, Hawaiʻi residents who scan a valid Hawaiʻi driver's license at the Wailuku Garage get the first two hours free.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "XkMjh93-dPc",
+        "ts": "0:07:08",
+        "retrievedISO": "2026-10-16T20:10:07.342Z",
+        "endTs": "0:07:43"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "The committee's only item was Bill 68 (2026), which updates County parking rules for the Park Maui program.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "XkMjh93-dPc",
+        "ts": "0:03:10",
+        "retrievedISO": "2026-10-16T20:10:07.342Z",
+        "endTs": "0:04:03"
+      },
+      "body": "County Council Water and Infrastructure Committee"
     },
     {
       "dateISO": "2026-04-17",

@@ -8,7 +8,7 @@
   ],
   "status": "quiet",
   "pinned": false,
-  "firstSeenISO": "2026-04-21",
+  "firstSeenISO": "2026-04-16",
   "lastSeenISO": "2026-04-23",
   "signals": {
     "meetingsLast30d": 0,
@@ -116,6 +116,149 @@
         "ts": "2:58:44",
         "retrievedISO": "2026-10-17T01:44:37.372Z",
         "endTs": "2:59:15"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "A motion to delete $2.5 million for a village association's wastewater facility failed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "MioJdveXG-s",
+        "ts": "0:42:26",
+        "retrievedISO": "2026-10-17T02:03:26.637Z",
+        "endTs": "0:42:56"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "The motion to delete the money failed, four ayes to four noes, with one member excused.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "MioJdveXG-s",
+        "ts": "0:40:16",
+        "retrievedISO": "2026-10-17T02:03:26.637Z",
+        "endTs": "0:41:16"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "The association has received $1 million from the EPA and $250,000 from a private donor.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "MioJdveXG-s",
+        "ts": "0:39:27",
+        "retrievedISO": "2026-10-17T02:03:26.637Z",
+        "endTs": "0:39:57"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "The association expects to submit its DOH permit in September and get its building permit in October.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "MioJdveXG-s",
+        "ts": "0:38:28",
+        "retrievedISO": "2026-10-17T02:03:26.637Z",
+        "endTs": "0:38:58"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "The director said construction would start in fiscal year 27.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "MioJdveXG-s",
+        "ts": "0:37:42",
+        "retrievedISO": "2026-10-17T02:03:26.637Z",
+        "endTs": "0:38:12"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "The director said any funding depends on council approval.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "MioJdveXG-s",
+        "ts": "0:24:04",
+        "retrievedISO": "2026-10-17T02:03:26.637Z",
+        "endTs": "0:24:34"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "The director said the mayor pledged up to $9.5 million, spread over years.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "MioJdveXG-s",
+        "ts": "0:23:46",
+        "retrievedISO": "2026-10-17T02:03:26.637Z",
+        "endTs": "0:24:16"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "One member said the current system is polluting the bay.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "MioJdveXG-s",
+        "ts": "0:15:11",
+        "retrievedISO": "2026-10-17T02:03:26.637Z",
+        "endTs": "0:15:41"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "The member said the county has not answered how much it will pay in total for the project.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "MioJdveXG-s",
+        "ts": "0:11:40",
+        "retrievedISO": "2026-10-17T02:03:26.637Z",
+        "endTs": "0:12:36"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "A member moved to delete $2.5 million for a village association's effort to stop using injection wells.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "MioJdveXG-s",
+        "ts": "0:10:38",
+        "retrievedISO": "2026-10-17T02:03:26.637Z",
+        "endTs": "0:11:08"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-16",
+      "text": "A county official said the administration does not plan to fully fund the village association's project, since it is not a county facility.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "AfNF9oiRyz4",
+        "ts": "1:06:16",
+        "retrievedISO": "2026-10-17T03:06:25.513Z",
+        "endTs": "1:06:54"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
     }

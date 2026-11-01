@@ -1,7 +1,7 @@
 {
   "slug": "voluntary-deed-restriction-program-for-homeowners",
   "title": "Voluntary deed restriction program for homeowners",
-  "summary": "On April 21, 2026, a motion carried to condition $2 million in the homeowner programs revolving fund on the voluntary deed restriction program.",
+  "summary": "On April 21, 2026, a motion carried to condition $2 million in the homeowner programs revolving fund for the voluntary deed restriction program, and a member said the program should announce its launch soon after a bill passed on Friday. Under Bill 65, existing homeowners could get grants to improve their homes through it. The council advanced the program in May 2025 as a Molokaʻi pilot, with funds limited to Molokaʻi.",
   "topics": [
     "housing"
   ],
@@ -25,7 +25,9 @@
       ]
     }
   ],
-  "bills": [],
+  "bills": [
+    "Bill 65 (2026)"
+  ],
   "timeline": [
     {
       "dateISO": "2026-04-21",
@@ -37,6 +39,19 @@
         "ts": "4:49:56",
         "retrievedISO": "2026-10-17T01:44:37.372Z",
         "endTs": "4:51:25"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "A member said the voluntary deed restriction program should announce its launch soon after a bill passed on Friday.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "8TlgSTvR8EI",
+        "ts": "1:08:32",
+        "retrievedISO": "2026-10-17T02:06:31.130Z",
+        "endTs": "1:09:02"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
     }

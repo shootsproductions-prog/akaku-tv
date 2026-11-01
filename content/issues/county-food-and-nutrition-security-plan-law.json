@@ -7,7 +7,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-08-06",
+  "firstSeenISO": "2026-04-15",
   "lastSeenISO": "2026-09-04",
   "signals": {
     "meetingsLast30d": 0,
@@ -27,6 +27,13 @@
       "group": "council",
       "short": [
         "ADEPT"
+      ]
+    },
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
       ]
     }
   ],
@@ -293,6 +300,32 @@
         "endTs": "0:04:06"
       },
       "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-04-20",
+      "text": "Grant condition tied to the food and nutrition security plan: The committee added a condition that grantees follow the food and nutrition security plan.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BsZX-gnBZU8",
+        "ts": "4:09:06",
+        "retrievedISO": "2026-10-17T02:43:47.704Z",
+        "endTs": "4:10:07"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-15",
+      "text": "A Lānaʻi farmer said more money should go into the county's food and nutrition security plan.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ov8uxTErSC8",
+        "ts": "0:10:13",
+        "retrievedISO": "2026-10-17T03:24:30.016Z",
+        "endTs": "0:10:57"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
     }
   ],
   "sourceTypes": [
