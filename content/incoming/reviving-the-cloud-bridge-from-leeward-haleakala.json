@@ -1,0 +1,46 @@
+{
+  "slug": "reviving-the-cloud-bridge-from-leeward-haleakala",
+  "title": "Reviving the cloud bridge from leeward Haleakalā",
+  "summary": "The white papers on the cloud bridge proposal will be submitted so that every member has a copy. This was said at the April 21, 2026 meeting.",
+  "topics": [
+    "environment",
+    "water"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2026-04-21",
+  "lastSeenISO": "2026-04-21",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-10-31",
+  "timeline": [
+    {
+      "dateISO": "2026-04-21",
+      "text": "The white papers on the cloud bridge proposal will be submitted so every member has a copy.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "d9P72k1KGO4",
+        "ts": "0:18:02",
+        "endTs": "0:18:32",
+        "retrievedISO": "2026-10-17T01:49:28.314Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
