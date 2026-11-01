@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T10:10:09.960Z",
-  "etag": "0cf67cff661206a2d0671e19679227c7bee8d62c0f4d5e7bbc0d23d863791b75",
+  "updatedAt": "2026-11-01T03:04:02.390Z",
+  "etag": "2a346ac1cba3650ecb6958e388bab7075b109c433373846a3b047d5e352ee5cc",
   "count": 208,
   "meetings": [
     {
@@ -2414,10 +2414,11 @@
       "voteCount": 0,
       "momentCount": 3,
       "issues": [
+        "emergency-fund-money-for-march-2026-storm-damage",
         "storm-damaged-parks-and-closed-kula-gym"
       ],
-      "updatedAt": "2026-10-31T10:02:18.959Z",
-      "sha256": "d03a0f1d0f55e2f8ae7ddfa15d0a0d2e7b30065b151f144661524c0932eaedd3"
+      "updatedAt": "2026-11-01T03:04:02.390Z",
+      "sha256": "8de21b734d1ed4273a679cd9d623cdb7619f0936b908515279ac36642c4eb321"
     },
     {
       "videoId": "IDdA2PEpsxc",
@@ -2694,12 +2695,13 @@
       "voteCount": 11,
       "momentCount": 2,
       "issues": [
+        "emergency-fund-money-for-march-2026-storm-damage",
         "village-association-plan-to-stop-using-injection-wells",
         "water-rate-increases-and-19-80-top-tier",
         "central-maui-wastewater-reclamation-facility-funding"
       ],
-      "updatedAt": "2026-10-31T10:02:02.744Z",
-      "sha256": "f69c758ea29b25f08565d020ff233ca46d8c9bda582a8c8f477e37c68ba958f8"
+      "updatedAt": "2026-11-01T03:04:02.390Z",
+      "sha256": "45bc8fa30960c7006450fe6bba910e0db9350dab841d8a8e540fdd64faa49292"
     },
     {
       "videoId": "dybLwXF__KI",
@@ -2755,10 +2757,11 @@
       "voteCount": 0,
       "momentCount": 5,
       "issues": [
+        "airborne-mapping-of-mauis-underground-fresh-water",
         "spending-the-1-6-billion-federal-recovery-grant"
       ],
-      "updatedAt": "2026-10-31T10:02:02.744Z",
-      "sha256": "e67193ed5fcf93c566a508339aa571c0f7e61c4dc08309b05e42de4e28390ec3"
+      "updatedAt": "2026-11-01T03:04:02.390Z",
+      "sha256": "71a58cd149a65acaa0b9ed2aae2a123b6a34034b498b7dec6d1d7b0802227e0f"
     },
     {
       "videoId": "YGuzDd85eAQ",

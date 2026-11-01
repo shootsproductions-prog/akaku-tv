@@ -168,12 +168,14 @@
     "countys-wildfire-lawsuits-and-global-settlement.json",
     "yearly-9-percent-sewer-rate-increases.json",
     "building-permit-exemption-for-storage-shipping-containers.json",
-    "emergency-fund-money-for-march-2026-storm-damage.json"
+    "emergency-fund-money-for-march-2026-storm-damage.json",
+    "airborne-mapping-of-mauis-underground-fresh-water.json",
+    "climate-action-revolving-fund-from-hotel-tax.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-11-01T03:03:33.486Z",
-  "etag": "d076046256ae251eca9c516ff382c0f870e1b88c6927ed45ce29004732ee433c",
+  "updatedAt": "2026-11-01T03:04:02.368Z",
+  "etag": "ea9aef2fae126d56fa3fef644ba2f3fdced11d4a8a399cb14d431b67dd8207ab",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-10-31T10:08:15.036Z",
@@ -850,6 +852,14 @@
     "emergency-fund-money-for-march-2026-storm-damage.json": {
       "updatedAt": "2026-11-01T03:03:33.486Z",
       "sha256": "e5c9cd55d8ec5dccbff6be979372e63dddc6b7bb27bb1c9863c5207f2c2e54e1"
+    },
+    "airborne-mapping-of-mauis-underground-fresh-water.json": {
+      "updatedAt": "2026-11-01T03:04:02.368Z",
+      "sha256": "1c37853092283bee28f47aa2402dd2b1196e97ddf0043a5843e534e9afa90517"
+    },
+    "climate-action-revolving-fund-from-hotel-tax.json": {
+      "updatedAt": "2026-11-01T03:04:02.368Z",
+      "sha256": "71e2173401064525c1196b79ce60985aaf123b5a31a00270ab4dbbdb1f9d6d21"
     }
   }
 }
