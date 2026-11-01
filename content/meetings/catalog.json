@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-01T03:10:46.801Z",
-  "etag": "fb80ba24a78e74610eaaf3d45960b6e2e2625c499b87e6a9573cc52805c6c456",
+  "updatedAt": "2026-11-01T03:11:18.324Z",
+  "etag": "590f1de22932a13cb7e567c52fbf2ed26bada2a6cdc6e41f724daa4f8a031213",
   "count": 208,
   "meetings": [
     {
@@ -1571,9 +1571,11 @@
       "dur": "1 h 34 m",
       "voteCount": 1,
       "momentCount": 3,
-      "issues": [],
-      "updatedAt": "2026-10-31T10:02:18.959Z",
-      "sha256": "bc4433b80e7b0cce21c35f47dd665829da71a0a77076937dc562ccac0e13c304"
+      "issues": [
+        "county-food-and-nutrition-security-plan-law"
+      ],
+      "updatedAt": "2026-11-01T03:11:18.324Z",
+      "sha256": "340d6462cf562d09355447b7aa552d2c3c1137eca9028922f0228eadfa6f6d1b"
     },
     {
       "videoId": "q2U39bwG0tM",
