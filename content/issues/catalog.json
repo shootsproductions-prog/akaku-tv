@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-01T03:04:54.868Z",
-  "count": 174,
+  "updatedAt": "2026-11-01T03:05:18.127Z",
+  "count": 177,
   "issues": [
     {
       "slug": "2027-mass-nominations-for-county-boards",
@@ -41132,6 +41132,176 @@
             "endTs": "0:04:47"
           },
           "body": "County Council Water Authority, Social Services, and Parks Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "lahaina-wastewater-plant-upgrade-loan",
+      "title": "Lahaina wastewater plant upgrade loan",
+      "summary": "On January 7, 2026, the council approved the recommendations in two budget committee reports, Committee Reports 26-1 and 26-2. One of the items covered the Lahaina wastewater loan.",
+      "topics": [
+        "environment",
+        "disaster-recovery"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2026-01-07",
+      "lastSeenISO": "2026-01-07",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-31",
+      "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-01-07",
+          "text": "Committee Reports 26-1 and 26-2: The council approved the recommendations in two budget committee reports, including the Lahaina wastewater loan item.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mJsxaTtDu9Q",
+            "ts": "1:54:09",
+            "retrievedISO": "2026-10-17T11:04:07.310Z",
+            "endTs": "1:55:08"
+          },
+          "body": "County Council Meeting"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "reviving-the-cloud-bridge-from-leeward-haleakala",
+      "title": "Reviving the cloud bridge from leeward Haleakalā",
+      "summary": "The white papers on the cloud bridge proposal will be submitted so that every member has a copy. This was said at the April 21, 2026 meeting.",
+      "topics": [
+        "environment",
+        "water"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2026-04-21",
+      "lastSeenISO": "2026-04-21",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-31",
+      "boards": [
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-04-21",
+          "text": "The white papers on the cloud bridge proposal will be submitted so every member has a copy.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "d9P72k1KGO4",
+            "ts": "0:18:02",
+            "retrievedISO": "2026-10-17T01:49:28.314Z",
+            "endTs": "0:18:32"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "special-committee-on-property-tax-reform",
+      "title": "Special committee on property tax reform",
+      "summary": "The council approved creating a special committee on real property tax reform by a vote of seven ayes on July 25, 2025. The chair had asked members to set up the committee. She said she will send members the information from the 2019 real property tax group.",
+      "topics": [
+        "economy",
+        "government",
+        "housing"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2025-07-25",
+      "lastSeenISO": "2025-07-25",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-31",
+      "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2025-07-25",
+          "text": "The council approved the special committee with seven ayes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "IdiAmc4W5Zo",
+            "ts": "1:48:54",
+            "retrievedISO": "2026-10-21T22:24:51.067Z",
+            "endTs": "1:49:55"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2025-07-25",
+          "text": "The chair said she will send members the 2019 real property tax group's information.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "IdiAmc4W5Zo",
+            "ts": "1:37:25",
+            "retrievedISO": "2026-10-21T22:24:51.067Z",
+            "endTs": "1:37:55"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2025-07-25",
+          "text": "The chair asked members to create a special committee on real property tax reform.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "IdiAmc4W5Zo",
+            "ts": "1:31:21",
+            "retrievedISO": "2026-10-21T22:24:51.067Z",
+            "endTs": "1:32:02"
+          },
+          "body": "County Council Meeting"
         }
       ],
       "sourceTypes": [

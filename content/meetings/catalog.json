@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-01T03:04:22.033Z",
-  "etag": "ace10c5d6d1d7e96422da38467a54f103da64df2a894c72685c723e71e74b093",
+  "updatedAt": "2026-11-01T03:05:18.158Z",
+  "etag": "1f7f3c84f8b4303384fc834d8c3f99e9dfceec1847c5a19071e2df10d9030d62",
   "count": 208,
   "meetings": [
     {
@@ -2824,9 +2824,11 @@
       "dur": "2 h 18 m",
       "voteCount": 0,
       "momentCount": 3,
-      "issues": [],
-      "updatedAt": "2026-10-31T10:02:18.959Z",
-      "sha256": "8684f2ddcc30f5441c92197bb910473a323759989207b40a09f14902e72deda9"
+      "issues": [
+        "temporary-and-permanent-lahaina-wildfire-debris-disposal-sit"
+      ],
+      "updatedAt": "2026-11-01T03:05:18.158Z",
+      "sha256": "3524c68c0f1da3367d32b5223bf6e4fbb9ce209772d44cf46fb684a1164a15a1"
     },
     {
       "videoId": "TuF5fAqpWVU",

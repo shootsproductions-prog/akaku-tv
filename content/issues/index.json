@@ -173,12 +173,15 @@
     "climate-action-revolving-fund-from-hotel-tax.json",
     "bill-77-setting-aside-housing-fund-for-houseless-residents.json",
     "off-street-parking-based-on-bedroom-count.json",
-    "appointments-to-the-east-maui-water-board.json"
+    "appointments-to-the-east-maui-water-board.json",
+    "lahaina-wastewater-plant-upgrade-loan.json",
+    "reviving-the-cloud-bridge-from-leeward-haleakala.json",
+    "special-committee-on-property-tax-reform.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-11-01T03:04:54.868Z",
-  "etag": "3c4837f957d5e938cad20b59240ece710e16e8ea63df0f6dc39c7713744fffd0",
+  "updatedAt": "2026-11-01T03:05:18.127Z",
+  "etag": "6f4e2cdc36273527cdd7c1801c420f62b006a2e504e1ba641bcfd53d7dc53cff",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-10-31T10:08:15.036Z",
@@ -875,6 +878,18 @@
     "appointments-to-the-east-maui-water-board.json": {
       "updatedAt": "2026-11-01T03:04:54.868Z",
       "sha256": "dc37b5e9596a16f67061da285433eada775d0ff7b5e40c4968f7fb45cceffa67"
+    },
+    "lahaina-wastewater-plant-upgrade-loan.json": {
+      "updatedAt": "2026-11-01T03:05:18.127Z",
+      "sha256": "f1c33d8ea34aefa7dcd1de86e1d3c7ab0a8903529fd19956fc8e507860cbc7dc"
+    },
+    "reviving-the-cloud-bridge-from-leeward-haleakala.json": {
+      "updatedAt": "2026-11-01T03:05:18.127Z",
+      "sha256": "562ed9bd8272922dc2d38bc2a0bc8b589d9698c16a18c4bade3aa2a2b70a207b"
+    },
+    "special-committee-on-property-tax-reform.json": {
+      "updatedAt": "2026-11-01T03:05:18.127Z",
+      "sha256": "32a2856608e071e85d4d7b0117747ddb3776e9b6306fe0c6f68f636e068d5a85"
     }
   }
 }

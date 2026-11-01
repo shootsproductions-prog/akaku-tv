@@ -17,21 +17,6 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-31",
-  "timeline": [
-    {
-      "dateISO": "2026-04-21",
-      "text": "The white papers on the cloud bridge proposal will be submitted so every member has a copy.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "d9P72k1KGO4",
-        "ts": "0:18:02",
-        "endTs": "0:18:32",
-        "retrievedISO": "2026-10-17T01:49:28.314Z"
-      },
-      "body": "County Council Budget, Finance, and Economic Development Committee"
-    }
-  ],
   "boards": [
     {
       "name": "Budget, Finance, and Economic Development Committee",
@@ -42,5 +27,23 @@
     }
   ],
   "bills": [],
+  "timeline": [
+    {
+      "dateISO": "2026-04-21",
+      "text": "The white papers on the cloud bridge proposal will be submitted so every member has a copy.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "d9P72k1KGO4",
+        "ts": "0:18:02",
+        "retrievedISO": "2026-10-17T01:49:28.314Z",
+        "endTs": "0:18:32"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }
