@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-01T03:04:02.390Z",
-  "etag": "2a346ac1cba3650ecb6958e388bab7075b109c433373846a3b047d5e352ee5cc",
+  "updatedAt": "2026-11-01T03:04:22.033Z",
+  "etag": "ace10c5d6d1d7e96422da38467a54f103da64df2a894c72685c723e71e74b093",
   "count": 208,
   "meetings": [
     {
@@ -2449,10 +2449,11 @@
       "voteCount": 0,
       "momentCount": 3,
       "issues": [
-        "safe-parking-sites-for-people-living-in-cars"
+        "safe-parking-sites-for-people-living-in-cars",
+        "bill-77-setting-aside-housing-fund-for-houseless-residents"
       ],
-      "updatedAt": "2026-10-31T10:02:02.744Z",
-      "sha256": "de6806d9a654de912e3a015e266fb883795080bf01ee993afe7d86aed144a7a4"
+      "updatedAt": "2026-11-01T03:04:22.033Z",
+      "sha256": "d8b81949c3cdb5e6a81e9cf14f14a1e1a2c9f5b104a58612bf1b9d2e8ddbef37"
     },
     {
       "videoId": "BOV1OZzPhyQ",

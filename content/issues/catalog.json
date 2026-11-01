@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-01T03:04:02.368Z",
-  "count": 171,
+  "updatedAt": "2026-11-01T03:04:21.995Z",
+  "count": 173,
   "issues": [
     {
       "slug": "2027-mass-nominations-for-county-boards",
@@ -40688,6 +40688,373 @@
             "endTs": "1:03:47"
           },
           "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "bill-77-setting-aside-housing-fund-for-houseless-residents",
+      "title": "Bill 77 setting aside housing fund for houseless residents",
+      "summary": "On June 15 the committee reviewed Bill 77 and will likely defer it, inviting Director Willis to the next meeting. The bill would require part of the Affordable Housing Fund to go toward housing for houseless residents.",
+      "topics": [
+        "housing",
+        "health"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-05-01",
+      "lastSeenISO": "2026-06-15",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-31",
+      "boards": [
+        {
+          "name": "Water Authority, Social Services, and Parks Committee",
+          "group": "council",
+          "short": [
+            "WASSP"
+          ]
+        },
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        }
+      ],
+      "bills": [
+        "Bill 77 (2026)"
+      ],
+      "timeline": [
+        {
+          "dateISO": "2026-06-15",
+          "text": "The director said the department will focus on houselessness whether or not the bill passes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "aGVu5petQPA",
+            "ts": "1:28:13",
+            "retrievedISO": "2026-10-16T20:27:24.013Z",
+            "endTs": "1:28:43"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-06-15",
+          "text": "A council member said they support the change to county law but not spending money until there is a design.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "aGVu5petQPA",
+            "ts": "1:09:46",
+            "retrievedISO": "2026-10-16T20:27:24.013Z",
+            "endTs": "1:10:43"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-06-15",
+          "text": "The director said the department must plan with the Department of Human Concerns before seeking building designs.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "aGVu5petQPA",
+            "ts": "1:04:51",
+            "retrievedISO": "2026-10-16T20:27:24.013Z",
+            "endTs": "1:05:30"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-06-15",
+          "text": "Another testifier strongly supported Bill 77.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "aGVu5petQPA",
+            "ts": "0:45:47",
+            "retrievedISO": "2026-10-16T20:27:24.013Z",
+            "endTs": "0:46:17"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-06-15",
+          "text": "The chair said Director Willis will be invited to the next meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "6WVDJO1LxXM",
+            "ts": "0:39:48",
+            "retrievedISO": "2026-10-16T20:45:46.557Z",
+            "endTs": "0:40:18"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-06-15",
+          "text": "A member asked the director to meet with other directors and resource people before the bill returns; the director said yes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "6WVDJO1LxXM",
+            "ts": "0:35:21",
+            "retrievedISO": "2026-10-16T20:45:46.557Z",
+            "endTs": "0:35:56"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-06-15",
+          "text": "The chair said the committee would likely defer the bill and invite Director Willis to join the discussion.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "6WVDJO1LxXM",
+            "ts": "0:27:36",
+            "retrievedISO": "2026-10-16T20:45:46.557Z",
+            "endTs": "0:28:06"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-06-15",
+          "text": "The director said no funds are set aside for this in fiscal year 27, so a budget amendment would be needed.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "6WVDJO1LxXM",
+            "ts": "0:22:58",
+            "retrievedISO": "2026-10-16T20:45:46.557Z",
+            "endTs": "0:23:28"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-06-15",
+          "text": "The director recommended softer wording, so the department would try to use funds or issue RFPs (requests for proposals) as needed.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "6WVDJO1LxXM",
+            "ts": "0:22:28",
+            "retrievedISO": "2026-10-16T20:45:46.557Z",
+            "endTs": "0:23:06"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-06-15",
+          "text": "The director said the bill's word “ensure” could be read as a guarantee.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "6WVDJO1LxXM",
+            "ts": "0:22:04",
+            "retrievedISO": "2026-10-16T20:45:46.557Z",
+            "endTs": "0:22:34"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-06-15",
+          "text": "A bill would require the housing director to use part of a fund each year for living spaces for houseless residents.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "6WVDJO1LxXM",
+            "ts": "0:21:27",
+            "retrievedISO": "2026-10-16T20:45:46.557Z",
+            "endTs": "0:21:57"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-06-15",
+          "text": "The housing director said the department is not set up to manage those units and would work with a nonprofit partner.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "6WVDJO1LxXM",
+            "ts": "0:21:08",
+            "retrievedISO": "2026-10-16T20:45:46.557Z",
+            "endTs": "0:21:38"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-06-15",
+          "text": "A member asked whether the Housing Department plans to create long-term or permanent housing for houseless residents.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "6WVDJO1LxXM",
+            "ts": "0:20:13",
+            "retrievedISO": "2026-10-16T20:45:46.557Z",
+            "endTs": "0:20:51"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-06-15",
+          "text": "The committee is reviewing Bill 77, which would require part of the Affordable Housing Fund to be used for houseless residents.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "aGVu5petQPA",
+            "ts": "0:07:35",
+            "retrievedISO": "2026-10-16T20:27:24.013Z",
+            "endTs": "0:08:06"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-06-15",
+          "text": "The only item was Bill 77, about the Affordable Housing Fund and houseless residents.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "aGVu5petQPA",
+            "ts": "0:07:06",
+            "retrievedISO": "2026-10-16T20:27:24.013Z",
+            "endTs": "0:07:36"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-05-01",
+          "text": "Bill 77, referral to committee: Bill 77, on using the Affordable Housing Fund for the houseless population, was sent to a different committee than first proposed.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "7eJyblKPm2w",
+            "ts": "2:16:30",
+            "retrievedISO": "2026-10-17T01:13:59.013Z",
+            "endTs": "2:17:25"
+          },
+          "body": "County Council Meeting"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "off-street-parking-based-on-bedroom-count",
+      "title": "Off-street parking based on bedroom count",
+      "summary": "At the April 17, 2026 meeting, the deputy housing director said ADUs with two or more bedrooms would need two or more parking stalls under Bill 47, which changes off-street parking requirements for housing. The department said 40% of ADUs funded by its ʻohana assistance program have two bedrooms. In July 2025, the council substituted a corrected Bill 47 and sent the parking bill to the Lānaʻi, Maui, and Molokaʻi Planning Commissions.",
+      "topics": [
+        "housing",
+        "land-use"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2025-07-25",
+      "lastSeenISO": "2026-04-17",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-31",
+      "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        }
+      ],
+      "bills": [
+        "Bill 47 (2025)",
+        "Bill 47 (2026)",
+        "Resolution 25-152"
+      ],
+      "timeline": [
+        {
+          "dateISO": "2026-04-17",
+          "text": "Bill 47 changes off-street parking requirements for housing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "cWThkDX_iTA",
+            "ts": "2:59:30",
+            "retrievedISO": "2026-10-17T02:49:45.529Z",
+            "endTs": "3:00:00"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-04-17",
+          "text": "The department said 40% of the ADUs funded by its ʻohana assistance program have two bedrooms.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "cWThkDX_iTA",
+            "ts": "1:09:24",
+            "retrievedISO": "2026-10-17T02:49:45.529Z",
+            "endTs": "1:09:54"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-04-17",
+          "text": "The deputy housing director said ADUs (accessory dwelling units, small extra homes on a lot) with two or more bedrooms would need two or more parking stalls.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "cWThkDX_iTA",
+            "ts": "1:08:54",
+            "retrievedISO": "2026-10-17T02:49:45.529Z",
+            "endTs": "1:09:24"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2025-07-25",
+          "text": "Motion to substitute Bill 47 and file County Communication 25-15: The council swapped in a corrected version of Bill 47.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "IdiAmc4W5Zo",
+            "ts": "3:01:31",
+            "retrievedISO": "2026-10-21T22:24:51.067Z",
+            "endTs": "3:03:01"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2025-07-25",
+          "text": "Resolution 25-152, referring a parking bill to the Lānaʻi, Maui, and Molokaʻi Planning Commissions: The council sent a proposed bill on off-street parking for housing to the planning commissions.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "IdiAmc4W5Zo",
+            "ts": "2:21:05",
+            "retrievedISO": "2026-10-21T22:24:51.067Z",
+            "endTs": "2:22:30"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2025-07-25",
+          "text": "County Communication 25-15, proposed amendment to Bill 47: Members agreed to hold the proposed amendment until Bill 47 was taken up.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "IdiAmc4W5Zo",
+            "ts": "1:24:09",
+            "retrievedISO": "2026-10-21T22:24:51.067Z",
+            "endTs": "1:24:58"
+          },
+          "body": "County Council Meeting"
         }
       ],
       "sourceTypes": [

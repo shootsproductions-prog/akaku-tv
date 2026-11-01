@@ -17,216 +17,6 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-31",
-  "timeline": [
-    {
-      "dateISO": "2026-06-15",
-      "text": "The director said the department will focus on houselessness whether or not the bill passes.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "aGVu5petQPA",
-        "ts": "1:28:13",
-        "endTs": "1:28:43",
-        "retrievedISO": "2026-10-16T20:27:24.013Z"
-      },
-      "body": "County Council Water Authority, Social Services, and Parks Committee"
-    },
-    {
-      "dateISO": "2026-06-15",
-      "text": "A council member said they support the change to county law but not spending money until there is a design.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "aGVu5petQPA",
-        "ts": "1:09:46",
-        "endTs": "1:10:43",
-        "retrievedISO": "2026-10-16T20:27:24.013Z"
-      },
-      "body": "County Council Water Authority, Social Services, and Parks Committee"
-    },
-    {
-      "dateISO": "2026-06-15",
-      "text": "The director said the department must plan with the Department of Human Concerns before seeking building designs.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "aGVu5petQPA",
-        "ts": "1:04:51",
-        "endTs": "1:05:30",
-        "retrievedISO": "2026-10-16T20:27:24.013Z"
-      },
-      "body": "County Council Water Authority, Social Services, and Parks Committee"
-    },
-    {
-      "dateISO": "2026-06-15",
-      "text": "Another testifier strongly supported Bill 77.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "aGVu5petQPA",
-        "ts": "0:45:47",
-        "endTs": "0:46:17",
-        "retrievedISO": "2026-10-16T20:27:24.013Z"
-      },
-      "body": "County Council Water Authority, Social Services, and Parks Committee"
-    },
-    {
-      "dateISO": "2026-06-15",
-      "text": "The chair said Director Willis will be invited to the next meeting.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "6WVDJO1LxXM",
-        "ts": "0:39:48",
-        "endTs": "0:40:18",
-        "retrievedISO": "2026-10-16T20:45:46.557Z"
-      },
-      "body": "County Council Water Authority, Social Services, and Parks Committee"
-    },
-    {
-      "dateISO": "2026-06-15",
-      "text": "A member asked the director to meet with other directors and resource people before the bill returns; the director said yes.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "6WVDJO1LxXM",
-        "ts": "0:35:21",
-        "endTs": "0:35:56",
-        "retrievedISO": "2026-10-16T20:45:46.557Z"
-      },
-      "body": "County Council Water Authority, Social Services, and Parks Committee"
-    },
-    {
-      "dateISO": "2026-06-15",
-      "text": "The chair said the committee would likely defer the bill and invite Director Willis to join the discussion.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "6WVDJO1LxXM",
-        "ts": "0:27:36",
-        "endTs": "0:28:06",
-        "retrievedISO": "2026-10-16T20:45:46.557Z"
-      },
-      "body": "County Council Water Authority, Social Services, and Parks Committee"
-    },
-    {
-      "dateISO": "2026-06-15",
-      "text": "The director said no funds are set aside for this in fiscal year 27, so a budget amendment would be needed.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "6WVDJO1LxXM",
-        "ts": "0:22:58",
-        "endTs": "0:23:28",
-        "retrievedISO": "2026-10-16T20:45:46.557Z"
-      },
-      "body": "County Council Water Authority, Social Services, and Parks Committee"
-    },
-    {
-      "dateISO": "2026-06-15",
-      "text": "The director recommended softer wording, so the department would try to use funds or issue RFPs (requests for proposals) as needed.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "6WVDJO1LxXM",
-        "ts": "0:22:28",
-        "endTs": "0:23:06",
-        "retrievedISO": "2026-10-16T20:45:46.557Z"
-      },
-      "body": "County Council Water Authority, Social Services, and Parks Committee"
-    },
-    {
-      "dateISO": "2026-06-15",
-      "text": "The director said the bill's word “ensure” could be read as a guarantee.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "6WVDJO1LxXM",
-        "ts": "0:22:04",
-        "endTs": "0:22:34",
-        "retrievedISO": "2026-10-16T20:45:46.557Z"
-      },
-      "body": "County Council Water Authority, Social Services, and Parks Committee"
-    },
-    {
-      "dateISO": "2026-06-15",
-      "text": "A bill would require the housing director to use part of a fund each year for living spaces for houseless residents.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "6WVDJO1LxXM",
-        "ts": "0:21:27",
-        "endTs": "0:21:57",
-        "retrievedISO": "2026-10-16T20:45:46.557Z"
-      },
-      "body": "County Council Water Authority, Social Services, and Parks Committee"
-    },
-    {
-      "dateISO": "2026-06-15",
-      "text": "The housing director said the department is not set up to manage those units and would work with a nonprofit partner.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "6WVDJO1LxXM",
-        "ts": "0:21:08",
-        "endTs": "0:21:38",
-        "retrievedISO": "2026-10-16T20:45:46.557Z"
-      },
-      "body": "County Council Water Authority, Social Services, and Parks Committee"
-    },
-    {
-      "dateISO": "2026-06-15",
-      "text": "A member asked whether the Housing Department plans to create long-term or permanent housing for houseless residents.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "6WVDJO1LxXM",
-        "ts": "0:20:13",
-        "endTs": "0:20:51",
-        "retrievedISO": "2026-10-16T20:45:46.557Z"
-      },
-      "body": "County Council Water Authority, Social Services, and Parks Committee"
-    },
-    {
-      "dateISO": "2026-06-15",
-      "text": "The committee is reviewing Bill 77, which would require part of the Affordable Housing Fund to be used for houseless residents.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "aGVu5petQPA",
-        "ts": "0:07:35",
-        "endTs": "0:08:06",
-        "retrievedISO": "2026-10-16T20:27:24.013Z"
-      },
-      "body": "County Council Water Authority, Social Services, and Parks Committee"
-    },
-    {
-      "dateISO": "2026-06-15",
-      "text": "The only item was Bill 77, about the Affordable Housing Fund and houseless residents.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "aGVu5petQPA",
-        "ts": "0:07:06",
-        "endTs": "0:07:36",
-        "retrievedISO": "2026-10-16T20:27:24.013Z"
-      },
-      "body": "County Council Water Authority, Social Services, and Parks Committee"
-    },
-    {
-      "dateISO": "2026-05-01",
-      "text": "Bill 77, referral to committee: Bill 77, on using the Affordable Housing Fund for the houseless population, was sent to a different committee than first proposed.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "7eJyblKPm2w",
-        "ts": "2:16:30",
-        "endTs": "2:17:25",
-        "retrievedISO": "2026-10-17T01:13:59.013Z"
-      },
-      "body": "County Council Meeting"
-    }
-  ],
   "boards": [
     {
       "name": "Water Authority, Social Services, and Parks Committee",
@@ -243,6 +33,219 @@
   ],
   "bills": [
     "Bill 77 (2026)"
+  ],
+  "timeline": [
+    {
+      "dateISO": "2026-06-15",
+      "text": "The director said the department will focus on houselessness whether or not the bill passes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "aGVu5petQPA",
+        "ts": "1:28:13",
+        "retrievedISO": "2026-10-16T20:27:24.013Z",
+        "endTs": "1:28:43"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "A council member said they support the change to county law but not spending money until there is a design.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "aGVu5petQPA",
+        "ts": "1:09:46",
+        "retrievedISO": "2026-10-16T20:27:24.013Z",
+        "endTs": "1:10:43"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "The director said the department must plan with the Department of Human Concerns before seeking building designs.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "aGVu5petQPA",
+        "ts": "1:04:51",
+        "retrievedISO": "2026-10-16T20:27:24.013Z",
+        "endTs": "1:05:30"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "Another testifier strongly supported Bill 77.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "aGVu5petQPA",
+        "ts": "0:45:47",
+        "retrievedISO": "2026-10-16T20:27:24.013Z",
+        "endTs": "0:46:17"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "The chair said Director Willis will be invited to the next meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6WVDJO1LxXM",
+        "ts": "0:39:48",
+        "retrievedISO": "2026-10-16T20:45:46.557Z",
+        "endTs": "0:40:18"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "A member asked the director to meet with other directors and resource people before the bill returns; the director said yes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6WVDJO1LxXM",
+        "ts": "0:35:21",
+        "retrievedISO": "2026-10-16T20:45:46.557Z",
+        "endTs": "0:35:56"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "The chair said the committee would likely defer the bill and invite Director Willis to join the discussion.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6WVDJO1LxXM",
+        "ts": "0:27:36",
+        "retrievedISO": "2026-10-16T20:45:46.557Z",
+        "endTs": "0:28:06"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "The director said no funds are set aside for this in fiscal year 27, so a budget amendment would be needed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6WVDJO1LxXM",
+        "ts": "0:22:58",
+        "retrievedISO": "2026-10-16T20:45:46.557Z",
+        "endTs": "0:23:28"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "The director recommended softer wording, so the department would try to use funds or issue RFPs (requests for proposals) as needed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6WVDJO1LxXM",
+        "ts": "0:22:28",
+        "retrievedISO": "2026-10-16T20:45:46.557Z",
+        "endTs": "0:23:06"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "The director said the bill's word “ensure” could be read as a guarantee.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6WVDJO1LxXM",
+        "ts": "0:22:04",
+        "retrievedISO": "2026-10-16T20:45:46.557Z",
+        "endTs": "0:22:34"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "A bill would require the housing director to use part of a fund each year for living spaces for houseless residents.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6WVDJO1LxXM",
+        "ts": "0:21:27",
+        "retrievedISO": "2026-10-16T20:45:46.557Z",
+        "endTs": "0:21:57"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "The housing director said the department is not set up to manage those units and would work with a nonprofit partner.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6WVDJO1LxXM",
+        "ts": "0:21:08",
+        "retrievedISO": "2026-10-16T20:45:46.557Z",
+        "endTs": "0:21:38"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "A member asked whether the Housing Department plans to create long-term or permanent housing for houseless residents.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6WVDJO1LxXM",
+        "ts": "0:20:13",
+        "retrievedISO": "2026-10-16T20:45:46.557Z",
+        "endTs": "0:20:51"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "The committee is reviewing Bill 77, which would require part of the Affordable Housing Fund to be used for houseless residents.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "aGVu5petQPA",
+        "ts": "0:07:35",
+        "retrievedISO": "2026-10-16T20:27:24.013Z",
+        "endTs": "0:08:06"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "The only item was Bill 77, about the Affordable Housing Fund and houseless residents.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "aGVu5petQPA",
+        "ts": "0:07:06",
+        "retrievedISO": "2026-10-16T20:27:24.013Z",
+        "endTs": "0:07:36"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-05-01",
+      "text": "Bill 77, referral to committee: Bill 77, on using the Affordable Housing Fund for the houseless population, was sent to a different committee than first proposed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7eJyblKPm2w",
+        "ts": "2:16:30",
+        "retrievedISO": "2026-10-17T01:13:59.013Z",
+        "endTs": "2:17:25"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

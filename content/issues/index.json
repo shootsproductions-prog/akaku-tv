@@ -170,12 +170,14 @@
     "building-permit-exemption-for-storage-shipping-containers.json",
     "emergency-fund-money-for-march-2026-storm-damage.json",
     "airborne-mapping-of-mauis-underground-fresh-water.json",
-    "climate-action-revolving-fund-from-hotel-tax.json"
+    "climate-action-revolving-fund-from-hotel-tax.json",
+    "bill-77-setting-aside-housing-fund-for-houseless-residents.json",
+    "off-street-parking-based-on-bedroom-count.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-11-01T03:04:02.368Z",
-  "etag": "ea9aef2fae126d56fa3fef644ba2f3fdced11d4a8a399cb14d431b67dd8207ab",
+  "updatedAt": "2026-11-01T03:04:21.995Z",
+  "etag": "17a60098c24f92e1f54a00e6d9a5e59198abed0cc9d5fdab0e44ff5074fc557a",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-10-31T10:08:15.036Z",
@@ -860,6 +862,14 @@
     "climate-action-revolving-fund-from-hotel-tax.json": {
       "updatedAt": "2026-11-01T03:04:02.368Z",
       "sha256": "71e2173401064525c1196b79ce60985aaf123b5a31a00270ab4dbbdb1f9d6d21"
+    },
+    "bill-77-setting-aside-housing-fund-for-houseless-residents.json": {
+      "updatedAt": "2026-11-01T03:04:21.995Z",
+      "sha256": "17e070bd240d193a4ff0a63b5d550a6c3a5d522283ddb265664ec28f0fee4ec7"
+    },
+    "off-street-parking-based-on-bedroom-count.json": {
+      "updatedAt": "2026-11-01T03:04:21.995Z",
+      "sha256": "bf10fdcd8189332ccdcbec5ae3e4d703a9321e9e9278f9a974c6c00affc3aa99"
     }
   }
 }
