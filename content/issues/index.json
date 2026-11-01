@@ -197,12 +197,13 @@
     "haiku-stream-water-testing-funding.json",
     "lanai-city-parking-code-change.json",
     "new-west-maui-wells-timeline.json",
-    "ocean-safety-officers-arbitration-award-payments.json"
+    "ocean-safety-officers-arbitration-award-payments.json",
+    "county-food-and-nutrition-security-plan-law.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-11-01T03:10:46.778Z",
-  "etag": "44bf426b92c66d656a83c1c327f3f8274708562099f4f9ddc84f699568ed4150",
+  "updatedAt": "2026-11-01T03:11:00.207Z",
+  "etag": "180bbc161c0289e4edd2e87eae0bc85ba9c7fd12b067c14bcb8a1aed2a1b70d4",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-10-31T10:08:15.036Z",
@@ -995,6 +996,10 @@
     "ocean-safety-officers-arbitration-award-payments.json": {
       "updatedAt": "2026-11-01T03:10:46.778Z",
       "sha256": "170d2526343548807344f300b4061efd645d80fc98deb9081c6f37ccc4ae77c5"
+    },
+    "county-food-and-nutrition-security-plan-law.json": {
+      "updatedAt": "2026-11-01T03:11:00.207Z",
+      "sha256": "29d33b700d639d04b49ebde990f4671bd65e80633a4569991b423338b454874d"
     }
   }
 }
