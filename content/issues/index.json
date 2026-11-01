@@ -176,12 +176,15 @@
     "appointments-to-the-east-maui-water-board.json",
     "lahaina-wastewater-plant-upgrade-loan.json",
     "reviving-the-cloud-bridge-from-leeward-haleakala.json",
-    "special-committee-on-property-tax-reform.json"
+    "special-committee-on-property-tax-reform.json",
+    "contractors-taking-lahaina-rebuilders-money.json",
+    "lahaina-residential-condo-rebuild-grant.json",
+    "temporary-and-permanent-lahaina-wildfire-debris-disposal-sit.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-11-01T03:05:18.127Z",
-  "etag": "6f4e2cdc36273527cdd7c1801c420f62b006a2e504e1ba641bcfd53d7dc53cff",
+  "updatedAt": "2026-11-01T03:05:53.624Z",
+  "etag": "7acd458021207b1a0b0228d1cf5f56a4ba9b8583ad97a2fffc76a83f5834eeb4",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-10-31T10:08:15.036Z",
@@ -890,6 +893,18 @@
     "special-committee-on-property-tax-reform.json": {
       "updatedAt": "2026-11-01T03:05:18.127Z",
       "sha256": "32a2856608e071e85d4d7b0117747ddb3776e9b6306fe0c6f68f636e068d5a85"
+    },
+    "contractors-taking-lahaina-rebuilders-money.json": {
+      "updatedAt": "2026-11-01T03:05:53.624Z",
+      "sha256": "2c1f47b1d549eec3bfaa36eb3507117f30dd5328772f8574f79fda19bb9b10ae"
+    },
+    "lahaina-residential-condo-rebuild-grant.json": {
+      "updatedAt": "2026-11-01T03:05:53.624Z",
+      "sha256": "ee0bb4e1e5108f72d7465868e6193b99c4ed9062ed0744c7bb1482a9e54a685f"
+    },
+    "temporary-and-permanent-lahaina-wildfire-debris-disposal-sit.json": {
+      "updatedAt": "2026-11-01T03:05:53.624Z",
+      "sha256": "79a9f9e0f971df3269995ed320ac517c63e84b742e357ec269a85154b3e9a3aa"
     }
   }
 }

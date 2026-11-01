@@ -17,6 +17,16 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-31",
+  "boards": [
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2025-04-08",
@@ -26,8 +36,8 @@
         "type": "meeting",
         "videoId": "ZpCop-IEXjk",
         "ts": "0:17:41",
-        "endTs": "0:18:11",
-        "retrievedISO": "2026-10-21T12:47:06.092Z"
+        "retrievedISO": "2026-10-21T12:47:06.092Z",
+        "endTs": "0:18:11"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
     },
@@ -39,21 +49,14 @@
         "type": "meeting",
         "videoId": "ZpCop-IEXjk",
         "ts": "0:17:18",
-        "endTs": "0:17:48",
-        "retrievedISO": "2026-10-21T12:47:06.092Z"
+        "retrievedISO": "2026-10-21T12:47:06.092Z",
+        "endTs": "0:17:48"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
     }
   ],
-  "boards": [
-    {
-      "name": "Budget, Finance, and Economic Development Committee",
-      "group": "council",
-      "short": [
-        "BFED"
-      ]
-    }
+  "sourceTypes": [
+    "meeting"
   ],
-  "bills": [],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }
