@@ -179,12 +179,13 @@
     "special-committee-on-property-tax-reform.json",
     "contractors-taking-lahaina-rebuilders-money.json",
     "lahaina-residential-condo-rebuild-grant.json",
-    "temporary-and-permanent-lahaina-wildfire-debris-disposal-sit.json"
+    "temporary-and-permanent-lahaina-wildfire-debris-disposal-sit.json",
+    "discounted-preservation-water-rate-for-habitat-restoration.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-11-01T03:05:53.624Z",
-  "etag": "7acd458021207b1a0b0228d1cf5f56a4ba9b8583ad97a2fffc76a83f5834eeb4",
+  "updatedAt": "2026-11-01T03:06:06.282Z",
+  "etag": "94f03ea8329152d5e07efb8b06cbce8c341e7d0abdf0323e0d107b41f23d756b",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-10-31T10:08:15.036Z",
@@ -905,6 +906,10 @@
     "temporary-and-permanent-lahaina-wildfire-debris-disposal-sit.json": {
       "updatedAt": "2026-11-01T03:05:53.624Z",
       "sha256": "79a9f9e0f971df3269995ed320ac517c63e84b742e357ec269a85154b3e9a3aa"
+    },
+    "discounted-preservation-water-rate-for-habitat-restoration.json": {
+      "updatedAt": "2026-11-01T03:06:06.282Z",
+      "sha256": "11b4cad3ac11b498a0f4bdc5344c64deed2b4bfd9338301d15c0310549c1dcb2"
     }
   }
 }
