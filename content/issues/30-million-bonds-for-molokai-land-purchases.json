@@ -17,6 +17,17 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-31",
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [
+    "Bill 150 (2026)",
+    "Bill 151 (2026)"
+  ],
   "timeline": [
     {
       "dateISO": "2026-10-23",
@@ -26,8 +37,8 @@
         "type": "meeting",
         "videoId": "xMD8TVwkYz8",
         "ts": "0:45:30",
-        "endTs": "0:46:03",
-        "retrievedISO": "2026-10-24T01:03:52.665Z"
+        "retrievedISO": "2026-10-24T01:03:52.665Z",
+        "endTs": "0:46:03"
       },
       "body": "County Council Meeting"
     },
@@ -39,8 +50,8 @@
         "type": "meeting",
         "videoId": "xMD8TVwkYz8",
         "ts": "0:39:27",
-        "endTs": "0:39:57",
-        "retrievedISO": "2026-10-24T01:03:52.665Z"
+        "retrievedISO": "2026-10-24T01:03:52.665Z",
+        "endTs": "0:39:57"
       },
       "body": "County Council Meeting"
     },
@@ -52,22 +63,14 @@
         "type": "meeting",
         "videoId": "xMD8TVwkYz8",
         "ts": "0:39:19",
-        "endTs": "0:39:49",
-        "retrievedISO": "2026-10-24T01:03:52.665Z"
+        "retrievedISO": "2026-10-24T01:03:52.665Z",
+        "endTs": "0:39:49"
       },
       "body": "County Council Meeting"
     }
   ],
-  "boards": [
-    {
-      "name": "Maui County Council",
-      "group": "council",
-      "short": []
-    }
-  ],
-  "bills": [
-    "Bill 150 (2026)",
-    "Bill 151 (2026)"
+  "sourceTypes": [
+    "meeting"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

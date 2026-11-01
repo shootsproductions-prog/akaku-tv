@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-01T03:05:18.158Z",
-  "etag": "1f7f3c84f8b4303384fc834d8c3f99e9dfceec1847c5a19071e2df10d9030d62",
+  "updatedAt": "2026-11-01T03:09:40.553Z",
+  "etag": "a9b5812366bbc84faf94d319156ad5ce17e8bcb8cdb05dbeaf46efdeb34d08e3",
   "count": 208,
   "meetings": [
     {
@@ -2776,10 +2776,11 @@
       "voteCount": 1,
       "momentCount": 4,
       "issues": [
-        "disinfecting-wastewater-that-reaches-the-ocean"
+        "disinfecting-wastewater-that-reaches-the-ocean",
+        "kihei-former-institute-property-housing-redevelopment"
       ],
-      "updatedAt": "2026-10-31T10:02:18.959Z",
-      "sha256": "533c36da0913ffe7795919b6a7e3e2669960eaca7ac432b3863375c907e1dc2a"
+      "updatedAt": "2026-11-01T03:09:40.553Z",
+      "sha256": "b00272ccbaf19f4d8bde98aee80125b55b8b353afa7a7179c441f4b900d607ec"
     },
     {
       "videoId": "Gjw_tbHieQw",

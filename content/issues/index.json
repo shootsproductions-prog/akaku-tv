@@ -182,12 +182,14 @@
     "temporary-and-permanent-lahaina-wildfire-debris-disposal-sit.json",
     "discounted-preservation-water-rate-for-habitat-restoration.json",
     "kihei-former-institute-property-housing-redevelopment.json",
-    "meo-farmer-microgrant-program.json"
+    "meo-farmer-microgrant-program.json",
+    "30-million-bonds-for-molokai-land-purchases.json",
+    "east-maui-ditch-system-ownership-and-county-takeover-bid.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-11-01T03:06:23.655Z",
-  "etag": "dc214a2db3edf505d782e77e911965e773ac2109d0f9997ceb681733c46302d2",
+  "updatedAt": "2026-11-01T03:09:40.519Z",
+  "etag": "cba6fb6652edd5c2ae49de869f35d50b0ef7666c51e9ff07016200b69429792c",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-10-31T10:08:15.036Z",
@@ -920,6 +922,14 @@
     "meo-farmer-microgrant-program.json": {
       "updatedAt": "2026-11-01T03:06:23.655Z",
       "sha256": "2c222acb8581b353c7f0837972fa8bd47ae36c46bc2efc7ae0fa7e18cc231101"
+    },
+    "30-million-bonds-for-molokai-land-purchases.json": {
+      "updatedAt": "2026-11-01T03:09:40.519Z",
+      "sha256": "d28fdd62336ab1d1cfdc3de651323d1d6e170d16432f836c55075492853f197e"
+    },
+    "east-maui-ditch-system-ownership-and-county-takeover-bid.json": {
+      "updatedAt": "2026-11-01T03:09:40.519Z",
+      "sha256": "8e8beffb93c6f089a35febd7895294ee9390c8714fb374b049ed6e2c86a62471"
     }
   }
 }
