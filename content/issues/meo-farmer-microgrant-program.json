@@ -17,6 +17,14 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-10-31",
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-05-15",
@@ -26,8 +34,8 @@
         "type": "meeting",
         "videoId": "WmlNgIDoTf0",
         "ts": "2:24:49",
-        "endTs": "2:25:19",
-        "retrievedISO": "2026-10-19T23:24:26.848Z"
+        "retrievedISO": "2026-10-19T23:24:26.848Z",
+        "endTs": "2:25:19"
       },
       "body": "County Council Notice of Public Hearing"
     },
@@ -39,19 +47,14 @@
         "type": "meeting",
         "videoId": "WmlNgIDoTf0",
         "ts": "2:23:49",
-        "endTs": "2:24:56",
-        "retrievedISO": "2026-10-19T23:24:26.848Z"
+        "retrievedISO": "2026-10-19T23:24:26.848Z",
+        "endTs": "2:24:56"
       },
       "body": "County Council Notice of Public Hearing"
     }
   ],
-  "boards": [
-    {
-      "name": "Maui County Council",
-      "group": "council",
-      "short": []
-    }
+  "sourceTypes": [
+    "meeting"
   ],
-  "bills": [],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

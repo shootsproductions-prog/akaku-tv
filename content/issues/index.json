@@ -180,12 +180,14 @@
     "contractors-taking-lahaina-rebuilders-money.json",
     "lahaina-residential-condo-rebuild-grant.json",
     "temporary-and-permanent-lahaina-wildfire-debris-disposal-sit.json",
-    "discounted-preservation-water-rate-for-habitat-restoration.json"
+    "discounted-preservation-water-rate-for-habitat-restoration.json",
+    "kihei-former-institute-property-housing-redevelopment.json",
+    "meo-farmer-microgrant-program.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-11-01T03:06:06.282Z",
-  "etag": "94f03ea8329152d5e07efb8b06cbce8c341e7d0abdf0323e0d107b41f23d756b",
+  "updatedAt": "2026-11-01T03:06:23.655Z",
+  "etag": "dc214a2db3edf505d782e77e911965e773ac2109d0f9997ceb681733c46302d2",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-10-31T10:08:15.036Z",
@@ -910,6 +912,14 @@
     "discounted-preservation-water-rate-for-habitat-restoration.json": {
       "updatedAt": "2026-11-01T03:06:06.282Z",
       "sha256": "11b4cad3ac11b498a0f4bdc5344c64deed2b4bfd9338301d15c0310549c1dcb2"
+    },
+    "kihei-former-institute-property-housing-redevelopment.json": {
+      "updatedAt": "2026-11-01T03:06:23.655Z",
+      "sha256": "eb16e60d4ae60e9fb9b0d65d48abb0b388ba02aa94e7b0d3e9201fa56d17c5c6"
+    },
+    "meo-farmer-microgrant-program.json": {
+      "updatedAt": "2026-11-01T03:06:23.655Z",
+      "sha256": "2c222acb8581b353c7f0837972fa8bd47ae36c46bc2efc7ae0fa7e18cc231101"
     }
   }
 }
