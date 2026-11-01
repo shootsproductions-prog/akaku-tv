@@ -6,7 +6,7 @@
     "disaster-recovery",
     "housing"
   ],
-  "status": "active",
+  "status": "quiet",
   "pinned": false,
   "firstSeenISO": "2026-04-17",
   "lastSeenISO": "2026-05-01",
@@ -16,7 +16,7 @@
     "mentionsLast30d": 0,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-10-31",
+  "asOfISO": "2026-11-01",
   "boards": [
     {
       "name": "Maui County Council",
