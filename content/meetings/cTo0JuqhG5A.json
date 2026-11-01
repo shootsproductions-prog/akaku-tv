@@ -42,7 +42,12 @@
       }
     ],
     "bodyType": "council",
-    "trackerIssues": [],
+    "trackerIssues": [
+      {
+        "slug": "county-worker-vacancies-and-hr-consultant-review",
+        "title": "County worker vacancies and HR consultant review"
+      }
+    ],
     "boards": [
       {
         "name": "Kōmike Aloha ʻĀina",

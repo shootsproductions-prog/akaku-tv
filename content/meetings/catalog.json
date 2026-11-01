@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-01T03:09:40.553Z",
-  "etag": "a9b5812366bbc84faf94d319156ad5ce17e8bcb8cdb05dbeaf46efdeb34d08e3",
+  "updatedAt": "2026-11-01T03:10:01.373Z",
+  "etag": "e4f12f141332950897f81850d30273e2a38cfab11e9d79ec6e8f85c31b3d8cae",
   "count": 208,
   "meetings": [
     {
@@ -224,10 +224,11 @@
       "voteCount": 0,
       "momentCount": 5,
       "issues": [
-        "search-for-new-department-of-personnel-services-director"
+        "search-for-new-department-of-personnel-services-director",
+        "county-worker-vacancies-and-hr-consultant-review"
       ],
-      "updatedAt": "2026-10-30T06:16:26.131Z",
-      "sha256": "4543da2da05fa450d859703ee80fcbcc4d3e84844879342c0f4293ef0e56185d"
+      "updatedAt": "2026-11-01T03:10:01.373Z",
+      "sha256": "84f4cedbf7c7a1d47ac5dcc0390e8fd1961a67cbdfbd83628987b72beeed5b4f"
     },
     {
       "videoId": "Y-qSflW1MSA",
@@ -294,10 +295,11 @@
       "voteCount": 0,
       "momentCount": 4,
       "issues": [
-        "search-for-new-department-of-personnel-services-director"
+        "search-for-new-department-of-personnel-services-director",
+        "county-worker-vacancies-and-hr-consultant-review"
       ],
-      "updatedAt": "2026-10-30T06:16:26.131Z",
-      "sha256": "08832c76879813590b7d0e58ec4cb48f5d71696bb1dd9a0e202cb12da5e31ff8"
+      "updatedAt": "2026-11-01T03:10:01.373Z",
+      "sha256": "fcc209d74b4694eb5d801688559ab159aac1bec091ba58043dc206378237d411"
     },
     {
       "videoId": "3wNjlBuMUXo",
@@ -535,11 +537,13 @@
       "voteCount": 0,
       "momentCount": 2,
       "issues": [
+        "east-maui-ditch-system-ownership-and-county-takeover-bid",
         "contested-case-on-mahi-pono-east-maui-water-permits",
+        "east-maui-water-authority-grant-program-funding",
         "east-maui-watershed-plan-based-on-ahupuaa"
       ],
-      "updatedAt": "2026-10-31T10:10:09.960Z",
-      "sha256": "4711d5dabc012dd4158345d398213b74203b3ce81cfc058d6fb98db95c226a8a"
+      "updatedAt": "2026-11-01T03:10:01.373Z",
+      "sha256": "a1cb80eecea8e6b090fa179ac188a8dc1521d5dc102212a2c23ee373f40befcd"
     },
     {
       "videoId": "PPhr7CjkbZs",
@@ -571,10 +575,11 @@
       "momentCount": 3,
       "issues": [
         "mema-community-resiliency-hub-network-plan",
+        "haiku-fire-station-awaits-county-council-approval",
         "new-county-emergency-operations-center"
       ],
-      "updatedAt": "2026-10-30T06:16:26.131Z",
-      "sha256": "f87b9a0e925ab921b4aeb8630dbcd0090d185ad3a86c294b59b6ada1c032743c"
+      "updatedAt": "2026-11-01T03:10:01.373Z",
+      "sha256": "00d652b215a02ed3be82eee16d07ebb7ed85d73ad4e878f962ce9f507d14c48f"
     },
     {
       "videoId": "mJyIAre9As4",
@@ -588,11 +593,12 @@
       "voteCount": 0,
       "momentCount": 5,
       "issues": [
+        "board-of-water-supply-opposes-bill-1",
         "central-maui-desalination-study-and-report-release",
         "limits-on-new-swimming-pools-in-west-maui"
       ],
-      "updatedAt": "2026-10-30T06:16:26.131Z",
-      "sha256": "77e4c6dca1090b678b4ed963cf73512166404b4a07defa966779b799d864b1dc"
+      "updatedAt": "2026-11-01T03:10:01.373Z",
+      "sha256": "c4ec633248dbdcd65d9f0384b9b211c58b54d0d36406b2db65bc7ad60b754d36"
     },
     {
       "videoId": "pNKa-YoxirU",
@@ -698,10 +704,11 @@
       "issues": [
         "post-hurricane-review-for-people-with-disabilities",
         "accessibility-problem-at-maui-county-building",
-        "wheelchair-access-to-scenic-overlooks-and-state-trails"
+        "wheelchair-access-to-scenic-overlooks-and-state-trails",
+        "board-of-ethics-full-time-staff"
       ],
-      "updatedAt": "2026-10-30T06:16:26.131Z",
-      "sha256": "dd344f751e569febab36620395362912e707a6bd847941de93dea769bdd90d57"
+      "updatedAt": "2026-11-01T03:10:01.373Z",
+      "sha256": "f0137db85719a30c8fb68c6d783d8cc0404be39ffce93372fae77e4f1fa431b1"
     },
     {
       "videoId": "fg0U6G-90hY",
@@ -975,10 +982,11 @@
       "voteCount": 0,
       "momentCount": 4,
       "issues": [
-        "search-for-new-department-of-personnel-services-director"
+        "search-for-new-department-of-personnel-services-director",
+        "county-worker-vacancies-and-hr-consultant-review"
       ],
-      "updatedAt": "2026-10-30T06:16:26.131Z",
-      "sha256": "4d76a9d250f298dc496ae43ead7405934fb9615419d05f5aa10da5af92936c23"
+      "updatedAt": "2026-11-01T03:10:01.373Z",
+      "sha256": "e20176197990313619c3d315f0cefefa99ce5d2df7e5f3b7ee71459be7e299bc"
     },
     {
       "videoId": "UmT7VOj3Qn0",
@@ -1231,10 +1239,11 @@
       "voteCount": 0,
       "momentCount": 3,
       "issues": [
+        "east-maui-ditch-system-ownership-and-county-takeover-bid",
         "contested-case-on-mahi-pono-east-maui-water-permits"
       ],
-      "updatedAt": "2026-10-31T10:02:02.744Z",
-      "sha256": "89a68a8251116ce1c35ae4a35a15f72a5314df443ecc2dff67854e63600b3b74"
+      "updatedAt": "2026-11-01T03:10:01.373Z",
+      "sha256": "fa5ca09fa9a72f99f6fadfb16f3a2554f621d1daa322909781a6330c210be5f5"
     },
     {
       "videoId": "Uxd8in6m_XU",
@@ -1264,9 +1273,11 @@
       "dur": "25 m",
       "voteCount": 0,
       "momentCount": 3,
-      "issues": [],
-      "updatedAt": "2026-10-30T06:16:26.131Z",
-      "sha256": "5aa13c5ed8c7ce561aaca6d3bfd2d1ceec4bcde88d8d84680d85e39a83b91d73"
+      "issues": [
+        "east-maui-ditch-system-ownership-and-county-takeover-bid"
+      ],
+      "updatedAt": "2026-11-01T03:10:01.373Z",
+      "sha256": "591c76f23e16b1af4aa2dc3df4cca956be53f44a7d9f6fda91ace64ef2c8be81"
     },
     {
       "videoId": "XTkHNUi1mfA",
@@ -1279,9 +1290,11 @@
       "dur": "1 h 29 m",
       "voteCount": 0,
       "momentCount": 4,
-      "issues": [],
-      "updatedAt": "2026-10-31T10:02:18.959Z",
-      "sha256": "697830b18609d1b287ed27167683b9407965863103c7ebd3bdffbe2def2caf05"
+      "issues": [
+        "haiku-fire-station-awaits-county-council-approval"
+      ],
+      "updatedAt": "2026-11-01T03:10:01.373Z",
+      "sha256": "6943e04a1eb610363f5f5ed9389d5c06374b512010606873645372db93f0a645"
     },
     {
       "videoId": "9O-5VI6zndk",
@@ -1295,12 +1308,13 @@
       "voteCount": 1,
       "momentCount": 3,
       "issues": [
+        "east-maui-ditch-system-ownership-and-county-takeover-bid",
         "county-buying-private-west-maui-water-systems",
         "moving-fire-survivors-off-fema-interim-housing",
         "possible-county-purchase-of-maui-land-and-pine-water-assets"
       ],
-      "updatedAt": "2026-10-31T10:02:02.744Z",
-      "sha256": "2e02e08988d6ed128e0fb863dd0a3261a888cfb5f871ab464cd2eabe1af089d9"
+      "updatedAt": "2026-11-01T03:10:01.373Z",
+      "sha256": "c2d19c374d6b1a414d793694a81fcd3786f5a2be962b702b450d3ae9c4de3b3b"
     },
     {
       "videoId": "ic0yx8fVvEE",
@@ -1447,13 +1461,14 @@
       "voteCount": 5,
       "momentCount": 5,
       "issues": [
+        "board-of-ethics-full-time-staff",
         "expanding-fare-free-bus-passes",
         "extending-property-tax-relief-for-wildfire-hit-properties",
         "seabird-streetlight-lawsuit-settlement",
         "harbor-triangle-rezoning-including-maui-ocean-center"
       ],
-      "updatedAt": "2026-10-31T10:02:02.744Z",
-      "sha256": "526af4423341653f28387789d83c64e1dad2ca7ec144f6469f9344b2339ff68c"
+      "updatedAt": "2026-11-01T03:10:01.373Z",
+      "sha256": "2cf4deaf259f36ab59b104f1397386c2c49dad9307d9f0c8db4f61f08d85985e"
     },
     {
       "videoId": "tpJYo1iZdE4",
@@ -1483,9 +1498,11 @@
       "dur": "2 h 34 m",
       "voteCount": 0,
       "momentCount": 4,
-      "issues": [],
-      "updatedAt": "2026-10-31T10:02:02.744Z",
-      "sha256": "12b8ed261789490148efdc2c4f14dc8608a7afc2480209c961a19f415686cb33"
+      "issues": [
+        "haiku-fire-station-awaits-county-council-approval"
+      ],
+      "updatedAt": "2026-11-01T03:10:01.373Z",
+      "sha256": "4af5bda7a3d05b3c3e0090be0777316ad3125e9990903f1e8cebe1e372afc412"
     },
     {
       "videoId": "0XMHdbglvJw",
@@ -1731,9 +1748,11 @@
       "dur": "1 h 46 m",
       "voteCount": 0,
       "momentCount": 3,
-      "issues": [],
-      "updatedAt": "2026-10-31T10:02:02.744Z",
-      "sha256": "45e1a35457e9d3155829fc0275606de2e9240034b335320d353553e9206dd9a5"
+      "issues": [
+        "board-of-water-supply-opposes-bill-1"
+      ],
+      "updatedAt": "2026-11-01T03:10:01.373Z",
+      "sha256": "0024fd0ce4c140a74cf8d787bb9580f752dfa2df2ce7d5de7196a915af3812a8"
     },
     {
       "videoId": "cTo0JuqhG5A",
@@ -1746,9 +1765,11 @@
       "dur": "2 h 09 m",
       "voteCount": 0,
       "momentCount": 4,
-      "issues": [],
-      "updatedAt": "2026-10-31T10:02:18.959Z",
-      "sha256": "dc332baf7ef416d0d7921b5fd4657be65b148b63497f2acaa58980f9dd059af6"
+      "issues": [
+        "county-worker-vacancies-and-hr-consultant-review"
+      ],
+      "updatedAt": "2026-11-01T03:10:01.373Z",
+      "sha256": "5772d87b7190c0bac174953b69aa4910f19c0ce8232f1487158fbc952497886e"
     },
     {
       "videoId": "2ynYBa2vQ28",
@@ -1794,9 +1815,11 @@
       "dur": "2 h 29 m",
       "voteCount": 3,
       "momentCount": 4,
-      "issues": [],
-      "updatedAt": "2026-10-31T10:02:02.744Z",
-      "sha256": "7553a81c80646776ea73a1fa0cd746f415823b970c368d9086e564e295fef36d"
+      "issues": [
+        "haiku-fire-station-awaits-county-council-approval"
+      ],
+      "updatedAt": "2026-11-01T03:10:01.373Z",
+      "sha256": "0ff50a5cd857d1a96512c067ed08b6b380a04531921188f5841e3217ec7bdbac"
     },
     {
       "videoId": "oYcLpco3sCk",
@@ -1976,10 +1999,11 @@
       "voteCount": 0,
       "momentCount": 4,
       "issues": [
-        "contested-case-on-mahi-pono-east-maui-water-permits"
+        "contested-case-on-mahi-pono-east-maui-water-permits",
+        "east-maui-water-authority-grant-program-funding"
       ],
-      "updatedAt": "2026-10-31T10:02:18.959Z",
-      "sha256": "514920575f385707c9eb119199bfa7cb9203823671680b94813d9ce636fdbd5f"
+      "updatedAt": "2026-11-01T03:10:01.373Z",
+      "sha256": "c95c9b5a676edac2e9f04f0fcd4e9e3255ee90d23320d8e1bba8329026b59ec5"
     },
     {
       "videoId": "so1BNvpx4nc",
@@ -2160,10 +2184,11 @@
       "voteCount": 0,
       "momentCount": 4,
       "issues": [
+        "board-of-ethics-full-time-staff",
         "ethics-bills-on-nepotism-lobbyists-and-ex-employees"
       ],
-      "updatedAt": "2026-10-31T10:02:18.959Z",
-      "sha256": "672494a007ebb60df09a38adc17ec850ebb0d7dee9c1592421a0c234260dd7b9"
+      "updatedAt": "2026-11-01T03:10:01.373Z",
+      "sha256": "75120e232643169813c10d33669bb341ab406151e8e548e364c0e6cb50dce875"
     },
     {
       "videoId": "F1fUs_ROA_Q",
@@ -2242,10 +2267,11 @@
       "voteCount": 0,
       "momentCount": 4,
       "issues": [
-        "search-for-new-department-of-personnel-services-director"
+        "search-for-new-department-of-personnel-services-director",
+        "county-worker-vacancies-and-hr-consultant-review"
       ],
-      "updatedAt": "2026-10-31T10:02:18.959Z",
-      "sha256": "ec6d2da016d7eb0f4457078ab31448515d0391f2357a29683a910ed4bad31a04"
+      "updatedAt": "2026-11-01T03:10:01.373Z",
+      "sha256": "6e0e6443164a3e9e36a7a486bd0382f0272d0d700016458d68bf21e6a2125645"
     },
     {
       "videoId": "2Ne-nA424jA",
@@ -2680,9 +2706,12 @@
       "dur": "1 h 21 m",
       "voteCount": 0,
       "momentCount": 4,
-      "issues": [],
-      "updatedAt": "2026-10-31T10:02:02.744Z",
-      "sha256": "c797bb9d712d47e040a9302464b8a71fc9f2aeb6ebc64747ae39c581a54daf74"
+      "issues": [
+        "east-maui-ditch-system-ownership-and-county-takeover-bid",
+        "east-maui-water-authority-grant-program-funding"
+      ],
+      "updatedAt": "2026-11-01T03:10:01.373Z",
+      "sha256": "f7efa401b58469d55508b31ae73a517af9e1edb9a0d78b6dd09bd50febed3d26"
     },
     {
       "videoId": "AYcQ3sdhHaI",
@@ -2758,11 +2787,12 @@
       "voteCount": 0,
       "momentCount": 5,
       "issues": [
+        "east-maui-ditch-system-ownership-and-county-takeover-bid",
         "airborne-mapping-of-mauis-underground-fresh-water",
         "spending-the-1-6-billion-federal-recovery-grant"
       ],
-      "updatedAt": "2026-11-01T03:04:02.390Z",
-      "sha256": "71a58cd149a65acaa0b9ed2aae2a123b6a34034b498b7dec6d1d7b0802227e0f"
+      "updatedAt": "2026-11-01T03:10:01.373Z",
+      "sha256": "0adf54634520b72c781e73c0045b480b4136dd4e10d9d4f90f56be0303455e4c"
     },
     {
       "videoId": "YGuzDd85eAQ",
@@ -2776,11 +2806,12 @@
       "voteCount": 1,
       "momentCount": 4,
       "issues": [
+        "haiku-fire-station-awaits-county-council-approval",
         "disinfecting-wastewater-that-reaches-the-ocean",
         "kihei-former-institute-property-housing-redevelopment"
       ],
-      "updatedAt": "2026-11-01T03:09:40.553Z",
-      "sha256": "b00272ccbaf19f4d8bde98aee80125b55b8b353afa7a7179c441f4b900d607ec"
+      "updatedAt": "2026-11-01T03:10:01.373Z",
+      "sha256": "69a9654ab7ae447798a5bc8ea2de95681265a912917c66dcc9cf3b70373815d3"
     },
     {
       "videoId": "Gjw_tbHieQw",
@@ -2793,9 +2824,12 @@
       "dur": "1 h 55 m",
       "voteCount": 0,
       "momentCount": 4,
-      "issues": [],
-      "updatedAt": "2026-10-31T10:02:02.744Z",
-      "sha256": "f4338d64bbdc46a2d648a876131d5281c5ff7d7e5d70758eca1bd39bf5214001"
+      "issues": [
+        "east-maui-ditch-system-ownership-and-county-takeover-bid",
+        "east-maui-water-authority-grant-program-funding"
+      ],
+      "updatedAt": "2026-11-01T03:10:01.373Z",
+      "sha256": "f7eedbbc2fed2b7b8f68ed3e28192e83b61327cdc867a7fd7134e0c3eaf06c88"
     },
     {
       "videoId": "utyxTwSGIas",
@@ -2826,10 +2860,11 @@
       "voteCount": 0,
       "momentCount": 3,
       "issues": [
+        "haiku-fire-station-awaits-county-council-approval",
         "temporary-and-permanent-lahaina-wildfire-debris-disposal-sit"
       ],
-      "updatedAt": "2026-11-01T03:05:18.158Z",
-      "sha256": "3524c68c0f1da3367d32b5223bf6e4fbb9ce209772d44cf46fb684a1164a15a1"
+      "updatedAt": "2026-11-01T03:10:01.373Z",
+      "sha256": "e302e96372ed47c9ae05e77ba83213c1540b25e0cfc8bea13349599dec573e17"
     },
     {
       "videoId": "TuF5fAqpWVU",
@@ -2843,10 +2878,11 @@
       "voteCount": 0,
       "momentCount": 3,
       "issues": [
+        "haiku-fire-station-awaits-county-council-approval",
         "special-management-area-boundary-assessment"
       ],
-      "updatedAt": "2026-10-31T10:02:02.744Z",
-      "sha256": "d3b7cf55d63ab2db763031d185451c1dfd907fed1c9aebf93345adf9f8956097"
+      "updatedAt": "2026-11-01T03:10:01.373Z",
+      "sha256": "a041f032b082aecad08982153b8c3a3eb39c5bc189721d01eddffa0a4d961614"
     },
     {
       "videoId": "dgEPJUYuZJw",
@@ -2927,10 +2963,11 @@
       "voteCount": 0,
       "momentCount": 2,
       "issues": [
+        "east-maui-ditch-system-ownership-and-county-takeover-bid",
         "east-maui-water-board-mission-and-vision-statement"
       ],
-      "updatedAt": "2026-10-31T10:02:02.744Z",
-      "sha256": "b12d36becf91455fb29a93a97a2dcbd7e5edd2bb1ac6eb43a13509cd24ead7f4"
+      "updatedAt": "2026-11-01T03:10:01.373Z",
+      "sha256": "4d29e35e93f40b548db4ab5356c97d7b8d66b623004bbfec9f7332127a0752bb"
     },
     {
       "videoId": "691MMXxgTX4",
@@ -3119,9 +3156,11 @@
       "dur": "30 m",
       "voteCount": 0,
       "momentCount": 3,
-      "issues": [],
-      "updatedAt": "2026-10-31T10:02:02.744Z",
-      "sha256": "e667348739137261a7292b20d29647b95e17e742ad42af1d573ac949b322fbbb"
+      "issues": [
+        "board-of-ethics-full-time-staff"
+      ],
+      "updatedAt": "2026-11-01T03:10:01.373Z",
+      "sha256": "b3f1b78ef74f85a5f7a575ca84ca0b9c671f7f637ff2703390e73b203e8e2983"
     },
     {
       "videoId": "Waw25HcUMYM",
@@ -3209,12 +3248,13 @@
       "voteCount": 0,
       "momentCount": 3,
       "issues": [
+        "east-maui-ditch-system-ownership-and-county-takeover-bid",
         "central-maui-desalination-study-and-report-release",
         "water-board-letter-on-housing-for-fire-survivors",
         "bill-130-extending-water-meter-reservations"
       ],
-      "updatedAt": "2026-10-31T10:02:02.744Z",
-      "sha256": "c7ac2d2f8c79ff2940cb9f2c9d538676659e78216c1c4753ca68c90d7d5255a3"
+      "updatedAt": "2026-11-01T03:10:01.373Z",
+      "sha256": "72057b8e350820defc554eb69f2091cc5a5b49bf3c381012c2fdb2c5bcc9f5c0"
     },
     {
       "videoId": "TxzLnQKaEY0",
@@ -3280,10 +3320,11 @@
       "voteCount": 0,
       "momentCount": 3,
       "issues": [
+        "east-maui-ditch-system-ownership-and-county-takeover-bid",
         "east-maui-water-board-mission-and-vision-statement"
       ],
-      "updatedAt": "2026-10-31T10:02:02.744Z",
-      "sha256": "b5c0bd7af94ecc9fd589b19f0f819d6ea8aa25deb03e101f447ffcafda241d71"
+      "updatedAt": "2026-11-01T03:10:01.373Z",
+      "sha256": "119dd9437af61fa439c47f89cc0465cd6f95aa5fbbe632603c2971c4d0bcea57"
     },
     {
       "videoId": "ji15bQv82GM",

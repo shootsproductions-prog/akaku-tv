@@ -40,7 +40,12 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": [],
+    "trackerIssues": [
+      {
+        "slug": "east-maui-ditch-system-ownership-and-county-takeover-bid",
+        "title": "East Maui ditch system ownership and county takeover bid"
+      }
+    ],
     "boards": [],
     "bills": []
   },

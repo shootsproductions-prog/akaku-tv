@@ -46,7 +46,12 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": [],
+    "trackerIssues": [
+      {
+        "slug": "haiku-fire-station-awaits-county-council-approval",
+        "title": "Haʻikū fire station awaits County Council approval"
+      }
+    ],
     "boards": [
       {
         "name": "Fire and Public Safety Commission",

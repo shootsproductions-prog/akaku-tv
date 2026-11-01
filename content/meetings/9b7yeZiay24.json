@@ -53,7 +53,12 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": [],
+    "trackerIssues": [
+      {
+        "slug": "board-of-ethics-full-time-staff",
+        "title": "Board of Ethics full-time staff"
+      }
+    ],
     "boards": [
       {
         "name": "Board of Ethics",

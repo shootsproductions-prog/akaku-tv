@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-01T03:09:40.519Z",
-  "count": 185,
+  "updatedAt": "2026-11-01T03:10:01.341Z",
+  "count": 190,
   "issues": [
     {
       "slug": "2027-mass-nominations-for-county-boards",
@@ -42481,6 +42481,1618 @@
             "ts": "1:23:56",
             "retrievedISO": "2026-10-21T13:48:47.884Z",
             "endTs": "1:24:26"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "board-of-ethics-full-time-staff",
+      "title": "Board of Ethics full-time staff",
+      "summary": "The ethics office gave 180 formal advisory opinions in its first year, its director said on September 10. A full-time investigator was due to start August 17, though the budget director had said the half-time post needed to become full-time. The executive director is also weighing a paralegal or legal secretary hire.",
+      "topics": [
+        "government"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2024-11-25",
+      "lastSeenISO": "2026-09-10",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 2,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-31",
+      "boards": [
+        {
+          "name": "Commission on Persons with Disabilities",
+          "group": "board",
+          "short": []
+        },
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        },
+        {
+          "name": "Government Relations, Ethics, and Transparency Committee",
+          "group": "council",
+          "short": [
+            "GREAT"
+          ]
+        },
+        {
+          "name": "Maui Board of Ethics",
+          "group": "board",
+          "short": []
+        },
+        {
+          "name": "Board of Ethics",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-09-10",
+          "text": "The director said the ethics office gave 180 formal advisory opinions in its first year.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MSPMjwDvQuo",
+            "ts": "0:32:43",
+            "retrievedISO": "2026-10-07T23:03:56.874Z",
+            "endTs": "0:33:13"
+          },
+          "body": "Commission on Persons with Disabilities"
+        },
+        {
+          "dateISO": "2026-08-11",
+          "text": "The budget director said the Board of Ethics' half-time investigator needs to be full-time.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "H53ZMTLu47A",
+            "ts": "0:19:09",
+            "retrievedISO": "2026-10-16T06:48:22.352Z",
+            "endTs": "0:19:42"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-07-28",
+          "text": "The board's executive director said a full-time investigator will start August 17.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "G8BjVaIQGNw",
+            "ts": "1:26:31",
+            "retrievedISO": "2026-10-16T16:24:48.490Z",
+            "endTs": "1:27:01"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        },
+        {
+          "dateISO": "2026-07-08",
+          "text": "The executive director hopes to decide on hiring a paralegal or legal secretary in the next couple of weeks.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "YK2UGucRt-Q",
+            "ts": "0:05:46",
+            "retrievedISO": "2026-10-13T06:35:18.488Z",
+            "endTs": "0:06:16"
+          },
+          "body": "Maui Board of Ethics"
+        },
+        {
+          "dateISO": "2024-11-25",
+          "text": "A member reported the board voted six to zero to put off two complaints until the staffing issue is resolved.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9b7yeZiay24",
+            "ts": "0:27:29",
+            "retrievedISO": "2026-10-12T06:30:28.445Z",
+            "endTs": "0:28:05"
+          },
+          "body": "Board of Ethics"
+        },
+        {
+          "dateISO": "2024-11-25",
+          "text": "A member said the board must create positions, find a place and set a budget so staff are ready July 1.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9b7yeZiay24",
+            "ts": "0:12:19",
+            "retrievedISO": "2026-10-12T06:30:28.445Z",
+            "endTs": "0:12:55"
+          },
+          "body": "Board of Ethics"
+        },
+        {
+          "dateISO": "2024-11-25",
+          "text": "The chair and a member will meet with the managing director in December to talk about staffing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9b7yeZiay24",
+            "ts": "0:12:11",
+            "retrievedISO": "2026-10-12T06:30:28.445Z",
+            "endTs": "0:12:41"
+          },
+          "body": "Board of Ethics"
+        },
+        {
+          "dateISO": "2024-11-25",
+          "text": "A member reported that voters approved a charter amendment to give the board full-time staff.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "9b7yeZiay24",
+            "ts": "0:11:41",
+            "retrievedISO": "2026-10-12T06:30:28.445Z",
+            "endTs": "0:12:11"
+          },
+          "body": "Board of Ethics"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "board-of-water-supply-opposes-bill-1",
+      "title": "Board of Water Supply opposes Bill 1",
+      "summary": "On September 17, a motion passed with five ayes to tell Council Member Cook's office the board does not support Bill 1. Testifiers said the water department should keep its discretion over reviews. The bill would let the department review subdivision construction plans before water is verified, and the committee had sent it back to the Board of Water Supply for comment.",
+      "topics": [
+        "water",
+        "government"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-01-07",
+      "lastSeenISO": "2026-09-17",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 3,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-31",
+      "boards": [
+        {
+          "name": "Board of Water Supply",
+          "group": "board",
+          "short": [
+            "BWS"
+          ]
+        },
+        {
+          "name": "Water and Infrastructure Committee",
+          "group": "council",
+          "short": [
+            "WAI"
+          ]
+        },
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        }
+      ],
+      "bills": [
+        "Bill 1 (2026)",
+        "Bill 2026 (2026)"
+      ],
+      "timeline": [
+        {
+          "dateISO": "2026-09-17",
+          "text": "The motion passed with five ayes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mJyIAre9As4",
+            "ts": "0:35:25",
+            "retrievedISO": "2026-10-07T23:03:55.224Z",
+            "endTs": "0:35:55"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "A motion was made to tell Council Member Cook's office the board does not support Bill 1.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mJyIAre9As4",
+            "ts": "0:33:31",
+            "retrievedISO": "2026-10-07T23:03:55.224Z",
+            "endTs": "0:34:02"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "Another testifier opposed the Bill 1 amendment, saying the water department should keep its discretion.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mJyIAre9As4",
+            "ts": "0:09:44",
+            "retrievedISO": "2026-10-07T23:03:55.224Z",
+            "endTs": "0:11:00"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-08-20",
+          "text": "Members who plan to draft a response should say so to learn the deadline.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "UjHForbD6sQ",
+            "ts": "0:54:16",
+            "retrievedISO": "2026-10-07T23:26:10.862Z",
+            "endTs": "0:54:46"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-08-20",
+          "text": "A council member's letter about the board's further comments on Bill 1 will be on the next meeting's agenda.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "UjHForbD6sQ",
+            "ts": "0:53:58",
+            "retrievedISO": "2026-10-07T23:26:10.862Z",
+            "endTs": "0:54:31"
+          },
+          "body": "Board of Water Supply"
+        },
+        {
+          "dateISO": "2026-08-03",
+          "text": "The bill goes back to the Board of Water Supply for comments before the committee takes it up again.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Nf0ZFxKZsEU",
+            "ts": "1:45:06",
+            "retrievedISO": "2026-10-16T15:26:46.426Z",
+            "endTs": "1:45:45"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-03",
+          "text": "The chair agreed to a member's request to go back to the word \"shall.\"",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Nf0ZFxKZsEU",
+            "ts": "1:43:48",
+            "retrievedISO": "2026-10-16T15:26:46.426Z",
+            "endTs": "1:44:18"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-03",
+          "text": "A member asked that the department be asked how it prioritizes reviews, and the chair said this was noted.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Nf0ZFxKZsEU",
+            "ts": "1:43:00",
+            "retrievedISO": "2026-10-16T15:26:46.426Z",
+            "endTs": "1:43:40"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-03",
+          "text": "The chair supported sending the bill back to the Board of Water Supply for review.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Nf0ZFxKZsEU",
+            "ts": "1:40:38",
+            "retrievedISO": "2026-10-16T15:26:46.426Z",
+            "endTs": "1:41:15"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-03",
+          "text": "The chief engineer for water said water supply has often been the last department to finish its review.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Nf0ZFxKZsEU",
+            "ts": "0:44:33",
+            "retrievedISO": "2026-10-16T15:26:46.426Z",
+            "endTs": "0:45:04"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-03",
+          "text": "Another testifier said the bill would take away the department's choice in ordering its reviews.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Nf0ZFxKZsEU",
+            "ts": "0:28:24",
+            "retrievedISO": "2026-10-16T15:26:46.426Z",
+            "endTs": "0:28:54"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-03",
+          "text": "A Board of Water Supply member said the board was not given a chance to weigh in on the latest amendment version.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Nf0ZFxKZsEU",
+            "ts": "0:26:32",
+            "retrievedISO": "2026-10-16T15:26:46.426Z",
+            "endTs": "0:27:11"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-03",
+          "text": "A Board of Water Supply member, speaking as an individual, urged the committee to file the bill or delay action.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Nf0ZFxKZsEU",
+            "ts": "0:24:20",
+            "retrievedISO": "2026-10-16T15:26:46.426Z",
+            "endTs": "0:24:58"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-03",
+          "text": "A testifier objected to changing the word \"shall\" to \"may,\" saying \"may\" creates uncertainty.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Nf0ZFxKZsEU",
+            "ts": "0:13:29",
+            "retrievedISO": "2026-10-16T15:26:46.426Z",
+            "endTs": "0:14:04"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-03",
+          "text": "A Pacific Rim Land representative testified in support of the bill.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Nf0ZFxKZsEU",
+            "ts": "0:09:34",
+            "retrievedISO": "2026-10-16T15:26:46.426Z",
+            "endTs": "0:10:04"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-03",
+          "text": "The chair said the bill lets water supply staff review plans alongside other departments.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Nf0ZFxKZsEU",
+            "ts": "0:04:50",
+            "retrievedISO": "2026-10-16T15:26:46.426Z",
+            "endTs": "0:05:20"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-03",
+          "text": "The chair said developers must still show written proof of long-term water before plans are approved.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Nf0ZFxKZsEU",
+            "ts": "0:04:22",
+            "retrievedISO": "2026-10-16T15:26:46.426Z",
+            "endTs": "0:04:59"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-08-03",
+          "text": "The only item was Bill 1, 2026, about water availability rules for subdivision construction plans.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Nf0ZFxKZsEU",
+            "ts": "0:03:35",
+            "retrievedISO": "2026-10-16T15:26:46.426Z",
+            "endTs": "0:04:21"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-01-26",
+          "text": "The committee will work with the County's lawyers on the countywide policy plan question.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "IWeChLPBH6Y",
+            "ts": "2:37:11",
+            "retrievedISO": "2026-10-17T10:22:06.692Z",
+            "endTs": "2:37:41"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-01-26",
+          "text": "A council member asked to send the bill to the Board of Water Supply for comments.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "IWeChLPBH6Y",
+            "ts": "2:13:58",
+            "retrievedISO": "2026-10-17T10:22:06.692Z",
+            "endTs": "2:14:28"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-01-26",
+          "text": "A council member said the countywide policy plan calls for enough water before subdivision or construction documents are approved.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "IWeChLPBH6Y",
+            "ts": "1:41:08",
+            "retrievedISO": "2026-10-17T10:22:06.692Z",
+            "endTs": "1:41:38"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-01-26",
+          "text": "The water director said the bill has not gone to the Board of Water Supply.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "IWeChLPBH6Y",
+            "ts": "1:18:42",
+            "retrievedISO": "2026-10-17T10:22:06.692Z",
+            "endTs": "1:19:12"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-01-26",
+          "text": "A land company representative said the bill could save four to 10 months of processing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "IWeChLPBH6Y",
+            "ts": "0:47:16",
+            "retrievedISO": "2026-10-17T10:22:06.692Z",
+            "endTs": "0:47:46"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-01-26",
+          "text": "One testifier asked to defer the bill until the water director finishes a survey.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "IWeChLPBH6Y",
+            "ts": "0:29:54",
+            "retrievedISO": "2026-10-17T10:22:06.692Z",
+            "endTs": "0:30:24"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-01-26",
+          "text": "The chair said getting written water verification can take about three to six months, and plan review now waits for it.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "IWeChLPBH6Y",
+            "ts": "0:23:21",
+            "retrievedISO": "2026-10-17T10:22:06.692Z",
+            "endTs": "0:23:53"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-01-26",
+          "text": "The chair said developers must still get written verification of a long-term water source before final subdivision approval.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "IWeChLPBH6Y",
+            "ts": "0:22:57",
+            "retrievedISO": "2026-10-17T10:22:06.692Z",
+            "endTs": "0:23:27"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-01-26",
+          "text": "The committee is weighing Bill 1, which would let the Department of Water Supply review subdivision construction plans before water is verified.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "IWeChLPBH6Y",
+            "ts": "0:22:35",
+            "retrievedISO": "2026-10-17T10:22:06.692Z",
+            "endTs": "0:23:05"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-01-07",
+          "text": "Referral of Bill 1, 2026: Bill 1, on the water availability policy for subdivision construction plans, was sent to the Water and Infrastructure Committee.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mJsxaTtDu9Q",
+            "ts": "2:12:57",
+            "retrievedISO": "2026-10-17T11:04:07.310Z",
+            "endTs": "2:13:27"
+          },
+          "body": "County Council Meeting"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "county-worker-vacancies-and-hr-consultant-review",
+      "title": "County worker vacancies and HR consultant review",
+      "summary": "As of early October 2026, a commissioner said urgent work remains on vacancies, recruitment, retention and HR reform, and the acting director said turnover is higher than usual and the county does too few exit interviews. A consultant's review of recruitment, hiring, classification and reorganization is under way, and the county had 962 open positions in July. A two-year HR services contract with Guidehouse aims to speed up hiring.",
+      "topics": [
+        "government",
+        "economy"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-07-01",
+      "lastSeenISO": "2026-10-08",
+      "signals": {
+        "meetingsLast30d": 2,
+        "meetingsLast90d": 3,
+        "mentionsLast30d": 3,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-31",
+      "boards": [
+        {
+          "name": "Civil Service Commission",
+          "group": "board",
+          "short": []
+        },
+        {
+          "name": "Kōmike Aloha ʻĀina",
+          "group": "council",
+          "short": []
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-10-08",
+          "text": "A commissioner said urgent work lies ahead on vacancies, recruitment, retention and HR reform.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "fTuTemrBtCY",
+            "ts": "0:26:24",
+            "retrievedISO": "2026-10-11T05:51:21.505Z",
+            "endTs": "0:26:54"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-10-07",
+          "text": "The acting director said the department had more staff turnover than it usually sees.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yMbc5cKnAGk",
+            "ts": "0:13:03",
+            "retrievedISO": "2026-10-11T05:47:59.118Z",
+            "endTs": "0:13:33"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-10-07",
+          "text": "The acting director said the county does not do enough exit interviews to learn why employees leave.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yMbc5cKnAGk",
+            "ts": "0:10:14",
+            "retrievedISO": "2026-10-11T05:47:59.118Z",
+            "endTs": "0:10:49"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-02",
+          "text": "Staff said the consultant has done 46 interviews, with 20 more scheduled.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tTdredHGJvc",
+            "ts": "1:02:25",
+            "retrievedISO": "2026-10-07T23:04:03.757Z",
+            "endTs": "1:02:55"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-02",
+          "text": "Staff said a consultant's review covers recruitment and hiring, classification, and reorganization.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tTdredHGJvc",
+            "ts": "0:57:16",
+            "retrievedISO": "2026-10-07T23:04:03.757Z",
+            "endTs": "0:57:46"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-09-02",
+          "text": "She said a recent focus has been recruiting, because the County has many vacancies.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tTdredHGJvc",
+            "ts": "0:18:26",
+            "retrievedISO": "2026-10-07T23:04:03.757Z",
+            "endTs": "0:18:56"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-07-30",
+          "text": "The committee deferred the item (set it aside for later) with no objections.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "cTo0JuqhG5A",
+            "ts": "2:08:38",
+            "retrievedISO": "2026-10-16T15:46:03.906Z",
+            "endTs": "2:09:08"
+          },
+          "body": "County Council Kōmike Aloha ʻĀina"
+        },
+        {
+          "dateISO": "2026-07-30",
+          "text": "The managing director said the team will come back to the committee as often as members want.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "cTo0JuqhG5A",
+            "ts": "1:57:51",
+            "retrievedISO": "2026-10-16T15:46:03.906Z",
+            "endTs": "1:58:21"
+          },
+          "body": "County Council Kōmike Aloha ʻĀina"
+        },
+        {
+          "dateISO": "2026-07-30",
+          "text": "The managing director said people can email the project team with ideas and questions.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "cTo0JuqhG5A",
+            "ts": "1:38:09",
+            "retrievedISO": "2026-10-16T15:46:03.906Z",
+            "endTs": "1:38:44"
+          },
+          "body": "County Council Kōmike Aloha ʻĀina"
+        },
+        {
+          "dateISO": "2026-07-30",
+          "text": "Guidehouse said it has not yet met with the Civil Service Commission, which is on its list.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "cTo0JuqhG5A",
+            "ts": "1:34:51",
+            "retrievedISO": "2026-10-16T15:46:03.906Z",
+            "endTs": "1:35:21"
+          },
+          "body": "County Council Kōmike Aloha ʻĀina"
+        },
+        {
+          "dateISO": "2026-07-30",
+          "text": "The contract is for two years, with an option to extend for three more one-year terms.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "cTo0JuqhG5A",
+            "ts": "1:34:25",
+            "retrievedISO": "2026-10-16T15:46:03.906Z",
+            "endTs": "1:34:55"
+          },
+          "body": "County Council Kōmike Aloha ʻĀina"
+        },
+        {
+          "dateISO": "2026-07-30",
+          "text": "Guidehouse said a formal pay study is outside this project.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "cTo0JuqhG5A",
+            "ts": "1:24:38",
+            "retrievedISO": "2026-10-16T15:46:03.906Z",
+            "endTs": "1:25:08"
+          },
+          "body": "County Council Kōmike Aloha ʻĀina"
+        },
+        {
+          "dateISO": "2026-07-30",
+          "text": "Guidehouse said past projects cut hiring time by 30 percent, and maybe even 50 percent.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "cTo0JuqhG5A",
+            "ts": "0:51:09",
+            "retrievedISO": "2026-10-16T15:46:03.906Z",
+            "endTs": "0:51:39"
+          },
+          "body": "County Council Kōmike Aloha ʻĀina"
+        },
+        {
+          "dateISO": "2026-07-30",
+          "text": "A testifier said hiring managers want more pay flexibility, and the rules already allow a lot of it.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "cTo0JuqhG5A",
+            "ts": "0:41:31",
+            "retrievedISO": "2026-10-16T15:46:03.906Z",
+            "endTs": "0:42:01"
+          },
+          "body": "County Council Kōmike Aloha ʻĀina"
+        },
+        {
+          "dateISO": "2026-07-30",
+          "text": "The team has done 10 interviews and 8 working sessions so far.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "cTo0JuqhG5A",
+            "ts": "0:24:45",
+            "retrievedISO": "2026-10-16T15:46:03.906Z",
+            "endTs": "0:25:15"
+          },
+          "body": "County Council Kōmike Aloha ʻĀina"
+        },
+        {
+          "dateISO": "2026-07-30",
+          "text": "They said year two focuses on putting changes in place, with training and support.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "cTo0JuqhG5A",
+            "ts": "0:23:52",
+            "retrievedISO": "2026-10-16T15:46:03.906Z",
+            "endTs": "0:24:22"
+          },
+          "body": "County Council Kōmike Aloha ʻĀina"
+        },
+        {
+          "dateISO": "2026-07-30",
+          "text": "She said the goals include faster and more transparent hiring.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "cTo0JuqhG5A",
+            "ts": "0:10:02",
+            "retrievedISO": "2026-10-16T15:46:03.906Z",
+            "endTs": "0:10:32"
+          },
+          "body": "County Council Kōmike Aloha ʻĀina"
+        },
+        {
+          "dateISO": "2026-07-30",
+          "text": "The personnel services director said Align HR reviews how county human resources (HR) services are organized and delivered.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "cTo0JuqhG5A",
+            "ts": "0:09:49",
+            "retrievedISO": "2026-10-16T15:46:03.906Z",
+            "endTs": "0:10:19"
+          },
+          "body": "County Council Kōmike Aloha ʻĀina"
+        },
+        {
+          "dateISO": "2026-07-30",
+          "text": "She said the county budget grew from $736 million in 2010 to $1.6 billion today.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "cTo0JuqhG5A",
+            "ts": "0:07:36",
+            "retrievedISO": "2026-10-16T15:46:03.906Z",
+            "endTs": "0:08:06"
+          },
+          "body": "County Council Kōmike Aloha ʻĀina"
+        },
+        {
+          "dateISO": "2026-07-01",
+          "text": "Departments have sent only 335 requests to fill vacant positions.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "qrQsEpbjdgA",
+            "ts": "0:31:49",
+            "retrievedISO": "2026-10-13T06:35:23.239Z",
+            "endTs": "0:32:20"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-07-01",
+          "text": "The director agreed to give the commission a breakdown of the open positions.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "qrQsEpbjdgA",
+            "ts": "0:31:44",
+            "retrievedISO": "2026-10-13T06:35:23.239Z",
+            "endTs": "0:32:14"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-07-01",
+          "text": "The county has 962 open positions.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "qrQsEpbjdgA",
+            "ts": "0:30:17",
+            "retrievedISO": "2026-10-13T06:35:23.239Z",
+            "endTs": "0:30:47"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-07-01",
+          "text": "The commission's legal counsel will report back on whether commissioners working with the consultant can give a summary after each meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "qrQsEpbjdgA",
+            "ts": "0:20:15",
+            "retrievedISO": "2026-10-13T06:35:23.239Z",
+            "endTs": "0:20:54"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-07-01",
+          "text": "The department's new consultant plans to present its work to county leaders July 13.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "qrQsEpbjdgA",
+            "ts": "0:15:34",
+            "retrievedISO": "2026-10-13T06:35:23.239Z",
+            "endTs": "0:16:04"
+          },
+          "body": "Civil Service Commission"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "east-maui-water-authority-grant-program-funding",
+      "title": "East Maui Water Authority grant program funding",
+      "summary": "The East Maui Water Authority grant program's funding doubled this year to $150,000, and staff said the next round will give out that amount. A $100,000 grant was announced in July, after a foundation committed $100,000 for early planning work. Earlier, the authority awarded $75,000 to five grantees, while requests topped $200,000.",
+      "topics": [
+        "water",
+        "government"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-03-09",
+      "lastSeenISO": "2026-09-18",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-31",
+      "boards": [
+        {
+          "name": "ʻAha Moku o Maui Hikina",
+          "group": "board",
+          "short": []
+        },
+        {
+          "name": "East Maui Water Board",
+          "group": "board",
+          "short": []
+        },
+        {
+          "name": "East Maui Regional Community Board",
+          "group": "board",
+          "short": []
+        },
+        {
+          "name": "Water Authority, Social Services, and Parks Committee",
+          "group": "council",
+          "short": [
+            "WASSP"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-09-18",
+          "text": "The East Maui Water Authority grant program's funding doubled this year to $150,000.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jggU3kzKFQI",
+            "ts": "0:58:04",
+            "retrievedISO": "2026-10-07T23:03:54.314Z",
+            "endTs": "0:59:06"
+          },
+          "body": "ʻAha Moku o Maui Hikina"
+        },
+        {
+          "dateISO": "2026-07-17",
+          "text": "Staff said the authority's next round of grants will give out $150,000.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "oDSa7vE18b8",
+            "ts": "1:19:30",
+            "retrievedISO": "2026-10-09T06:35:04.288Z",
+            "endTs": "1:20:03"
+          },
+          "body": "East Maui Water Board"
+        },
+        {
+          "dateISO": "2026-05-15",
+          "text": "Staff are preparing a proposal with basic financial information for the foundation this month.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "6QAT7xS4o6U",
+            "ts": "1:01:09",
+            "retrievedISO": "2026-10-09T06:35:05.182Z",
+            "endTs": "1:01:39"
+          },
+          "body": "East Maui Regional Community Board"
+        },
+        {
+          "dateISO": "2026-05-15",
+          "text": "Staff said a foundation committed $100,000 to the water authority for early planning work.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "6QAT7xS4o6U",
+            "ts": "1:00:57",
+            "retrievedISO": "2026-10-09T06:35:05.182Z",
+            "endTs": "1:01:27"
+          },
+          "body": "East Maui Regional Community Board"
+        },
+        {
+          "dateISO": "2026-03-09",
+          "text": "The grant coordinator said grant requests topped $200,000, so not all qualified applicants could be funded.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Gjw_tbHieQw",
+            "ts": "1:38:07",
+            "retrievedISO": "2026-10-17T07:45:16.907Z",
+            "endTs": "1:38:37"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-03-09",
+          "text": "She said the authority awarded $75,000 to five grantees.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Gjw_tbHieQw",
+            "ts": "1:28:10",
+            "retrievedISO": "2026-10-17T07:45:16.907Z",
+            "endTs": "1:28:40"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "haiku-fire-station-awaits-county-council-approval",
+      "title": "Haʻikū fire station awaits County Council approval",
+      "summary": "On August 24, the committee recommended Bills 90 and 91 for the Haʻikū Fire Station on first reading; Bill 90 passed 6–2 with one excused. It required the parcel's remaining farm land to be used for subsistence agriculture. A resource person said he may seek a court order to delay the project, and the county's title to the site has been disputed.",
+      "topics": [
+        "public-safety"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2025-04-07",
+      "lastSeenISO": "2026-08-24",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 3,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-31",
+      "boards": [
+        {
+          "name": "Housing and Land Use Committee",
+          "group": "council",
+          "short": [
+            "HLU"
+          ]
+        },
+        {
+          "name": "Fire and Public Safety Commission",
+          "group": "board",
+          "short": []
+        },
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [
+        "Bill 89 (2026)",
+        "Bill 90 (2026)",
+        "Bill 91 (2026)"
+      ],
+      "timeline": [
+        {
+          "dateISO": "2026-08-24",
+          "text": "The final roll call ended with six ayes, and the motion carried.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MGkdTfx_zJI",
+            "ts": "2:23:14",
+            "retrievedISO": "2026-10-16T15:22:31.337Z",
+            "endTs": "2:24:03"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-24",
+          "text": "A motion recommended Bill 91, a zoning change, on first reading.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MGkdTfx_zJI",
+            "ts": "2:17:11",
+            "retrievedISO": "2026-10-16T15:22:31.337Z",
+            "endTs": "2:17:41"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-24",
+          "text": "Bill 90 (2026), community plan amendment, recommend passage on first reading: The committee recommended Bill 90 pass on first reading.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MGkdTfx_zJI",
+            "ts": "2:16:02",
+            "retrievedISO": "2026-10-16T15:22:31.337Z",
+            "endTs": "2:17:20"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-24",
+          "text": "One councilmember said, \"I'll be voting no on this bill.\"",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MGkdTfx_zJI",
+            "ts": "2:11:04",
+            "retrievedISO": "2026-10-16T15:22:31.337Z",
+            "endTs": "2:11:34"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-24",
+          "text": "The amendment passed with eight ayes, no noes and one excused.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MGkdTfx_zJI",
+            "ts": "1:49:03",
+            "retrievedISO": "2026-10-16T15:22:31.337Z",
+            "endTs": "1:49:33"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-24",
+          "text": "A councilmember said staff will work with the attorneys on the wording of the subsistence agriculture condition.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MGkdTfx_zJI",
+            "ts": "1:48:34",
+            "retrievedISO": "2026-10-16T15:22:31.337Z",
+            "endTs": "1:49:04"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-24",
+          "text": "The proposer said the requirement is a \"must,\" not a \"may.\"",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MGkdTfx_zJI",
+            "ts": "1:48:26",
+            "retrievedISO": "2026-10-16T15:22:31.337Z",
+            "endTs": "1:48:56"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-24",
+          "text": "The committee required the parcel's remaining farm land to be used for subsistence agriculture.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MGkdTfx_zJI",
+            "ts": "1:47:59",
+            "retrievedISO": "2026-10-16T15:22:31.337Z",
+            "endTs": "1:49:26"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-24",
+          "text": "The councilmember who proposed it said food is getting so expensive.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MGkdTfx_zJI",
+            "ts": "1:43:21",
+            "retrievedISO": "2026-10-16T15:22:31.337Z",
+            "endTs": "1:43:55"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-24",
+          "text": "The proposer said she hopes it becomes a pilot program because the County claims ownership of a lot of farm land.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MGkdTfx_zJI",
+            "ts": "1:43:12",
+            "retrievedISO": "2026-10-16T15:22:31.337Z",
+            "endTs": "1:43:55"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-24",
+          "text": "A resource person said he may seek a court order that would delay the project.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MGkdTfx_zJI",
+            "ts": "0:46:03",
+            "retrievedISO": "2026-10-16T15:22:31.337Z",
+            "endTs": "0:46:33"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-24",
+          "text": "The chair said the Board of Ethics cleared her to vote on the bills.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MGkdTfx_zJI",
+            "ts": "0:04:38",
+            "retrievedISO": "2026-10-16T15:22:31.337Z",
+            "endTs": "0:05:08"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-24",
+          "text": "Before it were Bills 89, 90 and 91 for a proposed Haʻikū Fire Station.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MGkdTfx_zJI",
+            "ts": "0:04:09",
+            "retrievedISO": "2026-10-16T15:22:31.337Z",
+            "endTs": "0:04:39"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-20",
+          "text": "The fire chief said the Haʻikū fire station still needs final approval from the County Council.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "XTkHNUi1mfA",
+            "ts": "0:09:58",
+            "retrievedISO": "2026-10-09T06:35:14.511Z",
+            "endTs": "0:11:11"
+          },
+          "body": "Fire and Public Safety Commission"
+        },
+        {
+          "dateISO": "2026-08-10",
+          "text": "A council member said she will not support anything that dispossesses Kanaka of ancestral ʻāina (land).",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "K4EHYk4ksbc",
+            "ts": "2:25:46",
+            "retrievedISO": "2026-10-16T11:16:30.390Z",
+            "endTs": "2:26:19"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-10",
+          "text": "The planning department said the council can decide zoning no matter who owns the property.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "K4EHYk4ksbc",
+            "ts": "2:20:24",
+            "retrievedISO": "2026-10-16T11:16:30.390Z",
+            "endTs": "2:21:08"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-10",
+          "text": "The project consultant said choosing Site D, another location, would mean starting the process over.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "K4EHYk4ksbc",
+            "ts": "2:15:13",
+            "retrievedISO": "2026-10-16T11:16:30.390Z",
+            "endTs": "2:15:54"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-10",
+          "text": "A resource person who said he is a native tenant argued the land patent for the site has no legal standing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "K4EHYk4ksbc",
+            "ts": "1:34:59",
+            "retrievedISO": "2026-10-16T11:16:30.390Z",
+            "endTs": "1:35:52"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-10",
+          "text": "The project engineer said the water line can be moved if iwi kūpuna (burials) are suspected.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "K4EHYk4ksbc",
+            "ts": "0:53:27",
+            "retrievedISO": "2026-10-16T11:16:30.390Z",
+            "endTs": "0:55:11"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-10",
+          "text": "Agriculture department staff said farming with catchment water can be done.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "K4EHYk4ksbc",
+            "ts": "0:49:50",
+            "retrievedISO": "2026-10-16T11:16:30.390Z",
+            "endTs": "0:50:20"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-10",
+          "text": "Staff will send a written request asking for the capacity of the three water meters.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "K4EHYk4ksbc",
+            "ts": "0:47:33",
+            "retrievedISO": "2026-10-16T11:16:30.390Z",
+            "endTs": "0:48:03"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-10",
+          "text": "Current plans show two domestic water services for the fire station and a separate fire line.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "K4EHYk4ksbc",
+            "ts": "0:47:03",
+            "retrievedISO": "2026-10-16T11:16:30.390Z",
+            "endTs": "0:47:37"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-10",
+          "text": "A water department engineer said the meter list has been closed since 2013.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "K4EHYk4ksbc",
+            "ts": "0:45:22",
+            "retrievedISO": "2026-10-16T11:16:30.390Z",
+            "endTs": "0:45:57"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-10",
+          "text": "A water department engineer said the fire station's meters are not expected to serve farming on the rest of the land.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "K4EHYk4ksbc",
+            "ts": "0:42:42",
+            "retrievedISO": "2026-10-16T11:16:30.390Z",
+            "endTs": "0:43:31"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-10",
+          "text": "The chair asked whether a meter could supply native tenant farming on the roughly 20 acres that would stay in agriculture.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "K4EHYk4ksbc",
+            "ts": "0:42:02",
+            "retrievedISO": "2026-10-16T11:16:30.390Z",
+            "endTs": "0:42:54"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-10",
+          "text": "The archaeology firm said it walked the whole water line route.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "K4EHYk4ksbc",
+            "ts": "0:21:06",
+            "retrievedISO": "2026-10-16T11:16:30.390Z",
+            "endTs": "0:21:54"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-10",
+          "text": "A fire department staff member confirmed no federal funds are being used.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "K4EHYk4ksbc",
+            "ts": "0:09:58",
+            "retrievedISO": "2026-10-16T11:16:30.390Z",
+            "endTs": "0:10:35"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-07-29",
+          "text": "The deputy corporation counsel (county lawyer) said a title report shows the county owns the parcel free and clear.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "NOJbdAOpcZw",
+            "ts": "2:11:45",
+            "retrievedISO": "2026-10-16T16:14:23.902Z",
+            "endTs": "2:12:47"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-07-29",
+          "text": "If the committee recommends the bills, they would go to the full council for first and second reading.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "NOJbdAOpcZw",
+            "ts": "1:56:50",
+            "retrievedISO": "2026-10-16T16:14:23.902Z",
+            "endTs": "1:57:20"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-07-29",
+          "text": "The fire chief said the project currently has no federal funding and uses only county funds.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "NOJbdAOpcZw",
+            "ts": "1:49:33",
+            "retrievedISO": "2026-10-16T16:14:23.902Z",
+            "endTs": "1:50:03"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-07-29",
+          "text": "A testifier said the county has not followed through on consultation about burials reported on the property.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "NOJbdAOpcZw",
+            "ts": "1:23:43",
+            "retrievedISO": "2026-10-16T16:14:23.902Z",
+            "endTs": "1:24:13"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-07-29",
+          "text": "A testifier asked the committee to pick Site D over Site B, citing land title conflicts.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "NOJbdAOpcZw",
+            "ts": "0:22:37",
+            "retrievedISO": "2026-10-16T16:14:23.902Z",
+            "endTs": "0:23:13"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-07-29",
+          "text": "The Maui Planning Commission voted to recommend approval.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "NOJbdAOpcZw",
+            "ts": "0:04:40",
+            "retrievedISO": "2026-10-16T16:14:23.902Z",
+            "endTs": "0:05:10"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-07-29",
+          "text": "The bills would change the site's agricultural designations to rural and public/quasi-public (public facility) uses.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "NOJbdAOpcZw",
+            "ts": "0:04:15",
+            "retrievedISO": "2026-10-16T16:14:23.902Z",
+            "endTs": "0:04:55"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-07-29",
+          "text": "The station would use about 6.1 acres of a 27.9-acre county-owned property.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "NOJbdAOpcZw",
+            "ts": "0:04:08",
+            "retrievedISO": "2026-10-16T16:14:23.902Z",
+            "endTs": "0:04:38"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-04-06",
+          "text": "The fire chief said the Haʻikū fire station will come to the council soon for approval after the Planning Commission approved it.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "YGuzDd85eAQ",
+            "ts": "1:50:32",
+            "retrievedISO": "2026-10-17T04:46:58.271Z",
+            "endTs": "1:51:02"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2025-04-08",
+          "text": "He said the final environmental study was done in summer 2024, but his family was not contacted until October 2024.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ZpCop-IEXjk",
+            "ts": "0:41:13",
+            "retrievedISO": "2026-10-21T12:47:06.092Z",
+            "endTs": "0:41:43"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2025-04-08",
+          "text": "A resident said part of a planned Haʻikū fire station project would run through his family's kuleana (family land) parcel.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ZpCop-IEXjk",
+            "ts": "0:33:16",
+            "retrievedISO": "2026-10-21T12:47:06.092Z",
+            "endTs": "0:34:07"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2025-04-07",
+          "text": "The fire chief said the department lost a $15 million federal grant for Haʻikū Fire Station.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "TuF5fAqpWVU",
+            "ts": "0:16:48",
+            "retrievedISO": "2026-10-21T21:24:01.342Z",
+            "endTs": "0:17:18"
           },
           "body": "County Council Budget, Finance, and Economic Development Committee"
         }

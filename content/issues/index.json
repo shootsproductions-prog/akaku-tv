@@ -184,12 +184,17 @@
     "kihei-former-institute-property-housing-redevelopment.json",
     "meo-farmer-microgrant-program.json",
     "30-million-bonds-for-molokai-land-purchases.json",
-    "east-maui-ditch-system-ownership-and-county-takeover-bid.json"
+    "east-maui-ditch-system-ownership-and-county-takeover-bid.json",
+    "board-of-ethics-full-time-staff.json",
+    "board-of-water-supply-opposes-bill-1.json",
+    "county-worker-vacancies-and-hr-consultant-review.json",
+    "east-maui-water-authority-grant-program-funding.json",
+    "haiku-fire-station-awaits-county-council-approval.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-11-01T03:09:40.519Z",
-  "etag": "cba6fb6652edd5c2ae49de869f35d50b0ef7666c51e9ff07016200b69429792c",
+  "updatedAt": "2026-11-01T03:10:01.341Z",
+  "etag": "6c191f06477f92e76bb20160ed188f66c54137044e1e93c268d2728b0f766aa8",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-10-31T10:08:15.036Z",
@@ -930,6 +935,26 @@
     "east-maui-ditch-system-ownership-and-county-takeover-bid.json": {
       "updatedAt": "2026-11-01T03:09:40.519Z",
       "sha256": "8e8beffb93c6f089a35febd7895294ee9390c8714fb374b049ed6e2c86a62471"
+    },
+    "board-of-ethics-full-time-staff.json": {
+      "updatedAt": "2026-11-01T03:10:01.341Z",
+      "sha256": "e0410094ecc3c2cc6989d885aa4c207947be189a3c945f76e1aeb01412b5bf53"
+    },
+    "board-of-water-supply-opposes-bill-1.json": {
+      "updatedAt": "2026-11-01T03:10:01.341Z",
+      "sha256": "d036316d26c60cee39bcfd045fccb83790e84f3025c82ed5ba1927760adaff58"
+    },
+    "county-worker-vacancies-and-hr-consultant-review.json": {
+      "updatedAt": "2026-11-01T03:10:01.341Z",
+      "sha256": "090db0d9c192d06504ab04d3f9ad006ad451271dc8a0cd4e8c911957c942fca1"
+    },
+    "east-maui-water-authority-grant-program-funding.json": {
+      "updatedAt": "2026-11-01T03:10:01.341Z",
+      "sha256": "b17f527f1e7e0854acc5cd63d2721511cc176271fa8909d0534a09448278a10f"
+    },
+    "haiku-fire-station-awaits-county-council-approval.json": {
+      "updatedAt": "2026-11-01T03:10:01.341Z",
+      "sha256": "0220458c3774171664494ca102661929a2cedb0c33e41788ac8aa12fc8d54ebe"
     }
   }
 }
