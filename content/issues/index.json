@@ -172,12 +172,13 @@
     "airborne-mapping-of-mauis-underground-fresh-water.json",
     "climate-action-revolving-fund-from-hotel-tax.json",
     "bill-77-setting-aside-housing-fund-for-houseless-residents.json",
-    "off-street-parking-based-on-bedroom-count.json"
+    "off-street-parking-based-on-bedroom-count.json",
+    "appointments-to-the-east-maui-water-board.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-11-01T03:04:21.995Z",
-  "etag": "17a60098c24f92e1f54a00e6d9a5e59198abed0cc9d5fdab0e44ff5074fc557a",
+  "updatedAt": "2026-11-01T03:04:54.868Z",
+  "etag": "3c4837f957d5e938cad20b59240ece710e16e8ea63df0f6dc39c7713744fffd0",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-10-31T10:08:15.036Z",
@@ -870,6 +871,10 @@
     "off-street-parking-based-on-bedroom-count.json": {
       "updatedAt": "2026-11-01T03:04:21.995Z",
       "sha256": "bf10fdcd8189332ccdcbec5ae3e4d703a9321e9e9278f9a974c6c00affc3aa99"
+    },
+    "appointments-to-the-east-maui-water-board.json": {
+      "updatedAt": "2026-11-01T03:04:54.868Z",
+      "sha256": "dc37b5e9596a16f67061da285433eada775d0ff7b5e40c4968f7fb45cceffa67"
     }
   }
 }

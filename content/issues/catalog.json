@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-01T03:04:21.995Z",
-  "count": 173,
+  "updatedAt": "2026-11-01T03:04:54.868Z",
+  "count": 174,
   "issues": [
     {
       "slug": "2027-mass-nominations-for-county-boards",
@@ -41055,6 +41055,83 @@
             "endTs": "1:24:58"
           },
           "body": "County Council Meeting"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "appointments-to-the-east-maui-water-board",
+      "title": "Appointments to the East Maui water board",
+      "summary": "On February 25, 2025, a committee voted six to two, with one member excused, to recommend approving Resolution 25-50. The resolution appoints the Hawaiian Homes Commission's representative to the East Maui Regional Community Board. The committee's agenda that day also included a safe parking pilot update.",
+      "topics": [
+        "water",
+        "government"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2025-02-25",
+      "lastSeenISO": "2025-02-25",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-10-31",
+      "boards": [
+        {
+          "name": "Water Authority, Social Services, and Parks Committee",
+          "group": "council",
+          "short": [
+            "WASSP"
+          ]
+        }
+      ],
+      "bills": [
+        "Resolution 25-50"
+      ],
+      "timeline": [
+        {
+          "dateISO": "2025-02-25",
+          "text": "The committee voted six to two, with one member excused, to recommend approving the appointment.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HACSXG3i0fs",
+            "ts": "2:02:27",
+            "retrievedISO": "2026-10-22T00:44:50.737Z",
+            "endTs": "2:02:57"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2025-02-25",
+          "text": "The committee reviewed Resolution 25-50, which appoints the Hawaiian Homes Commission's representative to the East Maui Regional Community Board.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HACSXG3i0fs",
+            "ts": "1:15:41",
+            "retrievedISO": "2026-10-22T00:44:50.737Z",
+            "endTs": "1:16:11"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2025-02-25",
+          "text": "The agenda had two items: an East Maui board appointment and a safe parking pilot update.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HACSXG3i0fs",
+            "ts": "0:04:15",
+            "retrievedISO": "2026-10-22T00:44:50.737Z",
+            "endTs": "0:04:47"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
         }
       ],
       "sourceTypes": [
