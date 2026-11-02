@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T12:26:23.298Z",
+  "updatedAt": "2026-11-02T18:26:12.139Z",
   "count": 199,
   "issues": [
     {
@@ -40208,7 +40208,16 @@
         "meetingsLast30d": 0,
         "meetingsLast90d": 0,
         "mentionsLast30d": 0,
-        "upcomingEvent": null
+        "upcomingEvent": {
+          "dateISO": "2029-04-01",
+          "what": "The draft gives properties affected by the August 2023 Maui wildfires until April 1, 2029, to rebuild or restart uses.",
+          "source": {
+            "type": "meeting",
+            "videoId": "QRQzkKIJAPY",
+            "ts": "0:08:15",
+            "retrievedISO": "2026-10-21T17:44:06.390Z"
+          }
+        }
       },
       "asOfISO": "2026-11-02",
       "boards": [
