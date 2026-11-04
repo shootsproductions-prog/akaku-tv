@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T17:17:09.567Z",
+  "generatedAt": "2026-11-04T17:22:03.272Z",
   "areas": [
     {
       "id": "west-maui",
@@ -907,7 +907,7 @@
   ],
   "askedAgain": [
     {
-      "label": "When Wahikuli will get County sewer service",
+      "label": "Wahikuli sewer service for rebuilding homes",
       "meetings": [
         "2023-11-15-disaster-recovery-community-update-2-at-lahaina-civic-center",
         "2023-12-06-lahaina-disaster-recovery-update",
@@ -920,30 +920,18 @@
       "to": "2024-03-06"
     },
     {
-      "label": "Location of the permanent Lahaina fire debris disposal site",
+      "label": "Location of permanent Lahaina fire debris disposal site",
       "meetings": [
         "2023-11-08-disaster-recovery-community-update-1-at-lahaina-civic-center",
         "2023-12-13-lahaina-disaster-recovery-update",
         "2023-12-18-debris-disposal-at-lahaina-civic-center",
-        "2024-01-17-lahaina-disaster-recovery-update",
-        "2024-02-21-lahaina-disaster-recovery-update"
+        "2024-01-17-lahaina-disaster-recovery-update"
       ],
       "from": "2023-11-08",
-      "to": "2024-02-21"
+      "to": "2024-01-17"
     },
     {
-      "label": "Water conservation in South Maui and by hotels",
-      "meetings": [
-        "2023-01-25-we-are-south-maui-community-plan-advisory-committee",
-        "2023-04-26-we-are-south-maui-community-plan-advisory-committee",
-        "2023-10-23-we-are-south-maui-cpac",
-        "2024-01-25-hana-maui-county-water-dept-of-water-supply-conservation"
-      ],
-      "from": "2023-01-25",
-      "to": "2024-01-25"
-    },
-    {
-      "label": "Testing and help for neighbors of burned Kula lots",
+      "label": "Soil testing and help for neighbors of burned Kula lots",
       "meetings": [
         "2023-11-16-kula-disaster-recovery-update",
         "2023-12-05-kula-disaster-recovery-update",
@@ -954,7 +942,7 @@
       "to": "2023-12-19"
     },
     {
-      "label": "Blood, urine and lead testing for exposed residents",
+      "label": "Blood and body testing of residents for fire exposure",
       "meetings": [
         "2023-11-16-kula-disaster-recovery-update",
         "2023-12-05-kula-disaster-recovery-update",
@@ -965,7 +953,7 @@
       "to": "2023-12-19"
     },
     {
-      "label": "When Lahaina owners can rebuild after debris removal",
+      "label": "When owners on cleared Lahaina lots can rebuild",
       "meetings": [
         "2023-12-18-debris-disposal-at-lahaina-civic-center",
         "2024-02-21-lahaina-disaster-recovery-update",
@@ -975,7 +963,17 @@
       "to": "2024-03-13"
     },
     {
-      "label": "Extending insurance additional living expenses for fire survivors",
+      "label": "Community mental health planning after disasters",
+      "meetings": [
+        "2024-02-21-lahaina-disaster-recovery-update",
+        "2024-02-29-upcountry-community-on-hazard-mitigation-and-recovery",
+        "2024-03-06-lahaina-disaster-recovery-update"
+      ],
+      "from": "2024-02-21",
+      "to": "2024-03-06"
+    },
+    {
+      "label": "Insurance additional living expense extension for fire survivors",
       "meetings": [
         "2023-12-12-kula-disaster-recovery-update",
         "2023-12-19-kula-disaster-recovery-update",
@@ -985,7 +983,17 @@
       "to": "2024-01-23"
     },
     {
-      "label": "Extending the South Maui advisory committee deadline",
+      "label": "South Maui water conservation requirements",
+      "meetings": [
+        "2023-01-25-we-are-south-maui-community-plan-advisory-committee",
+        "2023-04-26-we-are-south-maui-community-plan-advisory-committee",
+        "2023-10-23-we-are-south-maui-cpac"
+      ],
+      "from": "2023-01-25",
+      "to": "2023-10-23"
+    },
+    {
+      "label": "More time for the South Maui CPAC review",
       "meetings": [
         "2023-09-20-cpac",
         "2023-10-16-we-are-south-maui-cpac",
@@ -995,7 +1003,7 @@
       "to": "2023-10-23"
     },
     {
-      "label": "Virtual or hybrid access to advisory committee meetings",
+      "label": "Virtual or hybrid access to South Maui CPAC meetings",
       "meetings": [
         "2023-01-25-we-are-south-maui-community-plan-advisory-committee",
         "2023-03-08-we-are-south-maui-community-plan-advisory-committee",
@@ -1015,7 +1023,7 @@
       "to": "2023-03-08"
     },
     {
-      "label": "Fencing against deer and feral ungulates in mauka lands",
+      "label": "Ungulate fencing and riparian restoration mauka",
       "meetings": [
         "2023-01-25-we-are-south-maui-community-plan-advisory-committee",
         "2023-02-22-we-are-south-maui-community-plan-advisory-committee",
@@ -1025,22 +1033,22 @@
       "to": "2023-03-08"
     },
     {
-      "label": "Restoring sewer service to standing Lahaina homes",
+      "label": "Slow water testing and clearance for Lahaina homes",
+      "meetings": [
+        "2024-03-06-lahaina-disaster-recovery-update",
+        "2024-03-13-lahaina-disaster-recovery-update"
+      ],
+      "from": "2024-03-06",
+      "to": "2024-03-13"
+    },
+    {
+      "label": "Restoring Lahaina sewer service to standing homes",
       "meetings": [
         "2023-12-06-lahaina-disaster-recovery-update",
         "2024-03-13-lahaina-disaster-recovery-update"
       ],
       "from": "2023-12-06",
       "to": "2024-03-13"
-    },
-    {
-      "label": "Community mental health planning after disasters",
-      "meetings": [
-        "2024-02-29-upcountry-community-on-hazard-mitigation-and-recovery",
-        "2024-03-06-lahaina-disaster-recovery-update"
-      ],
-      "from": "2024-02-29",
-      "to": "2024-03-06"
     },
     {
       "label": "Backup generators for Upcountry water pump stations",
@@ -1052,7 +1060,7 @@
       "to": "2024-02-29"
     },
     {
-      "label": "Green waste drop-off facility for Upcountry and Kula",
+      "label": "Green waste drop-off facility for Kula and Upcountry",
       "meetings": [
         "2024-01-31-kula-disaster-recovery-update",
         "2024-02-29-upcountry-community-on-hazard-mitigation-and-recovery"
@@ -1061,7 +1069,7 @@
       "to": "2024-02-29"
     },
     {
-      "label": "Order of Lahaina debris removal by property",
+      "label": "Order of properties in the debris removal queue",
       "meetings": [
         "2023-12-18-debris-disposal-at-lahaina-civic-center",
         "2024-02-21-lahaina-disaster-recovery-update"
@@ -1070,7 +1078,7 @@
       "to": "2024-02-21"
     },
     {
-      "label": "Cleanup of Kula debris and ash outside home footprints",
+      "label": "Cleanup of Kula debris outside home footprints and on vacant lots",
       "meetings": [
         "2024-01-23-kula-disaster-recovery-update",
         "2024-01-31-kula-disaster-recovery-update"
@@ -1079,7 +1087,7 @@
       "to": "2024-01-31"
     },
     {
-      "label": "Collecting homeowners' insurance debris removal payments",
+      "label": "How insurance debris removal payments are collected",
       "meetings": [
         "2023-11-15-disaster-recovery-community-update-2-at-lahaina-civic-center",
         "2024-01-31-kula-disaster-recovery-update"
@@ -1106,7 +1114,16 @@
       "to": "2024-01-24"
     },
     {
-      "label": "Landlords evicting tenants to lease to FEMA",
+      "label": "Next steps for fire rebuild building permits",
+      "meetings": [
+        "2023-12-05-kula-disaster-recovery-update",
+        "2024-01-24-lahaina-disaster-recovery-update"
+      ],
+      "from": "2023-12-05",
+      "to": "2024-01-24"
+    },
+    {
+      "label": "Landlords ending tenant leases for FEMA-paid rents",
       "meetings": [
         "2024-01-17-lahaina-disaster-recovery-update",
         "2024-01-24-lahaina-disaster-recovery-update"
@@ -1115,7 +1132,7 @@
       "to": "2024-01-24"
     },
     {
-      "label": "Public posting of air quality monitoring results",
+      "label": "Advance notice of Kula cleanup schedules",
       "meetings": [
         "2023-11-16-kula-disaster-recovery-update",
         "2023-12-05-kula-disaster-recovery-update"
@@ -1124,22 +1141,13 @@
       "to": "2023-12-05"
     },
     {
-      "label": "Notice to residents of Kula cleanup schedules",
+      "label": "Public release of Kula air monitoring data",
       "meetings": [
         "2023-11-16-kula-disaster-recovery-update",
         "2023-12-05-kula-disaster-recovery-update"
       ],
       "from": "2023-11-16",
       "to": "2023-12-05"
-    },
-    {
-      "label": "Mauka road parallel to Pi’ilani Highway",
-      "meetings": [
-        "2023-09-20-cpac",
-        "2023-10-16-we-are-south-maui-cpac"
-      ],
-      "from": "2023-09-20",
-      "to": "2023-10-16"
     },
     {
       "label": "Expansion of the Kīhei recycling and compost site",
@@ -1151,7 +1159,16 @@
       "to": "2023-10-16"
     },
     {
-      "label": "Opening locked gates or private roads for emergency evacuation",
+      "label": "Mauka road parallel to Pi’ilani Highway",
+      "meetings": [
+        "2023-09-20-cpac",
+        "2023-10-16-we-are-south-maui-cpac"
+      ],
+      "from": "2023-09-20",
+      "to": "2023-10-16"
+    },
+    {
+      "label": "Opening locked gates and private roads for emergency evacuation",
       "meetings": [
         "2023-03-15-we-are-south-maui-community-plan-advisory-committee",
         "2023-09-20-cpac"
@@ -1160,7 +1177,7 @@
       "to": "2023-09-20"
     },
     {
-      "label": "Funding the Māʻalaea wastewater plant",
+      "label": "Funding the Māʻalaea wastewater treatment plant",
       "meetings": [
         "2023-03-08-we-are-south-maui-community-plan-advisory-committee",
         "2023-04-26-we-are-south-maui-community-plan-advisory-committee"
@@ -1169,7 +1186,7 @@
       "to": "2023-04-26"
     },
     {
-      "label": "Protection and acquisition of South Maui wetlands",
+      "label": "Protecting and acquiring North Kīhei wetland parcels",
       "meetings": [
         "2023-01-25-we-are-south-maui-community-plan-advisory-committee",
         "2023-03-15-we-are-south-maui-community-plan-advisory-committee"
@@ -1178,13 +1195,22 @@
       "to": "2023-03-15"
     },
     {
-      "label": "Waipuʻilani and Kūlanihākoʻi gulch flooding",
+      "label": "Flood-prone Waipuʻilani and Kūlanihākoʻi gulch issues",
       "meetings": [
         "2023-02-22-we-are-south-maui-community-plan-advisory-committee",
         "2023-03-08-we-are-south-maui-community-plan-advisory-committee"
       ],
       "from": "2023-02-22",
       "to": "2023-03-08"
+    },
+    {
+      "label": "Defining natural or green infrastructure in the plan",
+      "meetings": [
+        "2023-01-25-we-are-south-maui-community-plan-advisory-committee",
+        "2023-02-22-we-are-south-maui-community-plan-advisory-committee"
+      ],
+      "from": "2023-01-25",
+      "to": "2023-02-22"
     }
   ]
 }
