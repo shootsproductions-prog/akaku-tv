@@ -2231,6 +2231,19 @@
     },
     {
       "dateISO": "2026-08-05",
+      "text": "A representative for the Lāhainā property said it burned in a fire and the owners want hotel zoning.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Pf3okNoee3g",
+        "ts": "1:52:14",
+        "retrievedISO": "2026-11-04T07:35:05.595Z",
+        "endTs": "1:52:50"
+      },
+      "body": "Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-05",
       "text": "The Office of Hawaiian Affairs testified against both resolutions.",
       "basis": "said-at-meeting",
       "source": {
@@ -2267,6 +2280,19 @@
         "endTs": "0:22:12"
       },
       "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-05",
+      "text": "A council member said the resolutions would go to the planning commission and then come back to the council.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Pf3okNoee3g",
+        "ts": "0:20:22",
+        "retrievedISO": "2026-11-04T07:35:05.595Z",
+        "endTs": "0:20:52"
+      },
+      "body": "Housing and Land Use Committee"
     },
     {
       "dateISO": "2026-08-05",

@@ -8,7 +8,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-07-08",
+  "firstSeenISO": "2024-10-09",
   "lastSeenISO": "2026-09-09",
   "signals": {
     "meetingsLast30d": 0,
@@ -88,6 +88,19 @@
         "ts": "3:36:11",
         "retrievedISO": "2026-10-13T06:35:19.455Z",
         "endTs": "3:36:41"
+      },
+      "body": "Liquor Control Commission"
+    },
+    {
+      "dateISO": "2024-10-09",
+      "text": "The department said it is in the process of revamping its existing regulations.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "V3SSqyhfcjk",
+        "ts": "0:27:15",
+        "retrievedISO": "2026-11-04T07:35:16.021Z",
+        "endTs": "0:27:45"
       },
       "body": "Liquor Control Commission"
     }

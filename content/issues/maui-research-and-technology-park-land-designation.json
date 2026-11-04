@@ -7,7 +7,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2024-12-10",
+  "firstSeenISO": "2024-10-08",
   "lastSeenISO": "2026-10-21",
   "signals": {
     "meetingsLast30d": 1,
@@ -244,6 +244,19 @@
         "ts": "0:42:46",
         "retrievedISO": "2026-10-12T06:30:18.226Z",
         "endTs": "0:43:16"
+      },
+      "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2024-10-08",
+      "text": "The chair said they would not vote on designations for the research and technology park, out of caution.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1GPyI-THk14",
+        "ts": "2:07:01",
+        "retrievedISO": "2026-11-04T07:35:17.332Z",
+        "endTs": "2:07:55"
       },
       "body": "Maui Planning Commission"
     }

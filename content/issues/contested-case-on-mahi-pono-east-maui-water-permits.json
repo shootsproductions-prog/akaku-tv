@@ -9,15 +9,20 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-07-17",
-  "lastSeenISO": "2026-09-18",
+  "lastSeenISO": "2026-10-16",
   "signals": {
-    "meetingsLast30d": 0,
-    "meetingsLast90d": 2,
-    "mentionsLast30d": 0,
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 3,
+    "mentionsLast30d": 3,
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-03",
   "boards": [
+    {
+      "name": "East Maui Water Authority",
+      "group": "board",
+      "short": []
+    },
     {
       "name": "ʻAha Moku o Maui Hikina",
       "group": "board",
@@ -36,6 +41,201 @@
   ],
   "bills": [],
   "timeline": [
+    {
+      "dateISO": "2026-10-16",
+      "text": "The water department is seeking a Maui room, such as the planning conference room, for some hearings.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "8aasYotZcMM",
+        "ts": "0:22:50",
+        "retrievedISO": "2026-11-04T07:35:01.983Z",
+        "endTs": "0:23:24"
+      },
+      "body": "East Maui Water Authority"
+    },
+    {
+      "dateISO": "2026-10-16",
+      "text": "The chair said she would put the site-visit question on the agenda for the next meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "8aasYotZcMM",
+        "ts": "0:22:32",
+        "retrievedISO": "2026-11-04T07:35:01.983Z",
+        "endTs": "0:23:02"
+      },
+      "body": "East Maui Water Authority"
+    },
+    {
+      "dateISO": "2026-10-16",
+      "text": "The chair said whether to ask for a board member on the site visit will go on the next agenda.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "8aasYotZcMM",
+        "ts": "0:22:24",
+        "retrievedISO": "2026-11-04T07:35:01.983Z",
+        "endTs": "0:22:54"
+      },
+      "body": "East Maui Water Authority"
+    },
+    {
+      "dateISO": "2026-10-16",
+      "text": "The county attorney said a special meeting in early January could be held to share the witness summary.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "8aasYotZcMM",
+        "ts": "0:19:06",
+        "retrievedISO": "2026-11-04T07:35:01.983Z",
+        "endTs": "0:19:36"
+      },
+      "body": "East Maui Water Authority"
+    },
+    {
+      "dateISO": "2026-10-16",
+      "text": "She offered to summarize witnesses and issues, possibly at the board's December meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "8aasYotZcMM",
+        "ts": "0:18:17",
+        "retrievedISO": "2026-11-04T07:35:01.983Z",
+        "endTs": "0:19:11"
+      },
+      "body": "East Maui Water Authority"
+    },
+    {
+      "dateISO": "2026-10-16",
+      "text": "She said no estimate has been given for when a recommendation will reach the board.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "8aasYotZcMM",
+        "ts": "0:16:24",
+        "retrievedISO": "2026-11-04T07:35:01.983Z",
+        "endTs": "0:16:58"
+      },
+      "body": "East Maui Water Authority"
+    },
+    {
+      "dateISO": "2026-10-16",
+      "text": "No deadline is set yet for written testimony; the county attorney guessed end of November or December.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "8aasYotZcMM",
+        "ts": "0:16:03",
+        "retrievedISO": "2026-11-04T07:35:01.983Z",
+        "endTs": "0:16:33"
+      },
+      "body": "East Maui Water Authority"
+    },
+    {
+      "dateISO": "2026-10-16",
+      "text": "Written witness statements will be filed with the board, and everyone will be able to see them.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "8aasYotZcMM",
+        "ts": "0:14:41",
+        "retrievedISO": "2026-11-04T07:35:01.983Z",
+        "endTs": "0:15:11"
+      },
+      "body": "East Maui Water Authority"
+    },
+    {
+      "dateISO": "2026-10-16",
+      "text": "She said main issues include how much water is requested, county water needs, Native Hawaiian uses, and fire protection.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "8aasYotZcMM",
+        "ts": "0:10:23",
+        "retrievedISO": "2026-11-04T07:35:01.983Z",
+        "endTs": "0:11:17"
+      },
+      "body": "East Maui Water Authority"
+    },
+    {
+      "dateISO": "2026-10-16",
+      "text": "Main witness testimony will be filed in writing as sworn statements, then tested by cross-examination.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "8aasYotZcMM",
+        "ts": "0:09:40",
+        "retrievedISO": "2026-11-04T07:35:01.983Z",
+        "endTs": "0:10:13"
+      },
+      "body": "East Maui Water Authority"
+    },
+    {
+      "dateISO": "2026-10-16",
+      "text": "Named witnesses may not watch the hearings before they testify.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "8aasYotZcMM",
+        "ts": "0:08:10",
+        "retrievedISO": "2026-11-04T07:35:01.983Z",
+        "endTs": "0:08:42"
+      },
+      "body": "East Maui Water Authority"
+    },
+    {
+      "dateISO": "2026-10-16",
+      "text": "The county attorney said she will share hearing dates with everyone once she has them.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "8aasYotZcMM",
+        "ts": "0:08:02",
+        "retrievedISO": "2026-11-04T07:35:01.983Z",
+        "endTs": "0:08:32"
+      },
+      "body": "East Maui Water Authority"
+    },
+    {
+      "dateISO": "2026-10-16",
+      "text": "The hearing officer ruled the hearings will be open to the public in person, as space allows, but not livestreamed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "8aasYotZcMM",
+        "ts": "0:07:14",
+        "retrievedISO": "2026-11-04T07:35:01.983Z",
+        "endTs": "0:07:44"
+      },
+      "body": "East Maui Water Authority"
+    },
+    {
+      "dateISO": "2026-10-16",
+      "text": "All November and December dates are canceled, except a possible site visit not yet scheduled.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "8aasYotZcMM",
+        "ts": "0:06:40",
+        "retrievedISO": "2026-11-04T07:35:01.983Z",
+        "endTs": "0:07:10"
+      },
+      "body": "East Maui Water Authority"
+    },
+    {
+      "dateISO": "2026-10-16",
+      "text": "A county attorney for the Department of Water Supply updated the board on East Maui Irrigation's contested case (a court-like hearing).",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "8aasYotZcMM",
+        "ts": "0:03:46",
+        "retrievedISO": "2026-11-04T07:35:01.983Z",
+        "endTs": "0:05:01"
+      },
+      "body": "East Maui Water Authority"
+    },
     {
       "dateISO": "2026-09-18",
       "text": "The director was asked to look into a short online special meeting for a contested case update after October 1.",

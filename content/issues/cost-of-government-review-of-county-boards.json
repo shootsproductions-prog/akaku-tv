@@ -7,7 +7,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2024-11-12",
+  "firstSeenISO": "2024-10-10",
   "lastSeenISO": "2026-10-20",
   "signals": {
     "meetingsLast30d": 1,
@@ -31,6 +31,11 @@
     },
     {
       "name": "Cost of Government Commission",
+      "group": "board",
+      "short": []
+    },
+    {
+      "name": "Cost of Government Commission Meeting of October 10, 2024",
       "group": "board",
       "short": []
     }
@@ -241,6 +246,71 @@
         "endTs": "0:55:13"
       },
       "body": "Cost of Government Commission"
+    },
+    {
+      "dateISO": "2024-10-10",
+      "text": "The technical writer agreed to put scoping of the boards and commissions review on the next meeting's agenda.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "wgl955NfsII",
+        "ts": "1:07:28",
+        "retrievedISO": "2026-11-04T07:35:11.374Z",
+        "endTs": "1:07:58"
+      },
+      "body": "Cost of Government Commission Meeting of October 10, 2024"
+    },
+    {
+      "dateISO": "2024-10-10",
+      "text": "Scope of the boards and commissions review: By consensus, members put off setting the scope of the boards and commissions review until the next meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "wgl955NfsII",
+        "ts": "1:06:56",
+        "retrievedISO": "2026-11-04T07:35:11.374Z",
+        "endTs": "1:07:43"
+      },
+      "body": "Cost of Government Commission Meeting of October 10, 2024"
+    },
+    {
+      "dateISO": "2024-10-10",
+      "text": "Motion to establish examination of County boards and commissions as a work item: Members approved making the examination of County boards and commissions a commission work item.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "wgl955NfsII",
+        "ts": "1:05:04",
+        "retrievedISO": "2026-11-04T07:35:11.374Z",
+        "endTs": "1:06:48"
+      },
+      "body": "Cost of Government Commission Meeting of October 10, 2024"
+    },
+    {
+      "dateISO": "2024-10-10",
+      "text": "Motion to authorize the interim chair to respond to the Council resolution: Members approved letting the interim chair respond yes to a County Council resolution asking the commission to look at County boards and commissions.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "wgl955NfsII",
+        "ts": "1:03:30",
+        "retrievedISO": "2026-11-04T07:35:11.374Z",
+        "endTs": "1:05:09"
+      },
+      "body": "Cost of Government Commission Meeting of October 10, 2024"
+    },
+    {
+      "dateISO": "2024-10-10",
+      "text": "The chair said a County Council resolution on Friday's agenda urges the commission to revisit its 2010–2011 review of boards and commissions.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "wgl955NfsII",
+        "ts": "0:52:05",
+        "retrievedISO": "2026-11-04T07:35:11.374Z",
+        "endTs": "0:52:51"
+      },
+      "body": "Cost of Government Commission Meeting of October 10, 2024"
     }
   ],
   "sourceTypes": [

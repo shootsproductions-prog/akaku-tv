@@ -8,15 +8,20 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2025-04-07",
-  "lastSeenISO": "2026-08-24",
+  "lastSeenISO": "2026-10-15",
   "signals": {
-    "meetingsLast30d": 0,
-    "meetingsLast90d": 3,
-    "mentionsLast30d": 0,
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 4,
+    "mentionsLast30d": 2,
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-03",
   "boards": [
+    {
+      "name": "Fire Commission",
+      "group": "board",
+      "short": []
+    },
     {
       "name": "Housing and Land Use Committee",
       "group": "council",
@@ -43,6 +48,32 @@
     "Bill 91 (2026)"
   ],
   "timeline": [
+    {
+      "dateISO": "2026-10-15",
+      "text": "The chief will notify commissioners as soon as the Haʻikū Fire Station makes a council agenda.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6fIOWfH2zPA",
+        "ts": "1:58:12",
+        "retrievedISO": "2026-11-04T07:35:07.900Z",
+        "endTs": "1:58:42"
+      },
+      "body": "Fire Commission"
+    },
+    {
+      "dateISO": "2026-10-15",
+      "text": "Haʻikū Fire Station approval is waiting to be placed on a County Council agenda.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6fIOWfH2zPA",
+        "ts": "1:58:04",
+        "retrievedISO": "2026-11-04T07:35:07.900Z",
+        "endTs": "1:58:34"
+      },
+      "body": "Fire Commission"
+    },
     {
       "dateISO": "2026-08-24",
       "text": "The final roll call ended with six ayes, and the motion carried.",

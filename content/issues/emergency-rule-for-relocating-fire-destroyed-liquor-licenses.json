@@ -8,7 +8,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2024-11-13",
+  "firstSeenISO": "2024-10-09",
   "lastSeenISO": "2026-09-09",
   "signals": {
     "meetingsLast30d": 0,
@@ -140,6 +140,97 @@
         "ts": "1:42:40",
         "retrievedISO": "2026-10-15T06:35:23.973Z",
         "endTs": "1:43:19"
+      },
+      "body": "Liquor Control Commission"
+    },
+    {
+      "dateISO": "2024-10-09",
+      "text": "The commission unanimously voted to defer the emergency rule item.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "V3SSqyhfcjk",
+        "ts": "1:39:24",
+        "retrievedISO": "2026-11-04T07:35:16.021Z",
+        "endTs": "1:40:02"
+      },
+      "body": "Liquor Control Commission"
+    },
+    {
+      "dateISO": "2024-10-09",
+      "text": "The chair suggested deferring the emergency rule to next month to see why a provision was missing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "V3SSqyhfcjk",
+        "ts": "1:37:19",
+        "retrievedISO": "2026-11-04T07:35:16.021Z",
+        "endTs": "1:37:50"
+      },
+      "body": "Liquor Control Commission"
+    },
+    {
+      "dateISO": "2024-10-09",
+      "text": "Commissioners found a sixth provision they had added was missing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "V3SSqyhfcjk",
+        "ts": "1:36:55",
+        "retrievedISO": "2026-11-04T07:35:16.021Z",
+        "endTs": "1:37:25"
+      },
+      "body": "Liquor Control Commission"
+    },
+    {
+      "dateISO": "2024-10-09",
+      "text": "A commissioner said many restaurant and bar operators had to change how they do business because of the fires.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "V3SSqyhfcjk",
+        "ts": "1:33:49",
+        "retrievedISO": "2026-11-04T07:35:16.021Z",
+        "endTs": "1:34:19"
+      },
+      "body": "Liquor Control Commission"
+    },
+    {
+      "dateISO": "2024-10-09",
+      "text": "A commissioner said the wildfire relocation rule's wording, 'destroyed or rendered inoperable,' is too narrow.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "V3SSqyhfcjk",
+        "ts": "1:33:35",
+        "retrievedISO": "2026-11-04T07:35:16.021Z",
+        "endTs": "1:34:05"
+      },
+      "body": "Liquor Control Commission"
+    },
+    {
+      "dateISO": "2024-10-09",
+      "text": "The director said the rule must come back each time the governor's emergency proclamation expires and is renewed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "V3SSqyhfcjk",
+        "ts": "1:32:13",
+        "retrievedISO": "2026-11-04T07:35:16.021Z",
+        "endTs": "1:32:48"
+      },
+      "body": "Liquor Control Commission"
+    },
+    {
+      "dateISO": "2024-10-09",
+      "text": "The commission is reviewing the renewal of an emergency rule for relocating liquor licenses from premises destroyed by the August 2023 wildfires.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "V3SSqyhfcjk",
+        "ts": "1:31:33",
+        "retrievedISO": "2026-11-04T07:35:16.021Z",
+        "endTs": "1:32:05"
       },
       "body": "Liquor Control Commission"
     }

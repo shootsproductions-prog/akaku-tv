@@ -8,11 +8,11 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2024-11-21",
-  "lastSeenISO": "2026-09-17",
+  "lastSeenISO": "2026-10-15",
   "signals": {
-    "meetingsLast30d": 0,
-    "meetingsLast90d": 2,
-    "mentionsLast30d": 0,
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 3,
+    "mentionsLast30d": 3,
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-03",
@@ -34,6 +34,84 @@
   ],
   "bills": [],
   "timeline": [
+    {
+      "dateISO": "2026-10-15",
+      "text": "The director said new desalination money would fund a next phase focused on specific sites.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Qe82vmTlsAk",
+        "ts": "0:41:34",
+        "retrievedISO": "2026-11-04T07:35:02.969Z",
+        "endTs": "0:42:15"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-10-15",
+      "text": "A board member said the deputy director once offered to redact and release the report, but that never happened.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Qe82vmTlsAk",
+        "ts": "0:39:52",
+        "retrievedISO": "2026-11-04T07:35:02.969Z",
+        "endTs": "0:40:22"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-10-15",
+      "text": "A board member said the public summary of the desalination study does not explain how its site choices were made.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Qe82vmTlsAk",
+        "ts": "0:38:24",
+        "retrievedISO": "2026-11-04T07:35:02.969Z",
+        "endTs": "0:39:05"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-10-15",
+      "text": "A testifier asked why the budget has money for a new desalination study when the first can't be seen.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Qe82vmTlsAk",
+        "ts": "0:37:29",
+        "retrievedISO": "2026-11-04T07:35:02.969Z",
+        "endTs": "0:37:59"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-10-15",
+      "text": "The director said Homeland Security would not allow the full desalination study to be released because of security issues.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Qe82vmTlsAk",
+        "ts": "0:34:31",
+        "retrievedISO": "2026-11-04T07:35:02.969Z",
+        "endTs": "0:35:01"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-10-15",
+      "text": "The water director said only a summary of the desalination (seawater-to-fresh-water) study is online.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Qe82vmTlsAk",
+        "ts": "0:34:27",
+        "retrievedISO": "2026-11-04T07:35:02.969Z",
+        "endTs": "0:34:57"
+      },
+      "body": "Board of Water Supply"
+    },
     {
       "dateISO": "2026-09-17",
       "text": "The director said a desalination report can't be released until the Department of Homeland Security approves it.",

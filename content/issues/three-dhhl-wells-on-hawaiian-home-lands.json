@@ -9,15 +9,22 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2024-11-26",
-  "lastSeenISO": "2026-10-02",
+  "lastSeenISO": "2026-10-15",
   "signals": {
-    "meetingsLast30d": 0,
-    "meetingsLast90d": 3,
-    "mentionsLast30d": 0,
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 4,
+    "mentionsLast30d": 2,
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-03",
   "boards": [
+    {
+      "name": "Board of Water Supply",
+      "group": "board",
+      "short": [
+        "BWS"
+      ]
+    },
     {
       "name": "Maui County Council",
       "group": "council",
@@ -35,6 +42,32 @@
     "Bill 159 (2024)"
   ],
   "timeline": [
+    {
+      "dateISO": "2026-10-15",
+      "text": "The testifier asked for a legal opinion on whether the agreement breaks the Upcountry community plan.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Qe82vmTlsAk",
+        "ts": "0:04:05",
+        "retrievedISO": "2026-11-04T07:35:02.969Z",
+        "endTs": "0:05:23"
+      },
+      "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-10-15",
+      "text": "A testifier asked the board to take up a Hawaiian Homelands wells agreement with the water department in November.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Qe82vmTlsAk",
+        "ts": "0:03:41",
+        "retrievedISO": "2026-11-04T07:35:02.969Z",
+        "endTs": "0:04:20"
+      },
+      "body": "Board of Water Supply"
+    },
     {
       "dateISO": "2026-10-02",
       "text": "Maui Now clarified that the September 29 action was approval of Bill 97, CD1 on first reading only. The agreement still needs second and final reading by the Council and approval from the Hawaiian Homes Commission.",
@@ -543,8 +576,8 @@
     }
   ],
   "sourceTypes": [
-    "other",
-    "meeting"
+    "meeting",
+    "other"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

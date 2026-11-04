@@ -202,8 +202,8 @@
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-11-04T07:52:13.461Z",
-  "etag": "c9bd1a3e0368517a49b724ea909f3608425b18e088b8d9f1264496fb7710fc7c",
+  "updatedAt": "2026-11-04T08:26:11.688Z",
+  "etag": "60865c04864e5c9858be5469c7f238f67f8f50f0540d989ec5a36b4654e33f10",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-11-03T10:26:14.177Z",
@@ -222,16 +222,16 @@
       "sha256": "23c29238d637f563fefd602216e807401a058f120e486c721cce64914efe2799"
     },
     "central-maui-desalination-study-and-report-release.json": {
-      "updatedAt": "2026-11-04T07:52:13.461Z",
-      "sha256": "44b5dbdc749c56536e75f5563403832ecc0ea012449e51a26e12ad51e73d6210"
+      "updatedAt": "2026-11-04T08:26:11.688Z",
+      "sha256": "b7d564fb7d3ea0548fa2349da17cfca5707e91fcdc0981ae3cb843a52b85e121"
     },
     "maui-research-and-technology-park-land-designation.json": {
-      "updatedAt": "2026-11-04T07:52:13.461Z",
-      "sha256": "d2deb8f616a40a5ebe57903c2c9abd043d4a5364b8840376f2f18529b698101a"
+      "updatedAt": "2026-11-04T08:26:11.688Z",
+      "sha256": "c790f813c5834b200fb820d702f9cb98074eaf9a3f42887f6f58fbdc88fc4a69"
     },
     "south-maui-community-plan-review.json": {
-      "updatedAt": "2026-11-03T10:26:14.177Z",
-      "sha256": "dda44a0b519f7df2367f62714b7c4ffb26c451d45817b96693cf2500ec433671"
+      "updatedAt": "2026-11-04T08:26:11.688Z",
+      "sha256": "82fb814af456421a3a9d3e6cfebe36900310f4922654bcfe77a258cfa6b88a40"
     },
     "mokuula-restoration-master-plan.json": {
       "updatedAt": "2026-11-03T10:26:14.177Z",
@@ -278,8 +278,8 @@
       "sha256": "7ebb00c5a5fa415bc78f6839b8267c4d93af04f2071fedf84a2a01ad5ee574cf"
     },
     "contested-case-on-mahi-pono-east-maui-water-permits.json": {
-      "updatedAt": "2026-11-03T10:26:14.177Z",
-      "sha256": "a68cc99ab16cb3b7e69aef06b0612da82659dd9f368a160252b67c8636e8f32f"
+      "updatedAt": "2026-11-04T08:26:11.688Z",
+      "sha256": "7fab20bbef2a7a162a84f6bdcf71325971800d5826cda3867cac237ced9fbf3f"
     },
     "cost-of-government-study-of-housing-approvals.json": {
       "updatedAt": "2026-11-03T10:26:14.177Z",
@@ -394,8 +394,8 @@
       "sha256": "06d8b723521af130f90394152e3056d8910e97d6ca7bc6cbcc3705d3a61e20b4"
     },
     "lanai-minor-sma-permit-rule-change.json": {
-      "updatedAt": "2026-11-04T07:52:13.461Z",
-      "sha256": "ae74d421065d0cddaf69602c318a5b1f86fcfb606cf1bf94aeeb8e527593453a"
+      "updatedAt": "2026-11-04T08:26:11.688Z",
+      "sha256": "4c6752988860d6f20f1864daac00548cadd07de3d0f2d2441471b369252f79e7"
     },
     "lanai-property-appeal-of-planning-director-decision.json": {
       "updatedAt": "2026-11-03T10:26:14.177Z",
@@ -494,8 +494,8 @@
       "sha256": "478a02ec48b487105cc725f78692af63497e8b1b23e7e81267fa6d296ee6b207"
     },
     "three-dhhl-wells-on-hawaiian-home-lands.json": {
-      "updatedAt": "2026-11-04T07:52:13.461Z",
-      "sha256": "d0232e4758895d37fc83f694459fc33186740275d43400a46ac02056f069bd73"
+      "updatedAt": "2026-11-04T08:26:11.688Z",
+      "sha256": "2bee91955f103b1cd184e64e7ace6794b38e601599136e294f75f334f58b9437"
     },
     "three-lanai-planning-commission-seats-opening.json": {
       "updatedAt": "2026-11-03T10:26:14.177Z",
@@ -654,8 +654,8 @@
       "sha256": "eefe7e1e5d5f536511362abe44e220f9a8512059f54c986831b26113ae517bd2"
     },
     "cost-of-government-review-of-county-boards.json": {
-      "updatedAt": "2026-11-04T07:52:13.461Z",
-      "sha256": "772065e536accbeb4a7b01f7341929fc6741c939e6d1edd1808a5e4d0416e40a"
+      "updatedAt": "2026-11-04T08:26:11.688Z",
+      "sha256": "c83831a2742bd129c9e021c6bda70ed90687217cdb7fdea9cb59ae3f2399bcbf"
     },
     "county-buying-private-west-maui-water-systems.json": {
       "updatedAt": "2026-11-03T12:26:11.503Z",
@@ -674,12 +674,12 @@
       "sha256": "e58a253c498215a380fdb1d5ea153b0f51c4aeffa1a5a643fde9ce5c2a0f3f57"
     },
     "emergency-rule-for-relocating-fire-destroyed-liquor-licenses.json": {
-      "updatedAt": "2026-11-04T07:52:13.461Z",
-      "sha256": "a216a6ee27a2f243e13cf8a54a07b79b381e7a590404581bc0a22433de28fe4a"
+      "updatedAt": "2026-11-04T08:26:11.688Z",
+      "sha256": "b20930d7f476afbb283188bf9001edd2ae2d1c9819e0498d12cb49cdaf64e55f"
     },
     "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p.json": {
-      "updatedAt": "2026-11-04T07:52:13.461Z",
-      "sha256": "b8733dfe97a031bce60c6264b3810d76933f4ff422fcd8f8562743c58756b98b"
+      "updatedAt": "2026-11-04T08:26:11.688Z",
+      "sha256": "b7187acdd2f5aecc94d218af327d888530e7b314691c81c3c7ae61cb699d65a6"
     },
     "ethics-bills-on-nepotism-lobbyists-and-ex-employees.json": {
       "updatedAt": "2026-11-03T10:26:14.177Z",
@@ -714,8 +714,8 @@
       "sha256": "62937c5e2259b67ed4173489751b5475c2252aa253db3fac2e00ca59299b63ed"
     },
     "full-rewrite-of-county-liquor-rules.json": {
-      "updatedAt": "2026-11-03T10:26:14.177Z",
-      "sha256": "e568fe4a96736946230f518fc94a1d11724c34286572070a78923dd91cdcab24"
+      "updatedAt": "2026-11-04T08:26:11.688Z",
+      "sha256": "f36d71da1b5fc164344460712e610cff7eab8a5a7ffec9f6af10171dd056aab6"
     },
     "industrial-growth-boundary-change-in-bill-139.json": {
       "updatedAt": "2026-11-03T10:26:14.177Z",
@@ -758,8 +758,8 @@
       "sha256": "bb022221c2e70017813fd2bffcb078ff1b217c2a7a11601aa1ddbeb89902bddf"
     },
     "molokai-landfill-limits-for-hazardous-and-disaster-debris.json": {
-      "updatedAt": "2026-11-03T10:26:14.177Z",
-      "sha256": "777c7f569d06d4cbb586a90b549f240af7b27a3fbf34dbbe7f8f137ab7107f96"
+      "updatedAt": "2026-11-04T08:26:11.688Z",
+      "sha256": "42d37eefad4b799a8480886d8c4d6686e7027dd6b0304a42462df7639862486c"
     },
     "new-county-emergency-operations-center.json": {
       "updatedAt": "2026-11-03T10:26:14.177Z",
@@ -962,8 +962,8 @@
       "sha256": "374c2bfdb791689da3c2755d7f9fc29913f45543de7ae3d6aa35787f13b503de"
     },
     "haiku-fire-station-awaits-county-council-approval.json": {
-      "updatedAt": "2026-11-04T07:52:13.461Z",
-      "sha256": "44447077ca25adaa90659c634508cd8dd2a9ffbb695c84b00e98bd89ecb0f4dc"
+      "updatedAt": "2026-11-04T08:26:11.688Z",
+      "sha256": "b4345ab2a03823a4d457dbb2407cab09e275b7fe834e18288627b73755c11ce9"
     },
     "east-maui-water-board-budget-and-staffing-requests.json": {
       "updatedAt": "2026-11-03T10:26:14.177Z",

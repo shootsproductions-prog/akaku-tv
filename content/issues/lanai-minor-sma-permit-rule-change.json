@@ -1,7 +1,7 @@
 {
   "slug": "lanai-minor-sma-permit-rule-change",
   "title": "Lānaʻi minor SMA permit rule change",
-  "summary": "The planning department plans to approve a special management area (SMA) minor permit for a private event at the Four Seasons luau grounds on October 10th. Staff said no commission vote was needed because the rule change is not yet official. That change, which would let the commission review minor Special Management Area (SMA) permits, goes to the mayor and county clerk and takes effect within 10 business days of the clerk receiving it.",
+  "summary": "Staff said on October 21 that the changes to the commission's Special Management Area (SMA) minor permit rules are at about step 13 of 15, and they will email the chair a list of what remains. The rules were expected to be done by September but are not yet official. In the meantime, the department has brought minor permits to the commission, such as a private event at the Four Seasons luau grounds, which it plans to approve without a formal vote.",
   "topics": [
     "land-use",
     "government"
@@ -9,11 +9,11 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-05-20",
-  "lastSeenISO": "2026-09-16",
+  "lastSeenISO": "2026-10-21",
   "signals": {
-    "meetingsLast30d": 0,
-    "meetingsLast90d": 2,
-    "mentionsLast30d": 0,
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 3,
+    "mentionsLast30d": 2,
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-03",
@@ -26,6 +26,32 @@
   ],
   "bills": [],
   "timeline": [
+    {
+      "dateISO": "2026-10-21",
+      "text": "Staff will email the chair a list of what remains to be done on the rule change.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lTfHRBm6PPo",
+        "ts": "0:54:27",
+        "retrievedISO": "2026-11-04T07:35:06.980Z",
+        "endTs": "0:54:59"
+      },
+      "body": "Lānaʻi Planning Commission"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "Staff said changes to the commission's minor permit rules are on about step 13 of 15.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lTfHRBm6PPo",
+        "ts": "0:50:08",
+        "retrievedISO": "2026-11-04T07:35:06.980Z",
+        "endTs": "0:50:38"
+      },
+      "body": "Lānaʻi Planning Commission"
+    },
     {
       "dateISO": "2026-09-16",
       "text": "The department said it plans to approve the permit.",
