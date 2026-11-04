@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T17:22:03.272Z",
+  "generatedAt": "2026-11-04T22:50:24.239Z",
   "areas": [
     {
       "id": "west-maui",
@@ -24,6 +24,66 @@
     }
   ],
   "meetings": [
+    {
+      "videoId": "4Q_kYCC0yMw",
+      "slug": "2024-12-03-dept-of-health-molokai-town-hall",
+      "accent": "#bd6e0f",
+      "thumbnail": "https://i.ytimg.com/vi/4Q_kYCC0yMw/hqdefault.jpg",
+      "title": "Dept. of Health Molokai Town Hall Meeting: December 3, 2024",
+      "dateISO": "2024-12-03",
+      "headline": "State pilot to fly Molokaʻi patients and doctors for non-emergency care",
+      "in60": "The State Department of Health held a town hall on Molokaʻi with the area's State Senator and State Representative to gather input on a $2 million pilot to fly patients off-island and bring providers to Molokaʻi and Lānaʻi for non-emergency care. About 15 community members spoke or asked questions, and more questions came in by QR code. Health staff said the request for proposals should go out on eHawaii.gov at the end of December 2024, with an award in the first quarter of 2025 and the pilot running through 2026. The money will be split between the two islands by population and need. Molokaʻi's exact share, who will run the program, and how insurance reimbursement will work are still undecided. Residents were asked to fill out the online survey by Friday.",
+      "minutes": 86,
+      "parts": 8,
+      "speakers": 17,
+      "participation": {
+        "residents": 14,
+        "organizations": 2,
+        "officials": 3,
+        "committee_members": 0
+      },
+      "votes": 0,
+      "openQuestions": 4,
+      "answered": 0,
+      "areas": [
+        "molokai"
+      ],
+      "issues": [],
+      "moments": 0
+    },
+    {
+      "videoId": "1eqgL4KYGwU",
+      "slug": "2024-07-23-kula-community-fire-preparedness",
+      "accent": "#684532",
+      "thumbnail": "https://i.ytimg.com/vi/1eqgL4KYGwU/hqdefault.jpg",
+      "title": "Kula Community Meeting: Fire Preparedness July 23, 2024",
+      "dateISO": "2024-07-23",
+      "headline": "Kula meeting reviews Crater Road fire response, evacuation alerts and Upcountry water",
+      "in60": "Councilmember Yuki Lei Sugimura hosted a Kula community meeting on fire preparedness after the Crater Road fire, with the Fire Chief, Maui Police, the Maui Emergency Management Agency (MEMA) administrator and the Water Supply director. MEMA said new evacuation software with zone maps and push alerts should be online within about a month, and urged people to sign up for MEMA Alerts, which has about 21,000 subscribers. The Fire Chief said evidence points to an accidental electrical ignition for the Crater Road fire, and that fire code changes would expand fuel clearing from 30 feet up to 100 feet. The Water director said 7 more large generators are being bought and 4 new Upcountry wells studied, but 51 water sites would still lack generators. About two dozen audience questions were answered, mostly from written slips. Still open are a second evacuation route for lower Pukalani, a statewide firefighting aircraft program, and when MEMA will fill 13 open positions.",
+      "minutes": 112,
+      "parts": 9,
+      "speakers": 24,
+      "participation": {
+        "residents": 4,
+        "organizations": 0,
+        "officials": 8,
+        "committee_members": 0
+      },
+      "votes": 0,
+      "openQuestions": 4,
+      "answered": 0,
+      "areas": [
+        "upcountry"
+      ],
+      "issues": [
+        "evacuation-software-and-new-evacuation-zones",
+        "power-shutoffs-during-high-wind-and-low-humidity",
+        "state-fire-code-adoption-with-brush-clearing-fines",
+        "possible-county-purchase-of-maui-land-and-pine-water-assets",
+        "upcountry-water-shortage-conservation-plan"
+      ],
+      "moments": 10
+    },
     {
       "videoId": "OXzFs-r67NA",
       "slug": "2024-06-26-molokai-town-hall",
@@ -953,6 +1013,16 @@
       "to": "2023-12-19"
     },
     {
+      "label": "Backup generators for Upcountry water pump stations",
+      "meetings": [
+        "2023-11-16-kula-disaster-recovery-update",
+        "2024-02-29-upcountry-community-on-hazard-mitigation-and-recovery",
+        "2024-07-23-kula-community-fire-preparedness"
+      ],
+      "from": "2023-11-16",
+      "to": "2024-07-23"
+    },
+    {
       "label": "When owners on cleared Lahaina lots can rebuild",
       "meetings": [
         "2023-12-18-debris-disposal-at-lahaina-civic-center",
@@ -1033,6 +1103,24 @@
       "to": "2023-03-08"
     },
     {
+      "label": "Molokaʻi ferry service",
+      "meetings": [
+        "2024-02-24-molokai-history-project-mid-nite-inn-talk-story-with-john",
+        "2024-12-03-dept-of-health-molokai-town-hall"
+      ],
+      "from": "2024-02-24",
+      "to": "2024-12-03"
+    },
+    {
+      "label": "Overgrown absentee and vacant land as fire hazard",
+      "meetings": [
+        "2024-02-29-upcountry-community-on-hazard-mitigation-and-recovery",
+        "2024-07-23-kula-community-fire-preparedness"
+      ],
+      "from": "2024-02-29",
+      "to": "2024-07-23"
+    },
+    {
       "label": "Slow water testing and clearance for Lahaina homes",
       "meetings": [
         "2024-03-06-lahaina-disaster-recovery-update",
@@ -1049,15 +1137,6 @@
       ],
       "from": "2023-12-06",
       "to": "2024-03-13"
-    },
-    {
-      "label": "Backup generators for Upcountry water pump stations",
-      "meetings": [
-        "2023-11-16-kula-disaster-recovery-update",
-        "2024-02-29-upcountry-community-on-hazard-mitigation-and-recovery"
-      ],
-      "from": "2023-11-16",
-      "to": "2024-02-29"
     },
     {
       "label": "Green waste drop-off facility for Kula and Upcountry",
