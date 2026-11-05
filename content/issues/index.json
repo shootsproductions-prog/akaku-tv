@@ -202,12 +202,15 @@
     "ohana-assistance-program-for-building-family-units.json",
     "proposed-west-maui-critical-access-hospital.json",
     "upcountry-water-meter-waiting-list.json",
-    "water-department-engineer-shortage.json"
+    "water-department-engineer-shortage.json",
+    "firefighter-pay-contract-arbitration-and-mediation.json",
+    "hoonani-village-housing-and-well-funding.json",
+    "voter-service-centers-and-election-use-of-council-chambers.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-11-05T22:02:00.707Z",
-  "etag": "0939f796947d6821afee5a280488d2aa557938eb7cfeb1c7b6d06cf5ffc3204a",
+  "updatedAt": "2026-11-05T22:03:52.547Z",
+  "etag": "afd8dc1f069dbca151b5a8c29224dc754c14d1dc666321f1b6d05fe5a3bef0ac",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-11-05T10:26:13.896Z",
@@ -1020,6 +1023,18 @@
     "water-department-engineer-shortage.json": {
       "updatedAt": "2026-11-05T22:02:00.707Z",
       "sha256": "90ddb53a9819e2f450f48502ff9ca50ea20ed5e07043d85f8e32decaf707f295"
+    },
+    "firefighter-pay-contract-arbitration-and-mediation.json": {
+      "updatedAt": "2026-11-05T22:03:52.547Z",
+      "sha256": "036f4e5d692b804016516b9ce9cb80b46506ea0d3f395800e6426d907a9a8f23"
+    },
+    "hoonani-village-housing-and-well-funding.json": {
+      "updatedAt": "2026-11-05T22:03:52.547Z",
+      "sha256": "41cae92477fcc898788e5876e49ae495afad4341b82bfce1751c61612b087152"
+    },
+    "voter-service-centers-and-election-use-of-council-chambers.json": {
+      "updatedAt": "2026-11-05T22:03:52.547Z",
+      "sha256": "35390d4175570b9d74401bbf5be919e1d426241ae60aa81446a2f33fc1a9b6b6"
     }
   }
 }
