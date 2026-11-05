@@ -1,7 +1,7 @@
 {
   "slug": "industrial-growth-boundary-change-in-bill-139",
   "title": "Industrial growth boundary change in Bill 139",
-  "summary": "The ranch's consultant said the land would be used for recycling, waste processing and light industry. The project would also need a zoning change, with final approval resting with the County Council.",
+  "summary": "A Council committee voted 7-0, with 2 excused, to approve a revised CD1 version of Bill 139 and recommend passing it on first reading. The bill would add 85.57 acres in North Kīhei to the urban growth boundary for recycling, waste processing and light industrial uses. The Maui Planning Commission unanimously recommended approval, but the project still needs a State District Boundary Amendment and a zoning change, and the Council must hold a Maui public hearing.",
   "topics": [
     "land-use"
   ],
@@ -12,7 +12,7 @@
   "signals": {
     "meetingsLast30d": 1,
     "meetingsLast90d": 1,
-    "mentionsLast30d": 2,
+    "mentionsLast30d": 3,
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-04",
@@ -25,7 +25,9 @@
       ]
     }
   ],
-  "bills": [],
+  "bills": [
+    "Bill 139 (2026)"
+  ],
   "timeline": [
     {
       "dateISO": "2026-10-21",
@@ -50,6 +52,19 @@
         "ts": "0:15:06",
         "retrievedISO": "2026-10-22T23:22:27.755Z",
         "endTs": "0:15:36"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "The Maui Planning Commission reviewed the bill on May 27, 2025, and recommended approval.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Och2a4BSkfo",
+        "ts": "0:08:20",
+        "retrievedISO": "2026-10-22T23:22:27.755Z",
+        "endTs": "0:08:50"
       },
       "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
     }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T08:26:10.332Z",
+  "updatedAt": "2026-11-05T09:18:12.042Z",
   "count": 199,
   "issues": [
     {
@@ -4414,6 +4414,19 @@
         },
         {
           "dateISO": "2026-09-17",
+          "text": "A council member said large amounts of wastewater entering the ocean harm the reef, even without nitrates.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "BQWkZSz0XIo",
+            "ts": "3:57:50",
+            "retrievedISO": "2026-10-16T21:22:57.503Z",
+            "endTs": "3:58:34"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-09-17",
           "text": "A county official said injection wells cannot be eliminated now because state health rules require 100% backup.",
           "basis": "said-at-meeting",
           "source": {
@@ -4435,6 +4448,32 @@
             "ts": "3:47:44",
             "retrievedISO": "2026-10-16T21:22:57.503Z",
             "endTs": "3:48:21"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "Parks staff said South Maui Regional Park is fully connected to recycled water.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "BQWkZSz0XIo",
+            "ts": "3:40:46",
+            "retrievedISO": "2026-10-16T21:22:57.503Z",
+            "endTs": "3:41:16"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "A council member said many hotels and commercial properties already have separate irrigation meters.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "BQWkZSz0XIo",
+            "ts": "3:37:37",
+            "retrievedISO": "2026-10-16T21:22:57.503Z",
+            "endTs": "3:38:07"
           },
           "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
         },
@@ -4539,6 +4578,19 @@
             "ts": "1:38:29",
             "retrievedISO": "2026-10-16T21:22:57.503Z",
             "endTs": "1:39:37"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-09-17",
+          "text": "Another testifier urged the county to stop building in flood zones and wetlands.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "BQWkZSz0XIo",
+            "ts": "1:03:15",
+            "retrievedISO": "2026-10-16T21:22:57.503Z",
+            "endTs": "1:03:45"
           },
           "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
         },
@@ -7472,7 +7524,7 @@
     {
       "slug": "bills-163-and-164-for-163-acre-central-maui-growth",
       "title": "Bills 163 and 164 for 163-acre Central Maui growth",
-      "summary": "On September 29, the Council passed Bills 163 and 164 nine to zero, after a September 3 public hearing. Bill 163 CD1 adds a 163.443-acre Kahului parcel portion to the urban growth boundary, and Bill 164 CD1 changes it from Agriculture to Business Multifamily for the Hoʻonani Village housing project. Testifiers raised concerns about water from one untested well, the airport runway, and the unfinished final EIS.",
+      "summary": "On September 29, the Council passed Bills 163 and 164 nine to zero, after a September 3 public hearing. Bill 163 would add 163.443 acres in Kahului to the urban growth boundary, and Bill 164 would change the land from Agriculture to Business Multifamily for the Hoʻonani Village housing project. Testifiers raised concerns about water from a single untested well, the nearby airport flight path, and the unfinished environmental impact statement.",
       "topics": [
         "land-use",
         "housing",
@@ -7780,6 +7832,32 @@
             "quote": "A public hearing on bills to update the Maui Island Plan and Wailuku-Kahului Community Plan for Central Maui's Hoʻonani Village Mixed Use Development is scheduled for Thursday at 4:30 p.m. online and in the Council Chamber, Councilmember Tamara Paltin announced today.",
             "retrievedISO": "2026-10-25T01:47:00.291Z"
           }
+        },
+        {
+          "dateISO": "2026-06-19",
+          "text": "A council member said the action would not create housing right away but would continue the conversation.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "lLsXXrEBmuw",
+            "ts": "0:46:52",
+            "retrievedISO": "2026-10-16T18:09:11.606Z",
+            "endTs": "0:47:24"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-06-19",
+          "text": "A council member said housing is needed more now than ever, with families living in cars and at the beach.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "lLsXXrEBmuw",
+            "ts": "0:43:58",
+            "retrievedISO": "2026-10-16T18:09:11.606Z",
+            "endTs": "0:44:32"
+          },
+          "body": "County Council Meeting"
         },
         {
           "dateISO": "2026-06-19",
@@ -15232,7 +15310,7 @@
     {
       "slug": "power-shutoffs-during-high-wind-and-low-humidity",
       "title": "Power shutoffs during high wind and low humidity",
-      "summary": "At the latest meeting, on September 30, 2026, a council member said the power company shuts off power when wind is over 45 miles per hour and humidity is under 45 percent. This matches what the company said on November 14, 2024, when it listed drought, gusts of 45 mph or more, and humidity below 45% as factors. At that time a shutoff was possible as early as Friday, and people relying on powered medical equipment were urged to fill out a medical needs form.",
+      "summary": "At the September 30, 2026 meeting, a council member said the power company shuts off power when wind is over 45 miles per hour and humidity is under 45 percent. A guest also asked who is in charge of water and power as Lahaina recovers. In November 2024, the company said shutoffs depend on drought, gusts of 45 mph or more, and humidity below 45%, and urged people who rely on powered medical equipment to fill out a medical needs form.",
       "topics": [
         "public-safety",
         "health"
@@ -15272,6 +15350,19 @@
             "ts": "0:19:47",
             "retrievedISO": "2026-10-16T03:41:33.571Z",
             "endTs": "0:20:17"
+          },
+          "body": "County Council Special Meeting"
+        },
+        {
+          "dateISO": "2026-09-30",
+          "text": "A guest asked who is in charge of water and power as Lahaina recovers.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "oZNc2fyyOPE",
+            "ts": "0:17:47",
+            "retrievedISO": "2026-10-16T03:41:33.571Z",
+            "endTs": "0:18:23"
           },
           "body": "County Council Special Meeting"
         },
@@ -15852,7 +15943,7 @@
     {
       "slug": "spending-the-1-6-billion-federal-recovery-grant",
       "title": "Spending the $1.6 billion federal recovery grant",
-      "summary": "As of late September 2026, the county is spending a $1.6 billion HUD disaster recovery grant, with $1.39 billion obligated and spending projected through 2031. Staff report 577 housing units completed, 400 under construction and 597 in progress, with 83 shopping letters issued in the first-time homebuyer program. Rising infrastructure costs are a key risk, and multifamily rebuilds must give fire survivors priority to move back.",
+      "summary": "Federal disaster recovery money for the Lahaina fire is now being spent on housing and rebuilding. As of August 2026, the county had obligated $1.39 billion of its $1.6 billion HUD grant, and 577 housing units were complete, 400 under construction and 597 in progress. The six-year grant runs through 2031, and rising infrastructure costs are a key risk.",
       "topics": [
         "disaster-recovery",
         "housing"
@@ -19607,7 +19698,7 @@
     {
       "slug": "council-on-aging-four-year-plan",
       "title": "Council on Aging four-year plan",
-      "summary": "The office will spend the next couple of weeks gathering and analyzing survey data, then turn to objectives for the County's four-year area plan on aging. Review of survey data starts in September, and drafting of objectives starts in November. Staff will set up a focus group with the disability community and tell council members the schedule.",
+      "summary": "As of September 8, 2026, the office is gathering and analyzing survey data, then will work on objectives for the four-year plan, with drafting of objectives slated to start in November. Staff will also set up a focus group with the disability community and tell council members the schedule once it is set. The plan covers October 1, 2023, through September 30, 2027, and housing was among older adults' top concerns.",
       "topics": [
         "health",
         "government"
@@ -27077,7 +27168,7 @@
     {
       "slug": "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p",
       "title": "Ending apartment vacation rentals and hotel rezoning of 48 properties",
-      "summary": "On October 23, the Council voted down Resolutions 26-160 and 26-161, which would have sent more condo properties to the Maui Planning Commission for hotel zoning review. The Office of Hawaiian Affairs opposed them and the Maui Vacation Rental Association supported them. The chair said vacation rentals are being phased out of apartment districts, and new hotel districts exist for properties where continued rental use is appropriate.",
+      "summary": "On October 23, the Council voted down sending condo properties to the Maui Planning Commission for hotel zoning review under Resolutions 26-160 and 26-161. The Office of Hawaiian Affairs opposed them and the Maui Vacation Rental Association supported them. Earlier, on September 29, the Council sent a coastal apartment-zoned list to the commission, 5-4, after the commission had approved five of 48 properties from an earlier list.",
       "topics": [
         "housing",
         "land-use"
@@ -28353,6 +28444,19 @@
             "ts": "0:19:27",
             "retrievedISO": "2026-10-16T19:09:53.659Z",
             "endTs": "0:20:01"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-09-09",
+          "text": "The chair said the chair's changes included properties suggested by Members Cook and Sugimura and Chair Lee.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ZLDuSozt67Y",
+            "ts": "0:03:56",
+            "retrievedISO": "2026-10-16T04:43:40.989Z",
+            "endTs": "0:04:26"
           },
           "body": "County Council Housing and Land Use Committee"
         },
@@ -31237,18 +31341,23 @@
         "public-safety",
         "government"
       ],
-      "status": "quiet",
+      "status": "active",
       "pinned": false,
       "firstSeenISO": "2024-10-17",
-      "lastSeenISO": "2024-11-21",
+      "lastSeenISO": "2026-10-15",
       "signals": {
-        "meetingsLast30d": 0,
-        "meetingsLast90d": 0,
-        "mentionsLast30d": 0,
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 1,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-04",
       "boards": [
+        {
+          "name": "Fire Commission",
+          "group": "board",
+          "short": []
+        },
         {
           "name": "Fire and Public Safety Commission",
           "group": "board",
@@ -31257,6 +31366,19 @@
       ],
       "bills": [],
       "timeline": [
+        {
+          "dateISO": "2026-10-15",
+          "text": "The chief presented the department's FY28 budget request.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "6fIOWfH2zPA",
+            "ts": "1:23:45",
+            "retrievedISO": "2026-11-04T07:35:07.900Z",
+            "endTs": "1:24:15"
+          },
+          "body": "Fire Commission"
+        },
         {
           "dateISO": "2024-11-21",
           "text": "Motion to send a letter of support to the mayor for the fire chief's budget: The commission voted to send a letter of support to the mayor for the fire department's budget.",
@@ -31935,7 +32057,7 @@
     {
       "slug": "industrial-growth-boundary-change-in-bill-139",
       "title": "Industrial growth boundary change in Bill 139",
-      "summary": "The ranch's consultant said the land would be used for recycling, waste processing and light industry. The project would also need a zoning change, with final approval resting with the County Council.",
+      "summary": "A Council committee voted 7-0, with 2 excused, to approve a revised CD1 version of Bill 139 and recommend passing it on first reading. The bill would add 85.57 acres in North Kīhei to the urban growth boundary for recycling, waste processing and light industrial uses. The Maui Planning Commission unanimously recommended approval, but the project still needs a State District Boundary Amendment and a zoning change, and the Council must hold a Maui public hearing.",
       "topics": [
         "land-use"
       ],
@@ -31946,7 +32068,7 @@
       "signals": {
         "meetingsLast30d": 1,
         "meetingsLast90d": 1,
-        "mentionsLast30d": 2,
+        "mentionsLast30d": 3,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-04",
@@ -31959,7 +32081,9 @@
           ]
         }
       ],
-      "bills": [],
+      "bills": [
+        "Bill 139 (2026)"
+      ],
       "timeline": [
         {
           "dateISO": "2026-10-21",
@@ -31984,6 +32108,19 @@
             "ts": "0:15:06",
             "retrievedISO": "2026-10-22T23:22:27.755Z",
             "endTs": "0:15:36"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-10-21",
+          "text": "The Maui Planning Commission reviewed the bill on May 27, 2025, and recommended approval.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Och2a4BSkfo",
+            "ts": "0:08:20",
+            "retrievedISO": "2026-10-22T23:22:27.755Z",
+            "endTs": "0:08:50"
           },
           "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
         }
@@ -34010,7 +34147,7 @@
     {
       "slug": "possible-county-purchase-of-maui-land-and-pine-water-assets",
       "title": "Possible county purchase of Maui Land and Pine water assets",
-      "summary": "On Aug. 19, the committee voted 7–0 to meet privately on buying an irrigation company's water assets, after the chair deferred the item. The chair said this covers the non-potable side, since the potable side was already voted on.",
+      "summary": "On August 19, the committee voted 7–0 to go into closed session on buying an irrigation company's non-potable water assets, after the chair deferred the open item. The county wants the system and about $2.9 million in improvements after closing. An MOU with Maui Land and Pineapple Company from May 18, 2026 runs to May 2027, and the council must approve any final purchase.",
       "topics": [
         "water",
         "land-use"
@@ -34624,6 +34761,19 @@
             "endTs": "2:58:41"
           },
           "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-07-07",
+          "text": "A testifier said water is a public trust resource, but the infrastructure is owned by private entities.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "NJzgJmRuAug",
+            "ts": "1:09:40",
+            "retrievedISO": "2026-10-16T20:08:41.455Z",
+            "endTs": "1:10:20"
+          },
+          "body": "County Council Meeting"
         }
       ],
       "sourceTypes": [
@@ -35206,7 +35356,7 @@
     {
       "slug": "safe-parking-sites-for-people-living-in-cars",
       "title": "Safe parking sites for people living in cars",
-      "summary": "Bill 133 had no vote yet as of October 23, when the meeting video ended at a recess. It would let vehicles that are not fully registered join the safe parking pilot and expand the county properties people may use. An amendment lets the county approve cooking at sites.",
+      "summary": "On October 23, Bill 133 was still pending, with no vote before a ten-minute recess. It would let vehicles that are not fully registered join the safe parking pilot and expand the county properties where people may temporarily live in vehicles. An amendment lets the county approve cooking at sites.",
       "topics": [
         "housing",
         "public-safety"
@@ -36240,6 +36390,19 @@
             "ts": "0:41:48",
             "retrievedISO": "2026-10-16T17:42:17.592Z",
             "endTs": "0:42:18"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-06-29",
+          "text": "A testifier asked the county to cut through bureaucracy and act with more urgency.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "BbyOo3hFFbE",
+            "ts": "0:36:54",
+            "retrievedISO": "2026-10-16T17:42:17.592Z",
+            "endTs": "0:37:24"
           },
           "body": "County Council Water Authority, Social Services, and Parks Committee"
         },
@@ -38977,7 +39140,7 @@
     {
       "slug": "wildfire-survivor-health-study-findings",
       "title": "Wildfire survivor health study findings",
-      "summary": "On Oct. 9, a researcher testified about youth depression and anxiety symptoms, and the resolution says the study covers survivors' physical and mental health, child development and recovery. At the Aug. 31 update, researchers said recovery is uneven: employment and insurance improved, but about 23% remain severely food insecure. They seek free screening sites for Hoʻala, which would serve 1,000 more residents from January.",
+      "summary": "On October 9, 2026, a researcher testified about youth depression and anxiety symptoms in the Maui wildfire exposure study, which examines survivors' physical and mental health, child development and recovery. At the August 31 update, researchers said recovery is uneven: employment and insurance improved, but food insecurity stays high and many adults remain in temporary housing. They asked council members to help find sites for free Hoʻala screenings starting in January.",
       "topics": [
         "health",
         "disaster-recovery",
@@ -40244,7 +40407,7 @@
     {
       "slug": "water-system-development-fee-based-on-daily-use",
       "title": "Water system development fee based on daily use",
-      "summary": "On June 5, 2026, a budget amendment aligned the Water Supply water fund section with the proposed Bill 76 changes, and the water system development fee changes take effect July 1, 2026. Bill 76 bases the fee on average daily demand, not meter size, and was set for second and final reading that day. Properties already legally connected would not pay again, and future budgets plan 2 to 3 percent yearly increases.",
+      "summary": "On June 5, 2026, a budget amendment aligned the Water Supply water fund section with the proposed Bill 76 changes, and the water system development fee changes take effect July 1, 2026. Bill 76 bases the fee on average daily demand rather than meter size, and it was scheduled for second and final reading that day. Properties already legally connected would not pay again, and staff said a small single-family meter fee would be much the same.",
       "topics": [
         "water",
         "housing"
@@ -40502,7 +40665,7 @@
     {
       "slug": "county-funding-for-lahaina-community-land-trust",
       "title": "County funding for Lahaina Community Land Trust",
-      "summary": "On April 21, a council member proposed a $6 million grant to the Lahaina Community Land Trust to help wildfire survivors and homeowners with a gap in rebuilding money. She said the trust raised over $9.5 million using the County's first $6 million. Earlier, Bill 4 moved $5 million from the Open Space Fund to the trust, and testifiers urged restoring the $6 million.",
+      "summary": "On April 21, a council member proposed a new $6 million grant to the Lahaina Community Land Trust to help wildfire survivors with gaps in rebuilding money. She said the trust raised over $9.5 million using the County's first $6 million. Earlier, the council gave the trust $5 million in managed retreat funds, and testifiers asked that $6 million in unrestricted funding be restored.",
       "topics": [
         "housing",
         "disaster-recovery"
@@ -41212,7 +41375,7 @@
     {
       "slug": "bill-87-extending-temporary-structure-permits-to-five-years",
       "title": "Bill 87 extending temporary structure permits to five years",
-      "summary": "On July 19, the council postponed County Communication 24-23, a proposed amendment to Bill 87, until it took up the bill itself. Bill 87 would let temporary structures allowed under an emergency proclamation stay up to five years, including in the Lahaina burn zone. The current limit is 180 days, which the committee said is too short for displaced residents to rebuild.",
+      "summary": "On October 9, a county engineering manager said temporary permits under the new ordinance last a maximum of five years. Bill 87 lets temporary structures allowed under an emergency proclamation stay up to five years, up from the 180-day limit. Residents had complained that 180 days was too short to rebuild after the August 2023 Lahaina wildfires.",
       "topics": [
         "disaster-recovery",
         "housing"
@@ -41307,7 +41470,7 @@
     {
       "slug": "countys-wildfire-lawsuits-and-global-settlement",
       "title": "County's wildfire lawsuits and global settlement",
-      "summary": "On May 19, 2026, a council committee voted 8-0, with one member excused, to advance Resolution 26-82 to the full council. It adds $240,000 to pay the law firm Myers-Nave for August 2023 wildfire lawsuit work, for a total of up to $740,000. The insurer agreed to pay $521,000 of the firm's $854,000 bill.",
+      "summary": "On May 19, 2026, a council committee voted 8-0, with one member excused, to adopt Resolution 26-82, which now goes to the full council. It adds $240,000 to pay the law firm Myers-Nave for August 2023 wildfire lawsuit work, for a total of up to $740,000. The insurer agreed to pay $521,000 of the firm's $854,000 bill, and the County cut another $93,000.",
       "topics": [
         "disaster-recovery",
         "government"
@@ -41708,7 +41871,7 @@
     {
       "slug": "emergency-fund-money-for-march-2026-storm-damage",
       "title": "Emergency fund money for March 2026 storm damage",
-      "summary": "Officials expect to return sometime in fiscal 27 with a budget amendment to cover the funding need. In April, the committee cut the emergency fund by the $32 million already authorized for the storms, and the budget director said that $32 million is not available. A bill raising the emergency amount from $12 million to $32 million was set for second reading May 1st.",
+      "summary": "As of October 20, an administration official said no more emergency fund requests are expected for now. In June, officials said they expect to return in fiscal 27 with a budget amendment to cover the funding need. In April, the committee cut the emergency fund by $32 million already authorized for the storms, leaving $85,851,900, and a bill raising the storm amount from $12 million to $32 million was set for second reading May 1st.",
       "topics": [
         "disaster-recovery",
         "government"
@@ -41716,27 +41879,27 @@
       "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-04-17",
-      "lastSeenISO": "2026-06-17",
+      "lastSeenISO": "2026-10-20",
       "signals": {
-        "meetingsLast30d": 0,
-        "meetingsLast90d": 0,
-        "mentionsLast30d": 0,
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 1,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-04",
       "boards": [
         {
-          "name": "Disaster Recovery, International Affairs, and Planning Committee",
-          "group": "council",
-          "short": [
-            "DRIP"
-          ]
-        },
-        {
           "name": "Budget, Finance, and Economic Development Committee",
           "group": "council",
           "short": [
             "BFED"
+          ]
+        },
+        {
+          "name": "Disaster Recovery, International Affairs, and Planning Committee",
+          "group": "council",
+          "short": [
+            "DRIP"
           ]
         },
         {
@@ -41749,6 +41912,19 @@
         "Bill 74 (2026)"
       ],
       "timeline": [
+        {
+          "dateISO": "2026-10-20",
+          "text": "An administration official said no more emergency fund requests are expected right now.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "WtAb16g87L8",
+            "ts": "1:24:43",
+            "retrievedISO": "2026-10-23T00:27:33.159Z",
+            "endTs": "1:25:22"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
         {
           "dateISO": "2026-06-17",
           "text": "Officials expect to come back sometime in fiscal 27 with a budget amendment to cover the funding need.",
@@ -41811,6 +41987,19 @@
             "ts": "7:08:34",
             "retrievedISO": "2026-10-17T01:31:18.022Z",
             "endTs": "7:09:04"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-22",
+          "text": "The budget director warned that funds set aside for recent storm recovery may not be reimbursable.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "IxdQajY2dxI",
+            "ts": "3:38:03",
+            "retrievedISO": "2026-10-19T23:28:29.964Z",
+            "endTs": "3:38:44"
           },
           "body": "County Council Budget, Finance, and Economic Development Committee"
         },
@@ -43221,7 +43410,7 @@
     {
       "slug": "kihei-former-institute-property-housing-redevelopment",
       "title": "Kīhei former institute property housing redevelopment",
-      "summary": "The county is now choosing a developer to receive a sublease to develop the interim housing property. The housing department issued a request for proposals in March to redevelop the site. The housing director noted that the facility housed wildfire survivors when it first filled.",
+      "summary": "On April 6, 2026, the county said it is choosing a developer to get a sublease to redevelop the Kīhei interim housing property, after the housing department issued an RFP in March. County money would keep the program, which first housed wildfire survivors, running through February of next year. The county holds a 75-year ground lease on the former hotel, which the state bought for $45 million.",
       "topics": [
         "housing"
       ],
@@ -43283,6 +43472,19 @@
             "ts": "2:57:23",
             "retrievedISO": "2026-10-17T04:46:58.271Z",
             "endTs": "2:57:53"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-06",
+          "text": "County money would keep an interim housing program that first housed wildfire survivors running through February of next year.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "YGuzDd85eAQ",
+            "ts": "2:56:25",
+            "retrievedISO": "2026-10-17T04:46:58.271Z",
+            "endTs": "2:56:56"
           },
           "body": "County Council Budget, Finance, and Economic Development Committee"
         }
@@ -44651,7 +44853,7 @@
     {
       "slug": "county-worker-vacancies-and-hr-consultant-review",
       "title": "County worker vacancies and HR consultant review",
-      "summary": "As of early October 2026, a commissioner said urgent work remains on vacancies, recruitment, retention and HR reform, and the acting director said turnover is higher than usual and the county does too few exit interviews. A consultant's review of recruitment, hiring, classification and reorganization is under way, and the county had 962 open positions in July. A two-year HR services contract with Guidehouse aims to speed up hiring.",
+      "summary": "On October 8, a commissioner said urgent work lies ahead on vacancies, recruitment, retention and HR reform, after the acting director said turnover is higher than usual and the county does not do enough exit interviews. A consultant's review of recruitment, hiring, classification and reorganization is under way. In July the county had 962 open positions, but departments had sent only 335 requests to fill them.",
       "topics": [
         "government",
         "economy"
@@ -45131,7 +45333,7 @@
     {
       "slug": "haiku-fire-station-awaits-county-council-approval",
       "title": "Haʻikū fire station awaits County Council approval",
-      "summary": "The Haʻikū Fire Station still awaits placement on a County Council agenda, and the chief will notify commissioners once it is scheduled. On August 24, the committee recommended Bills 90 and 91 on first reading, with a condition that the parcel's remaining farm land be used for subsistence agriculture. The station would use about 6.1 acres of a 27.9-acre county-owned parcel, and title and burial concerns have been raised.",
+      "summary": "The Haʻikū Fire Station still awaits placement on a County Council agenda, and the chief will notify commissioners once it is scheduled. On August 24, a council committee recommended Bills 90 and 91 for first reading, requiring the parcel's remaining farm land to be used for subsistence agriculture. The station would use about 6.1 acres of a 27.9-acre county-owned site, and title and burial concerns have been raised.",
       "topics": [
         "public-safety"
       ],
@@ -45253,6 +45455,19 @@
             "ts": "2:11:04",
             "retrievedISO": "2026-10-16T15:22:31.337Z",
             "endTs": "2:11:34"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-24",
+          "text": "Staff agreed to add the full June 5 council testimony packet to the committee item.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MGkdTfx_zJI",
+            "ts": "2:01:08",
+            "retrievedISO": "2026-10-16T15:22:31.337Z",
+            "endTs": "2:01:51"
           },
           "body": "County Council Housing and Land Use Committee"
         },
@@ -45720,7 +45935,7 @@
     {
       "slug": "east-maui-water-board-budget-and-staffing-requests",
       "title": "East Maui water board budget and staffing requests",
-      "summary": "The director will bring next year's budget to the board in October, and a finance committee the director suggested could be added to an agenda. In April the committee cut $26,998 from the East Maui Water Authority's new-position funding by trimming two months from each position. The authority has nine employees in eight positions, since two are half-time.",
+      "summary": "The East Maui Water Authority's director is due to bring next year's budget to the board at its October meeting, and a finance committee the director suggested could go on a coming agenda. In April, the committee cut $26,998 from new-position funding by trimming two months from each position, after a planner proposal added $39,882 for six months of salary. The authority has nine employees in eight positions.",
       "topics": [
         "water",
         "government"
@@ -45800,6 +46015,19 @@
             "ts": "5:17:12",
             "retrievedISO": "2026-10-17T02:43:47.704Z",
             "endTs": "5:18:02"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-20",
+          "text": "The planner proposal added $39,882 for six months of salary.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "BsZX-gnBZU8",
+            "ts": "5:12:27",
+            "retrievedISO": "2026-10-17T02:43:47.704Z",
+            "endTs": "5:13:14"
           },
           "body": "County Council Budget, Finance, and Economic Development Committee"
         },
@@ -46847,7 +47075,7 @@
     {
       "slug": "county-food-and-nutrition-security-plan-law",
       "title": "County Food and Nutrition Security Plan law",
-      "summary": "On September 4, Bill 98 passed final reading, eight to zero, creating a County Code chapter for a Food and Nutrition Security Plan. The Maui County Farm Bureau, which had asked in August for a delay, said it fully supports the bill, and the committee chair reached out about its concerns. The bill requires an online dashboard to track progress, and the managing director would manage and update the plan.",
+      "summary": "Bill 98, creating a Food and Nutrition Security Plan in the County Code, passed final reading 8-0 on September 4. The Maui County Farm Bureau, which had asked in August for a delay, said it fully supports the bill, and the committee chair reached out about its concerns. The bill requires an online dashboard to track progress, and each five-year plan update goes to the council.",
       "topics": [
         "food-security"
       ],

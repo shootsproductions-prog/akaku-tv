@@ -1,7 +1,7 @@
 {
   "slug": "power-shutoffs-during-high-wind-and-low-humidity",
   "title": "Power shutoffs during high wind and low humidity",
-  "summary": "At the latest meeting, on September 30, 2026, a council member said the power company shuts off power when wind is over 45 miles per hour and humidity is under 45 percent. This matches what the company said on November 14, 2024, when it listed drought, gusts of 45 mph or more, and humidity below 45% as factors. At that time a shutoff was possible as early as Friday, and people relying on powered medical equipment were urged to fill out a medical needs form.",
+  "summary": "At the September 30, 2026 meeting, a council member said the power company shuts off power when wind is over 45 miles per hour and humidity is under 45 percent. A guest also asked who is in charge of water and power as Lahaina recovers. In November 2024, the company said shutoffs depend on drought, gusts of 45 mph or more, and humidity below 45%, and urged people who rely on powered medical equipment to fill out a medical needs form.",
   "topics": [
     "public-safety",
     "health"
@@ -41,6 +41,19 @@
         "ts": "0:19:47",
         "retrievedISO": "2026-10-16T03:41:33.571Z",
         "endTs": "0:20:17"
+      },
+      "body": "County Council Special Meeting"
+    },
+    {
+      "dateISO": "2026-09-30",
+      "text": "A guest asked who is in charge of water and power as Lahaina recovers.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oZNc2fyyOPE",
+        "ts": "0:17:47",
+        "retrievedISO": "2026-10-16T03:41:33.571Z",
+        "endTs": "0:18:23"
       },
       "body": "County Council Special Meeting"
     },

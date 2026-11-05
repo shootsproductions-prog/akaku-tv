@@ -2328,6 +2328,19 @@
     },
     {
       "dateISO": "2026-09-17",
+      "text": "A council member said large amounts of wastewater entering the ocean harm the reef, even without nitrates.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BQWkZSz0XIo",
+        "ts": "3:57:50",
+        "retrievedISO": "2026-10-16T21:22:57.503Z",
+        "endTs": "3:58:34"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-17",
       "text": "A county official said injection wells cannot be eliminated now because state health rules require 100% backup.",
       "basis": "said-at-meeting",
       "source": {
@@ -2349,6 +2362,32 @@
         "ts": "3:47:44",
         "retrievedISO": "2026-10-16T21:22:57.503Z",
         "endTs": "3:48:21"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-17",
+      "text": "Parks staff said South Maui Regional Park is fully connected to recycled water.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BQWkZSz0XIo",
+        "ts": "3:40:46",
+        "retrievedISO": "2026-10-16T21:22:57.503Z",
+        "endTs": "3:41:16"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-17",
+      "text": "A council member said many hotels and commercial properties already have separate irrigation meters.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BQWkZSz0XIo",
+        "ts": "3:37:37",
+        "retrievedISO": "2026-10-16T21:22:57.503Z",
+        "endTs": "3:38:07"
       },
       "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
     },
@@ -2453,6 +2492,19 @@
         "ts": "1:38:29",
         "retrievedISO": "2026-10-16T21:22:57.503Z",
         "endTs": "1:39:37"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-17",
+      "text": "Another testifier urged the county to stop building in flood zones and wetlands.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "BQWkZSz0XIo",
+        "ts": "1:03:15",
+        "retrievedISO": "2026-10-16T21:22:57.503Z",
+        "endTs": "1:03:45"
       },
       "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
     },
