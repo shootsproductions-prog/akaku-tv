@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T10:26:13.896Z",
+  "updatedAt": "2026-11-05T12:26:10.990Z",
   "count": 199,
   "issues": [
     {
@@ -2097,9 +2097,9 @@
       "firstSeenISO": "2024-10-08",
       "lastSeenISO": "2026-10-08",
       "signals": {
-        "meetingsLast30d": 2,
+        "meetingsLast30d": 1,
         "meetingsLast90d": 12,
-        "mentionsLast30d": 6,
+        "mentionsLast30d": 3,
         "upcomingEvent": {
           "dateISO": "2026-11-18",
           "what": "Plan discussion will continue",
