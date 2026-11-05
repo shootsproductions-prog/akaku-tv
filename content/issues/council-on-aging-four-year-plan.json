@@ -8,7 +8,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-07-14",
+  "firstSeenISO": "2024-12-10",
   "lastSeenISO": "2026-09-08",
   "signals": {
     "meetingsLast30d": 0,
@@ -21,6 +21,11 @@
     {
       "name": "Council on Aging",
       "group": "board",
+      "short": []
+    },
+    {
+      "name": "Maui County Council",
+      "group": "council",
       "short": []
     }
   ],
@@ -62,6 +67,32 @@
         "retrievedISO": "2026-10-13T06:35:11.668Z",
         "endTs": "1:15:29"
       }
+    },
+    {
+      "dateISO": "2024-12-10",
+      "text": "If there is a quorum at the next meeting, the council can discuss and vote on the report.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tIlhGGGNiiQ",
+        "ts": "0:52:46",
+        "retrievedISO": "2026-10-15T06:35:14.494Z",
+        "endTs": "0:53:16"
+      },
+      "body": "Maui County Council"
+    },
+    {
+      "dateISO": "2024-12-10",
+      "text": "Motion to approve the report and authorize the chair to sign it: No vote was taken on the motion because the council no longer had a quorum.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "tIlhGGGNiiQ",
+        "ts": "0:51:56",
+        "retrievedISO": "2026-10-15T06:35:14.494Z",
+        "endTs": "0:52:56"
+      },
+      "body": "Maui County Council"
     }
   ],
   "sourceTypes": [

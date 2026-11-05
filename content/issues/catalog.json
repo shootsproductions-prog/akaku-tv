@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T12:28:13.990Z",
+  "updatedAt": "2026-11-05T08:26:10.332Z",
   "count": 199,
   "issues": [
     {
@@ -6086,6 +6086,19 @@
             "ts": "1:47:18",
             "retrievedISO": "2026-10-15T06:35:37.723Z",
             "endTs": "1:47:48"
+          },
+          "body": "Maui Planning Commission"
+        },
+        {
+          "dateISO": "2024-10-22",
+          "text": "The planning department reminded commissioners to watch the South Maui advisory committee's housing forum.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "1Vfea2KJerM",
+            "ts": "1:46:50",
+            "retrievedISO": "2026-10-15T06:35:37.723Z",
+            "endTs": "1:47:20"
           },
           "body": "Maui Planning Commission"
         },
@@ -16243,6 +16256,19 @@
         },
         {
           "dateISO": "2025-03-11",
+          "text": "The County may use disaster recovery money as a last option for a West Maui project with four wells.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "dgEPJUYuZJw",
+            "ts": "0:11:34",
+            "retrievedISO": "2026-10-21T15:08:08.552Z",
+            "endTs": "0:12:32"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2025-03-11",
           "text": "The administrator said this grant is the funding of last resort that fills the gap left by insurance, nonprofits and other federal programs.",
           "basis": "said-at-meeting",
           "source": {
@@ -19588,7 +19614,7 @@
       ],
       "status": "active",
       "pinned": false,
-      "firstSeenISO": "2026-07-14",
+      "firstSeenISO": "2024-12-10",
       "lastSeenISO": "2026-09-08",
       "signals": {
         "meetingsLast30d": 0,
@@ -19601,6 +19627,11 @@
         {
           "name": "Council on Aging",
           "group": "board",
+          "short": []
+        },
+        {
+          "name": "Maui County Council",
+          "group": "council",
           "short": []
         }
       ],
@@ -19642,6 +19673,32 @@
             "retrievedISO": "2026-10-13T06:35:11.668Z",
             "endTs": "1:15:29"
           }
+        },
+        {
+          "dateISO": "2024-12-10",
+          "text": "If there is a quorum at the next meeting, the council can discuss and vote on the report.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tIlhGGGNiiQ",
+            "ts": "0:52:46",
+            "retrievedISO": "2026-10-15T06:35:14.494Z",
+            "endTs": "0:53:16"
+          },
+          "body": "Maui County Council"
+        },
+        {
+          "dateISO": "2024-12-10",
+          "text": "Motion to approve the report and authorize the chair to sign it: No vote was taken on the motion because the council no longer had a quorum.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tIlhGGGNiiQ",
+            "ts": "0:51:56",
+            "retrievedISO": "2026-10-15T06:35:14.494Z",
+            "endTs": "0:52:56"
+          },
+          "body": "Maui County Council"
         }
       ],
       "sourceTypes": [
@@ -33595,6 +33652,45 @@
         },
         {
           "dateISO": "2024-10-23",
+          "text": "A planning official said connecting to county wastewater or a septic system is acceptable, as the official understood it.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "KqjXsXpthgE",
+            "ts": "0:30:27",
+            "retrievedISO": "2026-10-15T06:35:35.805Z",
+            "endTs": "0:30:59"
+          },
+          "body": "Molokaʻi Planning Commission"
+        },
+        {
+          "dateISO": "2024-10-23",
+          "text": "A commissioner asked how water lines and a cesspool at the demolition site would be handled.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "KqjXsXpthgE",
+            "ts": "0:24:05",
+            "retrievedISO": "2026-10-15T06:35:35.805Z",
+            "endTs": "0:25:21"
+          },
+          "body": "Molokaʻi Planning Commission"
+        },
+        {
+          "dateISO": "2024-10-23",
+          "text": "The applicant's consultant said a demolition contractor has not been hired yet.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "KqjXsXpthgE",
+            "ts": "0:21:27",
+            "retrievedISO": "2026-10-15T06:35:35.805Z",
+            "endTs": "0:21:57"
+          },
+          "body": "Molokaʻi Planning Commission"
+        },
+        {
+          "dateISO": "2024-10-23",
           "text": "The planning department said it will try to do more outreach to Environmental Management on future demolition permits.",
           "basis": "said-at-meeting",
           "source": {
@@ -41116,7 +41212,7 @@
     {
       "slug": "bill-87-extending-temporary-structure-permits-to-five-years",
       "title": "Bill 87 extending temporary structure permits to five years",
-      "summary": "Bill 87 would let temporary structures allowed under an emergency proclamation remain in place for up to five years. At its July 19, 2024 meeting, the council postponed County Communication 24-23, a proposed amendment to Bill 87, until it takes up the bill itself. One testifier said Bills 87, 105 and 110 would help provide temporary housing.",
+      "summary": "On July 19, the council postponed County Communication 24-23, a proposed amendment to Bill 87, until it took up the bill itself. Bill 87 would let temporary structures allowed under an emergency proclamation stay up to five years, including in the Lahaina burn zone. The current limit is 180 days, which the committee said is too short for displaced residents to rebuild.",
       "topics": [
         "disaster-recovery",
         "housing"
@@ -41124,7 +41220,7 @@
       "status": "quiet",
       "pinned": false,
       "firstSeenISO": "2024-07-19",
-      "lastSeenISO": "2024-07-19",
+      "lastSeenISO": "2024-10-09",
       "signals": {
         "meetingsLast30d": 0,
         "meetingsLast90d": 0,
@@ -41133,6 +41229,11 @@
       },
       "asOfISO": "2026-11-04",
       "boards": [
+        {
+          "name": "County Council Disaster, Resilience, International Affairs, and Planning Committee",
+          "group": "council",
+          "short": []
+        },
         {
           "name": "Maui County Council",
           "group": "council",
@@ -41145,6 +41246,19 @@
         "Bill 110 (2024)"
       ],
       "timeline": [
+        {
+          "dateISO": "2024-10-09",
+          "text": "A county engineering manager said temporary permits under a new ordinance last a maximum of five years.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "XFOvEpVuIu0",
+            "ts": "2:18:35",
+            "retrievedISO": "2026-10-21T13:44:06.198Z",
+            "endTs": "2:19:05"
+          },
+          "body": "County Council Disaster, Resilience, International Affairs, and Planning Committee"
+        },
         {
           "dateISO": "2024-07-19",
           "text": "Bill 87 lets temporary structures allowed under an emergency proclamation stay up to five years.",

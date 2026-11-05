@@ -1,7 +1,7 @@
 {
   "slug": "bill-87-extending-temporary-structure-permits-to-five-years",
   "title": "Bill 87 extending temporary structure permits to five years",
-  "summary": "Bill 87 would let temporary structures allowed under an emergency proclamation remain in place for up to five years. At its July 19, 2024 meeting, the council postponed County Communication 24-23, a proposed amendment to Bill 87, until it takes up the bill itself. One testifier said Bills 87, 105 and 110 would help provide temporary housing.",
+  "summary": "On July 19, the council postponed County Communication 24-23, a proposed amendment to Bill 87, until it took up the bill itself. Bill 87 would let temporary structures allowed under an emergency proclamation stay up to five years, including in the Lahaina burn zone. The current limit is 180 days, which the committee said is too short for displaced residents to rebuild.",
   "topics": [
     "disaster-recovery",
     "housing"
@@ -9,7 +9,7 @@
   "status": "quiet",
   "pinned": false,
   "firstSeenISO": "2024-07-19",
-  "lastSeenISO": "2024-07-19",
+  "lastSeenISO": "2024-10-09",
   "signals": {
     "meetingsLast30d": 0,
     "meetingsLast90d": 0,
@@ -18,6 +18,11 @@
   },
   "asOfISO": "2026-11-04",
   "boards": [
+    {
+      "name": "County Council Disaster, Resilience, International Affairs, and Planning Committee",
+      "group": "council",
+      "short": []
+    },
     {
       "name": "Maui County Council",
       "group": "council",
@@ -30,6 +35,19 @@
     "Bill 110 (2024)"
   ],
   "timeline": [
+    {
+      "dateISO": "2024-10-09",
+      "text": "A county engineering manager said temporary permits under a new ordinance last a maximum of five years.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "XFOvEpVuIu0",
+        "ts": "2:18:35",
+        "retrievedISO": "2026-10-21T13:44:06.198Z",
+        "endTs": "2:19:05"
+      },
+      "body": "County Council Disaster, Resilience, International Affairs, and Planning Committee"
+    },
     {
       "dateISO": "2024-07-19",
       "text": "Bill 87 lets temporary structures allowed under an emergency proclamation stay up to five years.",
