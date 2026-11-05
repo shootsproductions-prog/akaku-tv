@@ -17,73 +17,6 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-05",
-  "timeline": [
-    {
-      "dateISO": "2026-04-22",
-      "text": "A member said the Lānaʻi project with Department of Hawaiian Home Lands (DHHL) would clear the island's housing list.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "IxdQajY2dxI",
-        "ts": "5:49:47",
-        "endTs": "5:50:17",
-        "retrievedISO": "2026-10-19T23:28:29.964Z"
-      },
-      "body": "County Council Budget, Finance, and Economic Development Committee"
-    },
-    {
-      "dateISO": "2026-01-07",
-      "text": "File Resolution 25-233: The council filed an older Lānaʻi ground lease resolution that Resolution 26-4 replaced.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "mJsxaTtDu9Q",
-        "ts": "4:06:54",
-        "endTs": "4:07:43",
-        "retrievedISO": "2026-10-17T11:04:07.310Z"
-      },
-      "body": "County Council Meeting"
-    },
-    {
-      "dateISO": "2026-01-07",
-      "text": "A council member said the lease advances the goal of long-term affordable housing on Lānaʻi.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "mJsxaTtDu9Q",
-        "ts": "2:09:09",
-        "endTs": "2:09:39",
-        "retrievedISO": "2026-10-17T11:04:07.310Z"
-      },
-      "body": "County Council Meeting"
-    },
-    {
-      "dateISO": "2026-01-07",
-      "text": "Resolution 26-4: The council approved a ground lease for a long-term affordable housing project on Lānaʻi.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "mJsxaTtDu9Q",
-        "ts": "2:08:53",
-        "endTs": "2:10:20",
-        "retrievedISO": "2026-10-17T11:04:07.310Z"
-      },
-      "body": "County Council Meeting"
-    },
-    {
-      "dateISO": "2026-01-07",
-      "text": "The developer said a state funding application process starts in February, and land control is a key part of it.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "mJsxaTtDu9Q",
-        "ts": "1:11:58",
-        "endTs": "1:12:28",
-        "retrievedISO": "2026-10-17T11:04:07.310Z"
-      },
-      "body": "County Council Meeting"
-    }
-  ],
   "boards": [
     {
       "name": "Budget, Finance, and Economic Development Committee",
@@ -101,6 +34,76 @@
   "bills": [
     "Resolution 25-233",
     "Resolution 26-4"
+  ],
+  "timeline": [
+    {
+      "dateISO": "2026-04-22",
+      "text": "A member said the Lānaʻi project with Department of Hawaiian Home Lands (DHHL) would clear the island's housing list.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "IxdQajY2dxI",
+        "ts": "5:49:47",
+        "retrievedISO": "2026-10-19T23:28:29.964Z",
+        "endTs": "5:50:17"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-01-07",
+      "text": "File Resolution 25-233: The council filed an older Lānaʻi ground lease resolution that Resolution 26-4 replaced.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mJsxaTtDu9Q",
+        "ts": "4:06:54",
+        "retrievedISO": "2026-10-17T11:04:07.310Z",
+        "endTs": "4:07:43"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-01-07",
+      "text": "A council member said the lease advances the goal of long-term affordable housing on Lānaʻi.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mJsxaTtDu9Q",
+        "ts": "2:09:09",
+        "retrievedISO": "2026-10-17T11:04:07.310Z",
+        "endTs": "2:09:39"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-01-07",
+      "text": "Resolution 26-4: The council approved a ground lease for a long-term affordable housing project on Lānaʻi.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mJsxaTtDu9Q",
+        "ts": "2:08:53",
+        "retrievedISO": "2026-10-17T11:04:07.310Z",
+        "endTs": "2:10:20"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-01-07",
+      "text": "The developer said a state funding application process starts in February, and land control is a key part of it.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "mJsxaTtDu9Q",
+        "ts": "1:11:58",
+        "retrievedISO": "2026-10-17T11:04:07.310Z",
+        "endTs": "1:12:28"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

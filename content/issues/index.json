@@ -212,12 +212,13 @@
     "kanaha-beach-park-graywater-reuse-project.json",
     "new-countywide-water-conservation-ordinance.json",
     "release-of-an-updated-west-maui-water-plan.json",
-    "setting-yearly-property-tax-rates.json"
+    "setting-yearly-property-tax-rates.json",
+    "lanai-fifth-street-affordable-housing-project.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-11-05T22:05:08.031Z",
-  "etag": "28a6923440d5e60a24990e379bbdddc6f1a22e71ee1062687695604ad313390c",
+  "updatedAt": "2026-11-05T22:06:09.420Z",
+  "etag": "72b5b04792e7096fad01ab5bbdb532d6bd45f7ef7772b01124cd1be9d6555bcf",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-11-05T10:26:13.896Z",
@@ -1070,6 +1071,10 @@
     "setting-yearly-property-tax-rates.json": {
       "updatedAt": "2026-11-05T22:05:08.031Z",
       "sha256": "583b1a8d4b607c37c4db95fd07863737b78c7377e553c128d6e6d25eb8c7a22b"
+    },
+    "lanai-fifth-street-affordable-housing-project.json": {
+      "updatedAt": "2026-11-05T22:06:09.420Z",
+      "sha256": "9f91f2231c1b5445f0588fbc95a50a705da90b4efecccde5c39580ba83d135c6"
     }
   }
 }
