@@ -17,47 +17,6 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-05",
-  "timeline": [
-    {
-      "dateISO": "2026-04-21",
-      "text": "A council member said they could talk to the housing department about whether one property can get more than one grant under the rules.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "Adpx8IMDk1I",
-        "ts": "1:10:21",
-        "endTs": "1:10:57",
-        "retrievedISO": "2026-10-17T02:22:55.289Z"
-      },
-      "body": "County Council Budget, Finance, and Economic Development Committee"
-    },
-    {
-      "dateISO": "2026-04-21",
-      "text": "The grants may be up to $100,000 for each qualified Maui County resident in the ʻohana assistance program.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "Adpx8IMDk1I",
-        "ts": "1:08:49",
-        "endTs": "1:09:19",
-        "retrievedISO": "2026-10-17T02:22:55.289Z"
-      },
-      "body": "County Council Budget, Finance, and Economic Development Committee"
-    },
-    {
-      "dateISO": "2026-04-17",
-      "text": "The department said 40% of the ADUs funded by its ʻohana assistance program have two bedrooms.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "cWThkDX_iTA",
-        "ts": "1:09:24",
-        "endTs": "1:09:54",
-        "retrievedISO": "2026-10-17T02:49:45.529Z"
-      },
-      "body": "County Council Meeting"
-    }
-  ],
   "boards": [
     {
       "name": "Budget, Finance, and Economic Development Committee",
@@ -73,5 +32,49 @@
     }
   ],
   "bills": [],
+  "timeline": [
+    {
+      "dateISO": "2026-04-21",
+      "text": "A council member said they could talk to the housing department about whether one property can get more than one grant under the rules.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Adpx8IMDk1I",
+        "ts": "1:10:21",
+        "retrievedISO": "2026-10-17T02:22:55.289Z",
+        "endTs": "1:10:57"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "The grants may be up to $100,000 for each qualified Maui County resident in the ʻohana assistance program.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Adpx8IMDk1I",
+        "ts": "1:08:49",
+        "retrievedISO": "2026-10-17T02:22:55.289Z",
+        "endTs": "1:09:19"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-17",
+      "text": "The department said 40% of the ADUs funded by its ʻohana assistance program have two bedrooms.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "cWThkDX_iTA",
+        "ts": "1:09:24",
+        "retrievedISO": "2026-10-17T02:49:45.529Z",
+        "endTs": "1:09:54"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }
