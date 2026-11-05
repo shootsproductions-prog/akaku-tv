@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-05T08:14:16.502Z",
-  "etag": "fbe056261ffe8cac035288eef8103bc946e7f6d6a69eb265c16a5f29af3102a4",
+  "updatedAt": "2026-11-05T22:02:00.749Z",
+  "etag": "d6654955f681e1902c587c9a55a5c0bc8a763cd526625e04a2a930d487c1ac76",
   "count": 208,
   "meetings": [
     {
@@ -3659,10 +3659,12 @@
       "voteCount": 0,
       "momentCount": 4,
       "issues": [
-        "upcountry-water-shortage-conservation-plan"
+        "upcountry-water-shortage-conservation-plan",
+        "upcountry-water-meter-waiting-list",
+        "water-department-engineer-shortage"
       ],
-      "updatedAt": "2026-10-31T10:02:02.744Z",
-      "sha256": "2435ef0f856f6caaa848ccf244244c6d2ef5f3c907dd817f8bffa8f3a90cc1b4"
+      "updatedAt": "2026-11-05T22:02:00.749Z",
+      "sha256": "32413837e47fe41d3ca0e2017c03d7b50aec8e2ef133c7c236d4b245bf86cf19"
     }
   ]
 }

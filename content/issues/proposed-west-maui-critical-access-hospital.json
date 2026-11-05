@@ -17,6 +17,14 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-05",
+  "boards": [
+    {
+      "name": "Cost of Government Commission Meeting of October 10, 2024",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2024-10-10",
@@ -26,19 +34,14 @@
         "type": "meeting",
         "videoId": "wgl955NfsII",
         "ts": "1:09:17",
-        "endTs": "1:09:49",
-        "retrievedISO": "2026-11-04T07:35:11.374Z"
+        "retrievedISO": "2026-11-04T07:35:11.374Z",
+        "endTs": "1:09:49"
       },
       "body": "Cost of Government Commission Meeting of October 10, 2024"
     }
   ],
-  "boards": [
-    {
-      "name": "Cost of Government Commission Meeting of October 10, 2024",
-      "group": "board",
-      "short": []
-    }
+  "sourceTypes": [
+    "meeting"
   ],
-  "bills": [],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

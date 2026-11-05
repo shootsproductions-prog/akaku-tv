@@ -199,12 +199,15 @@
     "new-west-maui-wells-timeline.json",
     "ocean-safety-officers-arbitration-award-payments.json",
     "county-food-and-nutrition-security-plan-law.json",
-    "ohana-assistance-program-for-building-family-units.json"
+    "ohana-assistance-program-for-building-family-units.json",
+    "proposed-west-maui-critical-access-hospital.json",
+    "upcountry-water-meter-waiting-list.json",
+    "water-department-engineer-shortage.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-11-05T22:01:08.646Z",
-  "etag": "45d7d5fb9404780ab507a5ea5e03e5bc81a4c23d72cef62bf2e55c5b430ff6c9",
+  "updatedAt": "2026-11-05T22:02:00.707Z",
+  "etag": "0939f796947d6821afee5a280488d2aa557938eb7cfeb1c7b6d06cf5ffc3204a",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-11-05T10:26:13.896Z",
@@ -1005,6 +1008,18 @@
     "ohana-assistance-program-for-building-family-units.json": {
       "updatedAt": "2026-11-05T22:01:08.646Z",
       "sha256": "f8c420db1ceb217d76eb5562efda48b740d2c93bc3321fc1d9911cbe2f52505c"
+    },
+    "proposed-west-maui-critical-access-hospital.json": {
+      "updatedAt": "2026-11-05T22:02:00.707Z",
+      "sha256": "f216afe91195bde56d341429820e9ee5ffb5e4469b0f280827c6dcc2cac24ce7"
+    },
+    "upcountry-water-meter-waiting-list.json": {
+      "updatedAt": "2026-11-05T22:02:00.707Z",
+      "sha256": "c00ec1651c62c9a85d7e0415f4bfba85089793b127fc6838a2543d1d4e035181"
+    },
+    "water-department-engineer-shortage.json": {
+      "updatedAt": "2026-11-05T22:02:00.707Z",
+      "sha256": "90ddb53a9819e2f450f48502ff9ca50ea20ed5e07043d85f8e32decaf707f295"
     }
   }
 }
