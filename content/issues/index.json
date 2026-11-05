@@ -207,12 +207,13 @@
     "hoonani-village-housing-and-well-funding.json",
     "voter-service-centers-and-election-use-of-council-chambers.json",
     "drownings-at-unguarded-beaches.json",
-    "lanai-planning-commission-return-to-in-person-meetings.json"
+    "lanai-planning-commission-return-to-in-person-meetings.json",
+    "coconut-rhinoceros-beetle-detections-on-maui.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-11-05T22:04:33.970Z",
-  "etag": "6882301489cb3e857f8485c3593966047417cc2fbf2da4a21f665c27663e568b",
+  "updatedAt": "2026-11-05T22:04:46.287Z",
+  "etag": "30344ccf0a958688a4920ed76c570630f354804c4564d9fac60f5b881365033b",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-11-05T10:26:13.896Z",
@@ -1045,6 +1046,10 @@
     "lanai-planning-commission-return-to-in-person-meetings.json": {
       "updatedAt": "2026-11-05T22:04:33.970Z",
       "sha256": "f246d470f9015dd19352fb00d6b5e8723f40f3094522ebbaec9e57b024f7c324"
+    },
+    "coconut-rhinoceros-beetle-detections-on-maui.json": {
+      "updatedAt": "2026-11-05T22:04:46.287Z",
+      "sha256": "fb6860988adbe73c9678da1b116ea24293cf62c745c667a15a6de767b68e5fc5"
     }
   }
 }

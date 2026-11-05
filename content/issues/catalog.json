@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-05T22:04:33.970Z",
-  "count": 208,
+  "updatedAt": "2026-11-05T22:04:46.287Z",
+  "count": 209,
   "issues": [
     {
       "slug": "2027-mass-nominations-for-county-boards",
@@ -48180,6 +48180,66 @@
             "endTs": "1:05:03"
           },
           "body": "Lānaʻi Planning Commission"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "coconut-rhinoceros-beetle-detections-on-maui",
+      "title": "Coconut rhinoceros beetle detections on Maui",
+      "summary": "The chair said that if the budget cannot cover an increase for invasive species work, the program can return to the administration later. The program reported finding a dead coconut rhinoceros beetle in one of its traps on April 1.",
+      "topics": [
+        "environment",
+        "food-security"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2026-04-16",
+      "lastSeenISO": "2026-04-16",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-05",
+      "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-04-16",
+          "text": "The chair said if the budget cannot cover an invasive species increase, the program can come back to the administration later.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "6B2pNZLPNUM",
+            "ts": "1:31:18",
+            "retrievedISO": "2026-10-17T03:22:27.828Z",
+            "endTs": "1:32:03"
+          },
+          "body": "County Council Public Hearing"
+        },
+        {
+          "dateISO": "2026-04-16",
+          "text": "An invasive species program reported finding a dead coconut rhinoceros beetle in one of its traps on April 1st.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "6B2pNZLPNUM",
+            "ts": "1:24:41",
+            "retrievedISO": "2026-10-17T03:22:27.828Z",
+            "endTs": "1:25:11"
+          },
+          "body": "County Council Public Hearing"
         }
       ],
       "sourceTypes": [
