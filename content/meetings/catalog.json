@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-01T03:11:18.324Z",
-  "etag": "590f1de22932a13cb7e567c52fbf2ed26bada2a6cdc6e41f724daa4f8a031213",
+  "updatedAt": "2026-11-05T08:06:15.254Z",
+  "etag": "740a90384b0647dbd869606d0648ecf4f24aa2e0f195e184d18e8512bce20fef",
   "count": 208,
   "meetings": [
     {
@@ -3639,10 +3639,11 @@
       "momentCount": 5,
       "issues": [
         "lahaina-water-use-permit-applications-and-tig-report",
+        "bill-87-extending-temporary-structure-permits-to-five-years",
         "lahaina-long-term-recovery-plan"
       ],
-      "updatedAt": "2026-10-31T10:02:18.959Z",
-      "sha256": "1748c76a0ce762a9adbdfcbdb01febbbffd59c6fbd317b6214a7d844fc080955"
+      "updatedAt": "2026-11-05T08:06:15.254Z",
+      "sha256": "c8a5d087e96784d47390469e99e7c0821ea25080ec14dfb00987df8876390668"
     },
     {
       "videoId": "Qk0CE0sVrAw",
