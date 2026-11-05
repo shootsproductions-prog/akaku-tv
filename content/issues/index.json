@@ -206,12 +206,13 @@
     "firefighter-pay-contract-arbitration-and-mediation.json",
     "hoonani-village-housing-and-well-funding.json",
     "voter-service-centers-and-election-use-of-council-chambers.json",
-    "drownings-at-unguarded-beaches.json"
+    "drownings-at-unguarded-beaches.json",
+    "lanai-planning-commission-return-to-in-person-meetings.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-11-05T22:04:15.188Z",
-  "etag": "cedb6160a1d52a32b7c8d190adff8ef8850e95b52d7cecb1311220814e5b4edf",
+  "updatedAt": "2026-11-05T22:04:33.970Z",
+  "etag": "6882301489cb3e857f8485c3593966047417cc2fbf2da4a21f665c27663e568b",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-11-05T10:26:13.896Z",
@@ -1040,6 +1041,10 @@
     "drownings-at-unguarded-beaches.json": {
       "updatedAt": "2026-11-05T22:04:15.188Z",
       "sha256": "d27a6722cb1b12d2440d98e933d9a85697144e50fdc44f40798f52bf69e091d8"
+    },
+    "lanai-planning-commission-return-to-in-person-meetings.json": {
+      "updatedAt": "2026-11-05T22:04:33.970Z",
+      "sha256": "f246d470f9015dd19352fb00d6b5e8723f40f3094522ebbaec9e57b024f7c324"
     }
   }
 }

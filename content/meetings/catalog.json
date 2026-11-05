@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-05T22:04:15.227Z",
-  "etag": "430370350a371ee45501b1af0a09af1c65bf6b0f7f79c6e6f58ba2ad659c6343",
+  "updatedAt": "2026-11-05T22:04:34.010Z",
+  "etag": "48c0a76af4fe4a6547feafc755e92b94b00740823392ab8aca6eb1e244b52c1e",
   "count": 208,
   "meetings": [
     {
@@ -2688,10 +2688,11 @@
       "momentCount": 5,
       "issues": [
         "lanai-minor-sma-permit-rule-change",
-        "three-lanai-planning-commission-seats-opening"
+        "three-lanai-planning-commission-seats-opening",
+        "lanai-planning-commission-return-to-in-person-meetings"
       ],
-      "updatedAt": "2026-10-31T10:02:18.959Z",
-      "sha256": "ef663e7cd6e26d1786a06524baf4e26059da06750749e08c4b2ad0e66962d901"
+      "updatedAt": "2026-11-05T22:04:34.010Z",
+      "sha256": "26144308e61880b347de98221ab4107ed47ce392c326e607c5693aa490a69b16"
     },
     {
       "videoId": "R11kAu6emiw",
@@ -3216,10 +3217,11 @@
       "voteCount": 0,
       "momentCount": 4,
       "issues": [
+        "lanai-planning-commission-return-to-in-person-meetings",
         "lanai-city-parking-code-change"
       ],
-      "updatedAt": "2026-11-01T03:10:46.801Z",
-      "sha256": "5cdd1d9ec4a25430755c4e96005524dd3c31f846b8b217db56fbb6114405791f"
+      "updatedAt": "2026-11-05T22:04:34.010Z",
+      "sha256": "926e36a3bf578d623e29544f833676278087ff50187efcb3dbbdcc7ad5817e60"
     },
     {
       "videoId": "EzLmqE78YDk",
