@@ -1,0 +1,126 @@
+{
+  "slug": "east-maui-water-authority-grant-program-funding",
+  "title": "East Maui Water Authority grant program funding",
+  "summary": "The East Maui Water Authority grant program's funding doubled this year to $150,000, and staff said the next round will give out that amount. A $100,000 grant was announced in July, after a foundation committed $100,000 for early planning work. Earlier, the authority awarded $75,000 to five grantees, while requests topped $200,000.",
+  "topics": [
+    "water",
+    "government"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-03-09",
+  "lastSeenISO": "2026-09-18",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-05",
+  "timeline": [
+    {
+      "dateISO": "2026-09-18",
+      "text": "The East Maui Water Authority grant program's funding doubled this year to $150,000.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jggU3kzKFQI",
+        "ts": "0:58:04",
+        "endTs": "0:59:06",
+        "retrievedISO": "2026-10-07T23:03:54.314Z"
+      },
+      "body": "ʻAha Moku o Maui Hikina"
+    },
+    {
+      "dateISO": "2026-07-17",
+      "text": "Staff said the authority's next round of grants will give out $150,000.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oDSa7vE18b8",
+        "ts": "1:19:30",
+        "endTs": "1:20:03",
+        "retrievedISO": "2026-10-09T06:35:04.288Z"
+      },
+      "body": "East Maui Water Board"
+    },
+    {
+      "dateISO": "2026-05-15",
+      "text": "Staff are preparing a proposal with basic financial information for the foundation this month.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6QAT7xS4o6U",
+        "ts": "1:01:09",
+        "endTs": "1:01:39",
+        "retrievedISO": "2026-10-09T06:35:05.182Z"
+      },
+      "body": "East Maui Regional Community Board"
+    },
+    {
+      "dateISO": "2026-05-15",
+      "text": "Staff said a foundation committed $100,000 to the water authority for early planning work.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6QAT7xS4o6U",
+        "ts": "1:00:57",
+        "endTs": "1:01:27",
+        "retrievedISO": "2026-10-09T06:35:05.182Z"
+      },
+      "body": "East Maui Regional Community Board"
+    },
+    {
+      "dateISO": "2026-03-09",
+      "text": "The grant coordinator said grant requests topped $200,000, so not all qualified applicants could be funded.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Gjw_tbHieQw",
+        "ts": "1:38:07",
+        "endTs": "1:38:37",
+        "retrievedISO": "2026-10-17T07:45:16.907Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-03-09",
+      "text": "She said the authority awarded $75,000 to five grantees.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Gjw_tbHieQw",
+        "ts": "1:28:10",
+        "endTs": "1:28:40",
+        "retrievedISO": "2026-10-17T07:45:16.907Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "ʻAha Moku o Maui Hikina",
+      "group": "board",
+      "short": []
+    },
+    {
+      "name": "East Maui Water Board",
+      "group": "board",
+      "short": []
+    },
+    {
+      "name": "East Maui Regional Community Board",
+      "group": "board",
+      "short": []
+    },
+    {
+      "name": "Water Authority, Social Services, and Parks Committee",
+      "group": "council",
+      "short": [
+        "WASSP"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
