@@ -52,7 +52,12 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": [],
+    "trackerIssues": [
+      {
+        "slug": "new-countywide-water-conservation-ordinance",
+        "title": "New countywide water conservation ordinance"
+      }
+    ],
     "boards": [
       {
         "name": "Urban Design Review Board",

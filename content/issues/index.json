@@ -208,12 +208,16 @@
     "voter-service-centers-and-election-use-of-council-chambers.json",
     "drownings-at-unguarded-beaches.json",
     "lanai-planning-commission-return-to-in-person-meetings.json",
-    "coconut-rhinoceros-beetle-detections-on-maui.json"
+    "coconut-rhinoceros-beetle-detections-on-maui.json",
+    "kanaha-beach-park-graywater-reuse-project.json",
+    "new-countywide-water-conservation-ordinance.json",
+    "release-of-an-updated-west-maui-water-plan.json",
+    "setting-yearly-property-tax-rates.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-11-05T22:04:46.287Z",
-  "etag": "30344ccf0a958688a4920ed76c570630f354804c4564d9fac60f5b881365033b",
+  "updatedAt": "2026-11-05T22:05:08.031Z",
+  "etag": "28a6923440d5e60a24990e379bbdddc6f1a22e71ee1062687695604ad313390c",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-11-05T10:26:13.896Z",
@@ -1050,6 +1054,22 @@
     "coconut-rhinoceros-beetle-detections-on-maui.json": {
       "updatedAt": "2026-11-05T22:04:46.287Z",
       "sha256": "fb6860988adbe73c9678da1b116ea24293cf62c745c667a15a6de767b68e5fc5"
+    },
+    "kanaha-beach-park-graywater-reuse-project.json": {
+      "updatedAt": "2026-11-05T22:05:08.031Z",
+      "sha256": "f480665baaddde36caffffdb55c238edb5d86c3031c0c20ee13e5f42d83a441f"
+    },
+    "new-countywide-water-conservation-ordinance.json": {
+      "updatedAt": "2026-11-05T22:05:08.031Z",
+      "sha256": "2ac4bab9f6344fa51cdd7ce130a61f88f306f63dc216ac9630cdc626a387a350"
+    },
+    "release-of-an-updated-west-maui-water-plan.json": {
+      "updatedAt": "2026-11-05T22:05:08.031Z",
+      "sha256": "ac45a8523b2cb311d85f26e8282afb549a5985ee7b12f285a74621c5ba1d5373"
+    },
+    "setting-yearly-property-tax-rates.json": {
+      "updatedAt": "2026-11-05T22:05:08.031Z",
+      "sha256": "583b1a8d4b607c37c4db95fd07863737b78c7377e553c128d6e6d25eb8c7a22b"
     }
   }
 }

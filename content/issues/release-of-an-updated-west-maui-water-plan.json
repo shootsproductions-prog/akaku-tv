@@ -17,21 +17,6 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-05",
-  "timeline": [
-    {
-      "dateISO": "2026-10-15",
-      "text": "The director said a releasable West Maui water plan should be out by the end of the year.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "Qe82vmTlsAk",
-        "ts": "0:40:30",
-        "endTs": "0:41:03",
-        "retrievedISO": "2026-11-04T07:35:02.969Z"
-      },
-      "body": "Board of Water Supply"
-    }
-  ],
   "boards": [
     {
       "name": "Board of Water Supply",
@@ -42,5 +27,23 @@
     }
   ],
   "bills": [],
+  "timeline": [
+    {
+      "dateISO": "2026-10-15",
+      "text": "The director said a releasable West Maui water plan should be out by the end of the year.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Qe82vmTlsAk",
+        "ts": "0:40:30",
+        "retrievedISO": "2026-11-04T07:35:02.969Z",
+        "endTs": "0:41:03"
+      },
+      "body": "Board of Water Supply"
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

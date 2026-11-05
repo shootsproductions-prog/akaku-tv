@@ -17,6 +17,14 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-05",
+  "boards": [
+    {
+      "name": "Maui Planning Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2024-11-26",
@@ -26,8 +34,8 @@
         "type": "meeting",
         "videoId": "4qrvA2fgh0s",
         "ts": "1:15:09",
-        "endTs": "1:15:52",
-        "retrievedISO": "2026-10-12T06:30:26.201Z"
+        "retrievedISO": "2026-10-12T06:30:26.201Z",
+        "endTs": "1:15:52"
       },
       "body": "Maui Planning Commission"
     },
@@ -39,8 +47,8 @@
         "type": "meeting",
         "videoId": "4qrvA2fgh0s",
         "ts": "1:07:13",
-        "endTs": "1:08:14",
-        "retrievedISO": "2026-10-12T06:30:26.201Z"
+        "retrievedISO": "2026-10-12T06:30:26.201Z",
+        "endTs": "1:08:14"
       },
       "body": "Maui Planning Commission"
     },
@@ -52,8 +60,8 @@
         "type": "meeting",
         "videoId": "4qrvA2fgh0s",
         "ts": "1:06:30",
-        "endTs": "1:07:01",
-        "retrievedISO": "2026-10-12T06:30:26.201Z"
+        "retrievedISO": "2026-10-12T06:30:26.201Z",
+        "endTs": "1:07:01"
       },
       "body": "Maui Planning Commission"
     },
@@ -65,8 +73,8 @@
         "type": "meeting",
         "videoId": "4qrvA2fgh0s",
         "ts": "0:48:07",
-        "endTs": "0:48:37",
-        "retrievedISO": "2026-10-12T06:30:26.201Z"
+        "retrievedISO": "2026-10-12T06:30:26.201Z",
+        "endTs": "0:48:37"
       },
       "body": "Maui Planning Commission"
     },
@@ -78,8 +86,8 @@
         "type": "meeting",
         "videoId": "4qrvA2fgh0s",
         "ts": "0:26:53",
-        "endTs": "0:27:23",
-        "retrievedISO": "2026-10-12T06:30:26.201Z"
+        "retrievedISO": "2026-10-12T06:30:26.201Z",
+        "endTs": "0:27:23"
       },
       "body": "Maui Planning Commission"
     },
@@ -91,19 +99,14 @@
         "type": "meeting",
         "videoId": "4qrvA2fgh0s",
         "ts": "0:18:44",
-        "endTs": "0:19:43",
-        "retrievedISO": "2026-10-12T06:30:26.201Z"
+        "retrievedISO": "2026-10-12T06:30:26.201Z",
+        "endTs": "0:19:43"
       },
       "body": "Maui Planning Commission"
     }
   ],
-  "boards": [
-    {
-      "name": "Maui Planning Commission",
-      "group": "board",
-      "short": []
-    }
+  "sourceTypes": [
+    "meeting"
   ],
-  "bills": [],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

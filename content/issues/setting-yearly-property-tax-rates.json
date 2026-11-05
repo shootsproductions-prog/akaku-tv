@@ -18,6 +18,14 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-05",
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-05-15",
@@ -27,8 +35,8 @@
         "type": "meeting",
         "videoId": "WmlNgIDoTf0",
         "ts": "1:50:01",
-        "endTs": "1:50:41",
-        "retrievedISO": "2026-10-19T23:24:26.848Z"
+        "retrievedISO": "2026-10-19T23:24:26.848Z",
+        "endTs": "1:50:41"
       },
       "body": "County Council Notice of Public Hearing"
     },
@@ -40,8 +48,8 @@
         "type": "meeting",
         "videoId": "0nwyDrMaDbE",
         "ts": "0:17:38",
-        "endTs": "0:18:08",
-        "retrievedISO": "2026-10-17T02:26:41.224Z"
+        "retrievedISO": "2026-10-17T02:26:41.224Z",
+        "endTs": "0:18:08"
       },
       "body": "County Council Public Meeting"
     },
@@ -53,8 +61,8 @@
         "type": "meeting",
         "videoId": "0nwyDrMaDbE",
         "ts": "0:13:45",
-        "endTs": "0:14:15",
-        "retrievedISO": "2026-10-17T02:26:41.224Z"
+        "retrievedISO": "2026-10-17T02:26:41.224Z",
+        "endTs": "0:14:15"
       },
       "body": "County Council Public Meeting"
     },
@@ -66,8 +74,8 @@
         "type": "meeting",
         "videoId": "0nwyDrMaDbE",
         "ts": "0:11:55",
-        "endTs": "0:12:25",
-        "retrievedISO": "2026-10-17T02:26:41.224Z"
+        "retrievedISO": "2026-10-17T02:26:41.224Z",
+        "endTs": "0:12:25"
       },
       "body": "County Council Public Meeting"
     },
@@ -79,8 +87,8 @@
         "type": "meeting",
         "videoId": "0nwyDrMaDbE",
         "ts": "0:11:33",
-        "endTs": "0:12:10",
-        "retrievedISO": "2026-10-17T02:26:41.224Z"
+        "retrievedISO": "2026-10-17T02:26:41.224Z",
+        "endTs": "0:12:10"
       },
       "body": "County Council Public Meeting"
     },
@@ -92,8 +100,8 @@
         "type": "meeting",
         "videoId": "0nwyDrMaDbE",
         "ts": "0:10:36",
-        "endTs": "0:11:12",
-        "retrievedISO": "2026-10-17T02:26:41.224Z"
+        "retrievedISO": "2026-10-17T02:26:41.224Z",
+        "endTs": "0:11:12"
       },
       "body": "County Council Public Meeting"
     },
@@ -105,8 +113,8 @@
         "type": "meeting",
         "videoId": "0nwyDrMaDbE",
         "ts": "0:01:14",
-        "endTs": "0:01:44",
-        "retrievedISO": "2026-10-17T02:26:41.224Z"
+        "retrievedISO": "2026-10-17T02:26:41.224Z",
+        "endTs": "0:01:44"
       },
       "body": "County Council Public Meeting"
     },
@@ -118,19 +126,14 @@
         "type": "meeting",
         "videoId": "0nwyDrMaDbE",
         "ts": "0:01:05",
-        "endTs": "0:01:35",
-        "retrievedISO": "2026-10-17T02:26:41.224Z"
+        "retrievedISO": "2026-10-17T02:26:41.224Z",
+        "endTs": "0:01:35"
       },
       "body": "County Council Public Meeting"
     }
   ],
-  "boards": [
-    {
-      "name": "Maui County Council",
-      "group": "council",
-      "short": []
-    }
+  "sourceTypes": [
+    "meeting"
   ],
-  "bills": [],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-05T22:04:34.010Z",
-  "etag": "48c0a76af4fe4a6547feafc755e92b94b00740823392ab8aca6eb1e244b52c1e",
+  "updatedAt": "2026-11-05T22:05:08.069Z",
+  "etag": "9aaaa28916138898c92417cd71d08449d3e927888b5b0b530fc3cc13b0e09cc8",
   "count": 208,
   "meetings": [
     {
@@ -952,10 +952,11 @@
       "momentCount": 4,
       "issues": [
         "paia-sugar-mill-light-industrial-rezoning",
+        "new-countywide-water-conservation-ordinance",
         "planning-hearing-notices-outside-newspapers-in-bill-85"
       ],
-      "updatedAt": "2026-10-30T20:46:13.720Z",
-      "sha256": "9487d6126ab3498cf3c390265406111d334adfc4ea6c9a09aa3dd5e138e5d542"
+      "updatedAt": "2026-11-05T22:05:08.069Z",
+      "sha256": "4af1d29920c4c4eeb018729804f8c82e74770dc2884647d61a92b69e64b0b66e"
     },
     {
       "videoId": "NxeXEYgEbYI",
@@ -1711,9 +1712,11 @@
       "dur": "1 h 50 m",
       "voteCount": 0,
       "momentCount": 5,
-      "issues": [],
-      "updatedAt": "2026-10-31T10:02:18.959Z",
-      "sha256": "4d58208a4c9bda6d866868e40189764cc61d7e994fb3c38ece775c6ed253292a"
+      "issues": [
+        "new-countywide-water-conservation-ordinance"
+      ],
+      "updatedAt": "2026-11-05T22:05:08.069Z",
+      "sha256": "0ff23a927ef8a6c69d74092144b5aa0e0d6fc0ec73d25028a28cdc5f124a8d0d"
     },
     {
       "videoId": "Tu1l4SAF6Tg",
