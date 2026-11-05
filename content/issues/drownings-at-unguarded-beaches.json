@@ -16,6 +16,14 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-05",
+  "boards": [
+    {
+      "name": "Fire and Public Safety Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-08-20",
@@ -25,8 +33,8 @@
         "type": "meeting",
         "videoId": "XTkHNUi1mfA",
         "ts": "1:21:35",
-        "endTs": "1:22:05",
-        "retrievedISO": "2026-10-09T06:35:14.511Z"
+        "retrievedISO": "2026-10-09T06:35:14.511Z",
+        "endTs": "1:22:05"
       },
       "body": "Fire and Public Safety Commission"
     },
@@ -38,8 +46,8 @@
         "type": "meeting",
         "videoId": "XTkHNUi1mfA",
         "ts": "1:20:11",
-        "endTs": "1:20:41",
-        "retrievedISO": "2026-10-09T06:35:14.511Z"
+        "retrievedISO": "2026-10-09T06:35:14.511Z",
+        "endTs": "1:20:41"
       },
       "body": "Fire and Public Safety Commission"
     },
@@ -51,8 +59,8 @@
         "type": "meeting",
         "videoId": "XTkHNUi1mfA",
         "ts": "1:06:59",
-        "endTs": "1:07:29",
-        "retrievedISO": "2026-10-09T06:35:14.511Z"
+        "retrievedISO": "2026-10-09T06:35:14.511Z",
+        "endTs": "1:07:29"
       },
       "body": "Fire and Public Safety Commission"
     },
@@ -64,8 +72,8 @@
         "type": "meeting",
         "videoId": "XTkHNUi1mfA",
         "ts": "0:57:22",
-        "endTs": "0:57:52",
-        "retrievedISO": "2026-10-09T06:35:14.511Z"
+        "retrievedISO": "2026-10-09T06:35:14.511Z",
+        "endTs": "0:57:52"
       },
       "body": "Fire and Public Safety Commission"
     },
@@ -77,8 +85,8 @@
         "type": "meeting",
         "videoId": "XTkHNUi1mfA",
         "ts": "0:55:13",
-        "endTs": "0:55:45",
-        "retrievedISO": "2026-10-09T06:35:14.511Z"
+        "retrievedISO": "2026-10-09T06:35:14.511Z",
+        "endTs": "0:55:45"
       },
       "body": "Fire and Public Safety Commission"
     },
@@ -90,19 +98,14 @@
         "type": "meeting",
         "videoId": "Nf0iqQ4qIuA",
         "ts": "1:03:19",
-        "endTs": "1:03:49",
-        "retrievedISO": "2026-10-15T06:35:41.629Z"
+        "retrievedISO": "2026-10-15T06:35:41.629Z",
+        "endTs": "1:03:49"
       },
       "body": "Fire and Public Safety Commission"
     }
   ],
-  "boards": [
-    {
-      "name": "Fire and Public Safety Commission",
-      "group": "board",
-      "short": []
-    }
+  "sourceTypes": [
+    "meeting"
   ],
-  "bills": [],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

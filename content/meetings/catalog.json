@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-05T22:02:00.749Z",
-  "etag": "d6654955f681e1902c587c9a55a5c0bc8a763cd526625e04a2a930d487c1ac76",
+  "updatedAt": "2026-11-05T22:04:15.227Z",
+  "etag": "430370350a371ee45501b1af0a09af1c65bf6b0f7f79c6e6f58ba2ad659c6343",
   "count": 208,
   "meetings": [
     {
@@ -1296,10 +1296,11 @@
       "momentCount": 4,
       "issues": [
         "haiku-fire-station-awaits-county-council-approval",
-        "fire-department-equipment-repair-and-replacement"
+        "fire-department-equipment-repair-and-replacement",
+        "drownings-at-unguarded-beaches"
       ],
-      "updatedAt": "2026-11-01T03:10:46.801Z",
-      "sha256": "37565f83c827e6903d3cd636fd2a98da31fcb6c9cf5194c41366ddd2556ad31c"
+      "updatedAt": "2026-11-05T22:04:15.227Z",
+      "sha256": "6f44ebb3815840125915443233752bccbfc8b4646c0befaa429800aad00aa03d"
     },
     {
       "videoId": "9O-5VI6zndk",
@@ -1656,10 +1657,11 @@
       "momentCount": 4,
       "issues": [
         "search-for-new-department-of-personnel-services-director",
+        "firefighter-pay-contract-arbitration-and-mediation",
         "ocean-safety-officers-arbitration-award-payments"
       ],
-      "updatedAt": "2026-11-01T03:10:46.801Z",
-      "sha256": "8bf40642ba31a90e931322f1abfcb69492e60f8d5b4b76a5220aa9b724c41b76"
+      "updatedAt": "2026-11-05T22:04:15.227Z",
+      "sha256": "eab55d4d97ed1ddd6505288950fe4c7f0ceb096095c101b9e64c64e5260b6f14"
     },
     {
       "videoId": "VgE2vefgTzg",
@@ -2026,10 +2028,11 @@
       "momentCount": 4,
       "issues": [
         "new-county-emergency-operations-center",
+        "firefighter-pay-contract-arbitration-and-mediation",
         "fire-department-input-on-housing-density-bills"
       ],
-      "updatedAt": "2026-11-01T03:10:46.801Z",
-      "sha256": "f527254b7096e29b1f0ee77ee84a2e458ff0ddb8f0214bc9a5f969516ba4eb00"
+      "updatedAt": "2026-11-05T22:04:15.227Z",
+      "sha256": "633b26b48f0ba7da7fd287ca0e4a4adbc612d295ce8a5a5b3b1ebb5daa2eca44"
     },
     {
       "videoId": "zjBo8277OWs",
@@ -2632,10 +2635,11 @@
       "momentCount": 4,
       "issues": [
         "new-county-emergency-operations-center",
+        "firefighter-pay-contract-arbitration-and-mediation",
         "evacuation-software-and-new-evacuation-zones"
       ],
-      "updatedAt": "2026-10-31T10:02:02.744Z",
-      "sha256": "126ec9e77db3df0bbaa59d414e4ea2939adbcb0217b1f66ceb1d4f511e622986"
+      "updatedAt": "2026-11-05T22:04:15.227Z",
+      "sha256": "642109e68dd9aa24c366eeb73dccfa2851235454d04fdd7c8232679ac183b551"
     },
     {
       "videoId": "SeBC5ZwtUfI",
@@ -3606,10 +3610,11 @@
         "wildfire-after-action-report-from-emergency-agency",
         "evacuation-software-and-new-evacuation-zones",
         "fire-department-input-on-housing-density-bills",
+        "drownings-at-unguarded-beaches",
         "fire-department-budget-request-with-10-new-positions"
       ],
-      "updatedAt": "2026-11-01T03:10:46.801Z",
-      "sha256": "747dc1906601ea267c6ac104d9090934ba2883493cf31ec85bd645923d28f234"
+      "updatedAt": "2026-11-05T22:04:15.227Z",
+      "sha256": "c25207507a99563a260a397da2e2d7e2e68f5be3f7b5a277f921a64333eaa3e5"
     },
     {
       "videoId": "gMnP3cc5PlY",

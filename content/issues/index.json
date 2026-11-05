@@ -205,12 +205,13 @@
     "water-department-engineer-shortage.json",
     "firefighter-pay-contract-arbitration-and-mediation.json",
     "hoonani-village-housing-and-well-funding.json",
-    "voter-service-centers-and-election-use-of-council-chambers.json"
+    "voter-service-centers-and-election-use-of-council-chambers.json",
+    "drownings-at-unguarded-beaches.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-11-05T22:03:52.547Z",
-  "etag": "afd8dc1f069dbca151b5a8c29224dc754c14d1dc666321f1b6d05fe5a3bef0ac",
+  "updatedAt": "2026-11-05T22:04:15.188Z",
+  "etag": "cedb6160a1d52a32b7c8d190adff8ef8850e95b52d7cecb1311220814e5b4edf",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-11-05T10:26:13.896Z",
@@ -1035,6 +1036,10 @@
     "voter-service-centers-and-election-use-of-council-chambers.json": {
       "updatedAt": "2026-11-05T22:03:52.547Z",
       "sha256": "35390d4175570b9d74401bbf5be919e1d426241ae60aa81446a2f33fc1a9b6b6"
+    },
+    "drownings-at-unguarded-beaches.json": {
+      "updatedAt": "2026-11-05T22:04:15.188Z",
+      "sha256": "d27a6722cb1b12d2440d98e933d9a85697144e50fdc44f40798f52bf69e091d8"
     }
   }
 }
