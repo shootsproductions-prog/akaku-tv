@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-05T08:06:15.254Z",
-  "etag": "740a90384b0647dbd869606d0648ecf4f24aa2e0f195e184d18e8512bce20fef",
+  "updatedAt": "2026-11-05T08:14:16.502Z",
+  "etag": "fbe056261ffe8cac035288eef8103bc946e7f6d6a69eb265c16a5f29af3102a4",
   "count": 208,
   "meetings": [
     {
@@ -3063,9 +3063,11 @@
       "dur": "58 m",
       "voteCount": 0,
       "momentCount": 3,
-      "issues": [],
-      "updatedAt": "2026-10-31T10:02:18.959Z",
-      "sha256": "e5791608e46a3e2ecfd3f3bf73f9b1065fae0ee32e47b2fd3c04914dce3f0b80"
+      "issues": [
+        "council-on-aging-four-year-plan"
+      ],
+      "updatedAt": "2026-11-05T08:14:16.502Z",
+      "sha256": "14cd8bb31064ac3f4e54af90b79e22029fd7f62b5f4e69738b19d2dacfb020c6"
     },
     {
       "videoId": "usMfKSJ6LlI",

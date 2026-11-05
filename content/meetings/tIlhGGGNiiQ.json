@@ -45,7 +45,12 @@
       }
     ],
     "bodyType": "council",
-    "trackerIssues": [],
+    "trackerIssues": [
+      {
+        "slug": "council-on-aging-four-year-plan",
+        "title": "Council on Aging four-year plan"
+      }
+    ],
     "boards": [
       {
         "name": "Maui County Council",
