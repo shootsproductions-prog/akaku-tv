@@ -1,0 +1,77 @@
+{
+  "slug": "ohana-assistance-program-for-building-family-units",
+  "title": "ʻOhana assistance program for building family units",
+  "summary": "A council member said on April 21 they could ask the housing department whether one property can receive more than one grant under the rules. Grants in the ʻohana assistance program may reach $100,000 for each qualified Maui County resident. The department said on April 17 that 40% of the ADUs the program has funded have two bedrooms.",
+  "topics": [
+    "housing",
+    "disaster-recovery"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2026-04-17",
+  "lastSeenISO": "2026-04-21",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-06",
+  "timeline": [
+    {
+      "dateISO": "2026-04-21",
+      "text": "A council member said they could talk to the housing department about whether one property can get more than one grant under the rules.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Adpx8IMDk1I",
+        "ts": "1:10:21",
+        "endTs": "1:10:57",
+        "retrievedISO": "2026-10-17T02:22:55.289Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "The grants may be up to $100,000 for each qualified Maui County resident in the ʻohana assistance program.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Adpx8IMDk1I",
+        "ts": "1:08:49",
+        "endTs": "1:09:19",
+        "retrievedISO": "2026-10-17T02:22:55.289Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-17",
+      "text": "The department said 40% of the ADUs funded by its ʻohana assistance program have two bedrooms.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "cWThkDX_iTA",
+        "ts": "1:09:24",
+        "endTs": "1:09:54",
+        "retrievedISO": "2026-10-17T02:49:45.529Z"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    },
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

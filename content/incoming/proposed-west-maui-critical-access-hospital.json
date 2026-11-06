@@ -1,0 +1,44 @@
+{
+  "slug": "proposed-west-maui-critical-access-hospital",
+  "title": "Proposed West Maui critical access hospital",
+  "summary": "A commissioner said on October 10, 2024, that a West Maui medical facility is not yet ready for the commission to take up.",
+  "topics": [
+    "health",
+    "economy"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2024-10-10",
+  "lastSeenISO": "2024-10-10",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-06",
+  "timeline": [
+    {
+      "dateISO": "2024-10-10",
+      "text": "A commissioner said a West Maui medical facility is not ready for the commission to take up.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "wgl955NfsII",
+        "ts": "1:09:17",
+        "endTs": "1:09:49",
+        "retrievedISO": "2026-11-04T07:35:11.374Z"
+      },
+      "body": "Cost of Government Commission Meeting of October 10, 2024"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Cost of Government Commission Meeting of October 10, 2024",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "fire-department-equipment-repair-and-replacement",
+  "title": "Fire department equipment repair and replacement",
+  "summary": "As of September 17, 2026, the commission is due to receive a report on large equipment bids next month. The fire equipment superintendent said the fire shop services over 220 pieces of equipment. Earlier, in November 2024, it was reported that engine six, which survived the fire, needed hundreds of hours of repairs.",
+  "topics": [
+    "public-safety"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2024-11-21",
+  "lastSeenISO": "2026-09-17",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-06",
+  "timeline": [
+    {
+      "dateISO": "2026-09-17",
+      "text": "The fire equipment superintendent said the fire shop services over 220 pieces of equipment.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fDPADbFyXaI",
+        "ts": "1:11:41",
+        "endTs": "1:12:11",
+        "retrievedISO": "2026-10-07T23:03:52.575Z"
+      },
+      "body": "Maui Fire & Public Safety Commission"
+    },
+    {
+      "dateISO": "2026-09-17",
+      "text": "The commission will get a report on large equipment bids next month.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "fDPADbFyXaI",
+        "ts": "0:50:21",
+        "endTs": "0:51:01",
+        "retrievedISO": "2026-10-07T23:03:52.575Z"
+      },
+      "body": "Maui Fire & Public Safety Commission"
+    },
+    {
+      "dateISO": "2024-11-21",
+      "text": "Engine six, which survived the fire, needed hundreds of hours of repairs.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "EzLmqE78YDk",
+        "ts": "2:22:14",
+        "endTs": "2:23:28",
+        "retrievedISO": "2026-10-12T06:30:30.475Z"
+      },
+      "body": "Fire and Public Safety Commission"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui Fire & Public Safety Commission",
+      "group": "board",
+      "short": []
+    },
+    {
+      "name": "Fire and Public Safety Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
+  "fromCommunityMeetings": [
+    {
+      "dateISO": "2023-10-23",
+      "kind": "official",
+      "who": "Maui Fire Chief",
+      "quote": "Just to give you an idea though, it takes about three years to build a fire truck now. So even though these projects are started, we won't see some of them for a while. So for example, the Kula fire truck was an FY21 project that just came on island last week and will be put in place next week, Monday.",
+      "about": "The chief explains the roughly three-year build time for new fire apparatus, using the newly arrived Kula fire truck as an example.",
+      "source": {
+        "type": "community-meeting",
+        "title": "Mayor's Upcountry Budget Community Meeting at Hannibal Tavares Center October 23, 2023",
+        "videoId": "u-eAq08pytM",
+        "ts": 412
+      }
+    }
+  ]
+}
