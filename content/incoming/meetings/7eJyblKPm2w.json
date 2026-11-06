@@ -1,0 +1,133 @@
+{
+  "videoId": "7eJyblKPm2w",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-17T01:13:59.025Z",
+  "meetingDateISO": "2026-05-01",
+  "source": {
+    "youtubeUrl": "https://youtu.be/7eJyblKPm2w"
+  },
+  "headline": "Council accepts $5,000 storm donation, sends park zoning change to Planning Commission",
+  "topics": [
+    "Housing",
+    "Food Security",
+    "Disaster Recovery"
+  ],
+  "meeting": {
+    "id": "7eJyblKPm2w",
+    "mon": "May",
+    "day": "1",
+    "date": "Fri, May 1, 2026",
+    "body": "Maui County Council Meeting",
+    "dur": "2 h 43 m",
+    "voteCount": 6,
+    "voteItem": "Resolution 26-77, accepting a $5,000 donation for storm recovery",
+    "ayes": 9,
+    "noes": 0,
+    "summary": "The council voted 9–0 to accept a $5,000 donation for March 2026 storm recovery and sent a Maui Research and Technology Park District zoning change to the Maui Planning Commission. It also filed a bill tied to a stewardship group's funding.",
+    "recap": "The council voted 9–0 to adopt a condolence resolution for a late community leader.[[0:31:21]] A resident said all 60 units at Lahaina Residential were destroyed in the fire.[[0:59:46]] The complex's board president said costs are about $35 million, with $10 million in insurance.[[1:05:29]] The budget director said caring for county-owned land fits a contract better than a grant.[[1:20:10]] A stewardship group officer testified against Bill 81, asking why the group was being deleted.[[1:27:48]] The council voted 9–0 to accept a $5,000 donation for recovery from the March 2026 storms.[[2:06:33]] The council adopted the amended resolution 9–0, sending a zoning bill to the Maui Planning Commission.[[2:13:52]] The council voted 9–0 to file (set aside) a bill tied to the stewardship group's funding.[[2:21:39]] It was stated that the intention is for the group to keep receiving funding.[[2:21:44]]",
+    "decided": [
+      "The council accepted a $5,000 donation for recovery from the March 2026 storms.",
+      "A motion was made to approve a new county land lease for Women Helping Women at $1 rent, but no vote is heard in the recording.",
+      "The council suspended a council rule so the resolution could be adopted at the same meeting it was amended.",
+      "The council referred a resolution on extra pay for special counsel in wildfire lawsuits to the Government Relations, Ethics, and Transparency Committee.",
+      "Bill 77, on using the Affordable Housing Fund for the houseless population, was sent to a different committee than first proposed.",
+      "The council voted to file a bill tied to the stewardship group's funding.",
+      "Bill 82 passed first reading on a voice vote with no count stated."
+    ],
+    "next": "The Maui Planning Commission will consider the proposed zoning bill. The chair asked the vice chair to speak with the budget director about a needed budget adjustment after the property vote.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "1:06:37",
+        "q": "\"Bottom line is we just want to go home.\""
+      },
+      {
+        "t": "1:20:10",
+        "q": "Budget director on contract versus grant"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "maui-research-and-technology-park-land-designation",
+        "title": "Maui Research and Technology Park land designation"
+      },
+      {
+        "slug": "bill-77-setting-aside-housing-fund-for-houseless-residents",
+        "title": "Bill 77 setting aside housing fund for houseless residents"
+      },
+      {
+        "slug": "lahaina-residential-condo-rebuild-grant",
+        "title": "Lahaina Residential condo rebuild grant"
+      },
+      {
+        "slug": "countys-wildfire-lawsuits-and-global-settlement",
+        "title": "County's wildfire lawsuits and global settlement"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Maui County Council",
+        "group": "council",
+        "short": []
+      }
+    ],
+    "bills": [
+      "Bill 81 (2026)",
+      "Bill 77 (2026)",
+      "Bill 82 (2026)",
+      "Resolution 26-77"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "May 1, 2026",
+      "oneLine": "The council sent a proposed zoning change for the Maui Research and Technology Park District to the Maui Planning Commission.",
+      "why": "A member said the change lowers commercial space to better meet housing needs without changing the number of homes.",
+      "deadlines": [],
+      "next": "The Maui Planning Commission will consider the proposal.",
+      "brief": "The council adopted the amended resolution 9–0.[[#1]] Bill 77, on using the Affordable Housing Fund for the houseless population, was sent to committee.[[#2]]",
+      "timeline": [
+        {
+          "mon": "May",
+          "day": "1",
+          "source": "Maui County Council Meeting",
+          "kind": "tv",
+          "title": "Maui County Council Meeting",
+          "note": "The council sent a proposed zoning change for the Maui Research and Technology Park District to the Maui Planning Commission.",
+          "proof": "2:15:00",
+          "view": {
+            "type": "meeting",
+            "id": "7eJyblKPm2w"
+          },
+          "seek": "2:15:00"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Meeting · May 1",
+          "where": "Meeting video at 2:15:00",
+          "view": {
+            "type": "meeting",
+            "id": "7eJyblKPm2w"
+          },
+          "seek": "2:15:00"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Meeting · May 1",
+          "where": "Meeting video at 2:16:30",
+          "view": {
+            "type": "meeting",
+            "id": "7eJyblKPm2w"
+          },
+          "seek": "2:16:30"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

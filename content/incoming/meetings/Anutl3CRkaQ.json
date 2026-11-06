@@ -1,0 +1,63 @@
+{
+  "videoId": "Anutl3CRkaQ",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-09T06:45:23.618Z",
+  "meetingDateISO": "2026-08-25",
+  "source": {
+    "youtubeUrl": "https://youtu.be/Anutl3CRkaQ"
+  },
+  "topics": [
+    "Water",
+    "Housing",
+    "Disaster Recovery"
+  ],
+  "headline": "Maui Planning Commission",
+  "meeting": {
+    "id": "Anutl3CRkaQ",
+    "mon": "Aug",
+    "day": "25",
+    "date": "Tue, Aug 25, 2026",
+    "body": "Maui Planning Commission",
+    "dur": "6 h 30 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The commission approved five homes in Lāhainā and Outrigger resort upgrades with added beach parking and shoreline conditions.",
+    "recap": "The Maui Planning Commission met August 25th, 2026.[[0:00:32]] The applicant estimated the homes would use 2,710 gallons of water per day.[[0:14:39]] One testifier asked the commission to deny or defer the permit.[[0:28:12]] The department recommended approval with 10 conditions.[[1:52:28]] Staff said the project adds no hotel rooms.[[2:20:11]] The applicant estimated water use would drop 39,382 gallons per day.[[2:47:12]] The applicant committed to 20 more public beach parking stalls, for 30 total.[[2:58:49]] Commissioners made five stalls open 24 hours for Hawaiian cultural practices.[[5:47:28]] They required a state certified shoreline survey every 10 years, first due by August 31st, 2036.[[5:50:05]] They required a sea level rise mitigation plan.[[6:03:29]] They required the sidewalk in front of the property be removed, relocated or modified by August 31st, 2031.[[6:19:58]] The next meeting is September 8th.[[6:26:52]]",
+    "decided": [
+      "The commission added a condition requiring a sea level rise mitigation plan.",
+      "The commission adopted the sidewalk condition."
+    ],
+    "next": "The September 8th meeting will include a council resolution and zoning changes for the Maui Research and Technology Park.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "2:16:08",
+        "q": "Chair votes yes \"with a heavy heart\""
+      },
+      {
+        "t": "4:57:52",
+        "q": "Coastal specialist explains the 2019 shoreline certification"
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "maui-research-and-technology-park-land-designation",
+        "title": "Maui Research and Technology Park land designation"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Maui Planning Commission",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "board"
+}

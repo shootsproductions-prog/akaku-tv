@@ -1,0 +1,199 @@
+{
+  "videoId": "BsZX-gnBZU8",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-17T02:43:47.716Z",
+  "meetingDateISO": "2026-04-20",
+  "source": {
+    "youtubeUrl": "https://youtu.be/BsZX-gnBZU8"
+  },
+  "headline": "Maui County Council Budget, Finance, and Economic Development Committee",
+  "topics": [
+    "Water",
+    "Housing",
+    "Food Security",
+    "Disaster Recovery"
+  ],
+  "meeting": {
+    "id": "BsZX-gnBZU8",
+    "mon": "Apr",
+    "day": "20",
+    "date": "Mon, Apr 20, 2026",
+    "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+    "dur": "5 h 46 m",
+    "voteCount": 4,
+    "voteItem": "Farm-to-family program funding",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee began making decisions on the proposed fiscal year 27 county budget.",
+    "recap": "The committee began making decisions on the proposed fiscal year 27 county budget.[[0:03:10]] The finance director reported $660,365,625 in property tax revenue, $156,548 more than the mayor's budget projected.[[0:08:39]] Properties in two wildfire-affected areas are back on the tax rolls, adding $7.4 million this year.[[0:20:22]] A testifier brought a proposal about a one-acre property on Kanani Road in Kīhei.[[0:23:51]] The committee chair proposed removing $3,441,584 in funding for new positions while keeping the positions.[[2:18:19]] Members voted 6 to 3 to bring department requests before the committee for a vote.[[4:32:39]]",
+    "decided": [
+      "The committee approved a council member's farm-to-family program proposal.",
+      "The committee added a condition that grantees follow the food and nutrition security plan.",
+      "Members voted to bring department requests that were not member priorities before the committee for a vote.",
+      "The committee deleted $10,000 for Maui Search and Rescue."
+    ],
+    "next": "Staff will track cuts, and members who vote for a cut that passes will share it equally for their priorities. Tomorrow's departments are environmental management, finance, fire, housing, human concerns, and liquor.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:07:44",
+        "q": "Certified property value: $83,177,798,400"
+      },
+      {
+        "t": "2:18:19",
+        "q": "Chair proposes defunding new positions"
+      },
+      {
+        "t": "4:32:39",
+        "q": "Vote on hearing department requests"
+      },
+      {
+        "t": "5:20:50",
+        "q": "$2.3 million for top wildfire risks"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "east-maui-water-board-budget-and-staffing-requests",
+        "title": "East Maui water board budget and staffing requests"
+      },
+      {
+        "slug": "county-food-and-nutrition-security-plan-law",
+        "title": "County Food and Nutrition Security Plan law"
+      },
+      {
+        "slug": "extending-property-tax-relief-for-wildfire-hit-properties",
+        "title": "Extending property tax relief for wildfire-hit properties"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Budget, Finance, and Economic Development Committee",
+        "group": "council",
+        "short": [
+          "BFED"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Apr 20, 2026",
+      "oneLine": "Long-term rental parcels grew to 4,350 from 3,223 last year.",
+      "why": "A testifier said women leaving shelter succeed depending on whether they can get stable housing.",
+      "deadlines": [],
+      "next": "",
+      "brief": "The finance director said the long-term rental program reached its goal of about 5,000 applicants.[[#1]] A testifier brought a proposal about a one-acre property on Kanani Road in Kīhei.[[#2]] A testifier asked the county to help secure scattered housing sites for women leaving shelter.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Apr",
+          "day": "20",
+          "source": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "kind": "tv",
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "note": "Long-term rental parcels grew to 4,350 from 3,223 last year.",
+          "proof": "0:18:13",
+          "view": {
+            "type": "meeting",
+            "id": "BsZX-gnBZU8"
+          },
+          "seek": "0:18:13"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 20",
+          "where": "Meeting video at 0:18:13",
+          "view": {
+            "type": "meeting",
+            "id": "BsZX-gnBZU8"
+          },
+          "seek": "0:18:13"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 20",
+          "where": "Meeting video at 0:23:51",
+          "view": {
+            "type": "meeting",
+            "id": "BsZX-gnBZU8"
+          },
+          "seek": "0:23:51"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 20",
+          "where": "Meeting video at 0:48:03",
+          "view": {
+            "type": "meeting",
+            "id": "BsZX-gnBZU8"
+          },
+          "seek": "0:48:03"
+        }
+      ]
+    },
+    {
+      "issue": "Disaster Recovery",
+      "since": "Apr 20, 2026",
+      "oneLine": "An ordinance extends property tax relief for properties hit by the August 2023 wildfires.",
+      "why": "A council member said the tax data's 142 rebuilt dwellings do not show all the families who have returned home.",
+      "deadlines": [],
+      "next": "",
+      "brief": "Properties in two wildfire-affected areas are back on the tax rolls, adding $7.4 million this year.[[#1]] The tax data lists 2,145 dwellings destroyed and 142 rebuilt.[[#2]] The finance director said full rebuilding counts would probably come from the Office of Recovery.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Apr",
+          "day": "20",
+          "source": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "kind": "tv",
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "note": "An ordinance extends property tax relief for properties hit by the August 2023 wildfires.",
+          "proof": "0:20:22",
+          "view": {
+            "type": "meeting",
+            "id": "BsZX-gnBZU8"
+          },
+          "seek": "0:20:22"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 20",
+          "where": "Meeting video at 0:20:22",
+          "view": {
+            "type": "meeting",
+            "id": "BsZX-gnBZU8"
+          },
+          "seek": "0:20:22"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 20",
+          "where": "Meeting video at 1:21:52",
+          "view": {
+            "type": "meeting",
+            "id": "BsZX-gnBZU8"
+          },
+          "seek": "1:21:52"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 20",
+          "where": "Meeting video at 1:27:51",
+          "view": {
+            "type": "meeting",
+            "id": "BsZX-gnBZU8"
+          },
+          "seek": "1:27:51"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

@@ -1,0 +1,176 @@
+{
+  "videoId": "BWLtvQRgdm0",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T12:22:11.930Z",
+  "meetingDateISO": "2026-09-14",
+  "source": {
+    "youtubeUrl": "https://youtu.be/BWLtvQRgdm0"
+  },
+  "headline": "Committee defers Bill 108 after hearing public testimony",
+  "topics": [
+    "Water",
+    "Housing"
+  ],
+  "meeting": {
+    "id": "BWLtvQRgdm0",
+    "mon": "Sep",
+    "day": "14",
+    "date": "Mon, Sep 14, 2026",
+    "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+    "dur": "2 h 35 m",
+    "voteCount": 1,
+    "voteItem": "Close public testimony",
+    "ayes": null,
+    "noes": null,
+    "summary": "The chair deferred Bill 108 with no objections after closing oral public testimony, keeping it for later meetings. Written testimony stays open, and the chair said the committee has through October 8 for its review.",
+    "recap": "The only item was Bill 108, which would repeal the Kīhei-Mākena Community Plan.[[0:13:51]] The meeting was in person only, with no votes on bills planned.[[0:14:31]] Planning staff gave an overview of the draft South Maui Community Plan.[[0:16:13]] Staff said the Community Plan Advisory Committee, a resident group, held 42 meetings over 12 months.[[0:30:46]] Staff said significant flooding has hit South Maui every year since 2021.[[0:32:04]] A testifier said the plan identifies over 8,000 new housing units.[[0:37:27]] A testifier urged the committee to go back to the advisory committee's version of the plan.[[1:04:50]] A testifier asked that new building wait until water, wastewater and stormwater systems are upgraded.[[1:15:10]] One testifier spoke in support of Bill 108.[[2:06:16]] A testifier asked for a two-to-three-year pause on building until Kīhei has more than one way out.[[2:10:24]] The chair said the committee has through October 8 for its review.[[2:29:03]] The committee was told it received the plan August 4 and has one year to act.[[2:33:23]] The chair deferred the bill with no objections, keeping it for later meetings.[[2:34:15]]",
+    "decided": [
+      "The chair closed oral public testimony with no objections."
+    ],
+    "next": "The committee will reconvene tomorrow morning to take testimony. The chair said the committee will start on the plan's policies tomorrow. The chair said the committee will recess every other day, with testimony days followed by work days. Written testimony stays open throughout the process. The next Planning Department presentation will be in Section 3, on community plan designations.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:16:13",
+        "q": "Planning presentation on the draft plan"
+      },
+      {
+        "t": "0:36:19",
+        "q": "Public testimony begins"
+      },
+      {
+        "t": "1:54:24",
+        "q": "\"However, infrastructure in this area first.\""
+      },
+      {
+        "t": "2:06:16",
+        "q": "Testimony in support of Bill 108"
+      },
+      {
+        "t": "2:24:34",
+        "q": "Chair lays out the review order"
+      },
+      {
+        "t": "2:34:15",
+        "q": "Bill deferred"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "south-maui-community-plan-review",
+        "title": "South Maui Community Plan review"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Disaster Recovery, International Affairs, and Planning Committee",
+        "group": "council",
+        "short": [
+          "DRIP"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 108 (2026)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Water",
+      "since": "Sep 14, 2026",
+      "oneLine": "A testifier asked that new building be allowed only after water, wastewater and stormwater systems are upgraded.",
+      "why": "A testifier said current and planned pumping of an aquifer developers plan to use will exceed its estimated sustainable yield.",
+      "deadlines": [],
+      "next": "",
+      "brief": "A testifier said that aquifer's sustainable yield was set in 1990 at 11 million gallons per day.[[#1]] A testifier said the yield estimate has the lowest confidence level.[[#2]] A testifier said new developments plan to supply private water through reverse osmosis.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Sep",
+          "day": "14",
+          "source": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+          "kind": "tv",
+          "title": "Committee hears South Maui testimony on community plan bill",
+          "note": "A testifier asked that new building be allowed only after water, wastewater and stormwater systems are upgraded.",
+          "proof": "0:56:13",
+          "view": {
+            "type": "meeting",
+            "id": "BWLtvQRgdm0"
+          },
+          "seek": "0:56:13"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Sep 14",
+          "where": "Meeting video at 0:56:13",
+          "view": {
+            "type": "meeting",
+            "id": "BWLtvQRgdm0"
+          },
+          "seek": "0:56:13"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Sep 14",
+          "where": "Meeting video at 0:56:27",
+          "view": {
+            "type": "meeting",
+            "id": "BWLtvQRgdm0"
+          },
+          "seek": "0:56:27"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Sep 14",
+          "where": "Meeting video at 0:38:41",
+          "view": {
+            "type": "meeting",
+            "id": "BWLtvQRgdm0"
+          },
+          "seek": "0:38:41"
+        }
+      ]
+    },
+    {
+      "issue": "Housing",
+      "since": "Sep 14, 2026",
+      "oneLine": "A testifier said the plan identifies over 8,000 new units, which could add 16,000 people.",
+      "why": "Planning staff said housing near jobs lets people live closer to work, so there will be less traffic.",
+      "deadlines": [],
+      "next": "",
+      "brief": "A testifier said a county forecast projects a need for 1,700 housing units by 2045.[[#1]]",
+      "timeline": [
+        {
+          "mon": "Sep",
+          "day": "14",
+          "source": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+          "kind": "tv",
+          "title": "Committee hears South Maui testimony on community plan bill",
+          "note": "A testifier said the plan identifies over 8,000 new units, which could add 16,000 people.",
+          "proof": "1:00:49",
+          "view": {
+            "type": "meeting",
+            "id": "BWLtvQRgdm0"
+          },
+          "seek": "1:00:49"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Sep 14",
+          "where": "Meeting video at 1:00:49",
+          "view": {
+            "type": "meeting",
+            "id": "BWLtvQRgdm0"
+          },
+          "seek": "1:00:49"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

@@ -1,0 +1,77 @@
+{
+  "videoId": "39uwqsfa98c",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-15T07:00:23.010Z",
+  "meetingDateISO": "2024-10-22",
+  "source": {
+    "youtubeUrl": "https://youtu.be/39uwqsfa98c"
+  },
+  "topics": [
+    "Housing",
+    "Disaster Recovery"
+  ],
+  "headline": "Maui Planning Commission Meeting",
+  "meeting": {
+    "id": "39uwqsfa98c",
+    "mon": "Oct",
+    "day": "22",
+    "date": "Tue, Oct 22, 2024",
+    "body": "Maui Planning Commission Meeting",
+    "dur": "5 h 08 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The commission recommended a West Maui plan change to rebuild fire-destroyed homes, approved a bed and breakfast permit, and set two hearing schedules.",
+    "recap": "The planning department proposed a plan change so homes lost in the August 8, 2023 fire can be rebuilt.[[0:06:42]] The commission's motion to recommend the amendment passed with five votes.[[0:26:02]] Its conditions allow two guests per bedroom, one group at a time, and three parking stalls.[[1:23:51]] The commission took up a permit request for up to 53 single-family lots on about 28 acres.[[1:39:09]] It set a contested case hearing (a formal, trial-like hearing) on that request for February 11.[[3:05:59]] A county attorney said state land officials told him the shoreline there cannot be certified until encroachments are removed.[[3:26:47]] The commission moved that appeal hearing to January 14.[[4:53:26]] The parties will return to mediation (talks led by a neutral helper).[[4:57:39]] The commission delayed its decision on discovery (collecting evidence from other parties) until November 12.[[5:00:31]]",
+    "decided": [
+      "The commission agreed by unanimous consent to hear item B2 before item B1."
+    ],
+    "next": "The special management area permit for the neighborhood will come back to the commission for a consistency finding. The remaining agenda items were deferred.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:16:40",
+        "q": "\"please write this wrong with urgency\""
+      },
+      {
+        "t": "1:23:51",
+        "q": "Planner reads the bed and breakfast conditions"
+      },
+      {
+        "t": "3:26:47",
+        "q": "County attorney on shoreline certification"
+      },
+      {
+        "t": "4:59:10",
+        "q": "\"we've lost two and a half miles of beaches\""
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "kahana-sunset-repair-permit-appeals",
+        "title": "Kahana Sunset repair permit appeals"
+      },
+      {
+        "slug": "contested-case-on-53-lot-subdivision-permit",
+        "title": "Contested case on 53-lot subdivision permit"
+      },
+      {
+        "slug": "plan-change-to-rebuild-fire-destroyed-neighborhood",
+        "title": "Plan change to rebuild fire-destroyed neighborhood"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Maui Planning Commission",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "board"
+}

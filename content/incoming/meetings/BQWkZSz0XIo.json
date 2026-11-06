@@ -1,0 +1,73 @@
+{
+  "videoId": "BQWkZSz0XIo",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T21:22:57.509Z",
+  "meetingDateISO": "2026-09-17",
+  "source": {
+    "youtubeUrl": "https://youtu.be/BQWkZSz0XIo"
+  },
+  "headline": "South Maui plan review focuses on flooding and water policies",
+  "topics": [
+    "Water"
+  ],
+  "meeting": {
+    "id": "BQWkZSz0XIo",
+    "mon": "Sep",
+    "day": "17",
+    "date": "Thu, Sep 17, 2026",
+    "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+    "dur": "4 h 05 m",
+    "voteCount": 7,
+    "voteItem": "Amend policy 2.3.3 to the recommended language",
+    "ayes": 7,
+    "noes": 0,
+    "summary": "The committee reviewed South Maui Community Plan policies, saw drone images of flooded gulches, and passed amendments on water use and injection wells.",
+    "recap": "Members began reviewing plan Sections 2.3 and 2.4.[[0:07:07]] He said flood water and mud reached every condo at Sugar Beach.[[0:12:36]] One testifier asked for 150-foot buffers around gulches.[[0:54:10]] Another testifier urged the county to stop building in flood zones and wetlands.[[1:03:15]] Members voted 8–0 to meet in executive session (a closed-door meeting) to consult their lawyers.[[1:50:30]] Members voted 7–0 to add a county department to the consultation list in policy 2.3.10.[[2:53:41]] Members voted 6–0 to require gray or recycled water in county parks and gardens when available and legally permissible.[[3:47:44]] Members voted 6–0 to move toward ending wastewater injection wells in South Maui.[[4:00:32]]",
+    "decided": [
+      "The amendment passed 7–0, with two members excused.",
+      "The committee voted 8–0 to go into executive session to consult with legal counsel.",
+      "The committee voted 7–0 to use the recommended wording, which adds a county department to the consultation list.",
+      "The committee voted 7–0 to delete the policy because it nearly matches action 3.14.",
+      "The motion passed with six ayes; the captions garble the \"no\" count.",
+      "The committee voted 6–0 to support catchment and gray water where allowed by the State Department of Health.",
+      "A motion was moved and seconded, but the captions do not record a vote.",
+      "The committee voted 6–0 to move toward eliminating wastewater injection wells in South Maui."
+    ],
+    "next": "A deputy corporation counsel may draft policy language on pre-authorization during emergencies. The chair suggested a member could propose a goal 2.5 policy on moving natural resources out of a moku with consultation.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:11:00",
+        "q": "Drone flood presentation begins"
+      },
+      {
+        "t": "2:29:12",
+        "q": "Debate on consulting before moving sand, pōhaku and sediment"
+      },
+      {
+        "t": "3:55:15",
+        "q": "\"we can't eliminate injection wells at the time because we need 100% backup\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "south-maui-community-plan-review",
+        "title": "South Maui Community Plan review"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Disaster Recovery, International Affairs, and Planning Committee",
+        "group": "council",
+        "short": [
+          "DRIP"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "council"
+}

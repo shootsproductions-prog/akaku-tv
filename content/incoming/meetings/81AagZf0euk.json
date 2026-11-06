@@ -1,0 +1,71 @@
+{
+  "videoId": "81AagZf0euk",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-20T04:43:09.478Z",
+  "meetingDateISO": "2026-10-19",
+  "source": {
+    "youtubeUrl": "https://youtu.be/81AagZf0euk"
+  },
+  "headline": "Committee hears plan to fix zoning in harbor triangle area",
+  "topics": [
+    "Water"
+  ],
+  "meeting": {
+    "id": "81AagZf0euk",
+    "mon": "Oct",
+    "day": "19",
+    "date": "Mon, Oct 19, 2026",
+    "body": "Maui County Council Water and Infrastructure Committee",
+    "dur": "34 m",
+    "voteCount": 2,
+    "voteItem": "Close public testimony",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee heard a proposal to rezone six harbor-area properties to B2 business, and the Planning Department said it supports it.",
+    "recap": "Two presenters explained a proposed zoning change for six properties in the triangle area down by the harbor.[[0:04:37]] The presenter said some current zoning labels, like \"open zone,\" do not exist in Maui County Code.[[0:07:09]] He said this makes some buildings non-conforming, which could cause problems if a natural disaster destroyed them.[[0:08:30]] The proposal would make the entire property B2 business zoning.[[0:10:21]] He said the owners are not proposing any new development.[[0:12:08]] Unlike a 2022 proposal for only the Maui Ocean Center properties, this one also includes the harbor shops.[[0:14:28]] One testifier said pathogens from the aquarium may be going improperly into injection wells.[[0:20:51]] He asked for an amendment requiring disclosure of what pathogens may be going into the ocean.[[0:22:34]] Public testimony was closed with no objections.[[0:24:10]] Maui Ocean Center and Harbor Shops agreed to split the cost half and half.[[0:27:09]] The presenter said an earlier rezoning effort ran into a lawsuit from another property owner.[[0:29:45]] The chair moved the item to decision making.[[0:33:56]]",
+    "decided": [
+      "Public testimony on the zoning change was closed with no objections.",
+      "Members agreed to two rounds of three-minute questions each, with no objections."
+    ],
+    "next": "The committee will move to decision making on the zoning change. The committee will continue to accept written testimony.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:04:50",
+        "q": "Presentation on the zoning change begins"
+      },
+      {
+        "t": "0:10:21",
+        "q": "\"Just make the entire property B2 business.\""
+      },
+      {
+        "t": "0:20:51",
+        "q": "Testifier raises concerns about aquarium pathogens"
+      },
+      {
+        "t": "0:25:46",
+        "q": "Planning Department states its support"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "harbor-triangle-rezoning-including-maui-ocean-center",
+        "title": "Harbor triangle rezoning including Maui Ocean Center"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Water and Infrastructure Committee",
+        "group": "council",
+        "short": [
+          "WAI"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "council"
+}

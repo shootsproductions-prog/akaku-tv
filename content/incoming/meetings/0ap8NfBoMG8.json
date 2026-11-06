@@ -1,0 +1,143 @@
+{
+  "videoId": "0ap8NfBoMG8",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-17T00:08:57.337Z",
+  "meetingDateISO": "2026-09-21",
+  "source": {
+    "youtubeUrl": "https://youtu.be/0ap8NfBoMG8"
+  },
+  "headline": "Committee reviews Bill 108 South Maui Community Plan, approves several action changes",
+  "topics": [
+    "Water",
+    "Housing"
+  ],
+  "meeting": {
+    "id": "0ap8NfBoMG8",
+    "mon": "Sep",
+    "day": "21",
+    "date": "Mon, Sep 21, 2026",
+    "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+    "dur": "5 h 33 m",
+    "voteCount": 5,
+    "voteItem": "Add private funding as a source for action 1.09 on transportation demand strategies",
+    "ayes": 8,
+    "noes": 0,
+    "summary": "The committee took up Bill 108, the 2026 South Maui Community Plan update, and voted on amendments to actions 1.09, 1.24, 2.02 and 2.10. The chair said the posted Wednesday meeting would be canceled.",
+    "recap": "The committee's only agenda item was Bill 108, the 2026 South Maui Community Plan update.[[0:07:23]] A retired economics professor serving as a resource person said the plan gives no housing unit counts.[[0:09:37]] A testifier asked that \"required\" be changed to \"encourage\" in some workforce housing policies.[[0:56:03]] The housing director said the testifier had found \"a real potential challenge.\".[[1:14:10]] The committee voted 9-0 to have the county identify public or private roads that could serve as emergency evacuation routes.[[4:24:06]] Members moved to split a parks action into updating the South Maui parks master plan and funding land purchases.[[4:47:13]] The committee voted 7-0 to have action 2.10 say \"mandated by state law.\".[[5:03:58]] The chair said the posted Wednesday meeting would be canceled.[[5:29:44]]",
+    "decided": [
+      "The motion passed 8-0 with one member excused.",
+      "The motion passed 9-0.",
+      "The motion passed 8-0 with one member excused.",
+      "The motion passed 7-0 with two members excused.",
+      "No vote count or result was stated in the captions."
+    ],
+    "next": "Road questions will be sent to Public Works ahead of time so it is ready when the committee revisits them. The posted Wednesday meeting will be canceled.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:08:42",
+        "q": "Resource person's presentation on the plan begins"
+      },
+      {
+        "t": "0:35:38",
+        "q": "Public testimony begins"
+      },
+      {
+        "t": "1:14:10",
+        "q": "Housing director responds on workforce housing policies"
+      },
+      {
+        "t": "1:22:24",
+        "q": "County lawyer explains the plan's financial requirements"
+      },
+      {
+        "t": "1:34:32",
+        "q": "Review of Section 4, implementing actions, begins"
+      },
+      {
+        "t": "4:29:21",
+        "q": "Goal 2.2 actions begin"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "south-maui-community-plan-review",
+        "title": "South Maui Community Plan review"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Disaster Recovery, International Affairs, and Planning Committee",
+        "group": "council",
+        "short": [
+          "DRIP"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 108 (2026)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Water",
+      "since": "Sep 21, 2026",
+      "oneLine": "A resource person said the plan does not compare expected water use with the aquifer's sustainable yield.",
+      "why": "",
+      "deadlines": [],
+      "next": "",
+      "brief": "A testifier said using recycled water for irrigation could free up water for housing.[[#1]] The resource person said the plan lists no water department costs.[[#2]] He said residents across the county could face higher water and wastewater rates.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Sep",
+          "day": "21",
+          "source": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+          "kind": "tv",
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+          "note": "A resource person said the plan does not compare expected water use with the aquifer's sustainable yield.",
+          "proof": "0:38:02",
+          "view": {
+            "type": "meeting",
+            "id": "0ap8NfBoMG8"
+          },
+          "seek": "0:38:02"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Sep 21",
+          "where": "Meeting video at 0:38:02",
+          "view": {
+            "type": "meeting",
+            "id": "0ap8NfBoMG8"
+          },
+          "seek": "0:38:02"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Sep 21",
+          "where": "Meeting video at 1:41:06",
+          "view": {
+            "type": "meeting",
+            "id": "0ap8NfBoMG8"
+          },
+          "seek": "1:41:06"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Sep 21",
+          "where": "Meeting video at 1:41:31",
+          "view": {
+            "type": "meeting",
+            "id": "0ap8NfBoMG8"
+          },
+          "seek": "1:41:31"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

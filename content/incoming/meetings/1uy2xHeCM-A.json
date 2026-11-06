@@ -1,0 +1,63 @@
+{
+  "videoId": "1uy2xHeCM-A",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-14T06:44:18.400Z",
+  "meetingDateISO": "2026-08-06",
+  "source": {
+    "youtubeUrl": "https://youtu.be/1uy2xHeCM-A"
+  },
+  "topics": [],
+  "headline": "Maui Liquor Control Board",
+  "meeting": {
+    "id": "1uy2xHeCM-A",
+    "mon": "Aug",
+    "day": "6",
+    "date": "Thu, Aug 6, 2026",
+    "body": "Maui Liquor Control Board",
+    "dur": "1 h 40 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The chair paused that case so the business could seek a waiver of the conflict.",
+    "recap": "The chair paused that case so the business could seek a waiver of the conflict.[[0:11:55]] The department said a worker served an underage decoy a drink without checking ID.[[0:18:34]] The board voted unanimously to fine the lounge $2,000 on each count.[[0:29:48]] No one appeared for a fish market restaurant; the board proceeded anyway.[[1:00:23]] The board fined the fish market $2,000 on one count and $3,000 on another.[[1:07:19]] The board accepted a market's no contest plea to two counts and dismissed a third by agreement.[[1:11:05]] The board fined the market $1,000 on each of two counts.[[1:20:51]] Every member voted yes to fine the store $1,000 on each of two counts.[[1:37:18]]",
+    "decided": [
+      "The board voted to go into executive session (a closed-door discussion) to deliberate on the fish market case.",
+      "The board fined the fish market $2,000 on count one and $3,000 on count two, with no further penalty on count three.",
+      "The board voted to go into executive session (a closed-door discussion) to deliberate on the market case."
+    ],
+    "next": "The chair told the lounge it will be notified when payment is due.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:04:58",
+        "q": "Board member discloses a conflict of interest"
+      },
+      {
+        "t": "0:42:31",
+        "q": "Board votes on community support letters"
+      },
+      {
+        "t": "1:00:23",
+        "q": "Fish market fails to appear; board proceeds"
+      },
+      {
+        "t": "1:26:32",
+        "q": "\"I agree to wave the conflict.\""
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [],
+    "boards": [
+      {
+        "name": "Liquor Control Commission",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "board"
+}
