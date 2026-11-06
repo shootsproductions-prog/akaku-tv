@@ -1,0 +1,147 @@
+{
+  "videoId": "MioJdveXG-s",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-17T02:03:26.642Z",
+  "meetingDateISO": "2026-04-21",
+  "source": {
+    "youtubeUrl": "https://youtu.be/MioJdveXG-s"
+  },
+  "headline": "Committee cuts two grant items, keeps $2.5 million for village wastewater project",
+  "topics": [
+    "Water",
+    "Housing"
+  ],
+  "meeting": {
+    "id": "MioJdveXG-s",
+    "mon": "Apr",
+    "day": "21",
+    "date": "Tue, Apr 21, 2026",
+    "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+    "dur": "1 h 23 m",
+    "voteCount": 3,
+    "voteItem": "Decrease item 14, renewable energy program grants, by $50,000 and lower the fund transfer to match",
+    "ayes": 8,
+    "noes": null,
+    "summary": "The committee cut $100,000 from Green Building and Resilient Housing Grants and $50,000 from renewable energy grants. A motion to delete $2.5 million for a village association's wastewater project failed four to four; motions on Finance positions and software also failed.",
+    "recap": "The committee cut $100,000 from Green Building and Resilient Housing Grants, with eight ayes and one member excused.[[0:07:09]] The committee cut $50,000 from renewable energy program grants, with eight ayes and one member excused.[[0:08:35]] A member moved to delete $2.5 million for a village association's effort to stop using injection wells.[[0:10:38]] The member said the county has not answered how much it will pay in total for the project.[[0:11:40]] The budget director said the project is estimated to cost $12.48 million to $16.14 million.[[0:23:43]] The director said the mayor pledged up to $9.5 million, spread over years.[[0:23:46]] The director said any funding depends on council approval.[[0:24:04]] The motion to delete the money failed, four ayes to four noes, with one member excused.[[0:40:16]] In Finance, a member moved to cut $122,568 for accountant positions created in fiscal year 21.[[0:55:20]] A member moved to cut funding for service representative positions in the Motor Vehicle and Licensing Program.[[1:00:24]] That motion failed, three ayes to five noes, with one member excused.[[1:07:40]] A member moved to delete $50,000 for software to track internal controls and assess risk.[[1:08:38]] That motion failed, three ayes to six noes.[[1:15:55]]",
+    "decided": [
+      "The committee cut $50,000 from renewable energy program grants, with eight ayes and one member excused.",
+      "The cut to the accounts program passed with eight ayes and one member excused.",
+      "The committee voted to reconsider its earlier cut to the accounts program, with eight ayes and one member excused.",
+      "The member who proposed the accounts program cut withdrew it, with no objection."
+    ],
+    "next": "The budget director said she would get exact information on a $6 million increase in the countywide sewer capital improvement reserve fund. Countywide items will be taken up last. The committee planned to take up fire, housing, human concerns and liquor next.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:40:57",
+        "q": "\"That's four ayes, four nos, motion fails.\""
+      },
+      {
+        "t": "0:41:18",
+        "q": "A member logs on during the roll call"
+      },
+      {
+        "t": "1:19:33",
+        "q": "\"Who uses CD-ROMs?\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "village-association-plan-to-stop-using-injection-wells",
+        "title": "Village association plan to stop using injection wells"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Budget, Finance, and Economic Development Committee",
+        "group": "council",
+        "short": [
+          "BFED"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Water",
+      "since": "Apr 21, 2026",
+      "oneLine": "A motion to delete $2.5 million for a village association's wastewater facility failed.",
+      "why": "One member said the current system is polluting the bay.",
+      "deadlines": [
+        {
+          "d": "this September",
+          "t": "Village association's DOH permit submittal."
+        },
+        {
+          "d": "October",
+          "t": "Village association's building permit."
+        }
+      ],
+      "next": "The association expects to submit its DOH permit in September and get its building permit in October.",
+      "brief": "The budget director said the project is estimated to cost $12.48 million to $16.14 million.[[#1]] The director said the mayor pledged up to $9.5 million, spread over years.[[#2]] The director said construction would start in fiscal year 27.[[#3]] The association has received $1 million from the EPA and $250,000 from a private donor.[[#4]]",
+      "timeline": [
+        {
+          "mon": "Apr",
+          "day": "21",
+          "source": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "kind": "tv",
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "note": "A motion to delete $2.5 million for a village association's wastewater facility failed.",
+          "proof": "0:23:43",
+          "view": {
+            "type": "meeting",
+            "id": "MioJdveXG-s"
+          },
+          "seek": "0:23:43"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 21",
+          "where": "Meeting video at 0:23:43",
+          "view": {
+            "type": "meeting",
+            "id": "MioJdveXG-s"
+          },
+          "seek": "0:23:43"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 21",
+          "where": "Meeting video at 0:23:46",
+          "view": {
+            "type": "meeting",
+            "id": "MioJdveXG-s"
+          },
+          "seek": "0:23:46"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 21",
+          "where": "Meeting video at 0:37:42",
+          "view": {
+            "type": "meeting",
+            "id": "MioJdveXG-s"
+          },
+          "seek": "0:37:42"
+        },
+        {
+          "n": 4,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 21",
+          "where": "Meeting video at 0:39:27",
+          "view": {
+            "type": "meeting",
+            "id": "MioJdveXG-s"
+          },
+          "seek": "0:39:27"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

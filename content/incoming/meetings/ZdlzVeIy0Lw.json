@@ -1,0 +1,136 @@
+{
+  "videoId": "ZdlzVeIy0Lw",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-18T21:03:23.797Z",
+  "meetingDateISO": "2025-03-24",
+  "source": {
+    "youtubeUrl": "https://youtu.be/ZdlzVeIy0Lw"
+  },
+  "headline": "Committee defers Bill 111 on removing and storing personal property in public places",
+  "topics": [
+    "Housing"
+  ],
+  "meeting": {
+    "id": "ZdlzVeIy0Lw",
+    "mon": "Mar",
+    "day": "24",
+    "date": "Mon, Mar 24, 2025",
+    "body": "Maui County Council Water Authority, Social Services, and Parks Committee",
+    "dur": "1 h 03 m",
+    "voteCount": 2,
+    "voteItem": "Order of testimony",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee deferred Bill 111 (2024) with no objections after a special meeting held to meet a 90-day timeline. The chair said the vice chair will likely bring amendments after the budget.",
+    "recap": "The committee held a special meeting on Bill 111 (2024), about removing and storing personal property in public places.[[0:03:41]] The chair said the meeting kept the bill in committee to allow more talks.[[0:05:05]] She said the court does not require the 45 days of notice in Bill 111.[[0:15:00]] She said Bill 111 requires storing property for 90 days, while most other ordinances she found use about 30 days.[[0:17:18]] A testifier said the former mayor had promised encampment residents a piece of land to move to.[[0:25:38]] The vice chair said 45 days of notice matches what people in houses get before an eviction.[[0:32:21]] The pro tem asked that the bill not use the Hawaiian word puʻuhonua.[[0:36:03]] The vice chair said the bill would use the term \"safe space\" instead.[[0:37:49]] The chair said the meeting was needed to meet a 90-day timeline.[[0:45:30]] A council member asked for the contract for a county homeless strategic plan study to see what was delivered.[[0:58:38]] The committee deferred the bill with no objections.[[1:02:03]]",
+    "decided": [
+      "Members agreed with no objections to take public testimony after opening comments.",
+      "Members agreed with no objections to close oral testimony."
+    ],
+    "next": "The chair said the vice chair will likely bring amendments to the bill after the budget. The county lawyer agreed to send members a written summary of the court case. The chair asked staff to follow up with the department on an update about safe parking places. The vice chair said he wants the administration's feedback on the amended bill before it is posted.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:06:44",
+        "q": "County lawyer reviews the Sonia Davis v. Bissen decision"
+      },
+      {
+        "t": "0:19:00",
+        "q": "Public testimony begins"
+      },
+      {
+        "t": "0:36:03",
+        "q": "Pro tem raises concern about the word puʻuhonua"
+      },
+      {
+        "t": "0:45:30",
+        "q": "\"We had to hold this special meeting to keep it in the WASAP committee.\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "safe-parking-sites-for-people-living-in-cars",
+        "title": "Safe parking sites for people living in cars"
+      },
+      {
+        "slug": "bill-111-on-removing-belongings-from-public-places",
+        "title": "Bill 111 on removing belongings from public places"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Water Authority, Social Services, and Parks Committee",
+        "group": "council",
+        "short": [
+          "WASSP"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 111 (2025)",
+      "Bill 111 (2024)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Mar 24, 2025",
+      "oneLine": "The committee is working on Bill 111 (2024), about removing and storing personal property in public places.",
+      "why": "The chair said the bill sets steps to relocate people compassionately when needed, with access to services and storage of their property.",
+      "deadlines": [],
+      "next": "The chair said the vice chair will likely bring amendments to the bill after the budget.",
+      "brief": "She said Bill 111 requires storing property for 90 days, while most other ordinances she found use about 30 days.[[#1]] The vice chair said 45 days of notice matches what people in houses get before an eviction.[[#2]] The committee deferred the bill with no objections.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Mar",
+          "day": "24",
+          "source": "Maui County Council Water Authority, Social Services, and Parks Committee",
+          "kind": "tv",
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee",
+          "note": "The committee is working on Bill 111 (2024), about removing and storing personal property in public places.",
+          "proof": "0:17:18",
+          "view": {
+            "type": "meeting",
+            "id": "ZdlzVeIy0Lw"
+          },
+          "seek": "0:17:18"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Mar 24",
+          "where": "Meeting video at 0:17:18",
+          "view": {
+            "type": "meeting",
+            "id": "ZdlzVeIy0Lw"
+          },
+          "seek": "0:17:18"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Mar 24",
+          "where": "Meeting video at 0:32:21",
+          "view": {
+            "type": "meeting",
+            "id": "ZdlzVeIy0Lw"
+          },
+          "seek": "0:32:21"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Mar 24",
+          "where": "Meeting video at 1:02:03",
+          "view": {
+            "type": "meeting",
+            "id": "ZdlzVeIy0Lw"
+          },
+          "seek": "1:02:03"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

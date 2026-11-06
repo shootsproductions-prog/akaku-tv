@@ -1,0 +1,161 @@
+{
+  "videoId": "KNKf5DnTCgw",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-17T03:42:22.331Z",
+  "meetingDateISO": "2026-04-14",
+  "source": {
+    "youtubeUrl": "https://youtu.be/KNKf5DnTCgw"
+  },
+  "headline": "Committee takes public testimony on fiscal year 27 budget at Kīhei meeting",
+  "topics": [
+    "Water",
+    "Housing",
+    "Disaster Recovery"
+  ],
+  "meeting": {
+    "id": "KNKf5DnTCgw",
+    "mon": "Apr",
+    "day": "14",
+    "date": "Tue, Apr 14, 2026",
+    "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+    "dur": "2 h 10 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee met in Kīhei with the fiscal year 27 budget as its only item. Testifiers raised the Citizen Forester Program, farm water access, and Wailuku Water's $13 million offer. Mediation Services of Maui asked for $154,000 more.",
+    "recap": "The committee met in Kīhei at six o'clock.[[0:00:17]] The only agenda item was the fiscal year 27 budget.[[0:02:31]] Maui Green and Beautiful said the Mayor's budget includes $77,000 for the Citizen Forester Program.[[0:14:18]] A testifier asked questions about a planned Central Maui and South Maui desalination plant.[[0:19:16]] A testifier said the Council defunded wetland restoration the last two years.[[0:23:19]] A testifier said Wailuku Water offered to sell its damaged water system to the County for $13 million.[[0:25:29]] A testifier said farmers cannot plant another crop if they get no water by mid-June.[[0:27:14]] Mediation Services of Maui asked for $154,000 more, for a total of $285,000.[[1:30:07]] A long-term recovery group said it finished two homes in Lahaina and is rebuilding three more.[[2:02:15]]",
+    "decided": [],
+    "next": "Member Cook said he would talk with a testifier after the meeting about a road near the high school.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:07:24",
+        "q": "\"The county stands to lose $1.5 million in federal subsidies\""
+      },
+      {
+        "t": "0:25:29",
+        "q": "Wailuku water system offered for $13 million"
+      },
+      {
+        "t": "1:30:07",
+        "q": "Mediation services funding request"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "contractors-taking-lahaina-rebuilders-money",
+        "title": "Contractors taking Lahaina rebuilders' money"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Budget, Finance, and Economic Development Committee",
+        "group": "council",
+        "short": [
+          "BFED"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Apr 14, 2026",
+      "oneLine": "Mediation Services of Maui asked for more County money as eviction cases rise.",
+      "why": "The director said the group received 82 eviction notices in March and 22 more in the first two weeks of April.",
+      "deadlines": [],
+      "next": "",
+      "brief": "The director said 80% of Act 202 mediations ended in an agreement between landlords and tenants.[[#1]] The group is in the proposed budget for $135,000.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Apr",
+          "day": "14",
+          "source": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "kind": "tv",
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "note": "Mediation Services of Maui asked for more County money as eviction cases rise.",
+          "proof": "1:26:46",
+          "view": {
+            "type": "meeting",
+            "id": "KNKf5DnTCgw"
+          },
+          "seek": "1:26:46"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 14",
+          "where": "Meeting video at 1:26:46",
+          "view": {
+            "type": "meeting",
+            "id": "KNKf5DnTCgw"
+          },
+          "seek": "1:26:46"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 14",
+          "where": "Meeting video at 1:30:07",
+          "view": {
+            "type": "meeting",
+            "id": "KNKf5DnTCgw"
+          },
+          "seek": "1:30:07"
+        }
+      ]
+    },
+    {
+      "issue": "Disaster Recovery",
+      "since": "Apr 14, 2026",
+      "oneLine": "A long-term recovery group is rebuilding homes in Lahaina.",
+      "why": "",
+      "deadlines": [],
+      "next": "",
+      "brief": "The group said it finished two homes and is rebuilding three more.[[#1]] The testifier said the DCCA was involved with the faulty contractor's license.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Apr",
+          "day": "14",
+          "source": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "kind": "tv",
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "note": "A long-term recovery group is rebuilding homes in Lahaina.",
+          "proof": "2:02:21",
+          "view": {
+            "type": "meeting",
+            "id": "KNKf5DnTCgw"
+          },
+          "seek": "2:02:21"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 14",
+          "where": "Meeting video at 2:02:21",
+          "view": {
+            "type": "meeting",
+            "id": "KNKf5DnTCgw"
+          },
+          "seek": "2:02:21"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 14",
+          "where": "Meeting video at 2:06:21",
+          "view": {
+            "type": "meeting",
+            "id": "KNKf5DnTCgw"
+          },
+          "seek": "2:06:21"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

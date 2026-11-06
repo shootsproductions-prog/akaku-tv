@@ -1,0 +1,117 @@
+{
+  "videoId": "Gt9NKmS2tPQ",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-17T02:08:29.874Z",
+  "meetingDateISO": "2026-04-21",
+  "source": {
+    "youtubeUrl": "https://youtu.be/Gt9NKmS2tPQ"
+  },
+  "headline": "Budget committee approves housing changes, discusses Kīhei property purchase",
+  "topics": [
+    "Housing",
+    "Disaster Recovery"
+  ],
+  "meeting": {
+    "id": "Gt9NKmS2tPQ",
+    "mon": "Apr",
+    "day": "21",
+    "date": "Tue, Apr 21, 2026",
+    "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+    "dur": "57 m",
+    "voteCount": 2,
+    "voteItem": "Increase a homeowner and housing counseling program by $165,000",
+    "ayes": 9,
+    "noes": null,
+    "summary": "Members added $165,000 for a homeowner and housing counseling program, one unfunded housing specialist position, and earlier fee waivers to rates and fees, each with nine ayes. A member moved to lower the Cove Beach Village amount to $2.5 million.",
+    "recap": "The committee worked through housing items in the proposed budget.[[0:09:25]] Members approved adding $165,000 to a homeowner and housing counseling program, with nine ayes.[[0:10:11]] The council chair withdrew a $4 million proposal for a Lahaina long-term recovery group, saying another member is proposing $1 million.[[0:11:12]] Members approved one new housing specialist position, with no funding attached, for a long-term housing program, with nine ayes.[[0:13:54]] A county director said a recently passed fee waiver ordinance was not in the fiscal year 27 budget.[[0:18:21]] A proposal sought up to $8.62 million in bond funds to buy Cove Beach Village, a 32-unit site in Kīhei.[[0:19:47]] A county director said the land is valued at about $2.5 million.[[0:23:50]] A county official said a higher negotiated price would come back to the council for approval.[[0:31:29]] A member moved to lower the amount to $2.5 million.[[0:37:01]] Members approved adding fee waivers from an earlier ordinance to the budget's rates and fees, with nine ayes.[[0:47:02]]",
+    "decided": [
+      "Members approved adding $165,000 to a homeowner and housing counseling program.",
+      "The council chair withdrew a $4 million proposal for a Lahaina long-term recovery group.",
+      "Members approved adding fee waivers from an earlier ordinance into Appendix B, rates and fees."
+    ],
+    "next": "Members planned to take up liquor, transportation, planning and other departments that night.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:16:43",
+        "q": "\"The cost of homes, this $30,000 is just not cutting it.\""
+      },
+      {
+        "t": "0:29:46",
+        "q": "\"It's rare to have an opportunity to buy prime land that's fully entitled.\""
+      },
+      {
+        "t": "0:35:31",
+        "q": "\"You don't go to a car dealership and pay the first thing that they say.\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "workforce-housing-fee-waivers-and-repayment-bill",
+        "title": "Workforce housing fee waivers and repayment bill"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Budget, Finance, and Economic Development Committee",
+        "group": "council",
+        "short": [
+          "BFED"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Apr 21, 2026",
+      "oneLine": "The committee voted on several housing changes to the proposed budget.",
+      "why": "",
+      "deadlines": [],
+      "next": "",
+      "brief": "The committee added $165,000 to a homeowner and housing counseling program.[[#1]] Members added previously adopted fee waivers to the budget's rates and fees.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Apr",
+          "day": "21",
+          "source": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "kind": "tv",
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "note": "The committee voted on several housing changes to the proposed budget.",
+          "proof": "0:10:11",
+          "view": {
+            "type": "meeting",
+            "id": "Gt9NKmS2tPQ"
+          },
+          "seek": "0:10:11"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 21",
+          "where": "Meeting video at 0:10:11",
+          "view": {
+            "type": "meeting",
+            "id": "Gt9NKmS2tPQ"
+          },
+          "seek": "0:10:11"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 21",
+          "where": "Meeting video at 0:47:02",
+          "view": {
+            "type": "meeting",
+            "id": "Gt9NKmS2tPQ"
+          },
+          "seek": "0:47:02"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

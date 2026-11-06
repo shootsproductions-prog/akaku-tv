@@ -1,0 +1,137 @@
+{
+  "videoId": "ov8uxTErSC8",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-17T03:24:30.029Z",
+  "meetingDateISO": "2026-04-15",
+  "source": {
+    "youtubeUrl": "https://youtu.be/ov8uxTErSC8"
+  },
+  "headline": "Lānaʻi residents share budget priorities with Council committee",
+  "topics": [
+    "Housing",
+    "Food Security"
+  ],
+  "meeting": {
+    "id": "ov8uxTErSC8",
+    "mon": "Apr",
+    "day": "15",
+    "date": "Wed, Apr 15, 2026",
+    "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+    "dur": "50 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "Residents testified on the mayor's proposed budget, asking for farm support, a bigger college building, a community center and help for kūpuna.",
+    "recap": "The committee's only agenda item was the mayor's proposed fiscal year budget.[[0:02:15]] A speaker for local coaches asked for money to add an extended roof and gutters to the Lānaʻi Field House.[[0:03:41]] A testifier asked for more funding for programs that help kūpuna (elders) age at home.[[0:06:45]] A farmer asked that the Lānaʻi Food Stimulus Program pay farmers more often than every six months.[[0:08:28]] She said she thinks the agriculture budget is 0.2% of the overall budget.[[0:10:39]] A college program leader said she needs a bigger building for the program to grow.[[0:17:18]] A farmer of 50 years said farming should be the number one priority.[[0:19:24]] A testifier asked for targeted funds so planning commission meetings can be held in person and on Zoom.[[0:26:36]] Another testifier asked for a community center that could also serve as an emergency shelter.[[0:38:06]] A council member said the military is looking at county land for a category five shelter, which is like a bunker.[[0:40:31]] The council member said a new affordable housing project includes a community center open to everyone.[[0:40:52]] A testifier said farmers want a commercial kitchen with a processing center and want to find funding for it.[[0:45:00]] The chair adjourned the meeting.[[0:49:18]]",
+    "decided": [],
+    "next": "The chair said she will share the field house sports programs proposal with staff so members can have a copy. A council member asked the college program leader for contact information to talk further.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:16:14",
+        "q": "\"That building is made to serve people and youth.\""
+      },
+      {
+        "t": "0:19:50",
+        "q": "\"You do not sustain the farmers, the people are going to starve.\""
+      },
+      {
+        "t": "0:38:13",
+        "q": "\"We need an emergency shelter.\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "lanai-planning-commission-return-to-in-person-meetings",
+        "title": "Lānaʻi Planning Commission return to in-person meetings"
+      },
+      {
+        "slug": "county-food-and-nutrition-security-plan-law",
+        "title": "County Food and Nutrition Security Plan law"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Budget, Finance, and Economic Development Committee",
+        "group": "council",
+        "short": [
+          "BFED"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Food Security",
+      "since": "Apr 15, 2026",
+      "oneLine": "A Lānaʻi farmer said more money should go into the county's food and nutrition security plan.",
+      "why": "A farmer said that if farmers are not sustained, people will go hungry.",
+      "deadlines": [],
+      "next": "A Lānaʻi farmer said she hopes to apply for the Farm to Family Grant.",
+      "brief": "A Lānaʻi farmer said her sales grew 900% from 2024 to 2025.[[#1]] She said she now feeds over 400 families, partly by working with the Lānaʻi Food Pantry.[[#2]] A commercial farmer said current programs may work for backyard farmers but not for commercial farmers.[[#3]] A testifier said the composting machine farmers rely on has been down for two to three years.[[#4]]",
+      "timeline": [
+        {
+          "mon": "Apr",
+          "day": "15",
+          "source": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "kind": "tv",
+          "title": "Lānaʻi residents share budget priorities with Council committee",
+          "note": "A Lānaʻi farmer said more money should go into the county's food and nutrition security plan.",
+          "proof": "0:08:55",
+          "view": {
+            "type": "meeting",
+            "id": "ov8uxTErSC8"
+          },
+          "seek": "0:08:55"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 15",
+          "where": "Meeting video at 0:08:55",
+          "view": {
+            "type": "meeting",
+            "id": "ov8uxTErSC8"
+          },
+          "seek": "0:08:55"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 15",
+          "where": "Meeting video at 0:09:34",
+          "view": {
+            "type": "meeting",
+            "id": "ov8uxTErSC8"
+          },
+          "seek": "0:09:34"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 15",
+          "where": "Meeting video at 0:23:34",
+          "view": {
+            "type": "meeting",
+            "id": "ov8uxTErSC8"
+          },
+          "seek": "0:23:34"
+        },
+        {
+          "n": 4,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 15",
+          "where": "Meeting video at 0:46:56",
+          "view": {
+            "type": "meeting",
+            "id": "ov8uxTErSC8"
+          },
+          "seek": "0:46:56"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

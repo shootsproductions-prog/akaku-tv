@@ -1,0 +1,146 @@
+{
+  "videoId": "ovi31J36l8U",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-17T03:27:26.830Z",
+  "meetingDateISO": "2026-04-14",
+  "source": {
+    "youtubeUrl": "https://youtu.be/ovi31J36l8U"
+  },
+  "headline": "Maui County Council Budget, Finance, and Economic Development Committee",
+  "topics": [
+    "Water",
+    "Housing",
+    "Disaster Recovery"
+  ],
+  "meeting": {
+    "id": "ovi31J36l8U",
+    "mon": "Apr",
+    "day": "14",
+    "date": "Tue, Apr 14, 2026",
+    "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+    "dur": "2 h 13 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "At a Kīhei budget hearing, residents raised Wailuku water rates, Cove Park wastewater, eviction mediation and disaster recovery funding.",
+    "recap": "The Budget, Finance, Economic Development Committee held a budget hearing in Kīhei.[[0:01:30]] The only agenda item was the County's fiscal year 27 budget.[[0:03:48]] A rider said they depend on the MEO Handy Van for doctor visits and shopping.[[0:10:16]] A resident asked questions about a planned desalination plant, which removes salt from water.[[0:20:34]] A testifier said the damaged Wailuku water system's owner offered to sell it for $13 million.[[0:26:48]] The testifier said Wailuku Water told farmers it may double or triple their water rates.[[0:30:56]] He asked for $5 million more to buy back wetlands to help with flooding.[[0:41:27]] Maui Mediation Services said it received 82 eviction notices in March.[[1:29:03]] A disaster case manager said a long-term recovery group now serves all disasters but has no funds for that.[[2:05:15]] A councilmember asked why contractors who took rebuilders' money are not named publicly.[[2:06:10]] The meeting adjourned at 8:10.[[2:10:52]]",
+    "decided": [],
+    "next": "The County Department of Ag asked farmers for their old and new water invoices to compare rates. Member Cook offered to talk with a testifier after the meeting. The disaster case manager said the recovery group will ask the Council for help funding its work on all disasters.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:07:24",
+        "q": "\"HOPWA means housing opportunities for people with AIDS.\""
+      },
+      {
+        "t": "0:20:34",
+        "q": "Questions on the planned desalination plant"
+      },
+      {
+        "t": "0:41:02",
+        "q": "Cove Park injection well concerns"
+      },
+      {
+        "t": "1:28:04",
+        "q": "Mediation required before evictions for unpaid rent"
+      },
+      {
+        "t": "2:06:10",
+        "q": "Question about contractors who took rebuilders' money"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "central-maui-desalination-study-and-report-release",
+        "title": "Central Maui desalination study and report release"
+      },
+      {
+        "slug": "contractors-taking-lahaina-rebuilders-money",
+        "title": "Contractors taking Lahaina rebuilders' money"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Budget, Finance, and Economic Development Committee",
+        "group": "council",
+        "short": [
+          "BFED"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Disaster Recovery",
+      "since": "Apr 14, 2026",
+      "oneLine": "A long-term recovery group said its mission now covers all disasters, not just the wildfires.",
+      "why": "A councilmember said new rebuilders keep getting ripped off by the same licensed contractor.",
+      "deadlines": [],
+      "next": "The disaster case manager said the group will ask the Council for funding help.",
+      "brief": "The disaster case manager said the group helped complete two homes (hale) in Lahaina.[[#1]] The group's disaster case management program works directly with homeowners to help them rebuild.[[#2]] A councilmember asked why contractors who took rebuilders' money are not named publicly.[[#3]] The disaster case manager said the state consumer agency (DCCA) was involved and legal steps are in process.[[#4]]",
+      "timeline": [
+        {
+          "mon": "Apr",
+          "day": "14",
+          "source": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "kind": "tv",
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "note": "A long-term recovery group said its mission now covers all disasters, not just the wildfires.",
+          "proof": "2:03:32",
+          "view": {
+            "type": "meeting",
+            "id": "ovi31J36l8U"
+          },
+          "seek": "2:03:32"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 14",
+          "where": "Meeting video at 2:03:32",
+          "view": {
+            "type": "meeting",
+            "id": "ovi31J36l8U"
+          },
+          "seek": "2:03:32"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 14",
+          "where": "Meeting video at 2:04:18",
+          "view": {
+            "type": "meeting",
+            "id": "ovi31J36l8U"
+          },
+          "seek": "2:04:18"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 14",
+          "where": "Meeting video at 2:06:10",
+          "view": {
+            "type": "meeting",
+            "id": "ovi31J36l8U"
+          },
+          "seek": "2:06:10"
+        },
+        {
+          "n": 4,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 14",
+          "where": "Meeting video at 2:06:52",
+          "view": {
+            "type": "meeting",
+            "id": "ovi31J36l8U"
+          },
+          "seek": "2:06:52"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

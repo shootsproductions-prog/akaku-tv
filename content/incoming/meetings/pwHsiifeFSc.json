@@ -1,0 +1,67 @@
+{
+  "videoId": "pwHsiifeFSc",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-17T03:02:29.751Z",
+  "meetingDateISO": "2026-04-16",
+  "source": {
+    "youtubeUrl": "https://youtu.be/pwHsiifeFSc"
+  },
+  "headline": "Maui County Council Budget, Finance, and Economic Development Committee",
+  "topics": [
+    "Water",
+    "Disaster Recovery"
+  ],
+  "meeting": {
+    "id": "pwHsiifeFSc",
+    "mon": "Apr",
+    "day": "16",
+    "date": "Thu, Apr 16, 2026",
+    "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+    "dur": "3 h 12 m",
+    "voteCount": 1,
+    "voteItem": "Close public testimony on BFED 1 and accept written testimony",
+    "ayes": null,
+    "noes": null,
+    "summary": "The budget committee reviewed Environmental Management's proposed 13.5% budget increase, including a 9% average sewer rate increase, and closed public testimony.",
+    "recap": "The only agenda item was the proposed fiscal year 2027 County budget.[[0:02:47]] A member said 28 people testified at the South Maui budget meeting.[[0:03:30]] A member said 10 people testified at the Lānaʻi budget meeting on April 15th.[[0:07:03]] The department proposed a 9% average sewer rate increase, about $2.2 million in new revenue.[[0:19:11]] Monthly trash pickup fees on Maui and Molokaʻi would rise from $36 to $37.[[0:20:03]] A Haʻikū testifier said the water department will not drill a deep monitoring well.[[1:19:15]] The committee closed public testimony with no objections.[[1:46:51]] The director said some vacant positions are used to cover overtime costs.[[2:06:49]] The director said Army Corps fees covered moving fire debris to the landfill.[[2:14:27]] Staff said a budget priority survey has 215 responses so far.[[2:57:29]] The meeting adjourned.[[3:11:48]]",
+    "decided": [
+      "The committee closed public testimony with no objections."
+    ],
+    "next": "Staff will give members a final budget survey report at the start of decisions week. The department will follow up in writing on a question about fringe benefit requests.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:20:57",
+        "q": "Public testimony opens"
+      },
+      {
+        "t": "1:45:29",
+        "q": "Vice chair explains asking to preside over this meeting"
+      },
+      {
+        "t": "1:48:00",
+        "q": "Members begin questions for the department"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "haiku-stream-water-testing-funding",
+        "title": "Haʻikū stream water testing funding"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Budget, Finance, and Economic Development Committee",
+        "group": "council",
+        "short": [
+          "BFED"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "council"
+}

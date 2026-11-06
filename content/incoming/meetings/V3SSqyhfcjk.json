@@ -1,0 +1,86 @@
+{
+  "videoId": "V3SSqyhfcjk",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-11-04T07:45:13.335Z",
+  "meetingDateISO": "2024-10-09",
+  "source": {
+    "youtubeUrl": "https://youtu.be/V3SSqyhfcjk"
+  },
+  "topics": [
+    "Housing",
+    "Disaster Recovery"
+  ],
+  "headline": "Maui County Liquor Control Commission",
+  "meeting": {
+    "id": "V3SSqyhfcjk",
+    "mon": "Oct",
+    "day": "9",
+    "date": "Wed, Oct 9, 2024",
+    "body": "Maui County Liquor Control Commission",
+    "dur": "1 h 43 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The department said no rule or law limits a class 5 dispenser license to one category.",
+    "recap": "The department said no rule or law limits a class 5 dispenser license to one category.[[0:07:31]] A motion stated that class 5 licenses are not limited to one category.[[0:25:19]] The commission unanimously approved a liquor license for a sport fishing company's tour boat.[[0:59:51]] The commission unanimously approved the Unicorn Tours of Hawaiʻi liquor license.[[1:18:00]] A commissioner said the wildfire relocation rule's wording, 'destroyed or rendered inoperable,' is too narrow.[[1:33:35]] Commissioners found a sixth provision they had added was missing.[[1:36:55]] The commission unanimously voted to defer the emergency rule item.[[1:39:24]] The commission went into executive session (a closed-door discussion) on two 2023 files.[[1:39:54]]",
+    "decided": [
+      "The commission approved the agenda unanimously.",
+      "The commission approved the September 11, 2024 minutes unanimously.",
+      "The commission confirmed the general licensing matters unanimously.",
+      "The commission approved Unicorn Tours of Hawaiʻi's tour vessel liquor license.",
+      "The commission voted to go into executive session with its attorney on two 2023 files.",
+      "The commission voted to adjourn at 11:37."
+    ],
+    "next": "The chair suggested deferring the emergency rule to next month to see why a provision was missing. The attorney said he may send a letter asking for the question of dropping a license category to come before the commission. The department said it is in the process of revamping its existing regulations.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:07:57",
+        "q": "\"neither rule or law require a holder of a class five dispenser license to be limited to a single category\""
+      },
+      {
+        "t": "0:22:37",
+        "q": "Deputy corporation counsel suggests deferring the dual-category question"
+      },
+      {
+        "t": "0:47:54",
+        "q": "Hāna resident testifies in support of the brewery"
+      },
+      {
+        "t": "0:56:09",
+        "q": "Tour boat applicant corrects slip and passenger numbers"
+      },
+      {
+        "t": "1:04:11",
+        "q": "Vessel owner describes keeping the company open after the fires"
+      },
+      {
+        "t": "1:33:30",
+        "q": "Commissioner questions the emergency rule's wording"
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "emergency-rule-for-relocating-fire-destroyed-liquor-licenses",
+        "title": "Emergency rule for relocating fire-destroyed liquor licenses"
+      },
+      {
+        "slug": "full-rewrite-of-county-liquor-rules",
+        "title": "Full rewrite of county liquor rules"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Liquor Control Commission",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "board"
+}

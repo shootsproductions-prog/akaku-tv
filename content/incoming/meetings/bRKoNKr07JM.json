@@ -1,0 +1,129 @@
+{
+  "videoId": "bRKoNKr07JM",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-21T12:29:00.345Z",
+  "meetingDateISO": "2024-10-24",
+  "source": {
+    "youtubeUrl": "https://youtu.be/bRKoNKr07JM"
+  },
+  "headline": "Maui County Council Water Authority, Social Services, and Parks Committee",
+  "topics": [
+    "Housing"
+  ],
+  "meeting": {
+    "id": "bRKoNKr07JM",
+    "mon": "Oct",
+    "day": "24",
+    "date": "Thu, Oct 24, 2024",
+    "body": "Maui County Council Water Authority, Social Services, and Parks Committee",
+    "dur": "2 h 57 m",
+    "voteCount": 4,
+    "voteItem": "Remove the word puʻuhonua from the bill",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee reviewed proposed changes to Bill 111 on removing and storing property in public places, then deferred it with no objections.",
+    "recap": "The committee discussed Bill 111, which sets rules for removing and storing property in public places and creates a right to shelter.[[0:05:53]] A testifier strongly supported the bill's section on finding other shelter before a camp is removed.[[0:34:26]] The committee decided not to vote on changes today and to note only where members agreed.[[1:58:56]] Members agreed not to use the word puʻuhonua in the bill.[[2:13:03]] A resource person asked for an immediate moratorium, or pause, on sweeps (clearing of homeless camps).[[2:17:38]] The committee chose to revisit a proposal to cut the notice before a camp removal from 45 days to 14.[[2:29:45]] Members agreed an informational meeting must be held at the site at least four days before a removal.[[2:31:26]] Members agreed to drop a section that would let the Council set a fee for storing property.[[2:48:39]] The committee deferred the bill with no objections.[[2:56:30]]",
+    "decided": [
+      "Members agreed by consensus not to use the word puʻuhonua in the bill.",
+      "Members agreed by consensus that notice photos be made available on request instead of posted on a County website.",
+      "Members agreed by consensus to require an informational meeting at the site at least four days before a removal.",
+      "Members agreed by consensus to drop the section allowing a fee for storing and recovering property."
+    ],
+    "next": "The chair said the bill will come back at the next meeting with more chances for testimony. The committee will invite a County director to help define Hawaiian words used in the bill. The administration and outreach providers agreed to work together on the bill before the committee meets again.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "1:07:19",
+        "q": "Testimony on the meaning of puʻuhonua"
+      },
+      {
+        "t": "2:17:38",
+        "q": "\"I would like to request an immediate moratorium\""
+      },
+      {
+        "t": "2:29:45",
+        "q": "14 days or 45 days of notice"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "bill-111-on-removing-belongings-from-public-places",
+        "title": "Bill 111 on removing belongings from public places"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Water Authority, Social Services, and Parks Committee",
+        "group": "council",
+        "short": [
+          "WASSP"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 111 (2024)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Oct 24, 2024",
+      "oneLine": "The committee is working on Bill 111, which sets steps for relocating people and storing their personal property.",
+      "why": "",
+      "deadlines": [],
+      "next": "The bill will return at the committee's next meeting.",
+      "brief": "A testifier said a recent report found rents have gone up 44% since the fires.[[#1]] The administration proposed 14 days of notice before a camp removal instead of 45.[[#2]] Members agreed an informational meeting must be held at the site at least four days before a removal.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Oct",
+          "day": "24",
+          "source": "Maui County Council Water Authority, Social Services, and Parks Committee",
+          "kind": "tv",
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee",
+          "note": "The committee is working on Bill 111, which sets steps for relocating people and storing their personal property.",
+          "proof": "0:21:03",
+          "view": {
+            "type": "meeting",
+            "id": "bRKoNKr07JM"
+          },
+          "seek": "0:21:03"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Oct 24",
+          "where": "Meeting video at 0:21:03",
+          "view": {
+            "type": "meeting",
+            "id": "bRKoNKr07JM"
+          },
+          "seek": "0:21:03"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Oct 24",
+          "where": "Meeting video at 2:29:45",
+          "view": {
+            "type": "meeting",
+            "id": "bRKoNKr07JM"
+          },
+          "seek": "2:29:45"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Oct 24",
+          "where": "Meeting video at 2:31:26",
+          "view": {
+            "type": "meeting",
+            "id": "bRKoNKr07JM"
+          },
+          "seek": "2:31:26"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

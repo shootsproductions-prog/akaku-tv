@@ -1,0 +1,67 @@
+{
+  "videoId": "Pf3okNoee3g",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-11-04T07:39:22.945Z",
+  "meetingDateISO": "2026-08-05",
+  "source": {
+    "youtubeUrl": "https://youtu.be/Pf3okNoee3g"
+  },
+  "topics": [
+    "Housing",
+    "Disaster Recovery"
+  ],
+  "headline": "Housing & Land Use Committee",
+  "meeting": {
+    "id": "Pf3okNoee3g",
+    "mon": "Aug",
+    "day": "5",
+    "date": "Wed, Aug 5, 2026",
+    "body": "Housing & Land Use Committee",
+    "dur": "2 h 27 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee heard testimony on two resolutions to rezone some apartment properties to hotel zoning and recessed to August 19, 2026.",
+    "recap": "The Office of Hawaiian Affairs opposed both resolutions, saying they would affect about 498 units.[[1:22:34]] A representative for the Lāhainā property said it burned in a fire and the owners want hotel zoning.[[1:52:14]] A Lāhainā resident opposed both resolutions.[[2:15:15]] The same testifier said FEMA assistance is set to end in early 2027.[[2:20:41]] The same testifier said a temporary housing site in Kīhei would close on the 31st.[[2:21:07]] A council member said their understanding is the site is not closing.[[2:25:35]] The chair recessed the meeting to August 19, 2026, at 9:00 a.m.[[2:26:10]] About a dozen testifiers were still waiting to speak.[[2:26:50]]",
+    "decided": [
+      "The chair recessed the meeting to August 19, 2026, at 9:00 a.m. without a vote on either resolution."
+    ],
+    "next": "Testimony will continue when the meeting resumes. A council member said the resolutions would go to the planning commission and then come back to the council.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:03:12",
+        "q": "\"I will be ending this meeting at 11:45.\""
+      },
+      {
+        "t": "1:15:14",
+        "q": "Attorney raises possible litigation over inconsistent criteria"
+      },
+      {
+        "t": "1:22:34",
+        "q": "Office of Hawaiian Affairs testifies in opposition"
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p",
+        "title": "Ending apartment vacation rentals and hotel rezoning of 48 properties"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Housing and Land Use Committee",
+        "group": "council",
+        "short": [
+          "HLU"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "board"
+}

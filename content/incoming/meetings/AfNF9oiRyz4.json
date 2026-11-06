@@ -1,0 +1,125 @@
+{
+  "videoId": "AfNF9oiRyz4",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-17T03:06:25.527Z",
+  "meetingDateISO": "2026-04-16",
+  "source": {
+    "youtubeUrl": "https://youtu.be/AfNF9oiRyz4"
+  },
+  "headline": "Maui County Council Budget, Finance, and Economic Development Committee",
+  "topics": [
+    "Water",
+    "Disaster Recovery"
+  ],
+  "meeting": {
+    "id": "AfNF9oiRyz4",
+    "mon": "Apr",
+    "day": "16",
+    "date": "Thu, Apr 16, 2026",
+    "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+    "dur": "1 h 37 m",
+    "voteCount": 1,
+    "voteItem": "Deferral of the item before the committee",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee reviewed the Department of Environmental Management's budget, including a 9% sewer rate increase, and deferred the item.",
+    "recap": "The department said a 9% sewer rate increase covers higher operating costs and capital projects.[[0:30:34]] A division chief said sewer rates may stay near 9% for a couple more years, then slowly go down.[[0:34:33]] The department said fees paid by the Army Corps covered the cost of hauling fire debris to the landfill.[[0:37:20]] The department said a wastewater plant is nearing its treatment limit because of the strength of the incoming wastewater.[[0:46:53]] A county official said the administration does not plan to fully fund the village association's project, since it is not a county facility.[[1:06:16]] The department said it supports both of a council member's proposed bills but worries about having enough staff time.[[1:15:06]] Bill 62 would move recycling from the EP&S division back to the solid waste division.[[1:16:00]] Members' budget proposals are due by 4:30 p.m. Saturday.[[1:18:37]] The committee deferred (postponed) the item.[[1:31:46]] A council public hearing on the 2027 budget is set for 6 p.m. this evening.[[1:32:02]]",
+    "decided": [
+      "The committee deferred the item after the presiding chair asked for objections."
+    ],
+    "next": "Staff will send the department a written question about which capital projects drive the sewer rate increase. Staff will give members a final budget priority survey report at the beginning of decisions week. Members were told to put their priorities in the template until the committee decides how many each member can have.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:30:34",
+        "q": "\"The 9% rate increase for sewer covers increase mainly in operational costs and in CIP.\""
+      },
+      {
+        "t": "0:36:53",
+        "q": "Fire debris hauling costs and Army Corps tipping fees"
+      },
+      {
+        "t": "1:16:00",
+        "q": "Department explains Bill 62 moving recycling to solid waste"
+      },
+      {
+        "t": "1:31:46",
+        "q": "Committee defers the item"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "village-association-plan-to-stop-using-injection-wells",
+        "title": "Village association plan to stop using injection wells"
+      },
+      {
+        "slug": "yearly-9-percent-sewer-rate-increases",
+        "title": "Yearly 9 percent sewer rate increases"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Budget, Finance, and Economic Development Committee",
+        "group": "council",
+        "short": [
+          "BFED"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 62 (2026)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Disaster Recovery",
+      "since": "Apr 16, 2026",
+      "oneLine": "The department said fees paid by the Army Corps covered the cost of hauling fire debris to the landfill.",
+      "why": "",
+      "deadlines": [],
+      "next": "The department said it would get the exact debris hauling cost for the council.",
+      "brief": "A council member asked whether moving fire debris to the new landfill stayed within budget.[[#1]] The department said a division chief confirmed 54 million was collected from the tipping fees.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Apr",
+          "day": "16",
+          "source": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "kind": "tv",
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "note": "The department said fees paid by the Army Corps covered the cost of hauling fire debris to the landfill.",
+          "proof": "0:36:53",
+          "view": {
+            "type": "meeting",
+            "id": "AfNF9oiRyz4"
+          },
+          "seek": "0:36:53"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 16",
+          "where": "Meeting video at 0:36:53",
+          "view": {
+            "type": "meeting",
+            "id": "AfNF9oiRyz4"
+          },
+          "seek": "0:36:53"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 16",
+          "where": "Meeting video at 0:37:47",
+          "view": {
+            "type": "meeting",
+            "id": "AfNF9oiRyz4"
+          },
+          "seek": "0:37:47"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

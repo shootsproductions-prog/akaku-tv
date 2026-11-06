@@ -1,0 +1,223 @@
+{
+  "videoId": "6B2pNZLPNUM",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-17T03:22:27.842Z",
+  "meetingDateISO": "2026-04-16",
+  "source": {
+    "youtubeUrl": "https://youtu.be/6B2pNZLPNUM"
+  },
+  "headline": "Residents seek funding at fiscal year 2027 budget hearing",
+  "topics": [
+    "Housing",
+    "Food Security",
+    "Disaster Recovery"
+  ],
+  "meeting": {
+    "id": "6B2pNZLPNUM",
+    "mon": "Apr",
+    "day": "16",
+    "date": "Thu, Apr 16, 2026",
+    "body": "Maui County Council Public Hearing",
+    "dur": "1 h 48 m",
+    "voteCount": 1,
+    "voteItem": "Closing public testimony on the budget",
+    "ayes": null,
+    "noes": null,
+    "summary": "Residents asked the Maui County Council for budget money for a memorial, disaster recovery, farmers, and transitional housing at a fiscal year 2027 hearing.",
+    "recap": "The Maui County Council held a public hearing on the proposed fiscal year 2027 operating budget and capital program.[[0:00:30]] A nonprofit asked the council for $500,000 to help build a memorial.[[0:11:34]] A community group asked for money to keep a resource and recovery center open for fire and flood survivors.[[0:18:49]] A farmer support group described a $140,000 grant request for one-on-one farmer coaching.[[0:31:37]] A resident asked the council to raise property taxes on properties not lived in by their owners.[[0:41:02]] A transitional housing program for women and children asked for a $40,000 increase.[[1:04:47]] A resident asked for a program audit of the victim witness assistance division in the prosecuting attorney's department.[[1:07:27]] An invasive species program reported finding a dead coconut rhinoceros beetle in one of its traps on April 1st.[[1:24:41]] A group caring for a burial ground area asked for $300,000 for the next year.[[1:36:14]] A council member said the administration wants this group's funding handled as a contract, not a grant.[[1:41:45]] Public testimony on the budget was closed.[[1:47:08]] The meeting was adjourned.[[1:47:22]]",
+    "decided": [
+      "Public testimony on the budget was closed."
+    ],
+    "next": "A council member said they have an item about agricultural subdivisions at the council meeting tomorrow. The chair said if the budget cannot cover an invasive species increase, the program can come back to the administration later.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:05:53",
+        "q": "A 17-year-old high school senior thanks the council for a youth program"
+      },
+      {
+        "t": "1:24:41",
+        "q": "\"On April 1st, we found a dead beetle in one of our traps.\""
+      },
+      {
+        "t": "1:41:26",
+        "q": "A council member explains the grant versus contract dispute"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "coconut-rhinoceros-beetle-detections-on-maui",
+        "title": "Coconut rhinoceros beetle detections on Maui"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Maui County Council",
+        "group": "council",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Apr 16, 2026",
+      "oneLine": "A transitional housing program for women and children asked for a $40,000 increase to its grant.",
+      "why": "A case manager said the program is at capacity and has a wait list.",
+      "deadlines": [],
+      "next": "",
+      "brief": "The program said it is already in the mayor's budget.[[#1]] The program said it is home to 8 moms and 15 children.[[#2]] The director said the increase would help cover rising staff health insurance costs.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Apr",
+          "day": "16",
+          "source": "Maui County Council Public Hearing",
+          "kind": "tv",
+          "title": "Residents seek funding at fiscal year 2027 budget hearing",
+          "note": "A transitional housing program for women and children asked for a $40,000 increase to its grant.",
+          "proof": "1:04:47",
+          "view": {
+            "type": "meeting",
+            "id": "6B2pNZLPNUM"
+          },
+          "seek": "1:04:47"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Public Hearing · Apr 16",
+          "where": "Meeting video at 1:04:47",
+          "view": {
+            "type": "meeting",
+            "id": "6B2pNZLPNUM"
+          },
+          "seek": "1:04:47"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Public Hearing · Apr 16",
+          "where": "Meeting video at 1:04:58",
+          "view": {
+            "type": "meeting",
+            "id": "6B2pNZLPNUM"
+          },
+          "seek": "1:04:58"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Public Hearing · Apr 16",
+          "where": "Meeting video at 1:05:41",
+          "view": {
+            "type": "meeting",
+            "id": "6B2pNZLPNUM"
+          },
+          "seek": "1:05:41"
+        }
+      ]
+    },
+    {
+      "issue": "Food Security",
+      "since": "Apr 16, 2026",
+      "oneLine": "A farm's grants director spoke in support of the Department of Agriculture's fiscal year 2027 budget request.",
+      "why": "The grants director said more grant staff would get money to struggling farms faster and enhance food security.",
+      "deadlines": [
+        {
+          "d": "August",
+          "t": "Applications open for next year's farmer training program."
+        }
+      ],
+      "next": "",
+      "brief": "A farmer support group described a $140,000 grant request for one-on-one farmer coaching.[[#1]]",
+      "timeline": [
+        {
+          "mon": "Apr",
+          "day": "16",
+          "source": "Maui County Council Public Hearing",
+          "kind": "tv",
+          "title": "Residents seek funding at fiscal year 2027 budget hearing",
+          "note": "A farm's grants director spoke in support of the Department of Agriculture's fiscal year 2027 budget request.",
+          "proof": "0:31:37",
+          "view": {
+            "type": "meeting",
+            "id": "6B2pNZLPNUM"
+          },
+          "seek": "0:31:37"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Public Hearing · Apr 16",
+          "where": "Meeting video at 0:31:37",
+          "view": {
+            "type": "meeting",
+            "id": "6B2pNZLPNUM"
+          },
+          "seek": "0:31:37"
+        }
+      ]
+    },
+    {
+      "issue": "Disaster Recovery",
+      "since": "Apr 16, 2026",
+      "oneLine": "A community group asked the council for money to keep a recovery center open for fire and flood survivors.",
+      "why": "The group said more than half of the people it serves were affected by both disasters.",
+      "deadlines": [],
+      "next": "",
+      "brief": "The group said every resource for fire survivors is now also offered to flood survivors.[[#1]] The group said it served over 8,350 people in the past two years.[[#2]] The group said its request is not in the mayor's budget.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Apr",
+          "day": "16",
+          "source": "Maui County Council Public Hearing",
+          "kind": "tv",
+          "title": "Residents seek funding at fiscal year 2027 budget hearing",
+          "note": "A community group asked the council for money to keep a recovery center open for fire and flood survivors.",
+          "proof": "0:19:35",
+          "view": {
+            "type": "meeting",
+            "id": "6B2pNZLPNUM"
+          },
+          "seek": "0:19:35"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Public Hearing · Apr 16",
+          "where": "Meeting video at 0:19:35",
+          "view": {
+            "type": "meeting",
+            "id": "6B2pNZLPNUM"
+          },
+          "seek": "0:19:35"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Public Hearing · Apr 16",
+          "where": "Meeting video at 0:19:53",
+          "view": {
+            "type": "meeting",
+            "id": "6B2pNZLPNUM"
+          },
+          "seek": "0:19:53"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Public Hearing · Apr 16",
+          "where": "Meeting video at 0:21:30",
+          "view": {
+            "type": "meeting",
+            "id": "6B2pNZLPNUM"
+          },
+          "seek": "0:21:30"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

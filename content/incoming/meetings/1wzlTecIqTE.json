@@ -1,0 +1,139 @@
+{
+  "videoId": "1wzlTecIqTE",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-22T06:26:10.043Z",
+  "meetingDateISO": "2025-02-20",
+  "source": {
+    "youtubeUrl": "https://youtu.be/1wzlTecIqTE"
+  },
+  "headline": "Committee reviews farm, water, environment, ferry and bus programs",
+  "topics": [
+    "Water",
+    "Food Security",
+    "Disaster Recovery"
+  ],
+  "meeting": {
+    "id": "1wzlTecIqTE",
+    "mon": "Feb",
+    "day": "20",
+    "date": "Thu, Feb 20, 2025",
+    "body": "Maui County Council Agriculture, Diversification, Environment, & Public Transportation Committee",
+    "dur": "5 h 14 m",
+    "voteCount": 2,
+    "voteItem": "Designating the ferry operator's president as a resource person",
+    "ayes": null,
+    "noes": null,
+    "summary": "Committee reviews farm, water, environment, ferry and bus programs.",
+    "recap": "A Kula watershed group asked for more County funding to protect watersheds after wildfires.[[0:36:19]] The Department of Agriculture said its budget is $8,312,316, a temporary 3% drop from the fiscal year 24 budget.[[1:15:14]] The department said it gave grants to about 64 of 111 applicants, up from 22 last year.[[1:19:23]] The department said a County food and nutrition security plan should be finalized in the next week or two.[[1:22:09]] EP&S said its green grants program grew from $160,000 to $5.86 million.[[2:52:29]] A County ferry study looked at service linking Maui, Molokaʻi and Lānaʻi without carrying vehicles.[[3:19:06]] The consultant estimated a yearly operating subsidy of $1.8 million to $1.9 million.[[3:52:47]]",
+    "decided": [
+      "The committee, with no objections, named the ferry operator's president as a resource person under Rule 18A.",
+      "The committee deferred the ferry feasibility study item with no objections."
+    ],
+    "next": "A council member asked staff to follow up on the Kula Ag Park funding distribution. The consultant said the first step for a County ferry would be an environmental assessment (a formal environmental review). The environmental assessment was estimated to take about a year.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "2:09:12",
+        "q": "\"Water is life\""
+      },
+      {
+        "t": "3:06:47",
+        "q": "\"We need a drop-off center really bad.\""
+      },
+      {
+        "t": "3:19:06",
+        "q": "Ferry feasibility study presentation begins"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "proposed-maui-county-passenger-ferry-to-molokai-and-lanai",
+        "title": "Proposed Maui County passenger ferry to Molokaʻi and Lānaʻi"
+      },
+      {
+        "slug": "kula-burn-scar-fencing-and-native-replanting",
+        "title": "Kula burn scar fencing and native replanting"
+      },
+      {
+        "slug": "county-food-and-nutrition-security-plan-law",
+        "title": "County Food and Nutrition Security Plan law"
+      },
+      {
+        "slug": "kula-ag-park-expansion-and-new-farm-reservoir",
+        "title": "Kula Ag Park expansion and new farm reservoir"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Agriculture, Diversification, Environment, and Public Transportation Committee",
+        "group": "council",
+        "short": [
+          "ADEPT"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Disaster Recovery",
+      "since": "Feb 20, 2025",
+      "oneLine": "A Kula watershed group asked for County funding to restore land burned in the Kula fire.",
+      "why": "The testifier said the 2023 fire left degraded soil, more erosion risk, and land that holds less water.",
+      "deadlines": [],
+      "next": "",
+      "brief": "The group said it has received zero County funding.[[#1]] The testifier said federal funding for recovery and mitigation is decreasing or ending.[[#2]] A biochar company said it needs funding to keep providing free biochar to fire survivors and damaged properties.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Feb",
+          "day": "20",
+          "source": "Maui County Council Agriculture, Diversification, Environment, & Public Transportation Committee",
+          "kind": "tv",
+          "title": "Committee reviews farm, water, environment, ferry and bus programs",
+          "note": "A Kula watershed group asked for County funding to restore land burned in the Kula fire.",
+          "proof": "0:39:48",
+          "view": {
+            "type": "meeting",
+            "id": "1wzlTecIqTE"
+          },
+          "seek": "0:39:48"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Agriculture, Diversification, Environment, & Public Transportation Committee · Feb 20",
+          "where": "Meeting video at 0:39:48",
+          "view": {
+            "type": "meeting",
+            "id": "1wzlTecIqTE"
+          },
+          "seek": "0:39:48"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Agriculture, Diversification, Environment, & Public Transportation Committee · Feb 20",
+          "where": "Meeting video at 0:38:29",
+          "view": {
+            "type": "meeting",
+            "id": "1wzlTecIqTE"
+          },
+          "seek": "0:38:29"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Agriculture, Diversification, Environment, & Public Transportation Committee · Feb 20",
+          "where": "Meeting video at 0:30:17",
+          "view": {
+            "type": "meeting",
+            "id": "1wzlTecIqTE"
+          },
+          "seek": "0:30:17"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

@@ -1,0 +1,78 @@
+{
+  "videoId": "Qe82vmTlsAk",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-11-04T07:37:38.574Z",
+  "meetingDateISO": "2026-10-15",
+  "source": {
+    "youtubeUrl": "https://youtu.be/Qe82vmTlsAk"
+  },
+  "topics": [
+    "Water"
+  ],
+  "headline": "Board of Water Supply",
+  "meeting": {
+    "id": "Qe82vmTlsAk",
+    "mon": "Oct",
+    "day": "15",
+    "date": "Thu, Oct 15, 2026",
+    "body": "Board of Water Supply",
+    "dur": "45 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The Board of Water Supply put off two items and heard the full desalination study cannot be released for security reasons.",
+    "recap": "The board approved its September 17, 2026 minutes with five ayes.[[0:01:36]] A testifier asked the board to take up a Hawaiian Homelands wells agreement with the water department in November.[[0:03:41]] The testifier asked for a legal opinion on whether the agreement breaks the Upcountry community plan.[[0:04:05]] The board put off a talk with the water and planning directors about subdivision water until next meeting.[[0:11:51]] The water director said only a summary of the desalination (seawater-to-fresh-water) study is online.[[0:34:27]] The director said Homeland Security would not allow release of the full study for security reasons.[[0:34:31]] A testifier asked why the budget has money for a new desalination study when the first can't be seen.[[0:37:29]] The director said a releasable West Maui water plan should be out by the end of the year.[[0:40:30]] The director said the new money would fund a next phase looking closer at specific sites.[[0:41:34]] The next meeting is November 19th at 1:30.[[0:44:00]]",
+    "decided": [
+      "discussion with the water supply and planning directors on securing water supply for subdivision applications: The board agreed to put the item off to its next meeting."
+    ],
+    "next": "The chair said the planning director will be asked to come back at the next meeting. A member asked that the planning item be placed at the top of the next agenda, and the chair said she would discuss it. A member said he will draft questions for the board's lawyer about the duties of ex officio (non-voting, by-position) members. The board's lawyer said a future agenda item could discuss sending a letter to the mayor, if the board approves it. The director said the department is working with the Senate to let Hawaiʻi use federal desalination funds.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:03:41",
+        "q": "Testimony asking to add the wells agreement to the November agenda"
+      },
+      {
+        "t": "0:16:26",
+        "q": "East Maui Regional Community Board report"
+      },
+      {
+        "t": "0:34:18",
+        "q": "\"you're probably not going to be thrilled with what I have to say\""
+      },
+      {
+        "t": "0:39:52",
+        "q": "\"This has been going on for two and a half years.\""
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "central-maui-desalination-study-and-report-release",
+        "title": "Central Maui desalination study and report release"
+      },
+      {
+        "slug": "three-dhhl-wells-on-hawaiian-home-lands",
+        "title": "Three DHHL wells on Hawaiian Home Lands"
+      },
+      {
+        "slug": "release-of-an-updated-west-maui-water-plan",
+        "title": "Release of an updated West Maui water plan"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Board of Water Supply",
+        "group": "board",
+        "short": [
+          "BWS"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "board"
+}

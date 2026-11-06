@@ -1,0 +1,66 @@
+{
+  "videoId": "8aasYotZcMM",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-11-04T07:37:03.646Z",
+  "meetingDateISO": "2026-10-16",
+  "source": {
+    "youtubeUrl": "https://youtu.be/8aasYotZcMM"
+  },
+  "topics": [
+    "Water"
+  ],
+  "headline": "East Maui water contested case start moved to January 19",
+  "meeting": {
+    "id": "8aasYotZcMM",
+    "mon": "Oct",
+    "day": "16",
+    "date": "Fri, Oct 16, 2026",
+    "body": "East Maui Water Authority",
+    "dur": "26 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "A county attorney said the East Maui water contested case will start January 19, with hearings open in person but not livestreamed.",
+    "recap": "The board held a special meeting on October 16, 2026, online through Teams.[[0:00:36]] A county attorney for the Department of Water Supply updated the board on East Maui Irrigation's contested case (a court-like hearing).[[0:03:46]] She said the contested case will now start January 19.[[0:05:23]] All November and December dates are canceled, except a possible site visit not yet scheduled.[[0:06:40]] The hearing officer ruled the hearings will be open to the public in person, as space allows, but not livestreamed.[[0:07:14]] Named witnesses may not watch the hearings before they testify.[[0:08:10]] Main witness testimony will be filed in writing as sworn statements, then tested by cross-examination.[[0:09:40]] She said main issues include how much water is requested, county water needs, Native Hawaiian uses, and fire protection.[[0:10:23]] She said no estimate has been given for when a recommendation will reach the board.[[0:16:24]] She offered to summarize witnesses and issues, possibly at the board's December meeting.[[0:18:17]] The chair said whether to ask for a board member on the site visit will go on the next agenda.[[0:22:24]] The water department is seeking a Maui room, such as the planning conference room, for some hearings.[[0:22:50]] The next meeting is November 6, 2026.[[0:25:14]]",
+    "decided": [],
+    "next": "The county attorney said she will share hearing dates with everyone once she has them. The county attorney said a special meeting in early January could be held to share the witness summary. The chair said she would put the site-visit question on the agenda for the next meeting.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:05:23",
+        "q": "\"the main thing was that it got pushed to January 19\""
+      },
+      {
+        "t": "0:07:14",
+        "q": "Ruling: hearings open to the public but not livestreamed"
+      },
+      {
+        "t": "0:10:08",
+        "q": "Main issues the contested case will focus on"
+      },
+      {
+        "t": "0:21:11",
+        "q": "Question about a board member joining the site visit"
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "contested-case-on-mahi-pono-east-maui-water-permits",
+        "title": "Contested case on Mahi Pono East Maui water permits"
+      }
+    ],
+    "boards": [
+      {
+        "name": "East Maui Water Authority",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "board"
+}

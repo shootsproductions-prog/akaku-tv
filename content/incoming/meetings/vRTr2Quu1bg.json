@@ -1,0 +1,130 @@
+{
+  "videoId": "vRTr2Quu1bg",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-18T19:05:54.725Z",
+  "meetingDateISO": "2023-06-19",
+  "source": {
+    "youtubeUrl": "https://youtu.be/vRTr2Quu1bg"
+  },
+  "headline": "Committee hears road extension update, defers item",
+  "topics": [
+    "Housing"
+  ],
+  "meeting": {
+    "id": "vRTr2Quu1bg",
+    "mon": "Jun",
+    "day": "19",
+    "date": "Mon, Jun 19, 2023",
+    "body": "Maui County Council Water and Infrastructure Committee",
+    "dur": "59 m",
+    "voteCount": 3,
+    "voteItem": "Designation of two resource persons under Rule 18",
+    "ayes": null,
+    "noes": null,
+    "summary": "Public Works presented a road extension project with a $34 million construction estimate, and the committee deferred the item with no objections.",
+    "recap": "The project would extend the road about 8,600 feet.[[0:06:53]] The extended road would have two 11-foot travel lanes with wide shoulders for bikes.[[0:08:47]] The team is studying two main bridge designs for a stream crossing.[[0:09:24]] If three power transmission poles must be moved, the team will likely need to go to the Public Utilities Commission.[[0:15:58]] The team expects to finish its environmental assessment, a study of the project's effects, in spring 2024.[[0:17:59]] The plan is to advertise the project for construction in December 2024.[[0:18:35]] The current construction cost estimate is $34 million.[[0:18:40]] One testifier supported the project and called it long overdue.[[0:23:24]] The testifier asked that the design include places for bus stops.[[0:26:01]] The department said the rest would likely come from federal aid and a bond request.[[0:30:11]] The department said it is evaluating roundabouts at every intersection.[[0:51:18]] The committee deferred the item with no objections.[[0:58:09]]",
+    "decided": [
+      "Two project team members were designated as resource persons (people who can answer the committee's questions) with no objections.",
+      "The chair closed oral testimony on the item.",
+      "The committee deferred the road extension item with no objections."
+    ],
+    "next": "The department will send early consultation letters as it begins public review of the environmental assessment. The team plans to hold three to four community outreach meetings. The department said it will consult with DOT on where bus stops should go.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:09:24",
+        "q": "Two bridge designs explained"
+      },
+      {
+        "t": "0:23:24",
+        "q": "\"I think it's long overdue and I'm looking forward to seeing it.\""
+      },
+      {
+        "t": "0:58:09",
+        "q": "Item deferred"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "half-percent-general-excise-tax-surcharge",
+        "title": "Half-percent general excise tax surcharge"
+      },
+      {
+        "slug": "liloa-drive-extension-in-kihei",
+        "title": "Līloa Drive extension in Kīhei"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Water and Infrastructure Committee",
+        "group": "council",
+        "short": [
+          "WAI"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Jun 19, 2023",
+      "oneLine": "The vice chair said the road project is connected to housing.",
+      "why": "The vice chair said a half-percent GET surcharge could pay for water and sewer infrastructure for housing.",
+      "deadlines": [],
+      "next": "The vice chair asked the department for estimates of what the GET surcharge could cover.",
+      "brief": "A testifier said about 100 acres of county land along the road could be available for housing.[[#1]] The testifier asked for a master plan covering the road, housing and a high school together.[[#2]] A council member asked whether the road's route still fits if the county builds housing beside it.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Jun",
+          "day": "19",
+          "source": "Maui County Council Water and Infrastructure Committee",
+          "kind": "tv",
+          "title": "Committee hears road extension update, defers item",
+          "note": "The vice chair said the road project is connected to housing.",
+          "proof": "0:25:02",
+          "view": {
+            "type": "meeting",
+            "id": "vRTr2Quu1bg"
+          },
+          "seek": "0:25:02"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Water and Infrastructure Committee · Jun 19",
+          "where": "Meeting video at 0:25:02",
+          "view": {
+            "type": "meeting",
+            "id": "vRTr2Quu1bg"
+          },
+          "seek": "0:25:02"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Water and Infrastructure Committee · Jun 19",
+          "where": "Meeting video at 0:25:39",
+          "view": {
+            "type": "meeting",
+            "id": "vRTr2Quu1bg"
+          },
+          "seek": "0:25:39"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Water and Infrastructure Committee · Jun 19",
+          "where": "Meeting video at 0:39:55",
+          "view": {
+            "type": "meeting",
+            "id": "vRTr2Quu1bg"
+          },
+          "seek": "0:39:55"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

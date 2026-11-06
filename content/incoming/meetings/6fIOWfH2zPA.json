@@ -1,0 +1,65 @@
+{
+  "videoId": "6fIOWfH2zPA",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-11-04T07:39:58.597Z",
+  "meetingDateISO": "2026-10-15",
+  "source": {
+    "youtubeUrl": "https://youtu.be/6fIOWfH2zPA"
+  },
+  "topics": [
+    "Disaster Recovery"
+  ],
+  "headline": "Fire Commission",
+  "meeting": {
+    "id": "6fIOWfH2zPA",
+    "mon": "Oct",
+    "day": "15",
+    "date": "Thu, Oct 15, 2026",
+    "body": "Fire Commission",
+    "dur": "2 h 14 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The Fire and Public Safety Commission met on Thursday, October 15, 2026.",
+    "recap": "The Fire and Public Safety Commission met on Thursday, October 15, 2026.[[0:00:32]] Members approved the last meeting's minutes with two corrections, with six in favor and one abstaining.[[0:05:14]] The fire chief said the Kīhei fire station site study went to the County Council.[[0:11:19]] Two unexpected grants will pay for equipment that can now come off the FY28 budget request.[[0:12:22]] The study looked at five sites, and the top two are private properties.[[0:15:16]] Of 45 people who passed the ocean safety test, only three passed the agility test.[[0:19:01]] The chief said new speed bumps likely add to a four-second rise in average response time.[[0:24:13]] The deputy chief said paying for new fire trucks fully up front earns the county a discount.[[0:27:07]] A large emergency exercise is planned for December 9.[[0:49:16]] The department expects to start a new firefighter recruit class in February.[[0:53:58]] The chief presented the department's FY28 budget request.[[1:23:45]] The request includes two captain positions to help build a new fire dispatch center.[[1:25:01]] Haʻikū Fire Station approval is waiting to be placed on a County Council agenda.[[1:58:04]] The commission adjourned until January 21, 2027.[[2:13:16]]",
+    "decided": [
+      "The minutes of the last regular meeting were approved with two corrections.",
+      "The meeting was adjourned until January 21, 2027; no vote was heard on the recording."
+    ],
+    "next": "The chief will notify commissioners as soon as the Haʻikū Fire Station makes a council agenda. The commission will not meet in November or December.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:15:16",
+        "q": "Kīhei fire station site options explained"
+      },
+      {
+        "t": "1:07:11",
+        "q": "\"Don't sugarcoat it. People have died here.\""
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "haiku-fire-station-awaits-county-council-approval",
+        "title": "Haʻikū fire station awaits County Council approval"
+      },
+      {
+        "slug": "fire-department-budget-request-with-10-new-positions",
+        "title": "Fire department budget request with 10 new positions"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Fire Commission",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "board"
+}

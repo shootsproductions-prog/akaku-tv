@@ -1,0 +1,66 @@
+{
+  "videoId": "0nwyDrMaDbE",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-17T02:26:41.233Z",
+  "meetingDateISO": "2026-04-21",
+  "source": {
+    "youtubeUrl": "https://youtu.be/0nwyDrMaDbE"
+  },
+  "headline": "Residents testify on proposed Maui property tax rates",
+  "topics": [],
+  "meeting": {
+    "id": "0nwyDrMaDbE",
+    "mon": "Apr",
+    "day": "21",
+    "date": "Tue, Apr 21, 2026",
+    "body": "Maui County Council Public Meeting",
+    "dur": "22 m",
+    "voteCount": 1,
+    "voteItem": "Item announced just before adjournment (wording unclear)",
+    "ayes": null,
+    "noes": null,
+    "summary": "The Maui County Council heard testimony on proposed property tax rates and tiers, including from bed-and-breakfast and vacation rental owners.",
+    "recap": "The meeting was for public testimony on proposed property tax rates and tiers.[[0:01:05]] The council will decide the rates and tiers at the first reading of the budget.[[0:01:14]] He said he would accept the first tier rising from $2.00 to $2.25 and the second tier from $3.00 to $3.50.[[0:10:36]] A speaker for the Maui Chamber of Commerce supported the proposed rates for apartment, commercial and industrial properties.[[0:11:33]] She asked why no change was suggested for non-owner-occupied properties valued over $3 million.[[0:11:55]] She supported keeping one tax rate for agricultural land instead of tiers.[[0:13:45]] She asked the council to keep this year's rate or lower it.[[0:17:38]] A speaker for the Royal House of Hawaiʻi asked whether any of the budget will go back to Hawaiians.[[0:19:35]] It was announced that the budget is scheduled for May 15th.[[0:22:08]]",
+    "decided": [
+      "The presiding officer asked for objections and, hearing none, said \"so ordered\" just before adjourning."
+    ],
+    "next": "The council will decide the property tax rates and tiers at the first reading of the budget.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:05:28",
+        "q": "Tom Crowley testifies on bed-and-breakfast tax rates"
+      },
+      {
+        "t": "0:11:33",
+        "q": "Maui Chamber of Commerce testimony"
+      },
+      {
+        "t": "0:16:25",
+        "q": "Amy Ramos testifies on vacation rental taxes"
+      },
+      {
+        "t": "0:22:12",
+        "q": "\"It is now 626 and this meeting is adjourned.\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "setting-yearly-property-tax-rates",
+        "title": "Setting yearly property tax rates"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Maui County Council",
+        "group": "council",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "council"
+}

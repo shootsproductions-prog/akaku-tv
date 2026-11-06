@@ -1,0 +1,73 @@
+{
+  "videoId": "Adpx8IMDk1I",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-17T02:22:55.306Z",
+  "meetingDateISO": "2026-04-21",
+  "source": {
+    "youtubeUrl": "https://youtu.be/Adpx8IMDk1I"
+  },
+  "headline": "Budget committee reviews Bill 55, approves cuts and bus fare change, adjourns until tomorrow",
+  "topics": [
+    "Housing"
+  ],
+  "meeting": {
+    "id": "Adpx8IMDk1I",
+    "mon": "Apr",
+    "day": "21",
+    "date": "Tue, Apr 21, 2026",
+    "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+    "dur": "1 h 17 m",
+    "voteCount": 6,
+    "voteItem": "New grant condition of $250,000 as a line item",
+    "ayes": 9,
+    "noes": null,
+    "summary": "Members made budget changes under Bill 55, including a $140,000 Category A cut and $170,000 for bus hub security, and removed student ages from bus fare rules. The committee plans to meet tomorrow at 10.",
+    "recap": "The committee reviewed department budgets in Bill 55.[[0:05:54]] Members added liquor fee classes missing from one fee schedule version.[[0:09:40]] Members approved a $250,000 grant condition, with nine ayes.[[0:13:00]] Members cut $140,000 from the same department's Category A budget, with nine ayes.[[0:14:12]] Members voted nine ayes to list the department's pending grants in the budget.[[0:24:36]] A council member proposed cutting $35,000 for rented training space in Personnel Services.[[0:26:54]] The cut failed on a roll call vote, corrected to four ayes and five noes.[[0:32:09]] Members added $170,000 for security at the bus hub, with nine ayes.[[0:48:37]] A council member proposed removing student ages from bus fare rules, so students with valid ID qualify.[[0:50:35]] The fare change passed with nine ayes.[[0:53:21]] Members voted on adding $3.35 million in bond money for 24 North Church Street.[[0:56:57]] Members cut $670,000 in housing contract services, with nine ayes.[[0:59:24]] The committee adjourned and planned to meet tomorrow at 10.[[1:15:57]]",
+    "decided": [
+      "Members approved a new $250,000 grant condition.",
+      "Members approved cutting $140,000 from the department's Category A budget.",
+      "Members approved listing the department's pending grants in Appendix A, Part 1.",
+      "Members approved cutting $150,000 from the Planning Department's Category A budget.",
+      "Members approved removing student ages from the bus fare rules.",
+      "Members were called to vote on adding $3.35 million in bond money for 24 North Church Street, but no count or result was stated."
+    ],
+    "next": "Tomorrow the committee plans to take up Human Concerns, Management, Mayor, Parks and Police. Public Works and Water Supply are also left, with countywide items to be done last. A council member asked that a police budget offset be sent in writing before the committee reaches the police budget.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:07:24",
+        "q": "Underage drinking prevention limit: \"So that's mandated by state law.\""
+      },
+      {
+        "t": "0:17:40",
+        "q": "Debate over travel and blessings costs"
+      },
+      {
+        "t": "1:04:42",
+        "q": "\"How do I make sure that it has at least 3 million?\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "ohana-assistance-program-for-building-family-units",
+        "title": "ʻOhana assistance program for building family units"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Budget, Finance, and Economic Development Committee",
+        "group": "council",
+        "short": [
+          "BFED"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 55 (2026)"
+    ]
+  },
+  "issues": [],
+  "bodyType": "council"
+}

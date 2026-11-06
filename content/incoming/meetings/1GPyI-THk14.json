@@ -1,0 +1,71 @@
+{
+  "videoId": "1GPyI-THk14",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-11-04T07:44:51.885Z",
+  "meetingDateISO": "2024-10-08",
+  "source": {
+    "youtubeUrl": "https://youtu.be/1GPyI-THk14"
+  },
+  "topics": [
+    "Water",
+    "Housing"
+  ],
+  "headline": "Maui Planning Commission - South Maui Plan",
+  "meeting": {
+    "id": "1GPyI-THk14",
+    "mon": "Oct",
+    "day": "8",
+    "date": "Tue, Oct 8, 2024",
+    "body": "Maui Planning Commission - South Maui Plan",
+    "dur": "3 h 35 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The Maui Planning Commission heard testimony on South Maui land use categories, began reviewing area descriptions, and set its next meeting for October 22nd.",
+    "recap": "A condo association president asked to change the property's designation from residential to Resort Hotel.[[0:18:54]] A testifier supporting Small Town Center said a residential-only designation would mean nothing could be built there.[[1:01:17]] Another testifier said the department also proposes deleting a policy calling for 80% residential and 20% commercial there.[[1:37:01]] Staff said the department needs a carrying capacity analysis, a study of how much growth an area can handle.[[2:00:43]] The chair said they would not vote on designations for the research and technology park, out of caution.[[2:07:01]] Commissioners asked that visitors be accounted for when describing each area's population.[[2:10:33]] Commissioners agreed to use traditional Hawaiian place names throughout the plan.[[2:27:24]] For the harbor area, commissioners asked staff to drop 'transit oriented' wording but still describe it as a travel hub.[[3:18:43]] The meeting adjourned, with the next meeting set for October 22nd.[[3:34:12]]",
+    "decided": [
+      "Commissioners agreed by thumbs-up, with no formal vote, to use traditional Hawaiian place names throughout the plan.",
+      "Commissioners agreed, with no formal vote, that each area description should use an easy-to-read table or format of key facts.",
+      "Commissioners agreed, with no formal vote, to send the area descriptions to a county department for its input."
+    ],
+    "next": "The commission will look at the land use maps in detail at a later meeting. Commissioners were asked to send staff notes on cultural uses in each area. Staff will revise the harbor area wording as discussed. The public was asked to check the agenda for the next meeting's location.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:18:19",
+        "q": "Public testimony begins"
+      },
+      {
+        "t": "1:57:53",
+        "q": "\"testimony is closed\""
+      },
+      {
+        "t": "1:58:28",
+        "q": "Commission review of section 3.1 begins"
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "maui-research-and-technology-park-land-designation",
+        "title": "Maui Research and Technology Park land designation"
+      },
+      {
+        "slug": "south-maui-community-plan-review",
+        "title": "South Maui Community Plan review"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Maui Planning Commission",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "board"
+}
