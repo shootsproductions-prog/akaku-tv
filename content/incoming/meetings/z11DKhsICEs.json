@@ -1,0 +1,62 @@
+{
+  "videoId": "z11DKhsICEs",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T07:21:38.026Z",
+  "meetingDateISO": "2026-09-01",
+  "source": {
+    "youtubeUrl": "https://youtu.be/z11DKhsICEs"
+  },
+  "headline": "Committee reviews Vehicle Disposal Fee Fund, takes no legislative action",
+  "topics": [],
+  "meeting": {
+    "id": "z11DKhsICEs",
+    "mon": "Sep",
+    "day": "1",
+    "date": "Tue, Sep 1, 2026",
+    "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+    "dur": "1 h 32 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "The department said it wants the $25 vehicle registration fee to stay at $25 because substantial capital project costs are coming. The chair said possible uses of the fund will be explored another day.",
+    "recap": "The committee reviewed the Vehicle Disposal Fee Fund and Program, item BFED 2032.[[0:16:58]] Drivers pay a $25 fee into the fund each time they register a car.[[0:17:24]] Finance reported average yearly collections of about $4.2 million for fiscal years 21 through 26.[[0:17:36]] The chair said no legislative action would be taken on this item.[[0:18:03]] A deputy director said the fund balance was $19,213,139 as of August 28th.[[0:19:13]] A testifier asked the committee to consider changing the rules to expand use of the program.[[0:30:00]] A department official said they are studying a Hawaiʻi Island program as a model.[[0:36:52]] The official said the fund already pays to remove abandoned vehicles from County property.[[0:37:06]] The official said the County could potentially amend Chapter 3.27 to expand how the money is used.[[0:46:27]] The official said electric vehicles are being stockpiled because permitting and shipping limits halted their processing.[[0:58:47]] A council member asked whether the $25 fee could be reduced to $10.[[1:10:37]] The department said it wants the fee to stay at $25 because substantial CIP (capital project) costs are coming.[[1:11:00]]",
+    "decided": [],
+    "next": "The chair said the committee will send a member's question about a battery processing or holding facility to the department. The chair said possible uses of the fund will be explored another day. A department official offered to provide data on how soon vehicles are towed after a police report.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:19:13",
+        "q": "Fund balance reported: $19,213,139"
+      },
+      {
+        "t": "0:58:47",
+        "q": "Electric vehicles \"being stockpiled at the moment\""
+      },
+      {
+        "t": "1:11:28",
+        "q": "\"We would like to see the $25 remain at $25.\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "vehicle-disposal-fund-uses-and-25-fee",
+        "title": "Vehicle disposal fund uses and $25 fee"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Budget, Finance, and Economic Development Committee",
+        "group": "council",
+        "short": [
+          "BFED"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "council"
+}

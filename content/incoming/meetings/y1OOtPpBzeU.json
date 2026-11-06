@@ -1,0 +1,144 @@
+{
+  "videoId": "y1OOtPpBzeU",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-17T00:13:37.938Z",
+  "meetingDateISO": "2026-05-20",
+  "source": {
+    "youtubeUrl": "https://youtu.be/y1OOtPpBzeU"
+  },
+  "headline": "Committee sends housing project to Planning Commission, recommends farm notice measure",
+  "topics": [
+    "Housing",
+    "Food Security"
+  ],
+  "meeting": {
+    "id": "y1OOtPpBzeU",
+    "mon": "May",
+    "day": "20",
+    "date": "Wed, May 20, 2026",
+    "body": "Maui County Council Housing and Land Use Committee",
+    "dur": "2 h 52 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "After testimony for and against, the committee recommended sending a housing and business project's plan and zoning changes to the Planning Commission. It also recommended adopting Resolution 26-68, on farm tenant notice before subdividing, on a 5–2 roll call vote.",
+    "recap": "Some testifiers opposed the project, citing Pāʻia's small-town character.[[0:12:33]] Other testifiers supported it, saying Maui is in a housing crisis.[[0:22:51]] One testifier asked the committee to require more community meetings in Pāʻia first.[[0:41:33]] Resolution 26-84 would send Pāʻia community plan and zoning changes for over 40 acres to the Maui Planning Commission.[[0:52:47]] The project team said the plan includes a public parking lot of about 200 stalls.[[1:06:44]] The plan also includes about 170 homes: 120 single-family and 50 multi-family.[[1:07:54]] The applicant's attorney said 34 workforce rental units would stay affordable in perpetuity, meaning forever.[[1:14:41]] The planning director said council-started projects get less review, which could reduce community input.[[1:17:27]] Resolution 26-68 would send all three planning commissions a bill requiring farm landowners to notify tenants before subdividing.[[2:18:26]] The committee recommended adopting it on a 5–2 roll call vote.[[2:41:54]] That bill would allow at least two accessory dwelling units, or extra homes, on residential lots.[[2:43:00]]",
+    "decided": [],
+    "next": "A member asked the project team to keep a schedule of open community meetings to share when the item returns.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:04:12",
+        "q": "Public testimony begins"
+      },
+      {
+        "t": "0:55:02",
+        "q": "Project team presentation begins"
+      },
+      {
+        "t": "1:17:16",
+        "q": "Planning Department comments"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "farm-land-subdivision-lessee-notice-bill",
+        "title": "Farm land subdivision lessee notice bill"
+      },
+      {
+        "slug": "paia-40-acre-housing-project-rezoning",
+        "title": "Pāʻia 40-acre housing project rezoning"
+      },
+      {
+        "slug": "allowing-two-accessory-homes-per-residential-lot",
+        "title": "Allowing two accessory homes per residential lot"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Housing and Land Use Committee",
+        "group": "council",
+        "short": [
+          "HLU"
+        ]
+      }
+    ],
+    "bills": [
+      "Resolution 26-84",
+      "Resolution 26-68"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "May 20, 2026",
+      "oneLine": "The committee recommended sending a Pāʻia housing and business project's plan and zoning changes to the Planning Commission.",
+      "why": "A supporter said Maui is in a housing crisis, and the project would add homes.",
+      "deadlines": [],
+      "next": "The resolution goes next to the Planning Commission.",
+      "brief": "The plan includes about 170 homes: 120 single-family and 50 multi-family.[[#1]] Workforce rentals would serve households earning up to 120 percent of the area median income.[[#2]] Gap group homes for sale would target households between 120 and 220 percent of the area median income.[[#3]] A market study recommended pricing the market homes at $1 million to $1.6 million.[[#4]]",
+      "timeline": [
+        {
+          "mon": "May",
+          "day": "20",
+          "source": "Maui County Council Housing and Land Use Committee",
+          "kind": "tv",
+          "title": "Committee advances Pāʻia housing project to Planning Commission",
+          "note": "The committee recommended sending a Pāʻia housing and business project's plan and zoning changes to the Planning Commission.",
+          "proof": "1:07:54",
+          "view": {
+            "type": "meeting",
+            "id": "y1OOtPpBzeU"
+          },
+          "seek": "1:07:54"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Housing and Land Use Committee · May 20",
+          "where": "Meeting video at 1:07:54",
+          "view": {
+            "type": "meeting",
+            "id": "y1OOtPpBzeU"
+          },
+          "seek": "1:07:54"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Housing and Land Use Committee · May 20",
+          "where": "Meeting video at 1:08:50",
+          "view": {
+            "type": "meeting",
+            "id": "y1OOtPpBzeU"
+          },
+          "seek": "1:08:50"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Housing and Land Use Committee · May 20",
+          "where": "Meeting video at 1:09:02",
+          "view": {
+            "type": "meeting",
+            "id": "y1OOtPpBzeU"
+          },
+          "seek": "1:09:02"
+        },
+        {
+          "n": 4,
+          "title": "Maui County Council Housing and Land Use Committee · May 20",
+          "where": "Meeting video at 1:09:26",
+          "view": {
+            "type": "meeting",
+            "id": "y1OOtPpBzeU"
+          },
+          "seek": "1:09:26"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

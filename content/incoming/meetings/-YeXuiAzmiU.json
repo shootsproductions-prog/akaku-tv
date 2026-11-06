@@ -1,0 +1,217 @@
+{
+  "videoId": "-YeXuiAzmiU",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-17T05:09:02.325Z",
+  "meetingDateISO": "2026-04-01",
+  "source": {
+    "youtubeUrl": "https://youtu.be/-YeXuiAzmiU"
+  },
+  "headline": "Budget committee holds first community meeting and takes public testimony",
+  "topics": [
+    "Water",
+    "Housing",
+    "Food Security",
+    "Disaster Recovery"
+  ],
+  "meeting": {
+    "id": "-YeXuiAzmiU",
+    "mon": "Apr",
+    "day": "1",
+    "date": "Wed, Apr 1, 2026",
+    "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+    "dur": "1 h 58 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "Speakers, limited to three minutes each, addressed bus service, STEM programs, transitional housing, deer damage to farmland and farm funding. The chair said the committee will receive a summary of the testimony.",
+    "recap": "The Budget, Finance and Economic Development Committee held its first community meeting and plans to visit every district.[[0:00:00]] The agenda had one item, and each speaker could talk for up to three minutes.[[0:01:36]] A bus rider said the bus service makes part-time work possible.[[0:03:28]] A fifth grader asked the council to keep and increase funding for MEDB STEM programs.[[0:12:21]] A testifier speaking about his water rights was told to stop.[[1:04:44]] The Maui Farm, which offers transitional housing to families facing homelessness, asked for $323,000.[[1:22:01]] A testifier said deer are destroying pastures and farmland.[[1:29:23]] A family-support coalition said it was left out of the mayor's proposed budget for fiscal year 27.[[1:44:44]] A Farm Bureau speaker said the Farm Bureau and four commodity groups are asking for $564,000.[[1:54:54]] The meeting was adjourned after the last testifier.[[1:57:07]]",
+    "decided": [],
+    "next": "The chair said she will advocate for the Maui County Farm Bureau to be added to the budget. The family-support coalition said it will follow up with a budget summary. The chair said staff took notes and the committee will receive a summary of the testimony.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:03:03",
+        "q": "Public testimony begins"
+      },
+      {
+        "t": "1:05:33",
+        "q": "\"Where is my water?\""
+      },
+      {
+        "t": "1:39:49",
+        "q": "Mālama Kula describes its storm response in Kula"
+      },
+      {
+        "t": "1:57:07",
+        "q": "Meeting adjourned"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "malama-kula-green-waste-and-fire-fuel-work",
+        "title": "Mālama Kula green waste and fire fuel work"
+      },
+      {
+        "slug": "axis-deer-damage-and-control-programs",
+        "title": "Axis deer damage and control programs"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Budget, Finance, and Economic Development Committee",
+        "group": "council",
+        "short": [
+          "BFED"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Water",
+      "since": "Apr 1, 2026",
+      "oneLine": "A testifier said he is not getting water he has rights to because a siphon system off the Waiheʻe ditch cannot be put back.",
+      "why": "",
+      "deadlines": [],
+      "next": "",
+      "brief": "The testifier said he does not know how long he will be without his water.[[#1]]",
+      "timeline": [
+        {
+          "mon": "Apr",
+          "day": "1",
+          "source": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "kind": "tv",
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "note": "A testifier said he is not getting water he has rights to because a siphon system off the Waiheʻe ditch cannot be put back.",
+          "proof": "1:05:01",
+          "view": {
+            "type": "meeting",
+            "id": "-YeXuiAzmiU"
+          },
+          "seek": "1:05:01"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 1",
+          "where": "Meeting video at 1:05:01",
+          "view": {
+            "type": "meeting",
+            "id": "-YeXuiAzmiU"
+          },
+          "seek": "1:05:01"
+        }
+      ]
+    },
+    {
+      "issue": "Housing",
+      "since": "Apr 1, 2026",
+      "oneLine": "The Maui Farm asked for $323,000 in county funding for its transitional housing program.",
+      "why": "",
+      "deadlines": [],
+      "next": "",
+      "brief": "The director said eight mothers and 15 children currently live on the farm.[[#1]] The director said the county grant makes up one-third of the farm's overall budget.[[#2]] The director said the request includes a $43,000 increase to cover rising costs.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Apr",
+          "day": "1",
+          "source": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "kind": "tv",
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "note": "The Maui Farm asked for $323,000 in county funding for its transitional housing program.",
+          "proof": "1:22:33",
+          "view": {
+            "type": "meeting",
+            "id": "-YeXuiAzmiU"
+          },
+          "seek": "1:22:33"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 1",
+          "where": "Meeting video at 1:22:33",
+          "view": {
+            "type": "meeting",
+            "id": "-YeXuiAzmiU"
+          },
+          "seek": "1:22:33"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 1",
+          "where": "Meeting video at 1:22:58",
+          "view": {
+            "type": "meeting",
+            "id": "-YeXuiAzmiU"
+          },
+          "seek": "1:22:58"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 1",
+          "where": "Meeting video at 1:23:12",
+          "view": {
+            "type": "meeting",
+            "id": "-YeXuiAzmiU"
+          },
+          "seek": "1:23:12"
+        }
+      ]
+    },
+    {
+      "issue": "Food Security",
+      "since": "Apr 1, 2026",
+      "oneLine": "A testifier asked for county support for farmers and ranchers because deer are destroying pastures and farmland.",
+      "why": "A ranching group leader said Maui ranchers have cut their herds by over 50 percent because deer compete for grass.",
+      "deadlines": [],
+      "next": "",
+      "brief": "A farmer said on-farm composting helps both waste diversion and food security.[[#1]] The ranching group leader said local calves are now kept and processed on Maui to feed residents.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Apr",
+          "day": "1",
+          "source": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "kind": "tv",
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "note": "A testifier asked for county support for farmers and ranchers because deer are destroying pastures and farmland.",
+          "proof": "0:56:51",
+          "view": {
+            "type": "meeting",
+            "id": "-YeXuiAzmiU"
+          },
+          "seek": "0:56:51"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 1",
+          "where": "Meeting video at 0:56:51",
+          "view": {
+            "type": "meeting",
+            "id": "-YeXuiAzmiU"
+          },
+          "seek": "0:56:51"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 1",
+          "where": "Meeting video at 1:32:08",
+          "view": {
+            "type": "meeting",
+            "id": "-YeXuiAzmiU"
+          },
+          "seek": "1:32:08"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

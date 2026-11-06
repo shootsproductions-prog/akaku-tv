@@ -1,0 +1,71 @@
+{
+  "videoId": "ygVQPiP4ARw",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T04:03:27.168Z",
+  "meetingDateISO": "2026-09-30",
+  "source": {
+    "youtubeUrl": "https://youtu.be/ygVQPiP4ARw"
+  },
+  "headline": "Council welcomes Fukuyama City Assembly members, discusses Lahaina recovery",
+  "topics": [
+    "Water",
+    "Disaster Recovery"
+  ],
+  "meeting": {
+    "id": "ygVQPiP4ARw",
+    "mon": "Sep",
+    "day": "30",
+    "date": "Wed, Sep 30, 2026",
+    "body": "Maui County Council Special Meeting",
+    "dur": "51 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "Council members discussed West Maui water, where the county controls delivery of 23 percent, and a county insurance gap program for homeowners rebuilding. The delegation was set to give an evening presentation at UH Maui College.",
+    "recap": "The Maui County Council held a special meeting to welcome visiting members of the Fukuyama City Assembly.[[0:01:59]] A 2008 Council resolution made Maui County and Fukuyama City sister cities.[[0:02:12]] Power is shut off when wind tops 45 miles per hour and humidity is under 45 percent, a council member said.[[0:19:28]] The county controls delivery of 23 percent of West Maui water, with 77 percent handled by private companies.[[0:21:33]] The county's reclaimed water, which is treated wastewater, fell from 5 million to about 3 million gallons a day after the fire.[[0:23:05]] A council member said federal money is helping rebuild, but the paperwork makes it hard for families to get it.[[0:25:59]] The Army Corps of Engineers cleaned up the town, using cultural monitors.[[0:28:27]] The county started an insurance gap program to help homeowners rebuild; gaps are often $300,000 to $500,000.[[0:34:41]] The program uses deed restrictions, limits written into the property deed, so homes are not quickly resold for profit.[[0:35:29]] Everyone was invited to a group photo before the delegation's evening presentation at UH Maui College.[[0:46:29]]",
+    "decided": [],
+    "next": "The delegation was set to give an evening presentation at UH Maui College.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:17:47",
+        "q": "\"They went to Lahaina yesterday to see how the recovery effort has been ongoing\""
+      },
+      {
+        "t": "0:21:33",
+        "q": "Who controls West Maui water"
+      },
+      {
+        "t": "0:34:41",
+        "q": "Insurance gap program explained"
+      },
+      {
+        "t": "0:45:40",
+        "q": "Comparing city budgets"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "county-buying-private-west-maui-water-systems",
+        "title": "County buying private West Maui water systems"
+      },
+      {
+        "slug": "fukuyama-sister-city-delegation-and-follow-up",
+        "title": "Fukuyama sister city delegation and follow-up"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Maui County Council",
+        "group": "council",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "council"
+}
