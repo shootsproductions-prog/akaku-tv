@@ -1,0 +1,150 @@
+{
+  "videoId": "NJzgJmRuAug",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T20:08:41.463Z",
+  "meetingDateISO": "2026-07-07",
+  "headline": "Council approves energy contract financing, passes bills, refers water system purchase",
+  "topics": [
+    "Water",
+    "Housing"
+  ],
+  "bodyType": "council",
+  "meeting": {
+    "id": "NJzgJmRuAug",
+    "mon": "Jul",
+    "day": "7",
+    "date": "Tue, Jul 7, 2026",
+    "body": "Maui County Council Meeting",
+    "dur": "3 h 48 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "Members voted 9–0 to finance Phase 3 of an energy savings contract, and Bill 68 on West Maui parking passed first reading 9–0. Resolution 26-116 on water system assets went to the Budget, Finance, and Economic Development Committee.",
+    "recap": "A council member opened by marking 128 years since the Newlands Resolution, which claimed to annex Hawaiʻi in 1898.[[0:02:39]] A testifier said a county housing program for kūpuna (elders) now houses 10 people in 8 units.[[0:43:00]] Members voted 9–0 to finance Phase 3 of an energy savings contract, up to $9,021,259 plus interest.[[1:26:20]] Bill 68, updating West Maui parking rules, passed first reading 9–0.[[2:34:47]] A council member proposed a charter change so the Director of Finance would receive injury and damage claims starting January 1, 2028.[[2:37:21]] The change passed 9–0.[[2:41:44]] Two resolutions seeking a state property-sale transparency bill passed 8–0, with one member excused.[[2:53:43]] Bill 84, capping bed and breakfast homes on Molokaʻi at five, passed 9–0.[[3:36:53]]",
+    "decided": [
+      "The water system purchase resolution was referred to the Budget, Finance, and Economic Development Committee."
+    ],
+    "next": "Charter amendment resolutions need two readings, so they return for a second reading. A council member will seek a state law change through the council's legislative package so claims handling can later be set by ordinance. The water purchase resolution goes to the budget committee, with presentations in committee.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:02:39",
+        "q": "Opening remarks on the Newlands Resolution"
+      },
+      {
+        "t": "0:29:16",
+        "q": "Miss Aloha Hula 2026 dances a mele"
+      },
+      {
+        "t": "1:13:03",
+        "q": "Lānaʻi Youth Center keiki testify"
+      },
+      {
+        "t": "3:33:19",
+        "q": "Roll call on the vehicle noise bill"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "possible-county-purchase-of-maui-land-and-pine-water-assets",
+        "title": "Possible county purchase of Maui Land and Pine water assets"
+      },
+      {
+        "slug": "charter-amendments-headed-to-the-general-election-ballot",
+        "title": "Charter amendments headed to the general election ballot"
+      },
+      {
+        "slug": "park-maui-paid-and-resident-parking-rules",
+        "title": "Park Maui paid and resident parking rules"
+      },
+      {
+        "slug": "higher-fines-for-loud-vehicle-sound-systems",
+        "title": "Higher fines for loud vehicle sound systems"
+      },
+      {
+        "slug": "johnson-controls-energy-savings-contract-phase-3",
+        "title": "Johnson Controls energy savings contract Phase 3"
+      },
+      {
+        "slug": "cap-on-bed-and-breakfast-homes-on-molokai",
+        "title": "Cap on bed and breakfast homes on Molokaʻi"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Maui County Council",
+        "group": "council",
+        "short": []
+      }
+    ],
+    "bills": [
+      "Bill 68 (2026)",
+      "Bill 84 (2026)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Jul 7, 2026",
+      "oneLine": "A resolution authorizes buying a condo unit in Lahaina for up to $278,000.",
+      "why": "A testifier said over half of the program's 41 waitlisted households are still in FEMA housing.",
+      "deadlines": [],
+      "next": "",
+      "brief": "A testifier said the kūpuna housing program now houses 10 people in 8 units.[[#1]] A county housing testifier said the unit would be bought with federal Community Development Block Grant (CDBG) funds.[[#2]] An amendment added the unit's appraisal report to the resolution.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Jul",
+          "day": "7",
+          "source": "Maui County Council Meeting",
+          "kind": "tv",
+          "title": "Maui County Council Meeting",
+          "note": "A resolution authorizes buying a condo unit in Lahaina for up to $278,000.",
+          "proof": "0:43:00",
+          "view": {
+            "type": "meeting",
+            "id": "NJzgJmRuAug"
+          },
+          "seek": "0:43:00"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Meeting · Jul 7",
+          "where": "Meeting video at 0:43:00",
+          "view": {
+            "type": "meeting",
+            "id": "NJzgJmRuAug"
+          },
+          "seek": "0:43:00"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Meeting · Jul 7",
+          "where": "Meeting video at 0:51:04",
+          "view": {
+            "type": "meeting",
+            "id": "NJzgJmRuAug"
+          },
+          "seek": "0:51:04"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Meeting · Jul 7",
+          "where": "Meeting video at 3:39:07",
+          "view": {
+            "type": "meeting",
+            "id": "NJzgJmRuAug"
+          },
+          "seek": "3:39:07"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "youtubeUrl": "https://youtu.be/NJzgJmRuAug"
+  }
+}

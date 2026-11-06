@@ -1,0 +1,249 @@
+{
+  "videoId": "mmnN74BJwhw",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T10:06:23.230Z",
+  "meetingDateISO": "2026-10-09",
+  "headline": "Maui County Council Meeting",
+  "topics": [
+    "Water",
+    "Housing",
+    "Food Security",
+    "Disaster Recovery"
+  ],
+  "bodyType": "council",
+  "meeting": {
+    "id": "mmnN74BJwhw",
+    "mon": "Oct",
+    "day": "9",
+    "date": "Fri, Oct 9, 2026",
+    "body": "Maui County Council Meeting",
+    "dur": "1 h 52 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "The Council honored Maui County Fair volunteers and passed bills on safe parking, tax exemptions, budget grants and an Aloha Classic sponsor change.",
+    "recap": "A resolution honored generations of volunteers and groups who helped build the Maui County Fair.[[0:16:45]] The fair resolution passed with nine ayes and zero noes.[[0:28:19]] A testifier cited a 2023 state study: 27% of middle schoolers statewide seriously considered suicide.[[0:46:40]] A resolution urged state education and health departments to partner with the County and a wildfire study on school mental health services.[[1:00:21]] Bill 133 would allow more flexibility in the hours and conditions of each safe parking site.[[1:11:45]] A County director said the temporary site will run 24 hours, with a shuttle to the transit hub.[[1:21:56]] Bill 134 would let the mayor sign a water monitoring agreement with the U.S. Geological Survey through September 30, 2027.[[1:30:30]] Bill 135 fixes a real property tax exemption reference that was left out by mistake.[[1:38:19]] Bills 136 and 137 passed first reading with eight ayes, zero noes, and one member excused.[[1:44:10]] The October 23rd meeting will be held in chambers.[[1:47:03]]",
+    "decided": [],
+    "next": "A County director said staff will help safe parking participants get an ID or driver's license.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:13:57",
+        "q": "Opening remarks remembering Uncle Don"
+      },
+      {
+        "t": "0:29:04",
+        "q": "Former fair leaders speak at the podium"
+      },
+      {
+        "t": "0:46:40",
+        "q": "Testimony on youth mental health numbers"
+      },
+      {
+        "t": "1:15:00",
+        "q": "\"would have to be county controlled in some form or fashion\""
+      },
+      {
+        "t": "1:34:37",
+        "q": "A member questions asking the Council for retroactive approval"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "wildfire-survivor-health-study-findings",
+        "title": "Wildfire survivor health study findings"
+      },
+      {
+        "slug": "safe-parking-sites-for-people-living-in-cars",
+        "title": "Safe parking sites for people living in cars"
+      },
+      {
+        "slug": "yearly-usgs-water-monitoring-agreement",
+        "title": "Yearly USGS water monitoring agreement"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Maui County Council",
+        "group": "council",
+        "short": []
+      }
+    ],
+    "bills": [
+      "Bill 133 (2026)",
+      "Bill 134 (2026)",
+      "Bill 135 (2026)",
+      "Bill 136 (2026)",
+      "Bill 137 (2026)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Water",
+      "since": "Oct 9, 2026",
+      "oneLine": "Bill 134 would let the mayor sign a water monitoring agreement with the U.S. Geological Survey.",
+      "why": "The program collects rainfall, streamflow, and groundwater data used to track Maui County water resources on Maui and Molokaʻi.",
+      "deadlines": [],
+      "next": "",
+      "brief": "The agreement covers October 1, 2026 through September 30, 2027.[[#1]] The agreement would cost $225,920, with $199,720 from the Department of Water Supply and $26,200 from the U.S. Geological Survey.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Oct",
+          "day": "9",
+          "source": "Maui County Council Meeting",
+          "kind": "tv",
+          "title": "Maui County Council Meeting",
+          "note": "Bill 134 would let the mayor sign a water monitoring agreement with the U.S. Geological Survey.",
+          "proof": "1:30:37",
+          "view": {
+            "type": "meeting",
+            "id": "mmnN74BJwhw"
+          },
+          "seek": "1:30:37"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Meeting · Oct 9",
+          "where": "Meeting video at 1:30:37",
+          "view": {
+            "type": "meeting",
+            "id": "mmnN74BJwhw"
+          },
+          "seek": "1:30:37"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Meeting · Oct 9",
+          "where": "Meeting video at 1:31:06",
+          "view": {
+            "type": "meeting",
+            "id": "mmnN74BJwhw"
+          },
+          "seek": "1:31:06"
+        }
+      ]
+    },
+    {
+      "issue": "Food Security",
+      "since": "Oct 9, 2026",
+      "oneLine": "Bill 137 adds a $75,000 state Department of Health grant for a farmers market navigator program.",
+      "why": "The budget director said the program will support participating farmers markets.",
+      "deadlines": [],
+      "next": "",
+      "brief": "The grant goes to the Department of Agriculture from the state's Chronic Disease Prevention Health Promotion Division.[[#1]] Bill 137 passed first reading with eight ayes and zero noes.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Oct",
+          "day": "9",
+          "source": "Maui County Council Meeting",
+          "kind": "tv",
+          "title": "Maui County Council Meeting",
+          "note": "Bill 137 adds a $75,000 state Department of Health grant for a farmers market navigator program.",
+          "proof": "0:48:58",
+          "view": {
+            "type": "meeting",
+            "id": "mmnN74BJwhw"
+          },
+          "seek": "0:48:58"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Meeting · Oct 9",
+          "where": "Meeting video at 0:48:58",
+          "view": {
+            "type": "meeting",
+            "id": "mmnN74BJwhw"
+          },
+          "seek": "0:48:58"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Meeting · Oct 9",
+          "where": "Meeting video at 1:44:10",
+          "view": {
+            "type": "meeting",
+            "id": "mmnN74BJwhw"
+          },
+          "seek": "1:44:10"
+        }
+      ]
+    },
+    {
+      "issue": "Disaster Recovery",
+      "since": "Oct 9, 2026",
+      "oneLine": "A resolution urged state education and health departments to partner with the County and the Maui Wildfire Exposure Study on school mental health services.",
+      "why": "The resolution says the study examines how the 2023 Maui wildfires affect survivors' physical and mental health, child development, and recovery.",
+      "deadlines": [],
+      "next": "",
+      "brief": "A testifier cited a 2023 state study finding 27% of middle schoolers statewide seriously considered suicide.[[#1]] The resolution seeks a simple, voluntary mental health screening and referral pathway for children in Maui County schools.[[#2]] The resolution encourages the state departments to name representatives to build an implementation plan with the County.[[#3]] A vote was called on the resolution, but the result is not in the captions.[[#4]]",
+      "timeline": [
+        {
+          "mon": "Oct",
+          "day": "9",
+          "source": "Maui County Council Meeting",
+          "kind": "tv",
+          "title": "Maui County Council Meeting",
+          "note": "A resolution urged state education and health departments to partner with the County and the Maui Wildfire Exposure Study on school mental health services.",
+          "proof": "0:46:40",
+          "view": {
+            "type": "meeting",
+            "id": "mmnN74BJwhw"
+          },
+          "seek": "0:46:40"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Meeting · Oct 9",
+          "where": "Meeting video at 0:46:40",
+          "view": {
+            "type": "meeting",
+            "id": "mmnN74BJwhw"
+          },
+          "seek": "0:46:40"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Meeting · Oct 9",
+          "where": "Meeting video at 1:01:53",
+          "view": {
+            "type": "meeting",
+            "id": "mmnN74BJwhw"
+          },
+          "seek": "1:01:53"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Meeting · Oct 9",
+          "where": "Meeting video at 1:03:04",
+          "view": {
+            "type": "meeting",
+            "id": "mmnN74BJwhw"
+          },
+          "seek": "1:03:04"
+        },
+        {
+          "n": 4,
+          "title": "Maui County Council Meeting · Oct 9",
+          "where": "Meeting video at 1:06:12",
+          "view": {
+            "type": "meeting",
+            "id": "mmnN74BJwhw"
+          },
+          "seek": "1:06:12"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "youtubeUrl": "https://youtu.be/mmnN74BJwhw"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "videoId": "ddTYKdPxK9g",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T23:15:18.648Z",
+  "meetingDateISO": "2026-10-05",
+  "headline": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+  "topics": [
+    "Housing"
+  ],
+  "bodyType": "council",
+  "meeting": {
+    "id": "ddTYKdPxK9g",
+    "mon": "Oct",
+    "day": "5",
+    "date": "Mon, Oct 5, 2026",
+    "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+    "dur": "5 h 07 m",
+    "voteCount": 2,
+    "voteItem": "Continue a consultant as a resource person for North Kīhei Mauka",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee reviewed the South Maui Community Plan update, heard testimony on the Wailea Golf plan, and recessed until October 6, 2026.",
+    "recap": "The committee met to review Bill 108 (2026), the South Maui Community Plan update.[[0:06:17]] The main motion to recommend passing the bill on first reading carried over from earlier meetings.[[0:09:07]] Another testifier backed a Wailea Community Association compromise that keeps the Blue Course.[[0:20:01]] The golf representative and the community association president agreed to work together on traffic.[[3:49:46]] The chair said no vote on Section 3 is planned this week.[[3:53:35]] The committee recessed until 9 a.m. on October 6, 2026.[[5:06:05]]",
+    "decided": [
+      "A consultant was kept on as a resource person for the North Kīhei Mauka section without objection.",
+      "Public testimony was closed and written testimony was accepted into the record."
+    ],
+    "next": "The chair asked to draft a letter to the Finance Department about the roughly $20 million subdivision bond. The chair said she hopes to go through the whole plan later this week.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:09:22",
+        "q": "Public testimony begins"
+      },
+      {
+        "t": "2:49:49",
+        "q": "Wailea Golf property discussion begins"
+      },
+      {
+        "t": "3:50:27",
+        "q": "\"Absolutely. Okay. There you have it. You heard it here first.\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "south-maui-community-plan-review",
+        "title": "South Maui Community Plan review"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Disaster Recovery, International Affairs, and Planning Committee",
+        "group": "council",
+        "short": [
+          "DRIP"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 108 (2026)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Oct 5, 2026",
+      "oneLine": "A draft policy says North Kīhei Mauka homes may be built for Maui residents with a range of types and prices.",
+      "why": "",
+      "deadlines": [],
+      "next": "",
+      "brief": "The representative said they have committed to doing \"30% in excess of the requirement.\".[[#1]] The representative said 225 acres could hold 600 to 1,000 homes, but no number is set.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Oct",
+          "day": "5",
+          "source": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+          "kind": "tv",
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+          "note": "A draft policy says North Kīhei Mauka homes may be built for Maui residents with a range of types and prices.",
+          "proof": "3:25:48",
+          "view": {
+            "type": "meeting",
+            "id": "ddTYKdPxK9g"
+          },
+          "seek": "3:25:48"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Oct 5",
+          "where": "Meeting video at 3:25:48",
+          "view": {
+            "type": "meeting",
+            "id": "ddTYKdPxK9g"
+          },
+          "seek": "3:25:48"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Oct 5",
+          "where": "Meeting video at 3:14:02",
+          "view": {
+            "type": "meeting",
+            "id": "ddTYKdPxK9g"
+          },
+          "seek": "3:14:02"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "youtubeUrl": "https://youtu.be/ddTYKdPxK9g"
+  }
+}

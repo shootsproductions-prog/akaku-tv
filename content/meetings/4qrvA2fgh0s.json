@@ -1,0 +1,67 @@
+{
+  "videoId": "4qrvA2fgh0s",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-12T06:45:50.330Z",
+  "meetingDateISO": "2024-11-26",
+  "headline": "Maui Planning Commission",
+  "topics": [
+    "Water",
+    "Disaster Recovery"
+  ],
+  "bodyType": "board",
+  "meeting": {
+    "id": "4qrvA2fgh0s",
+    "mon": "Nov",
+    "day": "26",
+    "date": "Tue, Nov 26, 2024",
+    "body": "Maui Planning Commission",
+    "dur": "4 h 50 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The commission sought a closed Lahaina site visit, approved a beach park graywater permit, and deferred a resort case to January 28.",
+    "recap": "Staff said public attendance was impractical because the area remains closed for security and debris removal.[[0:06:36]] Six commissioners voted in favor of the request.[[0:18:14]] The Department of Water Supply sought a coastal zone permit for a graywater (used shower and sink water) system at a Central Maui beach park.[[0:18:44]] The county planner said the system would save 14.4 million gallons of water a year.[[0:48:07]] The commission approved the permit.[[1:15:09]] In a resort contested case (a court-like hearing), the intervenors' lawyer asked Commissioner Ward to step aside.[[1:26:30]] Commissioner Ward will seek a Board of Ethics opinion before taking part.[[1:28:29]] The applicant said the project now includes 137 new guest rooms in two expanded wings.[[1:49:07]] They added a condition requiring a carbon footprint calculation and a plan to offset it.[[3:15:13]] They voted to add new storm water language to condition 15.[[3:38:37]] They added a condition for a plan to let the beach move inland while protecting burials.[[4:37:20]] The case was deferred to January 28.[[4:48:27]]",
+    "decided": [],
+    "next": "Staff will contact commissioners to schedule a date for the site visit. Review of the resort case conditions will pick up with traffic and roadways.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:18:28",
+        "q": "\"that's six votes in favor\""
+      },
+      {
+        "t": "0:48:07",
+        "q": "\"14.4 million gallons of water per year\""
+      },
+      {
+        "t": "1:26:30",
+        "q": "Intervenors ask Commissioner Ward to step aside"
+      },
+      {
+        "t": "4:24:03",
+        "q": "\"the vote fails with two in favor\""
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "kanaha-beach-park-graywater-reuse-project",
+        "title": "Kānaha Beach Park graywater reuse project"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Maui Planning Commission",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "source": {
+    "youtubeUrl": "https://youtu.be/4qrvA2fgh0s"
+  }
+}

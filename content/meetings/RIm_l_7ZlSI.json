@@ -1,0 +1,173 @@
+{
+  "videoId": "RIm_l_7ZlSI",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T23:47:04.613Z",
+  "meetingDateISO": "2026-05-20",
+  "headline": "Committee replaces Bill 164 with revised version, discusses Kahuluʻi land bills",
+  "topics": [
+    "Water",
+    "Housing"
+  ],
+  "bodyType": "council",
+  "meeting": {
+    "id": "RIm_l_7ZlSI",
+    "mon": "May",
+    "day": "20",
+    "date": "Wed, May 20, 2026",
+    "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+    "dur": "2 h 35 m",
+    "voteCount": 1,
+    "voteItem": "Motion to replace Bill 164 with the proposed CD1 version",
+    "ayes": 6,
+    "noes": 0,
+    "summary": "Bill 163 would put Kahuluʻi land inside the urban growth boundary, and Bill 164 would change its plan use to business multifamily. Bill 165 is held for the Land Use Commission; full council will learn if five or six votes are needed.",
+    "recap": "Bill 163 would put land in Kahului inside the island's urban growth boundary.[[0:05:58]] Bill 164 would change the land's community plan use from agriculture to business multifamily.[[0:07:13]] The planning director suggested waiting until a land inventory update is done and the public can take part.[[0:32:37]] The project representative said a first phase of about 270 units could be ready by mid-2029.[[0:42:59]] Another testifier asked the council to oppose the project or delay it until a final environmental study is approved.[[1:03:33]] Full council will learn whether five or six votes are needed to pass the bills.[[2:34:17]]",
+    "decided": [
+      "The committee replaced Bill 164 with a revised version (CD1) that corrects the property size."
+    ],
+    "next": "The chair said Bill 165 would be held until the committee hears back from the Land Use Commission on the district boundary amendment. The chair said a public hearing would also have to be scheduled for Bill 163. The project representative agreed to work with the chair on getting the word out before each chance for public testimony. The chair said the housing director will be in contact with the project representative. The bills go to full council, where members will learn if five or six votes are needed.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:17:23",
+        "q": "Planning Department presentation begins"
+      },
+      {
+        "t": "1:00:23",
+        "q": "Testimony urging the council to reject the proposal"
+      },
+      {
+        "t": "1:30:20",
+        "q": "\"We all defer to the deferring department of planning.\""
+      },
+      {
+        "t": "2:25:40",
+        "q": "Motion to recommend passage of Bill 163"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "bills-163-and-164-for-163-acre-central-maui-growth",
+        "title": "Bills 163 and 164 for 163-acre Central Maui growth"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Disaster Recovery, International Affairs, and Planning Committee",
+        "group": "council",
+        "short": [
+          "DRIP"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 164 (2026)",
+      "Bill 163 (2026)",
+      "Bill 165 (2026)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Water",
+      "since": "May 20, 2026",
+      "oneLine": "The project representative said an existing well would be converted to supply the project's water.",
+      "why": "",
+      "deadlines": [],
+      "next": "The project team said it is waiting on water reports before moving its final EIS forward.",
+      "brief": "A testifier said the water would come from an old agricultural well with questionable quantity and quality.[[#1]]",
+      "timeline": [
+        {
+          "mon": "May",
+          "day": "20",
+          "source": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+          "kind": "tv",
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+          "note": "The project representative said an existing well would be converted to supply the project's water.",
+          "proof": "1:02:03",
+          "view": {
+            "type": "meeting",
+            "id": "RIm_l_7ZlSI"
+          },
+          "seek": "1:02:03"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · May 20",
+          "where": "Meeting video at 1:02:03",
+          "view": {
+            "type": "meeting",
+            "id": "RIm_l_7ZlSI"
+          },
+          "seek": "1:02:03"
+        }
+      ]
+    },
+    {
+      "issue": "Housing",
+      "since": "May 20, 2026",
+      "oneLine": "The project representative said the goal is to provide housing quickly, with commercial and industrial uses secondary.",
+      "why": "A testifier said housing is the biggest hurdle to keeping workers on Maui.",
+      "deadlines": [
+        {
+          "d": "September",
+          "t": "Start of final EIS acceptance process."
+        },
+        {
+          "d": "November",
+          "t": "Final EIS acceptance possibly done."
+        },
+        {
+          "d": "January of 2028",
+          "t": "Target for building permits."
+        }
+      ],
+      "next": "The bills go to full council, where members will learn if five or six votes are needed.",
+      "brief": "The project representative said a first phase of about 270 units could be ready by mid-2029.[[#1]] Planning confirmed a proposed zoning condition would cap rents at or below 140 percent of AMI (area median income).[[#2]]",
+      "timeline": [
+        {
+          "mon": "May",
+          "day": "20",
+          "source": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+          "kind": "tv",
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+          "note": "The project representative said the goal is to provide housing quickly, with commercial and industrial uses secondary.",
+          "proof": "0:42:59",
+          "view": {
+            "type": "meeting",
+            "id": "RIm_l_7ZlSI"
+          },
+          "seek": "0:42:59"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · May 20",
+          "where": "Meeting video at 0:42:59",
+          "view": {
+            "type": "meeting",
+            "id": "RIm_l_7ZlSI"
+          },
+          "seek": "0:42:59"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · May 20",
+          "where": "Meeting video at 2:04:46",
+          "view": {
+            "type": "meeting",
+            "id": "RIm_l_7ZlSI"
+          },
+          "seek": "2:04:46"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "youtubeUrl": "https://youtu.be/RIm_l_7ZlSI"
+  }
+}

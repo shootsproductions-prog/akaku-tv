@@ -1,0 +1,102 @@
+{
+  "videoId": "q7BT6e0tKXE",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T19:09:53.667Z",
+  "meetingDateISO": "2026-09-09",
+  "headline": "Committee discusses hotel-district rezoning for apartments with vacation rentals",
+  "topics": [
+    "Housing"
+  ],
+  "bodyType": "council",
+  "meeting": {
+    "id": "q7BT6e0tKXE",
+    "mon": "Sep",
+    "day": "9",
+    "date": "Wed, Sep 9, 2026",
+    "body": "Maui County Council Housing and Land Use Committee",
+    "dur": "3 h 23 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "Members took up a limit on rezoning based on 2008 resident use; a version not applying to flood hazard areas passed. The chair said conditions will be set after Maui Planning Commission review. A motion to adopt a resolution was pending when the recording ended.",
+    "recap": "The Housing and Land Use Committee reconvened its August 5 meeting on September 9, 2026.[[0:00:24]] Council Member Paltin proposed conditions such as public beach access and an updated state-certified shoreline assessment.[[0:38:59]] The chair said conditions would be set later, after the Maui Planning Commission reviews them.[[0:46:28]] Another council member proposed limiting rezoning to properties with no more than 25% resident use in 2008.[[2:09:37]] That proposal failed, 4 to 5.[[2:35:33]] A version that does not apply the rule to flood hazard areas passed, 5 to 4.[[2:37:04]] The result of that vote is not in the recording.[[3:06:34]] Council Member Cook moved to adopt Resolution 26-130.[[3:08:35]]",
+    "decided": [
+      "A motion to adopt Resolution 26-130 was on the floor when the recording ended, with no vote heard."
+    ],
+    "next": "The committee report will note the South Kīhei Road proposal and ask the Planning Commission for its view.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "2:14:35",
+        "q": "\"Hundreds of families in my community were pushed out\""
+      },
+      {
+        "t": "2:43:06",
+        "q": "\"We're seeing the actual short-term rentals move off of their footings\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p",
+        "title": "Ending apartment vacation rentals and hotel rezoning of 48 properties"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Housing and Land Use Committee",
+        "group": "council",
+        "short": [
+          "HLU"
+        ]
+      }
+    ],
+    "bills": [
+      "Resolution 26-130"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Sep 9, 2026",
+      "oneLine": "The committee is deciding which apartment properties with vacation rentals get rezoned to hotel districts.",
+      "why": "A council member said the goal is to reclaim housing from the tourism industry.",
+      "deadlines": [],
+      "next": "",
+      "brief": "Finance data showed eight properties had more than 25% residential use.[[#1]]",
+      "timeline": [
+        {
+          "mon": "Sep",
+          "day": "9",
+          "source": "Maui County Council Housing and Land Use Committee",
+          "kind": "tv",
+          "title": "Committee narrows hotel rezoning criteria in split 5–4 votes",
+          "note": "The committee is deciding which apartment properties with vacation rentals get rezoned to hotel districts.",
+          "proof": "2:10:45",
+          "view": {
+            "type": "meeting",
+            "id": "q7BT6e0tKXE"
+          },
+          "seek": "2:10:45"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Housing and Land Use Committee · Sep 9",
+          "where": "Meeting video at 2:10:45",
+          "view": {
+            "type": "meeting",
+            "id": "q7BT6e0tKXE"
+          },
+          "seek": "2:10:45"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "youtubeUrl": "https://youtu.be/q7BT6e0tKXE"
+  }
+}

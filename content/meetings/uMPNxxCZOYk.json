@@ -1,0 +1,133 @@
+{
+  "videoId": "uMPNxxCZOYk",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T21:12:39.096Z",
+  "meetingDateISO": "2026-06-03",
+  "headline": "Committee approves amendments to accessory dwelling bill, discusses Molokaʻi B&B cap",
+  "topics": [
+    "Housing"
+  ],
+  "bodyType": "council",
+  "meeting": {
+    "id": "uMPNxxCZOYk",
+    "mon": "Jun",
+    "day": "3",
+    "date": "Wed, Jun 3, 2026",
+    "body": "Maui County Council Housing and Land Use Committee",
+    "dur": "1 h 44 m",
+    "voteCount": 1,
+    "voteItem": "Chair's amendment on rural zoning and accessory dwelling parking",
+    "ayes": 7,
+    "noes": null,
+    "summary": "Members approved two amendments to the bill on accessory dwelling units, each with seven ayes. The county must adopt its rules by December 31, 2026. The committee also took up a bill capping Molokaʻi bed and breakfast homes at five.",
+    "recap": "The first bill updates county rules to follow a state law on accessory dwelling units (small extra homes).[[0:06:05]] Planning staff said that state law allows two accessory dwelling units on each residential lot.[[0:06:23]] Planning staff said the county must adopt its rules by December 31, 2026.[[0:06:29]] All three planning commissions recommended approval, with 13 changes from the Planning Department.[[0:14:37]] A fire captain said the fire department may revisit its second-access road rule as more homes are allowed.[[0:32:14]] Members approved a revised version of the bill and a council member's amendment on conditional zoning agreements, with seven ayes.[[1:02:32]] A second amendment on rural lots and parking passed with seven ayes.[[1:03:10]] The second bill would cap bed and breakfast homes on Molokaʻi at five and keep them 1,000 feet apart.[[1:11:30]] The committee deferred the bill without objection.[[1:42:49]]",
+    "decided": [
+      "Members approved an amendment on rural lot rules and parking language."
+    ],
+    "next": "The committee chair will keep working on the workforce housing tax bill with the Finance and Housing departments. A fire captain said a future fire code change may revisit the second-access requirement.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:32:44",
+        "q": "Fire captain: second access rule to be revisited \"especially in light of what happened in Lahaina\""
+      },
+      {
+        "t": "1:05:32",
+        "q": "\"I resent the state for eroding our home rule authority regarding land use and zoning.\""
+      },
+      {
+        "t": "1:26:04",
+        "q": "Testifier: without the homeowner rate, taxes can go up \"by three times, sometimes even more\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "allowing-two-accessory-homes-per-residential-lot",
+        "title": "Allowing two accessory homes per residential lot"
+      },
+      {
+        "slug": "cap-on-bed-and-breakfast-homes-on-molokai",
+        "title": "Cap on bed and breakfast homes on Molokaʻi"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Housing and Land Use Committee",
+        "group": "council",
+        "short": [
+          "HLU"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Jun 3, 2026",
+      "oneLine": "The committee is updating county rules so residential lots can have two accessory dwelling units, as a state law requires.",
+      "why": "Planning staff said the county general plan encourages more housing through accessory dwellings.",
+      "deadlines": [
+        {
+          "d": "December 31, 2026",
+          "t": "County must adopt an ordinance to comply with the state accessory dwelling law."
+        }
+      ],
+      "next": "The county must adopt its accessory dwelling ordinance by December 31, 2026.",
+      "brief": "Planning staff said building permits are sent to the water and wastewater departments to check that service is adequate.[[#1]] Planning staff said subdivision rules (CC&Rs) that restrict accessory dwellings still win over the state law.[[#2]] Planning staff said current accessory dwelling units cannot be used as short-term or vacation rentals.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Jun",
+          "day": "3",
+          "source": "Maui County Council Housing and Land Use Committee",
+          "kind": "tv",
+          "title": "Maui County Council Housing and Land Use Committee",
+          "note": "The committee is updating county rules so residential lots can have two accessory dwelling units, as a state law requires.",
+          "proof": "0:21:12",
+          "view": {
+            "type": "meeting",
+            "id": "uMPNxxCZOYk"
+          },
+          "seek": "0:21:12"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Housing and Land Use Committee · Jun 3",
+          "where": "Meeting video at 0:21:12",
+          "view": {
+            "type": "meeting",
+            "id": "uMPNxxCZOYk"
+          },
+          "seek": "0:21:12"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Housing and Land Use Committee · Jun 3",
+          "where": "Meeting video at 0:38:44",
+          "view": {
+            "type": "meeting",
+            "id": "uMPNxxCZOYk"
+          },
+          "seek": "0:38:44"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Housing and Land Use Committee · Jun 3",
+          "where": "Meeting video at 0:09:15",
+          "view": {
+            "type": "meeting",
+            "id": "uMPNxxCZOYk"
+          },
+          "seek": "0:09:15"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "youtubeUrl": "https://youtu.be/uMPNxxCZOYk"
+  }
+}

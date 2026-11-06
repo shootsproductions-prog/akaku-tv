@@ -1,8 +1,86 @@
 {
-  "updatedAt": "2026-11-05T22:05:08.069Z",
-  "etag": "9aaaa28916138898c92417cd71d08449d3e927888b5b0b530fc3cc13b0e09cc8",
-  "count": 208,
+  "updatedAt": "2026-11-06T03:28:57.377Z",
+  "etag": "95b17f21704c1bebc7e9183295d76ed8628cfa9d2850b3f6a83404b95fb90a46",
+  "count": 325,
   "meetings": [
+    {
+      "videoId": "mWb79anG_Js",
+      "status": "reviewed",
+      "meetingDateISO": "2026-10-23",
+      "bodyType": "council",
+      "body": "Maui County Council Meeting",
+      "headline": "Council votes down condo hotel zoning review, hears testimony on Bills 55 and 133",
+      "summary": "The Council voted down sending condo properties to the Maui Planning Commission for hotel zoning review. It heard testimony on Bill 55's six-year limit for ethics cases and Bill 133's safe parking pilot, and postponed County Communication 26-28 until Bill 124.",
+      "dur": "3 h 07 m",
+      "voteCount": 1,
+      "momentCount": 2,
+      "issues": [
+        "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p",
+        "safe-parking-sites-for-people-living-in-cars",
+        "ethics-bills-on-nepotism-lobbyists-and-ex-employees",
+        "contractors-taking-lahaina-rebuilders-money",
+        "mutual-aid-agreement-to-help-kauai-after-hurricane-lowell",
+        "voter-service-centers-and-election-use-of-council-chambers"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "59b786e4e2560cca97905a06af153c0bd486c134d7d8060d71761b3318e39b10"
+    },
+    {
+      "videoId": "xMD8TVwkYz8",
+      "status": "reviewed",
+      "meetingDateISO": "2026-10-23",
+      "bodyType": "council",
+      "body": "Maui County Council Meeting",
+      "headline": "Maui County Council Meeting",
+      "summary": "A member said Bill 133 expands the county properties where people may temporarily live in vehicles.",
+      "dur": "1 h 26 m",
+      "voteCount": 0,
+      "momentCount": 4,
+      "issues": [
+        "bills-128-and-129-for-countywide-water-upgrades",
+        "safe-parking-sites-for-people-living-in-cars",
+        "contractors-taking-lahaina-rebuilders-money",
+        "yearly-usgs-water-monitoring-agreement",
+        "30-million-bonds-for-molokai-land-purchases",
+        "voter-service-centers-and-election-use-of-council-chambers"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "025bd09beea9dbf9b253d9d1aa2f85d0fbbbbb389e5190c28b252992064b11c7"
+    },
+    {
+      "videoId": "Och2a4BSkfo",
+      "status": "reviewed",
+      "meetingDateISO": "2026-10-21",
+      "bodyType": "council",
+      "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+      "headline": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+      "summary": "The committee took up Bill 139 and the South Maui Community Plan together.",
+      "dur": "2 h 04 m",
+      "voteCount": 3,
+      "momentCount": 2,
+      "issues": [
+        "industrial-growth-boundary-change-in-bill-139"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "10a493428a3a6c7708fef1c49926a4a1c7eaf386af269febbdb2ffc4016fec13"
+    },
+    {
+      "videoId": "OfgqgyE6vs0",
+      "status": "reviewed",
+      "meetingDateISO": "2026-10-21",
+      "bodyType": "council",
+      "body": "Maui County Council Housing and Land Use Committee",
+      "headline": "Committee backs bill adding housing land at Maui tech park",
+      "summary": "Committee backs bill adding housing land at Maui tech park.",
+      "dur": "47 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [
+        "maui-research-and-technology-park-land-designation"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "1a63f37487d5da88d00dbe425e84f898ed3b7f654085043464568015582099bf"
+    },
     {
       "videoId": "Pcpudwx07B4",
       "status": "reviewed",
@@ -20,6 +98,23 @@
       ],
       "updatedAt": "2026-10-31T10:02:02.744Z",
       "sha256": "5118754c422a90243db90f1119e083584d509c54a545bea29bedc02f0562f126"
+    },
+    {
+      "videoId": "PlQb2FwXyok",
+      "status": "reviewed",
+      "meetingDateISO": "2026-10-21",
+      "bodyType": "council",
+      "body": "Maui County Council Housing and Land Use Committee",
+      "headline": "Lānaʻi project district zoning change heard by committee",
+      "summary": "Lānaʻi project district zoning change heard by committee.",
+      "dur": "1 h 04 m",
+      "voteCount": 0,
+      "momentCount": 4,
+      "issues": [
+        "lanai-koele-project-district-zoning-and-conditions"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "6a6e5d77e7d9b7ce315a422d043aa2ee9d3c02c74d171602c304551ac4d1b461"
     },
     {
       "videoId": "RJwnI3weRIY",
@@ -75,6 +170,21 @@
       "sha256": "5a64e606af18b8d212b04fe6f469d1f5044706ee31e83ab928d0bbbf60ab77f5"
     },
     {
+      "videoId": "HbaR9Nl6ScI",
+      "status": "reviewed",
+      "meetingDateISO": "2026-10-20",
+      "bodyType": "council",
+      "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+      "headline": "Maui County Council Budget, Finance, and Economic Development Committee",
+      "summary": "The committee voted on Bills 142 and 132, approved a new Bill 131 draft, and deferred its Emergency Fund review.",
+      "dur": "1 h 15 m",
+      "voteCount": 1,
+      "momentCount": 7,
+      "issues": [],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "020b837d4916b700ff9d63456fced73a3a980f38399122ae1bb573fbb2958272"
+    },
+    {
       "videoId": "hTPfc9OiJm8",
       "status": "reviewed",
       "meetingDateISO": "2026-10-20",
@@ -128,6 +238,77 @@
       "sha256": "a6493157ba0f8595cdfbf08c6b6a883a580c420857cb96e97668bb9ee5653ead"
     },
     {
+      "videoId": "tXQ_uHSav58",
+      "status": "reviewed",
+      "meetingDateISO": "2026-10-20",
+      "bodyType": "council",
+      "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+      "headline": "Committee hears sister city plan and disaster donation bills",
+      "summary": "The committee discussed a new Philippines sister city and three emergency donation bills, then recessed before a vote on Bill 142.",
+      "dur": "1 h 18 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [
+        "bill-to-track-emergency-donations-deferred",
+        "sister-city-ties-with-ilocos-norte-capital"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "e8b81241b5eb9a045b3ea4da05bb62ba6db030b02c2191bf36c3ad1cc1d1b73f"
+    },
+    {
+      "videoId": "WtAb16g87L8",
+      "status": "reviewed",
+      "meetingDateISO": "2026-10-20",
+      "bodyType": "council",
+      "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+      "headline": "Maui County Council Budget, Finance, and Economic Development Committee",
+      "summary": "The committee recommended three emergency donation bills, heard about a new Philippine sister city, and reviewed the emergency fund.",
+      "dur": "2 h 07 m",
+      "voteCount": 1,
+      "momentCount": 5,
+      "issues": [
+        "fukuyama-sister-city-delegation-and-follow-up",
+        "emergency-fund-money-for-march-2026-storm-damage",
+        "sister-city-ties-with-ilocos-norte-capital"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "f398403d49790b99c5f32f03d5b8a6dabfcbdb8a511547f4c559fff7e3aae9e4"
+    },
+    {
+      "videoId": "81AagZf0euk",
+      "status": "reviewed",
+      "meetingDateISO": "2026-10-19",
+      "bodyType": "council",
+      "body": "Maui County Council Water and Infrastructure Committee",
+      "headline": "Committee hears plan to fix zoning in harbor triangle area",
+      "summary": "The committee heard a proposal to rezone six harbor-area properties to B2 business, and the Planning Department said it supports it.",
+      "dur": "34 m",
+      "voteCount": 2,
+      "momentCount": 4,
+      "issues": [
+        "harbor-triangle-rezoning-including-maui-ocean-center"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "5e2d9ff4cdf1c82402a1f2209db4d708d097990e36c54d743a2b6461db840989"
+    },
+    {
+      "videoId": "aeEPeS-Z9OM",
+      "status": "reviewed",
+      "meetingDateISO": "2026-10-19",
+      "bodyType": "council",
+      "body": "Maui County Council Water Authority, Social Services, and Parks Committee",
+      "headline": "Committee defers safe parking pilot bill ahead of Friday reading",
+      "summary": "The committee discussed a pilot letting about 50 people sleep in vehicles, then deferred the bill, which returns Friday for second reading.",
+      "dur": "60 m",
+      "voteCount": 1,
+      "momentCount": 4,
+      "issues": [
+        "safe-parking-sites-for-people-living-in-cars"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "8787ce0430264a59f542c5dcf4e4e63ecd04d43c6ce0e3a9cc182bb2a257ae2d"
+    },
+    {
       "videoId": "bAmgey8HdV0",
       "status": "reviewed",
       "meetingDateISO": "2026-10-19",
@@ -145,6 +326,24 @@
       ],
       "updatedAt": "2026-10-31T10:02:18.959Z",
       "sha256": "05d56098a9f5d4cf65e060c44215180ab632100fd2cd9a70c353c612d179d28e"
+    },
+    {
+      "videoId": "FylynoI1kKk",
+      "status": "reviewed",
+      "meetingDateISO": "2026-10-19",
+      "bodyType": "council",
+      "body": "Maui County Council Water and Infrastructure Committee",
+      "headline": "Maui County Council Water and Infrastructure Committee",
+      "summary": "Bill 116 would let the mayor sign an agreement with the State of Hawaiʻi School Facilities Authority for temporary wastewater service to a new Central Maui school.",
+      "dur": "38 m",
+      "voteCount": 0,
+      "momentCount": 1,
+      "issues": [
+        "disinfecting-wastewater-that-reaches-the-ocean",
+        "central-maui-wastewater-reclamation-facility-funding"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "5d96ff08a01fe0d6b6b72bc35588076506d5e2d08ba796a74adb46f432cbe296"
     },
     {
       "videoId": "K4_o2IHqfEc",
@@ -181,6 +380,23 @@
       "sha256": "17479b0cd912be8fd9a2eef45fb6fd969dac952c0c80e669a9ce3a5a49cd4a09"
     },
     {
+      "videoId": "xI___ZqSx0k",
+      "status": "reviewed",
+      "meetingDateISO": "2026-10-19",
+      "bodyType": "council",
+      "body": "Maui County Council Water and Infrastructure Committee",
+      "headline": "Maui County Council Water and Infrastructure Committee",
+      "summary": "The committee voted 8–0 to recommend Resolution 26-137 as amended and discussed the Adopt a Street litter pilot program.",
+      "dur": "39 m",
+      "voteCount": 0,
+      "momentCount": 2,
+      "issues": [
+        "harbor-triangle-rezoning-including-maui-ocean-center"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "2c5980a0b835dc3e404722d30a3b495878aebc064d3ba760a27ca6a47741119a"
+    },
+    {
       "videoId": "gkthw9WAhio",
       "status": "reviewed",
       "meetingDateISO": "2026-10-13",
@@ -211,6 +427,42 @@
       ],
       "updatedAt": "2026-10-30T06:16:26.131Z",
       "sha256": "1f51c10b5349cd0e75bd19d4da6e129ba909e483c4b446845d7587afd1dbfae3"
+    },
+    {
+      "videoId": "mmnN74BJwhw",
+      "status": "reviewed",
+      "meetingDateISO": "2026-10-09",
+      "bodyType": "council",
+      "body": "Maui County Council Meeting",
+      "headline": "Maui County Council Meeting",
+      "summary": "The Council honored Maui County Fair volunteers and passed bills on safe parking, tax exemptions, budget grants and an Aloha Classic sponsor change.",
+      "dur": "1 h 52 m",
+      "voteCount": 0,
+      "momentCount": 5,
+      "issues": [
+        "wildfire-survivor-health-study-findings",
+        "safe-parking-sites-for-people-living-in-cars",
+        "yearly-usgs-water-monitoring-agreement"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "bf60da8e9bbd97f375a94c84d0b6bc1207562b0a5e54c6424b91bc9753f146b2"
+    },
+    {
+      "videoId": "fp9VVcEIuJo",
+      "status": "reviewed",
+      "meetingDateISO": "2026-10-08",
+      "bodyType": "council",
+      "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+      "headline": "Committee edits South Maui plan history and housing policies",
+      "summary": "The committee kept editing the South Maui Community Plan, switching a moku name to Wailuku and approving affordable housing policy changes.",
+      "dur": "3 h 40 m",
+      "voteCount": 10,
+      "momentCount": 3,
+      "issues": [
+        "south-maui-community-plan-review"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "e7dde0bfc96bcfffb1b5a083fbd5d6be4ec83e9d25a3b3b1c0f78913697695c3"
     },
     {
       "videoId": "fTuTemrBtCY",
@@ -350,6 +602,40 @@
       "sha256": "5b8393215c48adc4fb26405644af6c9e322b023fee5b82440ec3f0cc9b71717c"
     },
     {
+      "videoId": "ddTYKdPxK9g",
+      "status": "reviewed",
+      "meetingDateISO": "2026-10-05",
+      "bodyType": "council",
+      "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+      "headline": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+      "summary": "The committee reviewed the South Maui Community Plan update, heard testimony on the Wailea Golf plan, and recessed until October 6, 2026.",
+      "dur": "5 h 07 m",
+      "voteCount": 2,
+      "momentCount": 3,
+      "issues": [
+        "south-maui-community-plan-review"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "40303fd1697d19e75f507cb1be03232db2beade13618403c02e274a1caf0212f"
+    },
+    {
+      "videoId": "TVUUhoCXIvQ",
+      "status": "reviewed",
+      "meetingDateISO": "2026-10-02",
+      "bodyType": "council",
+      "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+      "headline": "Committee reviews South Maui Community Plan, Bill 108, and will continue Monday",
+      "summary": "The committee reviewed where the South Maui Community Plan allows homes and other uses, including a proposed mauka road, and said members were reviewing, not voting. It will continue at policy 3.4.6 on Monday.",
+      "dur": "2 h 32 m",
+      "voteCount": 0,
+      "momentCount": 4,
+      "issues": [
+        "south-maui-community-plan-review"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "0280fd2c18c73520af454fd3fec3d9da735fa31a5195b74f4c63fa103414f4aa"
+    },
+    {
       "videoId": "OHRQy0hAcVU",
       "status": "reviewed",
       "meetingDateISO": "2026-09-30",
@@ -367,6 +653,27 @@
       "sha256": "467a49c1caa951e360a7ec3cfb764e4aa8480633452ebacd177520bc696ca0fd"
     },
     {
+      "videoId": "oZNc2fyyOPE",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-30",
+      "bodyType": "council",
+      "body": "Maui County Council Special Meeting",
+      "headline": "Council welcomes Fukuyama City Assembly members, discusses Lahaina recovery",
+      "summary": "At a special meeting, council members spoke on power, West Maui water, federal rebuilding aid and a County insurance gap program. The delegation gave the Council a denim tablecloth and was to leave for a UH Maui College presentation.",
+      "dur": "51 m",
+      "voteCount": 0,
+      "momentCount": 4,
+      "issues": [
+        "county-buying-private-west-maui-water-systems",
+        "fukuyama-sister-city-delegation-and-follow-up",
+        "power-shutoffs-during-high-wind-and-low-humidity",
+        "spending-the-1-6-billion-federal-recovery-grant",
+        "using-recycled-r1-water-for-irrigation-and-firefighting"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "e08d4d9b76b5c6ad429740310abea8203324be2dbfd15832d3b3ef78d3fa3df0"
+    },
+    {
       "videoId": "sf2Uy63wJNE",
       "status": "reviewed",
       "meetingDateISO": "2026-09-30",
@@ -382,6 +689,84 @@
       ],
       "updatedAt": "2026-10-30T06:16:26.131Z",
       "sha256": "4589a54ceff9293b3a299e490870f48ab4d41134957f99cfff187616131d8f52"
+    },
+    {
+      "videoId": "ygVQPiP4ARw",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-30",
+      "bodyType": "council",
+      "body": "Maui County Council Special Meeting",
+      "headline": "Council welcomes Fukuyama City Assembly members, discusses Lahaina recovery",
+      "summary": "Council members discussed West Maui water, where the county controls delivery of 23 percent, and a county insurance gap program for homeowners rebuilding. The delegation was set to give an evening presentation at UH Maui College.",
+      "dur": "51 m",
+      "voteCount": 0,
+      "momentCount": 4,
+      "issues": [
+        "county-buying-private-west-maui-water-systems",
+        "fukuyama-sister-city-delegation-and-follow-up"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "bcad0b1d09572b5347e2d6aacf2f525eb11d663f0c6712f7dd6d03b8d7113f1e"
+    },
+    {
+      "videoId": "CWTHDPLTwS0",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-29",
+      "bodyType": "council",
+      "body": "Maui County Council Meeting",
+      "headline": "Maui County Council Meeting",
+      "summary": "The Council advanced water wells for Hawaiian Homelands, sent a Seabury Hall request to the Planning Commission, and backed Kauaʻi hurricane aid.",
+      "dur": "1 h 26 m",
+      "voteCount": 3,
+      "momentCount": 4,
+      "issues": [
+        "three-dhhl-wells-on-hawaiian-home-lands",
+        "bills-128-and-129-for-countywide-water-upgrades",
+        "fukuyama-sister-city-delegation-and-follow-up",
+        "bills-163-and-164-for-163-acre-central-maui-growth",
+        "kulamalu-park-stairs-fall-lawsuit-settlement",
+        "workforce-housing-fee-waivers-and-repayment-bill",
+        "mutual-aid-agreement-to-help-kauai-after-hurricane-lowell"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "79fdc82ff06022e822b19fe03a9871ae27a605b22c5dfb4f4ed571fd9e576f4b"
+    },
+    {
+      "videoId": "goNR3t5P1x8",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-29",
+      "bodyType": "council",
+      "body": "Maui County Council Meeting - (recessed from 9/25/26 mtg)",
+      "headline": "Maui County Council Meeting - (recessed from 9/25/26 mtg)",
+      "summary": "The Council voted 5–4 to adopt a committee report backing a resolution asking the Maui Planning Commission to consider hotel zoning for coastal apartment properties.",
+      "dur": "1 h 33 m",
+      "voteCount": 0,
+      "momentCount": 4,
+      "issues": [
+        "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "a0275c58d6dfb19ac1ae023a68e9831f000a9d871a7819cda49c7c5e799ea55e"
+    },
+    {
+      "videoId": "lg4miTbnuz0",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-29",
+      "bodyType": "council",
+      "body": "Maui County Council Meeting",
+      "headline": "Maui County Council Meeting",
+      "summary": "The council advanced a Hawaiian Homelands wells plan nine to zero and sent a coastal hotel-rezoning resolution to planners, five to four.",
+      "dur": "4 h 59 m",
+      "voteCount": 0,
+      "momentCount": 4,
+      "issues": [
+        "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p",
+        "three-dhhl-wells-on-hawaiian-home-lands",
+        "planning-hearing-notices-outside-newspapers-in-bill-85",
+        "mutual-aid-agreement-to-help-kauai-after-hurricane-lowell"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "f7fff1cb586f5f2b547b51e50081038aaa5725192d4a9cdc0a21d86d2eb94343"
     },
     {
       "videoId": "osd2kNYTO0c",
@@ -421,6 +806,38 @@
       "sha256": "6bb3b8e83a68400dc9d8690b5f0e2e6331d7f2efcfd724d0bff7543deece7a3a"
     },
     {
+      "videoId": "pG4HXzrV80Y",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-28",
+      "bodyType": "council",
+      "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+      "headline": "Committee amends South Maui Community Plan actions and defers the item",
+      "summary": "The committee voted 8–0 to support a Ridge to Reef group and 7–0 for a tourism impacts plan, then deferred the item. It plans to meet Wednesday morning for more public testimony, starting with Planning Department presentations.",
+      "dur": "5 h 54 m",
+      "voteCount": 5,
+      "momentCount": 3,
+      "issues": [
+        "south-maui-community-plan-review"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "b72d24d5d7c7cf1536e650a6d88eb6473a17d4ac1328b3c48046183c1b449e23"
+    },
+    {
+      "videoId": "GsbQr4ssOM8",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-25",
+      "bodyType": "council",
+      "body": "Maui County Council Meeting - recessed to 9/29/2026 @ 9",
+      "headline": "Council recesses meeting after roll call, citing severe weather",
+      "summary": "The chair paused the session after the clerk took roll and said it will reconvene at 9 a.m. on the same Teams link. The chair also announced a meet and greet with a Fukuyama City Council delegation at the council chamber.",
+      "dur": "4 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "381add041ea6b27211680aaff4dfee8e9db1c221726cf2b9340f00bcd6d48e2f"
+    },
+    {
       "videoId": "kaokZIlPlZQ",
       "status": "reviewed",
       "meetingDateISO": "2026-09-25",
@@ -456,6 +873,40 @@
       "sha256": "f5ad5152001d2151f5c3077a8edb0e4d8b5c4d16dca7b6ee5c69886f1754bb0b"
     },
     {
+      "videoId": "wivYWFdF5_M",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-24",
+      "bodyType": "council",
+      "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+      "headline": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+      "summary": "The committee continued South Maui Community Plan changes, approving watershed and recycled water actions and a desalination study by six ayes, three noes.",
+      "dur": "5 h 55 m",
+      "voteCount": 3,
+      "momentCount": 3,
+      "issues": [
+        "south-maui-community-plan-review"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "79ecadfbf72720e0e8dc1d678871092aac73aee5f11d8cc99f5ab0b2716fbbc9"
+    },
+    {
+      "videoId": "_8gYThAAGgc",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-23",
+      "bodyType": "council",
+      "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+      "headline": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+      "summary": "The committee deleted two action items and amended others on cesspools, shoreline access and wildfire.",
+      "dur": "2 h 34 m",
+      "voteCount": 2,
+      "momentCount": 1,
+      "issues": [
+        "south-maui-community-plan-review"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "d3a317bbe362a92576e20935dd935371ee5be5d76321f430d0679c38c7891fbd"
+    },
+    {
       "videoId": "3Jc9Mp68Wcs",
       "status": "reviewed",
       "meetingDateISO": "2026-09-23",
@@ -474,6 +925,40 @@
       "sha256": "a2d9f97af7bad0f78764decd4f79fde4f20a8f85a6789e6506896547fb6057cc"
     },
     {
+      "videoId": "dAuJTyzIo2A",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-23",
+      "bodyType": "council",
+      "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+      "headline": "Committee continues South Maui Community Plan review, deletes action 2.32",
+      "summary": "The committee continued reviewing Bill 108, approving tree-care training workshops and a park study, and deleting action 2.32 as similar to action 2.24. The chair said the goal is to get as far as possible by October 8.",
+      "dur": "3 h 03 m",
+      "voteCount": 3,
+      "momentCount": 4,
+      "issues": [
+        "south-maui-community-plan-review"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "5b0a3a2d71ae40d52c0afe6c58a06fd7f0a0cc9a2c69ce6d6e811663c008c3a5"
+    },
+    {
+      "videoId": "2rjznzyHJJU",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-22",
+      "bodyType": "council",
+      "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+      "headline": "Committee rewrites South Maui plan shelter, housing and compost actions",
+      "summary": "Committee rewrites South Maui plan shelter, housing and compost actions.",
+      "dur": "2 h 44 m",
+      "voteCount": 1,
+      "momentCount": 6,
+      "issues": [
+        "south-maui-community-plan-review"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "8c70868334427d45eab715fadc16d6557ceb54fd878348c491880f61e2195815"
+    },
+    {
       "videoId": "bNmkTTI2aL0",
       "status": "reviewed",
       "meetingDateISO": "2026-09-22",
@@ -489,6 +974,40 @@
       ],
       "updatedAt": "2026-10-30T06:16:26.131Z",
       "sha256": "7e49deca29b3bc61a588545608e8df2e117e71027f8fba2e63134987afbaa9e7"
+    },
+    {
+      "videoId": "SdQa-bAzHw0",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-22",
+      "bodyType": "council",
+      "body": "Maui County Council Government Relations, Ethics, and Transparency Committee",
+      "headline": "Committee recommends adopting Resolution 26-147 to settle lawsuit over Kulamalu Park fall",
+      "summary": "The committee voted 7-0 to recommend adopting Resolution 26-147, which would approve settling a lawsuit over a March 8, 2024 fall at Kulamalu Park, after a closed-door session with its lawyers. The chair said written testimony will continue to be accepted.",
+      "dur": "18 m",
+      "voteCount": 1,
+      "momentCount": 4,
+      "issues": [
+        "kulamalu-park-stairs-fall-lawsuit-settlement"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "be250533a725fbb6d170a712d7e2eb829317ec91d426b36e3e2589d83183f72d"
+    },
+    {
+      "videoId": "0ap8NfBoMG8",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-21",
+      "bodyType": "council",
+      "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+      "headline": "Committee reviews Bill 108 South Maui Community Plan, approves several action changes",
+      "summary": "The committee took up Bill 108, the 2026 South Maui Community Plan update, and voted on amendments to actions 1.09, 1.24, 2.02 and 2.10. The chair said the posted Wednesday meeting would be canceled.",
+      "dur": "5 h 33 m",
+      "voteCount": 5,
+      "momentCount": 6,
+      "issues": [
+        "south-maui-community-plan-review"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "5d8623f8da47cb0fc287720ae083727ef4bf7583158efc604e445c93e3457c6f"
     },
     {
       "videoId": "0NdqPwWtF4o",
@@ -565,6 +1084,23 @@
       "sha256": "9caad846eb038dae588fbfd92f59070b03567f4a4c13fbf0edfcffffd0748abd"
     },
     {
+      "videoId": "BQWkZSz0XIo",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-17",
+      "bodyType": "council",
+      "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+      "headline": "South Maui plan review focuses on flooding and water policies",
+      "summary": "The committee reviewed South Maui Community Plan policies, saw drone images of flooded gulches, and passed amendments on water use and injection wells.",
+      "dur": "4 h 05 m",
+      "voteCount": 7,
+      "momentCount": 3,
+      "issues": [
+        "south-maui-community-plan-review"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "99aef2c29591ad2b3c84b73700781fe6115da4758a881b679ad629ab3063f57b"
+    },
+    {
       "videoId": "fDPADbFyXaI",
       "status": "reviewed",
       "meetingDateISO": "2026-09-17",
@@ -622,6 +1158,23 @@
       "sha256": "e446697dfc2357f83f5d5fc94d6daa52ae507a6731d1f6a40d6d2564b7d4e5ea"
     },
     {
+      "videoId": "j2E16zwgj84",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-16",
+      "bodyType": "council",
+      "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+      "headline": "Committee votes on pedestrian, housing and grid policies; review continues tomorrow",
+      "summary": "Members voted 7–0 on pedestrian-oriented development and on housing projects presenting to community groups, and 5–0 on grid hardening. A roll call on restoring a deleted infrastructure policy ended four ayes, one no, four excused, with no result stated.",
+      "dur": "5 h 18 m",
+      "voteCount": 5,
+      "momentCount": 4,
+      "issues": [
+        "south-maui-community-plan-review"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "1166512f53485133cdabd8b3e438fc9257fa99bdf18be40db89a99b8af82b398"
+    },
+    {
       "videoId": "QMt5AreKorc",
       "status": "reviewed",
       "meetingDateISO": "2026-09-16",
@@ -655,6 +1208,23 @@
       ],
       "updatedAt": "2026-10-31T10:02:18.959Z",
       "sha256": "8d838652749307fa3ac43b62fb647433f74dcb7cc780eb02143ee638345c88fa"
+    },
+    {
+      "videoId": "BWLtvQRgdm0",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-14",
+      "bodyType": "council",
+      "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+      "headline": "Committee defers Bill 108 after hearing public testimony",
+      "summary": "The chair deferred Bill 108 with no objections after closing oral public testimony, keeping it for later meetings. Written testimony stays open, and the chair said the committee has through October 8 for its review.",
+      "dur": "2 h 35 m",
+      "voteCount": 1,
+      "momentCount": 6,
+      "issues": [
+        "south-maui-community-plan-review"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "b1ab6e1d67df2155ed26b01f5a4b9b06c40065af6676808b1062423d18bf0bd9"
     },
     {
       "videoId": "lui2UwEGmm8",
@@ -769,6 +1339,23 @@
       "sha256": "58238aff3e6deb76d842434def922897684b0018c85c507ad6c06ab341e7ae63"
     },
     {
+      "videoId": "nm5iTgbK7LQ",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-09",
+      "bodyType": "council",
+      "body": "Maui County Council Housing and Land Use Committee",
+      "headline": "Committee passes 5-4 residential-use criterion that excludes flood hazard area properties",
+      "summary": "Motions to leave out properties mauka of South Kīhei Road and to leave off eight properties with over 25% residential use each failed 4-5. The discussed conditions will go to the Maui Planning Commission as ideas in the committee report.",
+      "dur": "2 h 23 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [
+        "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "f5a1daa50b21e7d1ea94813a36a06fe603db01ba4888da0700b186e301d0d63c"
+    },
+    {
       "videoId": "oxeqJ2H8XQA",
       "status": "reviewed",
       "meetingDateISO": "2026-09-09",
@@ -784,6 +1371,23 @@
       ],
       "updatedAt": "2026-10-30T06:16:26.131Z",
       "sha256": "fa7c34baa34322f9c78c299df91dd9a0d4a4254a18f62cef27fe06a26b2959dd"
+    },
+    {
+      "videoId": "q7BT6e0tKXE",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-09",
+      "bodyType": "council",
+      "body": "Maui County Council Housing and Land Use Committee",
+      "headline": "Committee discusses hotel-district rezoning for apartments with vacation rentals",
+      "summary": "Members took up a limit on rezoning based on 2008 resident use; a version not applying to flood hazard areas passed. The chair said conditions will be set after Maui Planning Commission review. A motion to adopt a resolution was pending when the recording ended.",
+      "dur": "3 h 23 m",
+      "voteCount": 0,
+      "momentCount": 2,
+      "issues": [
+        "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "51b9b2b263b82952a5bdb1f9996384e6825aea793c3a55091997a539f87c9e08"
     },
     {
       "videoId": "SVe2yERyBEk",
@@ -828,6 +1432,21 @@
       "sha256": "39a353166bd99ef6d113897357c878cd84281d43bfc1ce161589ed71555d5882"
     },
     {
+      "videoId": "wHzZb3W4vXA",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-09",
+      "bodyType": "council",
+      "body": "Maui County Council Housing and Land Use Committee",
+      "headline": "Housing and Land Use Committee members ask to defer property tax item",
+      "summary": "Members asked to defer an item after staff who could answer questions were not present. Earlier discussion included the Finance Department's description of a tax correction as a department error.",
+      "dur": "25 m",
+      "voteCount": 0,
+      "momentCount": 2,
+      "issues": [],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "6bd7fcc0b1bbad807960a9aece866e9b46b3d6749af270ee13e2f26701d7b5ea"
+    },
+    {
       "videoId": "x2IjROxHuYY",
       "status": "reviewed",
       "meetingDateISO": "2026-09-09",
@@ -844,6 +1463,23 @@
       ],
       "updatedAt": "2026-10-30T06:16:26.131Z",
       "sha256": "b72779ea028bcb5e9a7f9c726aeeba7ac299e6c5a83fbc6906ca09fa781fdb35"
+    },
+    {
+      "videoId": "ZLDuSozt67Y",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-09",
+      "bodyType": "council",
+      "body": "Maui County Council Housing and Land Use Committee",
+      "headline": "Committee's motion to file resolution fails 4-5; recording ends before adoption vote",
+      "summary": "Member Paltin moved to file the resolution, which failed four ayes to five noes. A motion to adopt Resolution 26-130 was made and seconded, and the committee took a three-minute recess. The recording ends before any vote on adoption.",
+      "dur": "24 m",
+      "voteCount": 2,
+      "momentCount": 3,
+      "issues": [
+        "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "59663125369c6270af780cd568e0126fda85c49766a89a9e03320e20ddfbbcc6"
     },
     {
       "videoId": "Cqu5kcGNyBc",
@@ -885,6 +1521,26 @@
       "sha256": "a5ec63017b34cd0a1f121edc1a3c0dfd6491086080c79c984078ab05c7627acc"
     },
     {
+      "videoId": "UsJUbzdqBgw",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-04",
+      "bodyType": "council",
+      "body": "Maui County Council Meeting",
+      "headline": "Council passes Bill 98, advances hurricane funding bill, approves Lahaina property buy",
+      "summary": "Bill 98, creating a Food and Nutrition Security Plan, passed final reading 8–0. Bill 122, which would allow up to $10 million from the emergency fund for hurricane costs, passed first reading. The Council voted 8–0 to buy Lahaina property for up to $850,000.",
+      "dur": "2 h 47 m",
+      "voteCount": 2,
+      "momentCount": 2,
+      "issues": [
+        "south-maui-community-plan-review",
+        "county-food-and-nutrition-security-plan-law",
+        "safe-parking-sites-for-people-living-in-cars",
+        "emergency-fund-bill-for-recent-hurricane-damage"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "ad3df5b10121c90ca2caf49e992d5bf0b13ae995f1be90ceef6b68f2bd42cb57"
+    },
+    {
       "videoId": "UC-kpvvm-hQ",
       "status": "reviewed",
       "meetingDateISO": "2026-09-03",
@@ -920,6 +1576,42 @@
       ],
       "updatedAt": "2026-10-31T10:02:18.959Z",
       "sha256": "e4801a7a7f6e3932124fbdc2cd18324d547a45ac05a692dd478ac8d3dbac556d"
+    },
+    {
+      "videoId": "WgbDve1KZjg",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-03",
+      "bodyType": "council",
+      "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+      "headline": "Committee advances license plate reader rules, delays facial recognition bill",
+      "summary": "The committee voted 7 to 1 to recommend passing Bill 113 on license plate reader data and deferred Bill 112 on facial recognition.",
+      "dur": "2 h 26 m",
+      "voteCount": 0,
+      "momentCount": 4,
+      "issues": [
+        "south-maui-community-plan-review",
+        "police-real-time-operations-center",
+        "license-plate-reader-and-facial-recognition-bills"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "936ba91720c1e1d2e22ba7e9fa60c49dae326be34c32f5d9ec07f9f2b42a0e64"
+    },
+    {
+      "videoId": "byGpfWPX_Wo",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-02",
+      "bodyType": "council",
+      "body": "Maui County Council Housing and Land Use Committee",
+      "headline": "Committee takes up Pahia Sugar Mill bills and hears owners begin presentation",
+      "summary": "The committee took up Bills 109 and 115 for the Pahia Sugar Mill Redevelopment Project; Bill 115 would rezone both parcels to M1 Light Industrial. A former staff planner testified on the 1995 community plan, and the owners began a presentation.",
+      "dur": "25 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [
+        "paia-sugar-mill-light-industrial-rezoning"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "0e97d14067711bbbb55924108f667a1393d48e355fde3e53e6846aa0c69c965c"
     },
     {
       "videoId": "E8RNq6wUE1Y",
@@ -1011,6 +1703,53 @@
       "sha256": "70f54714dcbdbeca7fba34727d4fafd55a1a3f2bd338ad1873ac5b122f33b628"
     },
     {
+      "videoId": "21q9EmLvpwE",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-01",
+      "bodyType": "council",
+      "body": "Maui County Council Government Relations, Ethics, and Transparency Committee",
+      "headline": "Committee backs resolution to settle federal retirement pay lawsuit",
+      "summary": "Committee backs resolution to settle federal retirement pay lawsuit.",
+      "dur": "28 m",
+      "voteCount": 0,
+      "momentCount": 4,
+      "issues": [],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "4a26d82b8643a5edb3200308e378dc035ee2273fdabbb5e7504f9f35daff7098"
+    },
+    {
+      "videoId": "hr7FPO2COaY",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-01",
+      "bodyType": "council",
+      "body": "Maui County Council Government Relations, Ethics, and Transparency Committee",
+      "headline": "Committee gives public summary of closed session on case strategy and settlement",
+      "summary": "The committee met with its attorney in executive session on the county's legal powers and duties, case strategy and settlement efforts. A motion by Member Cook passed 8 ayes, 0 noes, with Member Sugimura excused from the vote.",
+      "dur": "1 h 00 m",
+      "voteCount": 0,
+      "momentCount": 2,
+      "issues": [],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "8e394ba8b9b4d24509024a4bc2b0edbe119be2c02564f8c116c2a67e29742f75"
+    },
+    {
+      "videoId": "MjxK8A0xoG8",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-01",
+      "bodyType": "council",
+      "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+      "headline": "Committee defers Bill 93-2024 on emergency donations without taking a vote",
+      "summary": "The bill would let the County accept emergency donations without prior Council approval, with spending limited to emergency management and approved in writing by the mayor. The chair deferred it; the next committee meeting is October 20th.",
+      "dur": "1 h 01 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [
+        "bill-to-track-emergency-donations-deferred"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "9edac2082f908682878a67e2b67d83fc567cd423dce0da1dab4f670ee3266e9b"
+    },
+    {
       "videoId": "T_5uCKhGjko",
       "status": "reviewed",
       "meetingDateISO": "2026-09-01",
@@ -1042,6 +1781,41 @@
       ],
       "updatedAt": "2026-10-31T10:02:18.959Z",
       "sha256": "7c2b5198994f01fa360b6d0f79e3c2150523eaca1600a8422e835b73ef92390e"
+    },
+    {
+      "videoId": "z11DKhsICEs",
+      "status": "reviewed",
+      "meetingDateISO": "2026-09-01",
+      "bodyType": "council",
+      "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+      "headline": "Committee reviews Vehicle Disposal Fee Fund, takes no legislative action",
+      "summary": "The department said it wants the $25 vehicle registration fee to stay at $25 because substantial capital project costs are coming. The chair said possible uses of the fund will be explored another day.",
+      "dur": "1 h 32 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [
+        "vehicle-disposal-fund-uses-and-25-fee"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "c4ea6b30e4b98854c40f39decf6de23d4a951c8bc0de436179ae26ee653cb257"
+    },
+    {
+      "videoId": "2oq6VqJ13h4",
+      "status": "reviewed",
+      "meetingDateISO": "2026-08-31",
+      "bodyType": "council",
+      "body": "Maui County Council Water and Infrastructure Committee",
+      "headline": "Committee passes amendment 7-0; chair says road herbicide resolution will be deferred",
+      "summary": "The committee passed an amendment 7 to 0 after DHHL said it accepts the wording if it gets the full operating capacity of the wells. On Resolution 26-123, a Public Works weed killer request, the chair said it will be put off to a later meeting.",
+      "dur": "1 h 35 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [
+        "three-dhhl-wells-on-hawaiian-home-lands",
+        "herbicide-waiver-for-road-safety-spots-deferred"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "f495e820eb7fb4c6c5a28943d53dd4a2103f495c56b59f289ebba53517069255"
     },
     {
       "videoId": "fVsUFhO9fb4",
@@ -1115,6 +1889,41 @@
       "sha256": "d954f18fbd8cc51f6220ed0fa31bacfcafdb8aa7699b0e8a573ceb032ecdf020"
     },
     {
+      "videoId": "x1bWmSajuIM",
+      "status": "reviewed",
+      "meetingDateISO": "2026-08-31",
+      "bodyType": "council",
+      "body": "Maui County Council Water and Infrastructure Committee",
+      "headline": "Committee discusses DHHL well agreement, defers road herbicide waiver",
+      "summary": "Under the draft agreement, DHHL would receive all of the wells' estimated 1.728 million gallons per day, and an amendment passed seven to zero. Public Works' waiver request was deferred; a member wants specific areas and a shorter time period when it returns.",
+      "dur": "2 h 15 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [
+        "three-dhhl-wells-on-hawaiian-home-lands",
+        "herbicide-waiver-for-road-safety-spots-deferred"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "ef344267db99aae86142613f3895a050d3b1bdfe0856ec148513171174261003"
+    },
+    {
+      "videoId": "gb-VffqMu9U",
+      "status": "reviewed",
+      "meetingDateISO": "2026-08-27",
+      "bodyType": "council",
+      "body": "Maui County Council Housing and Land Use Committee",
+      "headline": "Committee closes oral testimony, takes lunch recess before criteria discussion",
+      "summary": "A testifier who bought a unit at Kīhei Gardens Estate in 2024 said she supports the resolutions but wishes her unit were included. Written testimony will still be accepted, and members plan to discuss criteria when they return at 2.",
+      "dur": "15 m",
+      "voteCount": 1,
+      "momentCount": 3,
+      "issues": [
+        "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "9b4790511d5e0fb3fdb411d9b3d49013953506fcbae0461a209b7bb54bf0db56"
+    },
+    {
       "videoId": "kV7eBaCXKiI",
       "status": "reviewed",
       "meetingDateISO": "2026-08-27",
@@ -1181,6 +1990,40 @@
       "sha256": "ce5f7ec82aa5c9ae27b42e96008b2793884c4069b815fdaae0a995f63612719b"
     },
     {
+      "videoId": "sfJNSvgI0Hc",
+      "status": "reviewed",
+      "meetingDateISO": "2026-08-27",
+      "bodyType": "council",
+      "body": "Maui County Council Housing and Land Use Committee",
+      "headline": "Testimony continues on Kīhei and West Maui plan changes",
+      "summary": "The committee heard public testimony on two resolutions to amend the Kīhei-Mākena and West Maui Community Plans, then took a break.",
+      "dur": "1 h 47 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [
+        "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "d70de3509e732094ce1365bfb2714f11456d744e8d80e49078daa08246658ab1"
+    },
+    {
+      "videoId": "uETR6zgE4SI",
+      "status": "reviewed",
+      "meetingDateISO": "2026-08-27",
+      "bodyType": "council",
+      "body": "Maui County Council Housing and Land Use Committee",
+      "headline": "Committee closes testimony and passes criteria amendment on a five-to-four vote",
+      "summary": "After the chair closed oral testimony, the committee passed an amendment to the property criteria with five ayes and four noes. Another member proposed a criterion on 2008 unit occupancy, and staff will double-check which properties meet the criteria.",
+      "dur": "5 h 30 m",
+      "voteCount": 1,
+      "momentCount": 3,
+      "issues": [
+        "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "09abcca95c9674be62db8bfbb6ed1abd8c7e2561c6cab9335614122bcfa8a433"
+    },
+    {
       "videoId": "-MFOZYw7b7E",
       "status": "reviewed",
       "meetingDateISO": "2026-08-26",
@@ -1215,6 +2058,43 @@
       "sha256": "2097e577a192ad0b53bbf5bbd9796a8cd6b109b2a18828f21f85af2827f37a30"
     },
     {
+      "videoId": "Anutl3CRkaQ",
+      "status": "reviewed",
+      "meetingDateISO": "2026-08-25",
+      "bodyType": "board",
+      "body": "Maui Planning Commission",
+      "headline": "Maui Planning Commission",
+      "summary": "The commission approved five homes in Lāhainā and Outrigger resort upgrades with added beach parking and shoreline conditions.",
+      "dur": "6 h 30 m",
+      "voteCount": 0,
+      "momentCount": 2,
+      "issues": [
+        "maui-research-and-technology-park-land-designation"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "3758216f39ecd70f431055d5650821f59f46db60c23d35b271a61b86b1d96228"
+    },
+    {
+      "videoId": "pRcBgWNK6vM",
+      "status": "reviewed",
+      "meetingDateISO": "2026-08-25",
+      "bodyType": "council",
+      "body": "Maui County Council Meeting",
+      "headline": "Council passes purchase of private water system assets for up to $6 million, 8–1",
+      "summary": "The deputy water director said the assets include wells, transmission lines and storage tanks, and that funding is already in the account. The department said a six-month due diligence period will show the County's total administrative costs.",
+      "dur": "2 h 29 m",
+      "voteCount": 1,
+      "momentCount": 4,
+      "issues": [
+        "county-buying-private-west-maui-water-systems",
+        "county-food-and-nutrition-security-plan-law",
+        "extending-property-tax-relief-for-wildfire-hit-properties",
+        "paia-sugar-mill-light-industrial-rezoning"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "7b0ca4af8265e238c46bb7636ae45d263e415607a46203827796b83223b32ac5"
+    },
+    {
       "videoId": "_jJfabaKzgo",
       "status": "reviewed",
       "meetingDateISO": "2026-08-24",
@@ -1233,6 +2113,23 @@
       "sha256": "78a04ef14cd27f3c27a77a194d50e5cfbe8e77ca0b9e116b51888ca4e235b157"
     },
     {
+      "videoId": "MGkdTfx_zJI",
+      "status": "reviewed",
+      "meetingDateISO": "2026-08-24",
+      "bodyType": "council",
+      "body": "Maui County Council Housing and Land Use Committee",
+      "headline": "Committee recommends Bill 90 on first reading for Haʻikū Fire Station",
+      "summary": "The committee took up Bills 89, 90 and 91 for a proposed Haʻikū Fire Station and met in executive session. It required the parcel's remaining farm land to be used for subsistence agriculture, and staff will work with attorneys on the wording.",
+      "dur": "2 h 24 m",
+      "voteCount": 2,
+      "momentCount": 2,
+      "issues": [
+        "haiku-fire-station-awaits-county-council-approval"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "63702cd12f8e94ff62955591bbdd2093ff4b408a700ab7fd1e0c73be4e9626b9"
+    },
+    {
       "videoId": "9vFQege7xis",
       "status": "reviewed",
       "meetingDateISO": "2026-08-20",
@@ -1249,6 +2146,42 @@
       ],
       "updatedAt": "2026-11-01T03:10:01.373Z",
       "sha256": "fa5ca09fa9a72f99f6fadfb16f3a2554f621d1daa322909781a6330c210be5f5"
+    },
+    {
+      "videoId": "pXD4AJPMtzM",
+      "status": "reviewed",
+      "meetingDateISO": "2026-08-20",
+      "bodyType": "council",
+      "body": "Maui County Council Kōmike Aloha ʻĀina",
+      "headline": "Committee discusses Act 171 transition to Maui County, defers the item",
+      "summary": "The chair said Senate Bill 1432 became Act 171 on June 26, 2026, and Maui County takes over the area one year after the last patient leaves. Oral public testimony was closed and the item was deferred.",
+      "dur": "3 h 48 m",
+      "voteCount": 3,
+      "momentCount": 4,
+      "issues": [
+        "kalaupapa-transition-to-maui-county-under-act-171"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "71a7a97c0fbcb00b02cd07ba54c4eb9db9137cbeb516fc43b982ea924fdc8a82"
+    },
+    {
+      "videoId": "UjHForbD6sQ",
+      "status": "reviewed",
+      "meetingDateISO": "2026-08-20",
+      "bodyType": "board",
+      "body": "Board of Water Supply",
+      "headline": "Board of Water Supply",
+      "summary": "The board heard that BLNR denied a long-term Mahi Pono water license proposal, and it approved a planning letter and a TIG report.",
+      "dur": "55 m",
+      "voteCount": 0,
+      "momentCount": 2,
+      "issues": [
+        "east-maui-ditch-system-ownership-and-county-takeover-bid",
+        "board-of-water-supply-opposes-bill-1",
+        "new-west-maui-wells-timeline"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "9d93143cd95c34339eeac57534dc36d2ee266aa460d1c2c20aa6659c6f485247"
     },
     {
       "videoId": "Uxd8in6m_XU",
@@ -1417,6 +2350,26 @@
       "sha256": "fd6e87b46aacc441091a2a9187350731de29eae2222bdfa28fa6ce20b7e1189a"
     },
     {
+      "videoId": "mEoIJx_G1XQ",
+      "status": "reviewed",
+      "meetingDateISO": "2026-08-13",
+      "bodyType": "board",
+      "body": "Cost of Government Commission",
+      "headline": "Cost of Government Commission",
+      "summary": "The Cost of Government Commission voted to create a housing approvals study group and plans to invite County IT staff about cyber security.",
+      "dur": "2 h 01 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [
+        "2027-mass-nominations-for-county-boards",
+        "cost-of-government-study-of-housing-approvals",
+        "cost-of-government-commission-empty-seat-and-staggered-terms",
+        "county-cyber-security-after-malware-disruption"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "cb016a88e9e64ce837bca6dcf0b0bfcf0bae293cf33e8760ab8846fade1cd721"
+    },
+    {
       "videoId": "sY6AwUuHzjI",
       "status": "reviewed",
       "meetingDateISO": "2026-08-13",
@@ -1546,6 +2499,21 @@
       ],
       "updatedAt": "2026-10-31T10:02:02.744Z",
       "sha256": "7bfd8f2b35dae4ed0ccf5af6bd0bfec920343dc6f6a19520e99302d3269ba058"
+    },
+    {
+      "videoId": "1uy2xHeCM-A",
+      "status": "reviewed",
+      "meetingDateISO": "2026-08-06",
+      "bodyType": "board",
+      "body": "Maui Liquor Control Board",
+      "headline": "Maui Liquor Control Board",
+      "summary": "The chair paused that case so the business could seek a waiver of the conflict.",
+      "dur": "1 h 40 m",
+      "voteCount": 0,
+      "momentCount": 4,
+      "issues": [],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "21f1f253b83c15b2ee219da3fe4742385002accdf65165c68c7eed404f5db165"
     },
     {
       "videoId": "7xO3iAjvVX8",
@@ -1702,6 +2670,23 @@
       "sha256": "aadbe90807ed4d3b46bef97f28f2ccb8815b92167b8ee88ee90e78c105b24752"
     },
     {
+      "videoId": "j0NxyxCiC5E",
+      "status": "reviewed",
+      "meetingDateISO": "2026-08-04",
+      "bodyType": "council",
+      "body": "Maui County Council Government Relations, Ethics, and Transparency Committee",
+      "headline": "Committee takes up seabird streetlight settlement and enters executive session",
+      "summary": "The committee took up Resolution 26-128, a proposed settlement of a claim that streetlights threaten three protected seabirds, and voted to go into executive session. A county attorney said trial is likely in February, March or as late as April next year.",
+      "dur": "49 m",
+      "voteCount": 1,
+      "momentCount": 5,
+      "issues": [
+        "seabird-streetlight-lawsuit-settlement"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "cadf08e39e428deed8958d9d79e9701c32dc0a728453105fbfabd3bf258324ad"
+    },
+    {
       "videoId": "k9sST0HTG-0",
       "status": "reviewed",
       "meetingDateISO": "2026-08-04",
@@ -1749,6 +2734,24 @@
       ],
       "updatedAt": "2026-10-31T10:02:18.959Z",
       "sha256": "3a395bd4b2974e73e5b5b763d02dd323024cca7e6a6effa5e485c4809b81df6b"
+    },
+    {
+      "videoId": "yLs5op0XhHI",
+      "status": "reviewed",
+      "meetingDateISO": "2026-08-04",
+      "bodyType": "council",
+      "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+      "headline": "Committee passes water motion 7 to 1, discusses baggage charge proposals",
+      "summary": "One member was excused for the water vote, which followed discussion of a purchase priced at up to $6 million, not counting closing costs. A member proposed $1 per bag and $10 for large items, and another moved to count bags of 50 pounds or more as oversized.",
+      "dur": "1 h 30 m",
+      "voteCount": 0,
+      "momentCount": 4,
+      "issues": [
+        "county-buying-private-west-maui-water-systems",
+        "taxi-fare-and-baggage-charge-increases"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "ab32dcf4cf8683caf1d765d32c76440437fd05feb98dd263e751a55b4419931f"
     },
     {
       "videoId": "Nf0ZFxKZsEU",
@@ -1867,6 +2870,24 @@
       "sha256": "b9ea0c36f9dc11e3abaacd0cba560209010055c954e72dee33ee5c988c590e23"
     },
     {
+      "videoId": "G8BjVaIQGNw",
+      "status": "reviewed",
+      "meetingDateISO": "2026-07-28",
+      "bodyType": "council",
+      "body": "Maui County Council Government Relations, Ethics, and Transparency Committee",
+      "headline": "Committee defers Bill 99 on nepotism, discusses Board of Ethics enforcement time limits",
+      "summary": "The committee deferred Bill 99 and discussed Bill 55, which would let the Board of Ethics pursue violations for up to six years. The chair said the bills will return, with no date set yet.",
+      "dur": "2 h 32 m",
+      "voteCount": 0,
+      "momentCount": 2,
+      "issues": [
+        "board-of-ethics-full-time-staff",
+        "ethics-bills-on-nepotism-lobbyists-and-ex-employees"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "ff25efe15bbd63a648a93f19c267c4a9662ece2382037e845eac8e083b904bc9"
+    },
+    {
       "videoId": "AqGQN7Q_lDM",
       "status": "reviewed",
       "meetingDateISO": "2026-07-27",
@@ -1950,6 +2971,27 @@
       ],
       "updatedAt": "2026-10-31T10:02:18.959Z",
       "sha256": "c819a100b51caea2d0232698232d079c2ce52e6cf1b4b494b2a6ee12c79ed2ff"
+    },
+    {
+      "videoId": "7WOTHhYkCV0",
+      "status": "reviewed",
+      "meetingDateISO": "2026-07-24",
+      "bodyType": "council",
+      "body": "Maui County Council Meeting",
+      "headline": "Council advances hotel rezoning for some apartment-zoned properties",
+      "summary": "The council adopted two hotel rezoning resolutions for apartment-zoned properties, each 7–1, and backed a first-look home resale bill proposal.",
+      "dur": "2 h 30 m",
+      "voteCount": 2,
+      "momentCount": 3,
+      "issues": [
+        "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p",
+        "herbicide-waiver-for-road-safety-spots-deferred",
+        "charter-amendments-headed-to-the-general-election-ballot",
+        "park-maui-paid-and-resident-parking-rules",
+        "expanding-fare-free-bus-passes"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "9442b9f1ef3472db7d43ddc4c362365a081043788c2b3dcc3a975a4473acd6bb"
     },
     {
       "videoId": "JDZtlQ-ojPk",
@@ -2207,6 +3249,60 @@
       "sha256": "75120e232643169813c10d33669bb341ab406151e8e548e364c0e6cb50dce875"
     },
     {
+      "videoId": "NJzgJmRuAug",
+      "status": "reviewed",
+      "meetingDateISO": "2026-07-07",
+      "bodyType": "council",
+      "body": "Maui County Council Meeting",
+      "headline": "Council approves energy contract financing, passes bills, refers water system purchase",
+      "summary": "Members voted 9–0 to finance Phase 3 of an energy savings contract, and Bill 68 on West Maui parking passed first reading 9–0. Resolution 26-116 on water system assets went to the Budget, Finance, and Economic Development Committee.",
+      "dur": "3 h 48 m",
+      "voteCount": 0,
+      "momentCount": 4,
+      "issues": [
+        "possible-county-purchase-of-maui-land-and-pine-water-assets",
+        "charter-amendments-headed-to-the-general-election-ballot",
+        "park-maui-paid-and-resident-parking-rules",
+        "higher-fines-for-loud-vehicle-sound-systems",
+        "johnson-controls-energy-savings-contract-phase-3",
+        "cap-on-bed-and-breakfast-homes-on-molokai"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "bdc41cafa33c8eb30a5902a2ec55578a4bdbb831b2e2958c989dc2f109e4e742"
+    },
+    {
+      "videoId": "Q2s_7Nsckqw",
+      "status": "reviewed",
+      "meetingDateISO": "2026-07-07",
+      "bodyType": "board",
+      "body": "Maalaea Shoreline Home & Olowalu Ag Estate Reviewed",
+      "headline": "Maalaea Shoreline Home & Olowalu Ag Estate Reviewed",
+      "summary": "The board backed roof and tree recommendations for a Māʻalaea home and recommended a community meeting on an Olowalu farm-home project.",
+      "dur": "2 h 04 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "b61a0f29cc3a48fea95c0a53632cfe9911bd8cde3cac8122564ee674a4b71f98"
+    },
+    {
+      "videoId": "FG7e36xELVg",
+      "status": "reviewed",
+      "meetingDateISO": "2026-07-06",
+      "bodyType": "council",
+      "body": "Maui County Council Housing and Land Use Committee",
+      "headline": "Committee passes amended Resolution 26-110 on timeshare and leasehold properties",
+      "summary": "The amended resolution passed six to two, with one member excused. The chair said it is only a recommendation: the Planning Commission has 120 days to review it, and it then comes back to the council for discussion.",
+      "dur": "2 h 33 m",
+      "voteCount": 2,
+      "momentCount": 3,
+      "issues": [
+        "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "f07b731efddaa428a2fad3c6807596f1d4a0ae112898f001e464e012dec87a16"
+    },
+    {
       "videoId": "F1fUs_ROA_Q",
       "status": "reviewed",
       "meetingDateISO": "2026-07-02",
@@ -2223,6 +3319,23 @@
       ],
       "updatedAt": "2026-10-31T10:02:02.744Z",
       "sha256": "bea4feac92cd8aee6fa39206799e14f62e2ad9b338015e1480096e2f9618e08c"
+    },
+    {
+      "videoId": "xKztqre69Yg",
+      "status": "reviewed",
+      "meetingDateISO": "2026-07-02",
+      "bodyType": "council",
+      "body": "Maui County Council Agriculture, Diversification, Environment, & Public Transportation Committee",
+      "headline": "Committee discusses Bill 95 bus fares; motion on bill passes with seven ayes",
+      "summary": "Bill 95 would write new bus fares into County code, and the director discussed up to 14 fare-free days, each costing about $2,806 in uncollected fares. A motion on the bill passed with seven ayes and no noes.",
+      "dur": "35 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [
+        "expanding-fare-free-bus-passes"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "be4a6445fe6395ef61d188e7959d3494232da602fc2e1ed082d0c7f2786df416"
     },
     {
       "videoId": "85yeBesaw7k",
@@ -2409,6 +3522,28 @@
       "sha256": "e5628ecc069e4d85516a08ac49cf4e29723a146c7088b5074d238a90c18c6c6a"
     },
     {
+      "videoId": "lLsXXrEBmuw",
+      "status": "reviewed",
+      "meetingDateISO": "2026-06-19",
+      "bodyType": "council",
+      "body": "Maui County Council Meeting",
+      "headline": "Council considers Hoʻonani Village land bills, accessory dwelling units and noise fines",
+      "summary": "Bills for the Hoʻonani Village project would change 163.443 acres in Kahului from agriculture to business and multi-family; Bill 163 needs a Maui public hearing before final reading. An amendment raising noise fines in Bill 119 passed seven ayes, two noes.",
+      "dur": "1 h 34 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [
+        "paia-40-acre-housing-project-rezoning",
+        "bills-163-and-164-for-163-acre-central-maui-growth",
+        "higher-fines-for-loud-vehicle-sound-systems",
+        "allowing-two-accessory-homes-per-residential-lot",
+        "cap-on-bed-and-breakfast-homes-on-molokai",
+        "county-bus-advertising-rules-in-bill-13"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "1aa626e9ae9ac18d8e4e5ee6a805c5d93b3ae86d5c59a0933c49b5a486ba93e1"
+    },
+    {
       "videoId": "N5Uix8ba9zI",
       "status": "reviewed",
       "meetingDateISO": "2026-06-19",
@@ -2428,6 +3563,43 @@
       "sha256": "cbc6a9dd8aad9d6e6d53310c1a5a49a582bb704a4c13f9de8b4667314321236b"
     },
     {
+      "videoId": "u9uLIOvdW0o",
+      "status": "reviewed",
+      "meetingDateISO": "2026-06-19",
+      "bodyType": "council",
+      "body": "Maui County Council Meeting",
+      "headline": "Council approves Kula well site purchase 9–0, hears testimony on Bill 88",
+      "summary": "The purchase covers 1.714 acres in Kula from Haleakalā Ranch Company. The council also passed Bills 69, 83, 92 and 93 on final reading, 9–0, and heard Office of Hawaiian Affairs and condo owner testimony on Bill 88.",
+      "dur": "1 h 21 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [
+        "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p",
+        "south-maui-community-plan-review",
+        "land-purchase-for-new-upcountry-well-at-haleakala-ranch"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "d975d81de9a38c980cd1225c7810652897bc3e4ea37d1bdab4690b0f2ee6101a"
+    },
+    {
+      "videoId": "6U_23aemZtI",
+      "status": "reviewed",
+      "meetingDateISO": "2026-06-18",
+      "bodyType": "council",
+      "body": "Maui County Council Housing and Land Use Committee",
+      "headline": "Committee files Resolution 25-215, discusses nomination board and claims filing",
+      "summary": "Members voted 9–0 to file Resolution 25-215. They heard the mayor's office supported Resolution 26-93 to dissolve the Independent Nomination Board, and a deputy clerk said changing where claims are filed needs a charter amendment.",
+      "dur": "1 h 33 m",
+      "voteCount": 1,
+      "momentCount": 3,
+      "issues": [
+        "2027-mass-nominations-for-county-boards",
+        "charter-amendments-headed-to-the-general-election-ballot"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "c54e95a96612a491844db7d4170ba178faa6bc6312f5f0c32f2e876c4ebb65bd"
+    },
+    {
       "videoId": "BB2LrUuR5PU",
       "status": "reviewed",
       "meetingDateISO": "2026-06-18",
@@ -2443,6 +3615,40 @@
       ],
       "updatedAt": "2026-10-31T10:02:02.744Z",
       "sha256": "26ed4c6fc31871b48a10296a6b35e96bd7db8c6b415c553d329046fa58b33965"
+    },
+    {
+      "videoId": "TgNDDXu-ktc",
+      "status": "reviewed",
+      "meetingDateISO": "2026-06-18",
+      "bodyType": "council",
+      "body": "Maui County Council Housing and Land Use Committee",
+      "headline": "Committee advances emergency funding charter change, revisits notice proposals",
+      "summary": "The committee voted 8–0, with one member excused, to recommend Resolution 2688 on first reading. Members withdrew motions on deferred public meeting notice proposals after a deputy corporation counsel said a proposal conflicts with state law.",
+      "dur": "1 h 53 m",
+      "voteCount": 1,
+      "momentCount": 4,
+      "issues": [
+        "charter-amendments-headed-to-the-general-election-ballot"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "3fda2550d790c648abd67c560eb34fa0f2af90c09665c61355f762fe15b5720d"
+    },
+    {
+      "videoId": "TuRCT9XlMsA",
+      "status": "reviewed",
+      "meetingDateISO": "2026-06-18",
+      "bodyType": "council",
+      "body": "Maui County Council Government Relations, Ethics, and Transparency Committee",
+      "headline": "Committee sends claims proposal on without recommendation, defers vacancy item",
+      "summary": "Members voted 9–0 to pass the claims proposal along with no recommendation, and the council vacancy proposal was deferred without objection. A committee report goes to the full council, most likely on July 7th.",
+      "dur": "4 h 01 m",
+      "voteCount": 0,
+      "momentCount": 4,
+      "issues": [
+        "charter-amendments-headed-to-the-general-election-ballot"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "fbf85473c7e9ce5256c333eea63928adb16d7a2d1379c537fe9aa965c86d2789"
     },
     {
       "videoId": "e2VurwUrZvg",
@@ -2480,6 +3686,25 @@
       "sha256": "1847221ee4ffb4f5107e3cd2fe1422f71cf782d05df470bcb64cf0e35fc3ee47"
     },
     {
+      "videoId": "nUYc4kmAsp0",
+      "status": "reviewed",
+      "meetingDateISO": "2026-06-16",
+      "bodyType": "council",
+      "body": "Maui County Council Government Relations, Ethics, and Transparency Committee",
+      "headline": "Committee approves CD1 version of Resolution 2695, defers Resolution 2686",
+      "summary": "Members also took up Resolution 2611 on filling a County Council vacancy. The committee plans to take up the remaining charter amendments and deferred proposals when it reconvenes.",
+      "dur": "3 h 36 m",
+      "voteCount": 1,
+      "momentCount": 4,
+      "issues": [
+        "2027-mass-nominations-for-county-boards",
+        "charter-amendments-headed-to-the-general-election-ballot",
+        "climate-action-revolving-fund-from-hotel-tax"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "223521d10560d18792f386703f18b74d2a1ac6727f6f89640b4edd02a1395695"
+    },
+    {
       "videoId": "6WVDJO1LxXM",
       "status": "reviewed",
       "meetingDateISO": "2026-06-15",
@@ -2498,6 +3723,40 @@
       "sha256": "d8b81949c3cdb5e6a81e9cf14f14a1e1a2c9f5b104a58612bf1b9d2e8ddbef37"
     },
     {
+      "videoId": "aGVu5petQPA",
+      "status": "reviewed",
+      "meetingDateISO": "2026-06-15",
+      "bodyType": "council",
+      "body": "Maui County Council Water Authority, Social Services, and Parks Committee",
+      "headline": "Committee discusses Bill 77 on Affordable Housing Fund and houseless residents, recesses",
+      "summary": "The committee heard public testimony and questions on Bill 77, which would require part of the Affordable Housing Fund to go toward housing for houseless people. It recessed with a second round of member questions still to come; no vote was reported.",
+      "dur": "1 h 31 m",
+      "voteCount": 1,
+      "momentCount": 4,
+      "issues": [
+        "bill-77-setting-aside-housing-fund-for-houseless-residents"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "4124b270a4953c677612943b8cb094612a14fff0b8c6f811654d24b8d326593a"
+    },
+    {
+      "videoId": "v2siMsfjOX4",
+      "status": "reviewed",
+      "meetingDateISO": "2026-06-15",
+      "bodyType": "council",
+      "body": "Maui County Council Water Authority, Social Services, and Parks Committee",
+      "headline": "Committee discusses Bill 77-2026 on Affordable Housing Fund use for houseless residents",
+      "summary": "The housing director said the fund's current wording is broad enough and suggested softening the word ensure. The chair said the committee would probably defer the bill and invite the Director of Human Concerns. A safe parking program is planned for June 29th.",
+      "dur": "1 h 53 m",
+      "voteCount": 0,
+      "momentCount": 2,
+      "issues": [
+        "bill-77-setting-aside-housing-fund-for-houseless-residents"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "d1511feadf5a78c3fc0d7b354f1886d5a967b80c1b30eca52616e5b8211c241e"
+    },
+    {
       "videoId": "BOV1OZzPhyQ",
       "status": "reviewed",
       "meetingDateISO": "2026-06-05",
@@ -2513,6 +3772,25 @@
       ],
       "updatedAt": "2026-10-31T10:02:02.744Z",
       "sha256": "2662cf3bd30f8c1ba1abfc1e163220afdb83f39e280b5611686865b916224cbb"
+    },
+    {
+      "videoId": "r35y6R967gY",
+      "status": "reviewed",
+      "meetingDateISO": "2026-06-05",
+      "bodyType": "council",
+      "body": "Maui County Council Meeting",
+      "headline": "Council files Bill 102 Wailuku property funding, discusses Bill 88 hotel districts",
+      "summary": "Members voted 9–0 to file Bill 102, which would fund buying a Wailuku property. They also discussed Bill 88, which would create H3 and H4 hotel districts for A1 and A2 apartment-district properties, and a budget amendment directing up to $3 million to Maui Economic Opportunity Inc.",
+      "dur": "4 h 51 m",
+      "voteCount": 0,
+      "momentCount": 0,
+      "issues": [
+        "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p",
+        "water-system-development-fee-based-on-daily-use",
+        "lower-waiehu-beach-road-land-purchase-and-title-dispute"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "ecb61b1c1dffaa40e4383ccfc847ee07c6db72c2637cd1830c7aa7ace753e5dd"
     },
     {
       "videoId": "qaTIlozbYYE",
@@ -2547,6 +3825,21 @@
       "sha256": "35f5b1416a3f5982aaa899ef2d61aa88a9f0057ca60406438a85b704e8fb46c1"
     },
     {
+      "videoId": "r2leKy7OYMY",
+      "status": "reviewed",
+      "meetingDateISO": "2026-06-04",
+      "bodyType": "board",
+      "body": "Maui Liquor Board Fines 3 Bars for Serving Minors",
+      "headline": "Maui Liquor Board Fines 3 Bars for Serving Minors",
+      "summary": "The Liquor Control Adjudication Board met Thursday, June 4.",
+      "dur": "1 h 07 m",
+      "voteCount": 0,
+      "momentCount": 4,
+      "issues": [],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "dd28274946bcb0a711952d31e5c66d13786be66049e447b9e4d43c79885e3ebf"
+    },
+    {
       "videoId": "WPyqYEpazJA",
       "status": "reviewed",
       "meetingDateISO": "2026-06-04",
@@ -2575,6 +3868,41 @@
       "issues": [],
       "updatedAt": "2026-10-31T10:02:02.744Z",
       "sha256": "2a3706bfb99cd2a9c1e05a4231202a9b452d37ae09c88b8640a23123b0f21483"
+    },
+    {
+      "videoId": "uMPNxxCZOYk",
+      "status": "reviewed",
+      "meetingDateISO": "2026-06-03",
+      "bodyType": "council",
+      "body": "Maui County Council Housing and Land Use Committee",
+      "headline": "Committee approves amendments to accessory dwelling bill, discusses Molokaʻi B&B cap",
+      "summary": "Members approved two amendments to the bill on accessory dwelling units, each with seven ayes. The county must adopt its rules by December 31, 2026. The committee also took up a bill capping Molokaʻi bed and breakfast homes at five.",
+      "dur": "1 h 44 m",
+      "voteCount": 1,
+      "momentCount": 3,
+      "issues": [
+        "allowing-two-accessory-homes-per-residential-lot",
+        "cap-on-bed-and-breakfast-homes-on-molokai"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "b7bb16f9e76451636ff14eec01c40ba37c63e5a9e226def6f1e1c0605a85dff6"
+    },
+    {
+      "videoId": "GxTujuHaA7M",
+      "status": "reviewed",
+      "meetingDateISO": "2026-06-02",
+      "bodyType": "council",
+      "body": "Maui County Council Government Relations, Ethics, and Transparency Committee",
+      "headline": "Committee passes petition deadline change, defers notice, day-counting, claims items",
+      "summary": "The committee also filed the proposal on posting bill digests online. It recessed until June 16, 2026, when the notice and day-counting proposals are to return as one combined proposal and discussion of the claims proposal continues.",
+      "dur": "2 h 30 m",
+      "voteCount": 3,
+      "momentCount": 4,
+      "issues": [
+        "charter-amendments-headed-to-the-general-election-ballot"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "566190d4281922d68a3a9b7570315fb6650cad8c12b08078d4692c67662278df"
     },
     {
       "videoId": "iNemVTCJIfM",
@@ -2624,6 +3952,41 @@
       ],
       "updatedAt": "2026-11-01T03:10:46.801Z",
       "sha256": "6ecaedd1366c72d36fec1d8b79ec3a8d82696e739df7b519e1d9aab36170aaca"
+    },
+    {
+      "videoId": "BAq4g7xEhpE",
+      "status": "reviewed",
+      "meetingDateISO": "2026-05-26",
+      "bodyType": "council",
+      "body": "Maui County Council Housing and Land Use Committee",
+      "headline": "Committee recommends passing bill creating H3 and H4 districts, 6–1",
+      "summary": "The committee voted six to one, with two members excused, to recommend passage. An amendment leaving Molokaʻi out of the new districts passed earlier. The bill now goes to the full council.",
+      "dur": "4 h 27 m",
+      "voteCount": 0,
+      "momentCount": 1,
+      "issues": [
+        "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "6fa36b9edffb2680c50ca1314069f49be4ed2cf9108f4176cd78e28891cba12f"
+    },
+    {
+      "videoId": "oGAlti5AS88",
+      "status": "reviewed",
+      "meetingDateISO": "2026-05-21",
+      "bodyType": "council",
+      "body": "Maui County Council Agriculture, Diversification, Environment, & Public Transportation Committee",
+      "headline": "Committee approves revised bus ad bill, defers Climate Action and Resiliency Revolving Fund bill",
+      "summary": "The committee voted 6–0 to replace Bill 13 (2026) with a CD1 version on County bus ads. Bill 66 (2026), proposing a climate fund starting at 20 percent of TAT revenue, was deferred; the chair said it will probably return in the next few meetings.",
+      "dur": "1 h 57 m",
+      "voteCount": 1,
+      "momentCount": 5,
+      "issues": [
+        "climate-action-revolving-fund-from-hotel-tax",
+        "county-bus-advertising-rules-in-bill-13"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "3f4ca5b6c7209c361d57acba83bad490e2823ccb7f7483ac7f350625ab1df81e"
     },
     {
       "videoId": "R_MPvIqY5cU",
@@ -2698,6 +4061,95 @@
       "sha256": "26144308e61880b347de98221ab4107ed47ce392c326e607c5693aa490a69b16"
     },
     {
+      "videoId": "RIm_l_7ZlSI",
+      "status": "reviewed",
+      "meetingDateISO": "2026-05-20",
+      "bodyType": "council",
+      "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+      "headline": "Committee replaces Bill 164 with revised version, discusses Kahuluʻi land bills",
+      "summary": "Bill 163 would put Kahuluʻi land inside the urban growth boundary, and Bill 164 would change its plan use to business multifamily. Bill 165 is held for the Land Use Commission; full council will learn if five or six votes are needed.",
+      "dur": "2 h 35 m",
+      "voteCount": 1,
+      "momentCount": 4,
+      "issues": [
+        "bills-163-and-164-for-163-acre-central-maui-growth"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "6ecc2dc55359b513ec59c49071d2b0fbe315e395db17d6c302c22802b6c751e7"
+    },
+    {
+      "videoId": "sLR8tSPOYbo",
+      "status": "reviewed",
+      "meetingDateISO": "2026-05-20",
+      "bodyType": "council",
+      "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+      "headline": "Committee discusses three Kahuluʻi land bills, takes no action on Bill 165 zoning change",
+      "summary": "Testifiers spoke in support and raised concerns about the airport flight path and water from an old agricultural well. The bills go to the full council, which will say whether five or six votes are needed to pass them.",
+      "dur": "2 h 40 m",
+      "voteCount": 0,
+      "momentCount": 4,
+      "issues": [
+        "bills-163-and-164-for-163-acre-central-maui-growth"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "db0e10c658d239f16b6054f20f7daec7909c0894a5e9a8e14304f189100ee09d"
+    },
+    {
+      "videoId": "y1OOtPpBzeU",
+      "status": "reviewed",
+      "meetingDateISO": "2026-05-20",
+      "bodyType": "council",
+      "body": "Maui County Council Housing and Land Use Committee",
+      "headline": "Committee sends housing project to Planning Commission, recommends farm notice measure",
+      "summary": "After testimony for and against, the committee recommended sending a housing and business project's plan and zoning changes to the Planning Commission. It also recommended adopting Resolution 26-68, on farm tenant notice before subdividing, on a 5–2 roll call vote.",
+      "dur": "2 h 52 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [
+        "farm-land-subdivision-lessee-notice-bill",
+        "paia-40-acre-housing-project-rezoning",
+        "allowing-two-accessory-homes-per-residential-lot"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "4b4b65c322c5fa1aa6a38962971c8963bd55b348d53a2ec09a8830b2bd254abc"
+    },
+    {
+      "videoId": "MwEGyy1Tcr4",
+      "status": "reviewed",
+      "meetingDateISO": "2026-05-19",
+      "bodyType": "council",
+      "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+      "headline": "Committee recommends Bill 83 on first reading, 9-0, and discusses Hālau funds and grants",
+      "summary": "The committee recommended Bill 83 on first reading with nine ayes, moving $372,933 from the Sewer Fund to the open space fund for Central Maui Wastewater Facility land. It also discussed Bill 69 on grants and Hālau funding.",
+      "dur": "2 h 28 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [
+        "countywide-rules-for-managing-county-grants",
+        "central-maui-wastewater-reclamation-facility-funding",
+        "lower-waiehu-beach-road-land-purchase-and-title-dispute"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "203e949b4be1976c921f74dae16966e7af5e6eb54e770265c987dd96a9012974"
+    },
+    {
+      "videoId": "yk_eAZSj-HI",
+      "status": "reviewed",
+      "meetingDateISO": "2026-05-19",
+      "bodyType": "council",
+      "body": "Maui County Council Government Relations, Ethics, and Transparency Committee",
+      "headline": "Committee defers Martin settlement, passes Myers-Nave legal fee resolution",
+      "summary": "The settlement in Charlotte Martin v. County of Maui (Resolution 26-81) was deferred. A motion to adopt Resolution 26-82, adding $240,000 for Myers-Nave's wildfire lawsuit work, passed with eight ayes and one excused, and it goes to the full council.",
+      "dur": "22 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [
+        "countys-wildfire-lawsuits-and-global-settlement"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "eda962bde27df185c1fccaa8853e9ccc7d0cc8a935245fa73c37ceb60617cd43"
+    },
+    {
       "videoId": "R11kAu6emiw",
       "status": "reviewed",
       "meetingDateISO": "2026-05-18",
@@ -2735,6 +4187,111 @@
       "sha256": "eba382563d8edef130cd47060a53269a2aa1a7001df30e0237a371737ef0e302"
     },
     {
+      "videoId": "OkWie4ie_qY",
+      "status": "reviewed",
+      "meetingDateISO": "2026-05-15",
+      "bodyType": "council",
+      "body": "Maui County Council Notice of Public Hearing",
+      "headline": "Council holds fuel tax rate hearing; no one indicated a desire to testify",
+      "summary": "The Council opened testimony on Resolution 2663, which relates to adopting fuel tax rates for the County of Maui. The proposed rates would take effect July 1, 2026. Six members were present, three were excused, and the meeting adjourned.",
+      "dur": "7 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "d2a8b16fbcf142b270b34959db2d5e2add829bf8eaa314682f69642ccea01a2a"
+    },
+    {
+      "videoId": "WmlNgIDoTf0",
+      "status": "reviewed",
+      "meetingDateISO": "2026-05-15",
+      "bodyType": "council",
+      "body": "Maui County Council Notice of Public Hearing",
+      "headline": "Council adopts tax rates, approves housing grant bid, passes budget report",
+      "summary": "Council members adopted new real property tax rates nine to zero and approved a $1,932,564 federal housing grant application due June 2, 2026. They passed the budget committee report nine to zero and added conditions to a temple grant, also nine to zero.",
+      "dur": "5 h 08 m",
+      "voteCount": 3,
+      "momentCount": 3,
+      "issues": [
+        "setting-yearly-property-tax-rates",
+        "meo-farmer-microgrant-program"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "93e17bade79cb4f0802bb39ef7aeea197c5381dd046f5c1b4c587a8c3499414e"
+    },
+    {
+      "videoId": "Z_F_E5XxQT8",
+      "status": "reviewed",
+      "meetingDateISO": "2026-05-15",
+      "bodyType": "council",
+      "body": "Maui County Council Notice of Public Hearing",
+      "headline": "Council holds public hearing on fiscal year 2027 motor vehicle weight tax rates",
+      "summary": "The council took public testimony on proposed motor vehicle weight tax rates for fiscal year 2027, with seven members present and two excused. The chair closed public testimony, accepted written testimony and adjourned the meeting.",
+      "dur": "12 m",
+      "voteCount": 1,
+      "momentCount": 4,
+      "issues": [],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "322b85f1162343a196a570962d5bf7d7d1eef6c216de20fb53aa21d15740df0c"
+    },
+    {
+      "videoId": "7eJyblKPm2w",
+      "status": "reviewed",
+      "meetingDateISO": "2026-05-01",
+      "bodyType": "council",
+      "body": "Maui County Council Meeting",
+      "headline": "Council accepts $5,000 storm donation, sends park zoning change to Planning Commission",
+      "summary": "The council voted 9–0 to accept a $5,000 donation for March 2026 storm recovery and sent a Maui Research and Technology Park District zoning change to the Maui Planning Commission. It also filed a bill tied to a stewardship group's funding.",
+      "dur": "2 h 43 m",
+      "voteCount": 6,
+      "momentCount": 2,
+      "issues": [
+        "maui-research-and-technology-park-land-designation",
+        "bill-77-setting-aside-housing-fund-for-houseless-residents",
+        "lahaina-residential-condo-rebuild-grant",
+        "countys-wildfire-lawsuits-and-global-settlement"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "f6a8b44d020440173d450499e8aaf4cf6d3e52dbee0beb6a4a00bb2a61cdaa24"
+    },
+    {
+      "videoId": "SY7ceHt82eM",
+      "status": "reviewed",
+      "meetingDateISO": "2026-04-27",
+      "bodyType": "council",
+      "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+      "headline": "Maui County Council Budget, Finance, and Economic Development Committee",
+      "summary": "The committee recommended passing fiscal year 27 budget bills and Bill 76 on water system fees on first reading.",
+      "dur": "40 m",
+      "voteCount": 2,
+      "momentCount": 3,
+      "issues": [
+        "water-system-development-fee-based-on-daily-use"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "75bceb14d1c5884fdc70b580acf946ac9534dad26894eb37350bc4bf167cd2b0"
+    },
+    {
+      "videoId": "KhrHZUeNlAw",
+      "status": "reviewed",
+      "meetingDateISO": "2026-04-24",
+      "bodyType": "council",
+      "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+      "headline": "Budget committee adjusts FY27 budget, passes property tax tier change 8-1, recesses to Monday",
+      "summary": "The committee worked through the proposed fiscal year 27 budget, setting aside up to $9 million for Hoʻonani Village well and water work. It passed a non-owner-occupied property tax tier change 8-1 and will take up general budget provisions at 10 a.m. Monday.",
+      "dur": "2 h 05 m",
+      "voteCount": 10,
+      "momentCount": 5,
+      "issues": [
+        "water-system-development-fee-based-on-daily-use",
+        "water-rate-increases-and-19-80-top-tier",
+        "climate-action-revolving-fund-from-hotel-tax",
+        "hoonani-village-housing-and-well-funding"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "c5ce4625b9f8c3508e7ab32d152f653bd43d594f8eede1961f2040a12b355b1e"
+    },
+    {
       "videoId": "AYcQ3sdhHaI",
       "status": "reviewed",
       "meetingDateISO": "2026-04-23",
@@ -2753,6 +4310,61 @@
       ],
       "updatedAt": "2026-11-01T03:04:02.390Z",
       "sha256": "45bc8fa30960c7006450fe6bba910e0db9350dab841d8a8e540fdd64faa49292"
+    },
+    {
+      "videoId": "IxdQajY2dxI",
+      "status": "reviewed",
+      "meetingDateISO": "2026-04-22",
+      "bodyType": "council",
+      "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+      "headline": "Committee works on FY27 budget, adds funds for hospice, power supply and wildfire recovery",
+      "summary": "The committee approved $150,000 for a medical-device power supply program, $750,000 for rural hospice care and up to $3 million for upcountry wildfire recovery, 8-1. Budget review was set to resume the next day at nine o'clock.",
+      "dur": "7 h 37 m",
+      "voteCount": 3,
+      "momentCount": 3,
+      "issues": [
+        "emergency-fund-money-for-march-2026-storm-damage",
+        "airborne-mapping-of-mauis-underground-fresh-water",
+        "lanai-fifth-street-affordable-housing-project"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "1dd8dfc35a87b692e0ae4fc2956d1f90f673dbcde60cc33a7830b7af52a73f8a"
+    },
+    {
+      "videoId": "8TlgSTvR8EI",
+      "status": "reviewed",
+      "meetingDateISO": "2026-04-21",
+      "bodyType": "council",
+      "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+      "headline": "Committee cuts fire funds, passes Lahaina land trust grant and housing bonds",
+      "summary": "Cuts included $94,556 for fire administration positions and $65,000 for a fire department vehicle. Members passed a $6 million grant and $4.5 million in bonds for homes for domestic violence victims, each with nine ayes, then recessed during a $3 million Affordable Housing Fund motion.",
+      "dur": "1 h 20 m",
+      "voteCount": 4,
+      "momentCount": 4,
+      "issues": [
+        "county-funding-for-lahaina-community-land-trust",
+        "voluntary-deed-restriction-program-for-homeowners"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "b21142f221881ceb8f7cd52facb661b480abbbda5604f03734bc95f84cdd994d"
+    },
+    {
+      "videoId": "d9P72k1KGO4",
+      "status": "reviewed",
+      "meetingDateISO": "2026-04-21",
+      "bodyType": "council",
+      "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+      "headline": "Committee approves $40,000 for environmental grants and $500,000 sewer borrowing cut",
+      "summary": "A motion adding $40,000 to environmental protection grants, with up to $40,000 for Haʻikū Community Association stream testing, carried. The sewer motion on bond borrowing for a wastewater pump station project passed with eight ayes, one member excused.",
+      "dur": "48 m",
+      "voteCount": 1,
+      "momentCount": 3,
+      "issues": [
+        "yearly-9-percent-sewer-rate-increases",
+        "reviving-the-cloud-bridge-from-leeward-haleakala"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "e187b26fb594f4276dc1136db50bddc127197d437a6f79d9d52b8693440cb038"
     },
     {
       "videoId": "dybLwXF__KI",
@@ -2798,6 +4410,83 @@
       "sha256": "dd5702ad8260964f93605a4a623ead4f6b556052ea78d2b8cc4bde78ae23fbd4"
     },
     {
+      "videoId": "jIfAqFmxQNg",
+      "status": "reviewed",
+      "meetingDateISO": "2026-04-21",
+      "bodyType": "council",
+      "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+      "headline": "Committee sets ʻOhana Assistance Program minimum, cuts $140,000 for new positions",
+      "summary": "Members voted with nine ayes to add missing license classes to the liquor fee list and to set at least $3 million for ʻOhana Assistance Program grants. A $35,000 Personnel Services cut failed. The meeting continues tomorrow at 10.",
+      "dur": "1 h 11 m",
+      "voteCount": 2,
+      "momentCount": 2,
+      "issues": [
+        "expanding-fare-free-bus-passes"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "c24c0cb24e0177187f2a4daa91e32a363b2774a04e5f798eb8ebfffee18d50f9"
+    },
+    {
+      "videoId": "BsZX-gnBZU8",
+      "status": "reviewed",
+      "meetingDateISO": "2026-04-20",
+      "bodyType": "council",
+      "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+      "headline": "Maui County Council Budget, Finance, and Economic Development Committee",
+      "summary": "The committee began making decisions on the proposed fiscal year 27 county budget.",
+      "dur": "5 h 46 m",
+      "voteCount": 4,
+      "momentCount": 4,
+      "issues": [
+        "east-maui-water-board-budget-and-staffing-requests",
+        "county-food-and-nutrition-security-plan-law",
+        "extending-property-tax-relief-for-wildfire-hit-properties"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "248b1e541ac7679ee74aacefb38ed3ebc2900d468a6e183641d92c6bb03ee49a"
+    },
+    {
+      "videoId": "cWThkDX_iTA",
+      "status": "reviewed",
+      "meetingDateISO": "2026-04-17",
+      "bodyType": "council",
+      "body": "Maui County Council Meeting",
+      "headline": "Council adopts Kahoʻolawe resolution, discusses Bills 74 and 75, refers Bill 68",
+      "summary": "Bill 74 would let emergency funds pay county costs and aid for all recent severe weather events. Bill 75 would grant $6 million to Hawaiʻi Community Lending for the Lahaina Residential rebuild. Bill 68 went to the Water and Infrastructure Committee with no objections.",
+      "dur": "3 h 16 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [
+        "firefighter-pay-contract-arbitration-and-mediation",
+        "emergency-fund-money-for-march-2026-storm-damage",
+        "off-street-parking-based-on-bedroom-count",
+        "park-maui-paid-and-resident-parking-rules",
+        "central-maui-wastewater-reclamation-facility-funding",
+        "lahaina-residential-condo-rebuild-grant",
+        "ohana-assistance-program-for-building-family-units"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "394aceedd30ac731a977eb14ae91bfdaa46ec248aa2c11174dc6d18379b03da8"
+    },
+    {
+      "videoId": "l1rbB08YXsw",
+      "status": "reviewed",
+      "meetingDateISO": "2026-04-17",
+      "bodyType": "council",
+      "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+      "headline": "Committee hears public testimony on mayor's proposed budget from Lahaina fire survivors",
+      "summary": "At a listening session on BFED 1, testifiers raised long-term recovery funding, rental help and a Lahaina land trust request, and one objected to a $60 million increase. The chair closed testimony and adjourned; a council member will report to the next meeting.",
+      "dur": "1 h 49 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [
+        "county-funding-for-lahaina-community-land-trust",
+        "contractors-taking-lahaina-rebuilders-money"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "bfc36a0b1163a68a7d927f41a8c59766dd565d1570501e9effc9f9cb7ee9318f"
+    },
+    {
       "videoId": "4QEyWDNRkiY",
       "status": "reviewed",
       "meetingDateISO": "2026-04-08",
@@ -2838,6 +4527,24 @@
       "sha256": "c441e7a48ae2e66948834d38bdfc40fcf90e629be25f6dde36122c03d79c1e44"
     },
     {
+      "videoId": "-YeXuiAzmiU",
+      "status": "reviewed",
+      "meetingDateISO": "2026-04-01",
+      "bodyType": "council",
+      "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+      "headline": "Budget committee holds first community meeting and takes public testimony",
+      "summary": "Speakers, limited to three minutes each, addressed bus service, STEM programs, transitional housing, deer damage to farmland and farm funding. The chair said the committee will receive a summary of the testimony.",
+      "dur": "1 h 58 m",
+      "voteCount": 0,
+      "momentCount": 4,
+      "issues": [
+        "malama-kula-green-waste-and-fire-fuel-work",
+        "axis-deer-damage-and-control-programs"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "3e3a633e20150f6d426448d207462e2fd8f953bc88892699920eed53e02da2c9"
+    },
+    {
       "videoId": "Gjw_tbHieQw",
       "status": "reviewed",
       "meetingDateISO": "2026-03-09",
@@ -2857,6 +4564,48 @@
       "sha256": "ee3c64e613374b88557bf757b70cb9209246ec3869c3b0a4a9b884c0db5286ff"
     },
     {
+      "videoId": "IWeChLPBH6Y",
+      "status": "reviewed",
+      "meetingDateISO": "2026-01-26",
+      "bodyType": "council",
+      "body": "Maui County Council Water and Infrastructure Committee",
+      "headline": "Committee discusses Bill 176 road agreement and Bill 1 on water department plan review",
+      "summary": "The committee took up Bill 176, a 10-year road maintenance agreement with the state, and Bill 1, on reviewing subdivision plans before water is verified. A request to send Bill 1 to the Board of Water Supply was made, and the committee will work with County lawyers on the policy plan question.",
+      "dur": "2 h 38 m",
+      "voteCount": 0,
+      "momentCount": 4,
+      "issues": [
+        "board-of-water-supply-opposes-bill-1"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "6c3c203df8985a39ae7d642b937769eacedab439df174baf1ec46ad81a2b512f"
+    },
+    {
+      "videoId": "mJsxaTtDu9Q",
+      "status": "reviewed",
+      "meetingDateISO": "2026-01-07",
+      "bodyType": "council",
+      "body": "Maui County Council Meeting",
+      "headline": "Maui County Council Meeting",
+      "summary": "The council advanced limits on new West Maui pools, approved a Lānaʻi housing land lease, and sent a hotel-district plan to planning commissions.",
+      "dur": "4 h 09 m",
+      "voteCount": 9,
+      "momentCount": 4,
+      "issues": [
+        "board-of-water-supply-opposes-bill-1",
+        "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p",
+        "moving-fire-survivors-off-fema-interim-housing",
+        "safe-parking-sites-for-people-living-in-cars",
+        "county-funding-for-lahaina-community-land-trust",
+        "new-countywide-water-conservation-ordinance",
+        "limits-on-new-swimming-pools-in-west-maui",
+        "lahaina-wastewater-plant-upgrade-loan",
+        "lanai-fifth-street-affordable-housing-project"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "0c7cbc024bd9737d23a2d3dd873f4883ab3d554b54b0e400b64f718992b83af9"
+    },
+    {
       "videoId": "utyxTwSGIas",
       "status": "reviewed",
       "meetingDateISO": "2025-08-18",
@@ -2872,6 +4621,43 @@
       ],
       "updatedAt": "2026-10-31T10:02:18.959Z",
       "sha256": "631fef65d72b8d511050e98fa994cd188249f6be77f9c39541dcb33aeaf4186e"
+    },
+    {
+      "videoId": "IdiAmc4W5Zo",
+      "status": "reviewed",
+      "meetingDateISO": "2025-07-25",
+      "bodyType": "council",
+      "body": "Maui County Council Meeting",
+      "headline": "Council approves hazard pay settlement and tax committee, passes farm tourism bill",
+      "summary": "Members passed Bill 56, a water rate discount for native species habitat use, on first reading and sent an off-street parking bill for housing to the Lānaʻi, Maui, and Molokaʻi Planning Commissions. Bill 75 allows agricultural tourism on working farms.",
+      "dur": "3 h 10 m",
+      "voteCount": 5,
+      "momentCount": 5,
+      "issues": [
+        "off-street-parking-based-on-bedroom-count",
+        "county-funding-for-lahaina-community-land-trust",
+        "special-committee-on-property-tax-reform",
+        "discounted-preservation-water-rate-for-habitat-restoration"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "b386a3f301150c92ae872273d7410bb43b6abc8c6ec9ce82a843cb7cb1e042cf"
+    },
+    {
+      "videoId": "sT3Zhgq1u2o",
+      "status": "reviewed",
+      "meetingDateISO": "2025-07-24",
+      "bodyType": "council",
+      "body": "Maui County Council Housing and Land Use Committee",
+      "headline": "Committee takes up Bill 9 phase-out dates, sends resort question to TIG",
+      "summary": "Staff said the committee amended the phase-out dates to set a separate period for West Maui. The question of excluding resort properties will go to the TIG, and the administration said it would work with the council on a path for owners to seek rezoning.",
+      "dur": "2 h 41 m",
+      "voteCount": 1,
+      "momentCount": 4,
+      "issues": [
+        "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "8e2b01056e8d597d4d661b6896564354579a03ac36d58fd3c36993928b872771"
     },
     {
       "videoId": "ZpCop-IEXjk",
@@ -2926,6 +4712,61 @@
       ],
       "updatedAt": "2026-11-01T03:10:46.801Z",
       "sha256": "a91e36765d371e05f4b92da26f37643adc9731dc8352d01beeeac8d92b0c31a5"
+    },
+    {
+      "videoId": "HACSXG3i0fs",
+      "status": "reviewed",
+      "meetingDateISO": "2025-02-25",
+      "bodyType": "council",
+      "body": "Maui County Council Water Authority, Social Services, and Parks Committee",
+      "headline": "Maui County Council Water Authority, Social Services, and Parks Committee",
+      "summary": "The committee voted 6–2 to recommend an East Maui Regional Community Board appointment and deferred a safe parking pilot project update.",
+      "dur": "3 h 21 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [
+        "east-maui-ditch-system-ownership-and-county-takeover-bid",
+        "safe-parking-sites-for-people-living-in-cars",
+        "appointments-to-the-east-maui-water-board"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "18f5a96a15baa0e005301932146c7dbf14a043ffcf9aff5bc182127a325fa6bf"
+    },
+    {
+      "videoId": "suPQ7wemd_I",
+      "status": "reviewed",
+      "meetingDateISO": "2025-02-21",
+      "bodyType": "council",
+      "body": "Maui County Council Meeting",
+      "headline": "Council approves Lahaina Community Land Trust items, rejects Planning Commission nominee",
+      "summary": "The council approved grant exceptions 8-0 and a managed retreat fund resolution 9-0 for the trust, and rejected a Maui Planning Commission nominee 5-4. Bill 26 on fire code fines went to committee for questions to the fire department.",
+      "dur": "5 h 50 m",
+      "voteCount": 0,
+      "momentCount": 4,
+      "issues": [
+        "county-funding-for-lahaina-community-land-trust",
+        "planning-commission-appointment-fight-and-lawsuit"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "4556c97b5e6c0a3356d24e1186ae315baea2ef09b2409fba9a14af6d11add1c4"
+    },
+    {
+      "videoId": "Rn2tS9VtKOk",
+      "status": "reviewed",
+      "meetingDateISO": "2025-02-19",
+      "bodyType": "council",
+      "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+      "headline": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+      "summary": "The committee voted eight to zero to recommend buying land in Lahaina and deferred Bills 103 and 104.",
+      "dur": "2 h 54 m",
+      "voteCount": 3,
+      "momentCount": 4,
+      "issues": [
+        "bill-104-kitchenettes-for-rebuilding-homes",
+        "fire-department-input-on-housing-density-bills"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "e36d17feafe5885262b098680a56196b8c2dcdc76715a0828ca4c50c295e53e6"
     },
     {
       "videoId": "rbKgVXsn0AA",
@@ -3172,6 +5013,76 @@
       ],
       "updatedAt": "2026-10-31T10:02:02.744Z",
       "sha256": "72c140921b61520ad56300406dfd7b59c05277a1794fd0fecc5c1561b1b1c7be"
+    },
+    {
+      "videoId": "L5-QIcDiV9g",
+      "status": "reviewed",
+      "meetingDateISO": "2024-11-27",
+      "bodyType": "board",
+      "body": "Maui County Independent Nomination Board",
+      "headline": "Maui County Independent Nomination Board",
+      "summary": "The Independent Nomination Board met in closed session on 2025 applications, then sent applicants forward for several boards and recessed until December 4th.",
+      "dur": "10 m",
+      "voteCount": 0,
+      "momentCount": 1,
+      "issues": [],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "e879af7b7bc855474c90376aeab30723201721240d504eb1b39436bdeed924a7"
+    },
+    {
+      "videoId": "4qrvA2fgh0s",
+      "status": "reviewed",
+      "meetingDateISO": "2024-11-26",
+      "bodyType": "board",
+      "body": "Maui Planning Commission",
+      "headline": "Maui Planning Commission",
+      "summary": "The commission sought a closed Lahaina site visit, approved a beach park graywater permit, and deferred a resort case to January 28.",
+      "dur": "4 h 50 m",
+      "voteCount": 0,
+      "momentCount": 4,
+      "issues": [
+        "kanaha-beach-park-graywater-reuse-project"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "e26d3dc9197fd1de17b08448ded583d2855b051ceb8cf6808ab0974b34eb019e"
+    },
+    {
+      "videoId": "jUG5zrO3VCw",
+      "status": "reviewed",
+      "meetingDateISO": "2024-11-26",
+      "bodyType": "council",
+      "body": "Maui County Council Meeting",
+      "headline": "Council passes Kīhei light industrial rezoning on first reading with housing condition",
+      "summary": "Rezoning of 14.626 acres on Ohukai Road passed first reading, eight ayes with one excused, after a condition requiring outreach and a council resolution before multifamily housing passed 7-1. A ban on condominium property regimes failed, 4-5.",
+      "dur": "2 h 43 m",
+      "voteCount": 4,
+      "momentCount": 4,
+      "issues": [
+        "three-dhhl-wells-on-hawaiian-home-lands",
+        "extending-property-tax-relief-for-wildfire-hit-properties",
+        "bill-130-extending-water-meter-reservations",
+        "waikapu-80-home-workforce-project-subsidy-and-deadline",
+        "replacing-leaking-250-000-gallon-haiku-water-tank"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "818878bd1bc67303f56716a5c5f1aaef062fb8902a881407c34792e58670bbd7"
+    },
+    {
+      "videoId": "lZr-bds8cyM",
+      "status": "reviewed",
+      "meetingDateISO": "2024-11-26",
+      "bodyType": "board",
+      "body": "Maui Planning Commission",
+      "headline": "Maui Planning Commission",
+      "summary": "The Maui Planning Commission met to keep working on the South Maui Community Plan.",
+      "dur": "3 h 32 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [
+        "south-maui-community-plan-review"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "eb229f854d7c91796dc7ac5afb89fc1f5a86a88e70c5d3f5f1f67066cdcb3f66"
     },
     {
       "videoId": "9b7yeZiay24",
@@ -3466,6 +5377,23 @@
       "sha256": "36b3da46df7dee42081e8c41d6a8cfc2133714adf9ad1691a15080a4c8c2c7d8"
     },
     {
+      "videoId": "1zcpvN9q9pE",
+      "status": "reviewed",
+      "meetingDateISO": "2024-11-12",
+      "bodyType": "board",
+      "body": "Maui County Board of Variances & Appeals",
+      "headline": "Maui County Board of Variances & Appeals",
+      "summary": "The board approved its 2025 meeting schedule.",
+      "dur": "3 h 18 m",
+      "voteCount": 0,
+      "momentCount": 4,
+      "issues": [
+        "hours-of-operation-limit-on-overnight-home-use"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "a4fb5c48d15de22e0a6ac1a577068f9abd47d5a415fff6ea23f13054993b2c84"
+    },
+    {
       "videoId": "mQrXHEvEPK4",
       "status": "reviewed",
       "meetingDateISO": "2024-11-12",
@@ -3499,6 +5427,23 @@
       ],
       "updatedAt": "2026-10-31T10:02:18.959Z",
       "sha256": "700702814fa181c475af54b6238a63a65cf786cc3222463a7f5c3bffeaebcad6"
+    },
+    {
+      "videoId": "xd6QmAS0NbE",
+      "status": "reviewed",
+      "meetingDateISO": "2024-11-12",
+      "bodyType": "board",
+      "body": "Maui Planning Commission",
+      "headline": "Maui Planning Commission",
+      "summary": "The Maui Planning Commission reviewed South Maui Community Plan growth areas and will continue the Promenade land-use discussion in two weeks.",
+      "dur": "3 h 46 m",
+      "voteCount": 0,
+      "momentCount": 2,
+      "issues": [
+        "south-maui-community-plan-review"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "255510f425daee4477ef0bee39e428d3824b6ba142e55af544aa7f0c7d6dfc8a"
     },
     {
       "videoId": "zTUHCwY7IvY",
@@ -3601,6 +5546,42 @@
       "sha256": "6d97dd820d4b583f2d6ddf01ddfc285694c1dda8e943cddd4f3c6fd6818468fe"
     },
     {
+      "videoId": "39uwqsfa98c",
+      "status": "reviewed",
+      "meetingDateISO": "2024-10-22",
+      "bodyType": "board",
+      "body": "Maui Planning Commission Meeting",
+      "headline": "Maui Planning Commission Meeting",
+      "summary": "The commission recommended a West Maui plan change to rebuild fire-destroyed homes, approved a bed and breakfast permit, and set two hearing schedules.",
+      "dur": "5 h 08 m",
+      "voteCount": 0,
+      "momentCount": 4,
+      "issues": [
+        "kahana-sunset-repair-permit-appeals",
+        "contested-case-on-53-lot-subdivision-permit",
+        "plan-change-to-rebuild-fire-destroyed-neighborhood"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "77a77e43ae0246c0475e87495b4d98f421fe043cecc4d6900d11d7ad9c04991c"
+    },
+    {
+      "videoId": "AwSVh0_Rn-A",
+      "status": "reviewed",
+      "meetingDateISO": "2024-10-17",
+      "bodyType": "board",
+      "body": "Maui County Independent Nomination Board",
+      "headline": "Maui County Independent Nomination Board",
+      "summary": "The Independent Nomination Board met at 4:57 p.m. on October 17.",
+      "dur": "1 h 17 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [
+        "county-auditor-search-process"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "c549e0024ea80f02d24c16e5b318b86843c2bb4fa671a962c55a9769cffc1245"
+    },
+    {
       "videoId": "Nf0iqQ4qIuA",
       "status": "reviewed",
       "meetingDateISO": "2024-10-17",
@@ -3622,6 +5603,38 @@
       "sha256": "c25207507a99563a260a397da2e2d7e2e68f5be3f7b5a277f921a64333eaa3e5"
     },
     {
+      "videoId": "hZ6L0Z6Gn0w",
+      "status": "reviewed",
+      "meetingDateISO": "2024-10-15",
+      "bodyType": "board",
+      "body": "Maui County Committee on the Status of Women",
+      "headline": "Maui County Committee on the Status of Women",
+      "summary": "The committee voted to send a midwifery legislation letter to legislators toward the end of November and moved its budget vote to the next meeting.",
+      "dur": "1 h 44 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "03999af9d3bade4c1cc2c132aae990e6ada4d1469c92edc6dc4fb863acaca16f"
+    },
+    {
+      "videoId": "pIAO9bdqwOE",
+      "status": "reviewed",
+      "meetingDateISO": "2024-10-10",
+      "bodyType": "council",
+      "body": "Maui County Council Water and Infrastructure Committee",
+      "headline": "Committee recommends adoption of amended Resolution 24-161 on recycled R1 water",
+      "summary": "The committee passed two changes to the resolution, each eight to zero, including one asking the administration to invest in R1 production at the Kahului, Molokaʻi and Lānaʻi plants. The recommendation had seven ayes, one member excused; the chair said it will move on.",
+      "dur": "2 h 28 m",
+      "voteCount": 1,
+      "momentCount": 3,
+      "issues": [
+        "using-recycled-r1-water-for-irrigation-and-firefighting"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "5ff15285df82ba6428a1e01d9eed80daa68c3af7b6020cd664e1452895da2009"
+    },
+    {
       "videoId": "gMnP3cc5PlY",
       "status": "reviewed",
       "meetingDateISO": "2024-10-09",
@@ -3637,6 +5650,23 @@
       ],
       "updatedAt": "2026-10-31T10:02:18.959Z",
       "sha256": "64bab8cfe223f9618a83a43c8ee7d8c0cb3b6961fedf8d19dcc3a1d543ad6043"
+    },
+    {
+      "videoId": "jv6CAYZGTrI",
+      "status": "reviewed",
+      "meetingDateISO": "2024-10-09",
+      "bodyType": "board",
+      "body": "Molokai Planning Commission meeting of October 9, 2024",
+      "headline": "Molokai Planning Commission meeting of October 9, 2024",
+      "summary": "Molokaʻi planners heard an Army Corps permit briefing and voted that a Hawaiian Telcom duct line under a highway is not exempt.",
+      "dur": "3 h 03 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [
+        "molokai-landfill-limits-for-hazardous-and-disaster-debris"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "34fd7b3bd3b9f0dcb8c2c598961c91f2e4ff7da1215a0c1145fbd1e203bd5bbb"
     },
     {
       "videoId": "XFOvEpVuIu0",
@@ -3658,6 +5688,48 @@
       "sha256": "c8a5d087e96784d47390469e99e7c0821ea25080ec14dfb00987df8876390668"
     },
     {
+      "videoId": "moLMa3wtcAQ",
+      "status": "reviewed",
+      "meetingDateISO": "2024-09-24",
+      "bodyType": "council",
+      "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+      "headline": "Committee amends Bill 115 deadline, files Bills 122 and 134, defers exemptions item",
+      "summary": "An amendment setting a new filing deadline in Bill 115 (2024) passed with nine ayes. The committee voted to file Bills 122 and 134 (2024), eight ayes with one member excused, and deferred the real property tax exemptions item with no objections.",
+      "dur": "2 h 25 m",
+      "voteCount": 2,
+      "momentCount": 3,
+      "issues": [
+        "east-maui-ditch-system-ownership-and-county-takeover-bid",
+        "extending-property-tax-relief-for-wildfire-hit-properties"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "46f474f3040f2ddb04518d21844caa346be142e477564372c2a7679251ed86a6"
+    },
+    {
+      "videoId": "CNrEmWu8GiM",
+      "status": "reviewed",
+      "meetingDateISO": "2024-07-19",
+      "bodyType": "council",
+      "body": "Maui County Council Meeting",
+      "headline": "Council approves wildfire lawsuit settlement, refers housing and water bills to committees",
+      "summary": "The council approved a committee's recommended global settlement of County wildfire lawsuits from August 2023, with twice-yearly lawyer reports on future cases. It sent Bills 103 and 104 to Housing and Land Use and Bill 106 to Water and Infrastructure.",
+      "dur": "2 h 10 m",
+      "voteCount": 6,
+      "momentCount": 5,
+      "issues": [
+        "bill-104-kitchenettes-for-rebuilding-homes",
+        "county-buying-private-west-maui-water-systems",
+        "countys-wildfire-lawsuits-and-global-settlement",
+        "bill-111-on-removing-belongings-from-public-places",
+        "bill-105-rebuilding-nonconforming-structures-after-disasters",
+        "bill-87-extending-temporary-structure-permits-to-five-years",
+        "bill-110-street-improvement-exemption-for-front-street-rebui",
+        "building-permit-exemption-for-storage-shipping-containers"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "b985b96e25f1bd6468676dc9b6eaff96cc37aa679b671ee48368627c407ea9f5"
+    },
+    {
       "videoId": "Qk0CE0sVrAw",
       "status": "reviewed",
       "meetingDateISO": "2024-01-24",
@@ -3675,6 +5747,23 @@
       ],
       "updatedAt": "2026-11-05T22:02:00.749Z",
       "sha256": "32413837e47fe41d3ca0e2017c03d7b50aec8e2ef133c7c236d4b245bf86cf19"
+    },
+    {
+      "videoId": "hszpCXOEVuY",
+      "status": "reviewed",
+      "meetingDateISO": "2023-03-21",
+      "bodyType": "council",
+      "body": "Maui County Council Government Relations, Ethics, and Transparency Committee",
+      "headline": "Maui County Council Government Relations, Ethics, and Transparency Committee",
+      "summary": "The committee recommended board nominees and four claim settlements and will return March 30 at 9 a.m.",
+      "dur": "2 h 16 m",
+      "voteCount": 0,
+      "momentCount": 5,
+      "issues": [
+        "new-west-maui-wells-timeline"
+      ],
+      "updatedAt": "2026-11-06T03:28:57.377Z",
+      "sha256": "0165102eb41359e910ccabc705f9d4ffc84d4ec5afd2300e13aec652fcc234b2"
     }
   ]
 }

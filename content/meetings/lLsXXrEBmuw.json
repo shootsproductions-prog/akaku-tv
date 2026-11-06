@@ -1,0 +1,144 @@
+{
+  "videoId": "lLsXXrEBmuw",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T18:09:11.616Z",
+  "meetingDateISO": "2026-06-19",
+  "headline": "Council considers Hoʻonani Village land bills, accessory dwelling units and noise fines",
+  "topics": [
+    "Housing"
+  ],
+  "bodyType": "council",
+  "meeting": {
+    "id": "lLsXXrEBmuw",
+    "mon": "Jun",
+    "day": "19",
+    "date": "Fri, Jun 19, 2026",
+    "body": "Maui County Council Meeting",
+    "dur": "1 h 34 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "Bills for the Hoʻonani Village project would change 163.443 acres in Kahului from agriculture to business and multi-family; Bill 163 needs a Maui public hearing before final reading. An amendment raising noise fines in Bill 119 passed seven ayes, two noes.",
+    "recap": "A testifier asked the council to wait for a final environmental impact statement before acting on Bills 163 and 164.[[0:26:32]] The council approved that recommendation with six ayes, one no and two members excused.[[0:51:59]] Bill 78 would allow two accessory dwelling units, or extra small homes, on residential lots.[[0:52:28]] Bill 84 would cap bed and breakfast homes on Molokaʻi at five.[[0:57:29]] Resolution 26-84 would send land use bills for the EC Pāʻia Town project to the Maui Planning Commission.[[0:59:38]] A committee change requires the project's workforce rental units to stay affordable forever.[[1:00:16]] The council voted eight ayes, zero noes to discharge, or release, Bill 119 from committee.[[1:10:02]] The chair moved to replace Bill 119 with a version that raises fines for noise violations.[[1:11:35]] The amendment passed with seven ayes and two noes.[[1:19:00]]",
+    "decided": [
+      "The vote on this motion was not captured in the recording."
+    ],
+    "next": "A public hearing on Bill 163 is to be held on Maui before second and final reading.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:43:58",
+        "q": "\"Housing is needed more now than ever.\""
+      },
+      {
+        "t": "0:50:43",
+        "q": "\"So if a whole town burned down, we should act like it.\""
+      },
+      {
+        "t": "1:16:25",
+        "q": "Debate over unpaid noise fines leading to jail time"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "paia-40-acre-housing-project-rezoning",
+        "title": "Pāʻia 40-acre housing project rezoning"
+      },
+      {
+        "slug": "bills-163-and-164-for-163-acre-central-maui-growth",
+        "title": "Bills 163 and 164 for 163-acre Central Maui growth"
+      },
+      {
+        "slug": "higher-fines-for-loud-vehicle-sound-systems",
+        "title": "Higher fines for loud vehicle sound systems"
+      },
+      {
+        "slug": "allowing-two-accessory-homes-per-residential-lot",
+        "title": "Allowing two accessory homes per residential lot"
+      },
+      {
+        "slug": "cap-on-bed-and-breakfast-homes-on-molokai",
+        "title": "Cap on bed and breakfast homes on Molokaʻi"
+      },
+      {
+        "slug": "county-bus-advertising-rules-in-bill-13",
+        "title": "County bus advertising rules in Bill 13"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Maui County Council",
+        "group": "council",
+        "short": []
+      }
+    ],
+    "bills": [
+      "Bill 163 (2026)",
+      "Bill 164 (2026)",
+      "Bill 78 (2026)",
+      "Bill 84 (2026)",
+      "Bill 119 (2026)",
+      "Resolution 26-84"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Jun 19, 2026",
+      "oneLine": "The council is considering bills to allow the Hoʻonani Village mixed-use project on 163.443 acres in Kahului.",
+      "why": "A council member said housing is needed more now than ever, with families living in cars and at the beach.",
+      "deadlines": [
+        {
+          "d": "December 31st of this year",
+          "t": "Counties must enact an ordinance allowing at least two accessory dwelling units."
+        }
+      ],
+      "next": "A public hearing on Bill 163 must be held on Maui before second and final reading.",
+      "brief": "The bills would change the land's community plan designation from agriculture to business and multi-family.[[#1]] A council member said the action would not create housing right away but would continue the conversation.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Jun",
+          "day": "19",
+          "source": "Maui County Council Meeting",
+          "kind": "tv",
+          "title": "Maui County Council Meeting",
+          "note": "The council is considering bills to allow the Hoʻonani Village mixed-use project on 163.443 acres in Kahului.",
+          "proof": "0:36:01",
+          "view": {
+            "type": "meeting",
+            "id": "lLsXXrEBmuw"
+          },
+          "seek": "0:36:01"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Meeting · Jun 19",
+          "where": "Meeting video at 0:36:01",
+          "view": {
+            "type": "meeting",
+            "id": "lLsXXrEBmuw"
+          },
+          "seek": "0:36:01"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Meeting · Jun 19",
+          "where": "Meeting video at 0:46:52",
+          "view": {
+            "type": "meeting",
+            "id": "lLsXXrEBmuw"
+          },
+          "seek": "0:46:52"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "youtubeUrl": "https://youtu.be/lLsXXrEBmuw"
+  }
+}

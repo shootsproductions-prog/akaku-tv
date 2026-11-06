@@ -1,0 +1,133 @@
+{
+  "videoId": "FG7e36xELVg",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T17:11:25.575Z",
+  "meetingDateISO": "2026-07-06",
+  "headline": "Committee passes amended Resolution 26-110 on timeshare and leasehold properties",
+  "topics": [
+    "Housing"
+  ],
+  "bodyType": "council",
+  "meeting": {
+    "id": "FG7e36xELVg",
+    "mon": "Jul",
+    "day": "6",
+    "date": "Mon, Jul 6, 2026",
+    "body": "Maui County Council Housing and Land Use Committee",
+    "dur": "2 h 33 m",
+    "voteCount": 2,
+    "voteItem": "Council member's amendment adding three leasehold properties to Resolution 26-110",
+    "ayes": null,
+    "noes": 2,
+    "summary": "The amended resolution passed six to two, with one member excused. The chair said it is only a recommendation: the Planning Commission has 120 days to review it, and it then comes back to the council for discussion.",
+    "recap": "The Housing and Land Use Committee reconvened on July 6.[[0:00:29]] Resolution 26-110 covers timeshare and leasehold properties, among others.[[0:28:52]] A leasehold means owning the building but leasing the land.[[0:36:32]] A council member proposed adding single-owner properties, properties with variances (special permission), and 100% timeshare properties.[[1:15:36]] That amendment passed eight to one.[[1:20:14]] A second amendment adding three leasehold properties passed.[[1:30:46]] Planning Department corrections passed six to two, with one member excused.[[1:33:13]] Resolution 26-110, as amended, passed six to two, with one member excused.[[1:40:51]] The chair said this is only a recommendation; the Planning Commission has 120 days to review.[[1:52:32]] An amendment adding three more hotel-like properties passed six to two.[[2:14:07]] A council member moved to add a property in Hāna.[[2:15:14]] That amendment passed six to two.[[2:19:05]] The final roll call on the amended resolution counted six ayes and two noes.[[2:31:48]]",
+    "decided": [
+      "A motion to set a 75% leasehold threshold was withdrawn by its maker.",
+      "The amendment adding three leasehold properties passed; the stated count is unclear.",
+      "Resolution 26-110, as amended, passed."
+    ],
+    "next": "The Planning Commission will review the recommendation, and it will come back to the council for discussion. The chair said the exact timeshare date in the county code will be narrowed down.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "1:37:06",
+        "q": "\"And we're just going to give them up to the tourism industry.\""
+      },
+      {
+        "t": "1:40:51",
+        "q": "Resolution 26-110 passes as amended"
+      },
+      {
+        "t": "2:25:30",
+        "q": "\"There's been a total of 298 sales of miyatoya properties. 183 of them were cash sales\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p",
+        "title": "Ending apartment vacation rentals and hotel rezoning of 48 properties"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Housing and Land Use Committee",
+        "group": "council",
+        "short": [
+          "HLU"
+        ]
+      }
+    ],
+    "bills": [
+      "Resolution 26-110"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Jul 6, 2026",
+      "oneLine": "The committee is working on council-initiated rezoning proposals for certain properties, to be sent to the Maui Planning Commission.",
+      "why": "A council member said leasehold units were more affordable and had a higher share of owners or tenants living in them.",
+      "deadlines": [
+        {
+          "d": "120 days",
+          "t": "Planning Commission review of the recommendation."
+        }
+      ],
+      "next": "The Planning Commission has 120 days to review the recommendation before it comes back to the council.",
+      "brief": "Another council member said tax revenue from these older buildings can help build homes for local residents.[[#1]] Resolution 26-110, as amended, passed six to two, with one member excused.[[#2]] The legislative attorney said that in the past, rejecting part of a Planning Commission recommendation has required at least a two-thirds vote.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Jul",
+          "day": "6",
+          "source": "Maui County Council Housing and Land Use Committee",
+          "kind": "tv",
+          "title": "Maui County Council Housing and Land Use Committee",
+          "note": "The committee is working on council-initiated rezoning proposals for certain properties, to be sent to the Maui Planning Commission.",
+          "proof": "1:37:27",
+          "view": {
+            "type": "meeting",
+            "id": "FG7e36xELVg"
+          },
+          "seek": "1:37:27"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Housing and Land Use Committee · Jul 6",
+          "where": "Meeting video at 1:37:27",
+          "view": {
+            "type": "meeting",
+            "id": "FG7e36xELVg"
+          },
+          "seek": "1:37:27"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Housing and Land Use Committee · Jul 6",
+          "where": "Meeting video at 1:40:51",
+          "view": {
+            "type": "meeting",
+            "id": "FG7e36xELVg"
+          },
+          "seek": "1:40:51"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Housing and Land Use Committee · Jul 6",
+          "where": "Meeting video at 2:23:35",
+          "view": {
+            "type": "meeting",
+            "id": "FG7e36xELVg"
+          },
+          "seek": "2:23:35"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "youtubeUrl": "https://youtu.be/FG7e36xELVg"
+  }
+}

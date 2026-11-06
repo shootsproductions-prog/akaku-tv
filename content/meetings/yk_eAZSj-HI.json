@@ -1,0 +1,105 @@
+{
+  "videoId": "yk_eAZSj-HI",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-17T00:27:59.836Z",
+  "meetingDateISO": "2026-05-19",
+  "headline": "Committee defers Martin settlement, passes Myers-Nave legal fee resolution",
+  "topics": [
+    "Disaster Recovery"
+  ],
+  "bodyType": "council",
+  "meeting": {
+    "id": "yk_eAZSj-HI",
+    "mon": "May",
+    "day": "19",
+    "date": "Tue, May 19, 2026",
+    "body": "Maui County Council Government Relations, Ethics, and Transparency Committee",
+    "dur": "22 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "The settlement in Charlotte Martin v. County of Maui (Resolution 26-81) was deferred. A motion to adopt Resolution 26-82, adding $240,000 for Myers-Nave's wildfire lawsuit work, passed with eight ayes and one excused, and it goes to the full council.",
+    "recap": "No one signed up to give public testimony at the start of the meeting.[[0:02:34]] The first item was Resolution 26-81, a settlement in the lawsuit Charlotte Martin v. the County of Maui.[[0:03:31]] The chair said the trial was postponed, so the County's lawyer asked to delay it.[[0:04:04]] The second item was Resolution 26-82, which adds $240,000 to pay the law firm Myers-Nave, for a total of up to $740,000.[[0:06:33]] The County cut another $93,000, leaving $240,000 to pay.[[0:08:14]] The committee passed a motion to adopt the resolution, with eight ayes and one member excused.[[0:21:02]] The resolution now goes to the full council.[[0:21:40]]",
+    "decided": [],
+    "next": "",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:06:18",
+        "q": "Settlement resolution deferred"
+      },
+      {
+        "t": "0:14:00",
+        "q": "\"This is it, yes.\""
+      },
+      {
+        "t": "0:18:40",
+        "q": "Why the County was both plaintiff and defendant"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "countys-wildfire-lawsuits-and-global-settlement",
+        "title": "County's wildfire lawsuits and global settlement"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Government Relations, Ethics, and Transparency Committee",
+        "group": "council",
+        "short": [
+          "GREAT"
+        ]
+      }
+    ],
+    "bills": [
+      "Resolution 26-81",
+      "Resolution 26-82"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Disaster Recovery",
+      "since": "May 19, 2026",
+      "oneLine": "A resolution would add $240,000 to pay the law firm Myers-Nave for work on August 2023 wildfire lawsuits, for a total of up to $740,000.",
+      "why": "",
+      "deadlines": [],
+      "next": "The resolution will move on to the full council for consideration.",
+      "brief": "The insurer agreed to pay $521,000 of the firm's $854,000 bill.[[#1]]",
+      "timeline": [
+        {
+          "mon": "May",
+          "day": "19",
+          "source": "Maui County Council Government Relations, Ethics, and Transparency Committee",
+          "kind": "tv",
+          "title": "Maui County Council Government Relations, Ethics, and Transparency Committee",
+          "note": "A resolution would add $240,000 to pay the law firm Myers-Nave for work on August 2023 wildfire lawsuits, for a total of up to $740,000.",
+          "proof": "0:08:04",
+          "view": {
+            "type": "meeting",
+            "id": "yk_eAZSj-HI"
+          },
+          "seek": "0:08:04"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Government Relations, Ethics, and Transparency Committee · May 19",
+          "where": "Meeting video at 0:08:04",
+          "view": {
+            "type": "meeting",
+            "id": "yk_eAZSj-HI"
+          },
+          "seek": "0:08:04"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "youtubeUrl": "https://youtu.be/yk_eAZSj-HI"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "videoId": "tXQ_uHSav58",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-20T23:05:15.601Z",
+  "meetingDateISO": "2026-10-20",
+  "headline": "Committee hears sister city plan and disaster donation bills",
+  "topics": [
+    "Disaster Recovery"
+  ],
+  "bodyType": "council",
+  "meeting": {
+    "id": "tXQ_uHSav58",
+    "mon": "Oct",
+    "day": "20",
+    "date": "Tue, Oct 20, 2026",
+    "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+    "dur": "1 h 18 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee discussed a new Philippines sister city and three emergency donation bills, then recessed before a vote on Bill 142.",
+    "recap": "A Maui Filipino Community Council member testified that the city is growing.[[0:15:00]] The committee discussed a resolution making the capital city of Ilocos Norte, Philippines, a sister city.[[0:20:29]] The chair said the council adopted the resolution on September 29th, 2026.[[0:21:00]] A County official said the next step is signing a memorandum of agreement (a formal written agreement).[[0:25:32]] A community council presenter named four areas for ties: tourism and culture, agriculture, trade, and education and health.[[0:32:56]] He suggested an ad hoc committee (a special working group) to explore more ideas.[[0:37:17]] The chair deferred (postponed) the item.[[1:01:34]] Bill 142 would let the mayor accept and use disaster donations during a declared emergency, and for one year after, without council approval first.[[1:02:30]] Bill 132 would add a $100,000 disaster donation line to the fiscal year 27 budget.[[1:03:40]] The deputy finance director shared a staff idea to change code wording to \"disaster recovery and related expenditures.\".[[1:06:12]] The budget director said the administration supports the revised bills.[[1:08:37]] A council member said people were not sure where to send donations.[[1:09:20]] A member moved to recommend passing Bill 142 on first reading.[[1:16:58]] The chair called a 10-minute recess to get the amendment wording right.[[1:17:29]]",
+    "decided": [
+      "A member moved to recommend passage of Bill 142 on first reading, and the chair called a recess before any vote."
+    ],
+    "next": "A County official said a ceremonial gathering will follow the signing of the memorandum of agreement. The chair asked about sending a letter to the Sister City Foundation for its list of cities waiting to be considered. A speaker said the intent is to create a list of nonprofits before any disaster.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:21:39",
+        "q": "\"No legislative action will be taken under this item.\""
+      },
+      {
+        "t": "0:32:56",
+        "q": "Presenter lays out four pillars for sister city ties"
+      },
+      {
+        "t": "1:16:58",
+        "q": "Motion on Bill 142 and recess"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "bill-to-track-emergency-donations-deferred",
+        "title": "Bill to track emergency donations deferred"
+      },
+      {
+        "slug": "sister-city-ties-with-ilocos-norte-capital",
+        "title": "Sister city ties with Ilocos Norte capital"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Budget, Finance, and Economic Development Committee",
+        "group": "council",
+        "short": [
+          "BFED"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 142 (2026)",
+      "Bill 132 (2026)",
+      "Bill 131 (2026)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Disaster Recovery",
+      "since": "Oct 20, 2026",
+      "oneLine": "The committee reviewed three bills on money donated to the County during an emergency.",
+      "why": "A council member said people were not sure where to send donations, and some groups asking for money are bad actors.",
+      "deadlines": [],
+      "next": "",
+      "brief": "Bill 142 would let the mayor accept and use disaster donations during a declared emergency, and for one year after, without council approval first.[[#1]] A revised version of Bill 131 would make quarterly reports to the council mandatory.[[#2]] Bill 132 would add a $100,000 disaster donation line to the fiscal year 27 budget.[[#3]] The budget director said the administration supports the revised bills.[[#4]]",
+      "timeline": [
+        {
+          "mon": "Oct",
+          "day": "20",
+          "source": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "kind": "tv",
+          "title": "Committee hears sister city plan and disaster donation bills",
+          "note": "The committee reviewed three bills on money donated to the County during an emergency.",
+          "proof": "1:02:30",
+          "view": {
+            "type": "meeting",
+            "id": "tXQ_uHSav58"
+          },
+          "seek": "1:02:30"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Oct 20",
+          "where": "Meeting video at 1:02:30",
+          "view": {
+            "type": "meeting",
+            "id": "tXQ_uHSav58"
+          },
+          "seek": "1:02:30"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Oct 20",
+          "where": "Meeting video at 1:03:28",
+          "view": {
+            "type": "meeting",
+            "id": "tXQ_uHSav58"
+          },
+          "seek": "1:03:28"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Oct 20",
+          "where": "Meeting video at 1:03:40",
+          "view": {
+            "type": "meeting",
+            "id": "tXQ_uHSav58"
+          },
+          "seek": "1:03:40"
+        },
+        {
+          "n": 4,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Oct 20",
+          "where": "Meeting video at 1:08:37",
+          "view": {
+            "type": "meeting",
+            "id": "tXQ_uHSav58"
+          },
+          "seek": "1:08:37"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "youtubeUrl": "https://youtu.be/tXQ_uHSav58"
+  }
+}

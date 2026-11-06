@@ -1,0 +1,136 @@
+{
+  "videoId": "goNR3t5P1x8",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T03:43:41.817Z",
+  "meetingDateISO": "2026-09-29",
+  "headline": "Maui County Council Meeting - (recessed from 9/25/26 mtg)",
+  "topics": [
+    "Housing"
+  ],
+  "bodyType": "council",
+  "meeting": {
+    "id": "goNR3t5P1x8",
+    "mon": "Sep",
+    "day": "29",
+    "date": "Tue, Sep 29, 2026",
+    "body": "Maui County Council Meeting - (recessed from 9/25/26 mtg)",
+    "dur": "1 h 33 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "The Council voted 5–4 to adopt a committee report backing a resolution asking the Maui Planning Commission to consider hotel zoning for coastal apartment properties.",
+    "recap": "The only item was Committee Report 26-68, which recommends adopting Resolution 26-129 CD1.[[0:30:00]] The resolution asks the Maui Planning Commission to consider hotel zoning for certain apartment properties in coastal hazard areas.[[0:30:05]] The change would let transient vacation rentals (short-term rentals to visitors) continue at those properties.[[0:30:28]] The committee included properties with more than half of their building footprints in sea level rise, flood hazard or shoreline setback areas.[[0:34:44]] The committee said these properties can be hard and expensive to maintain and may not suit long-term housing.[[0:34:56]] A council member moved to add two more properties in Lahaina to the list.[[0:39:00]] On that amendment, the clerk reported four ayes and five noes.[[0:43:59]] A council member said the Planning Commission approved five of 48 properties from an earlier resolution.[[0:49:30]] A council member voting no said the 32-property list was unfair to volunteer commissioners.[[0:57:22]] Member Paltin said it is dangerous to let these shoreline properties stay short-term rentals.[[1:03:22]] Vice Chair Sugimura supported moving the resolution to the Planning Commission for review.[[1:16:14]] The Council adopted the committee report with five ayes and four noes.[[1:23:26]]",
+    "decided": [],
+    "next": "The Planning Commission is to review the bills, hold public hearings and issue findings before final Council action.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:33:38",
+        "q": "Motion to adopt the committee report"
+      },
+      {
+        "t": "0:43:59",
+        "q": "Amendment vote: four ayes, five noes"
+      },
+      {
+        "t": "0:49:54",
+        "q": "\"the Planning Commission approved five out of 48 properties\""
+      },
+      {
+        "t": "1:23:52",
+        "q": "Final vote: five ayes, four noes"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p",
+        "title": "Ending apartment vacation rentals and hotel rezoning of 48 properties"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Maui County Council",
+        "group": "council",
+        "short": []
+      }
+    ],
+    "bills": [
+      "Resolution 26-129"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Sep 29, 2026",
+      "oneLine": "A resolution asks the Maui Planning Commission to consider hotel zoning for coastal apartment properties so vacation rentals can continue.",
+      "why": "The committee said these properties can be hard and expensive to maintain and may not suit long-term housing.",
+      "deadlines": [],
+      "next": "The Planning Commission is to review the bills, hold public hearings and issue findings before final Council action.",
+      "brief": "The Council adopted the committee report with five ayes and four noes.[[#1]] Properties meant for affordable workforce housing were left out of the list.[[#2]] A council member said the Planning Commission approved five of 48 properties from an earlier resolution.[[#3]] A council member voting no said the 32-property list was unfair to volunteer commissioners.[[#4]]",
+      "timeline": [
+        {
+          "mon": "Sep",
+          "day": "29",
+          "source": "Maui County Council Meeting - (recessed from 9/25/26 mtg)",
+          "kind": "tv",
+          "title": "Maui County Council Meeting - (recessed from 9/25/26 mtg)",
+          "note": "A resolution asks the Maui Planning Commission to consider hotel zoning for coastal apartment properties so vacation rentals can continue.",
+          "proof": "1:23:26",
+          "view": {
+            "type": "meeting",
+            "id": "goNR3t5P1x8"
+          },
+          "seek": "1:23:26"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Meeting - (recessed from 9/25/26 mtg) · Sep 29",
+          "where": "Meeting video at 1:23:26",
+          "view": {
+            "type": "meeting",
+            "id": "goNR3t5P1x8"
+          },
+          "seek": "1:23:26"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Meeting - (recessed from 9/25/26 mtg) · Sep 29",
+          "where": "Meeting video at 0:35:08",
+          "view": {
+            "type": "meeting",
+            "id": "goNR3t5P1x8"
+          },
+          "seek": "0:35:08"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Meeting - (recessed from 9/25/26 mtg) · Sep 29",
+          "where": "Meeting video at 0:49:30",
+          "view": {
+            "type": "meeting",
+            "id": "goNR3t5P1x8"
+          },
+          "seek": "0:49:30"
+        },
+        {
+          "n": 4,
+          "title": "Maui County Council Meeting - (recessed from 9/25/26 mtg) · Sep 29",
+          "where": "Meeting video at 0:57:22",
+          "view": {
+            "type": "meeting",
+            "id": "goNR3t5P1x8"
+          },
+          "seek": "0:57:22"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "youtubeUrl": "https://youtu.be/goNR3t5P1x8"
+  }
+}

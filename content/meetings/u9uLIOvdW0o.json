@@ -1,0 +1,179 @@
+{
+  "videoId": "u9uLIOvdW0o",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T18:12:05.913Z",
+  "meetingDateISO": "2026-06-19",
+  "headline": "Council approves Kula well site purchase 9–0, hears testimony on Bill 88",
+  "topics": [
+    "Water",
+    "Housing"
+  ],
+  "bodyType": "council",
+  "meeting": {
+    "id": "u9uLIOvdW0o",
+    "mon": "Jun",
+    "day": "19",
+    "date": "Fri, Jun 19, 2026",
+    "body": "Maui County Council Meeting",
+    "dur": "1 h 21 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "The purchase covers 1.714 acres in Kula from Haleakalā Ranch Company. The council also passed Bills 69, 83, 92 and 93 on final reading, 9–0, and heard Office of Hawaiian Affairs and condo owner testimony on Bill 88.",
+    "recap": "A department official said the well was drilled on Haleakalā Ranch land instead of the planned spot.[[0:21:06]] The council approved the well site purchase 9–0.[[0:34:55]] Resolution 26-108 gives the Maui Planning Commission more time on the South Maui Community Plan update.[[0:50:32]] Resolution 26-109 urges the Mayor to support a long-term lease to protect a cultural reserve.[[0:52:48]] The Office of Hawaiian Affairs testified against Bill 88 and asked the council to defer it.[[0:54:39]] A condo board president testified that all 26 owners at his complex support Bill 88.[[0:59:09]] The council passed Bills 69, 83, 92 and 93 on final reading, 9–0.[[1:07:07]] Bill 88 creates new H3 and H4 hotel zoning districts.[[1:11:51]]",
+    "decided": [],
+    "next": "The department said completing the purchase lets it do geo work on the property and start the design process.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:21:06",
+        "q": "\"they actually drilled the well on the wrong property\""
+      },
+      {
+        "t": "0:54:39",
+        "q": "Office of Hawaiian Affairs testifies on Bill 88"
+      },
+      {
+        "t": "1:19:07",
+        "q": "\"Chair, you have seven ayes, two nos. Motion carries.\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p",
+        "title": "Ending apartment vacation rentals and hotel rezoning of 48 properties"
+      },
+      {
+        "slug": "south-maui-community-plan-review",
+        "title": "South Maui Community Plan review"
+      },
+      {
+        "slug": "land-purchase-for-new-upcountry-well-at-haleakala-ranch",
+        "title": "Land purchase for new Upcountry well at Haleakalā Ranch"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Maui County Council",
+        "group": "council",
+        "short": []
+      }
+    ],
+    "bills": [
+      "Bill 88 (2026)",
+      "Bill 69 (2026)",
+      "Bill 83 (2026)",
+      "Bill 92 (2026)",
+      "Bill 93 (2026)",
+      "Resolution 26-108",
+      "Resolution 26-109"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Water",
+      "since": "Jun 19, 2026",
+      "oneLine": "The county is buying 1.714 acres in Kula from Haleakalā Ranch Company for a well site.",
+      "why": "A council member said the well will increase upcountry water and help the Department of Water Supply work through the upcountry wait list.",
+      "deadlines": [],
+      "next": "The department plans geo work on the property so it can start designing the well.",
+      "brief": "The well was drilled on Haleakalā Ranch land instead of next to the county's tank.[[#1]] The well is expected to produce about a million gallons per day.[[#2]] The council voted 9–0 to approve the purchase.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Jun",
+          "day": "19",
+          "source": "Maui County Council Meeting",
+          "kind": "tv",
+          "title": "Maui County Council Meeting",
+          "note": "The county is buying 1.714 acres in Kula from Haleakalā Ranch Company for a well site.",
+          "proof": "0:21:06",
+          "view": {
+            "type": "meeting",
+            "id": "u9uLIOvdW0o"
+          },
+          "seek": "0:21:06"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Meeting · Jun 19",
+          "where": "Meeting video at 0:21:06",
+          "view": {
+            "type": "meeting",
+            "id": "u9uLIOvdW0o"
+          },
+          "seek": "0:21:06"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Meeting · Jun 19",
+          "where": "Meeting video at 0:29:19",
+          "view": {
+            "type": "meeting",
+            "id": "u9uLIOvdW0o"
+          },
+          "seek": "0:29:19"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Meeting · Jun 19",
+          "where": "Meeting video at 0:34:55",
+          "view": {
+            "type": "meeting",
+            "id": "u9uLIOvdW0o"
+          },
+          "seek": "0:34:55"
+        }
+      ]
+    },
+    {
+      "issue": "Housing",
+      "since": "Jun 19, 2026",
+      "oneLine": "Bill 88 creates new H3 and H4 hotel zoning districts.",
+      "why": "",
+      "deadlines": [
+        {
+          "d": "July 7th",
+          "t": "Lahaina condo purchase resolution returns."
+        }
+      ],
+      "next": "",
+      "brief": "A condo owner testified that rezoning studies could cost $200,000 to $500,000 per property.[[#1]]",
+      "timeline": [
+        {
+          "mon": "Jun",
+          "day": "19",
+          "source": "Maui County Council Meeting",
+          "kind": "tv",
+          "title": "Maui County Council Meeting",
+          "note": "Bill 88 creates new H3 and H4 hotel zoning districts.",
+          "proof": "1:00:41",
+          "view": {
+            "type": "meeting",
+            "id": "u9uLIOvdW0o"
+          },
+          "seek": "1:00:41"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Meeting · Jun 19",
+          "where": "Meeting video at 1:00:41",
+          "view": {
+            "type": "meeting",
+            "id": "u9uLIOvdW0o"
+          },
+          "seek": "1:00:41"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "youtubeUrl": "https://youtu.be/u9uLIOvdW0o"
+  }
+}

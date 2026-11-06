@@ -1,0 +1,137 @@
+{
+  "videoId": "aeEPeS-Z9OM",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-20T00:41:29.016Z",
+  "meetingDateISO": "2026-10-19",
+  "headline": "Committee defers safe parking pilot bill ahead of Friday reading",
+  "topics": [
+    "Housing"
+  ],
+  "bodyType": "council",
+  "meeting": {
+    "id": "aeEPeS-Z9OM",
+    "mon": "Oct",
+    "day": "19",
+    "date": "Mon, Oct 19, 2026",
+    "body": "Maui County Council Water Authority, Social Services, and Parks Committee",
+    "dur": "60 m",
+    "voteCount": 1,
+    "voteItem": "Deferral of the safe parking pilot bill",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee discussed a pilot letting about 50 people sleep in vehicles, then deferred the bill, which returns Friday for second reading.",
+    "recap": "The managing director said the county has talked with property owners in several districts about more shelter options.[[0:14:04]] The vice chair cited a news report that a January 25 count found 651 people experiencing homelessness in Maui County.[[0:16:41]] The same report said the number of people sleeping outside or in vehicles rose from 285 to 398.[[0:16:59]] The department director said the permanent site in Kahului, chosen through the request for proposals, is still moving forward.[[0:20:39]] The director said people who do not join the pilot will be offered other shelter or treatment options.[[0:34:22]] The director said the six-month pilot clock starts when people are moved to the site.[[0:38:29]] A staff member said the ordinance requires the council to review it within 12 months after a pilot starts.[[0:42:37]] The director said the temporary site will have 24-hour security.[[0:47:18]] A staff member said the bill is on the agenda for second reading this Friday.[[0:53:55]] The director said the pilot will take about 50 people.[[0:54:36]] The director confirmed no cooking will be allowed, but nonprofits may bring food.[[0:55:18]] The chair deferred the item, which means putting it off for now.[[0:55:34]]",
+    "decided": [
+      "The chair deferred the safe parking bill item."
+    ],
+    "next": "The director said the department will work with the Office of Communications to clarify the site plans for the public. The director agreed to tell the council when the security agreement is finalized. A staff member invited members to call before Friday's second reading with liability questions instead of holding an executive session (a closed-door discussion).",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:16:41",
+        "q": "Vice chair shares homelessness count figures"
+      },
+      {
+        "t": "0:34:42",
+        "q": "\"We will not be allowing people to remain in that area.\""
+      },
+      {
+        "t": "0:42:37",
+        "q": "Staff explains the 12-month council review rule"
+      },
+      {
+        "t": "0:55:34",
+        "q": "Chair defers the item"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "safe-parking-sites-for-people-living-in-cars",
+        "title": "Safe parking sites for people living in cars"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Water Authority, Social Services, and Parks Committee",
+        "group": "council",
+        "short": [
+          "WASSP"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Oct 19, 2026",
+      "oneLine": "The committee discussed a bill for a pilot program that would let people sleep in their vehicles at a county site.",
+      "why": "The vice chair spoke of a dire need, citing a rise in people sleeping outside or in vehicles from 285 to 398.",
+      "deadlines": [
+        {
+          "d": "this Friday",
+          "t": "Second reading of the bill."
+        },
+        {
+          "d": "within 12 months after the commencement of a pilot project",
+          "t": "Council review of the ordinance section."
+        }
+      ],
+      "next": "The bill is on the agenda for second reading this Friday.",
+      "brief": "The director said the pilot will take about 50 people.[[#1]] The temporary site will have portable toilets, handwashing stations, and drinking water.[[#2]] The director said the Homeless Programs Division has three full-time staff.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Oct",
+          "day": "19",
+          "source": "Maui County Council Water Authority, Social Services, and Parks Committee",
+          "kind": "tv",
+          "title": "Committee defers safe parking pilot bill ahead of Friday reading",
+          "note": "The committee discussed a bill for a pilot program that would let people sleep in their vehicles at a county site.",
+          "proof": "0:54:36",
+          "view": {
+            "type": "meeting",
+            "id": "aeEPeS-Z9OM"
+          },
+          "seek": "0:54:36"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Oct 19",
+          "where": "Meeting video at 0:54:36",
+          "view": {
+            "type": "meeting",
+            "id": "aeEPeS-Z9OM"
+          },
+          "seek": "0:54:36"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Oct 19",
+          "where": "Meeting video at 0:48:03",
+          "view": {
+            "type": "meeting",
+            "id": "aeEPeS-Z9OM"
+          },
+          "seek": "0:48:03"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Oct 19",
+          "where": "Meeting video at 0:27:13",
+          "view": {
+            "type": "meeting",
+            "id": "aeEPeS-Z9OM"
+          },
+          "seek": "0:27:13"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "youtubeUrl": "https://youtu.be/aeEPeS-Z9OM"
+  }
+}

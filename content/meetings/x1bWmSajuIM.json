@@ -1,0 +1,139 @@
+{
+  "videoId": "x1bWmSajuIM",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T12:27:11.071Z",
+  "meetingDateISO": "2026-08-31",
+  "headline": "Committee discusses DHHL well agreement, defers road herbicide waiver",
+  "topics": [
+    "Water",
+    "Housing"
+  ],
+  "bodyType": "council",
+  "meeting": {
+    "id": "x1bWmSajuIM",
+    "mon": "Aug",
+    "day": "31",
+    "date": "Mon, Aug 31, 2026",
+    "body": "Maui County Council Water and Infrastructure Committee",
+    "dur": "2 h 15 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "Under the draft agreement, DHHL would receive all of the wells' estimated 1.728 million gallons per day, and an amendment passed seven to zero. Public Works' waiver request was deferred; a member wants specific areas and a shorter time period when it returns.",
+    "recap": "Under the draft agreement, DHHL would receive all of the wells' estimated 1.728 million gallons of water per day.[[0:11:37]] A council member asked why the county would not keep some of the water, as in other DHHL projects.[[0:28:04]] The amendment passed with seven ayes and zero noes.[[0:58:05]] Public Works asked for a temporary waiver to use weed killer (herbicide) in safety areas along county roads.[[1:00:30]] One council member asked for specific areas and a shorter time period when the request comes back.[[2:09:37]] The chair said the herbicide waiver will be deferred.[[2:12:06]]",
+    "decided": [],
+    "next": "DHHL said it would provide a breakdown of its wait list at a later date. When the herbicide waiver returns, a council member wants specific areas and a shorter time period.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:08:22",
+        "q": "\"My family are all beneficiaries on the list, still waiting.\""
+      },
+      {
+        "t": "1:40:47",
+        "q": "On steam weed equipment: \"It's junk right now.\""
+      },
+      {
+        "t": "2:12:34",
+        "q": "\"It's kind of like painting a battleship.\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "three-dhhl-wells-on-hawaiian-home-lands",
+        "title": "Three DHHL wells on Hawaiian Home Lands"
+      },
+      {
+        "slug": "herbicide-waiver-for-road-safety-spots-deferred",
+        "title": "Herbicide waiver for road safety spots deferred"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Water and Infrastructure Committee",
+        "group": "council",
+        "short": [
+          "WAI"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 97 (2026)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Aug 31, 2026",
+      "oneLine": "DHHL says the new wells would support over a thousand homestead lots for Native Hawaiian families.",
+      "why": "DHHL said many people on its wait list are passing away before receiving a home.",
+      "deadlines": [],
+      "next": "DHHL said it would provide a breakdown of its wait list at a later date.",
+      "brief": "The water deputy director said the deal helps DHHL get its beneficiaries housing quicker.[[#1]] DHHL said its residential wait list is almost 4,000 people.[[#2]] DHHL said advance water credits would cover 39.5% of its development needs right away.[[#3]] DHHL said the finished system could serve an estimated 2,880 homes for its beneficiaries.[[#4]]",
+      "timeline": [
+        {
+          "mon": "Aug",
+          "day": "31",
+          "source": "Maui County Council Water and Infrastructure Committee",
+          "kind": "tv",
+          "title": "Maui County Council Water and Infrastructure Committee",
+          "note": "DHHL says the new wells would support over a thousand homestead lots for Native Hawaiian families.",
+          "proof": "0:07:09",
+          "view": {
+            "type": "meeting",
+            "id": "x1bWmSajuIM"
+          },
+          "seek": "0:07:09"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Water and Infrastructure Committee · Aug 31",
+          "where": "Meeting video at 0:07:09",
+          "view": {
+            "type": "meeting",
+            "id": "x1bWmSajuIM"
+          },
+          "seek": "0:07:09"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Water and Infrastructure Committee · Aug 31",
+          "where": "Meeting video at 0:09:45",
+          "view": {
+            "type": "meeting",
+            "id": "x1bWmSajuIM"
+          },
+          "seek": "0:09:45"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Water and Infrastructure Committee · Aug 31",
+          "where": "Meeting video at 0:10:59",
+          "view": {
+            "type": "meeting",
+            "id": "x1bWmSajuIM"
+          },
+          "seek": "0:10:59"
+        },
+        {
+          "n": 4,
+          "title": "Maui County Council Water and Infrastructure Committee · Aug 31",
+          "where": "Meeting video at 0:11:27",
+          "view": {
+            "type": "meeting",
+            "id": "x1bWmSajuIM"
+          },
+          "seek": "0:11:27"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "youtubeUrl": "https://youtu.be/x1bWmSajuIM"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "videoId": "UsJUbzdqBgw",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T16:08:54.877Z",
+  "meetingDateISO": "2026-09-04",
+  "headline": "Council passes Bill 98, advances hurricane funding bill, approves Lahaina property buy",
+  "topics": [
+    "Housing",
+    "Food Security",
+    "Disaster Recovery"
+  ],
+  "bodyType": "council",
+  "meeting": {
+    "id": "UsJUbzdqBgw",
+    "mon": "Sep",
+    "day": "4",
+    "date": "Fri, Sep 4, 2026",
+    "body": "Maui County Council Meeting",
+    "dur": "2 h 47 m",
+    "voteCount": 2,
+    "voteItem": "Motion to discharge committee from Resolution 26-141",
+    "ayes": null,
+    "noes": 0,
+    "summary": "Bill 98, creating a Food and Nutrition Security Plan, passed final reading 8–0. Bill 122, which would allow up to $10 million from the emergency fund for hurricane costs, passed first reading. The Council voted 8–0 to buy Lahaina property for up to $850,000.",
+    "recap": "The Maui County Farm Bureau said it fully supports Bill 98.[[0:17:08]] A testifier asked the Council not to approve $75,000 more for outside lawyers without first ordering an audit.[[1:22:37]] The Council adopted that report with eight ayes and zero noes.[[1:37:26]] The Council voted 8–0 to settle a lawsuit over military members' job rights, on terms discussed in executive session (a closed-door meeting).[[1:41:09]] The Council voted 8–0 to buy property in Lahaina for up to $850,000 for public projects, including flood control.[[1:46:46]] The resolution failed with four ayes and two noes.[[2:25:02]] A cost estimate read aloud put hurricane damage at $9,929,077, including $4 million for debris removal.[[2:39:10]] The hurricane funding bill passed first reading with seven ayes, one excused and one abstention (a member sitting out).[[2:42:39]] Bill 98, creating a Food and Nutrition Security Plan, passed final reading with eight ayes and zero noes.[[2:43:18]]",
+    "decided": [
+      "The Council took Resolution 26-141 away from committee so it could act on it the same day.",
+      "The Council approved settling a lawsuit under terms discussed in executive session."
+    ],
+    "next": "The budget director said the Council is going to suspend meetings to focus on the South Maui Community Plan. The budget director said the hurricane bill needs two readings because the Council was not asked to waive that rule. The budget director said the County may ask for more hurricane funding as departments find more damage.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "1:53:19",
+        "q": "\"We don't have to choose between compassion and public safety.\""
+      },
+      {
+        "t": "2:39:10",
+        "q": "Hurricane cost breakdown read into the record"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "south-maui-community-plan-review",
+        "title": "South Maui Community Plan review"
+      },
+      {
+        "slug": "county-food-and-nutrition-security-plan-law",
+        "title": "County Food and Nutrition Security Plan law"
+      },
+      {
+        "slug": "safe-parking-sites-for-people-living-in-cars",
+        "title": "Safe parking sites for people living in cars"
+      },
+      {
+        "slug": "emergency-fund-bill-for-recent-hurricane-damage",
+        "title": "Emergency fund bill for recent hurricane damage"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Maui County Council",
+        "group": "council",
+        "short": []
+      }
+    ],
+    "bills": [
+      "Bill 98 (2026)",
+      "Bill 122 (2026)",
+      "Resolution 26-141",
+      "Resolution 26-150"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Sep 4, 2026",
+      "oneLine": "Resolution 26-150 urged the administration to carry out a managed safe overnight parking project.",
+      "why": "The vice chair said the resolution was about safety for everyone, not about blaming people experiencing homelessness.",
+      "deadlines": [],
+      "next": "A council member said he would give the administration time to set up safe parking and a safe sleeping area.",
+      "brief": "A testifier said the phrase \"immediate action\" in the resolution was not defined.[[#1]] The Council voted 7–0 to amend the resolution's wording.[[#2]] The resolution failed with four ayes and two noes.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Sep",
+          "day": "4",
+          "source": "Maui County Council Meeting",
+          "kind": "tv",
+          "title": "Maui County Council Meeting",
+          "note": "Resolution 26-150 urged the administration to carry out a managed safe overnight parking project.",
+          "proof": "0:24:11",
+          "view": {
+            "type": "meeting",
+            "id": "UsJUbzdqBgw"
+          },
+          "seek": "0:24:11"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Meeting · Sep 4",
+          "where": "Meeting video at 0:24:11",
+          "view": {
+            "type": "meeting",
+            "id": "UsJUbzdqBgw"
+          },
+          "seek": "0:24:11"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Meeting · Sep 4",
+          "where": "Meeting video at 2:09:38",
+          "view": {
+            "type": "meeting",
+            "id": "UsJUbzdqBgw"
+          },
+          "seek": "2:09:38"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Meeting · Sep 4",
+          "where": "Meeting video at 2:25:02",
+          "view": {
+            "type": "meeting",
+            "id": "UsJUbzdqBgw"
+          },
+          "seek": "2:25:02"
+        }
+      ]
+    },
+    {
+      "issue": "Food Security",
+      "since": "Sep 4, 2026",
+      "oneLine": "Bill 98 creates a new County Code chapter for a Food and Nutrition Security Plan.",
+      "why": "The sponsor said the bill is timely because September is Hunger Action Month and storms may keep some barges from arriving.",
+      "deadlines": [],
+      "next": "",
+      "brief": "The Maui County Farm Bureau said it is in 100% support of Bill 98.[[#1]] The Farm Bureau said the committee chair reached out to discuss its concerns.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Sep",
+          "day": "4",
+          "source": "Maui County Council Meeting",
+          "kind": "tv",
+          "title": "Maui County Council Meeting",
+          "note": "Bill 98 creates a new County Code chapter for a Food and Nutrition Security Plan.",
+          "proof": "0:17:08",
+          "view": {
+            "type": "meeting",
+            "id": "UsJUbzdqBgw"
+          },
+          "seek": "0:17:08"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Meeting · Sep 4",
+          "where": "Meeting video at 0:17:08",
+          "view": {
+            "type": "meeting",
+            "id": "UsJUbzdqBgw"
+          },
+          "seek": "0:17:08"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Meeting · Sep 4",
+          "where": "Meeting video at 0:16:39",
+          "view": {
+            "type": "meeting",
+            "id": "UsJUbzdqBgw"
+          },
+          "seek": "0:16:39"
+        }
+      ]
+    },
+    {
+      "issue": "Disaster Recovery",
+      "since": "Sep 4, 2026",
+      "oneLine": "Bill 122 would allow up to $10 million from the emergency fund for costs from a recent hurricane.",
+      "why": "The administration asked for quick action so departments can keep responding to community needs and emergency repairs.",
+      "deadlines": [],
+      "next": "The budget director said the County may come back for more funding as departments find more damage.",
+      "brief": "Up to $1 million would go to Maui Economic Opportunity for rebuilding and recovery help.[[#1]] One member said he would abstain because the bill includes money for a past employer.[[#2]] The bill passed first reading with seven ayes, one excused and one abstention.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Sep",
+          "day": "4",
+          "source": "Maui County Council Meeting",
+          "kind": "tv",
+          "title": "Maui County Council Meeting",
+          "note": "Bill 122 would allow up to $10 million from the emergency fund for costs from a recent hurricane.",
+          "proof": "2:38:13",
+          "view": {
+            "type": "meeting",
+            "id": "UsJUbzdqBgw"
+          },
+          "seek": "2:38:13"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Meeting · Sep 4",
+          "where": "Meeting video at 2:38:13",
+          "view": {
+            "type": "meeting",
+            "id": "UsJUbzdqBgw"
+          },
+          "seek": "2:38:13"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Meeting · Sep 4",
+          "where": "Meeting video at 2:40:21",
+          "view": {
+            "type": "meeting",
+            "id": "UsJUbzdqBgw"
+          },
+          "seek": "2:40:21"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Meeting · Sep 4",
+          "where": "Meeting video at 2:42:39",
+          "view": {
+            "type": "meeting",
+            "id": "UsJUbzdqBgw"
+          },
+          "seek": "2:42:39"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "youtubeUrl": "https://youtu.be/UsJUbzdqBgw"
+  }
+}

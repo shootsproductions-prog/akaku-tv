@@ -1,0 +1,62 @@
+{
+  "videoId": "jv6CAYZGTrI",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-11-04T07:42:57.320Z",
+  "meetingDateISO": "2024-10-09",
+  "headline": "Molokai Planning Commission meeting of October 9, 2024",
+  "topics": [
+    "Water"
+  ],
+  "bodyType": "board",
+  "meeting": {
+    "id": "jv6CAYZGTrI",
+    "mon": "Oct",
+    "day": "9",
+    "date": "Wed, Oct 9, 2024",
+    "body": "Molokai Planning Commission meeting of October 9, 2024",
+    "dur": "3 h 03 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "Molokaʻi planners heard an Army Corps permit briefing and voted that a Hawaiian Telcom duct line under a highway is not exempt.",
+    "recap": "The chair opened the meeting at 11:01 a.m.[[0:00:30]] A project manager from the U.S. Army Corps of Engineers Honolulu District explained how its permit program works.[[0:06:23]] Hawaiian Telcom asked the commission to find its plan for an underground duct line under a highway exempt from a special management area (SMA) permit.[[1:37:09]] The applicant said the project would improve internet and phone service.[[1:41:36]] A commissioner asked that a cultural monitor be on site during the work.[[1:50:54]] The chair said the commission could only grant or deny the exemption, not attach conditions.[[1:58:17]] A commissioner made a motion that the project is not exempt.[[2:27:34]] The chair said the duct line may be part of a bigger project with cumulative impacts the commission has not reviewed.[[2:33:54]] The commission voted by roll call that the project is not exempt, and the motion passed.[[2:53:11]] The next regular meeting is October 23, 2024.[[3:01:47]]",
+    "decided": [],
+    "next": "The planning department expects a demolition exemption request at the next meeting. The chair asked commissioners to review the 2025 meeting calendar sent by staff.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:06:23",
+        "q": "Army Corps of Engineers presentation introduced"
+      },
+      {
+        "t": "1:58:17",
+        "q": "\"we cannot make conditions to the exemption we either approve it or disapprove it\""
+      },
+      {
+        "t": "2:52:00",
+        "q": "Roll call vote on the exemption"
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "molokai-landfill-limits-for-hazardous-and-disaster-debris",
+        "title": "Molokaʻi landfill limits for hazardous and disaster debris"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Molokaʻi Planning Commission",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "source": {
+    "youtubeUrl": "https://youtu.be/jv6CAYZGTrI"
+  }
+}

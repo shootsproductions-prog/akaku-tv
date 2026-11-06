@@ -1,0 +1,280 @@
+{
+  "videoId": "CNrEmWu8GiM",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-19T19:45:48.244Z",
+  "meetingDateISO": "2024-07-19",
+  "headline": "Council approves wildfire lawsuit settlement, refers housing and water bills to committees",
+  "topics": [
+    "Water",
+    "Housing",
+    "Disaster Recovery"
+  ],
+  "bodyType": "council",
+  "meeting": {
+    "id": "CNrEmWu8GiM",
+    "mon": "Jul",
+    "day": "19",
+    "date": "Fri, Jul 19, 2024",
+    "body": "Maui County Council Meeting",
+    "dur": "2 h 10 m",
+    "voteCount": 6,
+    "voteItem": "County Communication 24-23, proposed amendment to Bill 87",
+    "ayes": null,
+    "noes": null,
+    "summary": "The council approved a committee's recommended global settlement of County wildfire lawsuits from August 2023, with twice-yearly lawyer reports on future cases. It sent Bills 103 and 104 to Housing and Land Use and Bill 106 to Water and Infrastructure.",
+    "recap": "All nine council members were present.[[0:02:40]] A committee recommended a global settlement of all County wildfire lawsuits from August 2023.[[1:32:05]] The committee had met in executive session (a closed-door discussion) with its lawyers.[[1:33:03]] The council approved the settlement recommendation.[[1:34:59]] The council filled a Board of Ethics vacancy, nine ayes to zero.[[1:39:28]] Bills 103 and 104, on housing density and kitchenettes, went to a housing committee.[[1:46:13]] Bill 106, on private water systems, went to the Water and Infrastructure Committee.[[1:47:08]] Bill 108, creating a passport application fund, passed first reading, nine ayes to zero.[[1:49:07]] Bill 87 lets temporary structures allowed under an emergency proclamation stay up to five years.[[1:59:47]] Bill 96, exempting storage shipping containers in industrial zones from building permits, passed.[[2:05:29]] An amendment lets $500,000 for the wildfire one-year commemoration also pay for a memorial.[[2:07:23]]",
+    "decided": [
+      "The council postponed this item until it took up Bill 87.",
+      "The council sent Bills 103 and 104 to the Housing and Land Use Committee.",
+      "The council sent Bill 105 to the Housing and Land Use Committee.",
+      "The council sent Bill 106 to the Water and Infrastructure Committee.",
+      "The council sent Bill 107 to the Efficiency Solutions and Circular Systems Committee.",
+      "The council sent Bill 111 to committee."
+    ],
+    "next": "The County's lawyers must send the council a twice-yearly report on future cases settled under the settlement resolution.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:05:44",
+        "q": "\"Attitude is your choice.\""
+      },
+      {
+        "t": "0:58:17",
+        "q": "Vote on the condolence resolution"
+      },
+      {
+        "t": "1:19:12",
+        "q": "\"Bill 103 has the potential to double, triple, or even quadruple the density of housing\""
+      },
+      {
+        "t": "1:25:52",
+        "q": "Testimony in support of Bill 111, called \"the right to shelter bill\""
+      },
+      {
+        "t": "1:33:53",
+        "q": "\"it brings closure and comfort to the victims of the fire\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "bill-104-kitchenettes-for-rebuilding-homes",
+        "title": "Bill 104 kitchenettes for rebuilding homes"
+      },
+      {
+        "slug": "county-buying-private-west-maui-water-systems",
+        "title": "County buying private West Maui water systems"
+      },
+      {
+        "slug": "countys-wildfire-lawsuits-and-global-settlement",
+        "title": "County's wildfire lawsuits and global settlement"
+      },
+      {
+        "slug": "bill-111-on-removing-belongings-from-public-places",
+        "title": "Bill 111 on removing belongings from public places"
+      },
+      {
+        "slug": "bill-105-rebuilding-nonconforming-structures-after-disasters",
+        "title": "Bill 105 rebuilding nonconforming structures after disasters"
+      },
+      {
+        "slug": "bill-87-extending-temporary-structure-permits-to-five-years",
+        "title": "Bill 87 extending temporary structure permits to five years"
+      },
+      {
+        "slug": "bill-110-street-improvement-exemption-for-front-street-rebui",
+        "title": "Bill 110 street improvement exemption for Front Street rebuilds"
+      },
+      {
+        "slug": "building-permit-exemption-for-storage-shipping-containers",
+        "title": "Building permit exemption for storage shipping containers"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Maui County Council",
+        "group": "council",
+        "short": []
+      }
+    ],
+    "bills": [
+      "Bill 87 (2024)",
+      "Bill 103 (2024)",
+      "Bill 104 (2024)",
+      "Bill 106 (2024)",
+      "Bill 108 (2024)",
+      "Bill 96 (2024)",
+      "Bill 105 (2024)",
+      "Bill 107 (2024)",
+      "Bill 111 (2024)",
+      "Bill 110 (2024)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Water",
+      "since": "Jul 19, 2024",
+      "oneLine": "Bill 106, on regional consolidation and acquisition of private water systems, was sent to the Water and Infrastructure Committee.",
+      "why": "A testifier said the water department may find there is not enough water for a subdivision if more houses are allowed on each lot.",
+      "deadlines": [],
+      "next": "",
+      "brief": "A resolution approving a director for the East Maui Regional Water Authority was sent to committee.[[#1]]",
+      "timeline": [
+        {
+          "mon": "Jul",
+          "day": "19",
+          "source": "Maui County Council Meeting",
+          "kind": "tv",
+          "title": "Maui County Council Meeting",
+          "note": "Bill 106, on regional consolidation and acquisition of private water systems, was sent to the Water and Infrastructure Committee.",
+          "proof": "1:35:37",
+          "view": {
+            "type": "meeting",
+            "id": "CNrEmWu8GiM"
+          },
+          "seek": "1:35:37"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Meeting · Jul 19",
+          "where": "Meeting video at 1:35:37",
+          "view": {
+            "type": "meeting",
+            "id": "CNrEmWu8GiM"
+          },
+          "seek": "1:35:37"
+        }
+      ]
+    },
+    {
+      "issue": "Housing",
+      "since": "Jul 19, 2024",
+      "oneLine": "Bills 103 and 104, on housing density and kitchenettes, were sent to the Housing and Land Use Committee.",
+      "why": "A testifier said Bill 103 could double, triple or even quadruple housing density in R1, R2 and R3 zoning.",
+      "deadlines": [],
+      "next": "",
+      "brief": "A testifier said Bill 104 could turn single-family homes into three-family dwellings.[[#1]] The testifier asked that water, wastewater, public works and fire agencies comment on the bills before they return to committee.[[#2]] The testifier warned the bills could be used by developers to create second homes.[[#3]] Another testifier said Bills 87, 105 and 110 would help provide temporary housing.[[#4]]",
+      "timeline": [
+        {
+          "mon": "Jul",
+          "day": "19",
+          "source": "Maui County Council Meeting",
+          "kind": "tv",
+          "title": "Maui County Council Meeting",
+          "note": "Bills 103 and 104, on housing density and kitchenettes, were sent to the Housing and Land Use Committee.",
+          "proof": "1:19:41",
+          "view": {
+            "type": "meeting",
+            "id": "CNrEmWu8GiM"
+          },
+          "seek": "1:19:41"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Meeting · Jul 19",
+          "where": "Meeting video at 1:19:41",
+          "view": {
+            "type": "meeting",
+            "id": "CNrEmWu8GiM"
+          },
+          "seek": "1:19:41"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Meeting · Jul 19",
+          "where": "Meeting video at 1:19:23",
+          "view": {
+            "type": "meeting",
+            "id": "CNrEmWu8GiM"
+          },
+          "seek": "1:19:23"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Meeting · Jul 19",
+          "where": "Meeting video at 1:21:04",
+          "view": {
+            "type": "meeting",
+            "id": "CNrEmWu8GiM"
+          },
+          "seek": "1:21:04"
+        },
+        {
+          "n": 4,
+          "title": "Maui County Council Meeting · Jul 19",
+          "where": "Meeting video at 1:16:06",
+          "view": {
+            "type": "meeting",
+            "id": "CNrEmWu8GiM"
+          },
+          "seek": "1:16:06"
+        }
+      ]
+    },
+    {
+      "issue": "Disaster Recovery",
+      "since": "Jul 19, 2024",
+      "oneLine": "The council is acting on a global settlement of wildfire lawsuits against the County from the August 2023 wildfires.",
+      "why": "A member said she hopes the settlement brings closure and comfort to the fire victims.",
+      "deadlines": [],
+      "next": "The County's lawyers must report to the council twice a year on future cases settled under the resolution.",
+      "brief": "The committee amended the resolution so the settlement covers claims from the Lahaina and Upcountry wildfires.[[#1]] The committee voted 6-0 to recommend adopting the settlement resolution.[[#2]] Bill 87 lets temporary structures allowed under an emergency proclamation stay up to five years.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Jul",
+          "day": "19",
+          "source": "Maui County Council Meeting",
+          "kind": "tv",
+          "title": "Maui County Council Meeting",
+          "note": "The council is acting on a global settlement of wildfire lawsuits against the County from the August 2023 wildfires.",
+          "proof": "1:33:13",
+          "view": {
+            "type": "meeting",
+            "id": "CNrEmWu8GiM"
+          },
+          "seek": "1:33:13"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Meeting · Jul 19",
+          "where": "Meeting video at 1:33:13",
+          "view": {
+            "type": "meeting",
+            "id": "CNrEmWu8GiM"
+          },
+          "seek": "1:33:13"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Meeting · Jul 19",
+          "where": "Meeting video at 1:33:39",
+          "view": {
+            "type": "meeting",
+            "id": "CNrEmWu8GiM"
+          },
+          "seek": "1:33:39"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Meeting · Jul 19",
+          "where": "Meeting video at 1:59:47",
+          "view": {
+            "type": "meeting",
+            "id": "CNrEmWu8GiM"
+          },
+          "seek": "1:59:47"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "youtubeUrl": "https://youtu.be/CNrEmWu8GiM"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "videoId": "1zcpvN9q9pE",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-15T06:40:26.157Z",
+  "meetingDateISO": "2024-11-12",
+  "headline": "Maui County Board of Variances & Appeals",
+  "topics": [
+    "Housing",
+    "Disaster Recovery"
+  ],
+  "bodyType": "board",
+  "meeting": {
+    "id": "1zcpvN9q9pE",
+    "mon": "Nov",
+    "day": "12",
+    "date": "Tue, Nov 12, 2024",
+    "body": "Maui County Board of Variances & Appeals",
+    "dur": "3 h 18 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The board approved its 2025 meeting schedule.",
+    "recap": "The board approved its 2025 meeting schedule.[[0:04:04]] Two property owners asked for a declaratory ruling (a formal answer on how a law applies) about an hours limit on their property.[[0:04:45]] The owners' attorney said the home burned in the fire and the owners want to rebuild.[[1:09:32]] The county's attorney said vacation rentals are not an allowed use there.[[2:12:25]] A motion saying condition 8 does not cover overnight residential-type use failed with three votes in favor.[[2:44:45]] A motion to deny the petition as outside the board's authority got four votes, short of a majority.[[2:47:41]] The owners' attorney agreed to write up the board's decision and order.[[3:16:43]] The next meeting is January 9, 2025.[[3:17:31]]",
+    "decided": [
+      "A motion saying condition 8 does not apply to overnight residential-type use did not pass.",
+      "A motion to deny the petition as outside the board's authority did not get a majority."
+    ],
+    "next": null,
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:52:01",
+        "q": "\"the hours of operation for all uses shall be limited to 7 a. until 900 p.m.\""
+      },
+      {
+        "t": "1:09:32",
+        "q": "Owners' attorney: the property burned down in the fire"
+      },
+      {
+        "t": "1:35:18",
+        "q": "County's attorney presents the county's case"
+      },
+      {
+        "t": "2:48:10",
+        "q": "\"we still do not have a majority here\""
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "hours-of-operation-limit-on-overnight-home-use",
+        "title": "Hours-of-operation limit on overnight home use"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Board of Variances and Appeals",
+        "group": "board",
+        "short": [
+          "BVA"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "source": {
+    "youtubeUrl": "https://youtu.be/1zcpvN9q9pE"
+  }
+}

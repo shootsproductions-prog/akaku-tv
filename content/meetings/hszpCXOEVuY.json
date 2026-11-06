@@ -1,0 +1,140 @@
+{
+  "videoId": "hszpCXOEVuY",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-23T04:07:05.818Z",
+  "meetingDateISO": "2023-03-21",
+  "headline": "Maui County Council Government Relations, Ethics, and Transparency Committee",
+  "topics": [
+    "Water"
+  ],
+  "bodyType": "council",
+  "meeting": {
+    "id": "hszpCXOEVuY",
+    "mon": "Mar",
+    "day": "21",
+    "date": "Tue, Mar 21, 2023",
+    "body": "Maui County Council Government Relations, Ethics, and Transparency Committee",
+    "dur": "2 h 16 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee recommended board nominees and four claim settlements and will return March 30 at 9 a.m.",
+    "recap": "A nominee to the Cultural Resources Commission said he served a four-year term on it years ago.[[0:12:04]] The chair deferred his nomination because it is already on Friday's full Council agenda to meet a deadline.[[0:28:21]] Members voted nine to zero to remove the reappointment wording from his resolution.[[0:41:53]] A county attorney said three of the claims before the committee involved flooding.[[1:37:37]] The Water Department said it has started checking the condition of the whole water system.[[1:44:13]] A county attorney said the other side in a lawsuit agreed to drop its appeal in exchange for a tentative settlement.[[1:55:11]] He asked to discuss it in executive session (a closed-door discussion).[[1:55:51]] The committee will return on March 30 at 9 a.m. to take up three remaining items.[[2:12:47]]",
+    "decided": [],
+    "next": "Three remaining agenda items will be taken up on the 30th at 9 a.m. A council member said she would try to file a change for Friday so the nominee clearly fills the cultural practitioner seat.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:33:48",
+        "q": "\"half the battle in anything is showing up\""
+      },
+      {
+        "t": "0:37:41",
+        "q": "\"I've never been on a county board or commission before.\""
+      },
+      {
+        "t": "1:26:44",
+        "q": "Sunshine Law question about grouping the settlement items"
+      },
+      {
+        "t": "1:44:13",
+        "q": "Water Department on its condition assessment of the water system"
+      },
+      {
+        "t": "1:55:51",
+        "q": "Request for executive session on lawsuit settlement"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "new-west-maui-wells-timeline",
+        "title": "New West Maui wells timeline"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Government Relations, Ethics, and Transparency Committee",
+        "group": "council",
+        "short": [
+          "GREAT"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Water",
+      "since": "Mar 21, 2023",
+      "oneLine": "The County is settling claims for damage to homes from water main breaks.",
+      "why": "A council member said the damage was substantial and was not the residents' doing.",
+      "deadlines": [],
+      "next": "The Water Department said a condition assessment of the whole water system will show where repairs or replacement are needed.",
+      "brief": "One claim, for $13,593.87, involved a water main break at a Kīhei property.[[#1]] A nominee said a meeting that evening would discuss five wells the County wants to put in for Lahaina.[[#2]] The Water Department said getting a new vehicle to replace a totaled truck could take two to three years.[[#3]] Members were told the County is self-insured, so it pays these claims itself.[[#4]]",
+      "timeline": [
+        {
+          "mon": "Mar",
+          "day": "21",
+          "source": "Maui County Council Government Relations, Ethics, and Transparency Committee",
+          "kind": "tv",
+          "title": "Maui County Council Government Relations, Ethics, and Transparency Committee",
+          "note": "The County is settling claims for damage to homes from water main breaks.",
+          "proof": "1:29:46",
+          "view": {
+            "type": "meeting",
+            "id": "hszpCXOEVuY"
+          },
+          "seek": "1:29:46"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Government Relations, Ethics, and Transparency Committee · Mar 21",
+          "where": "Meeting video at 1:29:46",
+          "view": {
+            "type": "meeting",
+            "id": "hszpCXOEVuY"
+          },
+          "seek": "1:29:46"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Government Relations, Ethics, and Transparency Committee · Mar 21",
+          "where": "Meeting video at 0:14:13",
+          "view": {
+            "type": "meeting",
+            "id": "hszpCXOEVuY"
+          },
+          "seek": "0:14:13"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Government Relations, Ethics, and Transparency Committee · Mar 21",
+          "where": "Meeting video at 1:45:27",
+          "view": {
+            "type": "meeting",
+            "id": "hszpCXOEVuY"
+          },
+          "seek": "1:45:27"
+        },
+        {
+          "n": 4,
+          "title": "Maui County Council Government Relations, Ethics, and Transparency Committee · Mar 21",
+          "where": "Meeting video at 1:46:17",
+          "view": {
+            "type": "meeting",
+            "id": "hszpCXOEVuY"
+          },
+          "seek": "1:46:17"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "youtubeUrl": "https://youtu.be/hszpCXOEVuY"
+  }
+}

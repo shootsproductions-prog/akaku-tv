@@ -1,0 +1,74 @@
+{
+  "videoId": "UjHForbD6sQ",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-07T23:30:28.184Z",
+  "meetingDateISO": "2026-08-20",
+  "headline": "Board of Water Supply",
+  "topics": [
+    "Water"
+  ],
+  "bodyType": "board",
+  "meeting": {
+    "id": "UjHForbD6sQ",
+    "mon": "Aug",
+    "day": "20",
+    "date": "Thu, Aug 20, 2026",
+    "body": "Board of Water Supply",
+    "dur": "55 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The board heard that BLNR denied a long-term Mahi Pono water license proposal, and it approved a planning letter and a TIG report.",
+    "recap": "The Board of Water Supply meeting began at 1:37 p.m.[[0:00:30]] In a presentation, he said most water in the system comes from state lands.[[0:28:52]] He said ownership of the ditch system matters because the state must price any license through an appraisal.[[0:39:45]] The board unanimously approved a letter to the planning department about water supply in county planning.[[0:46:08]] The next meeting is September 17th at 1:30.[[0:54:33]]",
+    "decided": [
+      "With no objections, the board took the vice chair's presentation out of agenda order.",
+      "The board unanimously approved the draft letter to the planning department.",
+      "problem statement and discussion questions: The board unanimously approved the problem statement and discussion questions attached to the letter."
+    ],
+    "next": "A council member's letter about the board's further comments on Bill 1 will be on the next meeting's agenda. Members who plan to draft a response should say so to learn the deadline.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:07:24",
+        "q": "\"the six members of the board present unanimously rejected the staff's recommendation\""
+      },
+      {
+        "t": "0:50:10",
+        "q": "\"a reference for the board and a reference for the public\""
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [
+      {
+        "slug": "east-maui-ditch-system-ownership-and-county-takeover-bid",
+        "title": "East Maui ditch system ownership and county takeover bid"
+      },
+      {
+        "slug": "board-of-water-supply-opposes-bill-1",
+        "title": "Board of Water Supply opposes Bill 1"
+      },
+      {
+        "slug": "new-west-maui-wells-timeline",
+        "title": "New West Maui wells timeline"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Board of Water Supply",
+        "group": "board",
+        "short": [
+          "BWS"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 1 (2026)"
+    ]
+  },
+  "issues": [],
+  "source": {
+    "youtubeUrl": "https://youtu.be/UjHForbD6sQ"
+  }
+}
