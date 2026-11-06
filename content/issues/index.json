@@ -213,12 +213,13 @@
     "new-countywide-water-conservation-ordinance.json",
     "release-of-an-updated-west-maui-water-plan.json",
     "setting-yearly-property-tax-rates.json",
-    "lanai-fifth-street-affordable-housing-project.json"
+    "lanai-fifth-street-affordable-housing-project.json",
+    "half-percent-general-excise-tax-surcharge.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-11-05T22:26:12.713Z",
-  "etag": "e70ef6cf7bf11c6c11160b0327b3cd7d4ccc2273eae310148aa4c22b0c76c519",
+  "updatedAt": "2026-11-06T03:22:40.569Z",
+  "etag": "595c3e1f93b5e2acca61287eb95ff92a4c302872fef92ff04ef89f3a03736153",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-11-05T10:26:13.896Z",
@@ -1075,6 +1076,10 @@
     "lanai-fifth-street-affordable-housing-project.json": {
       "updatedAt": "2026-11-05T22:06:09.420Z",
       "sha256": "9f91f2231c1b5445f0588fbc95a50a705da90b4efecccde5c39580ba83d135c6"
+    },
+    "half-percent-general-excise-tax-surcharge.json": {
+      "updatedAt": "2026-11-06T03:22:40.569Z",
+      "sha256": "960eb9afe01b61b69fb7128d51fc837156da6655e6809fe3eef81a221ac820da"
     }
   }
 }
