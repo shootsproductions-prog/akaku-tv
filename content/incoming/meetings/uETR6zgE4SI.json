@@ -1,0 +1,70 @@
+{
+  "videoId": "uETR6zgE4SI",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-17T00:11:14.189Z",
+  "meetingDateISO": "2026-08-27",
+  "source": {
+    "youtubeUrl": "https://youtu.be/uETR6zgE4SI"
+  },
+  "headline": "Committee closes testimony and passes criteria amendment on a five-to-four vote",
+  "topics": [
+    "Housing"
+  ],
+  "meeting": {
+    "id": "uETR6zgE4SI",
+    "mon": "Aug",
+    "day": "27",
+    "date": "Thu, Aug 27, 2026",
+    "body": "Maui County Council Housing and Land Use Committee",
+    "dur": "5 h 30 m",
+    "voteCount": 1,
+    "voteItem": "Close oral testimony",
+    "ayes": null,
+    "noes": null,
+    "summary": "After the chair closed oral testimony, the committee passed an amendment to the property criteria with five ayes and four noes. Another member proposed a criterion on 2008 unit occupancy, and staff will double-check which properties meet the criteria.",
+    "recap": "A testifier said Bill 9 was meant to increase housing for people who live and work here.[[0:22:42]] Another testifier said she could not support what she called an attempt to undermine Bill 9.[[1:38:16]] A testifier said she believed 26 properties are proposed for permanent hotel zoning.[[3:07:42]] A condo owner testified in support of the resolutions.[[3:32:20]] The chair closed oral testimony.[[3:34:29]] The chair proposed covering structures fully inundated in the sea level rise exposure area or flood hazard zones.[[4:01:09]] The motion required structures fully inundated by the 3.2-foot sea level rise area or flood hazard area, and not originally meant for affordable workforce housing.[[5:07:43]] A member moved to cover structures that are majority impacted, including areas under Maui Planning Commission shoreline rules.[[5:19:27]] That amendment passed with five ayes and four noes.[[5:22:15]] Another member proposed a criterion about how many units residents occupied in 2008.[[5:23:36]]",
+    "decided": [
+      "The chair closed oral testimony without objection."
+    ],
+    "next": "Committee staff will double-check which properties meet the criteria.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:27:54",
+        "q": "\"Hotel zoning is not a shoreline management strategy.\""
+      },
+      {
+        "t": "4:01:09",
+        "q": "Chair proposes criteria"
+      },
+      {
+        "t": "5:22:15",
+        "q": "Roll call on the criteria amendment"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p",
+        "title": "Ending apartment vacation rentals and hotel rezoning of 48 properties"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Housing and Land Use Committee",
+        "group": "council",
+        "short": [
+          "HLU"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 9 (2026)",
+      "Resolution 26-129",
+      "Resolution 26-130"
+    ]
+  },
+  "issues": [],
+  "bodyType": "council"
+}

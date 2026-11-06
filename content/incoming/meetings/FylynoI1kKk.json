@@ -1,0 +1,130 @@
+{
+  "videoId": "FylynoI1kKk",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-20T04:41:37.028Z",
+  "meetingDateISO": "2026-10-19",
+  "source": {
+    "youtubeUrl": "https://youtu.be/FylynoI1kKk"
+  },
+  "headline": "Maui County Council Water and Infrastructure Committee",
+  "topics": [
+    "Water"
+  ],
+  "meeting": {
+    "id": "FylynoI1kKk",
+    "mon": "Oct",
+    "day": "19",
+    "date": "Mon, Oct 19, 2026",
+    "body": "Maui County Council Water and Infrastructure Committee",
+    "dur": "38 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "Bill 116 would let the mayor sign an agreement with the State of Hawaiʻi School Facilities Authority for temporary wastewater service to a new Central Maui school.",
+    "recap": "Bill 116 would let the mayor sign an agreement with the State of Hawaiʻi School Facilities Authority for temporary wastewater service to a new Central Maui school.[[0:10:30]] The school is expected to open in 2031.[[0:10:52]] The County's new Central Maui wastewater plant is projected to start operating in late 2029.[[0:10:52]] If the new plant isn't ready, the school could use up to 14,500 gallons a day at the existing plant.[[0:11:05]] A testifier asked members to advance $1.8 million for design work on UV disinfection.[[0:18:05]] The testifier said no flow should be added to that plant until it has effective disinfection.[[0:20:21]] The committee approved an amendment fixing the existing plant's name in the bill, nine ayes to zero noes.[[0:31:07]]",
+    "decided": [],
+    "next": "Written testimony will continue to be accepted into the record.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:25:36",
+        "q": "\"But it's kind of just a Plan B.\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "disinfecting-wastewater-that-reaches-the-ocean",
+        "title": "Disinfecting wastewater that reaches the ocean"
+      },
+      {
+        "slug": "central-maui-wastewater-reclamation-facility-funding",
+        "title": "Central Maui wastewater reclamation facility funding"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Water and Infrastructure Committee",
+        "group": "council",
+        "short": [
+          "WAI"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 116 (2026)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Water",
+      "since": "Oct 19, 2026",
+      "oneLine": "A bill would set up temporary wastewater service for a new Central Maui school.",
+      "why": "",
+      "deadlines": [],
+      "next": "",
+      "brief": "The school could use up to 14,500 gallons per day at the existing plant, subject to available capacity.[[#1]] The director said the new plant has its environmental permits and is working through land approvals.[[#2]] The director confirmed the 14.9-acre plant site does not need the Land Use Commission because it is under 15 acres.[[#3]] A testifier warned against adding flow to the existing plant before it has effective disinfection.[[#4]]",
+      "timeline": [
+        {
+          "mon": "Oct",
+          "day": "19",
+          "source": "Maui County Council Water and Infrastructure Committee",
+          "kind": "tv",
+          "title": "Maui County Council Water and Infrastructure Committee",
+          "note": "A bill would set up temporary wastewater service for a new Central Maui school.",
+          "proof": "0:11:05",
+          "view": {
+            "type": "meeting",
+            "id": "FylynoI1kKk"
+          },
+          "seek": "0:11:05"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Water and Infrastructure Committee · Oct 19",
+          "where": "Meeting video at 0:11:05",
+          "view": {
+            "type": "meeting",
+            "id": "FylynoI1kKk"
+          },
+          "seek": "0:11:05"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Water and Infrastructure Committee · Oct 19",
+          "where": "Meeting video at 0:27:33",
+          "view": {
+            "type": "meeting",
+            "id": "FylynoI1kKk"
+          },
+          "seek": "0:27:33"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Water and Infrastructure Committee · Oct 19",
+          "where": "Meeting video at 0:28:00",
+          "view": {
+            "type": "meeting",
+            "id": "FylynoI1kKk"
+          },
+          "seek": "0:28:00"
+        },
+        {
+          "n": 4,
+          "title": "Maui County Council Water and Infrastructure Committee · Oct 19",
+          "where": "Meeting video at 0:20:21",
+          "view": {
+            "type": "meeting",
+            "id": "FylynoI1kKk"
+          },
+          "seek": "0:20:21"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

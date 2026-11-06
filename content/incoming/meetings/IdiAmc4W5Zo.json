@@ -1,0 +1,238 @@
+{
+  "videoId": "IdiAmc4W5Zo",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-21T22:24:51.095Z",
+  "meetingDateISO": "2025-07-25",
+  "source": {
+    "youtubeUrl": "https://youtu.be/IdiAmc4W5Zo"
+  },
+  "headline": "Council approves hazard pay settlement and tax committee, passes farm tourism bill",
+  "topics": [
+    "Water",
+    "Housing",
+    "Food Security",
+    "Disaster Recovery"
+  ],
+  "meeting": {
+    "id": "IdiAmc4W5Zo",
+    "mon": "Jul",
+    "day": "25",
+    "date": "Fri, Jul 25, 2025",
+    "body": "Maui County Council Meeting",
+    "dur": "3 h 10 m",
+    "voteCount": 5,
+    "voteItem": "County Communication 25-15, proposed amendment to Bill 47",
+    "ayes": null,
+    "noes": null,
+    "summary": "Members passed Bill 56, a water rate discount for native species habitat use, on first reading and sent an off-street parking bill for housing to the Lānaʻi, Maui, and Molokaʻi Planning Commissions. Bill 75 allows agricultural tourism on working farms.",
+    "recap": "Firefighters testified in support of a settlement for temporary hazard pay.[[0:09:17]] Bill 56 would discount water rates for customers using water mainly to conserve or restore native Hawaiian species habitat.[[1:25:42]] The council passed Committee Report 25-46 on first reading with seven ayes.[[1:26:22]] The chair asked members to create a special committee on real property tax reform.[[1:31:21]] The council approved the special committee with seven ayes.[[1:48:54]] The council approved the housing resolutions with six ayes.[[2:01:31]] The land trust resolution passed with six ayes.[[2:13:15]] The council approved the firefighter COVID-19 hazard pay settlement with five ayes.[[2:16:13]] Bill 88 lets the mayor sign an agreement with the State for temporary housing for 2023 wildfire survivors.[[2:51:56]] Bill 75 allows agricultural tourism on working farms in the County agriculture district.[[3:03:52]]",
+    "decided": [
+      "Members agreed to hold the proposed amendment until Bill 47 was taken up.",
+      "Members agreed to postpone the proposed amendment until Bill 75 was taken up.",
+      "The council approved an amendment to include a title report.",
+      "The council sent a proposed bill on off-street parking for housing to the planning commissions.",
+      "The council swapped in a corrected version of Bill 47."
+    ],
+    "next": "The chair said she will send members the 2019 real property tax group's information. The land trust representative said she will keep the council updated on any purchases. The vice chair said she will schedule the land trust to explain its funding at her committee. The proposed off-street parking bill goes to the Lānaʻi, Maui, and Molokaʻi planning commissions.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:09:17",
+        "q": "Firefighter testimony on hazard pay"
+      },
+      {
+        "t": "1:31:34",
+        "q": "\"Ordinarily, we would do a TIG, but we also have the opportunity to establish a special committee.\""
+      },
+      {
+        "t": "2:03:59",
+        "q": "\"Right now we've identified really only two, maybe three\""
+      },
+      {
+        "t": "2:25:14",
+        "q": "\"that city became the city of roses\""
+      },
+      {
+        "t": "2:33:35",
+        "q": "Concern about a blind applicant who never heard back"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "off-street-parking-based-on-bedroom-count",
+        "title": "Off-street parking based on bedroom count"
+      },
+      {
+        "slug": "county-funding-for-lahaina-community-land-trust",
+        "title": "County funding for Lahaina Community Land Trust"
+      },
+      {
+        "slug": "special-committee-on-property-tax-reform",
+        "title": "Special committee on property tax reform"
+      },
+      {
+        "slug": "discounted-preservation-water-rate-for-habitat-restoration",
+        "title": "Discounted preservation water rate for habitat restoration"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Maui County Council",
+        "group": "council",
+        "short": []
+      }
+    ],
+    "bills": [
+      "Bill 47 (2025)",
+      "Bill 56 (2025)",
+      "Bill 88 (2025)",
+      "Bill 75 (2025)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Water",
+      "since": "Jul 25, 2025",
+      "oneLine": "A committee recommended Bill 56, which would discount water rates for customers using water to conserve or restore native Hawaiian species habitat.",
+      "why": "",
+      "deadlines": [],
+      "next": "",
+      "brief": "A council member said the Water Department proposed the bill.[[#1]] A council member said it was unanimously supported in committee.[[#2]] The council passed the committee report on first reading with seven ayes.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Jul",
+          "day": "25",
+          "source": "Maui County Council Meeting",
+          "kind": "tv",
+          "title": "Maui County Council Meeting",
+          "note": "A committee recommended Bill 56, which would discount water rates for customers using water to conserve or restore native Hawaiian species habitat.",
+          "proof": "1:26:51",
+          "view": {
+            "type": "meeting",
+            "id": "IdiAmc4W5Zo"
+          },
+          "seek": "1:26:51"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Meeting · Jul 25",
+          "where": "Meeting video at 1:26:51",
+          "view": {
+            "type": "meeting",
+            "id": "IdiAmc4W5Zo"
+          },
+          "seek": "1:26:51"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Meeting · Jul 25",
+          "where": "Meeting video at 1:26:56",
+          "view": {
+            "type": "meeting",
+            "id": "IdiAmc4W5Zo"
+          },
+          "seek": "1:26:56"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Meeting · Jul 25",
+          "where": "Meeting video at 1:26:22",
+          "view": {
+            "type": "meeting",
+            "id": "IdiAmc4W5Zo"
+          },
+          "seek": "1:26:22"
+        }
+      ]
+    },
+    {
+      "issue": "Housing",
+      "since": "Jul 25, 2025",
+      "oneLine": "The County plans to buy back a Wailuku workforce home and grant it to a nonprofit so it stays affordable forever.",
+      "why": "The nonprofit's director said the home's current deed restriction will otherwise time out.",
+      "deadlines": [],
+      "next": "The last kūpuna housing tenant can move in August 1, 2025.",
+      "brief": "The program's operator said its waiting list is close to 60 people.[[#1]]",
+      "timeline": [
+        {
+          "mon": "Jul",
+          "day": "25",
+          "source": "Maui County Council Meeting",
+          "kind": "tv",
+          "title": "Maui County Council Meeting",
+          "note": "The County plans to buy back a Wailuku workforce home and grant it to a nonprofit so it stays affordable forever.",
+          "proof": "1:03:33",
+          "view": {
+            "type": "meeting",
+            "id": "IdiAmc4W5Zo"
+          },
+          "seek": "1:03:33"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Meeting · Jul 25",
+          "where": "Meeting video at 1:03:33",
+          "view": {
+            "type": "meeting",
+            "id": "IdiAmc4W5Zo"
+          },
+          "seek": "1:03:33"
+        }
+      ]
+    },
+    {
+      "issue": "Food Security",
+      "since": "Jul 25, 2025",
+      "oneLine": "Bill 75 allows agricultural tourism as an accessory use on working farms in the County agriculture district.",
+      "why": "The bill's sponsor said it gives farmers more options and will increase food security.",
+      "deadlines": [],
+      "next": "",
+      "brief": "The final version had non-substantive changes and County legal approval.[[#1]] The council passed the bill on second and final reading with seven ayes.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Jul",
+          "day": "25",
+          "source": "Maui County Council Meeting",
+          "kind": "tv",
+          "title": "Maui County Council Meeting",
+          "note": "Bill 75 allows agricultural tourism as an accessory use on working farms in the County agriculture district.",
+          "proof": "3:04:58",
+          "view": {
+            "type": "meeting",
+            "id": "IdiAmc4W5Zo"
+          },
+          "seek": "3:04:58"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Meeting · Jul 25",
+          "where": "Meeting video at 3:04:58",
+          "view": {
+            "type": "meeting",
+            "id": "IdiAmc4W5Zo"
+          },
+          "seek": "3:04:58"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Meeting · Jul 25",
+          "where": "Meeting video at 3:06:50",
+          "view": {
+            "type": "meeting",
+            "id": "IdiAmc4W5Zo"
+          },
+          "seek": "3:06:50"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

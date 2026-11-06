@@ -1,0 +1,148 @@
+{
+  "videoId": "sT3Zhgq1u2o",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-21T17:03:31.980Z",
+  "meetingDateISO": "2025-07-24",
+  "source": {
+    "youtubeUrl": "https://youtu.be/sT3Zhgq1u2o"
+  },
+  "headline": "Committee takes up Bill 9 phase-out dates, sends resort question to TIG",
+  "topics": [
+    "Housing",
+    "Disaster Recovery"
+  ],
+  "meeting": {
+    "id": "sT3Zhgq1u2o",
+    "mon": "Jul",
+    "day": "24",
+    "date": "Thu, Jul 24, 2025",
+    "body": "Maui County Council Housing and Land Use Committee",
+    "dur": "2 h 41 m",
+    "voteCount": 1,
+    "voteItem": "Motion to convene an executive session under section 92-5(a)(4), Hawaiʻi Revised Statutes",
+    "ayes": null,
+    "noes": null,
+    "summary": "Staff said the committee amended the phase-out dates to set a separate period for West Maui. The question of excluding resort properties will go to the TIG, and the administration said it would work with the council on a path for owners to seek rezoning.",
+    "recap": "Members moved and seconded a motion to recommend passing Bill 9 on first reading.[[0:37:30]] The committee voted to meet in executive session (a closed-door meeting) with its attorneys.[[0:59:54]] A member proposed ending the phase-out on December 31, 2028 in West Maui and December 31, 2030 elsewhere.[[1:23:08]] A member said the fire removed a lot of West Maui's housing.[[1:25:24]] The administration said it would work with the council on a path for owners to seek rezoning.[[2:00:00]] The substitute version, as amended, passed with nine ayes.[[2:17:04]]",
+    "decided": [
+      "A motion to exempt timeshares and uses allowed under a variance was moved and seconded, with no vote heard in the recording.",
+      "The committee voted by voice to go into executive session with its attorneys.",
+      "Staff said the committee amended the phase-out dates to set a separate period for West Maui."
+    ],
+    "next": "A member reminded colleagues they can still raise items at first reading. A member said a TIG will need to work on the issues not covered in this bill. The question of excluding resort properties will go to the TIG. Staff will make a remaining July 1, 2030 deadline in the bill match the new phase-out dates, with the body's agreement.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:16:10",
+        "q": "Point of order on executive session and the Sunshine Law"
+      },
+      {
+        "t": "1:25:24",
+        "q": "Reasons given for a faster West Maui phase-out"
+      },
+      {
+        "t": "1:44:44",
+        "q": "Chair warns the gallery about holding signs"
+      },
+      {
+        "t": "2:39:20",
+        "q": "\"Chair, that's six ayes, three nos. Motion passes.\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p",
+        "title": "Ending apartment vacation rentals and hotel rezoning of 48 properties"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Housing and Land Use Committee",
+        "group": "council",
+        "short": [
+          "HLU"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 9 (2025)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Disaster Recovery",
+      "since": "Jul 24, 2025",
+      "oneLine": "Staff said the committee amended the phase-out dates to set a separate period for West Maui.",
+      "why": "A member said the fire removed a lot of West Maui's housing.",
+      "deadlines": [
+        {
+          "d": "December 31st, 2028",
+          "t": "End of the phase-out period in the West Maui Community Plan area, as proposed."
+        }
+      ],
+      "next": "",
+      "brief": "The proposal ended the phase-out on December 31, 2028 in the West Maui Community Plan area.[[#1]] A member said some people who live and work in West Maui may sit in traffic four or more hours a day.[[#2]] A member said the Maui Planning Commission recommended a shorter period for West Maui.[[#3]] A member said the mayor's presentation estimated it would take 73 years to build 2,200 homes in Lahaina.[[#4]]",
+      "timeline": [
+        {
+          "mon": "Jul",
+          "day": "24",
+          "source": "Maui County Council Housing and Land Use Committee",
+          "kind": "tv",
+          "title": "Maui County Council Housing and Land Use Committee",
+          "note": "Staff said the committee amended the phase-out dates to set a separate period for West Maui.",
+          "proof": "1:23:08",
+          "view": {
+            "type": "meeting",
+            "id": "sT3Zhgq1u2o"
+          },
+          "seek": "1:23:08"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Housing and Land Use Committee · Jul 24",
+          "where": "Meeting video at 1:23:08",
+          "view": {
+            "type": "meeting",
+            "id": "sT3Zhgq1u2o"
+          },
+          "seek": "1:23:08"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Housing and Land Use Committee · Jul 24",
+          "where": "Meeting video at 1:25:50",
+          "view": {
+            "type": "meeting",
+            "id": "sT3Zhgq1u2o"
+          },
+          "seek": "1:25:50"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Housing and Land Use Committee · Jul 24",
+          "where": "Meeting video at 1:27:43",
+          "view": {
+            "type": "meeting",
+            "id": "sT3Zhgq1u2o"
+          },
+          "seek": "1:27:43"
+        },
+        {
+          "n": 4,
+          "title": "Maui County Council Housing and Land Use Committee · Jul 24",
+          "where": "Meeting video at 1:28:43",
+          "view": {
+            "type": "meeting",
+            "id": "sT3Zhgq1u2o"
+          },
+          "seek": "1:28:43"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

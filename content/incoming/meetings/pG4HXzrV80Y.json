@@ -1,0 +1,109 @@
+{
+  "videoId": "pG4HXzrV80Y",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-17T01:10:00.740Z",
+  "meetingDateISO": "2026-09-28",
+  "source": {
+    "youtubeUrl": "https://youtu.be/pG4HXzrV80Y"
+  },
+  "headline": "Committee amends South Maui Community Plan actions and defers the item",
+  "topics": [
+    "Water"
+  ],
+  "meeting": {
+    "id": "pG4HXzrV80Y",
+    "mon": "Sep",
+    "day": "28",
+    "date": "Mon, Sep 28, 2026",
+    "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+    "dur": "5 h 54 m",
+    "voteCount": 5,
+    "voteItem": "Amend Action 4.19 (Ridge to Reef initiative)",
+    "ayes": 8,
+    "noes": 0,
+    "summary": "The committee voted 8–0 to support a Ridge to Reef group and 7–0 for a tourism impacts plan, then deferred the item. It plans to meet Wednesday morning for more public testimony, starting with Planning Department presentations.",
+    "recap": "The committee resumed its review of the South Maui Community Plan.[[0:06:33]] Members voted 8–0 to support a South Maui Ridge to Reef group or similar nonprofit to reduce reef pollution.[[1:45:00]] Members passed a change asking for easy public tracking of approved developments and settlement agreements.[[4:16:28]] Members passed a change for legislation on a South Maui cultural overlay map, a map to protect cultural sites.[[4:50:41]] Members voted 7–0 for a tourism impacts plan that must prioritize Native Hawaiian cultural practices and shoreline access.[[5:48:28]] The committee deferred the item, and its main motion as amended carries over.[[5:52:41]] The committee plans to meet again Wednesday morning and take more public testimony.[[5:53:03]]",
+    "decided": [
+      "Members changed Action 4.19 to support creating a South Maui Ridge to Reef initiative or similar nonprofit to reduce land-based pollution that damages coral reefs.",
+      "Action 5.04 on cultural advisor engagement was set aside for a later revisit.",
+      "Members changed Action 5.06 on locations for art and cultural events from short to ongoing timing.",
+      "Members changed Action 5.09, encouraging the state to do archaeological surveys, from mid to ongoing timing.",
+      "Members added federal and private funding sources to Action 5.10 on cultural centers and museums.",
+      "Members changed the lead agency for Action 5.12 on signs to the department captioned as OUV resources."
+    ],
+    "next": "Wednesday's meeting will start with Planning Department presentations, then public testimony, then review of Section 3.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:06:42",
+        "q": "Reading of South Maui's draft vision statement"
+      },
+      {
+        "t": "0:40:48",
+        "q": "\"Please hear me. You've created a death trap.\""
+      },
+      {
+        "t": "4:42:34",
+        "q": "Council gets its first action item from a community plan advisory committee"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "south-maui-community-plan-review",
+        "title": "South Maui Community Plan review"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Disaster Recovery, International Affairs, and Planning Committee",
+        "group": "council",
+        "short": [
+          "DRIP"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Water",
+      "since": "Sep 28, 2026",
+      "oneLine": "The committee changed a plan action to support monitoring water quality in all South Maui nearshore waters, focusing on runoff from gulches and streams.",
+      "why": "The chair said the effects of runoff from major gulches are seen in the nearshore waters.",
+      "deadlines": [],
+      "next": "",
+      "brief": "The Department of Management will lead the monitoring action and can bring in other departments as needed.[[#1]]",
+      "timeline": [
+        {
+          "mon": "Sep",
+          "day": "28",
+          "source": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+          "kind": "tv",
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+          "note": "The committee changed a plan action to support monitoring water quality in all South Maui nearshore waters, focusing on runoff from gulches and streams.",
+          "proof": "2:13:00",
+          "view": {
+            "type": "meeting",
+            "id": "pG4HXzrV80Y"
+          },
+          "seek": "2:13:00"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Sep 28",
+          "where": "Meeting video at 2:13:00",
+          "view": {
+            "type": "meeting",
+            "id": "pG4HXzrV80Y"
+          },
+          "seek": "2:13:00"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

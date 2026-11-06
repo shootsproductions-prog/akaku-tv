@@ -1,0 +1,125 @@
+{
+  "videoId": "MGkdTfx_zJI",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T15:22:31.344Z",
+  "meetingDateISO": "2026-08-24",
+  "source": {
+    "youtubeUrl": "https://youtu.be/MGkdTfx_zJI"
+  },
+  "headline": "Committee recommends Bill 90 on first reading for Haʻikū Fire Station",
+  "topics": [
+    "Food Security"
+  ],
+  "meeting": {
+    "id": "MGkdTfx_zJI",
+    "mon": "Aug",
+    "day": "24",
+    "date": "Mon, Aug 24, 2026",
+    "body": "Maui County Council Housing and Land Use Committee",
+    "dur": "2 h 24 m",
+    "voteCount": 2,
+    "voteItem": "Motion to go into executive session",
+    "ayes": 6,
+    "noes": null,
+    "summary": "The committee took up Bills 89, 90 and 91 for a proposed Haʻikū Fire Station and met in executive session. It required the parcel's remaining farm land to be used for subsistence agriculture, and staff will work with attorneys on the wording.",
+    "recap": "Before it were Bills 89, 90 and 91 for a proposed Haʻikū Fire Station.[[0:04:09]] The chair said the Board of Ethics cleared her to vote on the bills.[[0:04:38]] The committee met in executive session, a closed-door meeting with its attorneys.[[0:38:09]] A resource person said he may seek a court order that would delay the project.[[0:46:03]] One councilmember said, \"I'll be voting no on this bill.\".[[2:11:04]] Bill 90, a community plan amendment, was recommended to pass on first reading, 6–2 with one excused.[[2:16:02]] A motion recommended Bill 91, a zoning change, on first reading.[[2:17:11]] The final roll call ended with six ayes, and the motion carried.[[2:23:14]]",
+    "decided": [
+      "The committee voted to go into executive session.",
+      "The committee recommended Bill 90 pass on first reading."
+    ],
+    "next": "A councilmember said staff will work with the attorneys on the wording of the subsistence agriculture condition. Staff agreed to add the full June 5 council testimony packet to the committee item.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:17:05",
+        "q": "\"The Haʻikū fire station is built for the future.\""
+      },
+      {
+        "t": "2:11:04",
+        "q": "\"I'll be voting no on this bill.\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "haiku-fire-station-awaits-county-council-approval",
+        "title": "Haʻikū fire station awaits County Council approval"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Housing and Land Use Committee",
+        "group": "council",
+        "short": [
+          "HLU"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 89 (2026)",
+      "Bill 90 (2026)",
+      "Bill 91 (2026)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Food Security",
+      "since": "Aug 24, 2026",
+      "oneLine": "The committee required the parcel's remaining farm land to be used for subsistence agriculture.",
+      "why": "The councilmember who proposed it said food is getting so expensive.",
+      "deadlines": [],
+      "next": "Staff will work with the attorneys on the wording of the condition.",
+      "brief": "The proposer said she hopes it becomes a pilot program because the County claims ownership of a lot of farm land.[[#1]] The proposer said the requirement is a \"must,\" not a \"may.\".[[#2]] The amendment passed with eight ayes, no noes and one excused.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Aug",
+          "day": "24",
+          "source": "Maui County Council Housing and Land Use Committee",
+          "kind": "tv",
+          "title": "Maui County Council Housing and Land Use Committee",
+          "note": "The committee required the parcel's remaining farm land to be used for subsistence agriculture.",
+          "proof": "1:43:12",
+          "view": {
+            "type": "meeting",
+            "id": "MGkdTfx_zJI"
+          },
+          "seek": "1:43:12"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Housing and Land Use Committee · Aug 24",
+          "where": "Meeting video at 1:43:12",
+          "view": {
+            "type": "meeting",
+            "id": "MGkdTfx_zJI"
+          },
+          "seek": "1:43:12"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Housing and Land Use Committee · Aug 24",
+          "where": "Meeting video at 1:48:26",
+          "view": {
+            "type": "meeting",
+            "id": "MGkdTfx_zJI"
+          },
+          "seek": "1:48:26"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Housing and Land Use Committee · Aug 24",
+          "where": "Meeting video at 1:49:03",
+          "view": {
+            "type": "meeting",
+            "id": "MGkdTfx_zJI"
+          },
+          "seek": "1:49:03"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

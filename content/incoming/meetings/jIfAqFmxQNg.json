@@ -1,0 +1,115 @@
+{
+  "videoId": "jIfAqFmxQNg",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-17T02:25:28.393Z",
+  "meetingDateISO": "2026-04-21",
+  "source": {
+    "youtubeUrl": "https://youtu.be/jIfAqFmxQNg"
+  },
+  "headline": "Committee sets ʻOhana Assistance Program minimum, cuts $140,000 for new positions",
+  "topics": [
+    "Housing"
+  ],
+  "meeting": {
+    "id": "jIfAqFmxQNg",
+    "mon": "Apr",
+    "day": "21",
+    "date": "Tue, Apr 21, 2026",
+    "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+    "dur": "1 h 11 m",
+    "voteCount": 2,
+    "voteItem": "Add pending department grants to Appendix A, Part 1",
+    "ayes": 9,
+    "noes": null,
+    "summary": "Members voted with nine ayes to add missing license classes to the liquor fee list and to set at least $3 million for ʻOhana Assistance Program grants. A $35,000 Personnel Services cut failed. The meeting continues tomorrow at 10.",
+    "recap": "State law caps an underage drinking prevention program at $22,000, so members could not add money to it.[[0:01:52]] Members voted with nine ayes to add missing license classes to the liquor fee list.[[0:04:39]] Members cut $140,000 meant for new positions in a second department's budget, with nine ayes.[[0:09:06]] Members voted with nine ayes to list that department's pending grants in the budget ahead of time.[[0:19:51]] A member proposed cutting $35,000 from Personnel Services for rented training space.[[0:21:33]] The cut failed in a roll-call vote.[[0:27:32]] Members cut $150,000 from the Planning Department, based on past unspent money, with nine ayes.[[0:30:00]] A motion would add $170,000 for security at the bus hub.[[0:40:02]] A member proposed letting students of any age with a valid ID ride the bus fare free.[[0:45:20]] A motion set that at least $3 million may go to ʻOhana Assistance Program grants of up to $100,000 each.[[1:03:34]] It passed with nine ayes.[[1:05:30]] The meeting is set to continue tomorrow at 10.[[1:10:44]]",
+    "decided": [
+      "Members approved listing the department's pending grants in Appendix A, Part 1.",
+      "Members cut $150,000 from the Planning Department's Category A.",
+      "A vote was called on adding $170,000 for bus hub security, but the result is not in the recording.",
+      "The outcome of the student bus fare amendment is not in the recording."
+    ],
+    "next": "Members plan to take up Human Concerns, Management, the Mayor, Parks, and Police next. A member asked that a police bond-funding offset be sent in writing for when members review Police.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:14:38",
+        "q": "\"It's on behalf of the county for things seen and unseen\""
+      },
+      {
+        "t": "0:27:32",
+        "q": "Confusion over the Personnel roll-call count"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "expanding-fare-free-bus-passes",
+        "title": "Expanding fare-free bus passes"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Budget, Finance, and Economic Development Committee",
+        "group": "council",
+        "short": [
+          "BFED"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 55 (2026)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Apr 21, 2026",
+      "oneLine": "Members set that at least $3 million may go to ʻOhana Assistance Program grants.",
+      "why": "The chair wanted to make sure the program keeps at least $3 million if the fund's $11 million is used elsewhere.",
+      "deadlines": [],
+      "next": "A speaker said the department was told by text that members want it to award $3 million next year.",
+      "brief": "The grants are up to $100,000 each for qualified Maui County residents in the ʻohana assistance program.[[#1]] The ʻohana assistance condition passed with nine ayes.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Apr",
+          "day": "21",
+          "source": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "kind": "tv",
+          "title": "Council members amend Bill 55 budget, department by department",
+          "note": "Members set that at least $3 million may go to ʻOhana Assistance Program grants.",
+          "proof": "0:56:52",
+          "view": {
+            "type": "meeting",
+            "id": "jIfAqFmxQNg"
+          },
+          "seek": "0:56:52"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 21",
+          "where": "Meeting video at 0:56:52",
+          "view": {
+            "type": "meeting",
+            "id": "jIfAqFmxQNg"
+          },
+          "seek": "0:56:52"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 21",
+          "where": "Meeting video at 1:05:30",
+          "view": {
+            "type": "meeting",
+            "id": "jIfAqFmxQNg"
+          },
+          "seek": "1:05:30"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

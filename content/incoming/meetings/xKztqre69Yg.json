@@ -1,0 +1,64 @@
+{
+  "videoId": "xKztqre69Yg",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T17:21:47.501Z",
+  "meetingDateISO": "2026-07-02",
+  "source": {
+    "youtubeUrl": "https://youtu.be/xKztqre69Yg"
+  },
+  "headline": "Committee discusses Bill 95 bus fares; motion on bill passes with seven ayes",
+  "topics": [],
+  "meeting": {
+    "id": "xKztqre69Yg",
+    "mon": "Jul",
+    "day": "2",
+    "date": "Thu, Jul 2, 2026",
+    "body": "Maui County Council Agriculture, Diversification, Environment, & Public Transportation Committee",
+    "dur": "35 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "Bill 95 would write new bus fares into County code, and the director discussed up to 14 fare-free days, each costing about $2,806 in uncollected fares. A motion on the bill passed with seven ayes and no noes.",
+    "recap": "The committee's only agenda item was Bill 95.[[0:03:04]] New bus fares in the fiscal year 2027 budget took effect the day before, and Bill 95 would write them into County code.[[0:03:27]] He named the Maui County Fair and Earth Day as possible free-ride days.[[0:06:26]] No one signed up to give public testimony.[[0:06:51]] The director said his department's total budget is about $27 million.[[0:11:40]] He estimated the County would not collect about $2,806 in fares for each free day.[[0:12:01]] He said ridership is expected to rise about 2% to 3% over the prior fiscal year.[[0:13:07]] One council member said bus frequency and reach matter more than cost in getting people to ride.[[0:19:09]] The director said federal funding rules mean free regular bus routes would also make paratransit, the ADA ride service, free.[[0:23:49]] He said the department would notify the council by a letter through the mayor's office.[[0:29:24]] A motion on the bill passed with seven ayes and no noes.[[0:33:45]]",
+    "decided": [],
+    "next": "If the bill moves forward, the director said the department would need an updated talk with MEO about the fare-free application process. The director said fare-free day notices would go to the council chair by a letter through the mayor's office. The committee chair said making buses free for everyone would be discussed later as the program rolls out.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:05:40",
+        "q": "Director explains up to 14 fare-free days"
+      },
+      {
+        "t": "0:23:21",
+        "q": "Why buses can't simply be free for everyone"
+      },
+      {
+        "t": "0:33:45",
+        "q": "\"Chair, that's seven ayes. No nos.\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "expanding-fare-free-bus-passes",
+        "title": "Expanding fare-free bus passes"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Agriculture, Diversification, Environment, and Public Transportation Committee",
+        "group": "council",
+        "short": [
+          "ADEPT"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 95 (2026)"
+    ]
+  },
+  "issues": [],
+  "bodyType": "council"
+}

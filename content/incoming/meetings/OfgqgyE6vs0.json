@@ -1,0 +1,66 @@
+{
+  "videoId": "OfgqgyE6vs0",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-22T07:21:21.252Z",
+  "meetingDateISO": "2026-10-21",
+  "source": {
+    "youtubeUrl": "https://youtu.be/OfgqgyE6vs0"
+  },
+  "headline": "Committee backs bill adding housing land at Maui tech park",
+  "topics": [
+    "Housing"
+  ],
+  "meeting": {
+    "id": "OfgqgyE6vs0",
+    "mon": "Oct",
+    "day": "21",
+    "date": "Wed, Oct 21, 2026",
+    "body": "Maui County Council Housing and Land Use Committee",
+    "dur": "47 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "Committee backs bill adding housing land at Maui tech park.",
+    "recap": "One testifier asked the committee to wait until after the election to act on the item.[[0:16:03]] The main item was Bill 141 (2026), which would change county code for the Maui Research and Technology Park.[[0:18:53]] The top reason given for the bill was to switch part of the park's commercial land to residential land.[[0:24:36]] The representative said Maui has a critical need for housing, while demand for commercial space is low.[[0:24:44]] The cap on homes in the district stays at 1,250 units.[[0:26:21]] The bill would also allow minor medical centers in the park's civic district.[[0:27:22]] The planning director said the county plans a study to find a location for a South Maui transit hub.[[0:36:03]] The committee chair said residential land in the park would grow from 102.3 acres to 158 acres.[[0:43:45]]",
+    "decided": [],
+    "next": "After the recess, the committee planned to move on to its next agenda item.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:24:44",
+        "q": "\"There is a critical need for housing across Maui while the demand for commercial is low.\""
+      },
+      {
+        "t": "0:36:03",
+        "q": "Planning director on a South Maui transit hub study"
+      },
+      {
+        "t": "0:45:30",
+        "q": "The vote on Bill 141"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "maui-research-and-technology-park-land-designation",
+        "title": "Maui Research and Technology Park land designation"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Housing and Land Use Committee",
+        "group": "council",
+        "short": [
+          "HLU"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 141 (2026)"
+    ]
+  },
+  "issues": [],
+  "bodyType": "council"
+}

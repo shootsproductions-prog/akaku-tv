@@ -1,0 +1,123 @@
+{
+  "videoId": "r35y6R967gY",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T23:32:54.189Z",
+  "meetingDateISO": "2026-06-05",
+  "source": {
+    "youtubeUrl": "https://youtu.be/r35y6R967gY"
+  },
+  "headline": "Council files Bill 102 Wailuku property funding, discusses Bill 88 hotel districts",
+  "topics": [
+    "Water",
+    "Housing",
+    "Disaster Recovery"
+  ],
+  "meeting": {
+    "id": "r35y6R967gY",
+    "mon": "Jun",
+    "day": "5",
+    "date": "Fri, Jun 5, 2026",
+    "body": "Maui County Council Meeting",
+    "dur": "4 h 51 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "Members voted 9–0 to file Bill 102, which would fund buying a Wailuku property. They also discussed Bill 88, which would create H3 and H4 hotel districts for A1 and A2 apartment-district properties, and a budget amendment directing up to $3 million to Maui Economic Opportunity Inc.",
+    "recap": "The chair announced that former council member Rick Medina had passed away.[[0:05:06]] A testifier urged the council to pass Bill 88, which creates H3 and H4 zoning, unchanged.[[0:16:20]] Another testifier opposed Bills 89, 90 and 91, citing concerns about ancestral burials on the land.[[0:52:38]] A council member moved to file, or set aside, Bill 102, which would fund buying a Wailuku property.[[2:00:15]] That motion passed 9–0.[[2:06:52]] Bill 88 would create H3 and H4 hotel districts that conditionally allow vacation rentals being phased out of apartment districts.[[2:09:35]] A budget amendment directs up to $3 million to Maui Economic Opportunity Inc. for an Upcountry wildfire rebuild pilot program.[[4:06:19]]",
+    "decided": [],
+    "next": "A county attorney said they would move a clarifying ordinance on open space fund appropriations as quickly as possible.",
+    "votes": [],
+    "moments": [],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p",
+        "title": "Ending apartment vacation rentals and hotel rezoning of 48 properties"
+      },
+      {
+        "slug": "water-system-development-fee-based-on-daily-use",
+        "title": "Water system development fee based on daily use"
+      },
+      {
+        "slug": "lower-waiehu-beach-road-land-purchase-and-title-dispute",
+        "title": "Lower Waiehu Beach Road land purchase and title dispute"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Maui County Council",
+        "group": "council",
+        "short": []
+      }
+    ],
+    "bills": [
+      "Bill 88 (2026)",
+      "Bill 89 (2026)",
+      "Bill 90 (2026)",
+      "Bill 91 (2026)",
+      "Bill 102 (2026)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Jun 5, 2026",
+      "oneLine": "Bill 88 would create H3 and H4 hotel districts for properties now in A1 and A2 apartment districts.",
+      "why": "Vacation rental use is being phased out of apartment districts, and the new districts would conditionally allow it.",
+      "deadlines": [],
+      "next": "A county attorney said a related tax question could be looked into before second reading.",
+      "brief": "A legal advisor said the list of possibly qualifying properties is informational and does not stop others from applying.[[#1]] Members amended the bill so expansion of the existing total square footage of the floor area is prohibited.[[#2]] The roll call recorded seven ayes.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Jun",
+          "day": "5",
+          "source": "Maui County Council Meeting",
+          "kind": "tv",
+          "title": "Maui County Council Meeting",
+          "note": "Bill 88 would create H3 and H4 hotel districts for properties now in A1 and A2 apartment districts.",
+          "proof": "2:33:31",
+          "view": {
+            "type": "meeting",
+            "id": "r35y6R967gY"
+          },
+          "seek": "2:33:31"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Meeting · Jun 5",
+          "where": "Meeting video at 2:33:31",
+          "view": {
+            "type": "meeting",
+            "id": "r35y6R967gY"
+          },
+          "seek": "2:33:31"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Meeting · Jun 5",
+          "where": "Meeting video at 2:42:41",
+          "view": {
+            "type": "meeting",
+            "id": "r35y6R967gY"
+          },
+          "seek": "2:42:41"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Meeting · Jun 5",
+          "where": "Meeting video at 3:04:03",
+          "view": {
+            "type": "meeting",
+            "id": "r35y6R967gY"
+          },
+          "seek": "3:04:03"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

@@ -1,0 +1,53 @@
+{
+  "videoId": "wHzZb3W4vXA",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T04:45:10.191Z",
+  "meetingDateISO": "2026-09-09",
+  "source": {
+    "youtubeUrl": "https://youtu.be/wHzZb3W4vXA"
+  },
+  "headline": "Housing and Land Use Committee members ask to defer property tax item",
+  "topics": [],
+  "meeting": {
+    "id": "wHzZb3W4vXA",
+    "mon": "Sep",
+    "day": "9",
+    "date": "Wed, Sep 9, 2026",
+    "body": "Maui County Council Housing and Land Use Committee",
+    "dur": "25 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "Members asked to defer an item after staff who could answer questions were not present. Earlier discussion included the Finance Department's description of a tax correction as a department error.",
+    "recap": "A member asked to defer the item because staff who could answer questions were not present.[[0:22:56]] Another member also asked to defer it.[[0:23:20]]",
+    "decided": [],
+    "next": "Members asked that the item be deferred.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:15:13",
+        "q": "\"finance itself labeled the correction as department error\""
+      },
+      {
+        "t": "0:23:06",
+        "q": "\"I think it's time to just defer this and be done with it.\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [],
+    "boards": [
+      {
+        "name": "Housing and Land Use Committee",
+        "group": "council",
+        "short": [
+          "HLU"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "council"
+}

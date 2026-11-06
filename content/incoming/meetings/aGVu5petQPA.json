@@ -1,0 +1,120 @@
+{
+  "videoId": "aGVu5petQPA",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-16T20:27:24.023Z",
+  "meetingDateISO": "2026-06-15",
+  "source": {
+    "youtubeUrl": "https://youtu.be/aGVu5petQPA"
+  },
+  "headline": "Committee discusses Bill 77 on Affordable Housing Fund and houseless residents, recesses",
+  "topics": [
+    "Housing"
+  ],
+  "meeting": {
+    "id": "aGVu5petQPA",
+    "mon": "Jun",
+    "day": "15",
+    "date": "Mon, Jun 15, 2026",
+    "body": "Maui County Council Water Authority, Social Services, and Parks Committee",
+    "dur": "1 h 31 m",
+    "voteCount": 1,
+    "voteItem": "Taking testimony after opening comments",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee heard public testimony and questions on Bill 77, which would require part of the Affordable Housing Fund to go toward housing for houseless people. It recessed with a second round of member questions still to come; no vote was reported.",
+    "recap": "The only item was Bill 77, about the Affordable Housing Fund and houseless residents.[[0:07:06]] The bill would require part of the fund to go toward housing for people who are houseless.[[0:07:35]] The committee chair said HUD changed its homeless funding program as of June 1.[[0:08:32]] A testifier said they have never met anyone who does not want safety or shelter.[[0:23:36]] A testifier living in affordable housing said they were told to pay $85 a month for parking they say should be free.[[0:34:29]] Another testifier strongly supported Bill 77.[[0:45:47]] The director said early data shows the most need is in Central Maui.[[1:04:05]] The director said the department must plan with the Department of Human Concerns before seeking building designs.[[1:04:51]] A council member said they support the change to county law but not spending money until there is a design.[[1:09:46]] The director said the department will focus on houselessness whether or not the bill passes.[[1:28:13]]",
+    "decided": [
+      "Members agreed to take public testimony after opening comments."
+    ],
+    "next": "The committee recessed with a second round of member questions still to come.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:09:58",
+        "q": "Public testimony begins"
+      },
+      {
+        "t": "0:23:36",
+        "q": "\"I've never once met anyone who doesn't want to get into safety or shelter.\""
+      },
+      {
+        "t": "0:56:36",
+        "q": "Director: bill \"could be interpreted as redundant\""
+      },
+      {
+        "t": "1:09:25",
+        "q": "\"I'm not ready to vote on something like this.\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "bill-77-setting-aside-housing-fund-for-houseless-residents",
+        "title": "Bill 77 setting aside housing fund for houseless residents"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Water Authority, Social Services, and Parks Committee",
+        "group": "council",
+        "short": [
+          "WASSP"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 77 (2026)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Jun 15, 2026",
+      "oneLine": "The committee is reviewing Bill 77, which would require part of the Affordable Housing Fund to be used for houseless residents.",
+      "why": "A testifier said many families remain displaced and struggle to find stable housing.",
+      "deadlines": [],
+      "next": "The committee recessed with a second round of member questions still to come.",
+      "brief": "A council member said they see vacancies at existing shelters.[[#1]] The director said the department has a list of county properties it is targeting for development.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Jun",
+          "day": "15",
+          "source": "Maui County Council Water Authority, Social Services, and Parks Committee",
+          "kind": "tv",
+          "title": "Committee hears testimony on using housing fund for houseless",
+          "note": "The committee is reviewing Bill 77, which would require part of the Affordable Housing Fund to be used for houseless residents.",
+          "proof": "1:01:10",
+          "view": {
+            "type": "meeting",
+            "id": "aGVu5petQPA"
+          },
+          "seek": "1:01:10"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Jun 15",
+          "where": "Meeting video at 1:01:10",
+          "view": {
+            "type": "meeting",
+            "id": "aGVu5petQPA"
+          },
+          "seek": "1:01:10"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Jun 15",
+          "where": "Meeting video at 1:21:51",
+          "view": {
+            "type": "meeting",
+            "id": "aGVu5petQPA"
+          },
+          "seek": "1:21:51"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

@@ -1,0 +1,139 @@
+{
+  "videoId": "Rn2tS9VtKOk",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-21T19:49:05.305Z",
+  "meetingDateISO": "2025-02-19",
+  "source": {
+    "youtubeUrl": "https://youtu.be/Rn2tS9VtKOk"
+  },
+  "headline": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+  "topics": [
+    "Housing",
+    "Disaster Recovery"
+  ],
+  "meeting": {
+    "id": "Rn2tS9VtKOk",
+    "mon": "Feb",
+    "day": "19",
+    "date": "Wed, Feb 19, 2025",
+    "body": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+    "dur": "2 h 54 m",
+    "voteCount": 3,
+    "voteItem": "Motion to substitute Resolution 25-49 with the proposed CD1 version",
+    "ayes": 8,
+    "noes": 0,
+    "summary": "The committee voted eight to zero to recommend buying land in Lahaina and deferred Bills 103 and 104.",
+    "recap": "Resolution 25-49 would let the County buy a parcel of land in Lahaina.[[0:06:13]] The managing director said other buyers were interested in the property.[[0:13:18]] The managing director said he believed the purchase would use bond money approved for roadway evacuation routes.[[0:17:29]] A council member called the $1.7 million price excessive for an undeveloped half acre.[[0:18:56]] The committee voted eight to zero to recommend adopting the resolution, with one member excused.[[0:26:14]] The Grassroot Institute of Hawaiʻi supported the bill.[[0:57:01]] The fire captain said fire officials cannot require extra fire protection when several homes are built on one lot to code.[[2:17:21]] The committee deferred (put off) Bill 103 with no objections.[[2:49:42]] The committee deferred Bill 104 with no objections.[[2:52:46]] The committee tentatively plans to take up both bills on March 19, with a presentation on \"missing middle\" housing.[[2:53:04]]",
+    "decided": [
+      "The committee replaced the resolution with a revised version (CD1) that corrects the property owner's names.",
+      "The committee deferred Bill 103 with no objections.",
+      "The committee deferred Bill 104 with no objections."
+    ],
+    "next": "Members' written questions will go to the departments so answers can come back before the next meeting.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:19:13",
+        "q": "\"$1.7 million for an undeveloped half acre is just excessive.\""
+      },
+      {
+        "t": "0:29:14",
+        "q": "Planning Department presents Bill 103"
+      },
+      {
+        "t": "1:02:58",
+        "q": "\"I oppose this bill.\""
+      },
+      {
+        "t": "2:17:21",
+        "q": "Fire captain on fire protection when several homes share a lot"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "bill-104-kitchenettes-for-rebuilding-homes",
+        "title": "Bill 104 kitchenettes for rebuilding homes"
+      },
+      {
+        "slug": "fire-department-input-on-housing-density-bills",
+        "title": "Fire department input on housing density bills"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Disaster Recovery, International Affairs, and Planning Committee",
+        "group": "council",
+        "short": [
+          "DRIP"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 103 (2025)",
+      "Bill 104 (2025)",
+      "Resolution 25-49"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Disaster Recovery",
+      "since": "Feb 19, 2025",
+      "oneLine": "The Office of Recovery asked to buy land in Lahaina for a community corridor project in the Lahaina long-term recovery plan.",
+      "why": "",
+      "deadlines": [],
+      "next": "",
+      "brief": "The chair said this parcel alone would not be enough to create an emergency evacuation route.[[#1]] The managing director said the main reason for buying the land is roadway evacuation routes.[[#2]] The committee voted eight to zero to recommend the purchase.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Feb",
+          "day": "19",
+          "source": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+          "kind": "tv",
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee",
+          "note": "The Office of Recovery asked to buy land in Lahaina for a community corridor project in the Lahaina long-term recovery plan.",
+          "proof": "0:15:57",
+          "view": {
+            "type": "meeting",
+            "id": "Rn2tS9VtKOk"
+          },
+          "seek": "0:15:57"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Feb 19",
+          "where": "Meeting video at 0:15:57",
+          "view": {
+            "type": "meeting",
+            "id": "Rn2tS9VtKOk"
+          },
+          "seek": "0:15:57"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Feb 19",
+          "where": "Meeting video at 0:22:35",
+          "view": {
+            "type": "meeting",
+            "id": "Rn2tS9VtKOk"
+          },
+          "seek": "0:22:35"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Disaster Recovery, International Affairs, and Planning Committee · Feb 19",
+          "where": "Meeting video at 0:26:14",
+          "view": {
+            "type": "meeting",
+            "id": "Rn2tS9VtKOk"
+          },
+          "seek": "0:26:14"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

@@ -1,0 +1,135 @@
+{
+  "videoId": "MwEGyy1Tcr4",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-17T00:26:25.597Z",
+  "meetingDateISO": "2026-05-19",
+  "source": {
+    "youtubeUrl": "https://youtu.be/MwEGyy1Tcr4"
+  },
+  "headline": "Committee recommends Bill 83 on first reading, 9-0, and discusses Hālau funds and grants",
+  "topics": [
+    "Water",
+    "Housing"
+  ],
+  "meeting": {
+    "id": "MwEGyy1Tcr4",
+    "mon": "May",
+    "day": "19",
+    "date": "Tue, May 19, 2026",
+    "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+    "dur": "2 h 28 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee recommended Bill 83 on first reading with nine ayes, moving $372,933 from the Sewer Fund to the open space fund for Central Maui Wastewater Facility land. It also discussed Bill 69 on grants and Hālau funding.",
+    "recap": "The budget change would restore items cut from the contract, like kitchen equipment and rooftop solar.[[0:38:21]] Bill 69 would let County agencies pay grants upfront or in installments.[[1:16:30]] The committee recommended Bill 83 on first reading with nine ayes.[[1:49:04]] The chair said the church may put the land on the open market if the County does not act.[[2:06:06]] A council member's office will contact the family before first reading.[[2:24:54]] The chair will take it up at the next meeting.[[2:27:22]]",
+    "decided": [],
+    "next": "Staff will send the administration written questions on the Hālau funds, including a full cost breakdown, ahead of second reading. A management plan for the Hālau building will be brought back to the Council.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:21:25",
+        "q": "Family testimony asking to defer Bill 102"
+      },
+      {
+        "t": "0:40:05",
+        "q": "A speaker recalls first testifying for the Hālau as a kumu hula"
+      },
+      {
+        "t": "2:06:01",
+        "q": "Chair: church may put the land on the open market"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "countywide-rules-for-managing-county-grants",
+        "title": "Countywide rules for managing county grants"
+      },
+      {
+        "slug": "central-maui-wastewater-reclamation-facility-funding",
+        "title": "Central Maui wastewater reclamation facility funding"
+      },
+      {
+        "slug": "lower-waiehu-beach-road-land-purchase-and-title-dispute",
+        "title": "Lower Waiehu Beach Road land purchase and title dispute"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Budget, Finance, and Economic Development Committee",
+        "group": "council",
+        "short": [
+          "BFED"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 69 (2026)",
+      "Bill 83 (2026)",
+      "Bill 102 (2026)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Water",
+      "since": "May 19, 2026",
+      "oneLine": "The committee backed moving $372,933 from the Sewer Fund to the open space fund for land needed for the Central Maui Wastewater Facility.",
+      "why": "The open space fund is limited to land conservation, so it must be repaid for the part of the parcel used for wastewater.",
+      "deadlines": [],
+      "next": "",
+      "brief": "The parcel was first bought with open space money for about $5.2 million.[[#1]] The wastewater project needs 7.13 percent of the parcel, or 14.9 of its 209 acres.[[#2]] The committee recommended the bill on first reading with nine ayes.[[#3]]",
+      "timeline": [
+        {
+          "mon": "May",
+          "day": "19",
+          "source": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "kind": "tv",
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "note": "The committee backed moving $372,933 from the Sewer Fund to the open space fund for land needed for the Central Maui Wastewater Facility.",
+          "proof": "1:45:22",
+          "view": {
+            "type": "meeting",
+            "id": "MwEGyy1Tcr4"
+          },
+          "seek": "1:45:22"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · May 19",
+          "where": "Meeting video at 1:45:22",
+          "view": {
+            "type": "meeting",
+            "id": "MwEGyy1Tcr4"
+          },
+          "seek": "1:45:22"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · May 19",
+          "where": "Meeting video at 1:46:46",
+          "view": {
+            "type": "meeting",
+            "id": "MwEGyy1Tcr4"
+          },
+          "seek": "1:46:46"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · May 19",
+          "where": "Meeting video at 1:49:04",
+          "view": {
+            "type": "meeting",
+            "id": "MwEGyy1Tcr4"
+          },
+          "seek": "1:49:04"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}
