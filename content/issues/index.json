@@ -217,12 +217,13 @@
     "half-percent-general-excise-tax-surcharge.json",
     "axis-deer-damage-and-control-programs.json",
     "malama-kula-green-waste-and-fire-fuel-work.json",
-    "kula-ag-park-expansion-and-new-farm-reservoir.json"
+    "kula-ag-park-expansion-and-new-farm-reservoir.json",
+    "planning-commission-appointment-fight-and-lawsuit.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-11-06T03:26:33.215Z",
-  "etag": "7fc7ec648b4cf51f04ed9c329847eadfc5350e77b96cd4d4492135ea06e6cb9b",
+  "updatedAt": "2026-11-06T03:28:09.862Z",
+  "etag": "bb921313799d2fa5ceac2039e603dafa2eabf4e3840898ab94e3f4772deb4749",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-11-05T10:26:13.896Z",
@@ -1095,6 +1096,10 @@
     "kula-ag-park-expansion-and-new-farm-reservoir.json": {
       "updatedAt": "2026-11-06T03:26:33.215Z",
       "sha256": "af9a90fb1f6c89cb64f3abf0a9df7d71316cbc3aeee4062bf669df995492ee76"
+    },
+    "planning-commission-appointment-fight-and-lawsuit.json": {
+      "updatedAt": "2026-11-06T03:28:09.862Z",
+      "sha256": "bb58683db9e0cf83828ede5e0514f0aa15c90c9b3b6430c81854eaf1416cde8d"
     }
   }
 }
