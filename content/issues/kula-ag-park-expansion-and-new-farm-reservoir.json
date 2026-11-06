@@ -17,21 +17,6 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-05",
-  "timeline": [
-    {
-      "dateISO": "2025-02-20",
-      "text": "A council member asked staff to follow up on the Kula Ag Park funding distribution.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "1wzlTecIqTE",
-        "ts": "1:53:13",
-        "endTs": "1:53:43",
-        "retrievedISO": "2026-10-22T06:26:10.023Z"
-      },
-      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
-    }
-  ],
   "boards": [
     {
       "name": "Agriculture, Diversification, Environment, and Public Transportation Committee",
@@ -42,5 +27,23 @@
     }
   ],
   "bills": [],
+  "timeline": [
+    {
+      "dateISO": "2025-02-20",
+      "text": "A council member asked staff to follow up on the Kula Ag Park funding distribution.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1wzlTecIqTE",
+        "ts": "1:53:13",
+        "retrievedISO": "2026-10-22T06:26:10.023Z",
+        "endTs": "1:53:43"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

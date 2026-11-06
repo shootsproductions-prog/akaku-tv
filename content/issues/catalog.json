@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-06T03:26:10.044Z",
-  "count": 217,
+  "updatedAt": "2026-11-06T03:26:33.215Z",
+  "count": 218,
   "issues": [
     {
       "slug": "2027-mass-nominations-for-county-boards",
@@ -50956,6 +50956,55 @@
             "endTs": "1:37:54"
           },
           "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "kula-ag-park-expansion-and-new-farm-reservoir",
+      "title": "Kula Ag Park expansion and new farm reservoir",
+      "summary": "A contract for a new reservoir and 12-inch water line at Kula Ag Park was recently awarded, and the agriculture director said it will be built before a second park phase of about 24 lots. The reservoir would use almost all the money received so far and will give the 31 leased lots more efficient water flow. A second phase will need more funding.",
+      "topics": [
+        "water",
+        "food-security"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2025-02-20",
+      "lastSeenISO": "2025-02-20",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-05",
+      "boards": [
+        {
+          "name": "Agriculture, Diversification, Environment, and Public Transportation Committee",
+          "group": "council",
+          "short": [
+            "ADEPT"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2025-02-20",
+          "text": "A council member asked staff to follow up on the Kula Ag Park funding distribution.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "1wzlTecIqTE",
+            "ts": "1:53:13",
+            "retrievedISO": "2026-10-22T06:26:10.023Z",
+            "endTs": "1:53:43"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
         }
       ],
       "sourceTypes": [

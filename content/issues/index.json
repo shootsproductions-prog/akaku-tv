@@ -216,12 +216,13 @@
     "lanai-fifth-street-affordable-housing-project.json",
     "half-percent-general-excise-tax-surcharge.json",
     "axis-deer-damage-and-control-programs.json",
-    "malama-kula-green-waste-and-fire-fuel-work.json"
+    "malama-kula-green-waste-and-fire-fuel-work.json",
+    "kula-ag-park-expansion-and-new-farm-reservoir.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-11-06T03:26:10.044Z",
-  "etag": "886fe05e547d0db8d90dc79e6e33e301340ba5022facdc464068b52595bc3226",
+  "updatedAt": "2026-11-06T03:26:33.215Z",
+  "etag": "7fc7ec648b4cf51f04ed9c329847eadfc5350e77b96cd4d4492135ea06e6cb9b",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-11-05T10:26:13.896Z",
@@ -1090,6 +1091,10 @@
     "malama-kula-green-waste-and-fire-fuel-work.json": {
       "updatedAt": "2026-11-06T03:26:10.044Z",
       "sha256": "2086df4b29dd13b464a8f96217bfa7eea8de4a607e86c00a4eb82b84cb1e8062"
+    },
+    "kula-ag-park-expansion-and-new-farm-reservoir.json": {
+      "updatedAt": "2026-11-06T03:26:33.215Z",
+      "sha256": "af9a90fb1f6c89cb64f3abf0a9df7d71316cbc3aeee4062bf669df995492ee76"
     }
   }
 }
