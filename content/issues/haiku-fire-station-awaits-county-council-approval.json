@@ -8,7 +8,7 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2025-04-07",
-  "lastSeenISO": "2026-10-15",
+  "lastSeenISO": "2026-10-30",
   "signals": {
     "meetingsLast30d": 1,
     "meetingsLast90d": 4,
@@ -48,6 +48,18 @@
     "Bill 91 (2026)"
   ],
   "timeline": [
+    {
+      "dateISO": "2026-10-30",
+      "text": "Bill 151 (2026), introduced at the Mayor's request, amends Ordinance 5994 on County general obligation bonds. It includes a $4,250,000 appropriation for the Haʻikū Fire Station.",
+      "basis": "reported",
+      "source": {
+        "type": "county-page",
+        "url": "https://civicclerk.blob.core.windows.net/stream/MAUICOUNTY/bb574348b2c5479399b8dc08599af7c3.pdf?skoid=4bbe46ab-1a20-44be-a870-cd3e30527573&sktid=c26badce-f52a-4b54-be8d-3d9cd095d0e4&skt=2026-10-30T08%3A42%3A21Z&ske=2026-10-31T08%3A42%3A21Z&sks=b&skv=2026-06-06&sv=2026-06-06&st=2026-10-30T18%3A01%3A08Z&se=2026-11-06T18%3A01%3A08Z&sr=b&sp=rw&sig=hlg58%2Fg%2Fpby0G7HK4dr6joWWdvLCdhwOrPupd5IDOR8%3D",
+        "publisher": "County of Maui / Office of the Mayor & County Council",
+        "quote": "151 (2026) was prepared and introduced upon the request of the Mayor to amend Ordinance 5994 relating to the issuance of County General Obligation Bonds, formally including a specific capital improvement appropriation of $4,250,000 to finance the Haʻikū Fire Station",
+        "retrievedISO": "2026-11-06T03:24:29.397Z"
+      }
+    },
     {
       "dateISO": "2026-10-15",
       "text": "The chief will notify commissioners as soon as the Haʻikū Fire Station makes a council agenda.",
@@ -596,6 +608,7 @@
     }
   ],
   "sourceTypes": [
+    "county-page",
     "meeting"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."

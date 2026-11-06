@@ -8,7 +8,7 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2024-11-25",
-  "lastSeenISO": "2026-09-10",
+  "lastSeenISO": "2026-10-02",
   "signals": {
     "meetingsLast30d": 0,
     "meetingsLast90d": 2,
@@ -47,6 +47,18 @@
   ],
   "bills": [],
   "timeline": [
+    {
+      "dateISO": "2026-10-02",
+      "text": "Board of Ethics published Volume 2 of its 2026 newsletter and report, summarizing operations, staffing structure and ongoing administrative actions.",
+      "basis": "reported",
+      "source": {
+        "type": "county-page",
+        "url": "https://www.mauicounty.gov/CivicAlerts.aspx?AID=19562",
+        "publisher": "County of Maui Board of Ethics",
+        "quote": "The Board of Ethics published Volume 2 of its 2026 newsletter summarizing its operations, staffing structure, and ongoing administrative actions",
+        "retrievedISO": "2026-11-06T03:24:43.750Z"
+      }
+    },
     {
       "dateISO": "2026-09-10",
       "text": "The director said the ethics office gave 180 formal advisory opinions in its first year.",
@@ -153,6 +165,7 @@
     }
   ],
   "sourceTypes": [
+    "county-page",
     "meeting"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."

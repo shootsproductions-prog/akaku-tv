@@ -8,7 +8,7 @@
   ],
   "status": "quiet",
   "pinned": false,
-  "firstSeenISO": "2025-07-25",
+  "firstSeenISO": "2025-02-21",
   "lastSeenISO": "2026-04-21",
   "signals": {
     "meetingsLast30d": 0,
@@ -253,6 +253,175 @@
         "ts": "0:17:26",
         "retrievedISO": "2026-10-21T22:24:51.067Z",
         "endTs": "0:17:56"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-02-21",
+      "text": "The council approved the exceptions 8-0, with one member excused.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "suPQ7wemd_I",
+        "ts": "5:20:16",
+        "retrievedISO": "2026-10-22T08:24:43.151Z",
+        "endTs": "5:20:46"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-02-21",
+      "text": "The council voted 8-0, with one member excused, to approve grant exceptions for the Lahaina Community Land Trust.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "suPQ7wemd_I",
+        "ts": "5:18:58",
+        "retrievedISO": "2026-10-22T08:24:43.151Z",
+        "endTs": "5:20:40"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-02-21",
+      "text": "The council approved the resolution 9-0.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "suPQ7wemd_I",
+        "ts": "3:22:02",
+        "retrievedISO": "2026-10-22T08:24:43.151Z",
+        "endTs": "3:22:32"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-02-21",
+      "text": "The council took up a resolution to let the Lahaina Community Land Trust use the county's managed retreat fund to buy property.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "suPQ7wemd_I",
+        "ts": "3:18:01",
+        "retrievedISO": "2026-10-22T08:24:43.151Z",
+        "endTs": "3:18:31"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-02-21",
+      "text": "The trust said it buys the land and gives the family resources to move inland.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "suPQ7wemd_I",
+        "ts": "1:49:15",
+        "retrievedISO": "2026-10-22T08:24:43.151Z",
+        "endTs": "1:49:45"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-02-21",
+      "text": "The trust's director said some Lahaina shoreline families may not be able to rebuild what they lost in the fire because of shoreline issues.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "suPQ7wemd_I",
+        "ts": "1:49:02",
+        "retrievedISO": "2026-10-22T08:24:43.151Z",
+        "endTs": "1:49:32"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-02-21",
+      "text": "The trust said it talks with county and state staff to avoid spending county managed retreat money on land that state or federal funds could secure.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "suPQ7wemd_I",
+        "ts": "1:48:30",
+        "retrievedISO": "2026-10-22T08:24:43.151Z",
+        "endTs": "1:49:05"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-02-21",
+      "text": "The trust asked to use up to five million dollars it was allocated from managed retreat funds for land acquisition.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "suPQ7wemd_I",
+        "ts": "1:48:15",
+        "retrievedISO": "2026-10-22T08:24:43.151Z",
+        "endTs": "1:48:45"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-02-21",
+      "text": "Under the grants, the trust gets first right of offer if a property ever sells.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "suPQ7wemd_I",
+        "ts": "1:46:05",
+        "retrievedISO": "2026-10-22T08:24:43.151Z",
+        "endTs": "1:46:40"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-02-21",
+      "text": "The trust said its pilot program has funding to support about 10 families.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "suPQ7wemd_I",
+        "ts": "1:45:43",
+        "retrievedISO": "2026-10-22T08:24:43.151Z",
+        "endTs": "1:46:13"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-02-21",
+      "text": "The trust's director said the grants help Lahaina families fill their insurance gap and rebuild instead of selling their land.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "suPQ7wemd_I",
+        "ts": "1:45:27",
+        "retrievedISO": "2026-10-22T08:24:43.151Z",
+        "endTs": "1:45:57"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-02-21",
+      "text": "The trust said it was about to choose its first four insurance gap grant recipients.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "suPQ7wemd_I",
+        "ts": "1:45:23",
+        "retrievedISO": "2026-10-22T08:24:43.151Z",
+        "endTs": "1:45:53"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-02-21",
+      "text": "The trust said it has secured two parcels and is under contract for four more, zoned for 13 permanently affordable homes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "suPQ7wemd_I",
+        "ts": "1:45:06",
+        "retrievedISO": "2026-10-22T08:24:43.151Z",
+        "endTs": "1:45:36"
       },
       "body": "County Council Meeting"
     }

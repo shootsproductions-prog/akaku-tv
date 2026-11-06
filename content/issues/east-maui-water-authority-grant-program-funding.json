@@ -9,7 +9,7 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-03-09",
-  "lastSeenISO": "2026-09-18",
+  "lastSeenISO": "2026-10-15",
   "signals": {
     "meetingsLast30d": 0,
     "meetingsLast90d": 1,
@@ -44,6 +44,42 @@
   "bills": [],
   "timeline": [
     {
+      "dateISO": "2026-10-15",
+      "text": "Extended FY27 EMWA grant application deadline closed at 5 p.m.",
+      "basis": "reported",
+      "source": {
+        "type": "county-page",
+        "url": "https://www.mauicounty.gov/Calendar.aspx?EID=14044",
+        "publisher": "County of Maui",
+        "quote": "Mailed applications must be postmarked by 5 p.m. Oct. 15, 2026.",
+        "retrievedISO": "2026-11-06T03:24:33.159Z"
+      }
+    },
+    {
+      "dateISO": "2026-10-02",
+      "text": "Maui Now covered the deadline extension and noted $150,000 is available for FY2027 grant awards.",
+      "basis": "reported",
+      "source": {
+        "type": "other",
+        "url": "https://mauinow.com/2026/10/02/east-maui-water-authority-extends-grant-application-deadline-to-thursday-oct-15/",
+        "publisher": "Maui Now",
+        "quote": "EMWA has a total of $150,000 available for Fiscal Year 2027 grant awards.",
+        "retrievedISO": "2026-11-06T03:24:16.290Z"
+      }
+    },
+    {
+      "dateISO": "2026-10-01",
+      "text": "County extended the EMWA grant application deadline by two weeks, to 5 p.m. Thursday, Oct. 15.",
+      "basis": "reported",
+      "source": {
+        "type": "county-release",
+        "url": "https://www.mauicounty.gov/m/newsflash/Home/Detail/19552",
+        "publisher": "County of Maui",
+        "quote": "The County of Maui issued an official notice extending the grant application deadline by two weeks",
+        "retrievedISO": "2026-11-06T03:24:21.421Z"
+      }
+    },
+    {
       "dateISO": "2026-09-18",
       "text": "The East Maui Water Authority grant program's funding doubled this year to $150,000.",
       "basis": "said-at-meeting",
@@ -55,6 +91,18 @@
         "endTs": "0:59:06"
       },
       "body": "ʻAha Moku o Maui Hikina"
+    },
+    {
+      "dateISO": "2026-08-04",
+      "text": "County announced the FY 2027 EMWA grant application window (Aug. 12 to Oct. 1, 2026) and scheduled informational workshops.",
+      "basis": "reported",
+      "source": {
+        "type": "county-release",
+        "url": "https://www.mauicounty.gov/m/newsflash/Home/Detail/19114",
+        "publisher": "County of Maui",
+        "quote": "The County of Maui officially announced the opening of the FY 2027 EMWA grant application window running from August 12 to October 1, 2026, and scheduled informational workshops",
+        "retrievedISO": "2026-11-06T03:24:25.355Z"
+      }
     },
     {
       "dateISO": "2026-07-17",
@@ -123,6 +171,9 @@
     }
   ],
   "sourceTypes": [
+    "county-page",
+    "other",
+    "county-release",
     "meeting"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."

@@ -9,7 +9,7 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2024-10-09",
-  "lastSeenISO": "2026-09-09",
+  "lastSeenISO": "2026-10-28",
   "signals": {
     "meetingsLast30d": 0,
     "meetingsLast90d": 1,
@@ -26,6 +26,18 @@
   ],
   "bills": [],
   "timeline": [
+    {
+      "dateISO": "2026-10-28",
+      "text": "The County issued a news release inviting the public to review proposed restructuring and amendments to the Liquor Commission rules. The amendments return to the commission's agenda on November 12, 2026.",
+      "basis": "reported",
+      "source": {
+        "type": "county-release",
+        "url": "https://www.mauicounty.gov/CivicAlerts.aspx?AID=19637",
+        "publisher": "County of Maui",
+        "quote": "The proposed amendments return to the Commission's agenda for further consideration and public testimony.",
+        "retrievedISO": "2026-11-06T03:23:49.250Z"
+      }
+    },
     {
       "dateISO": "2026-09-09",
       "text": "The commission approved the reauthorization unanimously.",
@@ -90,6 +102,18 @@
         "endTs": "1:58:26"
       },
       "body": "Liquor Control Commission"
+    },
+    {
+      "dateISO": "2026-03-11",
+      "text": "The commission adopted the sixth reauthorization of the emergency rule on March 11, 2026 (transmitted March 23, 2026). Earlier renewals came on March 12, July 9 and November 12, 2025. The page jumps from November 2024 to the seventh reauthorization in September 2026.",
+      "basis": "reported",
+      "source": {
+        "type": "county-page",
+        "url": "https://www.mauicounty.gov/DocumentCenter/View/159581/2026-March-23-6th-Reauthorization-of-Emergency-Rule-PDF",
+        "publisher": "County of Maui",
+        "quote": "This reauthorization serves to renew the Emergency Rule adopted by the Liquor Control Commission on January 17, 2024 and received by the Clerk of the County of Maui on January 26, 2024, which was renewed at the May 8, 2024, November 13, 2024, March 12, 2025, July 9, 2025 and November 12, 2025 meetings of the Liquor Control Commission",
+        "retrievedISO": "2026-11-06T03:23:53.727Z"
+      }
     },
     {
       "dateISO": "2024-11-13",
@@ -236,7 +260,9 @@
     }
   ],
   "sourceTypes": [
-    "meeting"
+    "county-release",
+    "meeting",
+    "county-page"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

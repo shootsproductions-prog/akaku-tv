@@ -9,7 +9,7 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-01-07",
-  "lastSeenISO": "2026-09-17",
+  "lastSeenISO": "2026-10-12",
   "signals": {
     "meetingsLast30d": 0,
     "meetingsLast90d": 2,
@@ -43,6 +43,18 @@
     "Bill 2026 (2026)"
   ],
   "timeline": [
+    {
+      "dateISO": "2026-10-12",
+      "text": "The Water and Infrastructure Committee's items list shows Bill 1 still pending as item WAI-21 after the board's September vote.",
+      "basis": "reported",
+      "source": {
+        "type": "county-page",
+        "url": "https://mauicounty.us/wp-content/uploads/2026/10/waiitems-as-of-October-12-2026.pdf",
+        "publisher": "Maui County Council",
+        "quote": "BILL 1 (2026), AMENDING THE WATER AVAILABILITY POLICY ON SUBDIVISION CONSTRUCTION PLANS.",
+        "retrievedISO": "2026-11-06T03:23:18.166Z"
+      }
+    },
     {
       "dateISO": "2026-09-17",
       "text": "The motion passed with five ayes.",
@@ -107,6 +119,18 @@
         "endTs": "0:54:31"
       },
       "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-08-14",
+      "text": "Chair Cook sent the Board of Water Supply a letter asking for comments on the updated CD1 version after the committee deferred the bill on Aug. 3.",
+      "basis": "reported",
+      "source": {
+        "type": "county-page",
+        "url": "https://www.mauicounty.gov/DocumentCenter/View/164352/Correspondence-to-Board-of-Water-Supply-08-14-2026",
+        "publisher": "Maui County Council",
+        "quote": "The Council's Water and Infrastructure Committee met on August 3, 2026, and deferred action on the bill.",
+        "retrievedISO": "2026-11-06T03:23:23.157Z"
+      }
     },
     {
       "dateISO": "2026-08-03",
@@ -278,6 +302,30 @@
       "body": "County Council Water and Infrastructure Committee"
     },
     {
+      "dateISO": "2026-05-21",
+      "text": "Water Supply Director John Stufflebean sent Chair Cook a memo opposing the bill's provisions.",
+      "basis": "reported",
+      "source": {
+        "type": "county-page",
+        "url": "https://www.mauicounty.gov/DocumentCenter/View/161128/Bill-1-draft-2",
+        "publisher": "Department of Water Supply, County of Maui",
+        "quote": "In fact, it removes DWS's ability to condition or withhold construction plan approval based on water concerns.",
+        "retrievedISO": "2026-11-06T03:23:27.644Z"
+      }
+    },
+    {
+      "dateISO": "2026-04-16",
+      "text": "The Board of Water Supply revisited Bill 1 and voted 6–0 to draft an advisory letter asking the Council to reconsider.",
+      "basis": "reported",
+      "source": {
+        "type": "other",
+        "url": "https://citizenportal.ai/articles/8813424/board-of-water-supply-raises-concerns-about-bill-1-2026-votes-to-draft-advisory-letter-to-council",
+        "publisher": "Citizen Portal",
+        "quote": "Board members said Bill 1 (2026) could limit the department's ability to ensure adequate water supplies for development; Member John Helly volunteered to draft a letter asking the County Council to reconsider the proposal.",
+        "retrievedISO": "2026-11-06T03:23:32.876Z"
+      }
+    },
+    {
       "dateISO": "2026-01-26",
       "text": "The committee will work with the County's lawyers on the countywide policy plan question.",
       "basis": "said-at-meeting",
@@ -409,7 +457,9 @@
     }
   ],
   "sourceTypes": [
-    "meeting"
+    "county-page",
+    "meeting",
+    "other"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

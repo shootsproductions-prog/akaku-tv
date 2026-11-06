@@ -8,8 +8,8 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-07-08",
-  "lastSeenISO": "2026-09-09",
+  "firstSeenISO": "2025-02-20",
+  "lastSeenISO": "2026-09-21",
   "signals": {
     "meetingsLast30d": 0,
     "meetingsLast90d": 1,
@@ -27,10 +27,29 @@
       "name": "Maui Arborist Committee",
       "group": "council",
       "short": []
+    },
+    {
+      "name": "Agriculture, Diversification, Environment, and Public Transportation Committee",
+      "group": "council",
+      "short": [
+        "ADEPT"
+      ]
     }
   ],
   "bills": [],
   "timeline": [
+    {
+      "dateISO": "2026-09-21",
+      "text": "The Kula Community Watershed Alliance announced it joined the regional Maui Resilience Partnership to scale up native reforestation and fire-break fencing.",
+      "basis": "reported",
+      "source": {
+        "type": "other",
+        "url": "https://www.kulacommunitywatershed.org/",
+        "publisher": "Kula Community Watershed Alliance",
+        "quote": "One Valley in a Larger Landscape: KCWA Joins the Maui Resilience Partnership.",
+        "retrievedISO": "2026-11-06T03:23:43.433Z"
+      }
+    },
     {
       "dateISO": "2026-09-09",
       "text": "The chair will contact the watershed group next week about a volunteer app that is in development.",
@@ -160,9 +179,49 @@
         "endTs": "0:52:38"
       },
       "body": "Maui Arborist Committee"
+    },
+    {
+      "dateISO": "2025-02-20",
+      "text": "The group said it has received zero County funding.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1wzlTecIqTE",
+        "ts": "0:39:48",
+        "retrievedISO": "2026-10-22T06:26:10.023Z",
+        "endTs": "0:40:18"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2025-02-20",
+      "text": "The testifier said the 2023 fire left degraded soil, more erosion risk, and land that holds less water.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1wzlTecIqTE",
+        "ts": "0:36:46",
+        "retrievedISO": "2026-10-22T06:26:10.023Z",
+        "endTs": "0:37:16"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2025-02-20",
+      "text": "A Kula watershed group asked for more County funding to protect watersheds after wildfires.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1wzlTecIqTE",
+        "ts": "0:36:19",
+        "retrievedISO": "2026-10-22T06:26:10.023Z",
+        "endTs": "0:36:52"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
     }
   ],
   "sourceTypes": [
+    "other",
     "meeting"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."

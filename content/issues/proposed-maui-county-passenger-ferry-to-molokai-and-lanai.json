@@ -7,7 +7,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-09-03",
+  "firstSeenISO": "2025-02-20",
   "lastSeenISO": "2026-10-09",
   "signals": {
     "meetingsLast30d": 0,
@@ -26,6 +26,13 @@
       "name": "Cultural Resources Commission",
       "group": "board",
       "short": []
+    },
+    {
+      "name": "Agriculture, Diversification, Environment, and Public Transportation Committee",
+      "group": "council",
+      "short": [
+        "ADEPT"
+      ]
     }
   ],
   "bills": [],
@@ -324,6 +331,84 @@
         "endTs": "0:26:12"
       },
       "body": "Cultural Resources Commission"
+    },
+    {
+      "dateISO": "2025-02-20",
+      "text": "Maui County ferry feasibility study: The committee deferred the ferry feasibility study item with no objections.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1wzlTecIqTE",
+        "ts": "4:38:06",
+        "retrievedISO": "2026-10-22T06:26:10.023Z",
+        "endTs": "4:38:36"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2025-02-20",
+      "text": "The environmental assessment was estimated to take about a year.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1wzlTecIqTE",
+        "ts": "4:12:42",
+        "retrievedISO": "2026-10-22T06:26:10.023Z",
+        "endTs": "4:13:13"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2025-02-20",
+      "text": "Designating the ferry operator's president as a resource person: The committee, with no objections, named the ferry operator's president as a resource person under Rule 18A.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1wzlTecIqTE",
+        "ts": "4:01:05",
+        "retrievedISO": "2026-10-22T06:26:10.023Z",
+        "endTs": "4:01:35"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2025-02-20",
+      "text": "The consultant estimated a yearly operating subsidy of $1.8 million to $1.9 million.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1wzlTecIqTE",
+        "ts": "3:52:47",
+        "retrievedISO": "2026-10-22T06:26:10.023Z",
+        "endTs": "3:53:17"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2025-02-20",
+      "text": "The consultant said the first step for a County ferry would be an environmental assessment (a formal environmental review).",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1wzlTecIqTE",
+        "ts": "3:49:00",
+        "retrievedISO": "2026-10-22T06:26:10.023Z",
+        "endTs": "3:49:30"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2025-02-20",
+      "text": "A County ferry study looked at service linking Maui, Molokaʻi and Lānaʻi without carrying vehicles.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1wzlTecIqTE",
+        "ts": "3:19:06",
+        "retrievedISO": "2026-10-22T06:26:10.023Z",
+        "endTs": "3:19:36"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
     }
   ],
   "sourceTypes": [

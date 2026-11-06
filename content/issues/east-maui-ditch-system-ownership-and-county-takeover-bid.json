@@ -9,7 +9,7 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2024-09-24",
-  "lastSeenISO": "2026-09-18",
+  "lastSeenISO": "2026-10-24",
   "signals": {
     "meetingsLast30d": 0,
     "meetingsLast90d": 4,
@@ -64,6 +64,42 @@
   ],
   "bills": [],
   "timeline": [
+    {
+      "dateISO": "2026-10-24",
+      "text": "Community water programs (Kupu o Wai Hōʻolawa and Wai & We) at Wailele Farm in Haʻikū, co-organized with the East Maui Water Authority.",
+      "basis": "reported",
+      "source": {
+        "type": "other",
+        "url": "https://mauinow.com/2026/10/12/east-maui-water-issues-focus-of-oct-24-event-at-wailele-farm-in-ha%CA%BBiku/",
+        "publisher": "Maui Now",
+        "quote": "Friends of Twin Falls at Wailele Farm is inviting the community to participate in two upcoming programs focused on water, watershed health, and community stewardship: Kupu o Wai Hōʻolawa and Wai & We.",
+        "retrievedISO": "2026-11-06T03:22:52.524Z"
+      }
+    },
+    {
+      "dateISO": "2026-10-13",
+      "text": "East Maui Water Authority's governing board (ʻAha Wai O Maui Hikina Board) public meeting at the Von Tempsky Community Center in Kula.",
+      "basis": "reported",
+      "source": {
+        "type": "other",
+        "url": "https://www.mauinews.com/news/local-news/2026/10/east-maui-water-authority-board-to-meet-oct-13/",
+        "publisher": "The Maui News",
+        "quote": "13 at the Von Tempsky Community Center in Kula.",
+        "retrievedISO": "2026-11-06T03:22:59.404Z"
+      }
+    },
+    {
+      "dateISO": "2026-10-08",
+      "text": "BLNR denied Mahi Pono and EMI's request for a contested case hearing challenging its rejection of the 30-year license.",
+      "basis": "reported",
+      "source": {
+        "type": "other",
+        "url": "https://nativehawaiianlegalcorp.org/east-maui-water-court-ordered-contested-case-moves-forward/",
+        "publisher": "Native Hawaiian Legal Corporation",
+        "quote": "Mahi Pono and EMI also requested a contested case hearing challenging that decision, which BLNR denied.",
+        "retrievedISO": "2026-11-06T03:23:04.746Z"
+      }
+    },
     {
       "dateISO": "2026-09-18",
       "text": "There was nothing new to report on land negotiations for the East Maui irrigation system.",
@@ -640,6 +676,7 @@
     }
   ],
   "sourceTypes": [
+    "other",
     "meeting"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."

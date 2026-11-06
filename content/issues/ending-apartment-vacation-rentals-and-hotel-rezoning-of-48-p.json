@@ -8,7 +8,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2025-11-20",
+  "firstSeenISO": "2025-07-24",
   "lastSeenISO": "2026-10-23",
   "signals": {
     "meetingsLast30d": 1,
@@ -109,6 +109,18 @@
         "endTs": "0:38:58"
       },
       "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-10-23",
+      "text": "A legal notice was published scheduling the Maui Planning Commission's public hearing on the proposed bills for Nov. 24, 2026, at 9:00 a.m. in Wailuku.",
+      "basis": "reported",
+      "source": {
+        "type": "county-page",
+        "url": "https://statelegals.staradvertiser.com/2026/10/23/0001541606-01/",
+        "publisher": "County of Maui / Hawaii's State Legals & Public Notices",
+        "quote": "PROPOSED BILLS TO CHANGE THE KIHEI-MAKENA AND WEST MAUI COMMUNITY PLANS AND COMMUNITY PLAN LAND USE DESIGNATIONS FOR SPECIFIC PROPERTIES, AND TO CHANGE THE ZONING DISTRICT DESIGNATIONS FOR SPECIFIC PROPERTIES.",
+        "retrievedISO": "2026-11-06T03:23:37.159Z"
+      }
     },
     {
       "dateISO": "2026-09-29",
@@ -3086,10 +3098,167 @@
         "endTs": "1:37:08"
       },
       "body": "County Council Special Meeting"
+    },
+    {
+      "dateISO": "2025-07-24",
+      "text": "Staff will make a remaining July 1, 2030 deadline in the bill match the new phase-out dates, with the body's agreement.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "sT3Zhgq1u2o",
+        "ts": "2:35:28",
+        "retrievedISO": "2026-10-21T17:03:31.973Z",
+        "endTs": "2:36:20"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2025-07-24",
+      "text": "Amendment setting different phase-out dates for West Maui and the rest of the county: Staff said the committee amended the phase-out dates to set a separate period for West Maui.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "sT3Zhgq1u2o",
+        "ts": "2:35:20",
+        "retrievedISO": "2026-10-21T17:03:31.973Z",
+        "endTs": "2:35:51"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2025-07-24",
+      "text": "A member said the change is meant to make sure residents live in apartment-zoned districts after so much housing was lost.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "sT3Zhgq1u2o",
+        "ts": "2:21:41",
+        "retrievedISO": "2026-10-21T17:03:31.973Z",
+        "endTs": "2:22:12"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2025-07-24",
+      "text": "A member said there is no real structured path yet for owners to apply for rezoning.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "sT3Zhgq1u2o",
+        "ts": "2:19:41",
+        "retrievedISO": "2026-10-21T17:03:31.973Z",
+        "endTs": "2:20:11"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2025-07-24",
+      "text": "The substitute version, as amended, passed with nine ayes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "sT3Zhgq1u2o",
+        "ts": "2:17:04",
+        "retrievedISO": "2026-10-21T17:03:31.973Z",
+        "endTs": "2:17:38"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2025-07-24",
+      "text": "The question of excluding resort properties will go to the Temporary Investigative Group (TIG).",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "sT3Zhgq1u2o",
+        "ts": "2:16:35",
+        "retrievedISO": "2026-10-21T17:03:31.973Z",
+        "endTs": "2:17:10"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2025-07-24",
+      "text": "A member said a Temporary Investigative Group (TIG) will need to work on the issues not covered in this bill.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "sT3Zhgq1u2o",
+        "ts": "2:01:06",
+        "retrievedISO": "2026-10-21T17:03:31.973Z",
+        "endTs": "2:01:36"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2025-07-24",
+      "text": "The administration said it is committed to working with the council on a path for owners to apply for rezoning.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "sT3Zhgq1u2o",
+        "ts": "2:00:00",
+        "retrievedISO": "2026-10-21T17:03:31.973Z",
+        "endTs": "2:01:06"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2025-07-24",
+      "text": "A member said the Maui Planning Commission recommended a shorter period for West Maui.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "sT3Zhgq1u2o",
+        "ts": "1:27:43",
+        "retrievedISO": "2026-10-21T17:03:31.973Z",
+        "endTs": "1:28:13"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2025-07-24",
+      "text": "A member proposed ending the phase-out on December 31, 2028 in West Maui and December 31, 2030 elsewhere.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "sT3Zhgq1u2o",
+        "ts": "1:23:08",
+        "retrievedISO": "2026-10-21T17:03:31.973Z",
+        "endTs": "1:24:05"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2025-07-24",
+      "text": "Committee vice chair's amendment exempting timeshare units, timeshare plans, variance uses and uses otherwise permitted by law: A motion to exempt timeshares and uses allowed under a variance was moved and seconded, with no vote heard in the meeting video.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "sT3Zhgq1u2o",
+        "ts": "0:47:26",
+        "retrievedISO": "2026-10-21T17:03:31.973Z",
+        "endTs": "0:48:22"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2025-07-24",
+      "text": "Members moved and seconded a motion to recommend passing Bill 9 on first reading.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "sT3Zhgq1u2o",
+        "ts": "0:37:30",
+        "retrievedISO": "2026-10-21T17:03:31.973Z",
+        "endTs": "0:38:00"
+      },
+      "body": "County Council Housing and Land Use Committee"
     }
   ],
   "sourceTypes": [
-    "meeting"
+    "meeting",
+    "county-page"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

@@ -7,7 +7,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-04-15",
+  "firstSeenISO": "2025-02-20",
   "lastSeenISO": "2026-09-04",
   "signals": {
     "meetingsLast30d": 0,
@@ -34,6 +34,13 @@
       "group": "council",
       "short": [
         "BFED"
+      ]
+    },
+    {
+      "name": "Water Authority, Social Services, and Parks Committee",
+      "group": "council",
+      "short": [
+        "WASSP"
       ]
     }
   ],
@@ -326,6 +333,58 @@
         "endTs": "0:10:57"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-08-04",
+      "text": "The vice chair's committee will review the Maui County Food Security Plan and Nutrition Plan this Thursday.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "RtNHx0jaTX8",
+        "ts": "2:23:43",
+        "retrievedISO": "2026-10-21T14:02:26.415Z",
+        "endTs": "2:24:13"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2025-02-20",
+      "text": "The plan was developed with over 900 community members.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1wzlTecIqTE",
+        "ts": "1:22:31",
+        "retrievedISO": "2026-10-22T06:26:10.023Z",
+        "endTs": "1:23:01"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2025-02-20",
+      "text": "The plan aims for measurable change in food systems by 2030.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1wzlTecIqTE",
+        "ts": "1:22:26",
+        "retrievedISO": "2026-10-22T06:26:10.023Z",
+        "endTs": "1:22:56"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2025-02-20",
+      "text": "The department said the plan aims to give all Maui County residents access to affordable, nutritious, culturally appropriate food.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1wzlTecIqTE",
+        "ts": "1:22:09",
+        "retrievedISO": "2026-10-22T06:26:10.023Z",
+        "endTs": "1:22:39"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
     }
   ],
   "sourceTypes": [

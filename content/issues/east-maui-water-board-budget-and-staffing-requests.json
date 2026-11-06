@@ -59,6 +59,30 @@
       "body": "ʻAha Moku o Maui Hikina"
     },
     {
+      "dateISO": "2026-08-16",
+      "text": "The East Maui Water Authority board meeting set for Aug. 17 in Kula was postponed because of severe weather (Tropical Storm Lala).",
+      "basis": "reported",
+      "source": {
+        "type": "other",
+        "url": "https://mauinow.com/2026/08/16/east-maui-water-authority-postpones-board-meeting-slated-for-aug-17-in-kula/",
+        "publisher": "Maui Now",
+        "quote": "This meeting had been postponed from August 17, 2026, due to severe weather caused by Tropical Storm Lala",
+        "retrievedISO": "2026-11-06T03:25:11.736Z"
+      }
+    },
+    {
+      "dateISO": "2026-06-20",
+      "text": "The full Council unanimously passed the FY2027 budget on June 5, 2026, and Mayor Bissen signed it into law. The budget includes the East Maui Water Authority's expanded positions. The page stops at the April committee cuts.",
+      "basis": "reported",
+      "source": {
+        "type": "county-release",
+        "url": "https://www.einpresswire.com/article/920957482/mayor-richard-bissen-signs-1-61-billion-council-approved-fy2027-budget-into-law",
+        "publisher": "County of Maui (via EIN Presswire)",
+        "quote": "Maui County Council Chair Alice Lee and Council Budget, Finance and Economic Development Committee Chair Yuki Lei Sugimura were on hand as Mayor Bissen signed the budget into law after it was unanimously passed by the Maui County Council on June 5, 2026.",
+        "retrievedISO": "2026-11-06T03:25:15.820Z"
+      }
+    },
+    {
       "dateISO": "2026-05-15",
       "text": "The director's idea of a finance committee could be put on next month's agenda.",
       "basis": "said-at-meeting",
@@ -164,7 +188,9 @@
     }
   ],
   "sourceTypes": [
-    "meeting"
+    "meeting",
+    "other",
+    "county-release"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }
