@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T10:26:11.671Z",
+  "updatedAt": "2026-11-06T12:26:11.168Z",
   "count": 219,
   "issues": [
     {
@@ -6623,7 +6623,7 @@
       "lastSeenISO": "2026-08-30",
       "signals": {
         "meetingsLast30d": 0,
-        "meetingsLast90d": 1,
+        "meetingsLast90d": 0,
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
@@ -10433,9 +10433,9 @@
       "firstSeenISO": "2026-10-07",
       "lastSeenISO": "2026-10-07",
       "signals": {
-        "meetingsLast30d": 1,
+        "meetingsLast30d": 0,
         "meetingsLast90d": 1,
-        "mentionsLast30d": 3,
+        "mentionsLast30d": 0,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-06",
@@ -27482,9 +27482,9 @@
       "firstSeenISO": "2026-04-06",
       "lastSeenISO": "2026-10-19",
       "signals": {
-        "meetingsLast30d": 2,
+        "meetingsLast30d": 1,
         "meetingsLast90d": 2,
-        "mentionsLast30d": 4,
+        "mentionsLast30d": 3,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-06",
@@ -33010,9 +33010,9 @@
       "firstSeenISO": "2026-08-19",
       "lastSeenISO": "2026-10-13",
       "signals": {
-        "meetingsLast30d": 2,
+        "meetingsLast30d": 1,
         "meetingsLast90d": 3,
-        "mentionsLast30d": 6,
+        "mentionsLast30d": 3,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-06",
@@ -38180,9 +38180,9 @@
       "firstSeenISO": "2026-06-05",
       "lastSeenISO": "2026-10-08",
       "signals": {
-        "meetingsLast30d": 2,
+        "meetingsLast30d": 1,
         "meetingsLast90d": 6,
-        "mentionsLast30d": 4,
+        "mentionsLast30d": 3,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-06",
@@ -46717,9 +46717,9 @@
       "firstSeenISO": "2026-07-01",
       "lastSeenISO": "2026-10-08",
       "signals": {
-        "meetingsLast30d": 2,
+        "meetingsLast30d": 1,
         "meetingsLast90d": 3,
-        "mentionsLast30d": 3,
+        "mentionsLast30d": 1,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-06",
@@ -48949,9 +48949,9 @@
       "firstSeenISO": "2026-04-06",
       "lastSeenISO": "2026-10-07",
       "signals": {
-        "meetingsLast30d": 1,
+        "meetingsLast30d": 0,
         "meetingsLast90d": 1,
-        "mentionsLast30d": 1,
+        "mentionsLast30d": 0,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-06",
