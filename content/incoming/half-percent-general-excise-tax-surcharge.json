@@ -1,0 +1,62 @@
+{
+  "slug": "half-percent-general-excise-tax-surcharge",
+  "title": "Half-percent general excise tax surcharge",
+  "summary": "On March 3, 2026, it was said that a reimbursement will come from the general excise tax (GET) surcharge account. Under Bill 38 (March 2025), surcharge money for water projects can go to the water department, be tracked separately and be returned when the project ends. The Council passed the surcharge in 2023, ending it by December 31, 2030, and the county expected its first state check in April 2024.",
+  "topics": [
+    "economy",
+    "housing",
+    "government"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2023-06-19",
+  "lastSeenISO": "2023-06-19",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-05",
+  "timeline": [
+    {
+      "dateISO": "2023-06-19",
+      "text": "The vice chair asked the department for estimates of what the GET surcharge could cover.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "vRTr2Quu1bg",
+        "ts": "0:49:46",
+        "endTs": "0:50:16",
+        "retrievedISO": "2026-10-18T19:05:54.720Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2023-06-19",
+      "text": "The vice chair said a half-percent GET surcharge could pay for water and sewer infrastructure for housing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "vRTr2Quu1bg",
+        "ts": "0:28:22",
+        "endTs": "0:28:52",
+        "retrievedISO": "2026-10-18T19:05:54.720Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Water and Infrastructure Committee",
+      "group": "council",
+      "short": [
+        "WAI"
+      ]
+    }
+  ],
+  "bills": [
+    "Bill 38 (2023)"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
