@@ -4,13 +4,11 @@
   "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-18T19:05:54.725Z",
   "meetingDateISO": "2023-06-19",
-  "source": {
-    "youtubeUrl": "https://youtu.be/vRTr2Quu1bg"
-  },
   "headline": "Committee hears road extension update, defers item",
   "topics": [
     "Housing"
   ],
+  "bodyType": "council",
   "meeting": {
     "id": "vRTr2Quu1bg",
     "mon": "Jun",
@@ -126,5 +124,7 @@
       ]
     }
   ],
-  "bodyType": "council"
+  "source": {
+    "youtubeUrl": "https://youtu.be/vRTr2Quu1bg"
+  }
 }

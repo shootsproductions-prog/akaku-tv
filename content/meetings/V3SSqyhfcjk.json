@@ -4,14 +4,12 @@
   "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
   "generatedAt": "2026-11-04T07:45:13.335Z",
   "meetingDateISO": "2024-10-09",
-  "source": {
-    "youtubeUrl": "https://youtu.be/V3SSqyhfcjk"
-  },
+  "headline": "Maui County Liquor Control Commission",
   "topics": [
     "Housing",
     "Disaster Recovery"
   ],
-  "headline": "Maui County Liquor Control Commission",
+  "bodyType": "board",
   "meeting": {
     "id": "V3SSqyhfcjk",
     "mon": "Oct",
@@ -82,5 +80,7 @@
     "bills": []
   },
   "issues": [],
-  "bodyType": "board"
+  "source": {
+    "youtubeUrl": "https://youtu.be/V3SSqyhfcjk"
+  }
 }

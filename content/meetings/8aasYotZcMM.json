@@ -4,13 +4,11 @@
   "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
   "generatedAt": "2026-11-04T07:37:03.646Z",
   "meetingDateISO": "2026-10-16",
-  "source": {
-    "youtubeUrl": "https://youtu.be/8aasYotZcMM"
-  },
+  "headline": "East Maui water contested case start moved to January 19",
   "topics": [
     "Water"
   ],
-  "headline": "East Maui water contested case start moved to January 19",
+  "bodyType": "board",
   "meeting": {
     "id": "8aasYotZcMM",
     "mon": "Oct",
@@ -62,5 +60,7 @@
     "bills": []
   },
   "issues": [],
-  "bodyType": "board"
+  "source": {
+    "youtubeUrl": "https://youtu.be/8aasYotZcMM"
+  }
 }

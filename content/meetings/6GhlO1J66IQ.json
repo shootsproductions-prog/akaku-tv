@@ -4,11 +4,9 @@
   "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
   "generatedAt": "2026-11-04T07:39:34.779Z",
   "meetingDateISO": "2017-10-20",
-  "source": {
-    "youtubeUrl": "https://youtu.be/6GhlO1J66IQ"
-  },
-  "topics": [],
   "headline": "Mayor proclaims October 20, 2017 as Community Media Day",
+  "topics": [],
+  "bodyType": "board",
   "meeting": {
     "id": "6GhlO1J66IQ",
     "mon": "Oct",
@@ -43,5 +41,7 @@
     "bills": []
   },
   "issues": [],
-  "bodyType": "board"
+  "source": {
+    "youtubeUrl": "https://youtu.be/6GhlO1J66IQ"
+  }
 }

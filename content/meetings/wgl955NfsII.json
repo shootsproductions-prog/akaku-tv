@@ -4,11 +4,9 @@
   "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
   "generatedAt": "2026-11-04T07:41:52.031Z",
   "meetingDateISO": "2024-10-10",
-  "source": {
-    "youtubeUrl": "https://youtu.be/wgl955NfsII"
-  },
-  "topics": [],
   "headline": "Maui County Cost of Government Commission Meeting of October 10, 2024",
+  "topics": [],
+  "bodyType": "board",
   "meeting": {
     "id": "wgl955NfsII",
     "mon": "Oct",
@@ -69,5 +67,7 @@
     "bills": []
   },
   "issues": [],
-  "bodyType": "board"
+  "source": {
+    "youtubeUrl": "https://youtu.be/wgl955NfsII"
+  }
 }

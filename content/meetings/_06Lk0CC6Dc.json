@@ -4,13 +4,11 @@
   "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
   "generatedAt": "2026-11-04T07:46:08.863Z",
   "meetingDateISO": "2021-10-01",
-  "source": {
-    "youtubeUrl": "https://youtu.be/_06Lk0CC6Dc"
-  },
+  "headline": "Maui Police Commission Meeting October 1, 2021",
   "topics": [
     "Housing"
   ],
-  "headline": "Maui Police Commission Meeting October 1, 2021",
+  "bodyType": "board",
   "meeting": {
     "id": "_06Lk0CC6Dc",
     "mon": "Oct",
@@ -57,5 +55,7 @@
     "bills": []
   },
   "issues": [],
-  "bodyType": "board"
+  "source": {
+    "youtubeUrl": "https://youtu.be/_06Lk0CC6Dc"
+  }
 }

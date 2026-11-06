@@ -4,15 +4,13 @@
   "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-22T06:26:10.043Z",
   "meetingDateISO": "2025-02-20",
-  "source": {
-    "youtubeUrl": "https://youtu.be/1wzlTecIqTE"
-  },
   "headline": "Committee reviews farm, water, environment, ferry and bus programs",
   "topics": [
     "Water",
     "Food Security",
     "Disaster Recovery"
   ],
+  "bodyType": "council",
   "meeting": {
     "id": "1wzlTecIqTE",
     "mon": "Feb",
@@ -135,5 +133,7 @@
       ]
     }
   ],
-  "bodyType": "council"
+  "source": {
+    "youtubeUrl": "https://youtu.be/1wzlTecIqTE"
+  }
 }

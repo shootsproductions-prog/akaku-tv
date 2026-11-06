@@ -4,11 +4,9 @@
   "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-16T20:10:07.350Z",
   "meetingDateISO": "2026-06-15",
-  "source": {
-    "youtubeUrl": "https://youtu.be/XkMjh93-dPc"
-  },
   "headline": "Committee recommends Bill 68 parking changes on first reading in 9-0 vote",
   "topics": [],
+  "bodyType": "council",
   "meeting": {
     "id": "XkMjh93-dPc",
     "mon": "Jun",
@@ -60,5 +58,7 @@
     ]
   },
   "issues": [],
-  "bodyType": "council"
+  "source": {
+    "youtubeUrl": "https://youtu.be/XkMjh93-dPc"
+  }
 }

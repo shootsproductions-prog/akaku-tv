@@ -4,13 +4,11 @@
   "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
   "generatedAt": "2026-11-04T07:39:58.597Z",
   "meetingDateISO": "2026-10-15",
-  "source": {
-    "youtubeUrl": "https://youtu.be/6fIOWfH2zPA"
-  },
+  "headline": "Fire Commission",
   "topics": [
     "Disaster Recovery"
   ],
-  "headline": "Fire Commission",
+  "bodyType": "board",
   "meeting": {
     "id": "6fIOWfH2zPA",
     "mon": "Oct",
@@ -61,5 +59,7 @@
     "bills": []
   },
   "issues": [],
-  "bodyType": "board"
+  "source": {
+    "youtubeUrl": "https://youtu.be/6fIOWfH2zPA"
+  }
 }

@@ -4,14 +4,12 @@
   "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
   "generatedAt": "2026-11-04T07:44:51.885Z",
   "meetingDateISO": "2024-10-08",
-  "source": {
-    "youtubeUrl": "https://youtu.be/1GPyI-THk14"
-  },
+  "headline": "Maui Planning Commission - South Maui Plan",
   "topics": [
     "Water",
     "Housing"
   ],
-  "headline": "Maui Planning Commission - South Maui Plan",
+  "bodyType": "board",
   "meeting": {
     "id": "1GPyI-THk14",
     "mon": "Oct",
@@ -67,5 +65,7 @@
     "bills": []
   },
   "issues": [],
-  "bodyType": "board"
+  "source": {
+    "youtubeUrl": "https://youtu.be/1GPyI-THk14"
+  }
 }

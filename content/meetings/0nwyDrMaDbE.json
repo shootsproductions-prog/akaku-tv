@@ -4,11 +4,9 @@
   "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-17T02:26:41.233Z",
   "meetingDateISO": "2026-04-21",
-  "source": {
-    "youtubeUrl": "https://youtu.be/0nwyDrMaDbE"
-  },
   "headline": "Residents testify on proposed Maui property tax rates",
   "topics": [],
+  "bodyType": "council",
   "meeting": {
     "id": "0nwyDrMaDbE",
     "mon": "Apr",
@@ -62,5 +60,7 @@
     "bills": []
   },
   "issues": [],
-  "bodyType": "council"
+  "source": {
+    "youtubeUrl": "https://youtu.be/0nwyDrMaDbE"
+  }
 }

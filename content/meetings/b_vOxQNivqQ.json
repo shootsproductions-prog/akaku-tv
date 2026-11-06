@@ -4,14 +4,12 @@
   "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-22T12:11:52.496Z",
   "meetingDateISO": "2024-03-05",
-  "source": {
-    "youtubeUrl": "https://youtu.be/b_vOxQNivqQ"
-  },
   "headline": "Committee recommends agriculture grants bill, discusses Kīhei teacher housing purchase",
   "topics": [
     "Housing",
     "Disaster Recovery"
   ],
+  "bodyType": "council",
   "meeting": {
     "id": "b_vOxQNivqQ",
     "mon": "Mar",
@@ -209,5 +207,7 @@
       ]
     }
   ],
-  "bodyType": "council"
+  "source": {
+    "youtubeUrl": "https://youtu.be/b_vOxQNivqQ"
+  }
 }

@@ -4,13 +4,11 @@
   "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
   "generatedAt": "2026-11-04T07:37:38.574Z",
   "meetingDateISO": "2026-10-15",
-  "source": {
-    "youtubeUrl": "https://youtu.be/Qe82vmTlsAk"
-  },
+  "headline": "Board of Water Supply",
   "topics": [
     "Water"
   ],
-  "headline": "Board of Water Supply",
+  "bodyType": "board",
   "meeting": {
     "id": "Qe82vmTlsAk",
     "mon": "Oct",
@@ -74,5 +72,7 @@
     "bills": []
   },
   "issues": [],
-  "bodyType": "board"
+  "source": {
+    "youtubeUrl": "https://youtu.be/Qe82vmTlsAk"
+  }
 }

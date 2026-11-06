@@ -4,14 +4,12 @@
   "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-17T02:03:26.642Z",
   "meetingDateISO": "2026-04-21",
-  "source": {
-    "youtubeUrl": "https://youtu.be/MioJdveXG-s"
-  },
   "headline": "Committee cuts two grant items, keeps $2.5 million for village wastewater project",
   "topics": [
     "Water",
     "Housing"
   ],
+  "bodyType": "council",
   "meeting": {
     "id": "MioJdveXG-s",
     "mon": "Apr",
@@ -143,5 +141,7 @@
       ]
     }
   ],
-  "bodyType": "council"
+  "source": {
+    "youtubeUrl": "https://youtu.be/MioJdveXG-s"
+  }
 }

@@ -4,9 +4,6 @@
   "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-21T14:02:26.423Z",
   "meetingDateISO": "2025-08-04",
-  "source": {
-    "youtubeUrl": "https://youtu.be/RtNHx0jaTX8"
-  },
   "headline": "Committee recommends Kahului workforce housing resolution, hears board applicant",
   "topics": [
     "Water",
@@ -14,6 +11,7 @@
     "Food Security",
     "Disaster Recovery"
   ],
+  "bodyType": "council",
   "meeting": {
     "id": "RtNHx0jaTX8",
     "mon": "Aug",
@@ -274,5 +272,7 @@
       "sources": []
     }
   ],
-  "bodyType": "council"
+  "source": {
+    "youtubeUrl": "https://youtu.be/RtNHx0jaTX8"
+  }
 }

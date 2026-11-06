@@ -4,13 +4,11 @@
   "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-17T03:04:22.535Z",
   "meetingDateISO": "2026-04-16",
-  "source": {
-    "youtubeUrl": "https://youtu.be/rOO2eQ7ZFn8"
-  },
   "headline": "Budget panel hears Environmental Management plan and sewer rate increase",
   "topics": [
     "Water"
   ],
+  "bodyType": "council",
   "meeting": {
     "id": "rOO2eQ7ZFn8",
     "mon": "Apr",
@@ -132,5 +130,7 @@
       ]
     }
   ],
-  "bodyType": "council"
+  "source": {
+    "youtubeUrl": "https://youtu.be/rOO2eQ7ZFn8"
+  }
 }

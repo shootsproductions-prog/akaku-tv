@@ -4,14 +4,12 @@
   "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-17T02:08:29.874Z",
   "meetingDateISO": "2026-04-21",
-  "source": {
-    "youtubeUrl": "https://youtu.be/Gt9NKmS2tPQ"
-  },
   "headline": "Budget committee approves housing changes, discusses Kīhei property purchase",
   "topics": [
     "Housing",
     "Disaster Recovery"
   ],
+  "bodyType": "council",
   "meeting": {
     "id": "Gt9NKmS2tPQ",
     "mon": "Apr",
@@ -113,5 +111,7 @@
       ]
     }
   ],
-  "bodyType": "council"
+  "source": {
+    "youtubeUrl": "https://youtu.be/Gt9NKmS2tPQ"
+  }
 }

@@ -4,14 +4,12 @@
   "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-17T03:24:30.029Z",
   "meetingDateISO": "2026-04-15",
-  "source": {
-    "youtubeUrl": "https://youtu.be/ov8uxTErSC8"
-  },
   "headline": "Lānaʻi residents share budget priorities with Council committee",
   "topics": [
     "Housing",
     "Food Security"
   ],
+  "bodyType": "council",
   "meeting": {
     "id": "ov8uxTErSC8",
     "mon": "Apr",
@@ -133,5 +131,7 @@
       ]
     }
   ],
-  "bodyType": "council"
+  "source": {
+    "youtubeUrl": "https://youtu.be/ov8uxTErSC8"
+  }
 }

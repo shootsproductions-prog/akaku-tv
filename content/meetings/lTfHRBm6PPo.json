@@ -4,11 +4,9 @@
   "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
   "generatedAt": "2026-11-04T07:39:01.702Z",
   "meetingDateISO": "2026-10-21",
-  "source": {
-    "youtubeUrl": "https://youtu.be/lTfHRBm6PPo"
-  },
-  "topics": [],
   "headline": "Lānaʻi Planning Commission Approves STR & AT&T Permit Extensions",
+  "topics": [],
+  "bodyType": "board",
   "meeting": {
     "id": "lTfHRBm6PPo",
     "mon": "Oct",
@@ -68,5 +66,7 @@
     "bills": []
   },
   "issues": [],
-  "bodyType": "board"
+  "source": {
+    "youtubeUrl": "https://youtu.be/lTfHRBm6PPo"
+  }
 }

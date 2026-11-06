@@ -4,13 +4,11 @@
   "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-17T02:22:55.306Z",
   "meetingDateISO": "2026-04-21",
-  "source": {
-    "youtubeUrl": "https://youtu.be/Adpx8IMDk1I"
-  },
   "headline": "Budget committee reviews Bill 55, approves cuts and bus fare change, adjourns until tomorrow",
   "topics": [
     "Housing"
   ],
+  "bodyType": "council",
   "meeting": {
     "id": "Adpx8IMDk1I",
     "mon": "Apr",
@@ -69,5 +67,7 @@
     ]
   },
   "issues": [],
-  "bodyType": "council"
+  "source": {
+    "youtubeUrl": "https://youtu.be/Adpx8IMDk1I"
+  }
 }

@@ -4,14 +4,12 @@
   "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
   "generatedAt": "2026-11-04T07:39:22.945Z",
   "meetingDateISO": "2026-08-05",
-  "source": {
-    "youtubeUrl": "https://youtu.be/Pf3okNoee3g"
-  },
+  "headline": "Housing & Land Use Committee",
   "topics": [
     "Housing",
     "Disaster Recovery"
   ],
-  "headline": "Housing & Land Use Committee",
+  "bodyType": "board",
   "meeting": {
     "id": "Pf3okNoee3g",
     "mon": "Aug",
@@ -63,5 +61,7 @@
     "bills": []
   },
   "issues": [],
-  "bodyType": "board"
+  "source": {
+    "youtubeUrl": "https://youtu.be/Pf3okNoee3g"
+  }
 }

@@ -4,13 +4,11 @@
   "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-18T21:03:23.797Z",
   "meetingDateISO": "2025-03-24",
-  "source": {
-    "youtubeUrl": "https://youtu.be/ZdlzVeIy0Lw"
-  },
   "headline": "Committee defers Bill 111 on removing and storing personal property in public places",
   "topics": [
     "Housing"
   ],
+  "bodyType": "council",
   "meeting": {
     "id": "ZdlzVeIy0Lw",
     "mon": "Mar",
@@ -132,5 +130,7 @@
       ]
     }
   ],
-  "bodyType": "council"
+  "source": {
+    "youtubeUrl": "https://youtu.be/ZdlzVeIy0Lw"
+  }
 }
