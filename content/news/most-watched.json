@@ -1,23 +1,23 @@
 {
  "schemaVersion": 1,
- "viewsAsOfISO": "2026-10-29T16:30:57.568Z",
+ "viewsAsOfISO": "2026-11-07T16:32:04.357Z",
  "months": {
   "2026-10": [
    {
     "rank": 1,
-    "episodeId": "261013",
-    "dateISO": "2026-10-13",
-    "videoId": "eTdA0qAmxPA",
-    "title": "The Maui Daily · Oct 13, 2026",
-    "views": 6202
-   },
-   {
-    "rank": 2,
     "episodeId": "261023",
     "dateISO": "2026-10-23",
     "videoId": "R1eCXgK45xA",
     "title": "The Maui Daily · Oct 23, 2026",
-    "views": 6018
+    "views": 6752
+   },
+   {
+    "rank": 2,
+    "episodeId": "261013",
+    "dateISO": "2026-10-13",
+    "videoId": "eTdA0qAmxPA",
+    "title": "The Maui Daily · Oct 13, 2026",
+    "views": 6231
    },
    {
     "rank": 3,
@@ -25,7 +25,7 @@
     "dateISO": "2026-10-08",
     "videoId": "JQaOrA_J06A",
     "title": "The Maui Daily · Oct 8, 2026",
-    "views": 4303
+    "views": 4313
    },
    {
     "rank": 4,
@@ -33,7 +33,7 @@
     "dateISO": "2026-10-21",
     "videoId": "kTAEWoOrdDI",
     "title": "AI Data Center, Haleakalā Telescopes & ʻAlalā Thrive | Maui Daily",
-    "views": 3933
+    "views": 4160
    },
    {
     "rank": 5,
@@ -41,7 +41,7 @@
     "dateISO": "2026-10-05",
     "videoId": "lmIj2y1ykes",
     "title": "Beach Erosion, Front Street Rebuild & HECO Rate Hike | Maui Daily",
-    "views": 3515
+    "views": 3519
    },
    {
     "rank": 6,
@@ -49,7 +49,7 @@
     "dateISO": "2026-10-07",
     "videoId": "Hn_e0S-iSwo",
     "title": "Meth Mailing Case, Molokaʻi Stray Dogs & Wao Akua Exhibit | Maui Daily",
-    "views": 3124
+    "views": 3127
    },
    {
     "rank": 7,
@@ -57,31 +57,31 @@
     "dateISO": "2026-10-26",
     "videoId": "DiVQUN6gN18",
     "title": "Low Voter Turnout, Fatal Crash & First Whales of Season | Maui Daily",
-    "views": 1506
+    "views": 2153
    },
    {
     "rank": 8,
+    "episodeId": "261028",
+    "dateISO": "2026-10-28",
+    "videoId": "b_Nyfy-_sHE",
+    "title": "Election Spending Records, Bad Cop Denied Bail & Floods | Maui Daily",
+    "views": 1264
+   },
+   {
+    "rank": 9,
     "episodeId": "261014",
     "dateISO": "2026-10-14",
     "videoId": "PzEH6cJjilQ",
     "title": "The Maui Daily · Oct 14, 2026",
-    "views": 1250
-   },
-   {
-    "rank": 9,
-    "episodeId": "261012",
-    "dateISO": "2026-10-12",
-    "videoId": "3aAuw_K2b3U",
-    "title": "The Maui Daily · Oct 12, 2026",
-    "views": 1216
+    "views": 1262
    },
    {
     "rank": 10,
-    "episodeId": "261019",
-    "dateISO": "2026-10-19",
-    "videoId": "mJ_ImDsOGJ0",
-    "title": "Acting Police Chief, No Dictators Protest & UHERO Fire Study",
-    "views": 1115
+    "episodeId": "261029",
+    "dateISO": "2026-10-29",
+    "videoId": "9LCcZPfN-Bg",
+    "title": "Hāna Flash Flooding, Door-Kicking Trend & Kahului Harbor Grant | Maui Daily",
+    "views": 1234
    }
   ],
   "2026-09": [
@@ -91,7 +91,7 @@
     "dateISO": "2026-09-02",
     "videoId": "5SOA3yK9hXI",
     "title": "Hurricane Lowell, Kīhei Safeway Fight & Lahaina Contractor Scams | Maui Daily",
-    "views": 3983
+    "views": 3984
    },
    {
     "rank": 2,
@@ -99,7 +99,7 @@
     "dateISO": "2026-09-03",
     "videoId": "VHcCGPvoqTc",
     "title": "Hurricane Lowell, FBI Probe of MPD Officer & Pāʻia Mill Revival | Maui Daily",
-    "views": 2571
+    "views": 2573
    },
    {
     "rank": 3,
@@ -107,7 +107,7 @@
     "dateISO": "2026-09-24",
     "videoId": "ASHbqE0H0hA",
     "title": "Tropical Storm Nolo, Statewide Closures & Akakū Funding Threat | Maui Daily",
-    "views": 1866
+    "views": 1867
    },
    {
     "rank": 4,
@@ -115,7 +115,7 @@
     "dateISO": "2026-09-28",
     "videoId": "_ZLSNviwflk",
     "title": "Olowalu Fire, Hurricane Nolo Damage & Kula Water Main | Maui Daily",
-    "views": 1861
+    "views": 1863
    },
    {
     "rank": 5,
@@ -123,7 +123,7 @@
     "dateISO": "2026-09-17",
     "videoId": "tB2AgWqhF0o",
     "title": "Hawaiian Activist Palikapu Laid to Rest, Akakū Defunding & Lahaina Mail Fight | Maui Daily",
-    "views": 1706
+    "views": 1708
    },
    {
     "rank": 6,
@@ -139,7 +139,7 @@
     "dateISO": "2026-09-22",
     "videoId": "nuHGqyfSrEI",
     "title": "Haleakalā Telescope Protests, Egg Relief & HECO Rate Hike | Maui Daily",
-    "views": 1339
+    "views": 1341
    },
    {
     "rank": 8,
@@ -147,7 +147,7 @@
     "dateISO": "2026-09-29",
     "videoId": "DVHDMP8qS0M",
     "title": "Wildfire Heavy Metals, HECO Fossil Fuel Plans & Maui Fair Opens | Maui Daily",
-    "views": 893
+    "views": 894
    },
    {
     "rank": 9,
@@ -155,15 +155,15 @@
     "dateISO": "2026-09-10",
     "videoId": "4QcMy9l9myk",
     "title": "The Maui Daily · Sep 10, 2026",
-    "views": 701
+    "views": 708
    },
    {
     "rank": 10,
-    "episodeId": "260930",
-    "dateISO": "2026-09-30",
-    "videoId": "JhDvASnyGu4",
-    "title": "Officer O. Murder Trial, HECO Rate Hike & STR Rezoning | Maui Daily",
-    "views": 637
+    "episodeId": "260908",
+    "dateISO": "2026-09-08",
+    "videoId": "0D9QB6DA-O0",
+    "title": "$20,000 Reward on Monk Seal Killing & Hāna Bridge Restoration | Maui Daily",
+    "views": 469
    }
   ],
   "2026-08": [
@@ -173,7 +173,7 @@
     "dateISO": "2026-08-27",
     "videoId": "lNtLm_VPgCc",
     "title": "Murder Suspect Speaks, Māʻalaea Break-Ins & Tariff Hits Fire Station | Maui Daily",
-    "views": 4802
+    "views": 4805
    },
    {
     "rank": 2,
@@ -181,7 +181,7 @@
     "dateISO": "2026-08-20",
     "videoId": "QoF5R4mL4O0",
     "title": "East Maui Water Bombshell, MPD Probe Expands & Nahiku Cut Off  | Maui Daily",
-    "views": 3051
+    "views": 3052
    },
    {
     "rank": 3,
@@ -189,7 +189,7 @@
     "dateISO": "2026-08-31",
     "videoId": "dvoXyq9KWoI",
     "title": "Kahului Killing, Tropical Storm Lowell & Kalaupapa Memorial | Maui Daily",
-    "views": 2536
+    "views": 2537
    },
    {
     "rank": 4,
@@ -197,7 +197,7 @@
     "dateISO": "2026-08-19",
     "videoId": "lmWq1WeTUts",
     "title": "Kirill Basin in Court, Hurricane Recovery & Bank Fraud | Maui Daily",
-    "views": 1212
+    "views": 1214
    },
    {
     "rank": 5,
@@ -229,7 +229,7 @@
     "dateISO": "2026-08-26",
     "videoId": "XDk_kwu-3II",
     "title": "The Maui Daily · Aug 26, 2026",
-    "views": 310
+    "views": 313
    },
    {
     "rank": 9,
@@ -237,7 +237,7 @@
     "dateISO": "2026-08-24",
     "videoId": "2q9-wMl3tPE",
     "title": "Nāhiku Isolated, Hurricane Lala Recovery & Waikapu School Design | Maui Daily",
-    "views": 213
+    "views": 215
    },
    {
     "rank": 10,
@@ -255,7 +255,7 @@
     "dateISO": "2026-07-29",
     "videoId": "43TJXLtCLFo",
     "title": "Haiku Speed Tables Removed, PETA Probes Makawao Stampede | Maui Daily",
-    "views": 316
+    "views": 318
    },
    {
     "rank": 2,
@@ -271,7 +271,7 @@
     "dateISO": "2026-07-13",
     "videoId": "pvy595DIYsk",
     "title": "Lahaina Homecoming Celebration, More Kalaupapa Protest & Bissen Lawsuits | Maui Daily",
-    "views": 240
+    "views": 241
    },
    {
     "rank": 4,
@@ -287,7 +287,7 @@
     "dateISO": "2026-07-14",
     "videoId": "ZKalAHyS_bk",
     "title": "Young Brothers Delays, Lanai Air Bids & Bears Ears | Maui Daily",
-    "views": 174
+    "views": 175
    },
    {
     "rank": 6,
@@ -319,7 +319,7 @@
     "dateISO": "2026-07-07",
     "videoId": "3WXOnRzs8ZI",
     "title": "Lahaina Front Street Rebuild Begins: Ulu Olele Marketplace | Maui Daily",
-    "views": 133
+    "views": 137
    },
    {
     "rank": 10,
@@ -327,7 +327,7 @@
     "dateISO": "2026-07-28",
     "videoId": "F7UG0VeaHpI",
     "title": "New Emergency Ops Center, Kaanapali Arrests & Lahaina Recovery | Maui Daily",
-    "views": 117
+    "views": 118
    }
   ],
   "2026-06": [
@@ -349,6 +349,14 @@
    },
    {
     "rank": 3,
+    "episodeId": "260629",
+    "dateISO": "2026-06-29",
+    "videoId": "J7Azde0DQ4g",
+    "title": "The Makawao Parade, Olowalu Reef in Crisis, Airport Runway Plans & Safe Parking Delay | Maui Daily",
+    "views": 517
+   },
+   {
+    "rank": 4,
     "episodeId": "260615",
     "dateISO": "2026-06-15",
     "videoId": "pb_3bHbLBK8",
@@ -356,20 +364,12 @@
     "views": 517
    },
    {
-    "rank": 4,
-    "episodeId": "260629",
-    "dateISO": "2026-06-29",
-    "videoId": "J7Azde0DQ4g",
-    "title": "The Makawao Parade, Olowalu Reef in Crisis, Airport Runway Plans & Safe Parking Delay | Maui Daily",
-    "views": 516
-   },
-   {
     "rank": 5,
     "episodeId": "260604",
     "dateISO": "2026-06-04",
     "videoId": "VDkZvL1FgAI",
     "title": "The Maui Daily · Jun 4, 2026",
-    "views": 421
+    "views": 431
    },
    {
     "rank": 6,
@@ -389,18 +389,18 @@
    },
    {
     "rank": 8,
-    "episodeId": "260626",
-    "dateISO": "2026-06-26",
-    "videoId": "jCvB3B7vqJY",
-    "title": "Makawao Parade, West Maui Forum & Kilauea Erupts | Maui Daily",
-    "views": 181
-   },
-   {
-    "rank": 9,
     "episodeId": "260610",
     "dateISO": "2026-06-10",
     "videoId": "iGBMdpGs9ZQ",
     "title": "Wailuku Armed Robbery, Earthquake & 6 Tons of Trash | Maui Daily",
+    "views": 182
+   },
+   {
+    "rank": 9,
+    "episodeId": "260626",
+    "dateISO": "2026-06-26",
+    "videoId": "jCvB3B7vqJY",
+    "title": "Makawao Parade, West Maui Forum & Kilauea Erupts | Maui Daily",
     "views": 181
    },
    {
@@ -409,7 +409,7 @@
     "dateISO": "2026-06-24",
     "videoId": "AAFOKCQWUSk",
     "title": "The Maui Daily · Jun 24, 2026",
-    "views": 149
+    "views": 151
    }
   ],
   "2026-05": [
@@ -419,7 +419,7 @@
     "dateISO": "2026-05-08",
     "videoId": "uUGnvJOnTm0",
     "title": "The Maui Daily · May 8, 2026",
-    "views": 6349
+    "views": 6351
    },
    {
     "rank": 2,
@@ -427,7 +427,7 @@
     "dateISO": "2026-05-29",
     "videoId": "HDJ7KLMQa2w",
     "title": "Triple Homicide Arrest, Drones Overhead & Lahaina Homecoming | Maui Daily",
-    "views": 425
+    "views": 426
    },
    {
     "rank": 3,
@@ -435,7 +435,7 @@
     "dateISO": "2026-05-18",
     "videoId": "y7YwYFqRMMQ",
     "title": "West Maui Water Deal & Lahaina Factory Housing Approved | Maui Daily",
-    "views": 373
+    "views": 377
    },
    {
     "rank": 4,
@@ -443,7 +443,7 @@
     "dateISO": "2026-05-28",
     "videoId": "aKIB8ySfz88",
     "title": "OHA Eyes KITV Purchase, Shipping Rate Hikes & Kihei Sinkholes | Maui Daily",
-    "views": 342
+    "views": 345
    },
    {
     "rank": 5,
@@ -467,7 +467,7 @@
     "dateISO": "2026-05-14",
     "videoId": "-Imh-jW4W4c",
     "title": "Maui Homelessness Jumps 40%, Green Fee Transparency Fails | Maui Daily",
-    "views": 158
+    "views": 169
    },
    {
     "rank": 8,
@@ -501,7 +501,7 @@
     "dateISO": "2026-04-27",
     "videoId": "Q_q-JGkK2d4",
     "title": "Mayor Lawsuit, $1.66B Budget & Kula Hospital Future | Maui Daily",
-    "views": 208
+    "views": 214
    },
    {
     "rank": 2,
@@ -509,7 +509,7 @@
     "dateISO": "2026-04-10",
     "videoId": "BdLfITacET0",
     "title": "Miss Aloha Hula Title, Weather Alerts & Small Biz Town Hall - The Maui Daily Report, 2026",
-    "views": 130
+    "views": 134
    },
    {
     "rank": 3,
@@ -521,18 +521,18 @@
    },
    {
     "rank": 4,
-    "episodeId": "260413",
-    "dateISO": "2026-04-13",
-    "videoId": "lSe-1WDUOUk",
-    "title": "Maui Storm Recovery: New Emergency Rules for Homeowners / The Maui Daily Report, April 13 2026",
-    "views": 102
-   },
-   {
-    "rank": 5,
     "episodeId": "260406",
     "dateISO": "2026-04-06",
     "videoId": "uRK07ixvvPI",
     "title": "Heavy Rain Warning, Flood Recovery Resources & Local News | Maui Daily Report: April 6, 2026",
+    "views": 103
+   },
+   {
+    "rank": 5,
+    "episodeId": "260413",
+    "dateISO": "2026-04-13",
+    "videoId": "lSe-1WDUOUk",
+    "title": "Maui Storm Recovery: New Emergency Rules for Homeowners / The Maui Daily Report, April 13 2026",
     "views": 102
    },
    {
@@ -601,7 +601,7 @@
     "dateISO": "2026-01-09",
     "videoId": "XfP1ryP7IOw",
     "title": "Hawaiian Electric's $47M Settlement, ICE Arrests Quadruple & Maui's Doctor Shortage | Maui Daily",
-    "views": 60
+    "views": 61
    }
   ],
   "2025-06": [
@@ -713,18 +713,18 @@
    },
    {
     "rank": 8,
-    "episodeId": "250522",
-    "dateISO": "2025-05-22",
-    "videoId": "Rl-B2vjMFlc",
-    "title": "The Maui Daily Report: May 22, 2025",
-    "views": 84
-   },
-   {
-    "rank": 9,
     "episodeId": "250501",
     "dateISO": "2025-05-01",
     "videoId": "Cd0su_7JilU",
     "title": "The Maui Daily Report: May 1, 2025",
+    "views": 85
+   },
+   {
+    "rank": 9,
+    "episodeId": "250522",
+    "dateISO": "2025-05-22",
+    "videoId": "Rl-B2vjMFlc",
+    "title": "The Maui Daily Report: May 22, 2025",
     "views": 84
    },
    {
@@ -889,7 +889,7 @@
     "dateISO": "2025-03-10",
     "videoId": "4_-P-65iCFE",
     "title": "The Maui Daily Report: March 10, 2025",
-    "views": 55
+    "views": 56
    },
    {
     "rank": 10,
@@ -907,7 +907,7 @@
     "dateISO": "2025-02-13",
     "videoId": "oJMTy9GPwMM",
     "title": "The Maui Daily Report: Feb. 13, 2025",
-    "views": 390
+    "views": 392
    },
    {
     "rank": 2,
