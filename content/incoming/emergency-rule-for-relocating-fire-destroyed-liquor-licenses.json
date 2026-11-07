@@ -1,0 +1,263 @@
+{
+  "slug": "emergency-rule-for-relocating-fire-destroyed-liquor-licenses",
+  "title": "Emergency rule for relocating fire-destroyed liquor licenses",
+  "summary": "On September 9, 2026, the commission unanimously approved the seventh reauthorization of its emergency rule on relocating liquor licenses from premises destroyed in the August 2023 wildfires. The rule must return each time the governor's emergency proclamation is renewed. It lets an applicant ask for a hearing before the commission to make the case for using a relocation application.",
+  "topics": [
+    "disaster-recovery",
+    "economy"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2024-10-09",
+  "lastSeenISO": "2026-10-28",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-07",
+  "timeline": [
+    {
+      "dateISO": "2026-10-28",
+      "text": "The County issued a news release inviting the public to review proposed restructuring and amendments to the Liquor Commission rules. The amendments return to the commission's agenda on November 12, 2026.",
+      "basis": "reported",
+      "source": {
+        "type": "county-release",
+        "url": "https://www.mauicounty.gov/CivicAlerts.aspx?AID=19637",
+        "publisher": "County of Maui",
+        "quote": "The proposed amendments return to the Commission's agenda for further consideration and public testimony.",
+        "retrievedISO": "2026-11-06T03:23:49.250Z"
+      }
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "The commission approved the reauthorization unanimously.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "vp8RrdPVBC0",
+        "ts": "2:00:55",
+        "endTs": "2:01:36",
+        "retrievedISO": "2026-10-07T23:03:59.641Z"
+      },
+      "body": "Liquor Control Commission"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "The item was the seventh reauthorization of the emergency rule.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "vp8RrdPVBC0",
+        "ts": "2:00:44",
+        "endTs": "2:01:14",
+        "retrievedISO": "2026-10-07T23:03:59.641Z"
+      },
+      "body": "Liquor Control Commission"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "Seventh reauthorization of emergency rule on relocating liquor licenses: The commission approved the seventh reauthorization of the emergency rule for premises destroyed in the August 2023 wildfires.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "vp8RrdPVBC0",
+        "ts": "2:00:03",
+        "endTs": "2:01:36",
+        "retrievedISO": "2026-10-07T23:03:59.641Z"
+      },
+      "body": "Liquor Control Commission"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "The vote to reauthorize the rule was unanimous.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "JbnNdXeWXNo",
+        "ts": "1:59:00",
+        "endTs": "1:59:30",
+        "retrievedISO": "2026-10-07T23:03:46.572Z"
+      },
+      "body": "Liquor Control Commission"
+    },
+    {
+      "dateISO": "2026-09-09",
+      "text": "The rule covers relocation for premises destroyed as a result of the August 2023 wildfires.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "JbnNdXeWXNo",
+        "ts": "1:57:56",
+        "endTs": "1:58:26",
+        "retrievedISO": "2026-10-07T23:03:46.572Z"
+      },
+      "body": "Liquor Control Commission"
+    },
+    {
+      "dateISO": "2026-03-11",
+      "text": "The commission adopted the sixth reauthorization of the emergency rule on March 11, 2026 (transmitted March 23, 2026). Earlier renewals came on March 12, July 9 and November 12, 2025. The page jumps from November 2024 to the seventh reauthorization in September 2026.",
+      "basis": "reported",
+      "source": {
+        "type": "county-page",
+        "url": "https://www.mauicounty.gov/DocumentCenter/View/159581/2026-March-23-6th-Reauthorization-of-Emergency-Rule-PDF",
+        "publisher": "County of Maui",
+        "quote": "This reauthorization serves to renew the Emergency Rule adopted by the Liquor Control Commission on January 17, 2024 and received by the Clerk of the County of Maui on January 26, 2024, which was renewed at the May 8, 2024, November 13, 2024, March 12, 2025, July 9, 2025 and November 12, 2025 meetings of the Liquor Control Commission",
+        "retrievedISO": "2026-11-06T03:23:53.727Z"
+      }
+    },
+    {
+      "dateISO": "2024-11-13",
+      "text": "Renewed reauthorization of the emergency rule on relocation liquor license applications: The commission approved the renewed emergency rule on relocation liquor license applications.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ANUL26xJBj4",
+        "ts": "1:44:38",
+        "endTs": "1:45:36",
+        "retrievedISO": "2026-10-15T06:35:23.973Z"
+      },
+      "body": "Liquor Control Commission"
+    },
+    {
+      "dateISO": "2024-11-13",
+      "text": "The rule lets an applicant ask for a hearing before the commission to make its case for using a relocation application.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ANUL26xJBj4",
+        "ts": "1:43:42",
+        "endTs": "1:44:46",
+        "retrievedISO": "2026-10-15T06:35:23.973Z"
+      },
+      "body": "Liquor Control Commission"
+    },
+    {
+      "dateISO": "2024-11-13",
+      "text": "A paragraph number six that was missing last month has been added to the rule.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ANUL26xJBj4",
+        "ts": "1:43:20",
+        "endTs": "1:43:57",
+        "retrievedISO": "2026-10-15T06:35:23.973Z"
+      },
+      "body": "Liquor Control Commission"
+    },
+    {
+      "dateISO": "2024-11-13",
+      "text": "The commission reviewed a renewed emergency rule on liquor license relocation for premises destroyed by the August 2023 wildfires.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ANUL26xJBj4",
+        "ts": "1:42:40",
+        "endTs": "1:43:19",
+        "retrievedISO": "2026-10-15T06:35:23.973Z"
+      },
+      "body": "Liquor Control Commission"
+    },
+    {
+      "dateISO": "2024-10-09",
+      "text": "The commission unanimously voted to defer the emergency rule item.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "V3SSqyhfcjk",
+        "ts": "1:39:24",
+        "endTs": "1:40:02",
+        "retrievedISO": "2026-11-04T07:35:16.021Z"
+      },
+      "body": "Liquor Control Commission"
+    },
+    {
+      "dateISO": "2024-10-09",
+      "text": "The chair suggested deferring the emergency rule to next month to see why a provision was missing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "V3SSqyhfcjk",
+        "ts": "1:37:19",
+        "endTs": "1:37:50",
+        "retrievedISO": "2026-11-04T07:35:16.021Z"
+      },
+      "body": "Liquor Control Commission"
+    },
+    {
+      "dateISO": "2024-10-09",
+      "text": "Commissioners found a sixth provision they had added was missing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "V3SSqyhfcjk",
+        "ts": "1:36:55",
+        "endTs": "1:37:25",
+        "retrievedISO": "2026-11-04T07:35:16.021Z"
+      },
+      "body": "Liquor Control Commission"
+    },
+    {
+      "dateISO": "2024-10-09",
+      "text": "A commissioner said many restaurant and bar operators had to change how they do business because of the fires.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "V3SSqyhfcjk",
+        "ts": "1:33:49",
+        "endTs": "1:34:19",
+        "retrievedISO": "2026-11-04T07:35:16.021Z"
+      },
+      "body": "Liquor Control Commission"
+    },
+    {
+      "dateISO": "2024-10-09",
+      "text": "A commissioner said the wildfire relocation rule's wording, 'destroyed or rendered inoperable,' is too narrow.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "V3SSqyhfcjk",
+        "ts": "1:33:35",
+        "endTs": "1:34:05",
+        "retrievedISO": "2026-11-04T07:35:16.021Z"
+      },
+      "body": "Liquor Control Commission"
+    },
+    {
+      "dateISO": "2024-10-09",
+      "text": "The director said the rule must come back each time the governor's emergency proclamation expires and is renewed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "V3SSqyhfcjk",
+        "ts": "1:32:13",
+        "endTs": "1:32:48",
+        "retrievedISO": "2026-11-04T07:35:16.021Z"
+      },
+      "body": "Liquor Control Commission"
+    },
+    {
+      "dateISO": "2024-10-09",
+      "text": "The commission is reviewing the renewal of an emergency rule for relocating liquor licenses from premises destroyed by the August 2023 wildfires.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "V3SSqyhfcjk",
+        "ts": "1:31:33",
+        "endTs": "1:32:05",
+        "retrievedISO": "2026-11-04T07:35:16.021Z"
+      },
+      "body": "Liquor Control Commission"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Liquor Control Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "30-million-bonds-for-molokai-land-purchases",
+  "title": "$30 million bonds for Molokaʻi land purchases",
+  "summary": "Bills 150 and 151 would allow $30 million in bond borrowing for Molokaʻi land purchases. The vice chair noted the bills do not name parcels, acreage, sellers or values. The managing director said the county must get council approval before buying any property.",
+  "topics": [
+    "land-use",
+    "government"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-10-23",
+  "lastSeenISO": "2026-10-23",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 3,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-07",
+  "timeline": [
+    {
+      "dateISO": "2026-10-23",
+      "text": "The managing director said the county must get council approval before buying any property.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xMD8TVwkYz8",
+        "ts": "0:45:30",
+        "endTs": "0:46:03",
+        "retrievedISO": "2026-10-24T01:03:52.665Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-10-23",
+      "text": "The vice chair said the bills do not name parcels, acreage, sellers or values.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xMD8TVwkYz8",
+        "ts": "0:39:27",
+        "endTs": "0:39:57",
+        "retrievedISO": "2026-10-24T01:03:52.665Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-10-23",
+      "text": "Bills 150 and 151 would allow $30 million in bond borrowing for Molokaʻi land purchases.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xMD8TVwkYz8",
+        "ts": "0:39:19",
+        "endTs": "0:39:49",
+        "retrievedISO": "2026-10-24T01:03:52.665Z"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [
+    "Bill 150 (2026)",
+    "Bill 151 (2026)"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "half-percent-general-excise-tax-surcharge",
+  "title": "Half-percent general excise tax surcharge",
+  "summary": "At the June 19, 2023 meeting, the vice chair asked the department for estimates of what a GET surcharge could cover. The vice chair has said a half-percent GET surcharge could pay for water and sewer infrastructure for housing.",
+  "topics": [
+    "economy",
+    "housing",
+    "government"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2023-06-19",
+  "lastSeenISO": "2023-06-19",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-07",
+  "timeline": [
+    {
+      "dateISO": "2023-06-19",
+      "text": "The vice chair asked the department for estimates of what the GET surcharge could cover.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "vRTr2Quu1bg",
+        "ts": "0:49:46",
+        "endTs": "0:50:16",
+        "retrievedISO": "2026-10-18T19:05:54.720Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2023-06-19",
+      "text": "The vice chair said a half-percent GET surcharge could pay for water and sewer infrastructure for housing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "vRTr2Quu1bg",
+        "ts": "0:28:22",
+        "endTs": "0:28:52",
+        "retrievedISO": "2026-10-18T19:05:54.720Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Water and Infrastructure Committee",
+      "group": "council",
+      "short": [
+        "WAI"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
