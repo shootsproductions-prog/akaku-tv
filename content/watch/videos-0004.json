@@ -1,6 +1,862 @@
 {
  "videos": [
   {
+   "id": "g1BM0Yf9hyo",
+   "title": "Mayor Bissen Presents FY2026 Maui County Budget",
+   "publishedISO": "2026-11-06T04:47:29Z",
+   "durationSeconds": 1090,
+   "kind": "vod"
+  },
+  {
+   "id": "b_vOxQNivqQ",
+   "title": "Budget, Finance, and Economic Development | Mar 5, 2024",
+   "publishedISO": "2026-11-06T03:19:31Z",
+   "durationSeconds": 15717,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "b_vOxQNivqQ"
+  },
+  {
+   "id": "pIAO9bdqwOE",
+   "title": "Water and Infrastructure: Committee backs push for more recycled R1 water | Oct 10, 2024",
+   "publishedISO": "2026-11-06T03:17:37Z",
+   "durationSeconds": 8898,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "pIAO9bdqwOE"
+  },
+  {
+   "id": "RtNHx0jaTX8",
+   "title": "Maui County Council: Kahului Workforce Housing Advances 7-0 | Aug 4, 2025",
+   "publishedISO": "2026-11-06T03:16:38Z",
+   "durationSeconds": 8789,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "RtNHx0jaTX8"
+  },
+  {
+   "id": "sT3Zhgq1u2o",
+   "title": "Maui Council Committee Advances Bill 9: Vacation Rental Phase-Out 6–3 | Jul 24, 2025",
+   "publishedISO": "2026-11-06T03:15:53Z",
+   "durationSeconds": 9654,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "sT3Zhgq1u2o"
+  },
+  {
+   "id": "ZdlzVeIy0Lw",
+   "title": "Maui Council Defers Bill 111 After Davis Ruling on Sweeps | Mar 24, 2025",
+   "publishedISO": "2026-11-06T03:14:49Z",
+   "durationSeconds": 3772,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "ZdlzVeIy0Lw"
+  },
+  {
+   "id": "suPQ7wemd_I",
+   "title": "Maui Council Rejects Planning Nominee 5-4, Funds Lahainā Land Trust | Feb 21, 2025",
+   "publishedISO": "2026-11-06T03:10:52Z",
+   "durationSeconds": 21015,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "suPQ7wemd_I"
+  },
+  {
+   "id": "1wzlTecIqTE",
+   "title": "Maui County ADEPT: Ferry Study, Ag Review & Watershed Grants | Feb 20, 2025",
+   "publishedISO": "2026-11-06T03:10:15Z",
+   "durationSeconds": 18834,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "1wzlTecIqTE"
+  },
+  {
+   "id": "bRKoNKr07JM",
+   "title": "Water Authority, Social Services, and Parks | Oct 24, 2024",
+   "publishedISO": "2026-11-06T03:05:45Z",
+   "durationSeconds": 10620,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "bRKoNKr07JM"
+  },
+  {
+   "id": "-YeXuiAzmiU",
+   "title": "Maui BFED Committee: FY27 Budget Testimony on STEM, Cycle Strong & Farms",
+   "publishedISO": "2026-11-05T22:23:44Z",
+   "durationSeconds": 7060,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "-YeXuiAzmiU"
+  },
+  {
+   "id": "vRTr2Quu1bg",
+   "title": "Waiale Road Extension: Public Works Presents $34M Plan to Committee",
+   "publishedISO": "2026-11-05T22:10:25Z",
+   "durationSeconds": 3525,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "vRTr2Quu1bg"
+  },
+  {
+   "id": "-6Atiqjh1VY",
+   "title": "Introducing the Maui Tracker by Akakū: Follow Every County Decision",
+   "publishedISO": "2026-11-05T05:08:27Z",
+   "durationSeconds": 105,
+   "kind": "vod"
+  },
+  {
+   "id": "60-iNWQV0xU",
+   "title": "Halloween Franchise Ranked Worst to Best + Zombie Golf Review",
+   "publishedISO": "2026-11-04T22:23:51Z",
+   "durationSeconds": 3641,
+   "kind": "vod"
+  },
+  {
+   "id": "YUjX308R8HE",
+   "title": "Da Local Show Segment on Vandalism in Maui Lani Neighbourhoods",
+   "publishedISO": "2026-11-04T18:26:50Z",
+   "durationSeconds": 1678,
+   "kind": "vod"
+  },
+  {
+   "id": "i1vob5m0S4Q",
+   "title": "Maui Planning Commission: Wailea Leadcore SMA Intervention Granted | Oct 27, 2026",
+   "publishedISO": "2026-11-01T03:00:01Z",
+   "durationSeconds": 13547,
+   "kind": "vod"
+  },
+  {
+   "id": "Gb94XK4TWL0",
+   "title": "Maui Council Advances Pāʻia Town Project: 170 Homes, Parking & Zoning | May 20, 2026",
+   "publishedISO": "2026-11-01T02:59:35Z",
+   "durationSeconds": 10335,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "Gb94XK4TWL0"
+  },
+  {
+   "id": "9gbdbiJFaw8",
+   "title": "Maui County Council: Honoring Chubby Bissens & $6M for Lahaina | May 1, 2026",
+   "publishedISO": "2026-11-01T02:59:02Z",
+   "durationSeconds": 9776,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "9gbdbiJFaw8"
+  },
+  {
+   "id": "OkWie4ie_qY",
+   "title": "Maui Council Fuel Tax Public Hearing: No Testimony | May 15, 2026",
+   "publishedISO": "2026-11-01T02:58:46Z",
+   "durationSeconds": 501,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "OkWie4ie_qY"
+  },
+  {
+   "id": "Z_F_E5XxQT8",
+   "title": "Maui Council Hearing: Motor Vehicle Weight Tax Rates FY2027",
+   "publishedISO": "2026-11-01T02:58:15Z",
+   "durationSeconds": 905,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "Z_F_E5XxQT8"
+  },
+  {
+   "id": "R9SzzFVwr60",
+   "title": "Maui County Council Adopts FY27 Budget: Mantokūji, CDBG & Tax Rates | May 15, 2026",
+   "publishedISO": "2026-11-01T02:57:38Z",
+   "durationSeconds": 18509,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "R9SzzFVwr60"
+  },
+  {
+   "id": "Ty3pWaFA3xM",
+   "title": "Water & Infrastructure Committee: Bill 76 Water Fee & Bill 49 Parking",
+   "publishedISO": "2026-11-01T02:57:05Z",
+   "durationSeconds": 6377,
+   "kind": "vod"
+  },
+  {
+   "id": "gt5GLPfOc-s",
+   "title": "Maui County Council: Bill 88 Hotel Zoning Passes 7-2, FY27 Budget Adopted | Jun 5, 2026",
+   "publishedISO": "2026-11-01T02:55:49Z",
+   "durationSeconds": 17459,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "gt5GLPfOc-s"
+  },
+  {
+   "id": "XkMjh93-dPc",
+   "title": "Water & Infrastructure Committee Backs Bill 68: Park Maui Updates | Jun 15, 2026",
+   "publishedISO": "2026-11-01T02:55:24Z",
+   "durationSeconds": 2917,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "XkMjh93-dPc"
+  },
+  {
+   "id": "v2siMsfjOX4",
+   "title": "Maui Council: Bill 77 Would Fund Houseless Housing | Jun 15, 2026",
+   "publishedISO": "2026-11-01T02:54:30Z",
+   "durationSeconds": 6829,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "v2siMsfjOX4"
+  },
+  {
+   "id": "ovi31J36l8U",
+   "title": "Kīhei Budget Hearing: Water, Wastewater & Lahainā Recovery | Apr 14, 2026",
+   "publishedISO": "2026-11-01T02:53:34Z",
+   "durationSeconds": 7981,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "ovi31J36l8U"
+  },
+  {
+   "id": "KNKf5DnTCgw",
+   "title": "Maui Council BFED: Kīhei Testifies on FY27 Budget | Apr 14, 2026",
+   "publishedISO": "2026-11-01T02:52:52Z",
+   "durationSeconds": 7806,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "KNKf5DnTCgw"
+  },
+  {
+   "id": "ov8uxTErSC8",
+   "title": "Lānaʻi Residents Testify on FY2027 Budget: Farms, Kūpuna & College",
+   "publishedISO": "2026-11-01T02:52:06Z",
+   "durationSeconds": 2977,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "ov8uxTErSC8"
+  },
+  {
+   "id": "rOO2eQ7ZFn8",
+   "title": "Maui Budget Committee: 9% Sewer Rate Hike & FY27 Environmental Plan",
+   "publishedISO": "2026-11-01T02:51:37Z",
+   "durationSeconds": 7052,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "rOO2eQ7ZFn8"
+  },
+  {
+   "id": "AfNF9oiRyz4",
+   "title": "Maui Council Budget: 9% Sewer Rate Hike & Māʻalaea Wells | Apr 16, 2026",
+   "publishedISO": "2026-11-01T02:50:37Z",
+   "durationSeconds": 5847,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "AfNF9oiRyz4"
+  },
+  {
+   "id": "pwHsiifeFSc",
+   "title": "Maui County BFED: DEM Budget, 9% Sewer Rate Hike | Apr 16, 2026",
+   "publishedISO": "2026-11-01T02:49:24Z",
+   "durationSeconds": 11536,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "pwHsiifeFSc"
+  },
+  {
+   "id": "6B2pNZLPNUM",
+   "title": "Maui Council Budget Hearing: Kalaupapa Memorial, Farmers & Housing | FY27",
+   "publishedISO": "2026-11-01T02:48:57Z",
+   "durationSeconds": 6468,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "6B2pNZLPNUM"
+  },
+  {
+   "id": "l1rbB08YXsw",
+   "title": "Maui Council Budget: Lahainā Recovery, Land Trust & Housing | Apr 17, 2026",
+   "publishedISO": "2026-11-01T02:48:45Z",
+   "durationSeconds": 6531,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "l1rbB08YXsw"
+  },
+  {
+   "id": "BsZX-gnBZU8",
+   "title": "Maui County Council BFED: FY27 Budget Decisions Week Begins | Apr 20, 2026",
+   "publishedISO": "2026-11-01T02:48:33Z",
+   "durationSeconds": 20797,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "BsZX-gnBZU8"
+  },
+  {
+   "id": "jIfAqFmxQNg",
+   "title": "Maui County Council BFED: Planning Cut $150K, Prosecutor Project $3.35M | Apr 21, 2026",
+   "publishedISO": "2026-11-01T02:48:06Z",
+   "durationSeconds": 4274,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "jIfAqFmxQNg"
+  },
+  {
+   "id": "MioJdveXG-s",
+   "title": "Maui Council BFED: Māʻalaea Injection Well Funding Vote Fails 4-4 | Apr 21, 2026",
+   "publishedISO": "2026-11-01T02:47:51Z",
+   "durationSeconds": 4968,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "MioJdveXG-s"
+  },
+  {
+   "id": "8TlgSTvR8EI",
+   "title": "Maui Council BFED: $6M for Lahainā Land Trust, $4.5M DV Housing",
+   "publishedISO": "2026-11-01T02:47:37Z",
+   "durationSeconds": 4860,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "8TlgSTvR8EI"
+  },
+  {
+   "id": "Gt9NKmS2tPQ",
+   "title": "Maui Council BFED: $2.5M for Cove Beach Village Housing | Apr 21, 2026",
+   "publishedISO": "2026-11-01T02:47:04Z",
+   "durationSeconds": 3424,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "Gt9NKmS2tPQ"
+  },
+  {
+   "id": "Adpx8IMDk1I",
+   "title": "Maui Council BFED: $3M for ʻOhana Assistance, Transit Security | Apr 21, 2026",
+   "publishedISO": "2026-11-01T02:41:37Z",
+   "durationSeconds": 4593,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "Adpx8IMDk1I"
+  },
+  {
+   "id": "0nwyDrMaDbE",
+   "title": "Maui Council Hears Testimony on Property Tax Rate Hikes | Apr 21, 2026",
+   "publishedISO": "2026-11-01T02:41:10Z",
+   "durationSeconds": 1356,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "0nwyDrMaDbE"
+  },
+  {
+   "id": "ZdlIyqy_fvE",
+   "title": "Maui Daily Week in Review: Whales, Low Voter Turnout & Election Prep",
+   "publishedISO": "2026-11-01T02:40:22Z",
+   "durationSeconds": 905,
+   "kind": "vod"
+  },
+  {
+   "id": "9LCcZPfN-Bg",
+   "title": "Hāna Flash Flooding, Door-Kicking Trend & Kahului Harbor Grant | Maui Daily",
+   "publishedISO": "2026-10-31T08:21:43Z",
+   "durationSeconds": 1061,
+   "kind": "vod",
+   "series": "maui-daily"
+  },
+  {
+   "id": "SY7ceHt82eM",
+   "title": "Maui Council BFED: FY27 Budget & Bill 76 Water Fees Advance | Apr 27, 2026",
+   "publishedISO": "2026-10-31T08:18:28Z",
+   "durationSeconds": 2451,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "SY7ceHt82eM"
+  },
+  {
+   "id": "7eJyblKPm2w",
+   "title": "Maui County Council: Honoring Chubby Bissen & $6M for Lahainā Rebuild",
+   "publishedISO": "2026-10-31T08:18:13Z",
+   "durationSeconds": 9776,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "7eJyblKPm2w"
+  },
+  {
+   "id": "WmlNgIDoTf0",
+   "title": "Maui County Council Passes FY2027 Budget, $2.5M Mantokūji Grant | May 15, 2026",
+   "publishedISO": "2026-10-31T08:18:04Z",
+   "durationSeconds": 18509,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "WmlNgIDoTf0"
+  },
+  {
+   "id": "sLR8tSPOYbo",
+   "title": "Maui Council Committee Advances Hoʻonani Village Housing Bills | Oct 2026",
+   "publishedISO": "2026-10-31T08:17:56Z",
+   "durationSeconds": 9638,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "sLR8tSPOYbo"
+  },
+  {
+   "id": "uMPNxxCZOYk",
+   "title": "Maui Council Housing Committee: ADU Expansion & Molokaʻi B&B Cap | Jun 3, 2026",
+   "publishedISO": "2026-10-31T08:17:46Z",
+   "durationSeconds": 6255,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "uMPNxxCZOYk"
+  },
+  {
+   "id": "r35y6R967gY",
+   "title": "Maui County Council: Bill 88 Hotel Zoning Passes 7-2, Haʻikū Fire Station Referred | Jun 5, 2026",
+   "publishedISO": "2026-10-31T08:17:32Z",
+   "durationSeconds": 17459,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "r35y6R967gY"
+  },
+  {
+   "id": "0BGk4W_qUAE",
+   "title": "Photo Finish #232",
+   "publishedISO": "2026-10-31T08:16:47Z",
+   "durationSeconds": 92,
+   "kind": "vod"
+  },
+  {
+   "id": "xD-kR2iA-Lo",
+   "title": "Awakening a Christ-Driven Life: Holiness, Surrender & New Creation",
+   "publishedISO": "2026-10-31T08:16:35Z",
+   "durationSeconds": 3599,
+   "kind": "vod"
+  },
+  {
+   "id": "j-w-hylYJgg",
+   "title": "Storm Clears, Contractor Fraud Grows & Election Tuesday | Maui Daily",
+   "publishedISO": "2026-10-31T07:06:23Z",
+   "durationSeconds": 1148,
+   "kind": "vod",
+   "series": "maui-daily"
+  },
+  {
+   "id": "R11kAu6emiw",
+   "title": "Maui Council Water Committee: Bill 76 Water Fees & Bill 49 Parking Deferred",
+   "publishedISO": "2026-10-31T03:27:33Z",
+   "durationSeconds": 6377,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "R11kAu6emiw"
+  },
+  {
+   "id": "nUYc4kmAsp0",
+   "title": "Maui Council GREAT: Vacancy Rules, Ethics Board & Climate Fund | Jun 16, 2026",
+   "publishedISO": "2026-10-31T02:05:15Z",
+   "durationSeconds": 12990,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "nUYc4kmAsp0"
+  },
+  {
+   "id": "aGVu5petQPA",
+   "title": "Maui Council WASSP: Bill 77 Houseless Housing Fund Debate | Jun 15, 2026",
+   "publishedISO": "2026-10-30T06:12:06Z",
+   "durationSeconds": 5449,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "aGVu5petQPA"
+  },
+  {
+   "id": "QpzRDyjBnVU",
+   "title": "Maui Council Welcomes Fukuyama Sister City Delegation | Jun 4, 2026",
+   "publishedISO": "2026-10-30T06:11:49Z",
+   "durationSeconds": 2644,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "QpzRDyjBnVU"
+  },
+  {
+   "id": "PRYnrhhYtuc",
+   "title": "Maui Council: Sea Level Rise & Shoreline Erosion Briefing | Jun 3, 2026",
+   "publishedISO": "2026-10-30T06:11:06Z",
+   "durationSeconds": 9071,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "PRYnrhhYtuc"
+  },
+  {
+   "id": "GxTujuHaA7M",
+   "title": "Maui Council GREAT Committee: 14 Charter Amendments Reviewed | Jun 2, 2026",
+   "publishedISO": "2026-10-30T06:10:44Z",
+   "durationSeconds": 9047,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "GxTujuHaA7M"
+  },
+  {
+   "id": "iNemVTCJIfM",
+   "title": "Maui Council Defers Johnson Controls Energy Deal, Debates Bill 181 Tax Relief",
+   "publishedISO": "2026-10-30T06:09:57Z",
+   "durationSeconds": 5859,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "iNemVTCJIfM"
+  },
+  {
+   "id": "tgrcJwPj39Y",
+   "title": "Maui Council: YouthLine Hawaiʻi Crisis Support & Waikapū Youth Campus Proposal",
+   "publishedISO": "2026-10-30T06:09:42Z",
+   "durationSeconds": 7187,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "tgrcJwPj39Y"
+  },
+  {
+   "id": "BAq4g7xEhpE",
+   "title": "Housing Committee Backs New H3 & H4 Hotel Zones 6–1 | May 26, 2026",
+   "publishedISO": "2026-10-30T06:09:29Z",
+   "durationSeconds": 16063,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "BAq4g7xEhpE"
+  },
+  {
+   "id": "SeBC5ZwtUfI",
+   "title": "Maui Council Advances Loud Vehicle Noise Fines to Full Council | May 21, 2026",
+   "publishedISO": "2026-10-30T06:09:15Z",
+   "durationSeconds": 2961,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "SeBC5ZwtUfI"
+  },
+  {
+   "id": "oGAlti5AS88",
+   "title": "Maui County Council: Bus Ad Rules Pass 6–0, Climate Fund Debated",
+   "publishedISO": "2026-10-30T06:09:00Z",
+   "durationSeconds": 7057,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "oGAlti5AS88"
+  },
+  {
+   "id": "O6uf_O67AdU",
+   "title": "Maui Council Housing Committee: Pāʻia Town Project Advances 7-0 | May 2026",
+   "publishedISO": "2026-10-30T06:08:46Z",
+   "durationSeconds": 10335,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "O6uf_O67AdU"
+  },
+  {
+   "id": "RIm_l_7ZlSI",
+   "title": "Maui Council Advances Hoʻonani Village: 163-Acre Kahuluʻi Housing Plan",
+   "publishedISO": "2026-10-30T06:08:33Z",
+   "durationSeconds": 9299,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "RIm_l_7ZlSI"
+  },
+  {
+   "id": "KhrHZUeNlAw",
+   "title": "Maui County Council: Property Tax Tiers Restructured 8-1 | Apr 24, 2026",
+   "publishedISO": "2026-10-30T06:08:14Z",
+   "durationSeconds": 7500,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "KhrHZUeNlAw"
+  },
+  {
+   "id": "AYcQ3sdhHaI",
+   "title": "Maui Council BFED: Police Radio Deferred, Emergency Fund Cut $32M | Apr 23, 2026",
+   "publishedISO": "2026-10-30T06:07:58Z",
+   "durationSeconds": 27100,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "AYcQ3sdhHaI"
+  },
+  {
+   "id": "IxdQajY2dxI",
+   "title": "Maui Council BFED: $3M Upcountry Wildfire Rebuild & $2M South Maui Storm Relief",
+   "publishedISO": "2026-10-30T06:07:43Z",
+   "durationSeconds": 27431,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "IxdQajY2dxI"
+  },
+  {
+   "id": "dybLwXF__KI",
+   "title": "Maui Council BFED: Tūtū and Me, Housing & Water Rates | Apr 21, 2026",
+   "publishedISO": "2026-10-30T06:07:28Z",
+   "durationSeconds": 8214,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "dybLwXF__KI"
+  },
+  {
+   "id": "IdiAmc4W5Zo",
+   "title": "Maui County Council: Firefighter Hazard Pay, Lahainā Land Trust & Ag Tourism | Jul 25, 2025",
+   "publishedISO": "2026-10-30T06:07:15Z",
+   "durationSeconds": 11387,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "IdiAmc4W5Zo"
+  },
+  {
+   "id": "QRpKZM0d5KY",
+   "title": "Maui Council Budget: Tūtū and Me, Hoʻāla & Lahainā Land Trust | Oct 2026",
+   "publishedISO": "2026-10-30T06:06:59Z",
+   "durationSeconds": 20813,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "QRpKZM0d5KY"
+  },
+  {
+   "id": "b3kd0o9ISu4",
+   "title": "Maui County BFED Committee Recessed Due to Audio Issues | Jun 16, 2026",
+   "publishedISO": "2026-10-30T06:06:40Z",
+   "durationSeconds": 398,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "b3kd0o9ISu4"
+  },
+  {
+   "id": "RJwnI3weRIY",
+   "title": "Maui Council HLU: Tech Park Housing & Lānaʻi Kōele Downzoning | Oct 21, 2026",
+   "publishedISO": "2026-10-30T06:06:19Z",
+   "durationSeconds": 7869,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "RJwnI3weRIY"
+  },
+  {
+   "id": "xMD8TVwkYz8",
+   "title": "Maui County Council: Safe Parking Expansion & $30M Molokaʻi Land Buy | Oct 23, 2026",
+   "publishedISO": "2026-10-30T06:05:56Z",
+   "durationSeconds": 5225,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "xMD8TVwkYz8"
+  },
+  {
+   "id": "mWb79anG_Js",
+   "title": "Maui Council: Ethics Bill Passes, Hotel Rezonings Fail | Oct 23, 2026",
+   "publishedISO": "2026-10-30T06:05:24Z",
+   "durationSeconds": 11206,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "mWb79anG_Js"
+  },
+  {
+   "id": "LGcE08_cSZw",
+   "title": "Maui Emergency Management Center Opens: 90-Second Alerts & 24-Monitor Command Room",
+   "publishedISO": "2026-10-30T06:04:56Z",
+   "durationSeconds": 174,
+   "kind": "vod"
+  },
+  {
+   "id": "6WVDJO1LxXM",
+   "title": "Maui Council Debates Bill 77: Housing Fund for Houseless Residents | Jun 15, 2026",
+   "publishedISO": "2026-10-30T06:02:43Z",
+   "durationSeconds": 3228,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "6WVDJO1LxXM"
+  },
+  {
+   "id": "zwLbluXbbTg",
+   "title": "Flood Watch, Condo-to-Hotel Rejected & Kīhei Dog Shot | Maui Daily",
+   "publishedISO": "2026-10-30T06:01:51Z",
+   "durationSeconds": 1027,
+   "kind": "vod",
+   "series": "maui-daily",
+   "episodeId": "261027"
+  },
+  {
+   "id": "xlZUu3OYy1w",
+   "title": "Christian Talk Story: Anna on Worship, Spiritual Warfare & Testimony",
+   "publishedISO": "2026-10-30T05:59:17Z",
+   "durationSeconds": 3564,
+   "kind": "vod"
+  },
+  {
+   "id": "Rn2tS9VtKOk",
+   "title": "Maui Council DRIP: Lahainā Land Buy, Residential Density & Kitchenette Fire Risks",
+   "publishedISO": "2026-10-30T05:58:40Z",
+   "durationSeconds": 10451,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "Rn2tS9VtKOk"
+  },
+  {
+   "id": "cWThkDX_iTA",
+   "title": "Maui County Council: Kahoʻolawe 50th, Lahainā Rebuild & Firefighter CBA | Apr 17, 2026",
+   "publishedISO": "2026-10-30T05:58:17Z",
+   "durationSeconds": 11762,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "cWThkDX_iTA"
+  },
+  {
+   "id": "TuF5fAqpWVU",
+   "title": "Maui Budget & Finance Committee: Fire & Planning Budgets | Apr 7, 2025",
+   "publishedISO": "2026-10-30T05:57:55Z",
+   "durationSeconds": 10931,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "TuF5fAqpWVU"
+  },
+  {
+   "id": "YGuzDd85eAQ",
+   "title": "Maui Council BFED: FY27 Fire & Housing Budgets, Laʻakea Village Testimony | Apr 2026",
+   "publishedISO": "2026-10-30T05:57:10Z",
+   "durationSeconds": 11704,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "YGuzDd85eAQ"
+  },
+  {
+   "id": "ZpCop-IEXjk",
+   "title": "Maui Council BFED: MEMA & Office of ʻŌiwi Resources FY26 Budgets | Apr 8, 2025",
+   "publishedISO": "2026-10-30T05:56:53Z",
+   "durationSeconds": 8290,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "ZpCop-IEXjk"
+  },
+  {
+   "id": "hszpCXOEVuY",
+   "title": "Maui County Council GREAT Committee: Nominations & Water Settlements | Mar 21, 2023",
+   "publishedISO": "2026-10-30T05:54:44Z",
+   "durationSeconds": 8220,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "hszpCXOEVuY"
+  },
+  {
+   "id": "dgEPJUYuZJw",
+   "title": "Maui Council BFED: $1.639B CDBG-DR Disaster Recovery Vote | Mar 11, 2025",
+   "publishedISO": "2026-10-30T05:54:26Z",
+   "durationSeconds": 8862,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "dgEPJUYuZJw"
+  },
+  {
+   "id": "mJsxaTtDu9Q",
+   "title": "Maui County Council: H3/H4 Hotel Districts & Lahainā Housing | Jan 7, 2026",
+   "publishedISO": "2026-10-30T05:54:09Z",
+   "durationSeconds": 14932,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "mJsxaTtDu9Q"
+  },
+  {
+   "id": "IWeChLPBH6Y",
+   "title": "Maui Council Water Committee: Bill 1 Deferred, DLNR Roads Advance",
+   "publishedISO": "2026-10-30T05:53:50Z",
+   "durationSeconds": 9480,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "IWeChLPBH6Y"
+  },
+  {
+   "id": "moLMa3wtcAQ",
+   "title": "Maui Council BFED: Wildfire Rental Tax Extension & East Maui Water Authority",
+   "publishedISO": "2026-10-30T05:53:10Z",
+   "durationSeconds": 8709,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "moLMa3wtcAQ"
+  },
+  {
+   "id": "4QEyWDNRkiY",
+   "title": "Maui Council BFED: FY27 Budget — Water, Recovery & Metal Detectors",
+   "publishedISO": "2026-10-30T05:52:08Z",
+   "durationSeconds": 13515,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "4QEyWDNRkiY"
+  },
+  {
+   "id": "80aNhBlxlkg",
+   "title": "Maui Council Weighs Three Nominees for Kama's Kahului Seat | Nov 20, 2025",
+   "publishedISO": "2026-10-30T05:51:43Z",
+   "durationSeconds": 15603,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "80aNhBlxlkg"
+  },
+  {
+   "id": "HACSXG3i0fs",
+   "title": "Maui Council WASSP: Dr. Scheuer Reappointed, Safe Parking Stalled | Feb 25, 2025",
+   "publishedISO": "2026-10-30T05:51:19Z",
+   "durationSeconds": 12060,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "HACSXG3i0fs"
+  },
+  {
+   "id": "Gjw_tbHieQw",
+   "title": "Maui Council WASAP: Aloha House Detox Gap & East Maui Water Authority | Mar 9, 2026",
+   "publishedISO": "2026-10-30T05:50:15Z",
+   "durationSeconds": 6901,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "Gjw_tbHieQw"
+  },
+  {
+   "id": "6U_23aemZtI",
+   "title": "Maui County Council: INB Dissolution Passes, Claims Charter Amendment Debated",
+   "publishedISO": "2026-10-30T05:49:46Z",
+   "durationSeconds": 5588,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "6U_23aemZtI"
+  },
+  {
+   "id": "BB2LrUuR5PU",
+   "title": "Maui Council Housing & Land Use: Claims, Vacancies & Ballot Questions | Jun 18, 2026",
+   "publishedISO": "2026-10-30T05:49:23Z",
+   "durationSeconds": 5440,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "BB2LrUuR5PU"
+  },
+  {
+   "id": "e2VurwUrZvg",
+   "title": "Maui DRIP Committee: $2.36B Storm Damage & FEMA Recovery | Jun 17, 2026",
+   "publishedISO": "2026-10-30T05:47:22Z",
+   "durationSeconds": 6841,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "e2VurwUrZvg"
+  },
+  {
+   "id": "IDdA2PEpsxc",
+   "title": "Maui Council: Title 19 Zoning Rewrite Update & Kuleana Testimony",
+   "publishedISO": "2026-10-30T05:46:47Z",
+   "durationSeconds": 7207,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "IDdA2PEpsxc"
+  },
+  {
+   "id": "d9P72k1KGO4",
+   "title": "Maui Council BFED: $500K Sewer Shift & Naulu Cloud Revival | Apr 21, 2026",
+   "publishedISO": "2026-10-30T05:38:28Z",
+   "durationSeconds": 2861,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "d9P72k1KGO4"
+  },
+  {
+   "id": "OjcouM4ehH8",
+   "title": "Halloween Spooktacular: Pumpkin or Skunkin & Spooky Sponsors | Biscuits & Gravy",
+   "publishedISO": "2026-10-30T05:37:53Z",
+   "durationSeconds": 3719,
+   "kind": "vod"
+  },
+  {
+   "id": "b_Nyfy-_sHE",
+   "title": "Election Spending Records, Bad Cop Denied Bail & Floods | Maui Daily",
+   "publishedISO": "2026-10-29T19:24:20Z",
+   "durationSeconds": 1043,
+   "kind": "vod",
+   "series": "maui-daily",
+   "episodeId": "261028"
+  },
+  {
    "id": "DiVQUN6gN18",
    "title": "Low Voter Turnout, Fatal Crash & First Whales of Season | Maui Daily",
    "publishedISO": "2026-10-28T08:47:47Z",
@@ -156,7 +1012,9 @@
    "title": "Housing & Land Use Committee: Hotel Rezoning for Sea Level Rise Properties | Aug 5, 2026",
    "publishedISO": "2026-10-26T07:56:23Z",
    "durationSeconds": 23796,
-   "kind": "vod"
+   "kind": "vod",
+   "series": "boards",
+   "meetingId": "Pf3okNoee3g"
   },
   {
    "id": "oTANOLnSb2g",
@@ -845,15 +1703,6 @@
    "kind": "vod",
    "series": "council",
    "meetingId": "G8BjVaIQGNw"
-  },
-  {
-   "id": "jnrjcCyjtzE",
-   "title": "Maui County Council Weighs $6M West Maui Water System Buyout",
-   "publishedISO": "2026-10-26T05:24:39Z",
-   "durationSeconds": 7650,
-   "kind": "vod",
-   "series": "council",
-   "meetingId": "jnrjcCyjtzE"
   }
  ]
 }

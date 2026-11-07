@@ -1,6 +1,15 @@
 {
  "videos": [
   {
+   "id": "jnrjcCyjtzE",
+   "title": "Maui County Council Weighs $6M West Maui Water System Buyout",
+   "publishedISO": "2026-10-26T05:24:39Z",
+   "durationSeconds": 7650,
+   "kind": "vod",
+   "series": "council",
+   "meetingId": "jnrjcCyjtzE"
+  },
+  {
    "id": "ddTYKdPxK9g",
    "title": "Maui County Council DRIP Committee: South Maui Community Plan | Oct 5, 2026",
    "publishedISO": "2026-10-26T05:23:32Z",
@@ -317,13 +326,6 @@
    "kind": "vod"
   },
   {
-   "id": "DKRR_bh_528",
-   "title": "Board of Variance Appeals: Baskin & Manning Appeals Continued | Oct 22, 2026",
-   "publishedISO": "2026-10-25T23:04:01Z",
-   "durationSeconds": 926,
-   "kind": "vod"
-  },
-  {
    "id": "XFOvEpVuIu0",
    "title": "Maui Council DRIP: West Maui Rebuild, Water Permits & Managed Retreat",
    "publishedISO": "2026-10-25T23:02:38Z",
@@ -400,7 +402,9 @@
    "title": "Lānaʻi Planning Commission Approves STR & AT&T Permit Extensions",
    "publishedISO": "2026-10-23T13:16:16Z",
    "durationSeconds": 3335,
-   "kind": "vod"
+   "kind": "vod",
+   "series": "boards",
+   "meetingId": "lTfHRBm6PPo"
   },
   {
    "id": "8yodFhLsaHI",
@@ -714,7 +718,9 @@
    "title": "East Maui Water Authority: EMI Contested Case Update | Oct 16, 2026",
    "publishedISO": "2026-10-18T02:00:51Z",
    "durationSeconds": 1560,
-   "kind": "vod"
+   "kind": "vod",
+   "series": "boards",
+   "meetingId": "8aasYotZcMM"
   },
   {
    "id": "CABpuqlSFJ0",
@@ -775,7 +781,9 @@
    "title": "Fire Commission: FY28 Budget, Kīhei Station Sites & Chief Parker Retires",
    "publishedISO": "2026-10-16T08:07:31Z",
    "durationSeconds": 8045,
-   "kind": "vod"
+   "kind": "vod",
+   "series": "boards",
+   "meetingId": "6fIOWfH2zPA"
   },
   {
    "id": "EDgJJj7FyJY",
@@ -805,14 +813,18 @@
    "title": "Board of Water Supply: Waiale Wells, Desalination Study & East Maui Water",
    "publishedISO": "2026-10-16T07:54:34Z",
    "durationSeconds": 2685,
-   "kind": "vod"
+   "kind": "vod",
+   "series": "boards",
+   "meetingId": "Qe82vmTlsAk"
   },
   {
    "id": "6GhlO1J66IQ",
    "title": "Mayor Arakawa Proclaims Community Media Day on Maui | 2017",
    "publishedISO": "2026-10-15T23:43:45Z",
    "durationSeconds": 61,
-   "kind": "vod"
+   "kind": "vod",
+   "series": "boards",
+   "meetingId": "6GhlO1J66IQ"
   },
   {
    "id": "Au0POot2Bc4",
