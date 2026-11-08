@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T10:26:13.097Z",
+  "updatedAt": "2026-11-08T12:26:14.230Z",
   "count": 219,
   "issues": [
     {
@@ -36585,9 +36585,9 @@
       "firstSeenISO": "2025-02-25",
       "lastSeenISO": "2026-10-23",
       "signals": {
-        "meetingsLast30d": 4,
+        "meetingsLast30d": 3,
         "meetingsLast90d": 5,
-        "mentionsLast30d": 12,
+        "mentionsLast30d": 9,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-08",
@@ -40396,9 +40396,9 @@
       "firstSeenISO": "2026-04-21",
       "lastSeenISO": "2026-10-09",
       "signals": {
-        "meetingsLast30d": 1,
+        "meetingsLast30d": 0,
         "meetingsLast90d": 2,
-        "mentionsLast30d": 1,
+        "mentionsLast30d": 0,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-08",
@@ -41081,9 +41081,9 @@
       "firstSeenISO": "2025-08-18",
       "lastSeenISO": "2026-10-23",
       "signals": {
-        "meetingsLast30d": 2,
+        "meetingsLast30d": 1,
         "meetingsLast90d": 2,
-        "mentionsLast30d": 6,
+        "mentionsLast30d": 3,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-08",
@@ -47248,7 +47248,7 @@
       "lastSeenISO": "2026-10-30",
       "signals": {
         "meetingsLast30d": 1,
-        "meetingsLast90d": 4,
+        "meetingsLast90d": 3,
         "mentionsLast30d": 2,
         "upcomingEvent": null
       },
