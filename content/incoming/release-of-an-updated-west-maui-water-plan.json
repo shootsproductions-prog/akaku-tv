@@ -1,0 +1,46 @@
+{
+  "slug": "release-of-an-updated-west-maui-water-plan",
+  "title": "Release of an updated West Maui water plan",
+  "summary": "The director said a releasable West Maui water plan should be out by the end of the year.",
+  "topics": [
+    "water",
+    "disaster-recovery"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-10-15",
+  "lastSeenISO": "2026-10-15",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 1,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-09",
+  "timeline": [
+    {
+      "dateISO": "2026-10-15",
+      "text": "The director said a releasable West Maui water plan should be out by the end of the year.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Qe82vmTlsAk",
+        "ts": "0:40:30",
+        "endTs": "0:41:03",
+        "retrievedISO": "2026-11-04T07:35:02.969Z"
+      },
+      "body": "Board of Water Supply"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Board of Water Supply",
+      "group": "board",
+      "short": [
+        "BWS"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

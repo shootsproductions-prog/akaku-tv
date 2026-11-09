@@ -1,0 +1,164 @@
+{
+  "slug": "emergency-fund-money-for-march-2026-storm-damage",
+  "title": "Emergency fund money for March 2026 storm damage",
+  "summary": "An administration official said on October 20 that no more emergency fund requests are expected right now. In June, officials said they expect to return sometime in fiscal 27 with a budget amendment to cover the funding need. In April, the committee cut $32 million from the emergency fund, which showed about $117 million, after the budget director said storm recovery money may not be reimbursable.",
+  "topics": [
+    "disaster-recovery",
+    "government"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-04-17",
+  "lastSeenISO": "2026-10-20",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 1,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-09",
+  "timeline": [
+    {
+      "dateISO": "2026-10-20",
+      "text": "An administration official said no more emergency fund requests are expected right now.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "WtAb16g87L8",
+        "ts": "1:24:43",
+        "endTs": "1:25:22",
+        "retrievedISO": "2026-10-23T00:27:33.159Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-06-17",
+      "text": "Officials expect to come back sometime in fiscal 27 with a budget amendment to cover the funding need.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "e2VurwUrZvg",
+        "ts": "1:19:45",
+        "endTs": "1:20:20",
+        "retrievedISO": "2026-10-16T19:25:29.862Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-04-23",
+      "text": "A bill raising the emergency amount from $12 million to $32 million is up for second reading May 1st.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "AYcQ3sdhHaI",
+        "ts": "7:11:26",
+        "endTs": "7:11:57",
+        "retrievedISO": "2026-10-17T01:31:18.022Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-23",
+      "text": "Emergency fund reduction: The committee reduced the emergency fund by $32 million already authorized for the storms.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "AYcQ3sdhHaI",
+        "ts": "7:10:18",
+        "endTs": "7:12:01",
+        "retrievedISO": "2026-10-17T01:31:18.022Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-23",
+      "text": "The budget director said $32 million of that is not available.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "AYcQ3sdhHaI",
+        "ts": "7:09:04",
+        "endTs": "7:09:34",
+        "retrievedISO": "2026-10-17T01:31:18.022Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-23",
+      "text": "The emergency fund showed about $117 million.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "AYcQ3sdhHaI",
+        "ts": "7:08:34",
+        "endTs": "7:09:04",
+        "retrievedISO": "2026-10-17T01:31:18.022Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-22",
+      "text": "The budget director warned that funds set aside for recent storm recovery may not be reimbursable.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "IxdQajY2dxI",
+        "ts": "3:38:03",
+        "endTs": "3:38:44",
+        "retrievedISO": "2026-10-19T23:28:29.964Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-17",
+      "text": "The chair said she already sent a letter asking for an itemized breakdown of emergency fund spending.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "cWThkDX_iTA",
+        "ts": "2:28:27",
+        "endTs": "2:28:57",
+        "retrievedISO": "2026-10-17T02:49:45.529Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-04-17",
+      "text": "Bill 74 would let emergency funds pay county costs and aid for all recent severe weather events.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "cWThkDX_iTA",
+        "ts": "2:27:03",
+        "endTs": "2:27:33",
+        "retrievedISO": "2026-10-17T02:49:45.529Z"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    },
+    {
+      "name": "Disaster Recovery, International Affairs, and Planning Committee",
+      "group": "council",
+      "short": [
+        "DRIP"
+      ]
+    },
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [
+    "Bill 74 (2026)"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
