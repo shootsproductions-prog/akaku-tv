@@ -1,0 +1,46 @@
+{
+  "slug": "upcountry-water-meter-waiting-list",
+  "title": "Upcountry water meter waiting list",
+  "summary": "Staff said on January 24, 2024, that a shortage of engineers has been the main limit on how fast meter applications are processed.",
+  "topics": [
+    "water",
+    "housing"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2024-01-24",
+  "lastSeenISO": "2024-01-24",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-10",
+  "timeline": [
+    {
+      "dateISO": "2024-01-24",
+      "text": "Staff said a shortage of engineers has been the main limit on processing meter applications.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Qk0CE0sVrAw",
+        "ts": "0:46:05",
+        "endTs": "0:46:35",
+        "retrievedISO": "2026-10-09T06:35:09.669Z"
+      },
+      "body": "Department of Water Supply"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Department of Water Supply",
+      "group": "county",
+      "short": [
+        "DWS"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
