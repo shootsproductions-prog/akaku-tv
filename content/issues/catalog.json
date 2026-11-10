@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T01:16:10.675Z",
+  "updatedAt": "2026-11-10T07:36:10.262Z",
   "count": 219,
   "issues": [
     {
@@ -31943,16 +31943,7 @@
         "meetingsLast30d": 0,
         "meetingsLast90d": 1,
         "mentionsLast30d": 0,
-        "upcomingEvent": {
-          "dateISO": "2028-06-30",
-          "what": "New expiration date for wildfire-impacted property tax exemption",
-          "source": {
-            "type": "meeting",
-            "videoId": "H53ZMTLu47A",
-            "ts": "0:59:36",
-            "retrievedISO": "2026-10-16T06:48:22.352Z"
-          }
-        }
+        "upcomingEvent": null
       },
       "asOfISO": "2026-11-09",
       "boards": [
@@ -34620,7 +34611,16 @@
         "meetingsLast30d": 0,
         "meetingsLast90d": 1,
         "mentionsLast30d": 0,
-        "upcomingEvent": null
+        "upcomingEvent": {
+          "dateISO": "2030-12-31",
+          "what": "A bill would pause new private swimming pools in the West Maui Community Plan Area until December 31, 2030.",
+          "source": {
+            "type": "meeting",
+            "videoId": "3S90aI2m3-k",
+            "ts": "0:08:56",
+            "retrievedISO": "2026-10-19T11:21:58.937Z"
+          }
+        }
       },
       "asOfISO": "2026-11-09",
       "boards": [
