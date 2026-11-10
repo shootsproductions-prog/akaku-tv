@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T17:17:27.939Z",
+  "generatedAt": "2026-11-10T02:59:57.033Z",
   "areas": [
     {
       "id": "west-maui",
@@ -29,6 +29,7 @@
       "slug": "2024-12-03-dept-of-health-molokai-town-hall",
       "accent": "#bd6e0f",
       "thumbnail": "https://i.ytimg.com/vi/4Q_kYCC0yMw/hqdefault.jpg",
+      "status": "reviewed",
       "title": "Dept. of Health Molokai Town Hall Meeting: December 3, 2024",
       "dateISO": "2024-12-03",
       "headline": "State pilot to fly Molokaʻi patients and doctors for non-emergency care",
@@ -43,6 +44,7 @@
         "committee_members": 0
       },
       "votes": 0,
+      "roomReadings": 0,
       "openQuestions": 4,
       "answered": 0,
       "areas": [
@@ -56,6 +58,7 @@
       "slug": "2024-07-23-kula-community-fire-preparedness",
       "accent": "#684532",
       "thumbnail": "https://i.ytimg.com/vi/1eqgL4KYGwU/hqdefault.jpg",
+      "status": "reviewed",
       "title": "Kula Community Meeting: Fire Preparedness July 23, 2024",
       "dateISO": "2024-07-23",
       "headline": "Kula meeting reviews Crater Road fire response, evacuation alerts and Upcountry water",
@@ -70,6 +73,7 @@
         "committee_members": 0
       },
       "votes": 0,
+      "roomReadings": 0,
       "openQuestions": 4,
       "answered": 0,
       "areas": [
@@ -89,6 +93,7 @@
       "slug": "2024-06-26-molokai-town-hall",
       "accent": "#aa6822",
       "thumbnail": "https://i.ytimg.com/vi/OXzFs-r67NA/hqdefault.jpg",
+      "status": "reviewed",
       "title": "Molokai Town Hall Meeting: June 26, 2024",
       "dateISO": "2024-06-26",
       "headline": "Molokaʻi town hall weighs sites for a new County public cemetery",
@@ -103,6 +108,7 @@
         "committee_members": 0
       },
       "votes": 0,
+      "roomReadings": 0,
       "openQuestions": 4,
       "answered": 0,
       "areas": [
@@ -118,6 +124,7 @@
       "slug": "2024-03-13-lahaina-disaster-recovery-update",
       "accent": "#917a3b",
       "thumbnail": "https://i.ytimg.com/vi/-DdmFETaPMM/hqdefault.jpg",
+      "status": "reviewed",
       "title": "Lahaina Disaster Recovery Update Meeting: March 13, 2024",
       "dateISO": "2024-03-13",
       "headline": "Lahaina debris cleanup, water and sewer testing, and landfill land vote update",
@@ -132,6 +139,7 @@
         "committee_members": 0
       },
       "votes": 0,
+      "roomReadings": 0,
       "openQuestions": 4,
       "answered": 0,
       "areas": [
@@ -147,6 +155,7 @@
       "slug": "2024-03-06-lahaina-disaster-recovery-update",
       "accent": "#887042",
       "thumbnail": "https://i.ytimg.com/vi/tuh7ycL5AqM/hqdefault.jpg",
+      "status": "reviewed",
       "title": "Lahaina Disaster Recovery Update Meeting: March 6, 2024",
       "dateISO": "2024-03-06",
       "headline": "Lahaina recovery update: mental health help, interim housing and Wahikuli water",
@@ -161,6 +170,7 @@
         "committee_members": 0
       },
       "votes": 0,
+      "roomReadings": 0,
       "openQuestions": 4,
       "answered": 0,
       "areas": [
@@ -176,6 +186,7 @@
       "slug": "2024-02-29-upcountry-community-on-hazard-mitigation-and-recovery",
       "accent": "#3a4b85",
       "thumbnail": "https://i.ytimg.com/vi/Uj0Tugn8wFw/hqdefault.jpg",
+      "status": "reviewed",
       "title": "Upcountry Community Meeting on Hazard Mitigation & Recovery: February 29, 2024",
       "dateISO": "2024-02-29",
       "headline": "Upcountry meeting on wildfire prevention, Firewise and Kula burn scar recovery",
@@ -190,6 +201,7 @@
         "committee_members": 0
       },
       "votes": 0,
+      "roomReadings": 0,
       "openQuestions": 5,
       "answered": 0,
       "areas": [
@@ -206,6 +218,7 @@
       "slug": "2024-02-24-molokai-history-project-mid-nite-inn-talk-story-with-john",
       "accent": "#0f6cbd",
       "thumbnail": "https://i.ytimg.com/vi/eiqG5W7BGpY/hqdefault.jpg",
+      "status": "reviewed",
       "title": "Molokai History Project - Mid Nite Inn: Talk Story with John & Philip Kikukawa",
       "dateISO": "2024-02-24",
       "headline": "Molokaʻi talk story recalls the Midnight Inn and plantation-era island life",
@@ -220,6 +233,7 @@
         "committee_members": 0
       },
       "votes": 0,
+      "roomReadings": 0,
       "openQuestions": 1,
       "answered": 0,
       "areas": [
@@ -235,6 +249,7 @@
       "slug": "2024-02-21-lahaina-disaster-recovery-update",
       "accent": "#2c58a0",
       "thumbnail": "https://i.ytimg.com/vi/_VbAKrfK5-s/hqdefault.jpg",
+      "status": "reviewed",
       "title": "Lahaina Disaster Recovery Update Meeting: February 21, 2024",
       "dateISO": "2024-02-21",
       "headline": "Lahaina recovery update: debris removal, cesspool guidance and disposal site survey",
@@ -249,6 +264,7 @@
         "committee_members": 0
       },
       "votes": 0,
+      "roomReadings": 0,
       "openQuestions": 5,
       "answered": 0,
       "areas": [
@@ -266,6 +282,7 @@
       "slug": "2024-01-31-kula-disaster-recovery-update",
       "accent": "#0c4295",
       "thumbnail": "https://i.ytimg.com/vi/NgjqfZyf-cg/hqdefault.jpg",
+      "status": "reviewed",
       "title": "Kula Disaster Recovery Update Meeting: January 31, 2024",
       "dateISO": "2024-01-31",
       "headline": "Kula fire recovery: debris removal done, survey results shared, insurance questions",
@@ -280,6 +297,7 @@
         "committee_members": 0
       },
       "votes": 0,
+      "roomReadings": 0,
       "openQuestions": 6,
       "answered": 0,
       "areas": [
@@ -295,6 +313,7 @@
       "slug": "2024-01-25-hana-maui-county-water-dept-of-water-supply-conservation",
       "accent": "#0f589d",
       "thumbnail": "https://i.ytimg.com/vi/BRBfJRbA_jU/hqdefault.jpg",
+      "status": "reviewed",
       "title": "Hana, Maui County Water Dept. of Water Supply Conservation Plan Community Meeting: January 25, 2024",
       "dateISO": "2024-01-25",
       "headline": "Water Supply seeks Hāna feedback on countywide water conservation plan",
@@ -309,6 +328,7 @@
         "committee_members": 0
       },
       "votes": 0,
+      "roomReadings": 0,
       "openQuestions": 3,
       "answered": 0,
       "areas": [
@@ -325,6 +345,7 @@
       "slug": "2024-01-24-lahaina-disaster-recovery-update",
       "accent": "#3d518c",
       "thumbnail": "https://i.ytimg.com/vi/Pcry7-Bpzfw/hqdefault.jpg",
+      "status": "reviewed",
       "title": "Lahaina Disaster Recovery Update Meeting: January 24, 2024",
       "dateISO": "2024-01-24",
       "headline": "Lahaina recovery update: debris removal, expedited permits, housing and sewer",
@@ -339,6 +360,7 @@
         "committee_members": 0
       },
       "votes": 0,
+      "roomReadings": 0,
       "openQuestions": 4,
       "answered": 0,
       "areas": [
@@ -356,6 +378,7 @@
       "slug": "2024-01-23-kula-disaster-recovery-update",
       "accent": "#2e5760",
       "thumbnail": "https://i.ytimg.com/vi/Js4JdVaJyc0/hqdefault.jpg",
+      "status": "reviewed",
       "title": "Kula Disaster Recovery Update Meeting: January 23, 2024",
       "dateISO": "2024-01-23",
       "headline": "Kula debris cleanup finished; residents press on leftover debris and insurance",
@@ -370,6 +393,7 @@
         "committee_members": 0
       },
       "votes": 0,
+      "roomReadings": 0,
       "openQuestions": 5,
       "answered": 0,
       "areas": [
@@ -383,6 +407,7 @@
       "slug": "2024-01-17-lahaina-disaster-recovery-update",
       "accent": "#53602e",
       "thumbnail": "https://i.ytimg.com/vi/vTgXxcJQPwA/hqdefault.jpg",
+      "status": "reviewed",
       "title": "Lahaina Disaster Recovery Update Meeting: January 17, 2024",
       "dateISO": "2024-01-17",
       "headline": "Lahaina debris removal begins as agencies update sewer, water, air and permits",
@@ -397,6 +422,7 @@
         "committee_members": 0
       },
       "votes": 0,
+      "roomReadings": 0,
       "openQuestions": 4,
       "answered": 0,
       "areas": [
@@ -412,6 +438,7 @@
       "slug": "2024-01-10-lahaina-disaster-recovery-update",
       "accent": "#675632",
       "thumbnail": "https://i.ytimg.com/vi/Dn_NML8t4wg/hqdefault.jpg",
+      "status": "reviewed",
       "title": "Lahaina Disaster Recovery Update Meeting of January 10, 2024",
       "dateISO": "2024-01-10",
       "headline": "Lahaina recovery update: debris removal start, checkpoints, housing and new recovery office",
@@ -426,6 +453,7 @@
         "committee_members": 0
       },
       "votes": 0,
+      "roomReadings": 0,
       "openQuestions": 0,
       "answered": 0,
       "areas": [
@@ -442,6 +470,7 @@
       "slug": "2023-12-19-kula-disaster-recovery-update",
       "accent": "#3e6d81",
       "thumbnail": "https://i.ytimg.com/vi/YnG1F_VmTeE/hqdefault.jpg",
+      "status": "reviewed",
       "title": "Kula Disaster Recovery Update Meeting: December 19, 2023",
       "dateISO": "2023-12-19",
       "headline": "Kula wildfire recovery update: debris nearly done, lead worries, insurance and housing",
@@ -456,6 +485,7 @@
         "committee_members": 0
       },
       "votes": 0,
+      "roomReadings": 0,
       "openQuestions": 5,
       "answered": 0,
       "areas": [
@@ -474,6 +504,7 @@
       "slug": "2023-12-18-debris-disposal-at-lahaina-civic-center",
       "accent": "#775f32",
       "thumbnail": "https://i.ytimg.com/vi/YFLMwRW1Bu0/hqdefault.jpg",
+      "status": "reviewed",
       "title": "Debris Disposal Meeting at Lahaina Civic Center: December 18, 2023",
       "dateISO": "2023-12-18",
       "headline": "Lahaina wildfire debris removal plan and search for a permanent ash disposal site",
@@ -488,6 +519,7 @@
         "committee_members": 0
       },
       "votes": 0,
+      "roomReadings": 0,
       "openQuestions": 5,
       "answered": 0,
       "areas": [
@@ -501,6 +533,7 @@
       "slug": "2023-12-13-lahaina-disaster-recovery-update",
       "accent": "#818a42",
       "thumbnail": "https://i.ytimg.com/vi/Ms5j_Ga0EGg/hqdefault.jpg",
+      "status": "reviewed",
       "title": "Lahaina Disaster Recovery Update Meeting: December 13, 2023",
       "dateISO": "2023-12-13",
       "headline": "Lahaina weekly recovery update: debris removal sign-ups, rebuild permits, housing and ash",
@@ -515,6 +548,7 @@
         "committee_members": 0
       },
       "votes": 0,
+      "roomReadings": 0,
       "openQuestions": 4,
       "answered": 0,
       "areas": [
@@ -530,6 +564,7 @@
       "slug": "2023-12-12-kula-disaster-recovery-update",
       "accent": "#2d5362",
       "thumbnail": "https://i.ytimg.com/vi/_AlZIX9Z6JE/hqdefault.jpg",
+      "status": "reviewed",
       "title": "Kula Disaster Recovery Update Meeting: December 12, 2023",
       "dateISO": "2023-12-12",
       "headline": "Kula fire recovery update: debris removal, rebuild permits, lead and air testing",
@@ -544,6 +579,7 @@
         "committee_members": 0
       },
       "votes": 0,
+      "roomReadings": 0,
       "openQuestions": 5,
       "answered": 0,
       "areas": [
@@ -557,6 +593,7 @@
       "slug": "2023-12-06-lahaina-disaster-recovery-update",
       "accent": "#8e3e47",
       "thumbnail": "https://i.ytimg.com/vi/4bfNvnqBrwc/hqdefault.jpg",
+      "status": "reviewed",
       "title": "Lahaina Disaster Recovery Update Meeting: December 6, 2023",
       "dateISO": "2023-12-06",
       "headline": "Lahaina recovery update: housing, debris removal timeline, temporary school and loans",
@@ -571,6 +608,7 @@
         "committee_members": 0
       },
       "votes": 0,
+      "roomReadings": 0,
       "openQuestions": 5,
       "answered": 0,
       "areas": [
@@ -584,6 +622,7 @@
       "slug": "2023-12-05-kula-disaster-recovery-update",
       "accent": "#2e5460",
       "thumbnail": "https://i.ytimg.com/vi/evdod711Zmo/hqdefault.jpg",
+      "status": "reviewed",
       "title": "Kula Disaster Recovery Update Meeting: December 5, 2023",
       "dateISO": "2023-12-05",
       "headline": "Kula fire recovery update: debris cleanup, soil rescrapes, lead screening, test results",
@@ -598,6 +637,7 @@
         "committee_members": 0
       },
       "votes": 0,
+      "roomReadings": 0,
       "openQuestions": 6,
       "answered": 0,
       "areas": [
@@ -611,6 +651,7 @@
       "slug": "2023-11-16-kula-disaster-recovery-update",
       "accent": "#42528a",
       "thumbnail": "https://i.ytimg.com/vi/TOdgpF-O49c/hqdefault.jpg",
+      "status": "reviewed",
       "title": "Kula Disaster Recovery Update Meeting of November 16, 2023",
       "dateISO": "2023-11-16",
       "headline": "Kula fire debris cleanup, air and soil testing worries, and Upcountry water",
@@ -624,7 +665,8 @@
         "officials": 9,
         "committee_members": 0
       },
-      "votes": 1,
+      "votes": 0,
+      "roomReadings": 1,
       "openQuestions": 6,
       "answered": 0,
       "areas": [
@@ -640,6 +682,7 @@
       "slug": "2023-11-15-disaster-recovery-community-update-2-at-lahaina-civic-center",
       "accent": "#2e3a60",
       "thumbnail": "https://i.ytimg.com/vi/vcvmmWhbZro/hqdefault.jpg",
+      "status": "reviewed",
       "title": "Disaster Recovery Community Update Meeting #2 at Lahaina Civic Center: November 15, 2023",
       "dateISO": "2023-11-15",
       "headline": "Lahaina recovery update on water, wastewater, air quality, debris and housing",
@@ -654,6 +697,7 @@
         "committee_members": 0
       },
       "votes": 0,
+      "roomReadings": 0,
       "openQuestions": 2,
       "answered": 0,
       "areas": [
@@ -669,6 +713,7 @@
       "slug": "2023-11-08-disaster-recovery-community-update-1-at-lahaina-civic-center",
       "accent": "#23774e",
       "thumbnail": "https://i.ytimg.com/vi/_nlcVTlvHj0/hqdefault.jpg",
+      "status": "reviewed",
       "title": "Disaster Recovery Community Update Meeting #1 at Lahaina Civic Center: November 8, 2023",
       "dateISO": "2023-11-08",
       "headline": "First weekly Lahaina fire recovery update covers reentry, cleanup, insurance and housing",
@@ -683,6 +728,7 @@
         "committee_members": 0
       },
       "votes": 0,
+      "roomReadings": 0,
       "openQuestions": 2,
       "answered": 0,
       "areas": [
@@ -698,6 +744,7 @@
       "slug": "2023-10-23-we-are-south-maui-cpac",
       "accent": "#14307b",
       "thumbnail": "https://i.ytimg.com/vi/_BFktstxBSM/hqdefault.jpg",
+      "status": "reviewed",
       "title": "We Are South Maui CPAC Meeting of October 23, 2023",
       "dateISO": "2023-10-23",
       "headline": "South Maui plan advisory group falls short of votes to send plan on, recesses",
@@ -712,6 +759,7 @@
         "committee_members": 9
       },
       "votes": 10,
+      "roomReadings": 0,
       "openQuestions": 4,
       "answered": 0,
       "areas": [
@@ -728,6 +776,7 @@
       "slug": "2023-10-16-we-are-south-maui-cpac",
       "accent": "#8a5f42",
       "thumbnail": "https://i.ytimg.com/vi/iEvMvlI_05w/hqdefault.jpg",
+      "status": "reviewed",
       "title": "We Are South Maui CPAC Meeting of October 16, 2023",
       "dateISO": "2023-10-16",
       "headline": "South Maui plan committee revisits land use maps for Kīhei, Wailea and Mākena",
@@ -742,6 +791,7 @@
         "committee_members": 9
       },
       "votes": 10,
+      "roomReadings": 0,
       "openQuestions": 4,
       "answered": 0,
       "areas": [
@@ -758,6 +808,7 @@
       "slug": "2023-09-20-cpac",
       "accent": "#8a6842",
       "thumbnail": "https://i.ytimg.com/vi/6h09nOok8Jg/hqdefault.jpg",
+      "status": "reviewed",
       "title": "CPAC 230920",
       "dateISO": "2023-09-20",
       "headline": "South Maui plan committee pauses meetings until virtual testimony returns",
@@ -772,6 +823,7 @@
         "committee_members": 10
       },
       "votes": 15,
+      "roomReadings": 0,
       "openQuestions": 4,
       "answered": 0,
       "areas": [
@@ -788,6 +840,7 @@
       "slug": "2023-04-26-we-are-south-maui-community-plan-advisory-committee",
       "accent": "#6b3f8d",
       "thumbnail": "https://i.ytimg.com/vi/ycvYPoiAfJ8/hqdefault.jpg",
+      "status": "reviewed",
       "title": "We Are South Maui: Community Plan Advisory Committee Meeting of April 26, 2023",
       "dateISO": "2023-04-26",
       "headline": "South Maui plan committee reviews land use categories and sets Māʻalaea map designations",
@@ -802,6 +855,7 @@
         "committee_members": 10
       },
       "votes": 4,
+      "roomReadings": 0,
       "openQuestions": 3,
       "answered": 0,
       "areas": [
@@ -818,6 +872,7 @@
       "slug": "2023-04-12-we-are-south-maui-community-plan-advisory-committee",
       "accent": "#8d663f",
       "thumbnail": "https://i.ytimg.com/vi/XXsVVLXd8vk/hqdefault.jpg",
+      "status": "reviewed",
       "title": "We Are South Maui: Community Plan Advisory Committee Meeting of April 12, 2023",
       "dateISO": "2023-04-12",
       "headline": "South Maui plan committee finishes policy review and ranks every plan action",
@@ -832,6 +887,7 @@
         "committee_members": 11
       },
       "votes": 12,
+      "roomReadings": 0,
       "openQuestions": 4,
       "answered": 0,
       "areas": [
@@ -847,6 +903,7 @@
       "slug": "2023-03-15-we-are-south-maui-community-plan-advisory-committee",
       "accent": "#9d972f",
       "thumbnail": "https://i.ytimg.com/vi/ZhnYySqZlpw/hqdefault.jpg",
+      "status": "reviewed",
       "title": "We Are South Maui: Community Plan Advisory Committee Meeting of March 15, 2023",
       "dateISO": "2023-03-15",
       "headline": "South Maui plan committee finishes resiliency actions and revises wetland purchase goal",
@@ -861,6 +918,7 @@
         "committee_members": 12
       },
       "votes": 21,
+      "roomReadings": 0,
       "openQuestions": 4,
       "answered": 0,
       "areas": [
@@ -878,6 +936,7 @@
       "slug": "2023-03-08-we-are-south-maui-community-plan-advisory-committee",
       "accent": "#bcb810",
       "thumbnail": "https://i.ytimg.com/vi/IZirMMY0G7o/hqdefault.jpg",
+      "status": "reviewed",
       "title": "We Are South Maui: Community Plan Advisory Committee Meeting of March 8, 2023",
       "dateISO": "2023-03-08",
       "headline": "South Maui plan committee adopts watershed, flood, wastewater and cesspool actions",
@@ -892,6 +951,7 @@
         "committee_members": 13
       },
       "votes": 23,
+      "roomReadings": 0,
       "openQuestions": 4,
       "answered": 0,
       "areas": [
@@ -910,6 +970,7 @@
       "slug": "2023-02-22-we-are-south-maui-community-plan-advisory-committee",
       "accent": "#8c5a40",
       "thumbnail": "https://i.ytimg.com/vi/ipMVZxROPr8/hqdefault.jpg",
+      "status": "reviewed",
       "title": "We Are South Maui: Community Plan Advisory Committee Meeting of February 22, 2023",
       "dateISO": "2023-02-22",
       "headline": "South Maui plan advisory committee adopts watershed, wetland and dune actions",
@@ -924,6 +985,7 @@
         "committee_members": 9
       },
       "votes": 17,
+      "roomReadings": 0,
       "openQuestions": 4,
       "answered": 0,
       "areas": [
@@ -939,6 +1001,7 @@
       "slug": "2023-01-25-we-are-south-maui-community-plan-advisory-committee",
       "accent": "#8b4d41",
       "thumbnail": "https://i.ytimg.com/vi/kz9L3pPPsXA/hqdefault.jpg",
+      "status": "reviewed",
       "title": "We Are South Maui: Community Plan Advisory Committee Meeting of January 25th (fixed)",
       "dateISO": "2023-01-25",
       "headline": "South Maui plan committee adopts four watershed policies, stalls on gulch setbacks",
@@ -953,6 +1016,7 @@
         "committee_members": 12
       },
       "votes": 4,
+      "roomReadings": 0,
       "openQuestions": 4,
       "answered": 0,
       "areas": [
