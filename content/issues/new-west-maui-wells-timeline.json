@@ -9,7 +9,7 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2023-03-21",
-  "lastSeenISO": "2026-09-17",
+  "lastSeenISO": "2026-10-15",
   "signals": {
     "meetingsLast30d": 0,
     "meetingsLast90d": 1,
@@ -42,6 +42,18 @@
   ],
   "bills": [],
   "timeline": [
+    {
+      "dateISO": "2026-10-15",
+      "text": "The State Commission on Water Resource Management issued public notice for ground and surface water use permit applications in the Lahaina Aquifer Sector Area, which includes the Honolua and Launiupoko aquifers. The comment window runs through November 6, 2026.",
+      "basis": "reported",
+      "source": {
+        "type": "other",
+        "url": "https://dlnr.hawaii.gov/cwrm/groundwater/gwma/lahaina/",
+        "publisher": "State of Hawaiʻi Commission on Water Resource Management (Department of Land and",
+        "quote": "Public Notice has been issued for Applications for Ground Water and Surface Water Use Permits by applicants within the following ground and surface water hydrologic units: Ground water hydrologic units (aquifers): Honolua; Honokowai; Launiupoko; Olowalu; Ukumehame.",
+        "retrievedISO": "2026-11-10T01:14:52.122Z"
+      }
+    },
     {
       "dateISO": "2026-09-17",
       "text": "Staff said the four wells are a top priority for West Maui residents, for reliable water for fire protection and peak demand.",
@@ -239,6 +251,7 @@
     }
   ],
   "sourceTypes": [
+    "other",
     "meeting"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
