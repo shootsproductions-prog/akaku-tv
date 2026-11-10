@@ -8,7 +8,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-05-20",
+  "firstSeenISO": "2025-11-07",
   "lastSeenISO": "2026-06-19",
   "signals": {
     "meetingsLast30d": 0,
@@ -41,7 +41,8 @@
     }
   ],
   "bills": [
-    "Bill 78 (2026)"
+    "Bill 78 (2026)",
+    "Resolution 25-203"
   ],
   "timeline": [
     {
@@ -212,6 +213,58 @@
         "endTs": "2:43:30"
       },
       "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2025-11-07",
+      "text": "The planning commissions can begin reviewing the accessory dwelling bill, and the Planning Department can prepare a report.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "MJiHCk91Gwo",
+        "ts": "2:05:04",
+        "retrievedISO": "2026-10-21T18:26:44.447Z",
+        "endTs": "2:05:34"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-11-07",
+      "text": "A state law, Act 39, requires counties to allow at least two accessory dwellings per residential lot by December 31st, 2026.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "MJiHCk91Gwo",
+        "ts": "2:04:50",
+        "retrievedISO": "2026-10-21T18:26:44.447Z",
+        "endTs": "2:05:20"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-11-07",
+      "text": "Resolution 25-203 (referring a bill on accessory dwellings to the planning commissions): The council sent the accessory dwelling bill to the Lānaʻi, Maui and Molokaʻi Planning Commissions.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "MJiHCk91Gwo",
+        "ts": "2:04:24",
+        "retrievedISO": "2026-10-21T18:26:44.447Z",
+        "endTs": "2:05:38"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-11-07",
+      "text": "A policy group testifier said two accessory dwellings per lot would let homeowners add housing for friends or family.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "MJiHCk91Gwo",
+        "ts": "0:39:03",
+        "retrievedISO": "2026-10-21T18:26:44.447Z",
+        "endTs": "0:39:36"
+      },
+      "body": "County Council Meeting"
     }
   ],
   "sourceTypes": [

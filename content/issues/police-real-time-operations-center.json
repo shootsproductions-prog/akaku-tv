@@ -18,6 +18,13 @@
   "asOfISO": "2026-11-09",
   "boards": [
     {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    },
+    {
       "name": "Police Commission",
       "group": "board",
       "short": []
@@ -36,6 +43,19 @@
         "quote": "Maui County Council members voted 7-1 in committee Thursday to put safeguards on how local law enforcement uses automated license plate reader technology, but they deferred action on a second bill addressing facial recognition technology that is not yet deployed by the Maui Police Department.",
         "retrievedISO": "2026-10-25T01:47:00.298Z"
       }
+    },
+    {
+      "dateISO": "2026-04-14",
+      "text": "The police chief asked to complete a real-time operations center that spots problems as they happen.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3DFEGks7SE8",
+        "ts": "0:11:42",
+        "retrievedISO": "2026-10-17T03:44:10.620Z",
+        "endTs": "0:12:19"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
     },
     {
       "dateISO": "2024-11-20",

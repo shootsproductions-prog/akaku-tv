@@ -1,14 +1,14 @@
 {
   "slug": "mema-community-resiliency-hub-network-plan",
   "title": "MEMA community resiliency hub network plan",
-  "summary": "Maui Emergency Management Agency (MEMA) has picked a contractor to write a strategic plan for a community resiliency hub network, and the administrator said the plan should be done in two to three months. The network would connect nonprofits whose facilities and services can help with response and recovery. The request for proposals was delayed about a year by problems with procurement language.",
+  "summary": "Maui Emergency Management Agency (MEMA) has selected a contractor to write a strategic plan for a community resiliency hub network, which would connect nonprofits with facilities and services that can aid response and recovery. The administrator expects the plan within two to three months. The request for proposals was delayed about a year by procurement language problems; the agency planned to use a remaining $150,000 for the plan.",
   "topics": [
     "disaster-recovery",
     "public-safety"
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-09-17",
+  "firstSeenISO": "2026-04-13",
   "lastSeenISO": "2026-09-17",
   "signals": {
     "meetingsLast30d": 0,
@@ -22,6 +22,13 @@
       "name": "Maui Fire & Public Safety Commission",
       "group": "board",
       "short": []
+    },
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
     }
   ],
   "bills": [],
@@ -90,6 +97,32 @@
         "endTs": "0:21:32"
       },
       "body": "Maui Fire & Public Safety Commission"
+    },
+    {
+      "dateISO": "2026-04-13",
+      "text": "The agency plans to use a remaining $150,000 for a strategic plan for community resiliency hubs.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "g1_1HGnWNlg",
+        "ts": "0:28:52",
+        "retrievedISO": "2026-10-17T04:04:19.765Z",
+        "endTs": "0:29:35"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-13",
+      "text": "The agency is working with procurement on a request for proposals for a strategic plan to define community resiliency hubs.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "h6x_AzBZuxc",
+        "ts": "0:13:24",
+        "retrievedISO": "2026-10-17T04:02:12.824Z",
+        "endTs": "0:13:59"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
     }
   ],
   "sourceTypes": [

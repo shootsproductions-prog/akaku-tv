@@ -7,7 +7,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-05-21",
+  "firstSeenISO": "2024-12-03",
   "lastSeenISO": "2026-10-24",
   "signals": {
     "meetingsLast30d": 0,
@@ -31,6 +31,13 @@
       "name": "Maui Fire Commission",
       "group": "board",
       "short": []
+    },
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
     }
   ],
   "bills": [],
@@ -111,6 +118,71 @@
         "endTs": "0:38:01"
       },
       "body": "Maui Fire Commission"
+    },
+    {
+      "dateISO": "2026-04-13",
+      "text": "The administrator said the agency expects to move into its new emergency operations center in June.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "h6x_AzBZuxc",
+        "ts": "1:06:48",
+        "retrievedISO": "2026-10-17T04:02:12.824Z",
+        "endTs": "1:07:18"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2024-12-03",
+      "text": "He said the county expects to move in around July or August 2025.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xGS2hbJ68lM",
+        "ts": "0:36:39",
+        "retrievedISO": "2026-10-21T10:02:32.946Z",
+        "endTs": "0:37:09"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2024-12-03",
+      "text": "He estimated a shortfall of about $1.5 million to finish construction by the end of next year.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xGS2hbJ68lM",
+        "ts": "0:15:44",
+        "retrievedISO": "2026-10-21T10:02:32.946Z",
+        "endTs": "0:16:14"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2024-12-03",
+      "text": "The capital projects coordinator said permits, equipment wait times and a federal grant review caused delays.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xGS2hbJ68lM",
+        "ts": "0:13:50",
+        "retrievedISO": "2026-10-21T10:02:32.946Z",
+        "endTs": "0:14:22"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2024-12-03",
+      "text": "The building is planned to hold the county IT division, the MIMA headquarters and an emergency operations center.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xGS2hbJ68lM",
+        "ts": "0:13:08",
+        "retrievedISO": "2026-10-21T10:02:32.946Z",
+        "endTs": "0:13:38"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
     }
   ],
   "sourceTypes": [

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T07:36:10.262Z",
+  "updatedAt": "2026-11-10T08:26:10.538Z",
   "count": 219,
   "issues": [
     {
@@ -968,7 +968,7 @@
       ],
       "status": "active",
       "pinned": false,
-      "firstSeenISO": "2025-02-20",
+      "firstSeenISO": "2024-08-22",
       "lastSeenISO": "2026-10-09",
       "signals": {
         "meetingsLast30d": 0,
@@ -1370,6 +1370,175 @@
             "endTs": "3:19:36"
           },
           "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+        },
+        {
+          "dateISO": "2024-08-22",
+          "text": "The committee deferred the ferry study item with no objections.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tN6J49Yjn0s",
+            "ts": "1:08:30",
+            "retrievedISO": "2026-10-18T14:03:35.813Z",
+            "endTs": "1:09:00"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2024-08-22",
+          "text": "The deputy director said they will remain the study's project manager after moving to the MPO on September 1st.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tN6J49Yjn0s",
+            "ts": "1:07:29",
+            "retrievedISO": "2026-10-18T14:03:35.813Z",
+            "endTs": "1:08:07"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2024-08-22",
+          "text": "The deputy director of transportation apologized for a lack of cultural sensitivity in the survey.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tN6J49Yjn0s",
+            "ts": "1:00:00",
+            "retrievedISO": "2026-10-18T14:03:35.813Z",
+            "endTs": "1:00:30"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2024-08-22",
+          "text": "The committee chair said the current ferry owners hired someone to find a buyer.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tN6J49Yjn0s",
+            "ts": "0:50:19",
+            "retrievedISO": "2026-10-18T14:03:35.813Z",
+            "endTs": "0:50:49"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2024-08-22",
+          "text": "The committee chair said Representative Jill Tokuda told him federal ferry money is available if the County owns it.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tN6J49Yjn0s",
+            "ts": "0:41:30",
+            "retrievedISO": "2026-10-18T14:03:35.813Z",
+            "endTs": "0:42:01"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2024-08-22",
+          "text": "The department said it is putting together cost estimates for the ferry.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tN6J49Yjn0s",
+            "ts": "0:40:22",
+            "retrievedISO": "2026-10-18T14:03:35.813Z",
+            "endTs": "0:40:52"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2024-08-22",
+          "text": "The council chair said the council's main concern is cost.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tN6J49Yjn0s",
+            "ts": "0:38:44",
+            "retrievedISO": "2026-10-18T14:03:35.813Z",
+            "endTs": "0:39:15"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2024-08-22",
+          "text": "The department will turn first-round results into proposals and engage the council and community again.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tN6J49Yjn0s",
+            "ts": "0:34:21",
+            "retrievedISO": "2026-10-18T14:03:35.813Z",
+            "endTs": "0:34:51"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2024-08-22",
+          "text": "A second testifier said there is no oversight for invasive species where the ferry docks.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tN6J49Yjn0s",
+            "ts": "0:29:13",
+            "retrievedISO": "2026-10-18T14:03:35.813Z",
+            "endTs": "0:29:43"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2024-08-22",
+          "text": "Molokaʻi participants said two ferry trips a day would be enough.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tN6J49Yjn0s",
+            "ts": "0:21:26",
+            "retrievedISO": "2026-10-18T14:03:35.813Z",
+            "endTs": "0:21:56"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2024-08-22",
+          "text": "Common concerns from the public included marine animals, zero-emission ferries, getting to the ferry by land, and kamaʻāina (resident) fares.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tN6J49Yjn0s",
+            "ts": "0:18:27",
+            "retrievedISO": "2026-10-18T14:03:35.813Z",
+            "endTs": "0:19:20"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2024-08-22",
+          "text": "The chair said the fiscal year 2024 budget included $300,000 to study a county-owned ferry.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tN6J49Yjn0s",
+            "ts": "0:06:42",
+            "retrievedISO": "2026-10-18T14:03:35.813Z",
+            "endTs": "0:07:12"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2024-08-22",
+          "text": "A testifier urged the County to help keep the ferry going.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tN6J49Yjn0s",
+            "ts": "0:05:48",
+            "retrievedISO": "2026-10-18T14:03:35.813Z",
+            "endTs": "0:06:26"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
         }
       ],
       "sourceTypes": [
@@ -15228,6 +15397,13 @@
       "asOfISO": "2026-11-09",
       "boards": [
         {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        },
+        {
           "name": "Police Commission",
           "group": "board",
           "short": []
@@ -15246,6 +15422,19 @@
             "quote": "Maui County Council members voted 7-1 in committee Thursday to put safeguards on how local law enforcement uses automated license plate reader technology, but they deferred action on a second bill addressing facial recognition technology that is not yet deployed by the Maui Police Department.",
             "retrievedISO": "2026-10-25T01:47:00.298Z"
           }
+        },
+        {
+          "dateISO": "2026-04-14",
+          "text": "The police chief asked to complete a real-time operations center that spots problems as they happen.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "3DFEGks7SE8",
+            "ts": "0:11:42",
+            "retrievedISO": "2026-10-17T03:44:10.620Z",
+            "endTs": "0:12:19"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
         },
         {
           "dateISO": "2024-11-20",
@@ -18320,7 +18509,7 @@
       ],
       "status": "active",
       "pinned": false,
-      "firstSeenISO": "2026-04-21",
+      "firstSeenISO": "2026-04-07",
       "lastSeenISO": "2026-09-29",
       "signals": {
         "meetingsLast30d": 0,
@@ -18436,6 +18625,19 @@
             "ts": "0:18:21",
             "retrievedISO": "2026-10-17T02:08:29.858Z",
             "endTs": "0:19:09"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-07",
+          "text": "A Planning official said that, as understood, qualifying workforce housing projects are not billed building permit fees.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "d1ORjxdGLPQ",
+            "ts": "3:59:47",
+            "retrievedISO": "2026-10-17T04:42:18.221Z",
+            "endTs": "4:00:24"
           },
           "body": "County Council Budget, Finance, and Economic Development Committee"
         }
@@ -19786,7 +19988,7 @@
       ],
       "status": "active",
       "pinned": false,
-      "firstSeenISO": "2026-05-20",
+      "firstSeenISO": "2025-11-07",
       "lastSeenISO": "2026-06-19",
       "signals": {
         "meetingsLast30d": 0,
@@ -19819,7 +20021,8 @@
         }
       ],
       "bills": [
-        "Bill 78 (2026)"
+        "Bill 78 (2026)",
+        "Resolution 25-203"
       ],
       "timeline": [
         {
@@ -19990,6 +20193,58 @@
             "endTs": "2:43:30"
           },
           "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2025-11-07",
+          "text": "The planning commissions can begin reviewing the accessory dwelling bill, and the Planning Department can prepare a report.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MJiHCk91Gwo",
+            "ts": "2:05:04",
+            "retrievedISO": "2026-10-21T18:26:44.447Z",
+            "endTs": "2:05:34"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2025-11-07",
+          "text": "A state law, Act 39, requires counties to allow at least two accessory dwellings per residential lot by December 31st, 2026.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MJiHCk91Gwo",
+            "ts": "2:04:50",
+            "retrievedISO": "2026-10-21T18:26:44.447Z",
+            "endTs": "2:05:20"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2025-11-07",
+          "text": "Resolution 25-203 (referring a bill on accessory dwellings to the planning commissions): The council sent the accessory dwelling bill to the Lānaʻi, Maui and Molokaʻi Planning Commissions.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MJiHCk91Gwo",
+            "ts": "2:04:24",
+            "retrievedISO": "2026-10-21T18:26:44.447Z",
+            "endTs": "2:05:38"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2025-11-07",
+          "text": "A policy group testifier said two accessory dwellings per lot would let homeowners add housing for friends or family.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MJiHCk91Gwo",
+            "ts": "0:39:03",
+            "retrievedISO": "2026-10-21T18:26:44.447Z",
+            "endTs": "0:39:36"
+          },
+          "body": "County Council Meeting"
         }
       ],
       "sourceTypes": [
@@ -34700,14 +34955,14 @@
     {
       "slug": "mema-community-resiliency-hub-network-plan",
       "title": "MEMA community resiliency hub network plan",
-      "summary": "Maui Emergency Management Agency (MEMA) has picked a contractor to write a strategic plan for a community resiliency hub network, and the administrator said the plan should be done in two to three months. The network would connect nonprofits whose facilities and services can help with response and recovery. The request for proposals was delayed about a year by problems with procurement language.",
+      "summary": "Maui Emergency Management Agency (MEMA) has selected a contractor to write a strategic plan for a community resiliency hub network, which would connect nonprofits with facilities and services that can aid response and recovery. The administrator expects the plan within two to three months. The request for proposals was delayed about a year by procurement language problems; the agency planned to use a remaining $150,000 for the plan.",
       "topics": [
         "disaster-recovery",
         "public-safety"
       ],
       "status": "active",
       "pinned": false,
-      "firstSeenISO": "2026-09-17",
+      "firstSeenISO": "2026-04-13",
       "lastSeenISO": "2026-09-17",
       "signals": {
         "meetingsLast30d": 0,
@@ -34721,6 +34976,13 @@
           "name": "Maui Fire & Public Safety Commission",
           "group": "board",
           "short": []
+        },
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
         }
       ],
       "bills": [],
@@ -34789,6 +35051,32 @@
             "endTs": "0:21:32"
           },
           "body": "Maui Fire & Public Safety Commission"
+        },
+        {
+          "dateISO": "2026-04-13",
+          "text": "The agency plans to use a remaining $150,000 for a strategic plan for community resiliency hubs.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "g1_1HGnWNlg",
+            "ts": "0:28:52",
+            "retrievedISO": "2026-10-17T04:04:19.765Z",
+            "endTs": "0:29:35"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-13",
+          "text": "The agency is working with procurement on a request for proposals for a strategic plan to define community resiliency hubs.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "h6x_AzBZuxc",
+            "ts": "0:13:24",
+            "retrievedISO": "2026-10-17T04:02:12.824Z",
+            "endTs": "0:13:59"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
         }
       ],
       "sourceTypes": [
@@ -35112,7 +35400,7 @@
       ],
       "status": "active",
       "pinned": false,
-      "firstSeenISO": "2026-05-21",
+      "firstSeenISO": "2024-12-03",
       "lastSeenISO": "2026-10-24",
       "signals": {
         "meetingsLast30d": 0,
@@ -35136,6 +35424,13 @@
           "name": "Maui Fire Commission",
           "group": "board",
           "short": []
+        },
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
         }
       ],
       "bills": [],
@@ -35216,6 +35511,71 @@
             "endTs": "0:38:01"
           },
           "body": "Maui Fire Commission"
+        },
+        {
+          "dateISO": "2026-04-13",
+          "text": "The administrator said the agency expects to move into its new emergency operations center in June.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "h6x_AzBZuxc",
+            "ts": "1:06:48",
+            "retrievedISO": "2026-10-17T04:02:12.824Z",
+            "endTs": "1:07:18"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2024-12-03",
+          "text": "He said the county expects to move in around July or August 2025.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xGS2hbJ68lM",
+            "ts": "0:36:39",
+            "retrievedISO": "2026-10-21T10:02:32.946Z",
+            "endTs": "0:37:09"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2024-12-03",
+          "text": "He estimated a shortfall of about $1.5 million to finish construction by the end of next year.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xGS2hbJ68lM",
+            "ts": "0:15:44",
+            "retrievedISO": "2026-10-21T10:02:32.946Z",
+            "endTs": "0:16:14"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2024-12-03",
+          "text": "The capital projects coordinator said permits, equipment wait times and a federal grant review caused delays.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xGS2hbJ68lM",
+            "ts": "0:13:50",
+            "retrievedISO": "2026-10-21T10:02:32.946Z",
+            "endTs": "0:14:22"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2024-12-03",
+          "text": "The building is planned to hold the county IT division, the MIMA headquarters and an emergency operations center.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xGS2hbJ68lM",
+            "ts": "0:13:08",
+            "retrievedISO": "2026-10-21T10:02:32.946Z",
+            "endTs": "0:13:38"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
         }
       ],
       "sourceTypes": [
@@ -42738,7 +43098,7 @@
     {
       "slug": "bill-110-street-improvement-exemption-for-front-street-rebui",
       "title": "Bill 110 street improvement exemption for Front Street rebuilds",
-      "summary": "As of July 19, 2024, testimony continued on Bills 87, 105 and 110, with another testifier saying the measures would help provide temporary housing.",
+      "summary": "Bill 110 passed on final reading on November 21, 2025. It excuses properties damaged in the August 2023 Maui wildfires from building or improving public streets while rebuilding. An amendment on November 7 extended the exemption to three properties just north of Baker Street.",
       "topics": [
         "disaster-recovery",
         "land-use"
@@ -42746,7 +43106,7 @@
       "status": "quiet",
       "pinned": false,
       "firstSeenISO": "2024-07-19",
-      "lastSeenISO": "2024-07-19",
+      "lastSeenISO": "2025-11-07",
       "signals": {
         "meetingsLast30d": 0,
         "meetingsLast90d": 0,
@@ -42764,9 +43124,62 @@
       "bills": [
         "Bill 87 (2024)",
         "Bill 105 (2024)",
-        "Bill 110 (2024)"
+        "Bill 110 (2024)",
+        "Bill 110 (2025)"
       ],
       "timeline": [
+        {
+          "dateISO": "2025-11-07",
+          "text": "That change passed, eight ayes to zero.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MJiHCk91Gwo",
+            "ts": "1:45:15",
+            "retrievedISO": "2026-10-21T18:26:44.447Z",
+            "endTs": "1:45:45"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2025-11-07",
+          "text": "An amendment extended the exemption to three properties just north of Baker Street.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MJiHCk91Gwo",
+            "ts": "1:43:14",
+            "retrievedISO": "2026-10-21T18:26:44.447Z",
+            "endTs": "1:43:58"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2025-11-07",
+          "text": "A council member said Bill 110 gives targeted relief to owners whose buildings the August 2023 wildfires destroyed or badly damaged.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MJiHCk91Gwo",
+            "ts": "1:41:53",
+            "retrievedISO": "2026-10-21T18:26:44.447Z",
+            "endTs": "1:42:23"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2025-11-07",
+          "text": "A property manager testified that street improvement requirements are a costly barrier for owners trying to rebuild.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MJiHCk91Gwo",
+            "ts": "0:57:02",
+            "retrievedISO": "2026-10-21T18:26:44.447Z",
+            "endTs": "0:57:44"
+          },
+          "body": "County Council Meeting"
+        },
         {
           "dateISO": "2024-07-19",
           "text": "Another testifier said Bills 87, 105 and 110 would help provide temporary housing.",
@@ -43452,7 +43865,7 @@
     {
       "slug": "airborne-mapping-of-mauis-underground-fresh-water",
       "title": "Airborne mapping of Maui's underground fresh water",
-      "summary": "On April 22, the final motion to spend $1.8 million in water supply carryover savings on airborne electromagnetic data collection in West Maui was read into the record. The budget director said the water director will move forward with the project, though the administration would prefer the state take the lead. The member who proposed it said the data would show where to drill wells, and a second year would map the Haleakalā aquifer.",
+      "summary": "On April 22, a motion to use $1.8 million in water supply carryover savings for airborne electromagnetic mapping in West Maui was read into the record; the vote result is not known. The budget director said the water director will move forward, though the administration would prefer the state lead. The proposer said a second year would map the Haleakalā aquifer, and a researcher earlier put first-year costs near $2.5 million.",
       "topics": [
         "water"
       ],
@@ -43540,6 +43953,71 @@
             "ts": "4:04:22",
             "retrievedISO": "2026-10-19T23:28:29.964Z",
             "endTs": "4:04:56"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-14",
+          "text": "The testifier said mapping the whole island at once saves money on helicopter mobilization costs.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "3DFEGks7SE8",
+            "ts": "0:27:57",
+            "retrievedISO": "2026-10-17T03:44:10.620Z",
+            "endTs": "0:28:30"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-14",
+          "text": "The testifier said the imaging and related analysis would cost less than $4 million.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "3DFEGks7SE8",
+            "ts": "0:25:41",
+            "retrievedISO": "2026-10-17T03:44:10.620Z",
+            "endTs": "0:26:11"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-14",
+          "text": "A testifier asked the council to fund airborne imaging, called AEM, to map underground fresh water.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "3DFEGks7SE8",
+            "ts": "0:23:58",
+            "retrievedISO": "2026-10-17T03:44:10.620Z",
+            "endTs": "0:24:30"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-14",
+          "text": "The testifier said current groundwater data is too sparse to guide long-term management.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "3DFEGks7SE8",
+            "ts": "0:23:39",
+            "retrievedISO": "2026-10-17T03:44:10.620Z",
+            "endTs": "0:24:09"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-14",
+          "text": "The testifier said that without reliable water, no new housing can be built.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "3DFEGks7SE8",
+            "ts": "0:23:04",
+            "retrievedISO": "2026-10-17T03:44:10.620Z",
+            "endTs": "0:23:34"
           },
           "body": "County Council Budget, Finance, and Economic Development Committee"
         },
@@ -44843,7 +45321,7 @@
     {
       "slug": "temporary-and-permanent-lahaina-wildfire-debris-disposal-sit",
       "title": "Temporary and permanent Lahaina wildfire debris disposal sites",
-      "summary": "Permanent hauling of Lahaina wildfire debris out of West Maui is set to begin in June, with about 50 truck round trips a day. Hauling will run from sunup to sundown, including during West Maui canoe regattas. All the debris, whether owners opted in or out of the government program, will go to the permanent site at the Central Maui Landfill, with a temporary site planned next to it.",
+      "summary": "On June 4, 2025, the committee deferred the debris item, while the County plans to begin hauling Lahaina wildfire debris to the permanent site in Central Maui on June 16, with up to 50 trucks making four trips a day. FEMA will pay tipping fees, though they may not cover all costs. The site costs just under $20 million, and the County moved $8 million in March to cover construction.",
       "topics": [
         "disaster-recovery",
         "environment"
@@ -44895,6 +45373,136 @@
             "ts": "0:17:18",
             "retrievedISO": "2026-10-21T12:47:06.092Z",
             "endTs": "0:17:48"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2024-12-03",
+          "text": "Officials said they will tell the Council when a closing date for the temporary debris site is known.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xGS2hbJ68lM",
+            "ts": "1:49:41",
+            "retrievedISO": "2026-10-21T10:02:32.946Z",
+            "endTs": "1:50:14"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2024-12-03",
+          "text": "The county is working with state and federal partners on an alternate truck route for moving debris.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xGS2hbJ68lM",
+            "ts": "1:40:51",
+            "retrievedISO": "2026-10-21T10:02:32.946Z",
+            "endTs": "1:41:40"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2024-12-03",
+          "text": "Moving debris from the temporary site to the permanent site is expected to be reimbursable while the federal mission continues.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xGS2hbJ68lM",
+            "ts": "1:38:01",
+            "retrievedISO": "2026-10-21T10:02:32.946Z",
+            "endTs": "1:38:31"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2024-12-03",
+          "text": "The managing director said there is no plan to mix everyday trash with the Lahaina debris.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xGS2hbJ68lM",
+            "ts": "1:32:45",
+            "retrievedISO": "2026-10-21T10:02:32.946Z",
+            "endTs": "1:33:15"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2024-12-03",
+          "text": "Officials hope to have the permanent site ready in the early-to-middle part of next year.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xGS2hbJ68lM",
+            "ts": "1:24:26",
+            "retrievedISO": "2026-10-21T10:02:32.946Z",
+            "endTs": "1:24:56"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2024-12-03",
+          "text": "Officials said losing federal help would mean the county pays for and runs the debris work itself.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xGS2hbJ68lM",
+            "ts": "1:17:53",
+            "retrievedISO": "2026-10-21T10:02:32.946Z",
+            "endTs": "1:18:50"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2024-12-03",
+          "text": "The managing director said the county dropped eminent domain, a court process to take land, for a different parcel.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xGS2hbJ68lM",
+            "ts": "1:10:21",
+            "retrievedISO": "2026-10-21T10:02:32.946Z",
+            "endTs": "1:10:56"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2024-12-03",
+          "text": "The parcel called unit three, where the permanent site will go, costs $2,477,550.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xGS2hbJ68lM",
+            "ts": "1:06:12",
+            "retrievedISO": "2026-10-21T10:02:32.946Z",
+            "endTs": "1:06:48"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2024-12-03",
+          "text": "The county is asking for $4 million to buy two parcels for a permanent wildfire debris disposal site.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xGS2hbJ68lM",
+            "ts": "1:06:07",
+            "retrievedISO": "2026-10-21T10:02:32.946Z",
+            "endTs": "1:06:48"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2024-12-03",
+          "text": "One testifier asked why the wildfire debris site is called \"permanent.\"",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xGS2hbJ68lM",
+            "ts": "0:07:10",
+            "retrievedISO": "2026-10-21T10:02:32.946Z",
+            "endTs": "0:07:43"
           },
           "body": "County Council Budget, Finance, and Economic Development Committee"
         },

@@ -7,7 +7,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-04-21",
+  "firstSeenISO": "2026-04-07",
   "lastSeenISO": "2026-09-29",
   "signals": {
     "meetingsLast30d": 0,
@@ -123,6 +123,19 @@
         "ts": "0:18:21",
         "retrievedISO": "2026-10-17T02:08:29.858Z",
         "endTs": "0:19:09"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-07",
+      "text": "A Planning official said that, as understood, qualifying workforce housing projects are not billed building permit fees.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "d1ORjxdGLPQ",
+        "ts": "3:59:47",
+        "retrievedISO": "2026-10-17T04:42:18.221Z",
+        "endTs": "4:00:24"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
     }
