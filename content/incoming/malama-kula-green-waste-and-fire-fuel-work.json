@@ -1,0 +1,60 @@
+{
+  "slug": "malama-kula-green-waste-and-fire-fuel-work",
+  "title": "Mālama Kula green waste and fire fuel work",
+  "summary": "Mālama Kula has removed nearly 2 million pounds of dead and downed trees, its director said on April 1, 2026. The group was founded after the 2023 Kula fire.",
+  "topics": [
+    "public-safety",
+    "environment",
+    "disaster-recovery"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2026-04-01",
+  "lastSeenISO": "2026-04-01",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-11",
+  "timeline": [
+    {
+      "dateISO": "2026-04-01",
+      "text": "The director said the group has removed nearly 2 million pounds of dead and downed trees.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "-YeXuiAzmiU",
+        "ts": "1:37:42",
+        "endTs": "1:38:12",
+        "retrievedISO": "2026-10-17T05:09:02.315Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-01",
+      "text": "The director said Mālama Kula was founded after the 2023 Kula fire.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "-YeXuiAzmiU",
+        "ts": "1:37:24",
+        "endTs": "1:37:54",
+        "retrievedISO": "2026-10-17T05:09:02.315Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "special-committee-on-property-tax-reform",
+  "title": "Special committee on property tax reform",
+  "summary": "The council approved creating a special committee on real property tax reform by a vote of seven ayes on July 25, 2025. The chair had asked members to set up the committee. She said she will send members the information from the 2019 real property tax group.",
+  "topics": [
+    "economy",
+    "government",
+    "housing"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2025-07-25",
+  "lastSeenISO": "2025-07-25",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-11",
+  "timeline": [
+    {
+      "dateISO": "2025-07-25",
+      "text": "The council approved the special committee with seven ayes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "IdiAmc4W5Zo",
+        "ts": "1:48:54",
+        "endTs": "1:49:55",
+        "retrievedISO": "2026-10-21T22:24:51.067Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-07-25",
+      "text": "The chair said she will send members the 2019 real property tax group's information.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "IdiAmc4W5Zo",
+        "ts": "1:37:25",
+        "endTs": "1:37:55",
+        "retrievedISO": "2026-10-21T22:24:51.067Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-07-25",
+      "text": "The chair asked members to create a special committee on real property tax reform.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "IdiAmc4W5Zo",
+        "ts": "1:31:21",
+        "endTs": "1:32:02",
+        "retrievedISO": "2026-10-21T22:24:51.067Z"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
