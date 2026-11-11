@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T12:26:10.804Z",
+  "updatedAt": "2026-11-11T12:34:10.864Z",
   "count": 219,
   "issues": [
     {
@@ -34875,7 +34875,16 @@
         "meetingsLast30d": 0,
         "meetingsLast90d": 1,
         "mentionsLast30d": 0,
-        "upcomingEvent": null
+        "upcomingEvent": {
+          "dateISO": "2030-12-31",
+          "what": "A bill would pause new private swimming pools in the West Maui Community Plan Area until December 31, 2030.",
+          "source": {
+            "type": "meeting",
+            "videoId": "3S90aI2m3-k",
+            "ts": "0:08:56",
+            "retrievedISO": "2026-10-19T11:21:58.937Z"
+          }
+        }
       },
       "asOfISO": "2026-11-11",
       "boards": [
