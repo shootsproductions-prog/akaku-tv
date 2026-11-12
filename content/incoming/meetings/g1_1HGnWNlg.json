@@ -1,0 +1,178 @@
+{
+  "videoId": "g1_1HGnWNlg",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-17T04:04:19.788Z",
+  "meetingDateISO": "2026-04-13",
+  "source": {
+    "youtubeUrl": "https://youtu.be/g1_1HGnWNlg"
+  },
+  "headline": "Council committee reviews emergency agency's fiscal year 27 budget",
+  "topics": [
+    "Food Security",
+    "Disaster Recovery"
+  ],
+  "meeting": {
+    "id": "g1_1HGnWNlg",
+    "mon": "Apr",
+    "day": "13",
+    "date": "Mon, Apr 13, 2026",
+    "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+    "dur": "1 h 36 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "A council committee questioned the emergency agency's budget, including $1 million for wildfire fuel removal and a new emergency center expected in June.",
+    "recap": "The committee continued its review of the proposed fiscal year 27 budget for the County of Maui.[[0:18:47]] The emergency management agency asked for $1 million to remove hazardous fuels, meaning plants that can feed wildfires.[[0:24:50]] The agency's administrator said clearing 10 parcels, about 1,100 acres of grass, would cost about $3.3 million.[[0:25:18]] The agency plans to use a remaining $150,000 for a strategic plan for community resiliency hubs.[[0:28:52]] Funding for agency office space on Molokaʻi and in East Maui is identified, but no space is agreed on yet.[[0:31:24]] A council member asked about funding to get stores' perishable food to people during outages.[[0:46:04]] The administrator said the budget includes $380,000 to support emergency activations.[[0:46:44]] The chair said a presidential disaster declaration was signed, which members had waited for to get federal funding.[[0:52:20]] The administrator said the County has deconstructed 30,000 pounds of electric vehicle batteries for disposal.[[1:27:46]] Members may send more questions for the department by nine o'clock tomorrow morning.[[1:35:08]] The committee took a recess, with a different department to follow.[[1:35:48]]",
+    "decided": [],
+    "next": "The administrator said the agency needs to follow up on the status of an office space in East Maui. A flood coordinator position is part of the fiscal year 27 proposal and will be pursued once approved. The agency is working to set up an end-of-life program for electric vehicle batteries. After the break, the committee planned to come back to talk with another department.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:25:04",
+        "q": "\"There's a ask of $1 million for hazardous fuels removal.\""
+      },
+      {
+        "t": "1:05:49",
+        "q": "Hiring trouble slowed public education work"
+      },
+      {
+        "t": "1:22:30",
+        "q": "\"We're supposed to move in June.\""
+      },
+      {
+        "t": "1:25:46",
+        "q": "Electric vehicle batteries left by the side of the road"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "mema-community-resiliency-hub-network-plan",
+        "title": "MEMA community resiliency hub network plan"
+      },
+      {
+        "slug": "hazardous-fuel-removal-on-10-high-risk-parcels",
+        "title": "Hazardous fuel removal on 10 high-risk parcels"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Budget, Finance, and Economic Development Committee",
+        "group": "council",
+        "short": [
+          "BFED"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Food Security",
+      "since": "Apr 13, 2026",
+      "oneLine": "A council member asked whether the County could fund getting stores' perishable food to people during outages.",
+      "why": "The member said East Maui was without electricity for about three days during the first storm.",
+      "deadlines": [],
+      "next": "The administrator said they would have to check on that situation.",
+      "brief": "The member said one store has an agreement to give its perishable food to Red Cross for shelters.[[#1]] The administrator said $380,000 for activations could go to items like refrigeration trailers and generators.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Apr",
+          "day": "13",
+          "source": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "kind": "tv",
+          "title": "Council committee reviews emergency agency's fiscal year 27 budget",
+          "note": "A council member asked whether the County could fund getting stores' perishable food to people during outages.",
+          "proof": "0:45:42",
+          "view": {
+            "type": "meeting",
+            "id": "g1_1HGnWNlg"
+          },
+          "seek": "0:45:42"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 13",
+          "where": "Meeting video at 0:45:42",
+          "view": {
+            "type": "meeting",
+            "id": "g1_1HGnWNlg"
+          },
+          "seek": "0:45:42"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 13",
+          "where": "Meeting video at 0:46:44",
+          "view": {
+            "type": "meeting",
+            "id": "g1_1HGnWNlg"
+          },
+          "seek": "0:46:44"
+        }
+      ]
+    },
+    {
+      "issue": "Disaster Recovery",
+      "since": "Apr 13, 2026",
+      "oneLine": "A presidential disaster declaration was signed, opening the way for federal funding.",
+      "why": "The chair said the declaration was what members were waiting for in order to get federal funding.",
+      "deadlines": [],
+      "next": "The administrator said the agency and the Office of Recovery will improve how they coordinate moving forward.",
+      "brief": "The administrator said this is the first time the Office of Recovery has been part of the shift from response to recovery.[[#1]] The administrator said the declaration enables a public assistance program and a hazard mitigation program.[[#2]] County departments apply for projects under these programs.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Apr",
+          "day": "13",
+          "source": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "kind": "tv",
+          "title": "Council committee reviews emergency agency's fiscal year 27 budget",
+          "note": "A presidential disaster declaration was signed, opening the way for federal funding.",
+          "proof": "0:39:00",
+          "view": {
+            "type": "meeting",
+            "id": "g1_1HGnWNlg"
+          },
+          "seek": "0:39:00"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 13",
+          "where": "Meeting video at 0:39:00",
+          "view": {
+            "type": "meeting",
+            "id": "g1_1HGnWNlg"
+          },
+          "seek": "0:39:00"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 13",
+          "where": "Meeting video at 0:53:03",
+          "view": {
+            "type": "meeting",
+            "id": "g1_1HGnWNlg"
+          },
+          "seek": "0:53:03"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 13",
+          "where": "Meeting video at 0:53:20",
+          "view": {
+            "type": "meeting",
+            "id": "g1_1HGnWNlg"
+          },
+          "seek": "0:53:20"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

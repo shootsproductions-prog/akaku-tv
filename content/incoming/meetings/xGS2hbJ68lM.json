@@ -1,0 +1,145 @@
+{
+  "videoId": "xGS2hbJ68lM",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-21T10:02:32.953Z",
+  "meetingDateISO": "2024-12-03",
+  "source": {
+    "youtubeUrl": "https://youtu.be/xGS2hbJ68lM"
+  },
+  "headline": "Committee reviews building costs and wildfire debris site land",
+  "topics": [
+    "Disaster Recovery"
+  ],
+  "meeting": {
+    "id": "xGS2hbJ68lM",
+    "mon": "Dec",
+    "day": "3",
+    "date": "Tue, Dec 3, 2024",
+    "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+    "dur": "1 h 55 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee reviewed a $1.5 million request for the 60 South Church Street building and a $4 million wildfire debris site land purchase.",
+    "recap": "One testifier asked why the wildfire debris site is called \"permanent.\".[[0:07:10]] The committee voted eight ayes to send pending bills to the Council Chair for the next term.[[0:09:13]] The building is planned to hold the county IT division, the MIMA headquarters and an emergency operations center.[[0:13:08]] The capital projects coordinator said permits, equipment wait times and a federal grant review caused delays.[[0:13:50]] He estimated a shortfall of about $1.5 million to finish construction by the end of next year.[[0:15:44]] He said the county expects to move in around July or August 2025.[[0:36:39]] The county is asking for $4 million to buy two parcels for a permanent wildfire debris disposal site.[[1:06:07]] The managing director said the county dropped eminent domain, a court process to take land, for a different parcel.[[1:10:21]] Officials said speed matters so the county does not lose federal help with debris work.[[1:17:53]]",
+    "decided": [],
+    "next": "The county is working with state and federal partners on an alternate truck route for moving debris. Officials said they will tell the Council when a closing date for the temporary debris site is known.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:07:10",
+        "q": "\"Even the mountain is not permanent.\""
+      },
+      {
+        "t": "0:22:50",
+        "q": "Floors sag as much as two and a half inches"
+      },
+      {
+        "t": "0:35:46",
+        "q": "\"This is unacceptable.\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "new-county-emergency-operations-center",
+        "title": "New county emergency operations center"
+      },
+      {
+        "slug": "temporary-and-permanent-lahaina-wildfire-debris-disposal-sit",
+        "title": "Temporary and permanent Lahaina wildfire debris disposal sites"
+      },
+      {
+        "slug": "central-maui-landfill-land-taking-by-eminent-domain",
+        "title": "Central Maui Landfill land taking by eminent domain"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Budget, Finance, and Economic Development Committee",
+        "group": "council",
+        "short": [
+          "BFED"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Disaster Recovery",
+      "since": "Dec 3, 2024",
+      "oneLine": "The county plans to spend $4 million on two parcels for a permanent wildfire debris disposal site.",
+      "why": "Officials said losing federal help would mean the county pays for and runs the debris work itself.",
+      "deadlines": [
+        {
+          "d": "towards the middle to early middle part of the year, of next year",
+          "t": "Permanent disposal site ready for use."
+        }
+      ],
+      "next": "Officials hope to have the permanent site ready in the early-to-middle part of next year.",
+      "brief": "The parcel called unit three, where the permanent site will go, costs $2,477,550.[[#1]] An official said commercial debris removal is about 99% complete.[[#2]] The managing director said there is no plan to mix everyday trash with the Lahaina debris.[[#3]] Moving debris from the temporary site to the permanent site is expected to be reimbursable while the federal mission continues.[[#4]]",
+      "timeline": [
+        {
+          "mon": "Dec",
+          "day": "3",
+          "source": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "kind": "tv",
+          "title": "Committee reviews building costs and wildfire debris site land",
+          "note": "The county plans to spend $4 million on two parcels for a permanent wildfire debris disposal site.",
+          "proof": "1:06:12",
+          "view": {
+            "type": "meeting",
+            "id": "xGS2hbJ68lM"
+          },
+          "seek": "1:06:12"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Dec 3",
+          "where": "Meeting video at 1:06:12",
+          "view": {
+            "type": "meeting",
+            "id": "xGS2hbJ68lM"
+          },
+          "seek": "1:06:12"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Dec 3",
+          "where": "Meeting video at 1:31:48",
+          "view": {
+            "type": "meeting",
+            "id": "xGS2hbJ68lM"
+          },
+          "seek": "1:31:48"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Dec 3",
+          "where": "Meeting video at 1:32:45",
+          "view": {
+            "type": "meeting",
+            "id": "xGS2hbJ68lM"
+          },
+          "seek": "1:32:45"
+        },
+        {
+          "n": 4,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Dec 3",
+          "where": "Meeting video at 1:38:01",
+          "view": {
+            "type": "meeting",
+            "id": "xGS2hbJ68lM"
+          },
+          "seek": "1:38:01"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}
