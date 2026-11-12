@@ -4,15 +4,13 @@
   "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-17T04:42:18.236Z",
   "meetingDateISO": "2026-04-07",
-  "source": {
-    "youtubeUrl": "https://youtu.be/d1ORjxdGLPQ"
-  },
   "headline": "Maui County Council Budget, Finance, and Economic Development Committee",
   "topics": [
     "Housing",
     "Food Security",
     "Disaster Recovery"
   ],
+  "bodyType": "council",
   "meeting": {
     "id": "d1ORjxdGLPQ",
     "mon": "Apr",
@@ -64,5 +62,7 @@
     "bills": []
   },
   "issues": [],
-  "bodyType": "council"
+  "source": {
+    "youtubeUrl": "https://youtu.be/d1ORjxdGLPQ"
+  }
 }

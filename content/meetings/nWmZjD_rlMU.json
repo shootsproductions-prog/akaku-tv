@@ -4,15 +4,13 @@
   "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-17T04:44:34.262Z",
   "meetingDateISO": "2026-04-06",
-  "source": {
-    "youtubeUrl": "https://youtu.be/nWmZjD_rlMU"
-  },
   "headline": "Budget committee hears testimony on housing and police staffing, moves two meetings",
   "topics": [
     "Housing",
     "Food Security",
     "Disaster Recovery"
   ],
+  "bodyType": "council",
   "meeting": {
     "id": "nWmZjD_rlMU",
     "mon": "Apr",
@@ -115,5 +113,7 @@
       ]
     }
   ],
-  "bodyType": "council"
+  "source": {
+    "youtubeUrl": "https://youtu.be/nWmZjD_rlMU"
+  }
 }

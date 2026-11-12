@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-12T07:06:30.909Z",
-  "etag": "f2d23df1e8768123334d8ca0bd48c0ea7097ee86b0915fcace8cbd5f3a4b453c",
-  "count": 361,
+  "updatedAt": "2026-11-12T07:08:13.305Z",
+  "etag": "7c8ec7f3873222d3ef950b8b2b3105b77e70bfcb457a0f7a5b020abe2cb9da5a",
+  "count": 366,
   "meetings": [
     {
       "videoId": "mWb79anG_Js",
@@ -4842,6 +4842,40 @@
       "sha256": "48a7504d622c79882168fbd2d899fe158c8733337f409b0f4b1992ce4f28dbda"
     },
     {
+      "videoId": "h6x_AzBZuxc",
+      "status": "reviewed",
+      "meetingDateISO": "2026-04-13",
+      "bodyType": "council",
+      "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+      "headline": "Committee defers fiscal year 27 county budget item after emergency management review",
+      "summary": "The emergency management administrator described work on 10 high-priority parcels covering 1,100 acres and a $1 million request to clear hazardous fuels. Bill 63 will be voted on when the committee takes up all the bills.",
+      "dur": "2 h 05 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [
+        "mema-community-resiliency-hub-network-plan",
+        "new-county-emergency-operations-center",
+        "hazardous-fuel-removal-on-10-high-risk-parcels"
+      ],
+      "updatedAt": "2026-11-12T07:08:13.305Z",
+      "sha256": "faeef733602cae7fcf27bbc94b82ca3d970079a1680d32468683465d57b122ac"
+    },
+    {
+      "videoId": "WnYd3YxEigE",
+      "status": "reviewed",
+      "meetingDateISO": "2026-04-13",
+      "bodyType": "council",
+      "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+      "headline": "Committee hears Molokaʻi residents on budget requests, storm flooding and invasive pest",
+      "summary": "At an in-person Molokaʻi meeting, a speaker asked the committee to put $600,000 back in the budget and residents described storm flooding. The invasive species coordinator said a pest was detected last week and the council will hear shortly if more help is needed.",
+      "dur": "1 h 50 m",
+      "voteCount": 0,
+      "momentCount": 4,
+      "issues": [],
+      "updatedAt": "2026-11-12T07:08:13.305Z",
+      "sha256": "38e4e76d8891219989f52afe7d10b1709a1ec7a4236a564cb22086370dd9b503"
+    },
+    {
       "videoId": "4QEyWDNRkiY",
       "status": "reviewed",
       "meetingDateISO": "2026-04-08",
@@ -4859,6 +4893,39 @@
       ],
       "updatedAt": "2026-11-01T03:10:01.373Z",
       "sha256": "0adf54634520b72c781e73c0045b480b4136dd4e10d9d4f90f56be0303455e4c"
+    },
+    {
+      "videoId": "d1ORjxdGLPQ",
+      "status": "reviewed",
+      "meetingDateISO": "2026-04-07",
+      "bodyType": "council",
+      "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+      "headline": "Maui County Council Budget, Finance, and Economic Development Committee",
+      "summary": "The committee heard fiscal year 2027 budget plans from Human Concerns, Parks, Transportation and Planning, then deferred the item.",
+      "dur": "4 h 27 m",
+      "voteCount": 1,
+      "momentCount": 2,
+      "issues": [
+        "workforce-housing-fee-waivers-and-repayment-bill",
+        "rebuilding-the-west-maui-senior-center"
+      ],
+      "updatedAt": "2026-11-12T07:08:13.305Z",
+      "sha256": "6d660d96ee62711b0ba0c349eb98855458e4bcd31f238aa870ffb490b46cf401"
+    },
+    {
+      "videoId": "nWmZjD_rlMU",
+      "status": "reviewed",
+      "meetingDateISO": "2026-04-06",
+      "bodyType": "council",
+      "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+      "headline": "Budget committee hears testimony on housing and police staffing, moves two meetings",
+      "summary": "A testifier said affordable housing is needed in Hāna, and the budget includes $6.595 million to buy 7.2 acres for the project. A police lieutenant said Hāna has one or two officers on shift. South Maui moved to the 14th and West Maui to the 17th, both at 6 o'clock.",
+      "dur": "2 h 13 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [],
+      "updatedAt": "2026-11-12T07:08:13.305Z",
+      "sha256": "b60fbe06d3f0a6adef699018ca14fa0dabd50f69770e1fb754f7cb1ff0d6e4f0"
     },
     {
       "videoId": "YGuzDd85eAQ",
@@ -5943,6 +6010,26 @@
       "issues": [],
       "updatedAt": "2026-10-31T10:02:18.959Z",
       "sha256": "f0e3d15d55afa18dbeaff0ddbc52922b1b64b750b998ee8e96b1284fe9542ca6"
+    },
+    {
+      "videoId": "PanLlKqrVO8",
+      "status": "reviewed",
+      "meetingDateISO": "2024-10-25",
+      "bodyType": "council",
+      "body": "Maui County Council Meeting",
+      "headline": "Maui County Council Meeting",
+      "summary": "The council approved an East Maui water authority director, adopted a recycled water resolution, and sent a West Maui housing change to the Planning Commission.",
+      "dur": "3 h 36 m",
+      "voteCount": 2,
+      "momentCount": 3,
+      "issues": [
+        "west-maui-affordable-housing-project-water-condition",
+        "using-recycled-r1-water-for-irrigation-and-firefighting",
+        "voter-service-centers-and-election-use-of-council-chambers",
+        "proposed-west-maui-critical-access-hospital"
+      ],
+      "updatedAt": "2026-11-12T07:08:13.305Z",
+      "sha256": "187194a8a5d1051bbef924ad233a9a2f1204f68fd80fa8955db35993f48c0e04"
     },
     {
       "videoId": "bRKoNKr07JM",

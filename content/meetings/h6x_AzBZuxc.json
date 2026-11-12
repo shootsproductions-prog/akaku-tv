@@ -4,14 +4,12 @@
   "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-17T04:02:12.831Z",
   "meetingDateISO": "2026-04-13",
-  "source": {
-    "youtubeUrl": "https://youtu.be/h6x_AzBZuxc"
-  },
   "headline": "Committee defers fiscal year 27 county budget item after emergency management review",
   "topics": [
     "Food Security",
     "Disaster Recovery"
   ],
+  "bodyType": "council",
   "meeting": {
     "id": "h6x_AzBZuxc",
     "mon": "Apr",
@@ -176,5 +174,7 @@
       ]
     }
   ],
-  "bodyType": "council"
+  "source": {
+    "youtubeUrl": "https://youtu.be/h6x_AzBZuxc"
+  }
 }
