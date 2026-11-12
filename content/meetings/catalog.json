@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-12T04:27:23.041Z",
-  "etag": "e5d93f2ecfdf47a508f4f888eb5ecd1e1cff4f7a4612d6954237ef3d1d7db50d",
-  "count": 356,
+  "updatedAt": "2026-11-12T04:27:50.986Z",
+  "etag": "1644440d85b11cf645322862e6bb66f78d03d0c7b14fb4beb5c5a659b66e00e9",
+  "count": 357,
   "meetings": [
     {
       "videoId": "mWb79anG_Js",
@@ -4769,6 +4769,24 @@
       ],
       "updatedAt": "2026-11-06T03:30:13.932Z",
       "sha256": "a0effc81103b5b6640c9b58d67265250da07efd8cf8d18f70e75705b224bfb84"
+    },
+    {
+      "videoId": "3DFEGks7SE8",
+      "status": "reviewed",
+      "meetingDateISO": "2026-04-14",
+      "bodyType": "council",
+      "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+      "headline": "Budget committee takes up police department's fiscal year 2027 budget, closes oral testimony",
+      "summary": "The committee reviewed the proposed fiscal year 2027 county budget with the police chief, who cited cuts to patrol cars and $2.8 million in technology contracts. Oral testimony closed; written testimony is still accepted. Next is the Department of Environmental Management.",
+      "dur": "1 h 52 m",
+      "voteCount": 0,
+      "momentCount": 4,
+      "issues": [
+        "airborne-mapping-of-mauis-underground-fresh-water",
+        "police-real-time-operations-center"
+      ],
+      "updatedAt": "2026-11-12T04:27:50.986Z",
+      "sha256": "86dd867e0b2c6663295a848d5b831e3e6396a6f78037b4380f915c5874d19764"
     },
     {
       "videoId": "KNKf5DnTCgw",

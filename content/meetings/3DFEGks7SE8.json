@@ -4,13 +4,11 @@
   "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-17T03:44:10.676Z",
   "meetingDateISO": "2026-04-14",
-  "source": {
-    "youtubeUrl": "https://youtu.be/3DFEGks7SE8"
-  },
   "headline": "Budget committee takes up police department's fiscal year 2027 budget, closes oral testimony",
   "topics": [
     "Water"
   ],
+  "bodyType": "council",
   "meeting": {
     "id": "3DFEGks7SE8",
     "mon": "Apr",
@@ -129,5 +127,7 @@
       ]
     }
   ],
-  "bodyType": "council"
+  "source": {
+    "youtubeUrl": "https://youtu.be/3DFEGks7SE8"
+  }
 }
