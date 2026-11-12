@@ -1,0 +1,83 @@
+{
+  "slug": "lighting-and-music-at-lanai-hotel-events",
+  "title": "Lighting and music at Lānaʻi hotel events",
+  "summary": "Lānaʻi commissioners heard that beach park rangers cannot enforce rules on a hotel event's music and lighting, and a hotel representative said its music stops at 10 p.m. In October a commissioner raised community concerns about lighting at an event approved with a minor permit, and staff said holders must follow the night sky ordinance.",
+  "topics": [
+    "land-use",
+    "culture"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-09-16",
+  "lastSeenISO": "2026-10-21",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 2,
+    "mentionsLast30d": 2,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-11",
+  "timeline": [
+    {
+      "dateISO": "2026-10-21",
+      "text": "Staff said permit holders must follow the night sky lighting ordinance.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lTfHRBm6PPo",
+        "ts": "0:46:14",
+        "endTs": "0:46:44",
+        "retrievedISO": "2026-11-04T07:35:06.980Z"
+      },
+      "body": "Lānaʻi Planning Commission"
+    },
+    {
+      "dateISO": "2026-10-21",
+      "text": "A commissioner raised community concerns about lighting at a recent event approved with a minor permit.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lTfHRBm6PPo",
+        "ts": "0:45:00",
+        "endTs": "0:45:35",
+        "retrievedISO": "2026-11-04T07:35:06.980Z"
+      },
+      "body": "Lānaʻi Planning Commission"
+    },
+    {
+      "dateISO": "2026-09-16",
+      "text": "A hotel representative said music at its events shuts down at 10 p.m.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "QMt5AreKorc",
+        "ts": "1:17:02",
+        "endTs": "1:17:32",
+        "retrievedISO": "2026-10-07T23:03:51.628Z"
+      },
+      "body": "Lānaʻi Planning Commission"
+    },
+    {
+      "dateISO": "2026-09-16",
+      "text": "A commissioner said beach park rangers cannot enforce rules on the event's music and lighting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "QMt5AreKorc",
+        "ts": "1:16:17",
+        "endTs": "1:16:50",
+        "retrievedISO": "2026-10-07T23:03:51.628Z"
+      },
+      "body": "Lānaʻi Planning Commission"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Lānaʻi Planning Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
