@@ -1,0 +1,57 @@
+{
+  "videoId": "PNpcD-RC7lc",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-11-04T07:36:54.872Z",
+  "meetingDateISO": "2026-10-22",
+  "source": {
+    "youtubeUrl": "https://youtu.be/PNpcD-RC7lc"
+  },
+  "topics": [],
+  "headline": "Board of Variance Appeals",
+  "meeting": {
+    "id": "PNpcD-RC7lc",
+    "mon": "Oct",
+    "day": "22",
+    "date": "Thu, Oct 22, 2026",
+    "body": "Board of Variance Appeals",
+    "dur": "15 m",
+    "voteCount": null,
+    "voteItem": null,
+    "ayes": null,
+    "noes": null,
+    "summary": "The Board of Variance Appeals put two short-term rental appeals on hold because of a bankruptcy case and continued Travis Manning's appeal.",
+    "recap": "The County of Maui Board of Variance Appeals met October 22, 2026.[[0:00:35]] A County lawyer said the properties are in a bankruptcy case, and a court-ordered pause blocks hearings on them unless it is lifted.[[0:03:51]] The lawyer said they hope to review in six months whether the bankruptcy is done or the pause is lifted.[[0:04:05]] By unanimous consent, the appeals were put on hold.[[0:04:19]] April 8, 2027, was picked as a date for these appeals.[[0:05:01]] No one appeared for the appellant.[[0:06:28]] A County attorney said no objections were filed and asked the board to approve the proposed written decision.[[0:08:03]] A County representative suggested continuing (postponing) the matter until the appellant's new appeal is heard.[[0:10:37]] The board voted by unanimous consent to continue the appeal to the day the new appeal is heard.[[0:12:34]] Staff said they will tell members if the next meeting returns to the usual conference room, which is being repaired.[[0:14:09]]",
+    "decided": [
+      "The board continued the Manning appeal by unanimous consent to the day his new appeal is heard."
+    ],
+    "next": "The County lawyer said they hope to review in six months whether the bankruptcy is done or the pause is lifted. A County attorney said she will tell the assigned County lawyer so the appellant can be told the new date. Staff will tell members where the next meeting will be held, depending on conference room repairs.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:03:51",
+        "q": "\"The stay applies to any court action or administrative hearing related to the properties.\""
+      },
+      {
+        "t": "0:11:29",
+        "q": "\"We're not going to relitigate the previous one.\""
+      },
+      {
+        "t": "0:13:03",
+        "q": "Vote to continue the Manning appeal"
+      }
+    ],
+    "bodyType": "board",
+    "trackerIssues": [],
+    "boards": [
+      {
+        "name": "Board of Variance Appeals",
+        "group": "board",
+        "short": []
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "board"
+}
