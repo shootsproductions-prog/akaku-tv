@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T03:43:56.403Z",
+  "updatedAt": "2026-11-12T04:26:11.719Z",
   "count": 228,
   "issues": [
     {
@@ -18012,7 +18012,7 @@
     {
       "slug": "using-recycled-r1-water-for-irrigation-and-firefighting",
       "title": "Using recycled R1 water for irrigation and firefighting",
-      "summary": "At the latest meeting, a council member said reclaimed water use fell from 5 million to about 3 million gallons a day after the fire, and that the County must build pipes to deliver it. In October 2024 the committee voted 7-0 to recommend the amended Resolution 24-161, which urges more recycled R1 water to save drinking water for housing. The amendment asks for R1 production investment at the Kahului, Molokaʻi and Lānaʻi plants.",
+      "summary": "On Sept. 30, 2026, a council member said reclaimed water use has fallen from about 5 million to about 3 million gallons a day since the fire, and that the County needs to build pipes to deliver it for irrigation. In March, the Kāʻanapali Resort R1 distribution system was 80 percent complete, with 200,000 to 300,000 gallons a day expected. In 2024 the council voted 9 to 0 to urge more R1 use to save drinking water for housing.",
       "topics": [
         "water",
         "environment"
@@ -18071,6 +18071,19 @@
             "endTs": "0:23:44"
           },
           "body": "County Council Special Meeting"
+        },
+        {
+          "dateISO": "2024-10-25",
+          "text": "The council voted 9 to 0 to adopt a resolution on using more R1 recycled water.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "PanLlKqrVO8",
+            "ts": "2:23:01",
+            "retrievedISO": "2026-10-21T21:48:16.506Z",
+            "endTs": "2:23:47"
+          },
+          "body": "County Council Meeting"
         },
         {
           "dateISO": "2024-10-10",
@@ -40459,7 +40472,7 @@
       ],
       "status": "quiet",
       "pinned": false,
-      "firstSeenISO": "2024-12-10",
+      "firstSeenISO": "2024-10-25",
       "lastSeenISO": "2024-12-10",
       "signals": {
         "meetingsLast30d": 0,
@@ -40472,6 +40485,11 @@
         {
           "name": "Maui Planning Commission",
           "group": "board",
+          "short": []
+        },
+        {
+          "name": "Maui County Council",
+          "group": "council",
           "short": []
         }
       ],
@@ -40645,6 +40663,123 @@
             "endTs": "0:05:05"
           },
           "body": "Maui Planning Commission"
+        },
+        {
+          "dateISO": "2024-10-25",
+          "text": "Members voted 9 to 0 on the referral.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "PanLlKqrVO8",
+            "ts": "2:52:13",
+            "retrievedISO": "2026-10-21T21:48:16.506Z",
+            "endTs": "2:52:43"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2024-10-25",
+          "text": "The project's land use attorney said it is also asking the LUC to remove the same condition.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "PanLlKqrVO8",
+            "ts": "2:48:57",
+            "retrievedISO": "2026-10-21T21:48:16.506Z",
+            "endTs": "2:49:27"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2024-10-25",
+          "text": "The County's attorney said answers on how the change fits the water code would come by the Wednesday meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "PanLlKqrVO8",
+            "ts": "2:46:51",
+            "retrievedISO": "2026-10-21T21:48:16.506Z",
+            "endTs": "2:47:27"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2024-10-25",
+          "text": "The change would remove a water condition from the project's 2011 approval.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "PanLlKqrVO8",
+            "ts": "2:44:11",
+            "retrievedISO": "2026-10-21T21:48:16.506Z",
+            "endTs": "2:44:41"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2024-10-25",
+          "text": "A council member asked to move a West Maui housing project change forward to the Planning Commission.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "PanLlKqrVO8",
+            "ts": "2:42:05",
+            "retrievedISO": "2026-10-21T21:48:16.506Z",
+            "endTs": "2:42:45"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2024-10-25",
+          "text": "A committee will discuss the change on October 30th.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "PanLlKqrVO8",
+            "ts": "2:38:35",
+            "retrievedISO": "2026-10-21T21:48:16.506Z",
+            "endTs": "2:39:05"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2024-10-25",
+          "text": "The council took up sending a West Maui housing zoning change to the Maui Planning Commission.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "PanLlKqrVO8",
+            "ts": "2:36:04",
+            "retrievedISO": "2026-10-21T21:48:16.506Z",
+            "endTs": "2:36:34"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2024-10-25",
+          "text": "The member said West Maui has only one permanent housing project ready to go, and water is the obstacle.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "PanLlKqrVO8",
+            "ts": "2:21:30",
+            "retrievedISO": "2026-10-21T21:48:16.506Z",
+            "endTs": "2:22:00"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2024-10-25",
+          "text": "A testifier said the project aims to build 800 rental units, half of them affordable.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "PanLlKqrVO8",
+            "ts": "0:23:07",
+            "retrievedISO": "2026-10-21T21:48:16.506Z",
+            "endTs": "0:23:37"
+          },
+          "body": "County Council Meeting"
         }
       ],
       "sourceTypes": [
@@ -50123,7 +50258,7 @@
     {
       "slug": "proposed-west-maui-critical-access-hospital",
       "title": "Proposed West Maui critical access hospital",
-      "summary": "A commissioner said on October 10, 2024, that a West Maui medical facility is not yet ready for the commission to take up.",
+      "summary": "A West Maui critical access hospital drew more support on Nov. 15, when a testifier urged the council to back it. On Oct. 30 the committee deferred the item without a vote. Backers want the County to guarantee $20 million in state special purpose revenue bonds, but a county attorney sees no legal authority for that, and the acting mayor warned a default would put the county in the hospital business.",
       "topics": [
         "health",
         "economy"
@@ -50131,7 +50266,7 @@
       "status": "quiet",
       "pinned": false,
       "firstSeenISO": "2024-10-10",
-      "lastSeenISO": "2024-10-10",
+      "lastSeenISO": "2024-10-25",
       "signals": {
         "meetingsLast30d": 0,
         "meetingsLast90d": 0,
@@ -50141,6 +50276,11 @@
       "asOfISO": "2026-11-11",
       "boards": [
         {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        },
+        {
           "name": "Cost of Government Commission Meeting of October 10, 2024",
           "group": "board",
           "short": []
@@ -50148,6 +50288,45 @@
       ],
       "bills": [],
       "timeline": [
+        {
+          "dateISO": "2024-10-25",
+          "text": "Members agreed with no objections.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "PanLlKqrVO8",
+            "ts": "3:02:22",
+            "retrievedISO": "2026-10-21T21:48:16.506Z",
+            "endTs": "3:02:52"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2024-10-25",
+          "text": "The hospital resolution will come back at the next council meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "PanLlKqrVO8",
+            "ts": "3:01:21",
+            "retrievedISO": "2026-10-21T21:48:16.506Z",
+            "endTs": "3:01:57"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2024-10-25",
+          "text": "The sponsor of a West Maui hospital resolution asked to hold it until the next council meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "PanLlKqrVO8",
+            "ts": "2:59:30",
+            "retrievedISO": "2026-10-21T21:48:16.506Z",
+            "endTs": "3:00:31"
+          },
+          "body": "County Council Meeting"
+        },
         {
           "dateISO": "2024-10-10",
           "text": "A commissioner said a West Maui medical facility is not ready for the commission to take up.",

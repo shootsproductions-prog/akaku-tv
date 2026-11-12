@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-09T20:16:14.425Z",
-  "etag": "0292895b371d3d1ab0d0d3977de0bcb69b7c0c73699df60262611caf72405f8d",
+  "updatedAt": "2026-11-12T04:26:11.759Z",
+  "etag": "32829b7e2c89635c0da209ba9a5b067bdadb3204301b8fd1feee732678e423fc",
   "count": 355,
   "meetings": [
     {
@@ -59,10 +59,11 @@
       "voteCount": 0,
       "momentCount": 6,
       "issues": [
-        "lanai-minor-sma-permit-rule-change"
+        "lanai-minor-sma-permit-rule-change",
+        "lighting-and-music-at-lanai-hotel-events"
       ],
-      "updatedAt": "2026-11-06T03:30:13.932Z",
-      "sha256": "880d9fd7b9d58f86ec5a652eee53af96dc13ce2d04a207d2323399515cc60f9f"
+      "updatedAt": "2026-11-12T04:26:11.759Z",
+      "sha256": "13ee3f6785c81dd34588188d95880998a16db214badd37e77a7afc6d4958e68c"
     },
     {
       "videoId": "Och2a4BSkfo",
@@ -1258,10 +1259,11 @@
       "momentCount": 4,
       "issues": [
         "farm-land-subdivision-lessee-notice-bill",
-        "lanai-minor-sma-permit-rule-change"
+        "lanai-minor-sma-permit-rule-change",
+        "lighting-and-music-at-lanai-hotel-events"
       ],
-      "updatedAt": "2026-10-30T06:16:26.131Z",
-      "sha256": "3097b8571dbf895ec11b6b6587d2737c8eb3132dae8aa8e216e0952868e569cb"
+      "updatedAt": "2026-11-12T04:26:11.759Z",
+      "sha256": "89d2b1d0ae1fe63bec48c9e010bc2b26617b820b0fabf4d60b74260d2490f8be"
     },
     {
       "videoId": "t_RxTlPO6nE",
@@ -3503,10 +3505,11 @@
       "momentCount": 5,
       "issues": [
         "water-department-purchases-outside-county-safeguards",
-        "ethics-bills-on-nepotism-lobbyists-and-ex-employees"
+        "ethics-bills-on-nepotism-lobbyists-and-ex-employees",
+        "countywide-fraud-risk-assessment-and-hotline"
       ],
-      "updatedAt": "2026-10-31T10:02:02.744Z",
-      "sha256": "5c5c98b985e1fbc0b3ec7e6f191ca00ad8a522f7917043b926e88da857df28ff"
+      "updatedAt": "2026-11-12T04:26:11.759Z",
+      "sha256": "240e0d72815dc514dc6cdd00425e61f232a27ec63f9751c7d336b82e53462225"
     },
     {
       "videoId": "BbyOo3hFFbE",
@@ -4319,10 +4322,11 @@
       "momentCount": 3,
       "issues": [
         "setting-yearly-property-tax-rates",
-        "meo-farmer-microgrant-program"
+        "meo-farmer-microgrant-program",
+        "fees-at-county-electric-vehicle-chargers"
       ],
-      "updatedAt": "2026-11-06T03:28:57.377Z",
-      "sha256": "93e17bade79cb4f0802bb39ef7aeea197c5381dd046f5c1b4c587a8c3499414e"
+      "updatedAt": "2026-11-12T04:26:11.759Z",
+      "sha256": "70ef2206486ea6813a2821449915f43644f5807965f7774ba8462bde2b4a0a38"
     },
     {
       "videoId": "Z_F_E5XxQT8",
@@ -4391,10 +4395,11 @@
         "water-system-development-fee-based-on-daily-use",
         "water-rate-increases-and-19-80-top-tier",
         "climate-action-revolving-fund-from-hotel-tax",
-        "hoonani-village-housing-and-well-funding"
+        "hoonani-village-housing-and-well-funding",
+        "fees-at-county-electric-vehicle-chargers"
       ],
-      "updatedAt": "2026-11-06T03:28:57.377Z",
-      "sha256": "c5ce4625b9f8c3508e7ab32d152f653bd43d594f8eede1961f2040a12b355b1e"
+      "updatedAt": "2026-11-12T04:26:11.759Z",
+      "sha256": "adb8001e16183a4f4423d690fab03bf8108807c0f2656a27732e366678b10850"
     },
     {
       "videoId": "AYcQ3sdhHaI",
@@ -4411,10 +4416,11 @@
         "emergency-fund-money-for-march-2026-storm-damage",
         "village-association-plan-to-stop-using-injection-wells",
         "water-rate-increases-and-19-80-top-tier",
-        "central-maui-wastewater-reclamation-facility-funding"
+        "central-maui-wastewater-reclamation-facility-funding",
+        "fees-at-county-electric-vehicle-chargers"
       ],
-      "updatedAt": "2026-11-01T03:04:02.390Z",
-      "sha256": "45bc8fa30960c7006450fe6bba910e0db9350dab841d8a8e540fdd64faa49292"
+      "updatedAt": "2026-11-12T04:26:11.759Z",
+      "sha256": "99ea3945e7b88f7968c818a96f1efe4aecd03f38780f482e1d2747ba715c76da"
     },
     {
       "videoId": "IxdQajY2dxI",
@@ -4613,10 +4619,11 @@
       "issues": [
         "east-maui-water-board-budget-and-staffing-requests",
         "county-food-and-nutrition-security-plan-law",
-        "extending-property-tax-relief-for-wildfire-hit-properties"
+        "extending-property-tax-relief-for-wildfire-hit-properties",
+        "hazardous-fuel-removal-on-10-high-risk-parcels"
       ],
-      "updatedAt": "2026-11-09T20:14:14.768Z",
-      "sha256": "a8fc9ac5b068fb763dc5a6086909d30dfb627913adfffdaa6434ba895dea3bfe"
+      "updatedAt": "2026-11-12T04:26:11.759Z",
+      "sha256": "fa50386e7c29af9a5ec7e794dc42450dcd12799b2b1b94704cc691763e817add"
     },
     {
       "videoId": "cWThkDX_iTA",

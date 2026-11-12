@@ -1,7 +1,7 @@
 {
   "slug": "proposed-west-maui-critical-access-hospital",
   "title": "Proposed West Maui critical access hospital",
-  "summary": "A commissioner said on October 10, 2024, that a West Maui medical facility is not yet ready for the commission to take up.",
+  "summary": "A West Maui critical access hospital drew more support on Nov. 15, when a testifier urged the council to back it. On Oct. 30 the committee deferred the item without a vote. Backers want the County to guarantee $20 million in state special purpose revenue bonds, but a county attorney sees no legal authority for that, and the acting mayor warned a default would put the county in the hospital business.",
   "topics": [
     "health",
     "economy"
@@ -9,7 +9,7 @@
   "status": "quiet",
   "pinned": false,
   "firstSeenISO": "2024-10-10",
-  "lastSeenISO": "2024-10-10",
+  "lastSeenISO": "2024-10-25",
   "signals": {
     "meetingsLast30d": 0,
     "meetingsLast90d": 0,
@@ -19,6 +19,11 @@
   "asOfISO": "2026-11-11",
   "boards": [
     {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    },
+    {
       "name": "Cost of Government Commission Meeting of October 10, 2024",
       "group": "board",
       "short": []
@@ -26,6 +31,45 @@
   ],
   "bills": [],
   "timeline": [
+    {
+      "dateISO": "2024-10-25",
+      "text": "Members agreed with no objections.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PanLlKqrVO8",
+        "ts": "3:02:22",
+        "retrievedISO": "2026-10-21T21:48:16.506Z",
+        "endTs": "3:02:52"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2024-10-25",
+      "text": "The hospital resolution will come back at the next council meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PanLlKqrVO8",
+        "ts": "3:01:21",
+        "retrievedISO": "2026-10-21T21:48:16.506Z",
+        "endTs": "3:01:57"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2024-10-25",
+      "text": "The sponsor of a West Maui hospital resolution asked to hold it until the next council meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PanLlKqrVO8",
+        "ts": "2:59:30",
+        "retrievedISO": "2026-10-21T21:48:16.506Z",
+        "endTs": "3:00:31"
+      },
+      "body": "County Council Meeting"
+    },
     {
       "dateISO": "2024-10-10",
       "text": "A commissioner said a West Maui medical facility is not ready for the commission to take up.",

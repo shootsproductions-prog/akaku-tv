@@ -9,7 +9,7 @@
   ],
   "status": "quiet",
   "pinned": false,
-  "firstSeenISO": "2024-12-10",
+  "firstSeenISO": "2024-10-25",
   "lastSeenISO": "2024-12-10",
   "signals": {
     "meetingsLast30d": 0,
@@ -22,6 +22,11 @@
     {
       "name": "Maui Planning Commission",
       "group": "board",
+      "short": []
+    },
+    {
+      "name": "Maui County Council",
+      "group": "council",
       "short": []
     }
   ],
@@ -195,6 +200,123 @@
         "endTs": "0:05:05"
       },
       "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2024-10-25",
+      "text": "Members voted 9 to 0 on the referral.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PanLlKqrVO8",
+        "ts": "2:52:13",
+        "retrievedISO": "2026-10-21T21:48:16.506Z",
+        "endTs": "2:52:43"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2024-10-25",
+      "text": "The project's land use attorney said it is also asking the LUC to remove the same condition.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PanLlKqrVO8",
+        "ts": "2:48:57",
+        "retrievedISO": "2026-10-21T21:48:16.506Z",
+        "endTs": "2:49:27"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2024-10-25",
+      "text": "The County's attorney said answers on how the change fits the water code would come by the Wednesday meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PanLlKqrVO8",
+        "ts": "2:46:51",
+        "retrievedISO": "2026-10-21T21:48:16.506Z",
+        "endTs": "2:47:27"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2024-10-25",
+      "text": "The change would remove a water condition from the project's 2011 approval.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PanLlKqrVO8",
+        "ts": "2:44:11",
+        "retrievedISO": "2026-10-21T21:48:16.506Z",
+        "endTs": "2:44:41"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2024-10-25",
+      "text": "A council member asked to move a West Maui housing project change forward to the Planning Commission.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PanLlKqrVO8",
+        "ts": "2:42:05",
+        "retrievedISO": "2026-10-21T21:48:16.506Z",
+        "endTs": "2:42:45"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2024-10-25",
+      "text": "A committee will discuss the change on October 30th.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PanLlKqrVO8",
+        "ts": "2:38:35",
+        "retrievedISO": "2026-10-21T21:48:16.506Z",
+        "endTs": "2:39:05"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2024-10-25",
+      "text": "The council took up sending a West Maui housing zoning change to the Maui Planning Commission.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PanLlKqrVO8",
+        "ts": "2:36:04",
+        "retrievedISO": "2026-10-21T21:48:16.506Z",
+        "endTs": "2:36:34"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2024-10-25",
+      "text": "The member said West Maui has only one permanent housing project ready to go, and water is the obstacle.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PanLlKqrVO8",
+        "ts": "2:21:30",
+        "retrievedISO": "2026-10-21T21:48:16.506Z",
+        "endTs": "2:22:00"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2024-10-25",
+      "text": "A testifier said the project aims to build 800 rental units, half of them affordable.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PanLlKqrVO8",
+        "ts": "0:23:07",
+        "retrievedISO": "2026-10-21T21:48:16.506Z",
+        "endTs": "0:23:37"
+      },
+      "body": "County Council Meeting"
     }
   ],
   "sourceTypes": [
