@@ -218,12 +218,21 @@
     "axis-deer-damage-and-control-programs.json",
     "malama-kula-green-waste-and-fire-fuel-work.json",
     "kula-ag-park-expansion-and-new-farm-reservoir.json",
-    "planning-commission-appointment-fight-and-lawsuit.json"
+    "planning-commission-appointment-fight-and-lawsuit.json",
+    "central-maui-landfill-land-taking-by-eminent-domain.json",
+    "countywide-fraud-risk-assessment-and-hotline.json",
+    "enterprise-zones-including-proposed-napili-zone.json",
+    "fees-at-county-electric-vehicle-chargers.json",
+    "hazardous-fuel-removal-on-10-high-risk-parcels.json",
+    "lighting-and-music-at-lanai-hotel-events.json",
+    "rebuilding-lahaina-small-boat-harbor.json",
+    "rebuilding-the-west-maui-senior-center.json",
+    "waikapu-country-town-development-approvals.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-11-11T12:34:10.864Z",
-  "etag": "58ee3548b866b6ebaffef898164c1e42cfc52e0bbd94661daf4266a10e837a5e",
+  "updatedAt": "2026-11-12T03:43:56.403Z",
+  "etag": "582484ec0953a15363d82d38c3501138ed456fa40990f65b242f054776dafd14",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-11-11T12:26:10.804Z",
@@ -1100,6 +1109,42 @@
     "planning-commission-appointment-fight-and-lawsuit.json": {
       "updatedAt": "2026-11-11T10:26:12.770Z",
       "sha256": "fb8b581149e51f738a5a0a65597a8de8dfc2c7a5205786e78cdbde90cb181715"
+    },
+    "central-maui-landfill-land-taking-by-eminent-domain.json": {
+      "updatedAt": "2026-11-12T03:43:56.403Z",
+      "sha256": "6412c447e4c8964d18ef10e1a779bec8473a6c67e555859431ce03ccd2026b01"
+    },
+    "countywide-fraud-risk-assessment-and-hotline.json": {
+      "updatedAt": "2026-11-12T03:43:56.403Z",
+      "sha256": "de84faa57f1e85d12c4ebcbf3afffad44fa276aa3008ec97dce52146f3721347"
+    },
+    "enterprise-zones-including-proposed-napili-zone.json": {
+      "updatedAt": "2026-11-12T03:43:56.403Z",
+      "sha256": "c6ffa98ee2630aded8a7c76a4d8cb1ab8b8f76cdc2d3b337bdf79ad0d96728e7"
+    },
+    "fees-at-county-electric-vehicle-chargers.json": {
+      "updatedAt": "2026-11-12T03:43:56.403Z",
+      "sha256": "887666bf9be213e56e4419bd4fd660bbc96d3cb0cb75fc68e06cee67e8ab9f71"
+    },
+    "hazardous-fuel-removal-on-10-high-risk-parcels.json": {
+      "updatedAt": "2026-11-12T03:43:56.403Z",
+      "sha256": "0611bef3b92224903cb72e595b281451d4adec31d88bb9f102c49b2041e1d21d"
+    },
+    "lighting-and-music-at-lanai-hotel-events.json": {
+      "updatedAt": "2026-11-12T03:43:56.403Z",
+      "sha256": "bd47449649ae155d61a029f5b194ae5aa8b54c3896beed8622d072d64895467f"
+    },
+    "rebuilding-lahaina-small-boat-harbor.json": {
+      "updatedAt": "2026-11-12T03:43:56.403Z",
+      "sha256": "c1986b9bf1c5112d5b2af2d3beb6219419058cc4f0966aa2eeade4ee05656ccc"
+    },
+    "rebuilding-the-west-maui-senior-center.json": {
+      "updatedAt": "2026-11-12T03:43:56.403Z",
+      "sha256": "094fcf129667be7dc6114347b4b57d1cce9240dafb8924b8aa5247e3db2225a7"
+    },
+    "waikapu-country-town-development-approvals.json": {
+      "updatedAt": "2026-11-12T03:43:56.403Z",
+      "sha256": "ed2b02401f0b9cb3be4bea68fabee35f90ae23ee3c187f7e2c0bb09b272f9995"
     }
   }
 }

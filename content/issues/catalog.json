@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-11T12:34:10.864Z",
-  "count": 219,
+  "updatedAt": "2026-11-12T03:43:56.403Z",
+  "count": 228,
   "issues": [
     {
       "slug": "2027-mass-nominations-for-county-boards",
@@ -51678,6 +51678,706 @@
             "ts": "2:58:04",
             "retrievedISO": "2026-10-22T08:24:43.151Z",
             "endTs": "2:59:46"
+          },
+          "body": "County Council Meeting"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "central-maui-landfill-land-taking-by-eminent-domain",
+      "title": "Central Maui Landfill land taking by eminent domain",
+      "summary": "As of December 3, 2024, the county has dropped eminent domain, the court process to take land, for a different parcel. The managing director announced the change.",
+      "topics": [
+        "environment",
+        "government"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2024-12-03",
+      "lastSeenISO": "2024-12-03",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-11",
+      "boards": [
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2024-12-03",
+          "text": "The managing director said the county dropped eminent domain, a court process to take land, for a different parcel.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xGS2hbJ68lM",
+            "ts": "1:10:21",
+            "retrievedISO": "2026-10-21T10:02:32.946Z",
+            "endTs": "1:10:56"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "countywide-fraud-risk-assessment-and-hotline",
+      "title": "Countywide fraud risk assessment and hotline",
+      "summary": "The county auditor reported signs of fraud, waste and abuse in emergency purchases during the pandemic and fire, and planned a countywide fraud risk review. The 2026 report found controls not designed well enough and no countywide policy for fraud complaints, and the auditor launched a fraud hotline.",
+      "topics": [
+        "government"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-06-30",
+      "lastSeenISO": "2026-06-30",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-11",
+      "boards": [
+        {
+          "name": "Government Relations, Ethics, and Transparency Committee",
+          "group": "council",
+          "short": [
+            "GREAT"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-06-30",
+          "text": "The chair asked staff to send the report to boards and commissions that oversee departments that did not respond.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2Ne-nA424jA",
+            "ts": "2:26:58",
+            "retrievedISO": "2026-10-16T17:27:10.780Z",
+            "endTs": "2:27:28"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        },
+        {
+          "dateISO": "2026-06-30",
+          "text": "The auditor's office said the assessment cost about $200,000.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2Ne-nA424jA",
+            "ts": "2:00:21",
+            "retrievedISO": "2026-10-16T17:27:10.780Z",
+            "endTs": "2:00:59"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        },
+        {
+          "dateISO": "2026-06-30",
+          "text": "The report also found no countywide policy for handling fraud complaints.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2Ne-nA424jA",
+            "ts": "0:16:50",
+            "retrievedISO": "2026-10-16T17:27:10.780Z",
+            "endTs": "0:17:20"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        },
+        {
+          "dateISO": "2026-06-30",
+          "text": "The report found county controls are not designed well enough to address the fraud risks it identified.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2Ne-nA424jA",
+            "ts": "0:13:30",
+            "retrievedISO": "2026-10-16T17:27:10.780Z",
+            "endTs": "0:14:03"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        },
+        {
+          "dateISO": "2026-06-30",
+          "text": "In the report's survey, 86% of elected officials saw medium fraud risk, but 95% of department heads saw low risk.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2Ne-nA424jA",
+            "ts": "0:13:10",
+            "retrievedISO": "2026-10-16T17:27:10.780Z",
+            "endTs": "0:13:40"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        },
+        {
+          "dateISO": "2026-06-30",
+          "text": "The county auditor said a new fraud, waste, and abuse hotline is now live.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2Ne-nA424jA",
+            "ts": "0:07:51",
+            "retrievedISO": "2026-10-16T17:27:10.780Z",
+            "endTs": "0:08:21"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "enterprise-zones-including-proposed-napili-zone",
+      "title": "Enterprise zones including proposed Nāpili zone",
+      "summary": "The vice chair said she will work with a council member to answer her questions and bring the enterprise zone item back for more work. The first vote on both resolutions ended in a tie, four ayes to four noes.",
+      "topics": [
+        "economy"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2025-11-07",
+      "lastSeenISO": "2025-11-07",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-11",
+      "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2025-11-07",
+          "text": "The vice chair said she will work with a council member to answer her questions and work on the enterprise zone item again.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MJiHCk91Gwo",
+            "ts": "1:48:54",
+            "retrievedISO": "2026-10-21T18:26:44.447Z",
+            "endTs": "1:49:31"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2025-11-07",
+          "text": "The first vote on both resolutions tied, four ayes to four noes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MJiHCk91Gwo",
+            "ts": "1:34:05",
+            "retrievedISO": "2026-10-21T18:26:44.447Z",
+            "endTs": "1:34:35"
+          },
+          "body": "County Council Meeting"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "fees-at-county-electric-vehicle-chargers",
+      "title": "Fees at county electric vehicle chargers",
+      "summary": "In 2026 a member proposed a $1-per-minute idle fee at county EV chargers, and the committee recommended Bill 64 on EV charging fees. A later motion to drop fees at county charging stations failed, four to five.",
+      "topics": [
+        "transportation",
+        "environment"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-04-23",
+      "lastSeenISO": "2026-05-15",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-11",
+      "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        },
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [
+        "Bill 64 (2026)"
+      ],
+      "timeline": [
+        {
+          "dateISO": "2026-05-15",
+          "text": "A motion to drop fees at county electric vehicle charging stations failed, four to five.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "WmlNgIDoTf0",
+            "ts": "2:40:40",
+            "retrievedISO": "2026-10-19T23:24:26.848Z",
+            "endTs": "2:41:10"
+          },
+          "body": "County Council Notice of Public Hearing"
+        },
+        {
+          "dateISO": "2026-04-24",
+          "text": "Bill 64, electric vehicle charging fees: The committee recommended passage of Bill 64.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "KhrHZUeNlAw",
+            "ts": "1:00:51",
+            "retrievedISO": "2026-10-17T01:27:46.895Z",
+            "endTs": "1:02:01"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-23",
+          "text": "A member proposed a $1-per-minute idle fee at County EV chargers, starting five minutes after charging ends.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "AYcQ3sdhHaI",
+            "ts": "7:12:01",
+            "retrievedISO": "2026-10-17T01:31:18.022Z",
+            "endTs": "7:12:38"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "hazardous-fuel-removal-on-10-high-risk-parcels",
+      "title": "Hazardous fuel removal on 10 high-risk parcels",
+      "summary": "The emergency management agency's administrator said a presentation to the mayor is coming soon to bring the wildfire risk pieces together. The agency has asked for $1 million to remove hazardous fuels, meaning plants that can feed wildfires. It says 10 high-priority parcels covering 1,100 acres need work, and clearing the grass on them would cost about $3.3 million.",
+      "topics": [
+        "public-safety",
+        "disaster-recovery"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2026-04-13",
+      "lastSeenISO": "2026-04-13",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-11",
+      "boards": [
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-04-13",
+          "text": "The administrator said a presentation to the mayor is coming soon to bring the wildfire risk pieces together.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "h6x_AzBZuxc",
+            "ts": "1:01:59",
+            "retrievedISO": "2026-10-17T04:02:12.824Z",
+            "endTs": "1:02:29"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-13",
+          "text": "The agency's administrator said clearing 10 parcels, about 1,100 acres of grass, would cost about $3.3 million.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "g1_1HGnWNlg",
+            "ts": "0:25:18",
+            "retrievedISO": "2026-10-17T04:04:19.765Z",
+            "endTs": "0:26:11"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-13",
+          "text": "The emergency management agency asked for $1 million to remove hazardous fuels, meaning plants that can feed wildfires.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "g1_1HGnWNlg",
+            "ts": "0:24:50",
+            "retrievedISO": "2026-10-17T04:04:19.765Z",
+            "endTs": "0:25:20"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-13",
+          "text": "The emergency management administrator said 10 high-priority parcels covering 1,100 acres need work to lower wildfire risk.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "h6x_AzBZuxc",
+            "ts": "0:06:59",
+            "retrievedISO": "2026-10-17T04:02:12.824Z",
+            "endTs": "0:07:29"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "lighting-and-music-at-lanai-hotel-events",
+      "title": "Lighting and music at Lānaʻi hotel events",
+      "summary": "Lānaʻi commissioners heard that beach park rangers cannot enforce rules on a hotel event's music and lighting, and a hotel representative said its music stops at 10 p.m. In October a commissioner raised community concerns about lighting at an event approved with a minor permit, and staff said holders must follow the night sky ordinance.",
+      "topics": [
+        "land-use",
+        "culture"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-09-16",
+      "lastSeenISO": "2026-10-21",
+      "signals": {
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 2,
+        "mentionsLast30d": 2,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-11",
+      "boards": [
+        {
+          "name": "Lānaʻi Planning Commission",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-10-21",
+          "text": "Staff said permit holders must follow the night sky lighting ordinance.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "lTfHRBm6PPo",
+            "ts": "0:46:14",
+            "retrievedISO": "2026-11-04T07:35:06.980Z",
+            "endTs": "0:46:44"
+          },
+          "body": "Lānaʻi Planning Commission"
+        },
+        {
+          "dateISO": "2026-10-21",
+          "text": "A commissioner raised community concerns about lighting at a recent event approved with a minor permit.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "lTfHRBm6PPo",
+            "ts": "0:45:00",
+            "retrievedISO": "2026-11-04T07:35:06.980Z",
+            "endTs": "0:45:35"
+          },
+          "body": "Lānaʻi Planning Commission"
+        },
+        {
+          "dateISO": "2026-09-16",
+          "text": "A hotel representative said music at its events shuts down at 10 p.m.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "QMt5AreKorc",
+            "ts": "1:17:02",
+            "retrievedISO": "2026-10-07T23:03:51.628Z",
+            "endTs": "1:17:32"
+          },
+          "body": "Lānaʻi Planning Commission"
+        },
+        {
+          "dateISO": "2026-09-16",
+          "text": "A commissioner said beach park rangers cannot enforce rules on the event's music and lighting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "QMt5AreKorc",
+            "ts": "1:16:17",
+            "retrievedISO": "2026-10-07T23:03:51.628Z",
+            "endTs": "1:16:50"
+          },
+          "body": "Lānaʻi Planning Commission"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "rebuilding-lahaina-small-boat-harbor",
+      "title": "Rebuilding Lahaina Small Boat Harbor",
+      "summary": "The committee deferred the Lahaina Harbor update on August 22 with no objections. The harbor office may begin to rebuild in September, according to reports, and the fuel dock reopened earlier this month. Rebuilding is estimated to cost $30 million.",
+      "topics": [
+        "disaster-recovery",
+        "economy"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2024-08-22",
+      "lastSeenISO": "2024-08-22",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-11",
+      "boards": [
+        {
+          "name": "Agriculture, Diversification, Environment, and Public Transportation Committee",
+          "group": "council",
+          "short": [
+            "ADEPT"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2024-08-22",
+          "text": "The committee deferred the harbor update with no objections.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tN6J49Yjn0s",
+            "ts": "1:11:00",
+            "retrievedISO": "2026-10-18T14:03:35.813Z",
+            "endTs": "1:11:30"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2024-08-22",
+          "text": "The chair said it has been reported that the harbor office may begin to rebuild in September.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tN6J49Yjn0s",
+            "ts": "1:09:25",
+            "retrievedISO": "2026-10-18T14:03:35.813Z",
+            "endTs": "1:09:55"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2024-08-22",
+          "text": "The fuel dock at Lahaina Harbor reopened earlier this month, the chair said.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tN6J49Yjn0s",
+            "ts": "1:09:21",
+            "retrievedISO": "2026-10-18T14:03:35.813Z",
+            "endTs": "1:09:51"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2024-08-22",
+          "text": "The chair said many boat owners lost not just a boat but a source of income and livelihood.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tN6J49Yjn0s",
+            "ts": "1:09:11",
+            "retrievedISO": "2026-10-18T14:03:35.813Z",
+            "endTs": "1:09:41"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2024-08-22",
+          "text": "Rebuilding the harbor has been reported to cost an estimated $30 million.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tN6J49Yjn0s",
+            "ts": "1:09:06",
+            "retrievedISO": "2026-10-18T14:03:35.813Z",
+            "endTs": "1:09:36"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2024-08-22",
+          "text": "Nearly 90 boats in Lahaina Harbor were destroyed on August 8th last year, the chair said.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tN6J49Yjn0s",
+            "ts": "1:08:59",
+            "retrievedISO": "2026-10-18T14:03:35.813Z",
+            "endTs": "1:09:29"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "rebuilding-the-west-maui-senior-center",
+      "title": "Rebuilding the West Maui Senior Center",
+      "summary": "The department said $27 million in FEMA (federal disaster aid) funds will help rebuild the West Maui Senior Center. It described the center as a key hub for Lahaina kūpuna (elders), offering meals, rides and social connection.",
+      "topics": [
+        "disaster-recovery",
+        "health"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2026-04-07",
+      "lastSeenISO": "2026-04-07",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-11",
+      "boards": [
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-04-07",
+          "text": "The department said the senior center was a key hub for Lahaina kūpuna (elders), with meals, rides and social connection.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "d1ORjxdGLPQ",
+            "ts": "0:11:07",
+            "retrievedISO": "2026-10-17T04:42:18.221Z",
+            "endTs": "0:11:37"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-07",
+          "text": "The department said $27 million in FEMA (federal disaster aid) funds will help rebuild the West Maui Senior Center.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "d1ORjxdGLPQ",
+            "ts": "0:11:01",
+            "retrievedISO": "2026-10-17T04:42:18.221Z",
+            "endTs": "0:11:38"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "waikapu-country-town-development-approvals",
+      "title": "Waikapū Country Town development approvals",
+      "summary": "The council backed a $17 million infrastructure loan request for the Waikapū Country Town project, voting eight to zero on November 7, 2025.",
+      "topics": [
+        "housing",
+        "land-use"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2025-11-07",
+      "lastSeenISO": "2025-11-07",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-11",
+      "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2025-11-07",
+          "text": "The council backed a $17 million infrastructure loan request for the Waikapū Country Town project, eight to zero.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MJiHCk91Gwo",
+            "ts": "2:27:34",
+            "retrievedISO": "2026-10-21T18:26:44.447Z",
+            "endTs": "2:29:12"
           },
           "body": "County Council Meeting"
         }

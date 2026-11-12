@@ -16,6 +16,16 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-11",
+  "boards": [
+    {
+      "name": "Government Relations, Ethics, and Transparency Committee",
+      "group": "council",
+      "short": [
+        "GREAT"
+      ]
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-06-30",
@@ -25,8 +35,8 @@
         "type": "meeting",
         "videoId": "2Ne-nA424jA",
         "ts": "2:26:58",
-        "endTs": "2:27:28",
-        "retrievedISO": "2026-10-16T17:27:10.780Z"
+        "retrievedISO": "2026-10-16T17:27:10.780Z",
+        "endTs": "2:27:28"
       },
       "body": "County Council Government Relations, Ethics, and Transparency Committee"
     },
@@ -38,8 +48,8 @@
         "type": "meeting",
         "videoId": "2Ne-nA424jA",
         "ts": "2:00:21",
-        "endTs": "2:00:59",
-        "retrievedISO": "2026-10-16T17:27:10.780Z"
+        "retrievedISO": "2026-10-16T17:27:10.780Z",
+        "endTs": "2:00:59"
       },
       "body": "County Council Government Relations, Ethics, and Transparency Committee"
     },
@@ -51,8 +61,8 @@
         "type": "meeting",
         "videoId": "2Ne-nA424jA",
         "ts": "0:16:50",
-        "endTs": "0:17:20",
-        "retrievedISO": "2026-10-16T17:27:10.780Z"
+        "retrievedISO": "2026-10-16T17:27:10.780Z",
+        "endTs": "0:17:20"
       },
       "body": "County Council Government Relations, Ethics, and Transparency Committee"
     },
@@ -64,8 +74,8 @@
         "type": "meeting",
         "videoId": "2Ne-nA424jA",
         "ts": "0:13:30",
-        "endTs": "0:14:03",
-        "retrievedISO": "2026-10-16T17:27:10.780Z"
+        "retrievedISO": "2026-10-16T17:27:10.780Z",
+        "endTs": "0:14:03"
       },
       "body": "County Council Government Relations, Ethics, and Transparency Committee"
     },
@@ -77,8 +87,8 @@
         "type": "meeting",
         "videoId": "2Ne-nA424jA",
         "ts": "0:13:10",
-        "endTs": "0:13:40",
-        "retrievedISO": "2026-10-16T17:27:10.780Z"
+        "retrievedISO": "2026-10-16T17:27:10.780Z",
+        "endTs": "0:13:40"
       },
       "body": "County Council Government Relations, Ethics, and Transparency Committee"
     },
@@ -90,21 +100,14 @@
         "type": "meeting",
         "videoId": "2Ne-nA424jA",
         "ts": "0:07:51",
-        "endTs": "0:08:21",
-        "retrievedISO": "2026-10-16T17:27:10.780Z"
+        "retrievedISO": "2026-10-16T17:27:10.780Z",
+        "endTs": "0:08:21"
       },
       "body": "County Council Government Relations, Ethics, and Transparency Committee"
     }
   ],
-  "boards": [
-    {
-      "name": "Government Relations, Ethics, and Transparency Committee",
-      "group": "council",
-      "short": [
-        "GREAT"
-      ]
-    }
+  "sourceTypes": [
+    "meeting"
   ],
-  "bills": [],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

@@ -17,6 +17,16 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-11",
+  "boards": [
+    {
+      "name": "Agriculture, Diversification, Environment, and Public Transportation Committee",
+      "group": "council",
+      "short": [
+        "ADEPT"
+      ]
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2024-08-22",
@@ -26,8 +36,8 @@
         "type": "meeting",
         "videoId": "tN6J49Yjn0s",
         "ts": "1:11:00",
-        "endTs": "1:11:30",
-        "retrievedISO": "2026-10-18T14:03:35.813Z"
+        "retrievedISO": "2026-10-18T14:03:35.813Z",
+        "endTs": "1:11:30"
       },
       "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
     },
@@ -39,8 +49,8 @@
         "type": "meeting",
         "videoId": "tN6J49Yjn0s",
         "ts": "1:09:25",
-        "endTs": "1:09:55",
-        "retrievedISO": "2026-10-18T14:03:35.813Z"
+        "retrievedISO": "2026-10-18T14:03:35.813Z",
+        "endTs": "1:09:55"
       },
       "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
     },
@@ -52,8 +62,8 @@
         "type": "meeting",
         "videoId": "tN6J49Yjn0s",
         "ts": "1:09:21",
-        "endTs": "1:09:51",
-        "retrievedISO": "2026-10-18T14:03:35.813Z"
+        "retrievedISO": "2026-10-18T14:03:35.813Z",
+        "endTs": "1:09:51"
       },
       "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
     },
@@ -65,8 +75,8 @@
         "type": "meeting",
         "videoId": "tN6J49Yjn0s",
         "ts": "1:09:11",
-        "endTs": "1:09:41",
-        "retrievedISO": "2026-10-18T14:03:35.813Z"
+        "retrievedISO": "2026-10-18T14:03:35.813Z",
+        "endTs": "1:09:41"
       },
       "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
     },
@@ -78,8 +88,8 @@
         "type": "meeting",
         "videoId": "tN6J49Yjn0s",
         "ts": "1:09:06",
-        "endTs": "1:09:36",
-        "retrievedISO": "2026-10-18T14:03:35.813Z"
+        "retrievedISO": "2026-10-18T14:03:35.813Z",
+        "endTs": "1:09:36"
       },
       "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
     },
@@ -91,21 +101,14 @@
         "type": "meeting",
         "videoId": "tN6J49Yjn0s",
         "ts": "1:08:59",
-        "endTs": "1:09:29",
-        "retrievedISO": "2026-10-18T14:03:35.813Z"
+        "retrievedISO": "2026-10-18T14:03:35.813Z",
+        "endTs": "1:09:29"
       },
       "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
     }
   ],
-  "boards": [
-    {
-      "name": "Agriculture, Diversification, Environment, and Public Transportation Committee",
-      "group": "council",
-      "short": [
-        "ADEPT"
-      ]
-    }
+  "sourceTypes": [
+    "meeting"
   ],
-  "bills": [],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

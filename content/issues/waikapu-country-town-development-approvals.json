@@ -17,6 +17,14 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-11",
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2025-11-07",
@@ -26,19 +34,14 @@
         "type": "meeting",
         "videoId": "MJiHCk91Gwo",
         "ts": "2:27:34",
-        "endTs": "2:29:12",
-        "retrievedISO": "2026-10-21T18:26:44.447Z"
+        "retrievedISO": "2026-10-21T18:26:44.447Z",
+        "endTs": "2:29:12"
       },
       "body": "County Council Meeting"
     }
   ],
-  "boards": [
-    {
-      "name": "Maui County Council",
-      "group": "council",
-      "short": []
-    }
+  "sourceTypes": [
+    "meeting"
   ],
-  "bills": [],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

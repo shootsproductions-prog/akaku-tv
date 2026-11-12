@@ -17,6 +17,14 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-11",
+  "boards": [
+    {
+      "name": "Lānaʻi Planning Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-10-21",
@@ -26,8 +34,8 @@
         "type": "meeting",
         "videoId": "lTfHRBm6PPo",
         "ts": "0:46:14",
-        "endTs": "0:46:44",
-        "retrievedISO": "2026-11-04T07:35:06.980Z"
+        "retrievedISO": "2026-11-04T07:35:06.980Z",
+        "endTs": "0:46:44"
       },
       "body": "Lānaʻi Planning Commission"
     },
@@ -39,8 +47,8 @@
         "type": "meeting",
         "videoId": "lTfHRBm6PPo",
         "ts": "0:45:00",
-        "endTs": "0:45:35",
-        "retrievedISO": "2026-11-04T07:35:06.980Z"
+        "retrievedISO": "2026-11-04T07:35:06.980Z",
+        "endTs": "0:45:35"
       },
       "body": "Lānaʻi Planning Commission"
     },
@@ -52,8 +60,8 @@
         "type": "meeting",
         "videoId": "QMt5AreKorc",
         "ts": "1:17:02",
-        "endTs": "1:17:32",
-        "retrievedISO": "2026-10-07T23:03:51.628Z"
+        "retrievedISO": "2026-10-07T23:03:51.628Z",
+        "endTs": "1:17:32"
       },
       "body": "Lānaʻi Planning Commission"
     },
@@ -65,19 +73,14 @@
         "type": "meeting",
         "videoId": "QMt5AreKorc",
         "ts": "1:16:17",
-        "endTs": "1:16:50",
-        "retrievedISO": "2026-10-07T23:03:51.628Z"
+        "retrievedISO": "2026-10-07T23:03:51.628Z",
+        "endTs": "1:16:50"
       },
       "body": "Lānaʻi Planning Commission"
     }
   ],
-  "boards": [
-    {
-      "name": "Lānaʻi Planning Commission",
-      "group": "board",
-      "short": []
-    }
+  "sourceTypes": [
+    "meeting"
   ],
-  "bills": [],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }
