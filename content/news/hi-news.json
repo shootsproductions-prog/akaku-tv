@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "section": {
+    "id": "hi-news",
+    "label": "HI News",
+    "about": "Summaries of hearings, briefings and programs from other channels across Hawaiʻi. Each video belongs to the channel that posted it; the summary is Akakū’s."
+  },
+  "generatedAt": "2026-11-12T03:31:25.506Z",
+  "articles": [
+    {
+      "id": "2026-11-12-3dfbdb",
+      "headline": "Lawmakers question DCCA on business registration backlog of about 40,000 filings",
+      "dek": "A state legislative committee on Consumer Protection and Commerce, chaired by Chair Matayoshi, held an informational briefing on Tuesday, November 10, 2026, on problems with the Department of Commerce and Consumer Affairs' new business registration system.",
+      "body": [
+        "State legislators heard from the Department of Commerce and Consumer Affairs (DCCA) about a new Business Registration Division filing system that went live July 6 and has since caused long delays for businesses and nonprofits across Hawaiʻi. This is Akaka's summary of a video of the briefing posted by the channel that recorded it. Chair Matayoshi said new entities cannot be formed in time for leases and land sales, and existing businesses cannot update registrations or get certificates of good standing.",
+        "The Chamber of Commerce of Hawaiʻi said some businesses missed out on first-come, first-served recovery grants because they could not get a certificate of good standing in time. It asked DCCA to publish turnaround times and backlog counts, give a clear timeline, offer interim workarounds and waive penalties tied to the transition, and report regularly to the committee. An entrepreneur said his company's formation filing, submitted in July, was still pending after four months, and a Honolulu attorney said banks will not open accounts for entities whose articles have not been filed.",
+        "The DCCA director said Salesforce's chief executive officer approved sending the company's professional services team to work with DCCA at no cost to the state. That team is pursuing two tracks at once, fixing the current system to reduce the backlog and building a new system from the ground up. DCCA staff said the stated timeline is 11 weeks, which the chair noted would be about mid-January. The commissioner of securities, who heads the division, put the backlog at roughly 40,000 filings, including about 10,000 new entity formations and similar filings, and said an automated review tool for routine annual reports has been turned off because of errors.",
+        "Legislators asked why the prime vendor had no Salesforce experience and relied on a series of subcontracted integrators, why there was no way to roll back to the old system, and what oversight existed. DCCA's information systems manager said the prime vendor was not Salesforce-accredited and that fixes were made directly in the live system. State Chief Information Officer Christine Sakuda of the Office of Enterprise Technology Services said independent verification and validation ran from 2022 until June and supported funding to resume it; she said hiring a vendor without experience in the platform is normally not done. The chair urged that future state modernization projects include a way to revert if a launch fails.",
+        "For urgent cases, DCCA advised calling the division and leaving a detailed message describing the situation, such as a pending loan or grant; staff said calls are generally returned within two business days. DCCA said it is adding emergency hires and expects to decide this week on offering provisional certificates of good standing."
+      ],
+      "moments": [],
+      "video": {
+        "youtubeId": "SFku7lhMNbk",
+        "url": "https://www.youtube.com/watch?v=SFku7lhMNbk",
+        "title": "Informational briefing: DCCA Business Registration Division modernization problems",
+        "channel": "State legislative committee, captioned as the committee on 'consumer protection and commerce', chaired by Chair Matayoshi",
+        "length": null,
+        "dateAsStated": "Tuesday, November 10th, 2026, 9:00 a.m., conference room 325, State Capitol"
+      },
+      "place": {
+        "where": "Conference Room 325, State Capitol",
+        "island": "Oʻahu",
+        "affects": [
+          "Statewide"
+        ]
+      },
+      "credit": "Video: State legislative committee, captioned as the committee on 'consumer protection and commerce', chaired by Chair Matayoshi. Summary by Akakū.",
+      "stake": null,
+      "publishedAt": "2026-11-12T03:31:25.505Z",
+      "updatedAt": "2026-11-12T03:31:25.505Z"
+    }
+  ]
+}
