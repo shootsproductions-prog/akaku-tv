@@ -1,0 +1,149 @@
+{
+  "slug": "countywide-fraud-risk-assessment-and-hotline",
+  "title": "Countywide fraud risk assessment and hotline",
+  "summary": "On June 30, a committee reviewed a Spire Hawaiʻi LLP fraud risk assessment of the County of Maui, which found county controls are not designed well enough to address the risks it identified. It also found no countywide policy for handling fraud complaints and no nepotism policy. The auditor said a new fraud, waste, and abuse hotline is now live.",
+  "topics": [
+    "government"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-06-22",
+  "lastSeenISO": "2026-06-30",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-12",
+  "timeline": [
+    {
+      "dateISO": "2026-06-30",
+      "text": "The chair asked staff to send the report to boards and commissions that oversee departments that did not respond.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "2Ne-nA424jA",
+        "ts": "2:26:58",
+        "endTs": "2:27:28",
+        "retrievedISO": "2026-10-16T17:27:10.780Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-06-30",
+      "text": "The auditor's office said the assessment cost about $200,000.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "2Ne-nA424jA",
+        "ts": "2:00:21",
+        "endTs": "2:00:59",
+        "retrievedISO": "2026-10-16T17:27:10.780Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-06-30",
+      "text": "The report also found no countywide policy for handling fraud complaints.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "2Ne-nA424jA",
+        "ts": "0:16:50",
+        "endTs": "0:17:20",
+        "retrievedISO": "2026-10-16T17:27:10.780Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-06-30",
+      "text": "The report noted the county has no nepotism policy, which is a rule about hiring relatives.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "2Ne-nA424jA",
+        "ts": "0:15:25",
+        "endTs": "0:15:55",
+        "retrievedISO": "2026-10-16T17:27:10.780Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-06-30",
+      "text": "The report found county controls are not designed well enough to address the fraud risks it identified.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "2Ne-nA424jA",
+        "ts": "0:13:30",
+        "endTs": "0:14:03",
+        "retrievedISO": "2026-10-16T17:27:10.780Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-06-30",
+      "text": "In the report's survey, 86% of elected officials saw medium fraud risk, but 95% of department heads saw low risk.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "2Ne-nA424jA",
+        "ts": "0:13:10",
+        "endTs": "0:13:40",
+        "retrievedISO": "2026-10-16T17:27:10.780Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-06-30",
+      "text": "The county auditor said a new fraud, waste, and abuse hotline is now live.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "2Ne-nA424jA",
+        "ts": "0:07:51",
+        "endTs": "0:08:21",
+        "retrievedISO": "2026-10-16T17:27:10.780Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-06-30",
+      "text": "The committee reviewed a fraud risk assessment of the County of Maui by Spire Hawaiʻi LLP.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "2Ne-nA424jA",
+        "ts": "0:03:09",
+        "endTs": "0:03:39",
+        "retrievedISO": "2026-10-16T17:27:10.780Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-06-22",
+      "text": "The next scheduled committee meeting will cover the auditors' fraud risk and fraud, waste and abuse assessment report.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lVzPO8RLOV4",
+        "ts": "1:21:33",
+        "endTs": "1:22:03",
+        "retrievedISO": "2026-10-16T17:46:34.541Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Government Relations, Ethics, and Transparency Committee",
+      "group": "council",
+      "short": [
+        "GREAT"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

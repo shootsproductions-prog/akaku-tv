@@ -1,0 +1,141 @@
+{
+  "slug": "climate-action-revolving-fund-from-hotel-tax",
+  "title": "Climate action revolving fund from hotel tax",
+  "summary": "On June 16, the committee held a roll call vote to file the climate fund proposal, and the budget director estimated the fund would be about $13 million in fiscal year 27. Bill 66 (2026) would create a Climate Action and Resiliency Revolving Fund starting at 20 percent of TAT revenue. The budget director said a fund set by ordinance would raise fewer rating agency concerns than one in the County charter.",
+  "topics": [
+    "environment",
+    "economy"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-04-24",
+  "lastSeenISO": "2026-06-16",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-12",
+  "timeline": [
+    {
+      "dateISO": "2026-06-16",
+      "text": "The budget director said that would be about $13 million in fiscal year 27.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "nUYc4kmAsp0",
+        "ts": "2:13:22",
+        "endTs": "2:14:01",
+        "retrievedISO": "2026-10-16T19:45:01.270Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-05-21",
+      "text": "The committee deferred the climate change item.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oGAlti5AS88",
+        "ts": "1:56:53",
+        "endTs": "1:57:23",
+        "retrievedISO": "2026-10-16T21:46:42.217Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-05-21",
+      "text": "The committee chair said Bill 66 will probably come back in the next few meetings.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oGAlti5AS88",
+        "ts": "1:56:48",
+        "endTs": "1:57:18",
+        "retrievedISO": "2026-10-16T21:46:42.217Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-05-21",
+      "text": "The budget director said a fund set by ordinance would raise fewer concerns for rating agencies than one in the County charter.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oGAlti5AS88",
+        "ts": "1:39:06",
+        "endTs": "1:39:38",
+        "retrievedISO": "2026-10-16T21:46:42.217Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-05-21",
+      "text": "The committee chair said the fund would start at 20 percent of TAT revenue.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oGAlti5AS88",
+        "ts": "1:00:26",
+        "endTs": "1:01:01",
+        "retrievedISO": "2026-10-16T21:46:42.217Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-05-21",
+      "text": "The committee chair presented Bill 66 (2026), which would create a Climate Action and Resiliency Revolving Fund.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oGAlti5AS88",
+        "ts": "0:45:00",
+        "endTs": "0:45:30",
+        "retrievedISO": "2026-10-16T21:46:42.217Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2026-04-24",
+      "text": "Refer Bills 66 and 67: The committee voted to refer Bills 66 and 67 to another council committee.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "KhrHZUeNlAw",
+        "ts": "1:03:17",
+        "endTs": "1:03:47",
+        "retrievedISO": "2026-10-17T01:27:46.895Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Government Relations, Ethics, and Transparency Committee",
+      "group": "council",
+      "short": [
+        "GREAT"
+      ]
+    },
+    {
+      "name": "Agriculture, Diversification, Environment, and Public Transportation Committee",
+      "group": "council",
+      "short": [
+        "ADEPT"
+      ]
+    },
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    }
+  ],
+  "bills": [
+    "Bill 66 (2026)",
+    "Bill 67 (2026)"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

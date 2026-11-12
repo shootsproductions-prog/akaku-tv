@@ -1,0 +1,79 @@
+{
+  "slug": "fees-at-county-electric-vehicle-chargers",
+  "title": "Fees at county electric vehicle chargers",
+  "summary": "A motion to drop fees at county electric vehicle charging stations failed four to five on May 15. Bill 64, on EV charging fees, had earlier been recommended for passage by the committee on April 24. A member had proposed a $1-per-minute idle fee at County EV chargers, starting five minutes after charging ends.",
+  "topics": [
+    "transportation",
+    "environment"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-04-23",
+  "lastSeenISO": "2026-05-15",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-12",
+  "timeline": [
+    {
+      "dateISO": "2026-05-15",
+      "text": "A motion to drop fees at county electric vehicle charging stations failed, four to five.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "WmlNgIDoTf0",
+        "ts": "2:40:40",
+        "endTs": "2:41:10",
+        "retrievedISO": "2026-10-19T23:24:26.848Z"
+      },
+      "body": "County Council Notice of Public Hearing"
+    },
+    {
+      "dateISO": "2026-04-24",
+      "text": "Bill 64, electric vehicle charging fees: The committee recommended passage of Bill 64.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "KhrHZUeNlAw",
+        "ts": "1:00:51",
+        "endTs": "1:02:01",
+        "retrievedISO": "2026-10-17T01:27:46.895Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-23",
+      "text": "A member proposed a $1-per-minute idle fee at County EV chargers, starting five minutes after charging ends.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "AYcQ3sdhHaI",
+        "ts": "7:12:01",
+        "endTs": "7:12:38",
+        "retrievedISO": "2026-10-17T01:31:18.022Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    },
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    }
+  ],
+  "bills": [
+    "Bill 64 (2026)"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
