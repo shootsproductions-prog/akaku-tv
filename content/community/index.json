@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T02:59:57.033Z",
+  "generatedAt": "2026-11-12T07:09:44.242Z",
   "areas": [
     {
       "id": "west-maui",
@@ -1027,6 +1027,35 @@
         "using-recycled-r1-water-for-irrigation-and-firefighting"
       ],
       "moments": 4
+    },
+    {
+      "videoId": "Xx6Al1eD5gQ",
+      "slug": "2021-02-23-council-member-kelly-king-town-hall-with-lt-governor-josh",
+      "accent": "#2477a8",
+      "thumbnail": "https://i.ytimg.com/vi/Xx6Al1eD5gQ/hqdefault.jpg",
+      "status": "reviewed",
+      "title": "Council Member Kelly King Town Hall with Lt. Governor Josh Green: February 23, 2021",
+      "dateISO": "2021-02-23",
+      "headline": "COVID-19 town hall on Maui vaccine rollout, case trends and mask use",
+      "in60": "South Maui Council Member Kelly King hosted a second COVID-19 webinar with Lt. Governor Josh Green, County Deputy Managing Director Josiah Nishita and State Representative Tina Wildberger. Officials said Maui cases were falling, but only 8.5% of Maui residents showed at least one vaccine dose. The Lt. Governor said 10,000 to 12,000 Maui doses had not yet been entered into the reporting system. Members of the public sent about a dozen questions by Zoom chat. They asked about vaccine priority for Maui, N95 masks, variants, mask enforcement and travel rules. Representative Wildberger announced twice-weekly vaccinations at the Kaiser clinic in Kīhei. No votes were taken, and a few questions, including one on House Bill 1286, got no clear answer on the recording.",
+      "minutes": 70,
+      "parts": 8,
+      "speakers": 16,
+      "participation": {
+        "residents": 12,
+        "organizations": 0,
+        "officials": 4,
+        "committee_members": 0
+      },
+      "votes": 0,
+      "roomReadings": 0,
+      "openQuestions": 4,
+      "answered": 0,
+      "areas": [
+        "south-maui"
+      ],
+      "issues": [],
+      "moments": 0
     }
   ],
   "askedAgain": [
