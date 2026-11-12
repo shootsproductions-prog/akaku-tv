@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-12T04:28:11.769Z",
-  "etag": "c28a0a2e119b6234c102c35964bf3a4c87021bfa5704baf610d058dd24fdf04b",
-  "count": 360,
+  "updatedAt": "2026-11-12T07:06:30.909Z",
+  "etag": "f2d23df1e8768123334d8ca0bd48c0ea7097ee86b0915fcace8cbd5f3a4b453c",
+  "count": 361,
   "meetings": [
     {
       "videoId": "mWb79anG_Js",
@@ -4959,6 +4959,26 @@
       ],
       "updatedAt": "2026-11-06T03:28:57.377Z",
       "sha256": "0c7cbc024bd9737d23a2d3dd873f4883ab3d554b54b0e400b64f718992b83af9"
+    },
+    {
+      "videoId": "MJiHCk91Gwo",
+      "status": "reviewed",
+      "meetingDateISO": "2025-11-07",
+      "bodyType": "council",
+      "body": "Maui County Council Meeting",
+      "headline": "Council adopts hazard plan, advances Front Street rebuild and accessory dwelling bills",
+      "summary": "The council adopted an updated Hazard Mitigation Plan and sent the accessory dwelling bill to the Lānaʻi, Maui and Molokaʻi Planning Commissions. An enterprise zone vote tied, and the vice chair said she will work on that item again.",
+      "dur": "2 h 46 m",
+      "voteCount": 1,
+      "momentCount": 4,
+      "issues": [
+        "allowing-two-accessory-homes-per-residential-lot",
+        "waikapu-country-town-development-approvals",
+        "bill-110-street-improvement-exemption-for-front-street-rebui",
+        "enterprise-zones-including-proposed-napili-zone"
+      ],
+      "updatedAt": "2026-11-12T07:06:30.909Z",
+      "sha256": "4500c2867464e3eabafc02e1f954f99ba88119d5e7510e2abdd04dab365749f5"
     },
     {
       "videoId": "utyxTwSGIas",
