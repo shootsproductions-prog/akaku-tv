@@ -1,0 +1,243 @@
+{
+  "videoId": "PanLlKqrVO8",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-21T21:48:16.515Z",
+  "meetingDateISO": "2024-10-25",
+  "source": {
+    "youtubeUrl": "https://youtu.be/PanLlKqrVO8"
+  },
+  "headline": "Maui County Council Meeting",
+  "topics": [
+    "Water",
+    "Housing",
+    "Disaster Recovery"
+  ],
+  "meeting": {
+    "id": "PanLlKqrVO8",
+    "mon": "Oct",
+    "day": "25",
+    "date": "Fri, Oct 25, 2024",
+    "body": "Maui County Council Meeting",
+    "dur": "3 h 36 m",
+    "voteCount": 2,
+    "voteItem": "Bill 146, referral",
+    "ayes": null,
+    "noes": null,
+    "summary": "The council approved an East Maui water authority director, adopted a recycled water resolution, and sent a West Maui housing change to the Planning Commission.",
+    "recap": "A testifier said the Water Department's fixture unit policy is a big cause of the housing shortage.[[0:14:17]] The council voted 9 to 0 to use $1.7 million in Water Fund savings for West Maui water line repairs.[[2:09:13]] The council took up the appointment of a director for the East Maui Regional Water Authority.[[2:12:03]] Members approved the appointment 9 to 0.[[2:15:25]] The council voted 9 to 0 to adopt a resolution on using more R1 recycled water.[[2:23:01]] The council took up sending a West Maui housing zoning change to the Maui Planning Commission.[[2:36:04]] The change would remove a water condition from the project's 2011 approval.[[2:44:11]] Members voted 9 to 0 on the referral.[[2:52:13]] The council voted 9 to 0 to move $350,000 in the police budget for a helicopter hoist.[[2:58:09]] The sponsor of a West Maui hospital resolution asked to hold it until the next council meeting.[[2:59:30]] Members agreed with no objections.[[3:02:22]] The bill on water fixture counts was sent to the Water and Infrastructure Committee.[[3:07:47]] A member moved to pass a wetland and native plant restoration funding bill on first reading.[[3:09:47]] Members passed it 9 to 0.[[3:13:37]] The bill on private water catchment was sent to the same committee.[[3:30:38]]",
+    "decided": [
+      "The bill on how water demand is calculated was sent to the Water and Infrastructure Committee.",
+      "The private water catchment bill was sent to the Water and Infrastructure Committee."
+    ],
+    "next": "The County's attorney said answers on how the change fits the water code would come by the Wednesday meeting. The hospital resolution will come back at the next council meeting.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:26:55",
+        "q": "\"We were getting 160 inches of rain a year. Now it is half of that.\""
+      },
+      {
+        "t": "0:45:47",
+        "q": "\"We really need a director.\""
+      },
+      {
+        "t": "2:39:27",
+        "q": "\"We have already wasted 14 months\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "west-maui-affordable-housing-project-water-condition",
+        "title": "West Maui affordable housing project water condition"
+      },
+      {
+        "slug": "using-recycled-r1-water-for-irrigation-and-firefighting",
+        "title": "Using recycled R1 water for irrigation and firefighting"
+      },
+      {
+        "slug": "voter-service-centers-and-election-use-of-council-chambers",
+        "title": "Voter service centers and election use of council chambers"
+      },
+      {
+        "slug": "proposed-west-maui-critical-access-hospital",
+        "title": "Proposed West Maui critical access hospital"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Maui County Council",
+        "group": "council",
+        "short": []
+      }
+    ],
+    "bills": [
+      "Bill 146 (2024)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Water",
+      "since": "Oct 25, 2024",
+      "oneLine": "The council took up the appointment of a director for the East Maui Regional Water Authority.",
+      "why": "The authority's board chair said its 11 members cannot do all the work and need a director.",
+      "deadlines": [],
+      "next": "The water fixture count bill goes to the Water and Infrastructure Committee.",
+      "brief": "The $1.7 million will pay for fittings and valves for West Maui water line repairs.[[#1]] A water tank contractor said rainfall at his home fell from 160 to 80 inches a year.[[#2]] The council voted 9 to 0 for a resolution on using more R1 recycled water.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Oct",
+          "day": "25",
+          "source": "Maui County Council Meeting",
+          "kind": "tv",
+          "title": "Maui County Council Meeting",
+          "note": "The council took up the appointment of a director for the East Maui Regional Water Authority.",
+          "proof": "2:09:13",
+          "view": {
+            "type": "meeting",
+            "id": "PanLlKqrVO8"
+          },
+          "seek": "2:09:13"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Meeting · Oct 25",
+          "where": "Meeting video at 2:09:13",
+          "view": {
+            "type": "meeting",
+            "id": "PanLlKqrVO8"
+          },
+          "seek": "2:09:13"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Meeting · Oct 25",
+          "where": "Meeting video at 0:26:55",
+          "view": {
+            "type": "meeting",
+            "id": "PanLlKqrVO8"
+          },
+          "seek": "0:26:55"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Meeting · Oct 25",
+          "where": "Meeting video at 2:23:01",
+          "view": {
+            "type": "meeting",
+            "id": "PanLlKqrVO8"
+          },
+          "seek": "2:23:01"
+        }
+      ]
+    },
+    {
+      "issue": "Housing",
+      "since": "Oct 25, 2024",
+      "oneLine": "A council member asked to move a West Maui housing project change forward to the Planning Commission.",
+      "why": "The member said West Maui has only one permanent housing project ready to go, and water is the obstacle.",
+      "deadlines": [],
+      "next": "A committee will discuss the change on October 30th.",
+      "brief": "A testifier said the project aims to build 800 rental units, half of them affordable.[[#1]] The project's land use attorney said it is also asking the LUC to remove the same condition.[[#2]] Members voted 9 to 0 on the referral.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Oct",
+          "day": "25",
+          "source": "Maui County Council Meeting",
+          "kind": "tv",
+          "title": "Maui County Council Meeting",
+          "note": "A council member asked to move a West Maui housing project change forward to the Planning Commission.",
+          "proof": "0:23:07",
+          "view": {
+            "type": "meeting",
+            "id": "PanLlKqrVO8"
+          },
+          "seek": "0:23:07"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Meeting · Oct 25",
+          "where": "Meeting video at 0:23:07",
+          "view": {
+            "type": "meeting",
+            "id": "PanLlKqrVO8"
+          },
+          "seek": "0:23:07"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Meeting · Oct 25",
+          "where": "Meeting video at 2:48:57",
+          "view": {
+            "type": "meeting",
+            "id": "PanLlKqrVO8"
+          },
+          "seek": "2:48:57"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Meeting · Oct 25",
+          "where": "Meeting video at 2:52:13",
+          "view": {
+            "type": "meeting",
+            "id": "PanLlKqrVO8"
+          },
+          "seek": "2:52:13"
+        }
+      ]
+    },
+    {
+      "issue": "Disaster Recovery",
+      "since": "Oct 25, 2024",
+      "oneLine": "A council member said single-family homes that had water meters before will get free meters back.",
+      "why": "The member said misinformation about water meters is causing a big problem in the community.",
+      "deadlines": [],
+      "next": "Meters will be returned at no cost as damaged laterals are fixed.",
+      "brief": "The member said over 2,000 properties are involved and some laterals are not fixed yet.[[#1]] A testifier whose daughter lost her house in the fire zone thanked the council for the correction.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Oct",
+          "day": "25",
+          "source": "Maui County Council Meeting",
+          "kind": "tv",
+          "title": "Maui County Council Meeting",
+          "note": "A council member said single-family homes that had water meters before will get free meters back.",
+          "proof": "1:18:23",
+          "view": {
+            "type": "meeting",
+            "id": "PanLlKqrVO8"
+          },
+          "seek": "1:18:23"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Meeting · Oct 25",
+          "where": "Meeting video at 1:18:23",
+          "view": {
+            "type": "meeting",
+            "id": "PanLlKqrVO8"
+          },
+          "seek": "1:18:23"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Meeting · Oct 25",
+          "where": "Meeting video at 1:26:46",
+          "view": {
+            "type": "meeting",
+            "id": "PanLlKqrVO8"
+          },
+          "seek": "1:26:46"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

@@ -1,0 +1,119 @@
+{
+  "videoId": "nWmZjD_rlMU",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-17T04:44:34.262Z",
+  "meetingDateISO": "2026-04-06",
+  "source": {
+    "youtubeUrl": "https://youtu.be/nWmZjD_rlMU"
+  },
+  "headline": "Budget committee hears testimony on housing and police staffing, moves two meetings",
+  "topics": [
+    "Housing",
+    "Food Security",
+    "Disaster Recovery"
+  ],
+  "meeting": {
+    "id": "nWmZjD_rlMU",
+    "mon": "Apr",
+    "day": "6",
+    "date": "Mon, Apr 6, 2026",
+    "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+    "dur": "2 h 13 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "A testifier said affordable housing is needed in Hāna, and the budget includes $6.595 million to buy 7.2 acres for the project. A police lieutenant said Hāna has one or two officers on shift. South Maui moved to the 14th and West Maui to the 17th, both at 6 o'clock.",
+    "recap": "The committee visits every district to hear testimony on the mayor's fiscal year 27 budget.[[0:00:48]] He said the group plans 25 homes, built five a year for five years.[[0:42:13]] He said a building permit that takes about three months in Lahaina is taking 330 days.[[0:43:03]] A testifier asked for $3 million from the Open Space Fund to buy about 115 acres at Hāneʻo.[[0:54:24]] A nonprofit board member said the Hāneʻo land was appraised at a little over $3.5 million.[[1:30:52]] A police lieutenant said Hāna sometimes has two officers on shift and sometimes one.[[1:44:31]] A council member said $20,000 for Hāna student travel is in the mayor's office budget.[[2:06:15]] The South Maui district meeting was moved to the 14th at 6 o'clock because of the weather.[[2:11:53]] The West Maui meeting was moved to the 17th at 6 o'clock.[[2:12:11]] The meeting was adjourned.[[2:12:49]]",
+    "decided": [],
+    "next": "The committee asked testifiers to submit their testimony in writing.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:54:24",
+        "q": "Request for $3 million to buy Hāneʻo land"
+      },
+      {
+        "t": "1:44:44",
+        "q": "\"Sometimes there's two officers on shift, sometimes there's one.\""
+      },
+      {
+        "t": "2:11:53",
+        "q": "District meeting dates change"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [],
+    "boards": [
+      {
+        "name": "Budget, Finance, and Economic Development Committee",
+        "group": "council",
+        "short": [
+          "BFED"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Disaster Recovery",
+      "since": "Apr 6, 2026",
+      "oneLine": "A new county emergency liaison for East Maui started work during the Kona storm on March 18.",
+      "why": "The liaison said it is important to keep a steady connection between the community and county emergency management.",
+      "deadlines": [],
+      "next": "",
+      "brief": "A testifier thanked road crews, the water department and the electric company for their storm work.[[#1]] A testifier said many people went without electricity for over nine days.[[#2]] The liaison said she is working remotely and looking for office space.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Apr",
+          "day": "6",
+          "source": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "kind": "tv",
+          "title": "Hāna residents share budget wishes for housing, land and services",
+          "note": "A new county emergency liaison for East Maui started work during the Kona storm on March 18.",
+          "proof": "0:10:19",
+          "view": {
+            "type": "meeting",
+            "id": "nWmZjD_rlMU"
+          },
+          "seek": "0:10:19"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 6",
+          "where": "Meeting video at 0:10:19",
+          "view": {
+            "type": "meeting",
+            "id": "nWmZjD_rlMU"
+          },
+          "seek": "0:10:19"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 6",
+          "where": "Meeting video at 0:53:15",
+          "view": {
+            "type": "meeting",
+            "id": "nWmZjD_rlMU"
+          },
+          "seek": "0:53:15"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 6",
+          "where": "Meeting video at 1:57:56",
+          "view": {
+            "type": "meeting",
+            "id": "nWmZjD_rlMU"
+          },
+          "seek": "1:57:56"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}

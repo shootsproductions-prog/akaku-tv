@@ -1,0 +1,68 @@
+{
+  "videoId": "d1ORjxdGLPQ",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-17T04:42:18.236Z",
+  "meetingDateISO": "2026-04-07",
+  "source": {
+    "youtubeUrl": "https://youtu.be/d1ORjxdGLPQ"
+  },
+  "headline": "Maui County Council Budget, Finance, and Economic Development Committee",
+  "topics": [
+    "Housing",
+    "Food Security",
+    "Disaster Recovery"
+  ],
+  "meeting": {
+    "id": "d1ORjxdGLPQ",
+    "mon": "Apr",
+    "day": "7",
+    "date": "Tue, Apr 7, 2026",
+    "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+    "dur": "4 h 27 m",
+    "voteCount": 1,
+    "voteItem": "Close oral testimony and accept written testimony",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee heard fiscal year 2027 budget plans from Human Concerns, Parks, Transportation and Planning, then deferred the item.",
+    "recap": "The only agenda item was the proposed fiscal year 2027 County of Maui budget.[[0:02:48]] The department said $27 million in FEMA (federal disaster aid) funds will help rebuild the West Maui Senior Center.[[0:11:01]] Transportation is seeking a permanent West Maui Transit Center to replace the hub lost in the August 2023 wildfires.[[0:23:22]] The committee closed spoken testimony and accepted written testimony with no objections.[[1:12:13]] With no objections, the committee deferred (postponed) the budget item.[[4:16:36]] Members were asked to send more questions for today's departments to staff by 9 a.m. tomorrow.[[4:24:24]]",
+    "decided": [
+      "The committee closed oral testimony and accepted written testimony with no objections."
+    ],
+    "next": "",
+    "votes": [],
+    "moments": [
+      {
+        "t": "1:32:07",
+        "q": "\"my priority will be addressing the un-sheltered homelessness issue\""
+      },
+      {
+        "t": "4:19:27",
+        "q": "County attorneys: no code change needed for bus fare changes if amounts are set in Appendix B"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "workforce-housing-fee-waivers-and-repayment-bill",
+        "title": "Workforce housing fee waivers and repayment bill"
+      },
+      {
+        "slug": "rebuilding-the-west-maui-senior-center",
+        "title": "Rebuilding the West Maui Senior Center"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Budget, Finance, and Economic Development Committee",
+        "group": "council",
+        "short": [
+          "BFED"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [],
+  "bodyType": "council"
+}

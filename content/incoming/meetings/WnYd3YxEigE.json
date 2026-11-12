@@ -1,0 +1,160 @@
+{
+  "videoId": "WnYd3YxEigE",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-17T03:46:13.724Z",
+  "meetingDateISO": "2026-04-13",
+  "source": {
+    "youtubeUrl": "https://youtu.be/WnYd3YxEigE"
+  },
+  "headline": "Committee hears Molokaʻi residents on budget requests, storm flooding and invasive pest",
+  "topics": [
+    "Housing",
+    "Food Security",
+    "Disaster Recovery"
+  ],
+  "meeting": {
+    "id": "WnYd3YxEigE",
+    "mon": "Apr",
+    "day": "13",
+    "date": "Mon, Apr 13, 2026",
+    "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+    "dur": "1 h 50 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "At an in-person Molokaʻi meeting, a speaker asked the committee to put $600,000 back in the budget and residents described storm flooding. The invasive species coordinator said a pest was detected last week and the council will hear shortly if more help is needed.",
+    "recap": "The committee chair opened an in-person meeting on Molokaʻi to hear from residents.[[0:00:19]] He asked the committee to put $600,000 for the program back in the budget.[[0:18:16]] A council member said the association missed the deadline when submitting for the budget.[[0:33:38]] The program's coordinator asked the committee to put the program in the budget.[[0:59:06]] A council member said the program would be one of their priority items for Decisions Week.[[0:59:36]] He said the center is asking for $545,000.[[1:04:43]] Family Life Center Molokaʻi asked for continued county funding for its homeless services.[[1:10:44]] A council member said that request is already in the mayor's proposed budget.[[1:28:23]] The island's invasive species coordinator said a pest they feared most was detected on Molokaʻi last week.[[1:34:09]] A council member said people hurt by the recent storms and flooding can apply through the mauirecovers.org webpage.[[1:45:00]]",
+    "decided": [],
+    "next": "The invasive species coordinator said the council will hear very shortly if more help is needed. The chair asked anyone with written testimony to submit it to the committee.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:21:35",
+        "q": "\"Please, please restore the 600,000\""
+      },
+      {
+        "t": "0:33:38",
+        "q": "\"They missed the deadline when submitting the budget.\""
+      },
+      {
+        "t": "0:55:14",
+        "q": "Kūpuna program coordinator testifies"
+      },
+      {
+        "t": "1:34:09",
+        "q": "Invasive pest detected on Molokaʻi"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [],
+    "boards": [
+      {
+        "name": "Budget, Finance, and Economic Development Committee",
+        "group": "council",
+        "short": [
+          "BFED"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Food Security",
+      "since": "Apr 13, 2026",
+      "oneLine": "Residents thanked the council for funding programs that feed keiki and support local farmers.",
+      "why": "A board member said Kaukau for Keiki feeds children over the summer when school is out.",
+      "deadlines": [],
+      "next": "",
+      "brief": "A farmer thanked the council for supporting the Hawaiʻi Farmers Union farm apprentice mentorship program.[[#1]] A resident said she picked up a bag of fruits and vegetables from Sustainable Molokaʻi.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Apr",
+          "day": "13",
+          "source": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "kind": "tv",
+          "title": "Molokaʻi residents urge funding for kūpuna program",
+          "note": "Residents thanked the council for funding programs that feed keiki and support local farmers.",
+          "proof": "1:29:46",
+          "view": {
+            "type": "meeting",
+            "id": "WnYd3YxEigE"
+          },
+          "seek": "1:29:46"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 13",
+          "where": "Meeting video at 1:29:46",
+          "view": {
+            "type": "meeting",
+            "id": "WnYd3YxEigE"
+          },
+          "seek": "1:29:46"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 13",
+          "where": "Meeting video at 0:23:08",
+          "view": {
+            "type": "meeting",
+            "id": "WnYd3YxEigE"
+          },
+          "seek": "0:23:08"
+        }
+      ]
+    },
+    {
+      "issue": "Disaster Recovery",
+      "since": "Apr 13, 2026",
+      "oneLine": "Molokaʻi residents described damage from recent storm flooding.",
+      "why": "",
+      "deadlines": [],
+      "next": "A council member said people hurt by the storms and flooding can apply through the mauirecovers.org webpage.",
+      "brief": "A farmer asked the county to let grant recipients use remaining grant balances for repair and recovery costs.[[#1]] A taro farmer said a channel close to a mile long on their land was almost completely filled in after the rains.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Apr",
+          "day": "13",
+          "source": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "kind": "tv",
+          "title": "Molokaʻi residents urge funding for kūpuna program",
+          "note": "Molokaʻi residents described damage from recent storm flooding.",
+          "proof": "1:30:34",
+          "view": {
+            "type": "meeting",
+            "id": "WnYd3YxEigE"
+          },
+          "seek": "1:30:34"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 13",
+          "where": "Meeting video at 1:30:34",
+          "view": {
+            "type": "meeting",
+            "id": "WnYd3YxEigE"
+          },
+          "seek": "1:30:34"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 13",
+          "where": "Meeting video at 1:42:08",
+          "view": {
+            "type": "meeting",
+            "id": "WnYd3YxEigE"
+          },
+          "seek": "1:42:08"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}
