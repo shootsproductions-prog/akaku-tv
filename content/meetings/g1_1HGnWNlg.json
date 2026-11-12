@@ -4,14 +4,12 @@
   "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-17T04:04:19.788Z",
   "meetingDateISO": "2026-04-13",
-  "source": {
-    "youtubeUrl": "https://youtu.be/g1_1HGnWNlg"
-  },
   "headline": "Council committee reviews emergency agency's fiscal year 27 budget",
   "topics": [
     "Food Security",
     "Disaster Recovery"
   ],
+  "bodyType": "council",
   "meeting": {
     "id": "g1_1HGnWNlg",
     "mon": "Apr",
@@ -174,5 +172,7 @@
       ]
     }
   ],
-  "bodyType": "council"
+  "source": {
+    "youtubeUrl": "https://youtu.be/g1_1HGnWNlg"
+  }
 }

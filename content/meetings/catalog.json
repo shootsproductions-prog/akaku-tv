@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-12T04:27:50.986Z",
-  "etag": "1644440d85b11cf645322862e6bb66f78d03d0c7b14fb4beb5c5a659b66e00e9",
-  "count": 357,
+  "updatedAt": "2026-11-12T04:28:11.769Z",
+  "etag": "c28a0a2e119b6234c102c35964bf3a4c87021bfa5704baf610d058dd24fdf04b",
+  "count": 360,
   "meetings": [
     {
       "videoId": "mWb79anG_Js",
@@ -4824,6 +4824,24 @@
       "sha256": "c177cc74899b529c4374203f8a8f8a320ba27d0e9c24abd4eba0330f25b2b347"
     },
     {
+      "videoId": "g1_1HGnWNlg",
+      "status": "reviewed",
+      "meetingDateISO": "2026-04-13",
+      "bodyType": "council",
+      "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+      "headline": "Council committee reviews emergency agency's fiscal year 27 budget",
+      "summary": "A council committee questioned the emergency agency's budget, including $1 million for wildfire fuel removal and a new emergency center expected in June.",
+      "dur": "1 h 36 m",
+      "voteCount": 0,
+      "momentCount": 4,
+      "issues": [
+        "mema-community-resiliency-hub-network-plan",
+        "hazardous-fuel-removal-on-10-high-risk-parcels"
+      ],
+      "updatedAt": "2026-11-12T04:28:11.769Z",
+      "sha256": "48a7504d622c79882168fbd2d899fe158c8733337f409b0f4b1992ce4f28dbda"
+    },
+    {
       "videoId": "4QEyWDNRkiY",
       "status": "reviewed",
       "meetingDateISO": "2026-04-08",
@@ -5406,6 +5424,25 @@
       ],
       "updatedAt": "2026-10-31T10:02:02.744Z",
       "sha256": "72c140921b61520ad56300406dfd7b59c05277a1794fd0fecc5c1561b1b1c7be"
+    },
+    {
+      "videoId": "xGS2hbJ68lM",
+      "status": "reviewed",
+      "meetingDateISO": "2024-12-03",
+      "bodyType": "council",
+      "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+      "headline": "Committee reviews building costs and wildfire debris site land",
+      "summary": "The committee reviewed a $1.5 million request for the 60 South Church Street building and a $4 million wildfire debris site land purchase.",
+      "dur": "1 h 55 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [
+        "new-county-emergency-operations-center",
+        "temporary-and-permanent-lahaina-wildfire-debris-disposal-sit",
+        "central-maui-landfill-land-taking-by-eminent-domain"
+      ],
+      "updatedAt": "2026-11-12T04:28:11.769Z",
+      "sha256": "18339b38acc68240d179ee15276679b2f5004d2eae48db0084899a11b064d82c"
     },
     {
       "videoId": "L5-QIcDiV9g",
@@ -6198,6 +6235,24 @@
       ],
       "updatedAt": "2026-11-06T03:28:57.377Z",
       "sha256": "46f474f3040f2ddb04518d21844caa346be142e477564372c2a7679251ed86a6"
+    },
+    {
+      "videoId": "tN6J49Yjn0s",
+      "status": "reviewed",
+      "meetingDateISO": "2024-08-22",
+      "bodyType": "council",
+      "body": "Maui County Council Agriculture, Diversification, Environment, and Public Transportation Committee",
+      "headline": "Committee defers ferry study and Lahaina Harbor update after public input on ferry",
+      "summary": "The committee deferred both the ferry study item and the Lahaina Harbor update with no objections. The department said it is preparing cost estimates and will turn first-round results into proposals for further engagement with the council and community.",
+      "dur": "1 h 12 m",
+      "voteCount": 0,
+      "momentCount": 4,
+      "issues": [
+        "proposed-maui-county-passenger-ferry-to-molokai-and-lanai",
+        "rebuilding-lahaina-small-boat-harbor"
+      ],
+      "updatedAt": "2026-11-12T04:28:11.769Z",
+      "sha256": "24f605d12689ae5ebe20f91d1be4fe575ce97873b5c98fb8912f91559fe74e6b"
     },
     {
       "videoId": "CNrEmWu8GiM",

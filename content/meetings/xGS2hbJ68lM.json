@@ -4,13 +4,11 @@
   "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
   "generatedAt": "2026-10-21T10:02:32.953Z",
   "meetingDateISO": "2024-12-03",
-  "source": {
-    "youtubeUrl": "https://youtu.be/xGS2hbJ68lM"
-  },
   "headline": "Committee reviews building costs and wildfire debris site land",
   "topics": [
     "Disaster Recovery"
   ],
+  "bodyType": "council",
   "meeting": {
     "id": "xGS2hbJ68lM",
     "mon": "Dec",
@@ -141,5 +139,7 @@
       ]
     }
   ],
-  "bodyType": "council"
+  "source": {
+    "youtubeUrl": "https://youtu.be/xGS2hbJ68lM"
+  }
 }
