@@ -195,6 +195,19 @@
     },
     {
       "dateISO": "2025-02-20",
+      "text": "The testifier said federal funding for recovery and mitigation is decreasing or ending.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1wzlTecIqTE",
+        "ts": "0:38:29",
+        "retrievedISO": "2026-10-22T06:26:10.023Z",
+        "endTs": "0:38:59"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+    },
+    {
+      "dateISO": "2025-02-20",
       "text": "The testifier said the 2023 fire left degraded soil, more erosion risk, and land that holds less water.",
       "basis": "said-at-meeting",
       "source": {

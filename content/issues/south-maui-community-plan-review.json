@@ -508,6 +508,19 @@
     },
     {
       "dateISO": "2026-10-07",
+      "text": "The agency said a wireless emergency alert and an emergency alert system message follow a siren.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5C73aQDRPR4",
+        "ts": "1:46:17",
+        "retrievedISO": "2026-10-16T22:24:10.229Z",
+        "endTs": "1:46:47"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-07",
       "text": "Motion to amend action item 3.17 on page 131: Action item 3.17 was amended to identify and develop more emergency evacuation routes in and out of South Maui.",
       "basis": "said-at-meeting",
       "source": {

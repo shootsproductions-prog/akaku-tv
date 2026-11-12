@@ -1,13 +1,13 @@
 {
   "slug": "countywide-fraud-risk-assessment-and-hotline",
   "title": "Countywide fraud risk assessment and hotline",
-  "summary": "The county auditor reported signs of fraud, waste and abuse in emergency purchases during the pandemic and fire, and planned a countywide fraud risk review. The 2026 report found controls not designed well enough and no countywide policy for fraud complaints, and the auditor launched a fraud hotline.",
+  "summary": "On June 30, a committee reviewed a Spire Hawaiʻi LLP fraud risk assessment of the County of Maui, which found county controls are not designed well enough to address the risks it identified. It also found no countywide policy for handling fraud complaints and no nepotism policy. The auditor said a new fraud, waste, and abuse hotline is now live.",
   "topics": [
     "government"
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-06-30",
+  "firstSeenISO": "2026-06-22",
   "lastSeenISO": "2026-06-30",
   "signals": {
     "meetingsLast30d": 0,
@@ -68,6 +68,19 @@
     },
     {
       "dateISO": "2026-06-30",
+      "text": "The report noted the county has no nepotism policy, which is a rule about hiring relatives.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "2Ne-nA424jA",
+        "ts": "0:15:25",
+        "retrievedISO": "2026-10-16T17:27:10.780Z",
+        "endTs": "0:15:55"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-06-30",
       "text": "The report found county controls are not designed well enough to address the fraud risks it identified.",
       "basis": "said-at-meeting",
       "source": {
@@ -102,6 +115,32 @@
         "ts": "0:07:51",
         "retrievedISO": "2026-10-16T17:27:10.780Z",
         "endTs": "0:08:21"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-06-30",
+      "text": "The committee reviewed a fraud risk assessment of the County of Maui by Spire Hawaiʻi LLP.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "2Ne-nA424jA",
+        "ts": "0:03:09",
+        "retrievedISO": "2026-10-16T17:27:10.780Z",
+        "endTs": "0:03:39"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-06-22",
+      "text": "The next scheduled committee meeting will cover the auditors' fraud risk and fraud, waste and abuse assessment report.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lVzPO8RLOV4",
+        "ts": "1:21:33",
+        "retrievedISO": "2026-10-16T17:46:34.541Z",
+        "endTs": "1:22:03"
       },
       "body": "County Council Government Relations, Ethics, and Transparency Committee"
     }

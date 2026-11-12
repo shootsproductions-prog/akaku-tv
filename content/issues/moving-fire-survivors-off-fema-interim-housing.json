@@ -1,7 +1,7 @@
 {
   "slug": "moving-fire-survivors-off-fema-interim-housing",
   "title": "Moving fire survivors off FEMA interim housing",
-  "summary": "As of August 31, Kīlohana's temporary housing units and land are moving from FEMA and HHFDC to the County of Maui, though not every resident will be eligible to stay, and some residents did not know about the transfer. The county is meeting with FEMA so caseworkers can meet residents together. About 1,100 households remain in interim housing, which officials expect to be near zero by 2030.",
+  "summary": "Kīlohana's temporary housing units are moving from FEMA to county control, and the land from HHFDC to the County of Maui, though not everyone there will be eligible to stay. The county is meeting with FEMA so caseworkers can meet together with residents, and some residents did not know of the transfer. About 1,100 households remain in interim housing, which officials expect to be near zero by 2030.",
   "topics": [
     "housing",
     "disaster-recovery"
@@ -419,6 +419,32 @@
         "endTs": "0:18:59"
       },
       "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-04-08",
+      "text": "The managing director said the $21 million plans for the worst case, if FEMA does not extend the housing mission.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "4QEyWDNRkiY",
+        "ts": "3:22:40",
+        "retrievedISO": "2026-10-17T04:27:03.392Z",
+        "endTs": "3:23:10"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-08",
+      "text": "About $21 million is set aside to support temporary housing in case federal funding is reduced.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "4QEyWDNRkiY",
+        "ts": "0:08:25",
+        "retrievedISO": "2026-10-17T04:27:03.392Z",
+        "endTs": "0:08:55"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
     },
     {
       "dateISO": "2026-01-23",

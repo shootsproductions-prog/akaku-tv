@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T04:26:11.719Z",
+  "updatedAt": "2026-11-12T09:40:12.686Z",
   "count": 228,
   "issues": [
     {
@@ -1552,7 +1552,7 @@
     {
       "slug": "central-maui-desalination-study-and-report-release",
       "title": "Central Maui desalination study and report release",
-      "summary": "At the October 15 meeting, the water director said only a summary of the desalination study is online, because Homeland Security would not allow the full study to be released for security reasons. A board member said the summary does not explain how sites were chosen. New budget money would fund a next phase looking at specific sites.",
+      "summary": "On October 15, the water director said only a summary of the desalination study is online, because Homeland Security will not allow the full study out for security reasons. New budget money would fund a next phase looking at specific sites, and the department is working with the Senate so Hawaiʻi can use federal desalination funds. The August study recommended reverse osmosis, with construction at least 10 years away.",
       "topics": [
         "water"
       ],
@@ -1585,6 +1585,19 @@
       ],
       "bills": [],
       "timeline": [
+        {
+          "dateISO": "2026-10-15",
+          "text": "The director said Hawaiʻi is not included in the federal law that lets Bureau of Reclamation funds pay for some desalination projects.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Qe82vmTlsAk",
+            "ts": "0:42:48",
+            "retrievedISO": "2026-11-04T07:35:02.969Z",
+            "endTs": "0:43:20"
+          },
+          "body": "Board of Water Supply"
+        },
         {
           "dateISO": "2026-10-15",
           "text": "The director said new desalination money would fund a next phase focused on specific sites.",
@@ -2843,6 +2856,19 @@
             "ts": "1:50:47",
             "retrievedISO": "2026-10-16T22:24:10.229Z",
             "endTs": "1:51:28"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-10-07",
+          "text": "The agency said a wireless emergency alert and an emergency alert system message follow a siren.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "5C73aQDRPR4",
+            "ts": "1:46:17",
+            "retrievedISO": "2026-10-16T22:24:10.229Z",
+            "endTs": "1:46:47"
           },
           "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
         },
@@ -12428,14 +12454,14 @@
     {
       "slug": "lahaina-tree-program-fruit-forest-with-county-parks",
       "title": "Lahaina tree program fruit forest with county parks",
-      "summary": "The tree recovery program is planning a fruit forest in partnership with the county parks department, which the chair called a partnership with Maui County. It is meant to give the community more fruit and food, mainly for the people, with scions (cuttings) used to grow more trees. The chair will invite members to visit once ground is broken on the parcel.",
+      "summary": "The tree recovery program is planning a fruit forest with the county parks department, a partnership with Maui County meant to give the community more fruit and food. Scions (cuttings) will be used to grow more trees, and the chair will invite members to visit once ground is broken on the parcel. The land is county-owned and has water, and the group might get a very long lease.",
       "topics": [
         "food-security",
         "environment"
       ],
       "status": "active",
       "pinned": false,
-      "firstSeenISO": "2026-09-09",
+      "firstSeenISO": "2026-07-08",
       "lastSeenISO": "2026-09-09",
       "signals": {
         "meetingsLast30d": 0,
@@ -12447,6 +12473,11 @@
       "boards": [
         {
           "name": "Arborist Committee",
+          "group": "council",
+          "short": []
+        },
+        {
+          "name": "Maui Arborist Committee",
           "group": "council",
           "short": []
         }
@@ -12517,6 +12548,45 @@
             "endTs": "0:10:59"
           },
           "body": "Arborist Committee"
+        },
+        {
+          "dateISO": "2026-07-08",
+          "text": "Maui County will walk the land with the group tomorrow.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Rhz4ecFDSAM",
+            "ts": "0:49:08",
+            "retrievedISO": "2026-10-13T06:35:20.466Z",
+            "endTs": "0:49:38"
+          },
+          "body": "Maui Arborist Committee"
+        },
+        {
+          "dateISO": "2026-07-08",
+          "text": "The chair said the land is county-owned and the group might get a very long lease.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Rhz4ecFDSAM",
+            "ts": "0:48:58",
+            "retrievedISO": "2026-10-13T06:35:20.466Z",
+            "endTs": "0:49:28"
+          },
+          "body": "Maui Arborist Committee"
+        },
+        {
+          "dateISO": "2026-07-08",
+          "text": "The chair said the land has water on it.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Rhz4ecFDSAM",
+            "ts": "0:48:49",
+            "retrievedISO": "2026-10-13T06:35:20.466Z",
+            "endTs": "0:49:19"
+          },
+          "body": "Maui Arborist Committee"
         }
       ],
       "sourceTypes": [
@@ -14298,7 +14368,7 @@
     {
       "slug": "moving-fire-survivors-off-fema-interim-housing",
       "title": "Moving fire survivors off FEMA interim housing",
-      "summary": "As of August 31, Kīlohana's temporary housing units and land are moving from FEMA and HHFDC to the County of Maui, though not every resident will be eligible to stay, and some residents did not know about the transfer. The county is meeting with FEMA so caseworkers can meet residents together. About 1,100 households remain in interim housing, which officials expect to be near zero by 2030.",
+      "summary": "Kīlohana's temporary housing units are moving from FEMA to county control, and the land from HHFDC to the County of Maui, though not everyone there will be eligible to stay. The county is meeting with FEMA so caseworkers can meet together with residents, and some residents did not know of the transfer. About 1,100 households remain in interim housing, which officials expect to be near zero by 2030.",
       "topics": [
         "housing",
         "disaster-recovery"
@@ -14718,6 +14788,32 @@
           "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
         },
         {
+          "dateISO": "2026-04-08",
+          "text": "The managing director said the $21 million plans for the worst case, if FEMA does not extend the housing mission.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "4QEyWDNRkiY",
+            "ts": "3:22:40",
+            "retrievedISO": "2026-10-17T04:27:03.392Z",
+            "endTs": "3:23:10"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-08",
+          "text": "About $21 million is set aside to support temporary housing in case federal funding is reduced.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "4QEyWDNRkiY",
+            "ts": "0:08:25",
+            "retrievedISO": "2026-10-17T04:27:03.392Z",
+            "endTs": "0:08:55"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
           "dateISO": "2026-01-23",
           "text": "FEMA temporary housing assistance for Maui wildfire survivors was extended to February 2027, which is context for the clinician's concern about residents being made to leave at month's end.",
           "basis": "reported",
@@ -14950,7 +15046,7 @@
     {
       "slug": "park-maui-paid-and-resident-parking-rules",
       "title": "Park Maui paid and resident parking rules",
-      "summary": "The council passed Bill 68, CD1 (2026) on second and final reading on July 24, updating Park Maui paid and permit parking zones. It had passed first reading 9–0 on July 7. The bill creates paid parking zones at three Lahaina lots, gives Hawaiʻi residents with a valid license the first two hours free at the Wailuku Garage, and removes a Kamaʻole Beach 3 dirt area from resident-only hours.",
+      "summary": "On July 24, 2026, the council passed Bill 68, CD1, on second and final reading, updating Park Maui paid and permit parking zones. The bill creates paid parking zones at three Lahaina lots, gives Hawaiʻi residents with a valid Hawaiʻi driver's license the first two hours free at the Wailuku Garage, and removes a dirt area at Kamaʻole Beach 3 from resident-only beach hours.",
       "topics": [
         "transportation"
       ],
@@ -16217,7 +16313,7 @@
     {
       "slug": "spending-the-1-6-billion-federal-recovery-grant",
       "title": "Spending the $1.6 billion federal recovery grant",
-      "summary": "Federal disaster recovery money for the Lahaina fire is now being spent on housing and rebuilding. As of August 2026, the county had obligated $1.39 billion of its $1.6 billion HUD grant, and 577 housing units were complete, 400 under construction and 597 in progress. The six-year grant runs through 2031, and rising infrastructure costs are a key risk.",
+      "summary": "As of late September 2026, a speaker said federal money for housing and rebuilding totals $1.6 billion. In August, staff reported $1.39 billion of the $1.6 billion HUD grant obligated, with spending projected through 2031. They said 577 housing units are complete, 400 are under construction and 597 are in progress, and named rising infrastructure costs as a key risk.",
       "topics": [
         "disaster-recovery",
         "housing"
@@ -16464,6 +16560,19 @@
           "body": "County Council Budget, Finance, and Economic Development Committee"
         },
         {
+          "dateISO": "2026-04-08",
+          "text": "The recovery grant program has filled 27 of its 56 positions.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "4QEyWDNRkiY",
+            "ts": "2:19:01",
+            "retrievedISO": "2026-10-17T04:27:03.392Z",
+            "endTs": "2:20:07"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
           "dateISO": "2025-03-11",
           "text": "The chair said the administration will give the Council reports on the grant.",
           "basis": "said-at-meeting",
@@ -16582,6 +16691,19 @@
         },
         {
           "dateISO": "2025-03-11",
+          "text": "Staff said ten of the 56 grant-funded positions have been hired.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "dgEPJUYuZJw",
+            "ts": "0:44:41",
+            "retrievedISO": "2026-10-21T15:08:08.552Z",
+            "endTs": "0:45:11"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2025-03-11",
           "text": "Program policies and eligibility intake will be developed after the action plan, aiming for this summer.",
           "basis": "said-at-meeting",
           "source": {
@@ -16590,6 +16712,19 @@
             "ts": "0:24:18",
             "retrievedISO": "2026-10-21T15:08:08.552Z",
             "endTs": "0:24:51"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2025-03-11",
+          "text": "He said HUD, the federal housing agency, has recommended approval of $81,969,000 to run the program.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "dgEPJUYuZJw",
+            "ts": "0:23:00",
+            "retrievedISO": "2026-10-21T15:08:08.552Z",
+            "endTs": "0:23:45"
           },
           "body": "County Council Budget, Finance, and Economic Development Committee"
         },
@@ -16655,7 +16790,7 @@
     {
       "slug": "staff-approvals-of-lahaina-historic-district-rebuilds",
       "title": "Staff approvals of Lahaina historic district rebuilds",
-      "summary": "On September 3, staff said four rebuild projects in the historic district were approved administratively as close matches to pre-fire buildings; approvals require construction to start within two years, and a building permit is still needed. Projects differing more than 10 percent from before go to the commission. The vice chair has objected that staff approval skips commission review and public testimony.",
+      "summary": "As of September 3, staff said four historic district rebuilds have been approved administratively as close matches to pre-fire buildings, and projects differing by more than 10 percent from before go to the commission. Approval letters require construction to start within two years, and a building permit is still needed. The vice chair objects that staff approval skips commission review and public testimony; staff approved five HDXs since April, with five more in review.",
       "topics": [
         "disaster-recovery",
         "culture",
@@ -18012,7 +18147,7 @@
     {
       "slug": "using-recycled-r1-water-for-irrigation-and-firefighting",
       "title": "Using recycled R1 water for irrigation and firefighting",
-      "summary": "On Sept. 30, 2026, a council member said reclaimed water use has fallen from about 5 million to about 3 million gallons a day since the fire, and that the County needs to build pipes to deliver it for irrigation. In March, the Kāʻanapali Resort R1 distribution system was 80 percent complete, with 200,000 to 300,000 gallons a day expected. In 2024 the council voted 9 to 0 to urge more R1 use to save drinking water for housing.",
+      "summary": "At the latest meeting, a council member said reclaimed water use fell from 5 million to about 3 million gallons a day after the fire, and the County needs to build pipes to deliver it. The council voted 9 to 0 on October 25, 2024 to adopt the resolution urging more R1 recycled water to save drinking water for housing. The amended version asks the administration to invest in R1 production at the Kahului, Molokaʻi and Lānaʻi plants.",
       "topics": [
         "water",
         "environment"
@@ -26330,7 +26465,7 @@
     {
       "slug": "county-buying-private-west-maui-water-systems",
       "title": "County buying private West Maui water systems",
-      "summary": "As of Sept. 30, the Council has approved buying three West Maui water systems, which a member said will increase public control. The County still delivers only 23 percent of West Maui water, with private companies delivering 77 percent, and it is still checking details on other systems, aiming for about 90 percent public control. The Aug. 25 purchase of private assets for up to $6 million passed 8–1.",
+      "summary": "On Sept. 30, a council member said the County controls 23 percent of West Maui water delivery and private companies 77 percent. The Council recently approved buying three water systems, and the County is still checking details on others, aiming for about 90 percent public control. The Council earlier passed a purchase of private system assets for up to $6 million, 8–1, and the Public Utilities Commission (PUC) must approve the sale.",
       "topics": [
         "water",
         "disaster-recovery"
@@ -27549,6 +27684,19 @@
           "body": "County Council Water and Infrastructure Committee"
         },
         {
+          "dateISO": "2026-04-08",
+          "text": "The only new positions are 10 that would be filled only if the county acquires a water system.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "4QEyWDNRkiY",
+            "ts": "0:12:32",
+            "retrievedISO": "2026-10-17T04:27:03.392Z",
+            "endTs": "0:13:02"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
           "dateISO": "2024-07-19",
           "text": "Referral of Bill 106 (regional consolidation and acquisition of private water systems): The council sent Bill 106 to the Water and Infrastructure Committee.",
           "basis": "said-at-meeting",
@@ -28136,7 +28284,7 @@
     {
       "slug": "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p",
       "title": "Ending apartment vacation rentals and hotel rezoning of 48 properties",
-      "summary": "On October 23, the Council voted down sending condo properties to the Maui Planning Commission for hotel zoning review under Resolutions 26-160 and 26-161. The Office of Hawaiian Affairs opposed them and the Maui Vacation Rental Association supported them. Earlier, on September 29, the Council sent a coastal apartment-zoned list to the commission, 5-4, after the commission had approved five of 48 properties from an earlier list.",
+      "summary": "On October 23, the Council voted down Resolutions 26-160 and 26-161, which would have sent more condo properties to the Maui Planning Commission for hotel zoning review. The chair said vacation rentals are being phased out of apartment districts, and new hotel districts exist for properties where rental use is appropriate. Earlier, the Council advanced Resolution 26-129 five to four, and the Commission recommended approving only a few of about 48 properties.",
       "topics": [
         "housing",
         "land-use"
@@ -32198,7 +32346,7 @@
     {
       "slug": "extending-property-tax-relief-for-wildfire-hit-properties",
       "title": "Extending property tax relief for wildfire-hit properties",
-      "summary": "On August 25, 2026, Bill 103 changed the budget tied to the real property tax expiry date for wildfire-impacted properties. The bill would extend the exemption to June 30, 2028, and the budget director said this lines the end date up with Ordinance 5913. It builds on earlier relief for properties hit by the August 2023 Maui wildfires.",
+      "summary": "On August 25, 2026, Bill 103 changed the budget tied to the real property tax expiry date for wildfire-impacted properties. On August 11, the budget director said the bill moves the exemption's end date from December 31, 2026, to June 30, 2028, to match Ordinance 5913. Earlier bills had already extended Maui wildfire tax relief, and tax relief has been in place since the August 2023 fires.",
       "topics": [
         "disaster-recovery",
         "economy"
@@ -33897,6 +34045,19 @@
         },
         {
           "dateISO": "2025-02-20",
+          "text": "The testifier said federal funding for recovery and mitigation is decreasing or ending.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "1wzlTecIqTE",
+            "ts": "0:38:29",
+            "retrievedISO": "2026-10-22T06:26:10.023Z",
+            "endTs": "0:38:59"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+        },
+        {
+          "dateISO": "2025-02-20",
           "text": "The testifier said the 2023 fire left degraded soil, more erosion risk, and land that holds less water.",
           "basis": "said-at-meeting",
           "source": {
@@ -34888,16 +35049,7 @@
         "meetingsLast30d": 0,
         "meetingsLast90d": 1,
         "mentionsLast30d": 0,
-        "upcomingEvent": {
-          "dateISO": "2030-12-31",
-          "what": "A bill would pause new private swimming pools in the West Maui Community Plan Area until December 31, 2030.",
-          "source": {
-            "type": "meeting",
-            "videoId": "3S90aI2m3-k",
-            "ts": "0:08:56",
-            "retrievedISO": "2026-10-19T11:21:58.937Z"
-          }
-        }
+        "upcomingEvent": null
       },
       "asOfISO": "2026-11-11",
       "boards": [
@@ -40096,7 +40248,7 @@
     {
       "slug": "vehicle-disposal-fund-uses-and-25-fee",
       "title": "Vehicle disposal fund uses and $25 fee",
-      "summary": "On September 1, the committee reviewed the Vehicle Disposal Fee Fund but took no legislative action; the chair said the committee will work with the department and return with a bill. The fund holds over $19 million, with about $3 million budgeted for fiscal year 27, and drivers pay a $25 registration fee into it. The department wants to keep the fee at $25 because substantial CIP costs are coming, and said County code could be amended to widen how the money is used.",
+      "summary": "On September 1, the committee reviewed the Vehicle Disposal Fee Fund but took no legislative action; the chair said the committee will work with the department and return with a bill. The fund holds over $19 million, with about $3 million budgeted for fiscal year 27, and drivers pay a $25 fee at each car registration. The department wants the fee kept at $25 because of coming capital project costs, and officials said County code could be amended to widen how the money is used.",
       "topics": [
         "transportation",
         "environment"
@@ -42156,7 +42308,7 @@
     {
       "slug": "water-system-development-fee-based-on-daily-use",
       "title": "Water system development fee based on daily use",
-      "summary": "On June 5, 2026, a budget amendment aligned the Water Supply water fund section with the proposed Bill 76 changes, and the water system development fee changes take effect July 1, 2026. Bill 76 bases the fee on average daily demand rather than meter size, and it was scheduled for second and final reading that day. Properties already legally connected would not pay again, and staff said a small single-family meter fee would be much the same.",
+      "summary": "On June 5, 2026, a budget amendment aligned the Water Supply water fund section with the proposed Bill 76 changes, and the new water system development fee takes effect July 1, 2026. Bill 76 bases the fee on average daily demand instead of meter size, with one equivalent single dwelling equal to 300 gallons a day. Already-connected properties would not pay again, and future budgets plan 2 to 3 percent yearly increases.",
       "topics": [
         "water",
         "housing"
@@ -44344,7 +44496,7 @@
     {
       "slug": "bill-77-setting-aside-housing-fund-for-houseless-residents",
       "title": "Bill 77 setting aside housing fund for houseless residents",
-      "summary": "On June 15 the committee reviewed Bill 77 and will likely defer it, inviting Director Willis to the next meeting. The bill would require part of the Affordable Housing Fund to go toward housing for houseless residents.",
+      "summary": "On June 15 the committee reviewed Bill 77 and is likely to defer it, inviting Director Willis to the next meeting. The bill would require part of the Affordable Housing Fund to go toward housing for houseless residents and adds a definition of \"houseless\" to county code. The housing director would work with a nonprofit partner, suggested softer wording than \"ensure,\" and said no funds are set aside in fiscal year 27, so a budget amendment would be needed.",
       "topics": [
         "housing",
         "health"
@@ -44505,6 +44657,19 @@
             "ts": "0:27:36",
             "retrievedISO": "2026-10-16T20:45:46.557Z",
             "endTs": "0:28:06"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-06-15",
+          "text": "A member said the county needed to start this work 10 years ago.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "6WVDJO1LxXM",
+            "ts": "0:25:44",
+            "retrievedISO": "2026-10-16T20:45:46.557Z",
+            "endTs": "0:26:14"
           },
           "body": "County Council Water Authority, Social Services, and Parks Committee"
         },
@@ -49054,7 +49219,7 @@
     {
       "slug": "fixes-to-workforce-housing-law-chapter-2-96",
       "title": "Fixes to workforce housing law chapter 2.96",
-      "summary": "The board's May 29 review of proposed changes to chapter 2.96, the county's residential workforce housing law, ended early when the chair adjourned over a meeting link problem that might violate the Sunshine Law. All items will be reposted, and the next meeting is June 26. The department had proposed defining area median income and fixing code that wrongly points to chapter 2.96 for fee waiver definitions.",
+      "summary": "The board's May 29 review of proposed changes to chapter 2.96, the residential workforce housing law, was adjourned over a meeting link problem and a possible Sunshine Law violation. All items will be reposted, and the next meeting is June 26. The department had proposed defining area median income, which the chapter uses but never defines, and fixing code that wrongly points to it for fee waiver definitions.",
       "topics": [
         "housing",
         "government"
@@ -50258,7 +50423,7 @@
     {
       "slug": "proposed-west-maui-critical-access-hospital",
       "title": "Proposed West Maui critical access hospital",
-      "summary": "A West Maui critical access hospital drew more support on Nov. 15, when a testifier urged the council to back it. On Oct. 30 the committee deferred the item without a vote. Backers want the County to guarantee $20 million in state special purpose revenue bonds, but a county attorney sees no legal authority for that, and the acting mayor warned a default would put the county in the hospital business.",
+      "summary": "A West Maui hospital resolution will return at the next council meeting after its sponsor asked to hold it, and members agreed with no objections. Earlier, on October 10, a commissioner said a West Maui medical facility was not ready for the commission to take up.",
       "topics": [
         "health",
         "economy"
@@ -51324,7 +51489,7 @@
     {
       "slug": "setting-yearly-property-tax-rates",
       "title": "Setting yearly property tax rates",
-      "summary": "On May 15, 2026, the council adopted the new real property tax rates by a vote of nine to zero. Before that, an April 21 hearing heard testimony on the proposed rates and tiers; the Maui Chamber of Commerce backed the rates for apartment, commercial and industrial properties, while other speakers asked to keep or lower rates. The budget raises owner-occupied tier levels and lowers the third-tier rate to offset rising values.",
+      "summary": "On May 15, 2026, the council adopted the new real property tax rates by a vote of nine to zero. The proposed budget had raised the tier levels for owner-occupied homes and lowered the third-tier rate, which finance staff said would offset rising values. At an April 21 hearing, the Maui Chamber of Commerce backed the proposed rates, while another speaker asked the council to keep this year's rate or lower it.",
       "topics": [
         "economy",
         "government",
@@ -51918,13 +52083,13 @@
     {
       "slug": "countywide-fraud-risk-assessment-and-hotline",
       "title": "Countywide fraud risk assessment and hotline",
-      "summary": "The county auditor reported signs of fraud, waste and abuse in emergency purchases during the pandemic and fire, and planned a countywide fraud risk review. The 2026 report found controls not designed well enough and no countywide policy for fraud complaints, and the auditor launched a fraud hotline.",
+      "summary": "On June 30, a committee reviewed a Spire Hawaiʻi LLP fraud risk assessment of the County of Maui, which found county controls are not designed well enough to address the risks it identified. It also found no countywide policy for handling fraud complaints and no nepotism policy. The auditor said a new fraud, waste, and abuse hotline is now live.",
       "topics": [
         "government"
       ],
       "status": "active",
       "pinned": false,
-      "firstSeenISO": "2026-06-30",
+      "firstSeenISO": "2026-06-22",
       "lastSeenISO": "2026-06-30",
       "signals": {
         "meetingsLast30d": 0,
@@ -51985,6 +52150,19 @@
         },
         {
           "dateISO": "2026-06-30",
+          "text": "The report noted the county has no nepotism policy, which is a rule about hiring relatives.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2Ne-nA424jA",
+            "ts": "0:15:25",
+            "retrievedISO": "2026-10-16T17:27:10.780Z",
+            "endTs": "0:15:55"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        },
+        {
+          "dateISO": "2026-06-30",
           "text": "The report found county controls are not designed well enough to address the fraud risks it identified.",
           "basis": "said-at-meeting",
           "source": {
@@ -52019,6 +52197,32 @@
             "ts": "0:07:51",
             "retrievedISO": "2026-10-16T17:27:10.780Z",
             "endTs": "0:08:21"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        },
+        {
+          "dateISO": "2026-06-30",
+          "text": "The committee reviewed a fraud risk assessment of the County of Maui by Spire Hawaiʻi LLP.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2Ne-nA424jA",
+            "ts": "0:03:09",
+            "retrievedISO": "2026-10-16T17:27:10.780Z",
+            "endTs": "0:03:39"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        },
+        {
+          "dateISO": "2026-06-22",
+          "text": "The next scheduled committee meeting will cover the auditors' fraud risk and fraud, waste and abuse assessment report.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "lVzPO8RLOV4",
+            "ts": "1:21:33",
+            "retrievedISO": "2026-10-16T17:46:34.541Z",
+            "endTs": "1:22:03"
           },
           "body": "County Council Government Relations, Ethics, and Transparency Committee"
         }
@@ -52090,7 +52294,7 @@
     {
       "slug": "fees-at-county-electric-vehicle-chargers",
       "title": "Fees at county electric vehicle chargers",
-      "summary": "In 2026 a member proposed a $1-per-minute idle fee at county EV chargers, and the committee recommended Bill 64 on EV charging fees. A later motion to drop fees at county charging stations failed, four to five.",
+      "summary": "A motion to drop fees at county electric vehicle charging stations failed four to five on May 15. Bill 64, on EV charging fees, had earlier been recommended for passage by the committee on April 24. A member had proposed a $1-per-minute idle fee at County EV chargers, starting five minutes after charging ends.",
       "topics": [
         "transportation",
         "environment"
@@ -52260,7 +52464,7 @@
     {
       "slug": "lighting-and-music-at-lanai-hotel-events",
       "title": "Lighting and music at Lānaʻi hotel events",
-      "summary": "Lānaʻi commissioners heard that beach park rangers cannot enforce rules on a hotel event's music and lighting, and a hotel representative said its music stops at 10 p.m. In October a commissioner raised community concerns about lighting at an event approved with a minor permit, and staff said holders must follow the night sky ordinance.",
+      "summary": "At the October 21 meeting, a commissioner raised community concerns about lighting at a recent event approved with a minor permit. Staff said permit holders must follow the night sky lighting ordinance. In September, a commissioner said beach park rangers cannot enforce rules on the event's music and lighting, and a hotel representative said music at its events shuts down at 10 p.m.",
       "topics": [
         "land-use",
         "culture"
