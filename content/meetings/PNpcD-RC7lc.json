@@ -4,11 +4,9 @@
   "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
   "generatedAt": "2026-11-04T07:36:54.872Z",
   "meetingDateISO": "2026-10-22",
-  "source": {
-    "youtubeUrl": "https://youtu.be/PNpcD-RC7lc"
-  },
-  "topics": [],
   "headline": "Board of Variance Appeals",
+  "topics": [],
+  "bodyType": "board",
   "meeting": {
     "id": "PNpcD-RC7lc",
     "mon": "Oct",
@@ -53,5 +51,7 @@
     "bills": []
   },
   "issues": [],
-  "bodyType": "board"
+  "source": {
+    "youtubeUrl": "https://youtu.be/PNpcD-RC7lc"
+  }
 }

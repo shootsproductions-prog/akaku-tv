@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-12T04:26:11.759Z",
-  "etag": "32829b7e2c89635c0da209ba9a5b067bdadb3204301b8fd1feee732678e423fc",
-  "count": 355,
+  "updatedAt": "2026-11-12T04:27:23.041Z",
+  "etag": "e5d93f2ecfdf47a508f4f888eb5ecd1e1cff4f7a4612d6954237ef3d1d7db50d",
+  "count": 356,
   "meetings": [
     {
       "videoId": "mWb79anG_Js",
@@ -46,6 +46,21 @@
       ],
       "updatedAt": "2026-11-06T03:28:57.377Z",
       "sha256": "025bd09beea9dbf9b253d9d1aa2f85d0fbbbbb389e5190c28b252992064b11c7"
+    },
+    {
+      "videoId": "PNpcD-RC7lc",
+      "status": "reviewed",
+      "meetingDateISO": "2026-10-22",
+      "bodyType": "board",
+      "body": "Board of Variance Appeals",
+      "headline": "Board of Variance Appeals",
+      "summary": "The Board of Variance Appeals put two short-term rental appeals on hold because of a bankruptcy case and continued Travis Manning's appeal.",
+      "dur": "15 m",
+      "voteCount": 0,
+      "momentCount": 3,
+      "issues": [],
+      "updatedAt": "2026-11-12T04:27:23.041Z",
+      "sha256": "b12641e0fb93659de26051c897369fbc2b6f090a1f44ad1f2844202e538f464c"
     },
     {
       "videoId": "lTfHRBm6PPo",
