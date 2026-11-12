@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T07:09:44.242Z",
+  "generatedAt": "2026-11-12T09:44:36.934Z",
   "areas": [
     {
       "id": "west-maui",
@@ -15,6 +15,10 @@
       "label": "South Maui"
     },
     {
+      "id": "north-shore",
+      "label": "Pāʻia and Haʻikū"
+    },
+    {
       "id": "east-maui",
       "label": "Hāna and East Maui"
     },
@@ -25,11 +29,284 @@
   ],
   "meetings": [
     {
+      "videoId": "07j9NsoXIAk",
+      "slug": "2026-10-15-lahaina-strong-candidate-forum-general-election-2026",
+      "accent": "#bd870f",
+      "thumbnail": "https://i.ytimg.com/vi/07j9NsoXIAk/hqdefault.jpg",
+      "status": "reviewed",
+      "format": "forum",
+      "questions": 28,
+      "candidates": 11,
+      "races": [
+        "Mayor of Maui County",
+        "Maui County Council – West Maui",
+        "Maui County Council – East Maui",
+        "Maui County Council – Wailuku-Waiheʻe-Waikapū",
+        "Maui County Council – Kahului",
+        "Maui County Council – Makawao-Haʻikū-Pāʻia",
+        "Maui County Council – South Maui"
+      ],
+      "title": "Lahāinā Strong Candidate Forum: General Election | 2026",
+      "dateISO": "2026-10-15",
+      "headline": "Lahaina Strong holds general election forum for Maui mayor and six County Council seats",
+      "in60": "Lahaina Strong held a general election candidate forum outdoors at a Lahaina canoe club site, with a civic media partner and community moderators from local organizations. Each race had its own panel with up to four questions. Candidates had 90 seconds per answer and the mayor had three minutes, with timekeeper lights and no rebuttals or follow-ups. Eleven candidates took part across the Maui County mayor race and six County Council races, several opponents did not attend, and one Upcountry candidate sent a video message. Questions covered fire recovery, housing, water, wildfire and energy resilience, tourism, immigrant access to services, houselessness, development and council independence.",
+      "minutes": 132,
+      "parts": 0,
+      "speakers": 0,
+      "participation": {
+        "residents": 0,
+        "organizations": 0,
+        "officials": 0,
+        "committee_members": 0
+      },
+      "votes": 0,
+      "roomReadings": 0,
+      "openQuestions": 0,
+      "answered": 0,
+      "areas": [
+        "west-maui",
+        "upcountry"
+      ],
+      "issues": [],
+      "moments": 0
+    },
+    {
+      "videoId": "4R8b10Q32S4",
+      "slug": "2026-09-18-west-maui-candidate-forum-general-election-2026",
+      "accent": "#275168",
+      "thumbnail": "https://i.ytimg.com/vi/4R8b10Q32S4/hqdefault.jpg",
+      "status": "reviewed",
+      "format": "forum",
+      "questions": 29,
+      "candidates": 14,
+      "races": [
+        "Maui County Council – East Maui",
+        "Maui County Council – Upcountry",
+        "Maui County Council – Kahului",
+        "Maui County Council – South Maui",
+        "Maui County Council – Wailuku-Waiheʻe-Waikapū",
+        "Maui County Council – West Maui",
+        "Hawaiʻi State House – District 14",
+        "Mayor of Maui County"
+      ],
+      "title": "West Maui Candidate Forum: General Election | 2026",
+      "dateISO": "2026-09-18",
+      "headline": "West Maui Taxpayers Association forum for Maui mayor, County Council and House District 14",
+      "in60": "The West Maui Taxpayers Association held this general election forum at a veterans hall in West Maui, and Akaka carried it live. Candidates came up race by race to answer the moderator's prepared questions, mostly with two-minute limits, followed by audience questions limited to a name and a question. Fourteen candidates took part across six Maui County Council races, Hawaiʻi State House District 14 and Mayor of Maui County. Questions covered disaster preparedness and evacuation routes, water systems, council decorum, the county budget and affordability, housing and Bill 9, homelessness, rebuilding Lahaina's commercial district, surveillance cameras and working across party lines.",
+      "minutes": 155,
+      "parts": 0,
+      "speakers": 0,
+      "participation": {
+        "residents": 0,
+        "organizations": 0,
+        "officials": 0,
+        "committee_members": 0
+      },
+      "votes": 0,
+      "roomReadings": 0,
+      "openQuestions": 0,
+      "answered": 0,
+      "areas": [
+        "west-maui"
+      ],
+      "issues": [],
+      "moments": 0
+    },
+    {
+      "videoId": "TPWD7QIJV1k",
+      "slug": "2026-09-10-kula-community-association-2026-general-election-candidates",
+      "accent": "#6b428a",
+      "thumbnail": "https://i.ytimg.com/vi/TPWD7QIJV1k/hqdefault.jpg",
+      "status": "reviewed",
+      "format": "forum",
+      "questions": 24,
+      "candidates": 14,
+      "races": [
+        "Mayor of Maui County",
+        "Maui County Council – East Maui",
+        "Maui County Council – Wailuku-Waiheʻe-Waikapū",
+        "Maui County Council – Kahului",
+        "Maui County Council – West Maui",
+        "Maui County Council – Makawao-Haʻikū-Pāʻia",
+        "Maui County Council – Upcountry",
+        "Maui County Council – South Maui"
+      ],
+      "title": "Kula Community Association 2026 General Election Candidates Forum",
+      "dateISO": "2026-09-10",
+      "headline": "Kula Community Association forum for Maui County mayor and seven County Council seats",
+      "in60": "The Kula Community Association held a general election candidate forum with a panel for Maui County mayor followed by panels for seven Maui County Council residency seats. Association board members moderated in pairs, and each panel got three questions chosen by a question committee, with three minutes per answer for mayor and two minutes for council. Fourteen candidates took part: two for mayor and twelve for council, while one Wailuku-Waiheʻe-Waikapū candidate and one West Maui candidate did not appear. Questions covered reasons for running and priorities, Upcountry water and county purchase of water systems, property taxes, tourism, food security, invasive species, fire resilience, wastewater, houselessness, infrastructure before development, rural emergency response, traffic and evacuation.",
+      "minutes": 120,
+      "parts": 0,
+      "speakers": 0,
+      "participation": {
+        "residents": 0,
+        "organizations": 0,
+        "officials": 0,
+        "committee_members": 0
+      },
+      "votes": 0,
+      "roomReadings": 0,
+      "openQuestions": 0,
+      "answered": 0,
+      "areas": [
+        "upcountry"
+      ],
+      "issues": [],
+      "moments": 0
+    },
+    {
+      "videoId": "phCG0Ef_K-Y",
+      "slug": "2026-07-29-maui-mayor-candidate-forum-haiku-community-association",
+      "accent": "#3f8d8a",
+      "thumbnail": "https://i.ytimg.com/vi/phCG0Ef_K-Y/hqdefault.jpg",
+      "status": "reviewed",
+      "format": "forum",
+      "questions": 7,
+      "candidates": 9,
+      "races": [
+        "Mayor of Maui County"
+      ],
+      "title": "Maui Mayor Candidate Forum – Haʻikū Community Association (July 29th, 2026)",
+      "dateISO": "2026-07-29",
+      "headline": "Haʻikū Community Association holds forum for Maui County mayor candidates",
+      "in60": "The Haʻikū Community Association held a forum for candidates for Mayor of Maui County at its community center in Haʻikū, ahead of the August 8 primary. Nine candidates took part, seated at two tables, with 90-second opening statements, one-minute answers kept by a timekeeper, and turns going back and forth between the tables. The moderators said the questions came from across the community. They covered water access for Haʻikū families, speed tables on Haʻikū roads, control of East Maui ditch water, funding for the invasive species program MISC, a Haʻikū fire station, and help for owners converting cesspools to septic systems.",
+      "minutes": 83,
+      "parts": 0,
+      "speakers": 0,
+      "participation": {
+        "residents": 0,
+        "organizations": 0,
+        "officials": 0,
+        "committee_members": 0
+      },
+      "votes": 0,
+      "roomReadings": 0,
+      "openQuestions": 0,
+      "answered": 0,
+      "areas": [
+        "north-shore"
+      ],
+      "issues": [],
+      "moments": 0
+    },
+    {
+      "videoId": "t3vhUKOCyB8",
+      "slug": "2026-07-28-kca-council-candidates-forum-housing-water-and-bill-9-kihei",
+      "accent": "#0f7dbd",
+      "thumbnail": "https://i.ytimg.com/vi/t3vhUKOCyB8/hqdefault.jpg",
+      "status": "reviewed",
+      "format": "forum",
+      "questions": 17,
+      "candidates": 9,
+      "races": [
+        "Maui County Council – Kahului",
+        "Maui County Council – Wailuku-Waiheʻe-Waikapū",
+        "Maui County Council – Upcountry"
+      ],
+      "title": "KCA Council Candidates Forum: Housing, Water & Bill 9 | Kihei",
+      "dateISO": "2026-07-28",
+      "headline": "Kīhei Community Association forum: Kahului, Wailuku and Upcountry council races",
+      "in60": "The Kīhei Community Association held a Maui County Council candidate forum in Kīhei ahead of the August 8 primary. Candidates came up in three district groups, each giving a two-minute opening statement and then answering questions in about two minutes each, with a timekeeper and no audience Q&A. Nine candidates took part: two for the Kahului seat, five for Wailuku-Waiheʻe-Waikapū and two for Upcountry. Questions covered housing affordability, flooding and runoff, reef protection, homelessness, tourism revenue, Bill 9 on short-term rentals, South Maui water supply and county reform.",
+      "minutes": 98,
+      "parts": 0,
+      "speakers": 0,
+      "participation": {
+        "residents": 0,
+        "organizations": 0,
+        "officials": 0,
+        "committee_members": 0
+      },
+      "votes": 0,
+      "roomReadings": 0,
+      "openQuestions": 0,
+      "answered": 0,
+      "areas": [
+        "south-maui"
+      ],
+      "issues": [],
+      "moments": 0
+    },
+    {
+      "videoId": "pkMuU3kDq4o",
+      "slug": "2026-06-27-2026-west-maui-taxpayers-association-candidate-forum",
+      "accent": "#126bba",
+      "thumbnail": "https://i.ytimg.com/vi/pkMuU3kDq4o/hqdefault.jpg",
+      "status": "reviewed",
+      "format": "forum",
+      "questions": 5,
+      "candidates": 20,
+      "races": [
+        "Hawaiʻi State House – District 14",
+        "Mayor of Maui County",
+        "Maui County Council – Upcountry",
+        "Maui County Council – Kahului",
+        "Maui County Council – Wailuku-Waiheʻe-Waikapū"
+      ],
+      "title": "2026 West Maui Taxpayers Association Candidate Forum",
+      "dateISO": "2026-06-27",
+      "headline": "West Maui Taxpayers Association forum: State House 14, Maui mayor and three council races",
+      "in60": "The West Maui Taxpayers Association held a forum for primary election candidates. Each candidate gave a timed statement of three minutes, or four minutes for the Upcountry and Kahului council candidates, with no live question-and-answer period. Audience members wrote questions on a whiteboard for candidates to photograph and answer later. Twenty candidates took part: five for State House District 14, seven for Maui County mayor, and two, two and four for the Upcountry, Kahului and Wailuku-Waiheʻe-Waikapū council seats. Statements covered Lahaina recovery, housing, affordability, water, short-term rentals and Bill 9, public safety and campaign money.",
+      "minutes": 86,
+      "parts": 0,
+      "speakers": 0,
+      "participation": {
+        "residents": 0,
+        "organizations": 0,
+        "officials": 0,
+        "committee_members": 0
+      },
+      "votes": 0,
+      "roomReadings": 0,
+      "openQuestions": 0,
+      "answered": 0,
+      "areas": [
+        "west-maui"
+      ],
+      "issues": [],
+      "moments": 0
+    },
+    {
+      "videoId": "AlMrzpVymWE",
+      "slug": "2026-06-18-maui-mayoral-candidates-forum-housing-bill-9-and-lahaina",
+      "accent": "#156cb7",
+      "thumbnail": "https://i.ytimg.com/vi/AlMrzpVymWE/hqdefault.jpg",
+      "status": "reviewed",
+      "format": "forum",
+      "questions": 13,
+      "candidates": 9,
+      "races": [
+        "Mayor of Maui County"
+      ],
+      "title": "Maui Mayoral Candidates Forum: Housing, Bill 9 & Lahaina Recovery",
+      "dateISO": "2026-06-18",
+      "headline": "Kīhei Community Association holds forum for Maui County mayor candidates",
+      "in60": "The Kīhei Community Association held this forum for Maui County mayor candidates at ProArts, before the August 8 primary. Nine of the 10 mayoral candidates took part. Candidates drew numbers for order and each gave an opening statement of about two minutes, then answered questions in three groups of three with about two minutes per answer. There were no audience questions. Questions covered housing affordability, why each wants to be mayor, traffic, flooding, Bill 9, water supply, county reform, houselessness, evacuation routes, reef pollution and a highway crossing near a high school.",
+      "minutes": 105,
+      "parts": 0,
+      "speakers": 0,
+      "participation": {
+        "residents": 0,
+        "organizations": 0,
+        "officials": 0,
+        "committee_members": 0
+      },
+      "votes": 0,
+      "roomReadings": 0,
+      "openQuestions": 0,
+      "answered": 0,
+      "areas": [
+        "west-maui"
+      ],
+      "issues": [],
+      "moments": 0
+    },
+    {
       "videoId": "4Q_kYCC0yMw",
       "slug": "2024-12-03-dept-of-health-molokai-town-hall",
       "accent": "#bd6e0f",
       "thumbnail": "https://i.ytimg.com/vi/4Q_kYCC0yMw/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "Dept. of Health Molokai Town Hall Meeting: December 3, 2024",
       "dateISO": "2024-12-03",
       "headline": "State pilot to fly Molokaʻi patients and doctors for non-emergency care",
@@ -59,6 +336,7 @@
       "accent": "#684532",
       "thumbnail": "https://i.ytimg.com/vi/1eqgL4KYGwU/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "Kula Community Meeting: Fire Preparedness July 23, 2024",
       "dateISO": "2024-07-23",
       "headline": "Kula meeting reviews Crater Road fire response, evacuation alerts and Upcountry water",
@@ -94,6 +372,7 @@
       "accent": "#aa6822",
       "thumbnail": "https://i.ytimg.com/vi/OXzFs-r67NA/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "Molokai Town Hall Meeting: June 26, 2024",
       "dateISO": "2024-06-26",
       "headline": "Molokaʻi town hall weighs sites for a new County public cemetery",
@@ -125,6 +404,7 @@
       "accent": "#917a3b",
       "thumbnail": "https://i.ytimg.com/vi/-DdmFETaPMM/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "Lahaina Disaster Recovery Update Meeting: March 13, 2024",
       "dateISO": "2024-03-13",
       "headline": "Lahaina debris cleanup, water and sewer testing, and landfill land vote update",
@@ -156,6 +436,7 @@
       "accent": "#887042",
       "thumbnail": "https://i.ytimg.com/vi/tuh7ycL5AqM/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "Lahaina Disaster Recovery Update Meeting: March 6, 2024",
       "dateISO": "2024-03-06",
       "headline": "Lahaina recovery update: mental health help, interim housing and Wahikuli water",
@@ -187,6 +468,7 @@
       "accent": "#3a4b85",
       "thumbnail": "https://i.ytimg.com/vi/Uj0Tugn8wFw/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "Upcountry Community Meeting on Hazard Mitigation & Recovery: February 29, 2024",
       "dateISO": "2024-02-29",
       "headline": "Upcountry meeting on wildfire prevention, Firewise and Kula burn scar recovery",
@@ -219,6 +501,7 @@
       "accent": "#0f6cbd",
       "thumbnail": "https://i.ytimg.com/vi/eiqG5W7BGpY/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "Molokai History Project - Mid Nite Inn: Talk Story with John & Philip Kikukawa",
       "dateISO": "2024-02-24",
       "headline": "Molokaʻi talk story recalls the Midnight Inn and plantation-era island life",
@@ -250,6 +533,7 @@
       "accent": "#2c58a0",
       "thumbnail": "https://i.ytimg.com/vi/_VbAKrfK5-s/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "Lahaina Disaster Recovery Update Meeting: February 21, 2024",
       "dateISO": "2024-02-21",
       "headline": "Lahaina recovery update: debris removal, cesspool guidance and disposal site survey",
@@ -283,6 +567,7 @@
       "accent": "#0c4295",
       "thumbnail": "https://i.ytimg.com/vi/NgjqfZyf-cg/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "Kula Disaster Recovery Update Meeting: January 31, 2024",
       "dateISO": "2024-01-31",
       "headline": "Kula fire recovery: debris removal done, survey results shared, insurance questions",
@@ -314,6 +599,7 @@
       "accent": "#0f589d",
       "thumbnail": "https://i.ytimg.com/vi/BRBfJRbA_jU/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "Hana, Maui County Water Dept. of Water Supply Conservation Plan Community Meeting: January 25, 2024",
       "dateISO": "2024-01-25",
       "headline": "Water Supply seeks Hāna feedback on countywide water conservation plan",
@@ -346,6 +632,7 @@
       "accent": "#3d518c",
       "thumbnail": "https://i.ytimg.com/vi/Pcry7-Bpzfw/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "Lahaina Disaster Recovery Update Meeting: January 24, 2024",
       "dateISO": "2024-01-24",
       "headline": "Lahaina recovery update: debris removal, expedited permits, housing and sewer",
@@ -379,6 +666,7 @@
       "accent": "#2e5760",
       "thumbnail": "https://i.ytimg.com/vi/Js4JdVaJyc0/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "Kula Disaster Recovery Update Meeting: January 23, 2024",
       "dateISO": "2024-01-23",
       "headline": "Kula debris cleanup finished; residents press on leftover debris and insurance",
@@ -408,6 +696,7 @@
       "accent": "#53602e",
       "thumbnail": "https://i.ytimg.com/vi/vTgXxcJQPwA/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "Lahaina Disaster Recovery Update Meeting: January 17, 2024",
       "dateISO": "2024-01-17",
       "headline": "Lahaina debris removal begins as agencies update sewer, water, air and permits",
@@ -439,6 +728,7 @@
       "accent": "#675632",
       "thumbnail": "https://i.ytimg.com/vi/Dn_NML8t4wg/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "Lahaina Disaster Recovery Update Meeting of January 10, 2024",
       "dateISO": "2024-01-10",
       "headline": "Lahaina recovery update: debris removal start, checkpoints, housing and new recovery office",
@@ -471,6 +761,7 @@
       "accent": "#3e6d81",
       "thumbnail": "https://i.ytimg.com/vi/YnG1F_VmTeE/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "Kula Disaster Recovery Update Meeting: December 19, 2023",
       "dateISO": "2023-12-19",
       "headline": "Kula wildfire recovery update: debris nearly done, lead worries, insurance and housing",
@@ -505,6 +796,7 @@
       "accent": "#775f32",
       "thumbnail": "https://i.ytimg.com/vi/YFLMwRW1Bu0/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "Debris Disposal Meeting at Lahaina Civic Center: December 18, 2023",
       "dateISO": "2023-12-18",
       "headline": "Lahaina wildfire debris removal plan and search for a permanent ash disposal site",
@@ -534,6 +826,7 @@
       "accent": "#818a42",
       "thumbnail": "https://i.ytimg.com/vi/Ms5j_Ga0EGg/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "Lahaina Disaster Recovery Update Meeting: December 13, 2023",
       "dateISO": "2023-12-13",
       "headline": "Lahaina weekly recovery update: debris removal sign-ups, rebuild permits, housing and ash",
@@ -565,6 +858,7 @@
       "accent": "#2d5362",
       "thumbnail": "https://i.ytimg.com/vi/_AlZIX9Z6JE/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "Kula Disaster Recovery Update Meeting: December 12, 2023",
       "dateISO": "2023-12-12",
       "headline": "Kula fire recovery update: debris removal, rebuild permits, lead and air testing",
@@ -594,6 +888,7 @@
       "accent": "#8e3e47",
       "thumbnail": "https://i.ytimg.com/vi/4bfNvnqBrwc/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "Lahaina Disaster Recovery Update Meeting: December 6, 2023",
       "dateISO": "2023-12-06",
       "headline": "Lahaina recovery update: housing, debris removal timeline, temporary school and loans",
@@ -623,6 +918,7 @@
       "accent": "#2e5460",
       "thumbnail": "https://i.ytimg.com/vi/evdod711Zmo/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "Kula Disaster Recovery Update Meeting: December 5, 2023",
       "dateISO": "2023-12-05",
       "headline": "Kula fire recovery update: debris cleanup, soil rescrapes, lead screening, test results",
@@ -652,6 +948,7 @@
       "accent": "#42528a",
       "thumbnail": "https://i.ytimg.com/vi/TOdgpF-O49c/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "Kula Disaster Recovery Update Meeting of November 16, 2023",
       "dateISO": "2023-11-16",
       "headline": "Kula fire debris cleanup, air and soil testing worries, and Upcountry water",
@@ -683,6 +980,7 @@
       "accent": "#2e3a60",
       "thumbnail": "https://i.ytimg.com/vi/vcvmmWhbZro/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "Disaster Recovery Community Update Meeting #2 at Lahaina Civic Center: November 15, 2023",
       "dateISO": "2023-11-15",
       "headline": "Lahaina recovery update on water, wastewater, air quality, debris and housing",
@@ -714,6 +1012,7 @@
       "accent": "#23774e",
       "thumbnail": "https://i.ytimg.com/vi/_nlcVTlvHj0/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "Disaster Recovery Community Update Meeting #1 at Lahaina Civic Center: November 8, 2023",
       "dateISO": "2023-11-08",
       "headline": "First weekly Lahaina fire recovery update covers reentry, cleanup, insurance and housing",
@@ -745,6 +1044,7 @@
       "accent": "#14307b",
       "thumbnail": "https://i.ytimg.com/vi/_BFktstxBSM/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "We Are South Maui CPAC Meeting of October 23, 2023",
       "dateISO": "2023-10-23",
       "headline": "South Maui plan advisory group falls short of votes to send plan on, recesses",
@@ -777,6 +1077,7 @@
       "accent": "#8a5f42",
       "thumbnail": "https://i.ytimg.com/vi/iEvMvlI_05w/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "We Are South Maui CPAC Meeting of October 16, 2023",
       "dateISO": "2023-10-16",
       "headline": "South Maui plan committee revisits land use maps for Kīhei, Wailea and Mākena",
@@ -809,6 +1110,7 @@
       "accent": "#8a6842",
       "thumbnail": "https://i.ytimg.com/vi/6h09nOok8Jg/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "CPAC 230920",
       "dateISO": "2023-09-20",
       "headline": "South Maui plan committee pauses meetings until virtual testimony returns",
@@ -841,6 +1143,7 @@
       "accent": "#6b3f8d",
       "thumbnail": "https://i.ytimg.com/vi/ycvYPoiAfJ8/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "We Are South Maui: Community Plan Advisory Committee Meeting of April 26, 2023",
       "dateISO": "2023-04-26",
       "headline": "South Maui plan committee reviews land use categories and sets Māʻalaea map designations",
@@ -873,6 +1176,7 @@
       "accent": "#8d663f",
       "thumbnail": "https://i.ytimg.com/vi/XXsVVLXd8vk/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "We Are South Maui: Community Plan Advisory Committee Meeting of April 12, 2023",
       "dateISO": "2023-04-12",
       "headline": "South Maui plan committee finishes policy review and ranks every plan action",
@@ -904,6 +1208,7 @@
       "accent": "#9d972f",
       "thumbnail": "https://i.ytimg.com/vi/ZhnYySqZlpw/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "We Are South Maui: Community Plan Advisory Committee Meeting of March 15, 2023",
       "dateISO": "2023-03-15",
       "headline": "South Maui plan committee finishes resiliency actions and revises wetland purchase goal",
@@ -937,6 +1242,7 @@
       "accent": "#bcb810",
       "thumbnail": "https://i.ytimg.com/vi/IZirMMY0G7o/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "We Are South Maui: Community Plan Advisory Committee Meeting of March 8, 2023",
       "dateISO": "2023-03-08",
       "headline": "South Maui plan committee adopts watershed, flood, wastewater and cesspool actions",
@@ -971,6 +1277,7 @@
       "accent": "#8c5a40",
       "thumbnail": "https://i.ytimg.com/vi/ipMVZxROPr8/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "We Are South Maui: Community Plan Advisory Committee Meeting of February 22, 2023",
       "dateISO": "2023-02-22",
       "headline": "South Maui plan advisory committee adopts watershed, wetland and dune actions",
@@ -1002,6 +1309,7 @@
       "accent": "#8b4d41",
       "thumbnail": "https://i.ytimg.com/vi/kz9L3pPPsXA/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "We Are South Maui: Community Plan Advisory Committee Meeting of January 25th (fixed)",
       "dateISO": "2023-01-25",
       "headline": "South Maui plan committee adopts four watershed policies, stalls on gulch setbacks",
@@ -1034,6 +1342,7 @@
       "accent": "#2477a8",
       "thumbnail": "https://i.ytimg.com/vi/Xx6Al1eD5gQ/hqdefault.jpg",
       "status": "reviewed",
+      "format": "meeting",
       "title": "Council Member Kelly King Town Hall with Lt. Governor Josh Green: February 23, 2021",
       "dateISO": "2021-02-23",
       "headline": "COVID-19 town hall on Maui vaccine rollout, case trends and mask use",
@@ -1060,7 +1369,7 @@
   ],
   "askedAgain": [
     {
-      "label": "When Wahikuli will get County sewer service",
+      "label": "Sewer service for Wahikuli homes",
       "meetings": [
         "2023-11-15-disaster-recovery-community-update-2-at-lahaina-civic-center",
         "2023-12-06-lahaina-disaster-recovery-update",
@@ -1073,7 +1382,7 @@
       "to": "2024-03-06"
     },
     {
-      "label": "Location of the permanent Lahaina fire debris disposal site",
+      "label": "Permanent disposal site for Lahaina fire debris",
       "meetings": [
         "2023-11-08-disaster-recovery-community-update-1-at-lahaina-civic-center",
         "2023-12-13-lahaina-disaster-recovery-update",
@@ -1085,7 +1394,18 @@
       "to": "2024-02-21"
     },
     {
-      "label": "Soil testing and cleanup for unburned neighbors of Kula burned lots",
+      "label": "When Lahaina owners can rebuild and get permits",
+      "meetings": [
+        "2023-12-18-debris-disposal-at-lahaina-civic-center",
+        "2024-01-24-lahaina-disaster-recovery-update",
+        "2024-02-21-lahaina-disaster-recovery-update",
+        "2024-03-13-lahaina-disaster-recovery-update"
+      ],
+      "from": "2023-12-18",
+      "to": "2024-03-13"
+    },
+    {
+      "label": "Testing and cleanup help for neighbors of burned Kula lots",
       "meetings": [
         "2023-11-16-kula-disaster-recovery-update",
         "2023-12-05-kula-disaster-recovery-update",
@@ -1096,7 +1416,7 @@
       "to": "2023-12-19"
     },
     {
-      "label": "Blood, lead and exposure testing for Kula residents",
+      "label": "Blood and exposure testing for Kula residents",
       "meetings": [
         "2023-11-16-kula-disaster-recovery-update",
         "2023-12-05-kula-disaster-recovery-update",
@@ -1107,7 +1427,7 @@
       "to": "2023-12-19"
     },
     {
-      "label": "Backup generators for Upcountry water pump stations",
+      "label": "Backup generators for Upcountry water pumps",
       "meetings": [
         "2023-11-16-kula-disaster-recovery-update",
         "2024-02-29-upcountry-community-on-hazard-mitigation-and-recovery",
@@ -1117,17 +1437,7 @@
       "to": "2024-07-23"
     },
     {
-      "label": "When Lahaina owners can rebuild after debris removal",
-      "meetings": [
-        "2023-12-18-debris-disposal-at-lahaina-civic-center",
-        "2024-02-21-lahaina-disaster-recovery-update",
-        "2024-03-13-lahaina-disaster-recovery-update"
-      ],
-      "from": "2023-12-18",
-      "to": "2024-03-13"
-    },
-    {
-      "label": "Community mental health planning after disasters",
+      "label": "Community mental health after disasters",
       "meetings": [
         "2024-02-21-lahaina-disaster-recovery-update",
         "2024-02-29-upcountry-community-on-hazard-mitigation-and-recovery",
@@ -1137,7 +1447,7 @@
       "to": "2024-03-06"
     },
     {
-      "label": "Extending insurance additional living expenses for fire survivors",
+      "label": "Insurance additional living expense coverage for fire survivors",
       "meetings": [
         "2023-12-12-kula-disaster-recovery-update",
         "2023-12-19-kula-disaster-recovery-update",
@@ -1147,17 +1457,7 @@
       "to": "2024-01-23"
     },
     {
-      "label": "South Maui water conservation and hotel water use",
-      "meetings": [
-        "2023-01-25-we-are-south-maui-community-plan-advisory-committee",
-        "2023-04-26-we-are-south-maui-community-plan-advisory-committee",
-        "2023-10-23-we-are-south-maui-cpac"
-      ],
-      "from": "2023-01-25",
-      "to": "2023-10-23"
-    },
-    {
-      "label": "Extending the South Maui CPAC review deadline",
+      "label": "Extending the South Maui plan review deadline",
       "meetings": [
         "2023-09-20-cpac",
         "2023-10-16-we-are-south-maui-cpac",
@@ -1167,7 +1467,17 @@
       "to": "2023-10-23"
     },
     {
-      "label": "Virtual access and testimony for CPAC meetings",
+      "label": "Water conservation in South Maui",
+      "meetings": [
+        "2023-01-25-we-are-south-maui-community-plan-advisory-committee",
+        "2023-04-26-we-are-south-maui-community-plan-advisory-committee",
+        "2023-10-23-we-are-south-maui-cpac"
+      ],
+      "from": "2023-01-25",
+      "to": "2023-10-23"
+    },
+    {
+      "label": "Virtual or live-streamed South Maui committee meetings",
       "meetings": [
         "2023-01-25-we-are-south-maui-community-plan-advisory-committee",
         "2023-03-08-we-are-south-maui-community-plan-advisory-committee",
@@ -1187,7 +1497,7 @@
       "to": "2023-03-08"
     },
     {
-      "label": "Ungulate fencing and riparian restoration mauka of South Maui",
+      "label": "Fencing feral ungulates and restoring riparian areas",
       "meetings": [
         "2023-01-25-we-are-south-maui-community-plan-advisory-committee",
         "2023-02-22-we-are-south-maui-community-plan-advisory-committee",
@@ -1197,7 +1507,7 @@
       "to": "2023-03-08"
     },
     {
-      "label": "Passenger ferry service for Molokaʻi",
+      "label": "Ferry service for Molokaʻi",
       "meetings": [
         "2024-02-24-molokai-history-project-mid-nite-inn-talk-story-with-john",
         "2024-12-03-dept-of-health-molokai-town-hall"
@@ -1206,7 +1516,7 @@
       "to": "2024-12-03"
     },
     {
-      "label": "Overgrown absentee and vacant land as Upcountry fire hazard",
+      "label": "Overgrown vacant or absentee-owned land as fire hazard",
       "meetings": [
         "2024-02-29-upcountry-community-on-hazard-mitigation-and-recovery",
         "2024-07-23-kula-community-fire-preparedness"
@@ -1224,7 +1534,25 @@
       "to": "2024-07-23"
     },
     {
-      "label": "Green waste drop-off facility for Kula and Upcountry",
+      "label": "Lahaina water testing and service clearance delays",
+      "meetings": [
+        "2024-03-06-lahaina-disaster-recovery-update",
+        "2024-03-13-lahaina-disaster-recovery-update"
+      ],
+      "from": "2024-03-06",
+      "to": "2024-03-13"
+    },
+    {
+      "label": "Restoring sewer service to Lahaina burn zone homes",
+      "meetings": [
+        "2023-12-06-lahaina-disaster-recovery-update",
+        "2024-03-13-lahaina-disaster-recovery-update"
+      ],
+      "from": "2023-12-06",
+      "to": "2024-03-13"
+    },
+    {
+      "label": "Green waste drop-off site for Kula and Upcountry",
       "meetings": [
         "2024-01-31-kula-disaster-recovery-update",
         "2024-02-29-upcountry-community-on-hazard-mitigation-and-recovery"
@@ -1233,7 +1561,7 @@
       "to": "2024-02-29"
     },
     {
-      "label": "Order and timing of Lahaina debris removal by property",
+      "label": "Order and queue of Lahaina debris removal",
       "meetings": [
         "2023-12-18-debris-disposal-at-lahaina-civic-center",
         "2024-02-21-lahaina-disaster-recovery-update"
@@ -1242,7 +1570,16 @@
       "to": "2024-02-21"
     },
     {
-      "label": "Cleanup of Kula debris outside home footprints and on vacant lots",
+      "label": "Bioremediation and alternatives for fire ash",
+      "meetings": [
+        "2023-12-18-debris-disposal-at-lahaina-civic-center",
+        "2024-02-21-lahaina-disaster-recovery-update"
+      ],
+      "from": "2023-12-18",
+      "to": "2024-02-21"
+    },
+    {
+      "label": "Kula debris outside home footprints and on vacant lots",
       "meetings": [
         "2024-01-23-kula-disaster-recovery-update",
         "2024-01-31-kula-disaster-recovery-update"
@@ -1251,7 +1588,7 @@
       "to": "2024-01-31"
     },
     {
-      "label": "How homeowner insurance debris removal money is collected",
+      "label": "Homeowner insurance debris removal payments to government",
       "meetings": [
         "2023-11-15-disaster-recovery-community-update-2-at-lahaina-civic-center",
         "2024-01-31-kula-disaster-recovery-update"
@@ -1260,7 +1597,16 @@
       "to": "2024-01-31"
     },
     {
-      "label": "Approval-by-default emergency rebuild permit provision",
+      "label": "Access to Kula soil sample results",
+      "meetings": [
+        "2023-12-05-kula-disaster-recovery-update",
+        "2024-01-31-kula-disaster-recovery-update"
+      ],
+      "from": "2023-12-05",
+      "to": "2024-01-31"
+    },
+    {
+      "label": "Approval-by-default emergency building permit provision",
       "meetings": [
         "2023-12-12-kula-disaster-recovery-update",
         "2024-01-24-lahaina-disaster-recovery-update"
@@ -1269,7 +1615,7 @@
       "to": "2024-01-24"
     },
     {
-      "label": "Landlords ending leases to rent to FEMA programs",
+      "label": "Landlords ending tenant leases for FEMA rentals",
       "meetings": [
         "2024-01-17-lahaina-disaster-recovery-update",
         "2024-01-24-lahaina-disaster-recovery-update"
@@ -1278,25 +1624,7 @@
       "to": "2024-01-24"
     },
     {
-      "label": "Next steps and timing for Kula rebuild permits",
-      "meetings": [
-        "2023-12-05-kula-disaster-recovery-update",
-        "2024-01-23-kula-disaster-recovery-update"
-      ],
-      "from": "2023-12-05",
-      "to": "2024-01-23"
-    },
-    {
-      "label": "Olowalu debris site authorization and transfer",
-      "meetings": [
-        "2023-12-06-lahaina-disaster-recovery-update",
-        "2023-12-18-debris-disposal-at-lahaina-civic-center"
-      ],
-      "from": "2023-12-06",
-      "to": "2023-12-18"
-    },
-    {
-      "label": "Kula air quality monitoring and public posting of results",
+      "label": "Public air quality monitoring and posting of results",
       "meetings": [
         "2023-11-16-kula-disaster-recovery-update",
         "2023-12-05-kula-disaster-recovery-update"
@@ -1305,7 +1633,16 @@
       "to": "2023-12-05"
     },
     {
-      "label": "Mauka road or bypass parallel to Pi’ilani Highway",
+      "label": "Advance notice of Kula lot cleanup schedules",
+      "meetings": [
+        "2023-11-16-kula-disaster-recovery-update",
+        "2023-12-05-kula-disaster-recovery-update"
+      ],
+      "from": "2023-11-16",
+      "to": "2023-12-05"
+    },
+    {
+      "label": "Mauka road parallel to Pi’ilani Highway",
       "meetings": [
         "2023-09-20-cpac",
         "2023-10-16-we-are-south-maui-cpac"
@@ -1323,7 +1660,7 @@
       "to": "2023-10-16"
     },
     {
-      "label": "Opening locked private roads and gates for emergency evacuation",
+      "label": "Opening gated private roads for emergency evacuation",
       "meetings": [
         "2023-03-15-we-are-south-maui-community-plan-advisory-committee",
         "2023-09-20-cpac"
@@ -1332,7 +1669,7 @@
       "to": "2023-09-20"
     },
     {
-      "label": "Funding the Māʻalaea regional wastewater plant",
+      "label": "Funding a Māʻalaea wastewater plant",
       "meetings": [
         "2023-03-08-we-are-south-maui-community-plan-advisory-committee",
         "2023-04-26-we-are-south-maui-community-plan-advisory-committee"
@@ -1341,7 +1678,7 @@
       "to": "2023-04-26"
     },
     {
-      "label": "Protecting and acquiring North Kīhei wetlands",
+      "label": "Protecting, mapping and acquiring South Maui wetlands",
       "meetings": [
         "2023-01-25-we-are-south-maui-community-plan-advisory-committee",
         "2023-03-15-we-are-south-maui-community-plan-advisory-committee"
@@ -1350,7 +1687,7 @@
       "to": "2023-03-15"
     },
     {
-      "label": "Flooding along Waipuʻilani and Kūlanihākoʻi gulches",
+      "label": "Flooding at Kūlanihākoʻi and Waipuʻilani gulches",
       "meetings": [
         "2023-02-22-we-are-south-maui-community-plan-advisory-committee",
         "2023-03-08-we-are-south-maui-community-plan-advisory-committee"
