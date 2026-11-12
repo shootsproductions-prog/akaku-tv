@@ -1,0 +1,234 @@
+{
+  "videoId": "MJiHCk91Gwo",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-21T18:26:44.451Z",
+  "meetingDateISO": "2025-11-07",
+  "source": {
+    "youtubeUrl": "https://youtu.be/MJiHCk91Gwo"
+  },
+  "headline": "Council adopts hazard plan, advances Front Street rebuild and accessory dwelling bills",
+  "topics": [
+    "Water",
+    "Housing",
+    "Disaster Recovery"
+  ],
+  "meeting": {
+    "id": "MJiHCk91Gwo",
+    "mon": "Nov",
+    "day": "7",
+    "date": "Fri, Nov 7, 2025",
+    "body": "Maui County Council Meeting",
+    "dur": "2 h 46 m",
+    "voteCount": 1,
+    "voteItem": "Resolution 25-203 (referring a bill on accessory dwellings to the planning commissions)",
+    "ayes": 8,
+    "noes": 0,
+    "summary": "The council adopted an updated Hazard Mitigation Plan and sent the accessory dwelling bill to the Lānaʻi, Maui and Molokaʻi Planning Commissions. An enterprise zone vote tied, and the vice chair said she will work on that item again.",
+    "recap": "A council member led a moment of silence for a community member who died.[[0:06:23]] The first vote on both resolutions tied, four ayes to four noes.[[1:34:05]] The council adopted an updated Hazard Mitigation Plan, eight ayes to zero.[[1:38:19]] Bill 110 exempts some fire-damaged Front Street properties from having to improve public streets when they rebuild.[[1:41:53]] That change passed, eight ayes to zero.[[1:45:15]] Bill 156, on replacing disaster-damaged awnings, passed first reading eight to zero.[[1:52:03]] The council voted eight to zero to send a bill allowing two accessory dwellings (extra homes) per lot to planning commissions.[[2:04:24]] The council backed a $17 million infrastructure loan request for the Waikapū Country Town project, eight to zero.[[2:27:34]] Eight budget and bond bills passed final reading, eight ayes to zero.[[2:39:29]]",
+    "decided": [
+      "The council sent the accessory dwelling bill to the Lānaʻi, Maui and Molokaʻi Planning Commissions."
+    ],
+    "next": "The vice chair said she will work with a council member to answer her questions and work on the enterprise zone item again. The emergency management administrator committed to producing a final corrected version of the hazard plan. The planning commissions can begin reviewing the accessory dwelling bill, and the Planning Department can prepare a report.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:06:38",
+        "q": "Moment of silence"
+      },
+      {
+        "t": "0:18:05",
+        "q": "Kamehameha Schools students begin testimony"
+      },
+      {
+        "t": "1:34:05",
+        "q": "Enterprise zone vote ties 4–4"
+      },
+      {
+        "t": "2:26:06",
+        "q": "\"Eight ayes, zero nos, it's unanimous.\""
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "allowing-two-accessory-homes-per-residential-lot",
+        "title": "Allowing two accessory homes per residential lot"
+      },
+      {
+        "slug": "waikapu-country-town-development-approvals",
+        "title": "Waikapū Country Town development approvals"
+      },
+      {
+        "slug": "bill-110-street-improvement-exemption-for-front-street-rebui",
+        "title": "Bill 110 street improvement exemption for Front Street rebuilds"
+      },
+      {
+        "slug": "enterprise-zones-including-proposed-napili-zone",
+        "title": "Enterprise zones including proposed Nāpili zone"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Maui County Council",
+        "group": "council",
+        "short": []
+      }
+    ],
+    "bills": [
+      "Bill 110 (2025)",
+      "Bill 156 (2025)",
+      "Bill 166 (2025)",
+      "Resolution 25-203"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Water",
+      "since": "Nov 7, 2025",
+      "oneLine": "Bill 166 adds $350,000 for upper Kula water transmission improvements.",
+      "why": "A council member said surface water in West Maui is in a very dire situation.",
+      "deadlines": [],
+      "next": "",
+      "brief": "The $350,000 comes from estimated revenues from licenses and permits for the Department of Water Supply.[[#1]] A council member said two diversions were destroyed in 2018 by Hurricane Olivia.[[#2]]",
+      "timeline": [
+        {
+          "mon": "Nov",
+          "day": "7",
+          "source": "Maui County Council Meeting",
+          "kind": "tv",
+          "title": "Maui County Council Meeting",
+          "note": "Bill 166 adds $350,000 for upper Kula water transmission improvements.",
+          "proof": "2:31:12",
+          "view": {
+            "type": "meeting",
+            "id": "MJiHCk91Gwo"
+          },
+          "seek": "2:31:12"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Meeting · Nov 7",
+          "where": "Meeting video at 2:31:12",
+          "view": {
+            "type": "meeting",
+            "id": "MJiHCk91Gwo"
+          },
+          "seek": "2:31:12"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Meeting · Nov 7",
+          "where": "Meeting video at 2:33:52",
+          "view": {
+            "type": "meeting",
+            "id": "MJiHCk91Gwo"
+          },
+          "seek": "2:33:52"
+        }
+      ]
+    },
+    {
+      "issue": "Housing",
+      "since": "Nov 7, 2025",
+      "oneLine": "The council sent planning commissions a bill to allow at least two accessory dwellings per residential lot.",
+      "why": "A state law, Act 39, requires counties to allow at least two accessory dwellings per residential lot by December 31st, 2026.",
+      "deadlines": [
+        {
+          "d": "December 31st, 2026",
+          "t": "Counties must allow two accessory dwellings per residential lot."
+        }
+      ],
+      "next": "The planning commissions can begin reviewing the bill, and the Planning Department can prepare a report.",
+      "brief": "A policy group testifier said two accessory dwellings per lot would let homeowners add housing for friends or family.[[#1]]",
+      "timeline": [
+        {
+          "mon": "Nov",
+          "day": "7",
+          "source": "Maui County Council Meeting",
+          "kind": "tv",
+          "title": "Maui County Council Meeting",
+          "note": "The council sent planning commissions a bill to allow at least two accessory dwellings per residential lot.",
+          "proof": "0:39:03",
+          "view": {
+            "type": "meeting",
+            "id": "MJiHCk91Gwo"
+          },
+          "seek": "0:39:03"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Meeting · Nov 7",
+          "where": "Meeting video at 0:39:03",
+          "view": {
+            "type": "meeting",
+            "id": "MJiHCk91Gwo"
+          },
+          "seek": "0:39:03"
+        }
+      ]
+    },
+    {
+      "issue": "Disaster Recovery",
+      "since": "Nov 7, 2025",
+      "oneLine": "The council advanced Bill 110 to ease rebuilding rules for fire-damaged Front Street properties.",
+      "why": "A council member said Bill 110 gives targeted relief to owners whose buildings the August 2023 wildfires destroyed or badly damaged.",
+      "deadlines": [],
+      "next": "",
+      "brief": "A property manager testified that street improvement requirements are a costly barrier for owners trying to rebuild.[[#1]] An amendment extended the exemption to three properties just north of Baker Street.[[#2]] Bill 156 lets owners replace awnings, canopies and signs over the public right of way that a declared disaster damaged.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Nov",
+          "day": "7",
+          "source": "Maui County Council Meeting",
+          "kind": "tv",
+          "title": "Maui County Council Meeting",
+          "note": "The council advanced Bill 110 to ease rebuilding rules for fire-damaged Front Street properties.",
+          "proof": "0:57:02",
+          "view": {
+            "type": "meeting",
+            "id": "MJiHCk91Gwo"
+          },
+          "seek": "0:57:02"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Meeting · Nov 7",
+          "where": "Meeting video at 0:57:02",
+          "view": {
+            "type": "meeting",
+            "id": "MJiHCk91Gwo"
+          },
+          "seek": "0:57:02"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Meeting · Nov 7",
+          "where": "Meeting video at 1:43:14",
+          "view": {
+            "type": "meeting",
+            "id": "MJiHCk91Gwo"
+          },
+          "seek": "1:43:14"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Meeting · Nov 7",
+          "where": "Meeting video at 1:52:03",
+          "view": {
+            "type": "meeting",
+            "id": "MJiHCk91Gwo"
+          },
+          "seek": "1:52:03"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}
