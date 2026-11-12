@@ -1,0 +1,133 @@
+{
+  "videoId": "3DFEGks7SE8",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akaka Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-17T03:44:10.676Z",
+  "meetingDateISO": "2026-04-14",
+  "source": {
+    "youtubeUrl": "https://youtu.be/3DFEGks7SE8"
+  },
+  "headline": "Budget committee takes up police department's fiscal year 2027 budget, closes oral testimony",
+  "topics": [
+    "Water"
+  ],
+  "meeting": {
+    "id": "3DFEGks7SE8",
+    "mon": "Apr",
+    "day": "14",
+    "date": "Tue, Apr 14, 2026",
+    "body": "Maui County Council Budget, Finance, and Economic Development Committee",
+    "dur": "1 h 52 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee reviewed the proposed fiscal year 2027 county budget with the police chief, who cited cuts to patrol cars and $2.8 million in technology contracts. Oral testimony closed; written testimony is still accepted. Next is the Department of Environmental Management.",
+    "recap": "The only item was the proposed fiscal year 2027 county budget.[[0:03:03]] A council member reported that 31 people testified at a budget meeting on Molokaʻi.[[0:03:19]] The police chief asked to complete a real-time operations center that spots problems as they happen.[[0:11:42]] The chief said two patrol dogs are ready to work and two more are in training.[[0:15:29]] A testifier asked the council to fund airborne imaging, called AEM, to map underground fresh water.[[0:23:58]] Public testimony closed, but written testimony is still accepted.[[0:40:04]] The chief said 10 replacement patrol cars were cut from the budget.[[1:17:50]] The chief proposed a five-year pilot to break away from DPS and run the department's own hiring.[[1:23:32]] Police said $2.8 million in technology contracts were cut.[[1:35:56]] The chief said police policy now bars taking part in 287G immigration enforcement.[[1:42:22]] The next meeting will be with the Department of Environmental Management.[[1:48:58]]",
+    "decided": [
+      "The acting chair closed oral public testimony with no objections heard; written testimony is still accepted.",
+      "Members agreed by nodding to limit second-round questions to two minutes each."
+    ],
+    "next": "Council member Paltin agreed to consider taking up the change in police station plans in committee. Police said they will study the Wailuku town foot patrols at the end of two weeks. Members with more questions for the police department were asked to send them to committee staff.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:11:42",
+        "q": "Chief describes the real-time operations center"
+      },
+      {
+        "t": "0:22:21",
+        "q": "Testimony on mapping underground fresh water"
+      },
+      {
+        "t": "1:23:32",
+        "q": "\"Let me break away completely from DPS for five years\""
+      },
+      {
+        "t": "1:42:22",
+        "q": "Chief explains new immigration policy"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "airborne-mapping-of-mauis-underground-fresh-water",
+        "title": "Airborne mapping of Maui's underground fresh water"
+      },
+      {
+        "slug": "police-real-time-operations-center",
+        "title": "Police real-time operations center"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Budget, Finance, and Economic Development Committee",
+        "group": "council",
+        "short": [
+          "BFED"
+        ]
+      }
+    ],
+    "bills": []
+  },
+  "issues": [
+    {
+      "issue": "Water",
+      "since": "Apr 14, 2026",
+      "oneLine": "A testifier asked the council to fund airborne imaging, called AEM, to map underground fresh water.",
+      "why": "The testifier said that without reliable water, no new housing can be built.",
+      "deadlines": [],
+      "next": "",
+      "brief": "The testifier said current groundwater data is too sparse to guide long-term management.[[#1]] The testifier said the imaging and related analysis would cost less than $4 million.[[#2]] The testifier said mapping the whole island at once saves money on helicopter mobilization costs.[[#3]]",
+      "timeline": [
+        {
+          "mon": "Apr",
+          "day": "14",
+          "source": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "kind": "tv",
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee",
+          "note": "A testifier asked the council to fund airborne imaging, called AEM, to map underground fresh water.",
+          "proof": "0:23:39",
+          "view": {
+            "type": "meeting",
+            "id": "3DFEGks7SE8"
+          },
+          "seek": "0:23:39"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 14",
+          "where": "Meeting video at 0:23:39",
+          "view": {
+            "type": "meeting",
+            "id": "3DFEGks7SE8"
+          },
+          "seek": "0:23:39"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 14",
+          "where": "Meeting video at 0:25:41",
+          "view": {
+            "type": "meeting",
+            "id": "3DFEGks7SE8"
+          },
+          "seek": "0:25:41"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Budget, Finance, and Economic Development Committee · Apr 14",
+          "where": "Meeting video at 0:27:57",
+          "view": {
+            "type": "meeting",
+            "id": "3DFEGks7SE8"
+          },
+          "seek": "0:27:57"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}
