@@ -1,0 +1,85 @@
+{
+  "slug": "haiku-stream-water-testing-funding",
+  "title": "Haʻikū stream water testing funding",
+  "summary": "On April 21, a motion carried to add up to $40,000 to environmental protection grants for the Haʻikū Community Association stream testing program. The money was sought by a Haʻikū community group that asked on April 16 to restore $40,000 for a fourth year of stream testing, and a Haʻikū Community Association testifier backed it. Residents had spoken about testing of surface water and streams at a Haʻikū-area meeting on April 6.",
+  "topics": [
+    "water",
+    "environment"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2026-04-06",
+  "lastSeenISO": "2026-04-21",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-13",
+  "timeline": [
+    {
+      "dateISO": "2026-04-21",
+      "text": "Add up to $40,000 to environmental protection grants for the Haʻikū Community Association stream testing program: The motion carried.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iRjah0zHtLw",
+        "ts": "2:08:10",
+        "endTs": "2:09:32",
+        "retrievedISO": "2026-10-17T01:44:37.372Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-16",
+      "text": "A Haʻikū community group asked to restore $40,000 for a fourth year of stream testing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "rOO2eQ7ZFn8",
+        "ts": "1:31:27",
+        "endTs": "1:31:59",
+        "retrievedISO": "2026-10-17T03:04:22.530Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-16",
+      "text": "A Haʻikū Community Association testifier supported restoring $40,000 for Haʻikū stream testing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pwHsiifeFSc",
+        "ts": "1:25:54",
+        "endTs": "1:26:26",
+        "retrievedISO": "2026-10-17T03:02:29.737Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-06",
+      "text": "At a Haʻikū-area community meeting, residents spoke about water testing of surface water and streams.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "YGuzDd85eAQ",
+        "ts": "0:09:12",
+        "endTs": "0:09:42",
+        "retrievedISO": "2026-10-17T04:46:58.271Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

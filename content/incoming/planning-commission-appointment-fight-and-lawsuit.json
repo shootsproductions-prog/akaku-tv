@@ -1,0 +1,44 @@
+{
+  "slug": "planning-commission-appointment-fight-and-lawsuit",
+  "title": "Planning Commission appointment fight and lawsuit",
+  "summary": "On a 5-4 vote, the council rejected a nominee to the Maui Planning Commission. The vote took place at the council's February 21, 2025 meeting.",
+  "topics": [
+    "government",
+    "land-use"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2025-02-21",
+  "lastSeenISO": "2025-02-21",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-13",
+  "timeline": [
+    {
+      "dateISO": "2025-02-21",
+      "text": "On a 5-4 roll call vote, the council rejected a nominee to the Maui Planning Commission.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "suPQ7wemd_I",
+        "ts": "2:58:04",
+        "endTs": "2:59:46",
+        "retrievedISO": "2026-10-22T08:24:43.151Z"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

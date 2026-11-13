@@ -1,0 +1,57 @@
+{
+  "slug": "meo-farmer-microgrant-program",
+  "title": "MEO farmer microgrant program",
+  "summary": "The council changed its agricultural microgrant rules on May 15 to favor farmers who are carrying out the Maui County Food and Nutrition Security Plan 2025–2030. Under the rules, no more than 10% of each microgrant may be used for fencing.",
+  "topics": [
+    "food-security",
+    "economy"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-05-15",
+  "lastSeenISO": "2026-05-15",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-13",
+  "timeline": [
+    {
+      "dateISO": "2026-05-15",
+      "text": "No more than 10% of each microgrant may be used for fencing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "WmlNgIDoTf0",
+        "ts": "2:24:49",
+        "endTs": "2:25:19",
+        "retrievedISO": "2026-10-19T23:24:26.848Z"
+      },
+      "body": "County Council Notice of Public Hearing"
+    },
+    {
+      "dateISO": "2026-05-15",
+      "text": "The council changed agricultural microgrant rules to favor farmers carrying out the Maui County Food and Nutrition Security Plan 2025–2030.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "WmlNgIDoTf0",
+        "ts": "2:23:49",
+        "endTs": "2:24:56",
+        "retrievedISO": "2026-10-19T23:24:26.848Z"
+      },
+      "body": "County Council Notice of Public Hearing"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

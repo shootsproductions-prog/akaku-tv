@@ -1,0 +1,173 @@
+{
+  "slug": "fire-department-input-on-housing-density-bills",
+  "title": "Fire department input on housing density bills",
+  "summary": "Maui's fire department gave safety input to County Council committees on housing proposals, including safe parking lots where people can sleep in vehicles overnight and accessory dwelling rules allowing up to three dwellings per property. In February 2025, a fire captain said officials cannot require extra fire protection when several code-built homes share one lot. In 2024, the fire chief called housing a crisis but warned of density, substandard roads and evacuation safety.",
+  "topics": [
+    "housing",
+    "public-safety"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2024-10-17",
+  "lastSeenISO": "2026-07-16",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-13",
+  "timeline": [
+    {
+      "dateISO": "2026-07-16",
+      "text": "Another proposal on accessory dwellings allows up to three dwellings per property.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "so1BNvpx4nc",
+        "ts": "0:37:07",
+        "endTs": "0:37:37",
+        "retrievedISO": "2026-10-13T06:35:12.699Z"
+      },
+      "body": "Fire Commission"
+    },
+    {
+      "dateISO": "2026-07-16",
+      "text": "One proposal was a program for safe parking lots where people can sleep in their vehicles at night.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "so1BNvpx4nc",
+        "ts": "0:36:57",
+        "endTs": "0:37:27",
+        "retrievedISO": "2026-10-13T06:35:12.699Z"
+      },
+      "body": "Fire Commission"
+    },
+    {
+      "dateISO": "2026-07-16",
+      "text": "The fire department gave safety input to County Council committees on housing-related proposals.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "so1BNvpx4nc",
+        "ts": "0:36:39",
+        "endTs": "0:37:27",
+        "retrievedISO": "2026-10-13T06:35:12.699Z"
+      },
+      "body": "Fire Commission"
+    },
+    {
+      "dateISO": "2025-02-19",
+      "text": "The fire captain said fire officials cannot require extra fire protection when several homes are built on one lot to code.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Rn2tS9VtKOk",
+        "ts": "2:17:21",
+        "endTs": "2:18:01",
+        "retrievedISO": "2026-10-21T19:49:05.300Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2024-10-17",
+      "text": "The fire chief said the department continues to go to meetings with council members on this topic.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Nf0iqQ4qIuA",
+        "ts": "0:31:03",
+        "endTs": "0:31:33",
+        "retrievedISO": "2026-10-15T06:35:41.629Z"
+      },
+      "body": "Fire and Public Safety Commission"
+    },
+    {
+      "dateISO": "2024-10-17",
+      "text": "The fire chief said housing must be safe so people can get out if evacuations are needed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Nf0iqQ4qIuA",
+        "ts": "0:30:49",
+        "endTs": "0:31:19",
+        "retrievedISO": "2026-10-15T06:35:41.629Z"
+      },
+      "body": "Fire and Public Safety Commission"
+    },
+    {
+      "dateISO": "2024-10-17",
+      "text": "The fire chief said many housing ideas add density to crowded neighborhoods with substandard roads.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Nf0iqQ4qIuA",
+        "ts": "0:30:38",
+        "endTs": "0:31:08",
+        "retrievedISO": "2026-10-15T06:35:41.629Z"
+      },
+      "body": "Fire and Public Safety Commission"
+    },
+    {
+      "dateISO": "2024-10-17",
+      "text": "The fire chief said the department is trying to compromise.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Nf0iqQ4qIuA",
+        "ts": "0:30:35",
+        "endTs": "0:31:05",
+        "retrievedISO": "2026-10-15T06:35:41.629Z"
+      },
+      "body": "Fire and Public Safety Commission"
+    },
+    {
+      "dateISO": "2024-10-17",
+      "text": "The fire chief said many housing ideas do not always match fire safety and the fire code.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Nf0iqQ4qIuA",
+        "ts": "0:30:25",
+        "endTs": "0:30:55",
+        "retrievedISO": "2026-10-15T06:35:41.629Z"
+      },
+      "body": "Fire and Public Safety Commission"
+    },
+    {
+      "dateISO": "2024-10-17",
+      "text": "The fire department is speaking up on proposed housing bills and meeting with council members.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Nf0iqQ4qIuA",
+        "ts": "0:30:19",
+        "endTs": "0:31:27",
+        "retrievedISO": "2026-10-15T06:35:41.629Z"
+      },
+      "body": "Fire and Public Safety Commission"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Fire Commission",
+      "group": "board",
+      "short": []
+    },
+    {
+      "name": "Disaster Recovery, International Affairs, and Planning Committee",
+      "group": "council",
+      "short": [
+        "DRIP"
+      ]
+    },
+    {
+      "name": "Fire and Public Safety Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
