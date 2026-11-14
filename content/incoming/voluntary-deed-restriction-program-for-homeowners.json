@@ -1,0 +1,58 @@
+{
+  "slug": "voluntary-deed-restriction-program-for-homeowners",
+  "title": "Voluntary deed restriction program for homeowners",
+  "summary": "On April 21, a motion carried to condition $2 million in the homeowner programs revolving fund for the voluntary deed restriction program. A member said the program should announce its launch soon, after a bill passed on Friday.",
+  "topics": [
+    "housing"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2026-04-21",
+  "lastSeenISO": "2026-04-21",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-14",
+  "timeline": [
+    {
+      "dateISO": "2026-04-21",
+      "text": "Condition $2 million in the homeowner programs revolving fund for the voluntary deed restriction program: The motion carried.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iRjah0zHtLw",
+        "ts": "4:49:56",
+        "endTs": "4:51:25",
+        "retrievedISO": "2026-10-17T01:44:37.372Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "A member said the voluntary deed restriction program should announce its launch soon after a bill passed on Friday.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "8TlgSTvR8EI",
+        "ts": "1:08:32",
+        "endTs": "1:09:02",
+        "retrievedISO": "2026-10-17T02:06:31.130Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
