@@ -1262,6 +1262,19 @@
     },
     {
       "dateISO": "2026-07-01",
+      "text": "Staff are working on a press release to announce the director's retirement.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "qrQsEpbjdgA",
+        "ts": "0:10:31",
+        "retrievedISO": "2026-10-13T06:35:23.239Z",
+        "endTs": "0:11:01"
+      },
+      "body": "Civil Service Commission"
+    },
+    {
+      "dateISO": "2026-07-01",
       "text": "Staff hope to open the job posting for a new Director of Personnel Services tomorrow.",
       "basis": "said-at-meeting",
       "source": {

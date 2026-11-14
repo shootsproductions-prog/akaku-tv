@@ -2178,6 +2178,19 @@
     },
     {
       "dateISO": "2026-08-05",
+      "text": "About a dozen testifiers were still waiting to speak.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dBye-CaAkHE",
+        "ts": "2:26:53",
+        "retrievedISO": "2026-10-16T08:06:26.844Z",
+        "endTs": "2:27:23"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-05",
       "text": "Recess of the meeting: The chair recessed the meeting to August 19, 2026, at 9 a.m., before testimony was finished.",
       "basis": "said-at-meeting",
       "source": {
@@ -2212,6 +2225,19 @@
         "ts": "2:15:15",
         "retrievedISO": "2026-10-16T08:06:26.844Z",
         "endTs": "2:15:45"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-08-05",
+      "text": "Public testimony will continue when the committee reconvenes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "dBye-CaAkHE",
+        "ts": "2:11:08",
+        "retrievedISO": "2026-10-16T08:06:26.844Z",
+        "endTs": "2:11:38"
       },
       "body": "County Council Housing and Land Use Committee"
     },

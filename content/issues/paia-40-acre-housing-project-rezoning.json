@@ -1,7 +1,7 @@
 {
   "slug": "paia-40-acre-housing-project-rezoning",
   "title": "Pāʻia 40-acre housing project rezoning",
-  "summary": "On September 8, the Maui Planning Commission voted to recommend that the County Council approve the Pāʻia zoning change with conditions, including free parking for Maui residents in the public lot and added gap-group housing, after unanimously backing the community plan amendment. The council will now review both recommendations, and the commission's attorney advised holding the zoning until the state Land Use Commission approves an agriculture-to-urban change. The 40-acre project has about 170 homes, including at least 34 permanently affordable workforce rentals.",
+  "summary": "On September 8, the Maui Planning Commission recommended that the County Council approve the community plan change unanimously and the zoning change 5 to 3, with conditions, for the roughly 170-home Pāʻia project on 40.392 acres. The conditions include free parking for Maui residents at the planned public lot and a request for more community engagement. The council will now review the recommendations, and the commission's attorney advised holding the zoning until the state Land Use Commission approves an agriculture-to-urban change.",
   "topics": [
     "housing",
     "land-use",
@@ -21,6 +21,11 @@
   "boards": [
     {
       "name": "Maui Planning Commission",
+      "group": "board",
+      "short": []
+    },
+    {
+      "name": "Cultural Commission Reviews Pāʻia Town Mixed-Use Development Project",
       "group": "board",
       "short": []
     },
@@ -313,6 +318,110 @@
         "endTs": "0:03:44"
       },
       "body": "Maui Planning Commission"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "The consultant said the relocated bypass road is also meant to address added housing in the area.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7xO3iAjvVX8",
+        "ts": "0:17:53",
+        "retrievedISO": "2026-10-13T06:35:04.998Z",
+        "endTs": "0:18:24"
+      },
+      "body": "Cultural Commission Reviews Pāʻia Town Mixed-Use Development Project"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "The consultant said the plan is to move the one-way mini bypass road and make it two-way.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7xO3iAjvVX8",
+        "ts": "0:16:45",
+        "retrievedISO": "2026-10-13T06:35:04.998Z",
+        "endTs": "0:17:25"
+      },
+      "body": "Cultural Commission Reviews Pāʻia Town Mixed-Use Development Project"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "A commissioner asked about traffic, saying the area is already congested.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7xO3iAjvVX8",
+        "ts": "0:16:15",
+        "retrievedISO": "2026-10-13T06:35:04.998Z",
+        "endTs": "0:16:45"
+      },
+      "body": "Cultural Commission Reviews Pāʻia Town Mixed-Use Development Project"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "The consultant said concerns heard about impacts to makai (ocean-side) resources will need to go into the report.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7xO3iAjvVX8",
+        "ts": "0:13:25",
+        "retrievedISO": "2026-10-13T06:35:04.998Z",
+        "endTs": "0:13:55"
+      },
+      "body": "Cultural Commission Reviews Pāʻia Town Mixed-Use Development Project"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "Another commissioner asked whether managed retreat (moving back from a shoreline that is falling into the ocean) was considered.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7xO3iAjvVX8",
+        "ts": "0:12:05",
+        "retrievedISO": "2026-10-13T06:35:04.998Z",
+        "endTs": "0:12:35"
+      },
+      "body": "Cultural Commission Reviews Pāʻia Town Mixed-Use Development Project"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "The land is zoned agricultural now but was named as an area for growth in the community plan.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7xO3iAjvVX8",
+        "ts": "0:06:18",
+        "retrievedISO": "2026-10-13T06:35:04.998Z",
+        "endTs": "0:06:51"
+      },
+      "body": "Cultural Commission Reviews Pāʻia Town Mixed-Use Development Project"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "Plans also include multifamily housing meant for affordable housing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7xO3iAjvVX8",
+        "ts": "0:05:07",
+        "retrievedISO": "2026-10-13T06:35:04.998Z",
+        "endTs": "0:05:37"
+      },
+      "body": "Cultural Commission Reviews Pāʻia Town Mixed-Use Development Project"
+    },
+    {
+      "dateISO": "2026-08-06",
+      "text": "A consultant for the firm said plans include public parking to ease parking problems in town.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7xO3iAjvVX8",
+        "ts": "0:04:56",
+        "retrievedISO": "2026-10-13T06:35:04.998Z",
+        "endTs": "0:05:26"
+      },
+      "body": "Cultural Commission Reviews Pāʻia Town Mixed-Use Development Project"
     },
     {
       "dateISO": "2026-06-19",

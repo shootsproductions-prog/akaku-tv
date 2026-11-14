@@ -102,6 +102,19 @@
     },
     {
       "dateISO": "2026-06-15",
+      "text": "The director said early data shows the most need is in Central Maui.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "aGVu5petQPA",
+        "ts": "1:04:05",
+        "retrievedISO": "2026-10-16T20:27:24.013Z",
+        "endTs": "1:04:39"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
       "text": "The bill adds a definition of \"houseless\" to the county code.",
       "basis": "said-at-meeting",
       "source": {
@@ -136,6 +149,32 @@
         "ts": "0:39:48",
         "retrievedISO": "2026-10-16T20:45:46.557Z",
         "endTs": "0:40:18"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "The housing director said they would meet with colleagues in the Planning Department before giving reactions on new zoning.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6WVDJO1LxXM",
+        "ts": "0:38:04",
+        "retrievedISO": "2026-10-16T20:45:46.557Z",
+        "endTs": "0:38:44"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "A member said they are open to creating a new zoning category for this type of housing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6WVDJO1LxXM",
+        "ts": "0:36:27",
+        "retrievedISO": "2026-10-16T20:45:46.557Z",
+        "endTs": "0:37:51"
       },
       "body": "County Council Water Authority, Social Services, and Parks Committee"
     },

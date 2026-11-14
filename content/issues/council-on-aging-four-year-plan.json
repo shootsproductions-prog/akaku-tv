@@ -1,7 +1,7 @@
 {
   "slug": "council-on-aging-four-year-plan",
   "title": "Council on Aging four-year plan",
-  "summary": "As of September 8, 2026, the office expects to gather and analyze survey data over the next couple of weeks, then work on objectives for the four-year plan. In July, staff said they would reach out to set up a focus group with the disability community and tell council members the schedule once it is set. Back in December 2024, a motion to approve the report and authorize the chair to sign it went unvoted because the council lost its quorum.",
+  "summary": "As of September 8, 2026, the office is gathering and analyzing survey data, then will work on objectives for the four-year plan, with drafting of objectives slated to start in November. Staff will also set up a focus group with the disability community and tell council members the schedule once it is set. The plan covers October 1, 2023, through September 30, 2027, and housing was among older adults' top concerns.",
   "topics": [
     "health",
     "government"
@@ -9,28 +9,54 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2024-12-10",
-  "lastSeenISO": "2026-09-08",
+  "lastSeenISO": "2026-11-10",
   "signals": {
-    "meetingsLast30d": 0,
-    "meetingsLast90d": 1,
-    "mentionsLast30d": 0,
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 2,
+    "mentionsLast30d": 2,
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-13",
   "boards": [
     {
-      "name": "Council on Aging",
-      "group": "board",
+      "name": "Maui County Council",
+      "group": "council",
       "short": []
     },
     {
-      "name": "Maui County Council",
-      "group": "council",
+      "name": "Council on Aging",
+      "group": "board",
       "short": []
     }
   ],
   "bills": [],
   "timeline": [
+    {
+      "dateISO": "2026-11-10",
+      "text": "Sometime next year, staff will share a draft four-year plan on aging with the council and hold a public review.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "u7UZ1_uGDcE",
+        "ts": "0:39:01",
+        "retrievedISO": "2026-11-14T07:30:04.283Z",
+        "endTs": "0:39:36"
+      },
+      "body": "Maui County Council"
+    },
+    {
+      "dateISO": "2026-11-10",
+      "text": "The office's 2026 long-term services survey drew 519 responses, including 387 adults age 60 and older.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "u7UZ1_uGDcE",
+        "ts": "0:38:01",
+        "retrievedISO": "2026-11-14T07:30:04.283Z",
+        "endTs": "0:38:44"
+      },
+      "body": "Maui County Council"
+    },
     {
       "dateISO": "2026-09-08",
       "text": "In the next couple of weeks, the office will gather and analyze survey data and then work on objectives for the four-year plan.",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T06:26:10.503Z",
+  "updatedAt": "2026-11-14T09:26:12.139Z",
   "count": 228,
   "issues": [
     {
@@ -4304,6 +4304,58 @@
         },
         {
           "dateISO": "2026-09-22",
+          "text": "Action 2.21 (exceptional trees): Members kept action 2.21 on exceptional trees as written.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2rjznzyHJJU",
+            "ts": "2:42:50",
+            "retrievedISO": "2026-10-16T15:43:59.088Z",
+            "endTs": "2:43:22"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-09-22",
+          "text": "Action 2.19, about that parcel, was set aside for a later revisit.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2rjznzyHJJU",
+            "ts": "2:19:31",
+            "retrievedISO": "2026-10-16T15:43:59.088Z",
+            "endTs": "2:20:18"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-09-22",
+          "text": "The Management staff member was asked to lead talks with Housing and other departments on action 2.19 and gulch buffer language.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2rjznzyHJJU",
+            "ts": "2:18:27",
+            "retrievedISO": "2026-10-16T15:43:59.088Z",
+            "endTs": "2:19:35"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-09-22",
+          "text": "Staff will add islandwide composting to the list of possible General Plan items.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2rjznzyHJJU",
+            "ts": "1:48:54",
+            "retrievedISO": "2026-10-16T15:43:59.088Z",
+            "endTs": "1:49:58"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-09-22",
           "text": "Strike action 2.18 and add it as a policy under Goal 2.2: The committee moved action 2.18 into the policies to support land use entitlements for a green waste and compost program in South Maui.",
           "basis": "said-at-meeting",
           "source": {
@@ -4312,6 +4364,19 @@
             "ts": "1:47:44",
             "retrievedISO": "2026-10-16T15:43:59.088Z",
             "endTs": "1:48:56"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-09-22",
+          "text": "Members settled on wording to build at least one puʻuhonua or culturally infused safe low barrier shelter.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2rjznzyHJJU",
+            "ts": "0:57:29",
+            "retrievedISO": "2026-10-16T15:43:59.088Z",
+            "endTs": "0:57:59"
           },
           "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
         },
@@ -20403,7 +20468,7 @@
     {
       "slug": "council-on-aging-four-year-plan",
       "title": "Council on Aging four-year plan",
-      "summary": "As of September 8, 2026, the office expects to gather and analyze survey data over the next couple of weeks, then work on objectives for the four-year plan. In July, staff said they would reach out to set up a focus group with the disability community and tell council members the schedule once it is set. Back in December 2024, a motion to approve the report and authorize the chair to sign it went unvoted because the council lost its quorum.",
+      "summary": "As of September 8, 2026, the office is gathering and analyzing survey data, then will work on objectives for the four-year plan, with drafting of objectives slated to start in November. Staff will also set up a focus group with the disability community and tell council members the schedule once it is set. The plan covers October 1, 2023, through September 30, 2027, and housing was among older adults' top concerns.",
       "topics": [
         "health",
         "government"
@@ -20411,28 +20476,54 @@
       "status": "active",
       "pinned": false,
       "firstSeenISO": "2024-12-10",
-      "lastSeenISO": "2026-09-08",
+      "lastSeenISO": "2026-11-10",
       "signals": {
-        "meetingsLast30d": 0,
-        "meetingsLast90d": 1,
-        "mentionsLast30d": 0,
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 2,
+        "mentionsLast30d": 2,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-13",
       "boards": [
         {
-          "name": "Council on Aging",
-          "group": "board",
+          "name": "Maui County Council",
+          "group": "council",
           "short": []
         },
         {
-          "name": "Maui County Council",
-          "group": "council",
+          "name": "Council on Aging",
+          "group": "board",
           "short": []
         }
       ],
       "bills": [],
       "timeline": [
+        {
+          "dateISO": "2026-11-10",
+          "text": "Sometime next year, staff will share a draft four-year plan on aging with the council and hold a public review.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "u7UZ1_uGDcE",
+            "ts": "0:39:01",
+            "retrievedISO": "2026-11-14T07:30:04.283Z",
+            "endTs": "0:39:36"
+          },
+          "body": "Maui County Council"
+        },
+        {
+          "dateISO": "2026-11-10",
+          "text": "The office's 2026 long-term services survey drew 519 responses, including 387 adults age 60 and older.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "u7UZ1_uGDcE",
+            "ts": "0:38:01",
+            "retrievedISO": "2026-11-14T07:30:04.283Z",
+            "endTs": "0:38:44"
+          },
+          "body": "Maui County Council"
+        },
         {
           "dateISO": "2026-09-08",
           "text": "In the next couple of weeks, the office will gather and analyze survey data and then work on objectives for the four-year plan.",
@@ -21560,7 +21651,7 @@
     {
       "slug": "paia-40-acre-housing-project-rezoning",
       "title": "Pāʻia 40-acre housing project rezoning",
-      "summary": "On September 8, the Maui Planning Commission voted to recommend that the County Council approve the Pāʻia zoning change with conditions, including free parking for Maui residents in the public lot and added gap-group housing, after unanimously backing the community plan amendment. The council will now review both recommendations, and the commission's attorney advised holding the zoning until the state Land Use Commission approves an agriculture-to-urban change. The 40-acre project has about 170 homes, including at least 34 permanently affordable workforce rentals.",
+      "summary": "On September 8, the Maui Planning Commission recommended that the County Council approve the community plan change unanimously and the zoning change 5 to 3, with conditions, for the roughly 170-home Pāʻia project on 40.392 acres. The conditions include free parking for Maui residents at the planned public lot and a request for more community engagement. The council will now review the recommendations, and the commission's attorney advised holding the zoning until the state Land Use Commission approves an agriculture-to-urban change.",
       "topics": [
         "housing",
         "land-use",
@@ -21580,6 +21671,11 @@
       "boards": [
         {
           "name": "Maui Planning Commission",
+          "group": "board",
+          "short": []
+        },
+        {
+          "name": "Cultural Commission Reviews Pāʻia Town Mixed-Use Development Project",
           "group": "board",
           "short": []
         },
@@ -21872,6 +21968,110 @@
             "endTs": "0:03:44"
           },
           "body": "Maui Planning Commission"
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "The consultant said the relocated bypass road is also meant to address added housing in the area.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "7xO3iAjvVX8",
+            "ts": "0:17:53",
+            "retrievedISO": "2026-10-13T06:35:04.998Z",
+            "endTs": "0:18:24"
+          },
+          "body": "Cultural Commission Reviews Pāʻia Town Mixed-Use Development Project"
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "The consultant said the plan is to move the one-way mini bypass road and make it two-way.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "7xO3iAjvVX8",
+            "ts": "0:16:45",
+            "retrievedISO": "2026-10-13T06:35:04.998Z",
+            "endTs": "0:17:25"
+          },
+          "body": "Cultural Commission Reviews Pāʻia Town Mixed-Use Development Project"
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "A commissioner asked about traffic, saying the area is already congested.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "7xO3iAjvVX8",
+            "ts": "0:16:15",
+            "retrievedISO": "2026-10-13T06:35:04.998Z",
+            "endTs": "0:16:45"
+          },
+          "body": "Cultural Commission Reviews Pāʻia Town Mixed-Use Development Project"
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "The consultant said concerns heard about impacts to makai (ocean-side) resources will need to go into the report.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "7xO3iAjvVX8",
+            "ts": "0:13:25",
+            "retrievedISO": "2026-10-13T06:35:04.998Z",
+            "endTs": "0:13:55"
+          },
+          "body": "Cultural Commission Reviews Pāʻia Town Mixed-Use Development Project"
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "Another commissioner asked whether managed retreat (moving back from a shoreline that is falling into the ocean) was considered.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "7xO3iAjvVX8",
+            "ts": "0:12:05",
+            "retrievedISO": "2026-10-13T06:35:04.998Z",
+            "endTs": "0:12:35"
+          },
+          "body": "Cultural Commission Reviews Pāʻia Town Mixed-Use Development Project"
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "The land is zoned agricultural now but was named as an area for growth in the community plan.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "7xO3iAjvVX8",
+            "ts": "0:06:18",
+            "retrievedISO": "2026-10-13T06:35:04.998Z",
+            "endTs": "0:06:51"
+          },
+          "body": "Cultural Commission Reviews Pāʻia Town Mixed-Use Development Project"
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "Plans also include multifamily housing meant for affordable housing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "7xO3iAjvVX8",
+            "ts": "0:05:07",
+            "retrievedISO": "2026-10-13T06:35:04.998Z",
+            "endTs": "0:05:37"
+          },
+          "body": "Cultural Commission Reviews Pāʻia Town Mixed-Use Development Project"
+        },
+        {
+          "dateISO": "2026-08-06",
+          "text": "A consultant for the firm said plans include public parking to ease parking problems in town.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "7xO3iAjvVX8",
+            "ts": "0:04:56",
+            "retrievedISO": "2026-10-13T06:35:04.998Z",
+            "endTs": "0:05:26"
+          },
+          "body": "Cultural Commission Reviews Pāʻia Town Mixed-Use Development Project"
         },
         {
           "dateISO": "2026-06-19",
@@ -22655,6 +22855,19 @@
             "ts": "0:45:39",
             "retrievedISO": "2026-10-16T23:17:28.064Z",
             "endTs": "0:46:09"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-09-02",
+          "text": "The committee can send a letter to Public Works to ask what building code already requires for hurricane standards.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "NxeXEYgEbYI",
+            "ts": "0:44:26",
+            "retrievedISO": "2026-10-16T23:17:28.064Z",
+            "endTs": "0:45:02"
           },
           "body": "County Council Housing and Land Use Committee"
         },
@@ -24120,6 +24333,32 @@
             "ts": "0:27:09",
             "retrievedISO": "2026-10-20T04:43:09.471Z",
             "endTs": "0:27:39"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-10-19",
+          "text": "Two rounds of three-minute questions per member: Members agreed to two rounds of three-minute questions each, with no objections.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "81AagZf0euk",
+            "ts": "0:24:22",
+            "retrievedISO": "2026-10-20T04:43:09.471Z",
+            "endTs": "0:24:59"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-10-19",
+          "text": "The committee will continue to accept written testimony.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "81AagZf0euk",
+            "ts": "0:24:18",
+            "retrievedISO": "2026-10-20T04:43:09.471Z",
+            "endTs": "0:24:48"
           },
           "body": "County Council Water and Infrastructure Committee"
         },
@@ -30461,6 +30700,19 @@
         },
         {
           "dateISO": "2026-08-05",
+          "text": "About a dozen testifiers were still waiting to speak.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "dBye-CaAkHE",
+            "ts": "2:26:53",
+            "retrievedISO": "2026-10-16T08:06:26.844Z",
+            "endTs": "2:27:23"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-05",
           "text": "Recess of the meeting: The chair recessed the meeting to August 19, 2026, at 9 a.m., before testimony was finished.",
           "basis": "said-at-meeting",
           "source": {
@@ -30495,6 +30747,19 @@
             "ts": "2:15:15",
             "retrievedISO": "2026-10-16T08:06:26.844Z",
             "endTs": "2:15:45"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-08-05",
+          "text": "Public testimony will continue when the committee reconvenes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "dBye-CaAkHE",
+            "ts": "2:11:08",
+            "retrievedISO": "2026-10-16T08:06:26.844Z",
+            "endTs": "2:11:38"
           },
           "body": "County Council Housing and Land Use Committee"
         },
@@ -35900,7 +36165,7 @@
     {
       "slug": "possible-county-purchase-of-maui-land-and-pine-water-assets",
       "title": "Possible county purchase of Maui Land and Pine water assets",
-      "summary": "On August 19, the committee voted 7–0 to enter executive session on the proposed purchase of an irrigation company's non-potable water system, and the chair deferred the open item. The chair said this covers the non-potable side, since the potable side was already voted on. The system has two stream diversions, three wells and three reservoirs, and the county wants about $2.9 million in improvements after the sale.",
+      "summary": "On August 19, the committee voted 7–0 to go into closed session on buying an irrigation company's non-potable water assets, after the chair deferred the open item. The county wants the system and about $2.9 million in improvements after closing. An MOU with Maui Land and Pineapple Company from May 18, 2026 runs to May 2027, and the council must approve any final purchase.",
       "topics": [
         "water",
         "land-use"
@@ -35992,6 +36257,19 @@
             "ts": "0:06:06",
             "retrievedISO": "2026-10-16T06:26:30.067Z",
             "endTs": "0:06:38"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-08-05",
+          "text": "Members voted 7–0 to go into executive session (a closed-door discussion).",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "VgE2vefgTzg",
+            "ts": "1:39:16",
+            "retrievedISO": "2026-10-16T07:27:27.980Z",
+            "endTs": "1:39:46"
           },
           "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
         },
@@ -39961,6 +40239,19 @@
             "ts": "0:10:54",
             "retrievedISO": "2026-10-13T06:35:23.239Z",
             "endTs": "0:11:24"
+          },
+          "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-07-01",
+          "text": "Staff are working on a press release to announce the director's retirement.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "qrQsEpbjdgA",
+            "ts": "0:10:31",
+            "retrievedISO": "2026-10-13T06:35:23.239Z",
+            "endTs": "0:11:01"
           },
           "body": "Civil Service Commission"
         },
@@ -43994,7 +44285,7 @@
     {
       "slug": "emergency-fund-money-for-march-2026-storm-damage",
       "title": "Emergency fund money for March 2026 storm damage",
-      "summary": "An administration official said on October 20 that no more emergency fund requests are expected right now. In June, officials said they expect to return sometime in fiscal 27 with a budget amendment to cover the funding need. In April, the committee cut $32 million from the emergency fund, which showed about $117 million, after the budget director said storm recovery money may not be reimbursable.",
+      "summary": "As of October 20, an administration official said no more emergency fund requests are expected for now. In June, officials said they expect to return in fiscal 27 with a budget amendment to cover the funding need. In April, the committee cut the emergency fund by $32 million already authorized for the storms, leaving $85,851,900, and a bill raising the storm amount from $12 million to $32 million was set for second reading May 1st.",
       "topics": [
         "disaster-recovery",
         "government"
@@ -44006,7 +44297,7 @@
       "signals": {
         "meetingsLast30d": 1,
         "meetingsLast90d": 1,
-        "mentionsLast30d": 1,
+        "mentionsLast30d": 3,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-13",
@@ -44037,6 +44328,32 @@
       "timeline": [
         {
           "dateISO": "2026-10-20",
+          "text": "An administrator said they will work with departments on an itemized emergency fund spending breakdown.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "WtAb16g87L8",
+            "ts": "1:50:51",
+            "retrievedISO": "2026-10-23T00:27:33.159Z",
+            "endTs": "1:51:21"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-10-20",
+          "text": "About $78 million remains in the fund, an administration official said.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "WtAb16g87L8",
+            "ts": "1:30:21",
+            "retrievedISO": "2026-10-23T00:27:33.159Z",
+            "endTs": "1:30:51"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-10-20",
           "text": "An administration official said no more emergency fund requests are expected right now.",
           "basis": "said-at-meeting",
           "source": {
@@ -44045,6 +44362,32 @@
             "ts": "1:24:43",
             "retrievedISO": "2026-10-23T00:27:33.159Z",
             "endTs": "1:25:22"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-10-20",
+          "text": "The committee reviewed spending from the county's emergency fund after recent disasters.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "WtAb16g87L8",
+            "ts": "1:22:46",
+            "retrievedISO": "2026-10-23T00:27:33.159Z",
+            "endTs": "1:23:16"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-10-20",
+          "text": "Since March, the Council has authorized $42 million from the emergency fund.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "WtAb16g87L8",
+            "ts": "1:22:33",
+            "retrievedISO": "2026-10-23T00:27:33.159Z",
+            "endTs": "1:23:03"
           },
           "body": "County Council Budget, Finance, and Economic Development Committee"
         },
@@ -44597,6 +44940,19 @@
         },
         {
           "dateISO": "2026-06-15",
+          "text": "The director said early data shows the most need is in Central Maui.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "aGVu5petQPA",
+            "ts": "1:04:05",
+            "retrievedISO": "2026-10-16T20:27:24.013Z",
+            "endTs": "1:04:39"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-06-15",
           "text": "The bill adds a definition of \"houseless\" to the county code.",
           "basis": "said-at-meeting",
           "source": {
@@ -44631,6 +44987,32 @@
             "ts": "0:39:48",
             "retrievedISO": "2026-10-16T20:45:46.557Z",
             "endTs": "0:40:18"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-06-15",
+          "text": "The housing director said they would meet with colleagues in the Planning Department before giving reactions on new zoning.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "6WVDJO1LxXM",
+            "ts": "0:38:04",
+            "retrievedISO": "2026-10-16T20:45:46.557Z",
+            "endTs": "0:38:44"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-06-15",
+          "text": "A member said they are open to creating a new zoning category for this type of housing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "6WVDJO1LxXM",
+            "ts": "0:36:27",
+            "retrievedISO": "2026-10-16T20:45:46.557Z",
+            "endTs": "0:37:51"
           },
           "body": "County Council Water Authority, Social Services, and Parks Committee"
         },
@@ -47027,6 +47409,19 @@
             "ts": "2:34:28",
             "retrievedISO": "2026-10-22T04:02:44.510Z",
             "endTs": "2:34:58"
+          },
+          "body": "County Council Special Meeting"
+        },
+        {
+          "dateISO": "2025-11-20",
+          "text": "The council member noted the late council member supported the charter amendment creating the East Maui Water Authority.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "80aNhBlxlkg",
+            "ts": "2:34:07",
+            "retrievedISO": "2026-10-22T04:02:44.510Z",
+            "endTs": "2:34:37"
           },
           "body": "County Council Special Meeting"
         },
@@ -51040,7 +51435,7 @@
     {
       "slug": "hoonani-village-housing-and-well-funding",
       "title": "Hoʻonani Village housing and well funding",
-      "summary": "A member moved on April 24 to set aside up to $9 million in excise tax funds for well and water work at the Hoʻonani Village project. The member who made the motion said the aim is to help provide housing for the community sooner. Another member noted the project can return for a budget amendment to remove the condition if it becomes unfeasible.",
+      "summary": "On April 24, the committee set aside up to $9 million in excise tax funds for well and water work at the Hoʻonani Village mixed use project. A member said the project can return for a budget amendment to remove the condition if it becomes unfeasible. Bills 163, 164 and 165, which would change land plans and zoning for the Kahului housing, were heard in November; the developer plans 1,608 apartments and will seek $35 million to $45 million in county money.",
       "topics": [
         "housing",
         "water"
@@ -51065,8 +51460,25 @@
           ]
         }
       ],
-      "bills": [],
+      "bills": [
+        "Bill 163 (2026)",
+        "Bill 164 (2026)",
+        "Bill 165 (2026)"
+      ],
       "timeline": [
+        {
+          "dateISO": "2026-04-24",
+          "text": "A member said the whole town burnt down and the project rebuilds county assets as prices rise.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "KhrHZUeNlAw",
+            "ts": "1:17:18",
+            "retrievedISO": "2026-10-17T01:27:46.895Z",
+            "endTs": "1:17:56"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
         {
           "dateISO": "2026-04-24",
           "text": "The member who made the motion said the goal is to help provide housing for the community sooner.",
@@ -51103,6 +51515,19 @@
             "ts": "0:41:13",
             "retrievedISO": "2026-10-17T01:27:46.895Z",
             "endTs": "0:41:55"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-24",
+          "text": "A council member described $500,000 for a small wastewater package plant as a loan, with the company owning the plant.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "KhrHZUeNlAw",
+            "ts": "0:11:52",
+            "retrievedISO": "2026-10-17T01:27:46.895Z",
+            "endTs": "0:12:22"
           },
           "body": "County Council Budget, Finance, and Economic Development Committee"
         }

@@ -1,7 +1,7 @@
 {
   "slug": "hoonani-village-housing-and-well-funding",
   "title": "Hoʻonani Village housing and well funding",
-  "summary": "A member moved on April 24 to set aside up to $9 million in excise tax funds for well and water work at the Hoʻonani Village project. The member who made the motion said the aim is to help provide housing for the community sooner. Another member noted the project can return for a budget amendment to remove the condition if it becomes unfeasible.",
+  "summary": "On April 24, the committee set aside up to $9 million in excise tax funds for well and water work at the Hoʻonani Village mixed use project. A member said the project can return for a budget amendment to remove the condition if it becomes unfeasible. Bills 163, 164 and 165, which would change land plans and zoning for the Kahului housing, were heard in November; the developer plans 1,608 apartments and will seek $35 million to $45 million in county money.",
   "topics": [
     "housing",
     "water"
@@ -26,8 +26,25 @@
       ]
     }
   ],
-  "bills": [],
+  "bills": [
+    "Bill 163 (2026)",
+    "Bill 164 (2026)",
+    "Bill 165 (2026)"
+  ],
   "timeline": [
+    {
+      "dateISO": "2026-04-24",
+      "text": "A member said the whole town burnt down and the project rebuilds county assets as prices rise.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "KhrHZUeNlAw",
+        "ts": "1:17:18",
+        "retrievedISO": "2026-10-17T01:27:46.895Z",
+        "endTs": "1:17:56"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
     {
       "dateISO": "2026-04-24",
       "text": "The member who made the motion said the goal is to help provide housing for the community sooner.",
@@ -64,6 +81,19 @@
         "ts": "0:41:13",
         "retrievedISO": "2026-10-17T01:27:46.895Z",
         "endTs": "0:41:55"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-24",
+      "text": "A council member described $500,000 for a small wastewater package plant as a loan, with the company owning the plant.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "KhrHZUeNlAw",
+        "ts": "0:11:52",
+        "retrievedISO": "2026-10-17T01:27:46.895Z",
+        "endTs": "0:12:22"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
     }
