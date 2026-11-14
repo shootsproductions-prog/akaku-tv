@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T12:26:13.251Z",
+  "updatedAt": "2026-11-14T14:26:19.447Z",
   "count": 228,
   "issues": [
     {
@@ -18086,6 +18086,19 @@
             "ts": "1:09:16",
             "retrievedISO": "2026-10-09T06:35:09.669Z",
             "endTs": "1:09:46"
+          },
+          "body": "Department of Water Supply"
+        },
+        {
+          "dateISO": "2024-01-24",
+          "text": "Staff said the demand forecast is based on population growth and does not include individual housing projects.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Qk0CE0sVrAw",
+            "ts": "1:01:57",
+            "retrievedISO": "2026-10-09T06:35:09.669Z",
+            "endTs": "1:02:51"
           },
           "body": "Department of Water Supply"
         },

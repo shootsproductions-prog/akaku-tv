@@ -55,6 +55,19 @@
     },
     {
       "dateISO": "2024-01-24",
+      "text": "Staff said the demand forecast is based on population growth and does not include individual housing projects.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Qk0CE0sVrAw",
+        "ts": "1:01:57",
+        "retrievedISO": "2026-10-09T06:35:09.669Z",
+        "endTs": "1:02:51"
+      },
+      "body": "Department of Water Supply"
+    },
+    {
+      "dateISO": "2024-01-24",
       "text": "Residents can still send ideas on comment cards or by email after the meeting.",
       "basis": "said-at-meeting",
       "source": {
