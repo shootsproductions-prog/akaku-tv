@@ -40,7 +40,12 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": [],
+    "trackerIssues": [
+      {
+        "slug": "paia-40-acre-housing-project-rezoning",
+        "title": "Pāʻia 40-acre housing project rezoning"
+      }
+    ],
     "boards": [
       {
         "name": "Cultural Commission Reviews Pāʻia Town Mixed-Use Development Project",

@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-12T09:08:18.811Z",
-  "etag": "5242e4666c9141f4128c250e1d359c7d15d5aeaa7db2f8a8890f0acede578cb6",
+  "updatedAt": "2026-11-14T09:04:20.892Z",
+  "etag": "bfff573c6da00a5d5579a7793b448284d958bb8edc96f623b90d483f6b9ec76b",
   "count": 366,
   "meetings": [
     {
@@ -2614,9 +2614,11 @@
       "dur": "20 m",
       "voteCount": 0,
       "momentCount": 3,
-      "issues": [],
-      "updatedAt": "2026-10-31T10:02:02.744Z",
-      "sha256": "3569c58d230b6e1b833af49bfb442e78ddc7997c934491ef73dfd218e8fe8a63"
+      "issues": [
+        "paia-40-acre-housing-project-rezoning"
+      ],
+      "updatedAt": "2026-11-14T09:04:20.892Z",
+      "sha256": "fcf841cbbc4a14592a2e5e9cc6ac0d11a6e4322a7a75b5f335d4a907fd2cb155"
     },
     {
       "videoId": "elf0DfB_afI",
