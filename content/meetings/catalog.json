@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-15T07:40:20.343Z",
-  "etag": "4b10bb8af86a338f7b4f20bd06cbc31e3b7c8b52ae92715b5b3764337cb08de9",
+  "updatedAt": "2026-11-15T07:52:14.671Z",
+  "etag": "623d9f2ff58ba84e3fce6f26a7cd259afaddf11f7755a12a008488ab35625b2b",
   "count": 366,
   "meetings": [
     {
@@ -2509,14 +2509,15 @@
       "voteCount": 5,
       "momentCount": 5,
       "issues": [
+        "rural-health-grant-for-kupuna-leaving-the-hospital",
         "board-of-ethics-full-time-staff",
         "expanding-fare-free-bus-passes",
         "extending-property-tax-relief-for-wildfire-hit-properties",
         "seabird-streetlight-lawsuit-settlement",
         "harbor-triangle-rezoning-including-maui-ocean-center"
       ],
-      "updatedAt": "2026-11-01T03:10:01.373Z",
-      "sha256": "2cf4deaf259f36ab59b104f1397386c2c49dad9307d9f0c8db4f61f08d85985e"
+      "updatedAt": "2026-11-15T07:52:14.671Z",
+      "sha256": "06ad2c8120867edf85d7b205e1b71a1930924671b3c79dc15c2c6aa1bc412631"
     },
     {
       "videoId": "tpJYo1iZdE4",
