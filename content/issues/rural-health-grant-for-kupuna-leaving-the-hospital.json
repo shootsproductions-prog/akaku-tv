@@ -7,7 +7,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-09-08",
+  "firstSeenISO": "2026-08-11",
   "lastSeenISO": "2026-09-08",
   "signals": {
     "meetingsLast30d": 0,
@@ -21,9 +21,16 @@
       "name": "Council on Aging",
       "group": "board",
       "short": []
+    },
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
     }
   ],
-  "bills": [],
+  "bills": [
+    "Bill 107 (2026)"
+  ],
   "timeline": [
     {
       "dateISO": "2026-09-08",
@@ -62,6 +69,19 @@
         "quote": "HONOLULU — Governor Josh Green today announced $58 million in federal funding through the Rural Health Transformation Program (RHTP) to improve access to healthcare and strengthen services in rural and underserved communities across Hawaiʻi.",
         "retrievedISO": "2026-10-25T01:47:00.277Z"
       }
+    },
+    {
+      "dateISO": "2026-08-11",
+      "text": "Bill 107 would add a $390,038 state health grant for kūpuna (elder) care services.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "H53ZMTLu47A",
+        "ts": "1:01:32",
+        "retrievedISO": "2026-10-16T06:48:22.352Z",
+        "endTs": "1:02:07"
+      },
+      "body": "County Council Meeting"
     }
   ],
   "sourceTypes": [

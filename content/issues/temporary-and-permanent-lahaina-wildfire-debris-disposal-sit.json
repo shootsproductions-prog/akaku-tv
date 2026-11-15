@@ -1,7 +1,7 @@
 {
   "slug": "temporary-and-permanent-lahaina-wildfire-debris-disposal-sit",
   "title": "Temporary and permanent Lahaina wildfire debris disposal sites",
-  "summary": "Permanent debris hauling in West Maui is set to begin in June, with about 50 truck round trips a day, and a council member said hauling will run sunup to sundown during canoe regattas. Last December the county sought $4 million to buy two parcels for the permanent site, including unit three at $2,477,550, and hoped to have it ready in early-to-middle 2025. All Lahaina wildfire debris is to go to the permanent site in Central Maui, and the county is working on an alternate truck route.",
+  "summary": "On April 16, 2026, a council member asked whether moving fire debris to the new landfill stayed within budget. The department said fees paid by the Army Corps covered the hauling cost and promised the exact figure. Permanent hauling in West Maui was set to start in June 2025, with about 50 truck round trips a day, after the county sought $4 million in December 2024 to buy two parcels for the permanent site.",
   "topics": [
     "disaster-recovery",
     "environment"
@@ -9,7 +9,7 @@
   "status": "quiet",
   "pinned": false,
   "firstSeenISO": "2024-03-05",
-  "lastSeenISO": "2025-04-08",
+  "lastSeenISO": "2026-04-16",
   "signals": {
     "meetingsLast30d": 0,
     "meetingsLast90d": 0,
@@ -30,6 +30,45 @@
     "Bill 40 (2024)"
   ],
   "timeline": [
+    {
+      "dateISO": "2026-04-16",
+      "text": "The department said fees paid by the Army Corps covered the cost of hauling fire debris to the landfill.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "AfNF9oiRyz4",
+        "ts": "0:37:20",
+        "retrievedISO": "2026-10-17T03:06:25.513Z",
+        "endTs": "0:37:50"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-16",
+      "text": "The department said it would get the exact debris hauling cost for the council.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "AfNF9oiRyz4",
+        "ts": "0:37:10",
+        "retrievedISO": "2026-10-17T03:06:25.513Z",
+        "endTs": "0:37:40"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-16",
+      "text": "A council member asked whether moving fire debris to the new landfill stayed within budget.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "AfNF9oiRyz4",
+        "ts": "0:36:53",
+        "retrievedISO": "2026-10-17T03:06:25.513Z",
+        "endTs": "0:37:23"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
     {
       "dateISO": "2025-04-08",
       "text": "A council member said debris hauling will run from sunup to sundown during West Maui canoe regattas.",
