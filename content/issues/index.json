@@ -231,920 +231,920 @@
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-11-15T08:18:15.994Z",
-  "etag": "659bcf4b4f05b7e07e79562f7c6b645c3ce8a59110fcbe718990d02fa978d861",
+  "updatedAt": "2026-11-15T10:26:12.325Z",
+  "etag": "5ca838e9a480506d5ffd3b7daf96834affee7949b3be1948ee783072db4eba28",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "6699b5d43754f9dc60a81e520061c3fe6b607a0099424204707835ded8d0ece3"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "e8f978463381eb830ed5afad70568d9155d0bbc0eb30069ac2d912c34dcf60ad"
     },
     "lahaina-water-use-permit-applications-and-tig-report.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "e03d63d9d6e0b123794e504f7885db2875363d931bf686f186062e4fd3780c15"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "f50c69b5fe4494eb511a1dced601d83b6bb4ffef940f47d2b4e1590bc471eed3"
     },
     "lahaina-banyan-tree-recovery.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "6f04bfbca2a213b97e99640b4e167e39c34bfffe5f77c4f48c4a6b08e16b1b23"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "b6c68bc135e8d55c01fa0debd9f165cdfc1347f2f0abad01e0854e782abda79b"
     },
     "proposed-maui-county-passenger-ferry-to-molokai-and-lanai.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "64158e355aea6ef75a7b5cb92e85d5f25ad20c264c7096c11b6937b2bb4a9f44"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "42d7957d82653f2c66d170b6a187d75364e03d856e250f34ba4e81afc9f45043"
     },
     "central-maui-desalination-study-and-report-release.json": {
-      "updatedAt": "2026-11-14T12:26:13.251Z",
-      "sha256": "4c2fb59dd666e286922c7ac5eb0488e279e6d400059dac881af03b37f4ecc518"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "3b53973aabf092cfb08a45aa651e5e28fe0d83be4c8c3c9a0e234859d5787340"
     },
     "maui-research-and-technology-park-land-designation.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "6791ab2b99380a61b60427faa6522af7c4f86e4dfe86265e8aa2c376f3c5bafc"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "cce4bae62217db0bba4b9915fed33ab7c8eea24ff124f4a9c940cd0c712e6c1e"
     },
     "south-maui-community-plan-review.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "cd14a5d87c0ad8e0f051c9e085f26041375d7759339abacbf0d99ffc438012ce"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "ee5aeaccc683df74a9b23ffef36796d0e932d2cbe93bee1a93a157481f77ccfb"
     },
     "mokuula-restoration-master-plan.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "7e7c29ebfffbafb30dc26596142922c35c06d443dc6323454b609ea60cc6c0fd"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "31b4f66b496034dc4ff8241a10ac57eb2ba9e3aa659a1c62b5cf4cc987346e3a"
     },
     "farm-land-subdivision-lessee-notice-bill.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "7e16f6b98022374067109d7617b02b0564241a74580e34c232702da271a8f961"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "2daafecf8968a2f2161ec6bc78fd59d204285e55d64c02fd39ff0ca0b729b056"
     },
     "22-home-project-for-adults-with-disabilities.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "ba425b4ddef47ba550ab7167b2863a19231da5d91b2fa8e990d12dd7a0364fad"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "94db6b250547ae95649887be9d76eac1fc8e79fedd45b61d144fc8a421c9faa0"
     },
     "accessibility-problem-at-maui-county-building.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "2c10f69bb98e522f5a979432c57ad3ada61e904240e11f9f5a4f615ae08a7a50"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "df5d612b1304b03cd3d30080672ac51d538bff597ad976ee9afabd2353aeaeaa"
     },
     "aloha-spirits-brewery-liquor-license-and-zoning-limits.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "414adb61b1d3c0d2fda19660ad1e92e13d40a2cfa9417ea029db3cf9d721f9a0"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "c3b5ab4e7c21a390b9d3873a87cba99e51da7bdadf4a79ecceedf93f1c9e8cd0"
     },
     "bed-and-breakfast-permit-closure-appeal.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "c43ddf669fdbaf3fc016d7e5f8d03cea30fbf8bfc104bc17a59debd5c86513b5"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "f6008e815d20c7ed08365fe45d5c9ad36f9b16e37b0a4757de6a882a52c67d77"
     },
     "bill-130-extending-water-meter-reservations.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "d5f25d34dbed1b525a4518e471c383e291fc25e5592a82d1f53e2af2a67ced4a"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "6f8ea8a6b4506676a93db5009c7f6b1a47fb561dde4e5170a1aece80c017607b"
     },
     "bills-163-and-164-for-163-acre-central-maui-growth.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "627d1d8986d70ef65123ec3e0f8093d7b3ecdb8823a4d6b73d76ac7f99beb6e3"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "59ec1110e008664df0ed3241f99f037610bb2436238e90dca96e1635ff70d360"
     },
     "board-of-variances-short-on-members.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "263c800bbe8c9f2a6a5c8c21b277834172275fce9eb9878dad40cbc665047394"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "d66dd0ea9e6b8cc6efb746a6a7159528df16b42c9a4e9f85351dc2714eef5d08"
     },
     "children-and-youth-commission-family-survey-findings.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "9003fecc15d1942ca548b24a4362654d27adacd551d314644cc1b581cdb6c16e"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "017164f67e4a40ceb4be95a9fccbb87de55996224ffca3f0afeecacc387133bd"
     },
     "contested-case-on-53-lot-subdivision-permit.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "4cdeb4acb91da5be8f30e2ebc27ca5c056eaec86c65d753a23487590b1240d28"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "21aad00341d16caae9175ef7172a3d60f3f975c7aae180eada788540d3927f2e"
     },
     "contested-case-on-mahi-pono-east-maui-water-permits.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "61960b2395787168da6615275f1ba72a9cf8c72a5069881cac99cc5663fee2d3"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "b9555b4d4034932c387cf0f5050fbfe2c63337ec129113485a7c17164dc095af"
     },
     "cost-of-government-study-of-housing-approvals.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "0d11b8fe35d2cf909c9099059ca81ea9d6eeac739d3c47deaabbfb5fee89f0c6"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "a6ab6e18a9ff8004847a4443373d9c7b30645f1123e6c66d278365de0fe31205"
     },
     "county-auditor-search-process.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "e28dd0ec9c4a1d8b85725cdc52b21d9472d7cef0927c2c57d34a5e09a9914de0"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "4a7d23304762bde462f4a51195391bbeee51804b20496342d20cc3cee34cedbf"
     },
     "disability-access-in-sma-permit-reviews.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "ad6d803318225c2a8d105dbb753f634655cb2628a158b6ac939402b595fdf15b"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "46a3d81fbd5311513bc1bf90aeb6700244585494a7b82477cbdc993b8473fe2d"
     },
     "disability-commission-feedback-on-west-maui-recovery-plan.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "bb3b8874768e81e90fe182abc15dc477ee6387219284daf479ea2c03d94bbbc8"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "e54f9b8860780e9fdf670f1b1a185e713c3ce3608a9d25a09370b2e2aa6a601a"
     },
     "disability-representation-on-county-commissions.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "b626d2d02cad3a26613af78d501898553b7bbcd1c2dab49a97d2626d1e53f33e"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "e59b4f50d6526129fdbcba3f4b4ec6ba4ce702d09644ccfc234a85196ab40a96"
     },
     "disabled-fire-survivor-told-to-leave-kihei-fema-housing.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "dd7a415acfba60a0b74813b650d6db4e27254a46a388245e2b84281519df68b7"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "7466e2cd1c232c76b1e6985c8458e834bcace8115f9db45bb638f188ec9fca5e"
     },
     "east-maui-water-board-mission-and-vision-statement.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "6c72676b9cd23fabab334ad7295231f895bbca5c2cde92405132ebc4638ac36b"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "1f94e5e9e7c653443e0d1622907d3fc7aacf0690aa4a6b570518c768a3ebeaee"
     },
     "east-maui-watershed-plan-based-on-ahupuaa.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "27c42b4a42c5f0e9889700721392ba5eea198754cdbaef1e990192dfe576282a"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "26d76e414fda0d0ea05aad154dcb5c1a0266c284896cee1a8a8eb239e2e72f94"
     },
     "emergency-fund-bill-for-recent-hurricane-damage.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "81dfd38e3d05a6c7523c0741ab53c9fbc06af77ac141cb6bfdcf2f1d22ae8745"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "4882210f92d0781b98ec46fd2c98a65b6593ad186722e780813895b1b028167a"
     },
     "faith-based-homelessness-recommendations-and-strategic-plan.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "1b9fd5078e4bb3dfe559fb8f4613dc643070a3226cca54a41d8bcc21ca3c7e01"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "d451e5d4cedb34da310da050d9b4e773d2c0ab42b7ae955ac437c9630a9c57a0"
     },
     "federal-urban-boundary-and-road-classification-update.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "993b40f90db8c86d1216bea83b4cc9767956a5f27cef084b463c647c125f3515"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "c285c89f9061cc1a6a3634b91e6266b04cd952f890131b5d6923147d06e8b4fa"
     },
     "filling-a-vacant-board-of-water-supply-seat.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "524ed0370eaccfbe1c82ace850f44990b34a96d90b0681b90a4ff537b91e595b"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "c762d271970d351762bcfc84dc81d3f34b0e737ff77d74f00f6c4ed3599c9ff1"
     },
     "fireworks-damage-complaint-before-police-commission.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "4bb40df1a8dc72bf4d1b8ae6c15e4a506b8d1331752db94a0502611bc803a03d"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "cfe38e12d039fc2a41119f0dfa8a1adb94838d5f19606d37c6b6377de2637af9"
     },
     "haiku-zipline-violation-appeal-continued-to-january.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "13889953bae4a3870297bb5f0ab724dcd1f5155fb436f99fd6c9f9726105fda4"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "6f72f277713656006ed41191797dd330b1b1398bd6867ce70dba456f4db48c35"
     },
     "hana-health-center-land-change-for-housing.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "0c5f83370dcc30ca66a7f7018c65387d778e98458ff70c16d8d944e82a7fd19f"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "58884a345314a0a07f1dd112229867d2d1627b007dd1879e5004fca31dec29e6"
     },
     "herbicide-waiver-for-road-safety-spots-deferred.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "35bf16fbcb294e28a1a4a766699da238ec10fcf8e7890f4be358e523ca950922"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "993121cb8a04f858ccae111b127ee69bfb85d6150b331652cab89e3607559574"
     },
     "hours-of-operation-limit-on-overnight-home-use.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "21f9022929f1e3570c44aac7e058d35cddd3b10e187b036924d3408c3932bda6"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "2d4312a98b76688d1e66f8be8792443e6a412a7d2500bacf9f504b42970367bd"
     },
     "imua-preschool-plan-before-cultural-resources-commission.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "1affc0896a7b3cd8ca04f349a6b679605ce27fcbed2240821c5b0727e5ae642f"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "64b89b354011381bc55718d4c924b3e3a2a0a03d761c5f9439b75c97a6d42564"
     },
     "johnson-controls-energy-savings-contract-phase-3.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "157f374b9b2f200f1abe5aaf0229f99f21e1a461bfa8489bb79714bc2b75ed34"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "e68a0b6bcb71690d72e6addece4178442df89f2a72cb598f134714ae9b180464"
     },
     "kaanapali-fight-case-referred-to-the-fbi.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "28e89859e5c2705648b238aca3b04fbd45d4164d6ac6ce297d218a6ada4ce5a6"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "cc3c5a78b531efb11568a790bf72de1f364db3bd13e87f105b48f658aa355206"
     },
     "kahana-sunset-repair-permit-appeals.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "c1d3017f50ad7ef36539a7d0c4f03bf9da3f84c8c741fdd2fb27accb04422651"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "7ad38759eb8bad66aa8fc654dae97e06bd41051c322abd3828c5c32c47694ffd"
     },
     "kulamalu-park-stairs-fall-lawsuit-settlement.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "e35fe2add9b8039e224bafe987259046d37406d216a0286cc038c54fbf7fe3b5"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "07797c177189fcd652762c3b259f0b26f7f9007e119916f519296064c347ae2b"
     },
     "kupuna-cited-after-unlicensed-contractor-work.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "866f9af2bd6fa8b61987ef93eb7c22e34f3bdedd637dbfd9e136c3affd27a113"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "204f48416471f006521a7a47f286287d4aa706ab3518235c8e4cac0eb8e19d11"
     },
     "kupuna-locally-grown-produce-pilot.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "0bad36cd7d8d301891c9966d526af1dcb5e2bb60c4285f5a6875ff3b673734c7"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "63a16144308dc592f4ec37811a0843c405a02ee64c0af81294ebf0bc2cd6e116"
     },
     "lahaina-tree-program-fruit-forest-with-county-parks.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "5e95e88579b6b65722813e35f7dd999836f0c7df7f2516e8c627522b1c392d1c"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "aae0c667e04745da1a88e7eb2d26baee02f0564e20c040d658c2d81cf6b929d4"
     },
     "lanai-community-plan-update-timing.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "6d4edbc862ea04f3c8aefc71ec7a4009dcf96c805bd05274832b10071c5d7ff4"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "8b8f99f668f545daf72b9962d6409d301128c0d7dbc10b747a1ca79ea49e37b5"
     },
     "lanai-harbor-damaged-by-storm.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "9eab5d664187a66ab6fe242a23adab85e287dcf1a613ec27ee886a8ad9154e16"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "103ccd5510e481ec925183f626941b09d77de23fb339213888c0f8df7ca6ca01"
     },
     "lanai-inter-island-internet-cable.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "f94363f76b6ad0606bc09f8842b53e8ccd9694133012caae62ad1857beb39adf"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "a6847c5039c5f12515270300d6db2c8e6a8362e1cc5c1f5735f8087725809538"
     },
     "lanai-minor-sma-permit-rule-change.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "053bf5d49213b0520c715dac19a0f94594435012aeeaee721eb253360b76868c"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "06f45a1c89b20f9e4fad24b8dff4002541b7e266a4fb6459599119f1ebc81390"
     },
     "lanai-property-appeal-of-planning-director-decision.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "3c83f4165d67cf5dbe9646f3a11d835611ed0b0a1401948213be3be893a9dba0"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "7f43eb9b7ee9300d4be131eefaab904c1800196d97e68d3568f5b274047f6016"
     },
     "liquor-control-director-retirement-and-replacement-search.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "1f02e17204b7510ac517ed134328f6aaae288636a04a57b14f48576af911ee91"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "9f5274214d8da4f96808ae54ce22cf5bd568439bdd396d9794411301c8cdb472"
     },
     "liquor-rule-changes-to-speed-restaurant-applications.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "3533100d1635f1bf0cd9368272c7e16f022b3141937109b0a0e56e89e455455b"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "054f2b85937bf65cacb59f95d0d18d7867c131472cb3a07f116a5cf9e4f9bbec"
     },
     "makena-resort-community-eis-and-remaining-permits.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "ce44ba4088d7921eb837bf1c086c044af9bd331f06e41955c7919f45b5bb3c43"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "4d0e6bbf455bd7cdf64da5bc0b853582f87e53f61ae97d96c0061df8c2395330"
     },
     "makena-state-park-restrooms-and-parking-permit.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "0e0a4c265839acc2709e8da4a2e4e7471852d0aab148c387cbab28a77128f2c8"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "e7edf3556922ef49546cacfb6a7d5c74bb9a81a444749fe7074a325488b6d9ab"
     },
     "maui-mpo-2045-long-range-transportation-plan.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "0a6897da49fff8b2dc0638bdf9681b10fe3c5cd0f5456993b694d313a9b2674d"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "7cbced0b04da16e954ee4b27a6be64d277795d4c8002c02a87d9983213e42eb9"
     },
     "moving-fire-survivors-off-fema-interim-housing.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "543f2f4174d4f63e66548cbe872335a12a65f0163c4cdf084a9bc52afdf8ba26"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "e138dfd32c2f85337002687e814099b5fca48626e22af8e1871ee1c8e2022559"
     },
     "mrc-partners-violation-appeal-nearing-final-continuance.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "57cfc206283c87ced568f1c52364b79de9021a71558afdc7d55d0a5ab98e3d09"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "87403bc390e349e7247264368d4123a7595a2eded0e389c691cc5bcc422b5211"
     },
     "nomination-board-role-in-corporation-counsel-selection.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "80ad4a968f2521df932727f8dc2d6de6a847049a858d89e7a3c77021d7960953"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "8845cd9871bbac19a7cf48f5c5d2ed5cc20343a85d1c9428b204dfe8e2a08b57"
     },
     "park-maui-paid-and-resident-parking-rules.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "d33ad599128e08fc5185168990f68f43ad09c088ea64063bfe1ee7be78d3bf55"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "7b41a443b259a86b041c7243e3bd165044c17dda4b73c10b445b918d3414d410"
     },
     "police-chief-evaluation-policy.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "a5d905744194205b702d6ef941bda9ec822854ebab1f22bfca0e616abf3ab9fa"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "13c013d1fa10bb0d09d351b993fad260b1e63967db2db51bd82660b744ae07ea"
     },
     "police-commission-rule-on-rapid-adjudication-complaints.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "2c9bd734cffa282e046bb4a07a8d57b3f96544854e5444c2b24da0fcc466c716"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "07b25cde7a78aba3ecb9d94149ba51b35a8d05effb85e122f09c3ea29fe09075"
     },
     "police-hiring-and-unspent-salary-money.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "37a8b93f97d0dfeccd2cac0d860c0c6fab79b3b63f8b2ee45951b6684a4b574d"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "e0671307e7c5a2168f8eb338dd3ccdd003af1e81d186fccb347803693fbed9ba"
     },
     "police-real-time-operations-center.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "11ddf5ca267ba2f211a919fa2f43b3aef67eaa4ef046738e209321a550cc2b2c"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "843b4a829c984b9714466031d659dd5c4b8e98e09e011d7b0f80dc7a9a94cf63"
     },
     "post-hurricane-review-for-people-with-disabilities.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "228c79216c08acd04b32c47f79c236d1a66d42c160df47ac73c8a88ef895c13e"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "a31f92acc70b3d8cd5ad444f94222e6cbeca0d5c29ccc9d231d31810278f229f"
     },
     "power-shutoffs-during-high-wind-and-low-humidity.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "a2a3516c04e78d6777e28dbef07e50d348c92d6311d6a624dcf4be7670f4df90"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "0ffdb6153520c82115c0ce57c574064fb0857b566deb5b894f5ddde7a48051d1"
     },
     "proposed-cost-of-government-inquiry-into-west-maui-greenway.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "8a0354dfd96979cefae1150780159e6bbda6f5b2117f370e7e7d6528bc809afd"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "ec63cbd6cdd2bfd288c8ee6e499d3f30816e407ed1c5667fde97c7b1099e968e"
     },
     "proposed-federal-section-106-historic-review-changes.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "2311e100f02cfc88bdbb5e8611aca3dd15bab725fda956e385146d6d0e9638d1"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "63ab2cb188dd3b37580cf554e0cd20cac525f5737d54efefc9bef7a2b7f806ac"
     },
     "rural-health-grant-for-kupuna-leaving-the-hospital.json": {
-      "updatedAt": "2026-11-15T08:18:15.994Z",
-      "sha256": "bd9d7b5e96b80a3299061c9a028150a21707802e7ba0b59d563fa61c64491900"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "e237eed5e28e8fd9b7ca424bfedbcf5117814cbdaed21436090fcfa0c8ed04b9"
     },
     "seven-new-homes-in-lahaina-historic-district.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "0f437b80d10e4daf403d9fe608d363e3537877330b4971bc97de1d69e9c3d0ca"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "998ab290158f42a201c8d9534cb649d5d6db22e4b21666e37086be8f81838649"
     },
     "spending-the-1-6-billion-federal-recovery-grant.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "c293db790abfd5d0b59a70f247a7357935aad83b81289a840e463e85d0d821db"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "4dfd2c56a64048366fc74c25f96b913b0098f7b9c8075ea47aa6526bed9bb23f"
     },
     "staff-approvals-of-lahaina-historic-district-rebuilds.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "2692a24c866b4c9a39d2492e757104e21cc33fc127635a36b3db38a956457156"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "1f8d71d25289b2ca45e0d31130b8a0013f96c9e87b9e902748b5a8ae1e12c3d9"
     },
     "subdivision-tree-removal-letter-from-arborist-committee.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "ffeb46bf1f7c1445547c2ea128030dcfb2ed04570d2151e4c77b55dda6094bb0"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "7f02d01f6864e9be802d112c61b248d0a6cd29347d728d762fa352d85c1de383"
     },
     "talking-is-teaching-bus-posters-and-donations.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "bf46b3ba077e81696e2d2d3158e52d12144d40388475c3392de1d31921dec309"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "121664cfbfbb819187d2a48d6c4fe168e74ef5b473a0adc4e3455950b4f22ef6"
     },
     "three-dhhl-wells-on-hawaiian-home-lands.json": {
-      "updatedAt": "2026-11-14T12:26:13.251Z",
-      "sha256": "5dbb9c0a5378f3b7d3cb8c3bf844eb021134537de6838a74643b143a0c13e247"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "3256f02f2436aa116a13d101b37cd19286465e3ccfa8c0273544be6d3b1feef3"
     },
     "three-lanai-planning-commission-seats-opening.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "c0254b3103671207348d9a6c390316c54aafd8edb87b4cd2b099caa8d695580a"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "ada35e74a9e1fa3c97a4984c05450ed62ad06cc82eae17262d4bbd0e6b471a08"
     },
     "tracking-public-accessibility-complaints.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "25b258b5f14c4df9da349397c7bf6cffa1ab98f94930d5815b6ec4e73c2ffe4b"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "96f03cae6528da7cbdbb7a3ac1043b972fa4ad08c8da876ccd7ad7c6e1d862a7"
     },
     "upcountry-water-shortage-conservation-plan.json": {
-      "updatedAt": "2026-11-14T14:26:19.447Z",
-      "sha256": "26a963bd649e56739f9fbac7ea10dde87627db1ca93f693295df28b824b30e44"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "a08a185176eb16091370323f344462bab82cec81c40176d6f51ae9cee26e2df2"
     },
     "using-recycled-r1-water-for-irrigation-and-firefighting.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "b5c4b6aab5d235484af8c445027bfb9aeb43f5e05ce56004bbfa8ca61d85a694"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "1196f1e20ceb2755a0b224ef7de7ac942a2bee46da197a03d9f256e7e9ae7750"
     },
     "water-board-letter-on-housing-for-fire-survivors.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "feb1f7a8f329be80bba478843f43d4fc51b5d36a42ec942e751393d50edc4417"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "2ed1042f11b3b1b4187db7d732dbf718a8a9c244bcbeebb2addd281157c2ef93"
     },
     "wheelchair-access-to-scenic-overlooks-and-state-trails.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "143557894ea8584027353e3bac29b2702625cf607564e057df9ca368e5449981"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "2f8eb04278a7292ca051cd90527b6ad606ee8a572abd3a2a7e97447c5fe0b171"
     },
     "workforce-housing-fee-waivers-and-repayment-bill.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "f69a19c8f872f6f32ae163941f1f90cb38e32b564ae7ca9e4473892e3f3b6cde"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "075ab4ded7aabd510bcb438f77c402be9e0784444fff78dfa6a2a64a832f9182"
     },
     "youth-commission-list-of-county-funded-youth-programs.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "ff5496639bca2da97627871f4c3232e6600fa47594fca1f34c7fa6a755b94936"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "53bb99f3cb8784f0f149184094cac73a307faddc0e6541b8c89d79b0cd1d8a1e"
     },
     "charter-amendments-headed-to-the-general-election-ballot.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "2c0f2459b0d3869cdc281ec634b36f9cb9ca24eb303e8ad2c515c1ff5aaceef3"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "a910f628b83a305c08a55e126e676d3cd3da99717f2089dc06285b3202c35fc1"
     },
     "highway-realignment-crossing-17-archaeological-sites.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "e4492250f95465fa64ba6bf37a11a8861e36a6bee161ba7d55dae74a674c834f"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "d4bbf29e31eaa622dd629866221a6697cba49452014d3a83fa4c97892d6fbe6f"
     },
     "kula-park-renaming-headed-to-county-council.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "16aacf8ff0fa6508559f85778cf8c20e1d2fa29be29d73d831fed8aeafd1adbc"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "113575f244f312e39326cca1e0d6403a32a8a30efa432cd51844825938212759"
     },
     "allowing-two-accessory-homes-per-residential-lot.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "02abcf60ae205b3d3266000428bad07e1ea1a209b60cabd8eeaeff17d7bc3ed2"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "8f39ca259a67b9e4691c5a8a99c4bfe586a7296a398f229ade71aa163bcd83e4"
     },
     "council-on-aging-four-year-plan.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "f8effa27ee3f1ca49a1b2d264ef7eec967216ff7dffa75c5cc77db5dfaf8a2d5"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "acb74b78b9029af02c2e2f5cae80666b73e88b5c73ad74d08045abc761b69085"
     },
     "county-bus-advertising-rules-in-bill-13.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "867eca1880b4c31a8dcf0c76f4c022d8a58368c74c2e3b75d681ef7d23c7da3b"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "877caa7b22a28662def5ae5f81b802909168c9abe2109cd2af7e6b29a383a2b9"
     },
     "countywide-rules-for-managing-county-grants.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "65cc5784833ed5060f1c6e4ca07bcdcaf620466de4a6706b03b2bd7f3116e2d6"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "dad4fb4ce3555aedf988c33478122386c31af6492e9a40b15876c5e15daf0aa3"
     },
     "future-of-the-commission-on-children-and-youth.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "49065ca4722fafa82f34db7ec402c908339e193ea2d9fe5d7af49ee245e4df5d"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "d27f33be98deb97694577a088a235c1d0686e710f3f8d43ccc46046a41d96df2"
     },
     "higher-fines-for-loud-vehicle-sound-systems.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "e42aba17a042637b20d88fe840d99ea96ec39fe269ae1c4b15b998d449dcd511"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "c5c5e357f3a49c44077d87778db8572638cfd094fdfb42bdf39f07cd5ea74eab"
     },
     "lanai-koele-project-district-zoning-and-conditions.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "a1ae502286618a80146244f10a0fcbd5438a0dcaec5d33fcef86d131ac643c90"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "6544de31a9915c8e0aa832305dba9245aa6025acff0e05064fed8bf318af5ded"
     },
     "mutual-aid-agreement-to-help-kauai-after-hurricane-lowell.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "c99e32b41bc58d1be9ca539ad883247a3acf3bad4c094c1af7a8e901b5240237"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "8ab94f7883a20420c951b9bb40f3d66973e807662f71d2d279452784c7caf466"
     },
     "paia-40-acre-housing-project-rezoning.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "958c79f892ce20aa43555f2bb3666f457d1f7d857c079e053d06e07fac54eff4"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "1a96aeb8d9e418e02f6b0a688f69adfb32bba2a9c93374ca630cf7b79237e75b"
     },
     "paia-sugar-mill-light-industrial-rezoning.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "ca7b5b63d3a83043e517ca34f499dc816517b0aa4d70cc9bffa7a6759a6e0109"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "879ebc42a2270944ce9b980c54d881b76f3d5b9f9c41b06f97ae670342e6b042"
     },
     "sister-city-ties-with-ilocos-norte-capital.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "48a9111e8a684f0fa9857001f993ce2279af549fecd0f289233dcae5c35651c3"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "06709e288d350f953ef741099852d0e7e7448c0d45b8095e240faa86d4f12aa4"
     },
     "state-fire-code-adoption-with-brush-clearing-fines.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "08e845b781b9a0f42fe1878042203cd28922cb516c749001b7d6b057eb126045"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "0cd71871f62a35894a92ba046cdc64a264a9b5b368cdc1418be2ce3287ac3356"
     },
     "storm-damaged-parks-and-closed-kula-gym.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "cffde736af2d24c45487362dca5121cdd944f4a3f1be7431565f60cfd9c79497"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "994ec3f12d16fd3aad1a86ca859f6ba4a236f14fc4362ae1a6d7624567953d75"
     },
     "taxi-fare-and-baggage-charge-increases.json": {
-      "updatedAt": "2026-11-15T08:18:15.994Z",
-      "sha256": "234727d00964f709a98896af42d7a27f411d0f5431f6acfb84cb2121a39e89f3"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "333465d6ada33794b47a854141ed795c9198298a85f19b11eac937d4dcb41f7b"
     },
     "water-department-purchases-outside-county-safeguards.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "463901293d21ae409751cfe1de8c9b4cca1075041f07464cf75b4a32536c673d"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "909f1d6a826a96fba0efac81a788e08e5d268dcb45bec91b7be215a8f51baea8"
     },
     "expanding-fare-free-bus-passes.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "5ae60552ad415dea1665eb03b905a4e6947d6de88e32bed36038c5c5edfaf7b9"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "4343de58e216079a5232064e14c905a6a6cfe3a28f5b2ba2e77f20bfd7647b4c"
     },
     "harbor-triangle-rezoning-including-maui-ocean-center.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "1d449207d0150203e844b1bbcc4e86c0f3c936432e396ae805219cf0993528a2"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "c634a7e8d5c6ecd420b394529b01b3614ba7899e69082641d6b508f6ba9b1854"
     },
     "new-youth-advisory-group-launch.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "649888a5a4488ce94e00c8698114ae8bc037ec582761ec4b54d58bd972423dad"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "e089e9cb9d825c911d9fabc87def6804bd658061648b3994e378e373ec36353b"
     },
     "planning-hearing-notices-outside-newspapers-in-bill-85.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "6b38c3d2004e55bb1f0e4b2f5a8ffb68883d5e518598165eab0559b358b8149f"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "c53e4c6b68c1d499013d92b985139bfcdcbd52a258b8e9e42c3468713c689826"
     },
     "special-counsel-costs-defending-a-fire-captain.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "8c0702dbe5970cfb04fcbfb131a124b0a73a1a9feb16e59933a870c4ebd37f20"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "71ce4e7080db80361823502a72363e3523008953cfec249d1ddf7d95bd75929b"
     },
     "bill-104-kitchenettes-for-rebuilding-homes.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "34293fdf1277b9094e79dadbbbe07005be67c24fcfaa3ca78643dbd0cf524691"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "d18be6bc988eb590963e87cba43e66ed742e42624dd801d24c7319decab93175"
     },
     "bill-111-on-removing-belongings-from-public-places.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "ebfc058f050dcf17a8a7a13edeaff3b703d01cb9b39aa8b7c95f33c33321458e"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "334062eb940d44e3cb5b10208936b106a374a061d4f95baec061b116360ad7d9"
     },
     "bill-145-property-tax-exemption-for-child-care.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "c5692f406cc7a72a90a79a999d7c439ac54c6b4d871e9f659ea16bb1ecb5fec3"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "ae41c955b4d0e9c100a2eb3152f68411303c07660129d31dee99ab52dfc2818b"
     },
     "bill-to-track-emergency-donations-deferred.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "5c426777e7e683782d8deca33d1b93a4b7d2a6c520b829669d46b7b63fb5e862"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "0ba1ed4df0a79623cd8481be2b6d6df518bf994a09bed5f4a69b3cee44a856e6"
     },
     "bills-128-and-129-for-countywide-water-upgrades.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "c6f445648fe5c5c88667335a0f62bb47e178c8f1a737e9869310c37459682002"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "e9e5c356f5d9626ae269492f9cba1dd851007de4570a0b7793a9cb766dd87007"
     },
     "cap-on-bed-and-breakfast-homes-on-molokai.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "fa4258424c23b1864347ca7166e18453d8b00facd163409ef29921ccc2b471e2"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "f40879cd8c26af5007b789981673f00a1e07fa5e5bf0b8ad7f4e950846014e80"
     },
     "central-maui-wastewater-reclamation-facility-funding.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "55e400b6e28533b9c186fb27f4ae822bf9ba38f6bcbe6bcc21e598e098b852b0"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "a97b60db804840d0e1414f3381c3b50b67f7c8685ea77ec0002dcd28d4451d63"
     },
     "cost-of-government-commission-empty-seat-and-staggered-terms.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "f55f0a895ddac2ab8e581754068d1f7d127f7e6258e0827c52e96cd957ab9e80"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "beac60924cd002c735fbaaed25c8bab9edf9280919d55306b8263d1e110e9d87"
     },
     "cost-of-government-review-of-county-boards.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "42090cb9c6bb4a83f5b85fa67201849424741c1f930989fc7975ed76883615f8"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "237016c5164dfba3802cc51318f23fe9198378fe655ad9cb08d6600ba6e25306"
     },
     "county-buying-private-west-maui-water-systems.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "2277fe499e459e40da9f673de217bab4d6baec74ba3ecc84e4212f02d34f63b7"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "b97689e4960ec36729bfa43d8f1492515d3a8d6e7e16eecf6b461fb93f01364f"
     },
     "county-cyber-security-after-malware-disruption.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "58592a05b6cff7cccf68fc49d878004e871c3e0dbe9e5358c769ff8b51dbdab1"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "43e19d12110b1a277ca0083f2f3bc56c218807491cf92dd354e2da4dba80dbab"
     },
     "county-one-water-coordination-effort.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "4ca09c1441e40c8e7ef6fd1f5674e24f3cea0ebebe99a68dcd64168207e1df9a"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "b786f74bb3a98958642abe2095431a5284f07570b5cc284f2e024ac10d424d58"
     },
     "disinfecting-wastewater-that-reaches-the-ocean.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "28e34f5b550036065ce232a5d6439f043d1a62c158fa8739de9d071b611612e6"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "d0d4a0930c9aaf780c8024a8b5a58c9b14b0be5fd5d62f7f9a368b110a3dd721"
     },
     "emergency-rule-for-relocating-fire-destroyed-liquor-licenses.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "8a588b6c96425836242ad418ed78d2cd006c995709b577095f34f68cbe610bb6"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "1b15efb998d37b20c45c6d5fb3bcce5f94ddb521101dc4d05d182e5ca2a34027"
     },
     "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p.json": {
-      "updatedAt": "2026-11-15T08:18:15.994Z",
-      "sha256": "f59069a2c93896806016940c501dd1611f3ac00ba8eb3d3f6c70656888278743"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "a96de010481c5af82628cc6511ab780035b066462ea3e42bf14b873eb0b8c490"
     },
     "ethics-bills-on-nepotism-lobbyists-and-ex-employees.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "47bf6f575b274ace82342cb4e3bd0ab70f3eaa58ef5843651e97c2410584382d"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "d7b14ce41840082312796802630334dc598ec2aa4f87df048272d2dc424ee094"
     },
     "evacuation-software-and-new-evacuation-zones.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "9ecbafd20d7dcde38ed4877d0c64f9f35c77d1113e1877fcbc360cc45af31e59"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "38940b5584c22a9960e36a2e874a9305b0ea53b39c5d63e01a83a038bc319a90"
     },
     "exceptional-tree-list-update-after-the-fire.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "87923fe445659f9fb18c73da030dfa26b8f1beb17dbc2f2bdac8a216eeba7361"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "0082ff680f5c94773a555d8a003c12fe57e74c16604f8007869f2aec8df85c84"
     },
     "extending-property-tax-relief-for-wildfire-hit-properties.json": {
-      "updatedAt": "2026-11-15T08:18:15.994Z",
-      "sha256": "e62f7c4b818ca90730979928ffd70eca1be090522857910266235e5ab89db283"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "f9845cbd9fdf40df182cd868cc90236bcc5b81b76e0914ff3a01b8184936bfd1"
     },
     "fema-reimbursement-of-county-wildfire-response-costs.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "9b1754238806cfd537d1256c632caa9f6e9ff75ca44f78d9ebf8e37e4d1c61e6"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "bf46474fbe3d7cb4d0f3a3d8232d8bc3dbd7e472431cc261c67312b9792fc751"
     },
     "fire-department-budget-request-with-10-new-positions.json": {
-      "updatedAt": "2026-11-14T12:26:13.251Z",
-      "sha256": "4e197c64b27d0ee10661d9215ea3e5f42d6ad4c08bd74dd3b68d116c2bc75123"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "d2af1b9a1914272e6d164c50cf398f3e8faa969473b8a3df7b743990db02b8c1"
     },
     "flood-zone-and-building-permit-appeals-continued.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "466fc196e50b8007cb33ce9c35cd4ba965ed7325080264d8752b51a3cad32db3"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "2325cb32a5e82d84b5307bdac60e26c99e0dbac3d0337bbece97454eb792f91b"
     },
     "fukuyama-sister-city-delegation-and-follow-up.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "07e9f32e8a61949799ed1fd303c1edd5ccf455afcc976abfec48c0acbf7715d4"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "10e946718ec414d63cba78f5a1784df4f5b55884473b9e6955e7dc2d509ef452"
     },
     "full-rewrite-of-county-liquor-rules.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "904775f9b064aa772ffafedff05830f35024f86675ff6db31bcbc932580c9291"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "b4abc834b098210cd7fc9e4f793aa9b1d0be065983975297df6b2eff634add48"
     },
     "industrial-growth-boundary-change-in-bill-139.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "111b26052b0058076e78d55ffd4bf024b953faf55dbd1152da37a57b59ad3270"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "c20a1a668552c072960b7c753edf757b485c569a3e80a172784ffc5d383ffeeb"
     },
     "investigation-of-police-criminal-intelligence-unit-oversight.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "9637edc3f13e314f9ad52cedce0cc202c37ee58386e1add5d2a97e6edab305f4"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "b618d87e3ffb6eea475452f4af51e69274f5b3c361223d01ad09f534d4755a60"
     },
     "kalaupapa-transition-to-maui-county-under-act-171.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "c5967eb5708f7c87f94fb577807966b9795b85c7d257f9c52a7b74ec54b6f458"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "17496d1ecb51a8531bd15362012c497e14ab9fc484f68af6cef146d96955fdd1"
     },
     "kula-burn-scar-fencing-and-native-replanting.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "968d4590c1e9e1de6ea56e85dd8512ebd792f703ffeeff89f74a7f466e4a2f09"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "1f48aeb969b2b825cbb4f1744fe56291fbefeae3633c98be0fccf0e4d99d171f"
     },
     "lahaina-long-term-recovery-plan.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "00c0f7ffa06b9fb94b7ff1f401e57fe0ea2a2c0c988043a6b3bdf2f31c31aa7d"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "75005807f13a037f219086def5aaf764f94aac892b6b2a973a987c6a7dfa5bb5"
     },
     "land-purchase-for-new-upcountry-well-at-haleakala-ranch.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "77624bdc239b38a9e4ea5c59a1cce6ba95aa874ca9f631e53c2a8d089d94f42f"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "9e38d73642992be330be663118993511acb964616ec93efd1c330351a96f6654"
     },
     "license-plate-reader-and-facial-recognition-bills.json": {
-      "updatedAt": "2026-11-15T08:18:15.994Z",
-      "sha256": "f043d0eff1612644e7c4acea90b8e71554cd9a346132b1f8cd523fb033ebf6d3"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "237d8b76f3210f7e7252ad067259941891cf1222cde37bde3bb03f8bee680851"
     },
     "liloa-drive-extension-in-kihei.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "787594dc63273eb7790a620e7ec6437a06cb67ce14a285181eb1206dd7195067"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "ea9c01dece0212475b1ea3b1a0f56e528ee532f9db8365b1c3ea51325c62f27d"
     },
     "limits-on-new-swimming-pools-in-west-maui.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "b2139e5a3c082103c2d6d5cad63b2bf4894a71f99d365da49edba332b65397d8"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "dca9e01fa8832af438d62d4d3ccbb9489a61fe7baababf1b36385a70e02365e6"
     },
     "mema-community-resiliency-hub-network-plan.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "05fb58b1cbf933e282df92612fd1e9e98c1a5c5e13b9de2b0f9ce34292a8b060"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "b77f720aad34c4e0fa12128e27e4b698610f0e42e36f5b44a136923b563cf7fd"
     },
     "molokai-landfill-limits-for-hazardous-and-disaster-debris.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "5ba1bdae794f46329b6ec45b5777b632541963ec3be27b1b53bac94b4a53e777"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "8fc2e0bbfcfb24aebcceb01325139da364480bfa331b9238038ab161f7bdc519"
     },
     "new-county-emergency-operations-center.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "ceff45f06570a222d66d344369b8cb4fa5fe3ac0168ba8650434d3978f373f72"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "44dfab8167e77a99b33386757a5d55fe0cd3a5b65173e651745b2c19710919c4"
     },
     "plan-change-to-rebuild-fire-destroyed-neighborhood.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "b173e1fa5ac94cdaccf529ac14775e1852a36366cd4c8ac03d7b9e471318bf1d"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "115c5e7f0cccd168d2fa297f9cce722e3129409ad0dfb93bb5cd8ef84a6ecd78"
     },
     "possible-county-purchase-of-maui-land-and-pine-water-assets.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "c7885a658e982e30017523064c8e459c9c311b575571c34e3ee3bd7b48aa1560"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "42e1c7462402bb7fab009a73c56881c473bc22f3bd5e5356f5cc6cc928faa39c"
     },
     "proposed-ordinance-on-board-and-commission-vacancies.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "b611754731074228308f149a80e977864378ec27003b961ed7112ff58381ab2e"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "244aed40f923d9888376199bae36b3271f66dd5cef37d9702951187b6ddadb6c"
     },
     "replacing-leaking-250-000-gallon-haiku-water-tank.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "8ddc369b588eb9060c459fe4326afe5a794fa0c2f4d9f2b6e5f941eb877714d0"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "2f9d14921ca42f4aefe5507670f26944e941654c4789dd8ef467d483c5248a86"
     },
     "rewrite-of-title-19-county-zoning-code.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "6113105097f7b83f2565d8e5d22185f30470ce2319b34330b34bfa8a0b480dc6"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "e726c0219f69dcaf671534a958f98221b3597c19735ba9945a855cb40acecc3d"
     },
     "safe-parking-sites-for-people-living-in-cars.json": {
-      "updatedAt": "2026-11-15T08:18:15.994Z",
-      "sha256": "db6d86c34b6faf21cc9238c80fc4ead57e5e18762819af30b7e976b1195e63da"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "05a0922a0a7f236f0bbe6a4318309b2951637895a91d6a13d739ab7d85bc83bf"
     },
     "seabird-streetlight-lawsuit-settlement.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "106f0f37caa8056114c2065b8a53a589db2aeaa08517ffa8750760b20c27001b"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "28bc8e05025a93ec7b258a2492f2359c3d7c86c8761b7592e52fbc80739deaaa"
     },
     "search-for-new-department-of-personnel-services-director.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "927492e8d8ba57dd72ae016b3df3a019a286aafa962b47afbb7c256a3e84f2ba"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "cf534f8b1228dedc4d479d12d7be7d747c7b0fe465df5cb66a559f33fd291f62"
     },
     "special-management-area-boundary-assessment.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "4b9921faafcc8d9ffdb2a60e90f54b6a71b741263b2514288a6bdd2ddbeaaee1"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "414c433a5ec09df64c8090f26af457393765927b2b674d37d7dbcecae55757ad"
     },
     "vehicle-disposal-fund-uses-and-25-fee.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "bdea4cb5b2ed3e4a41d408c321a6b1f734a075773af53746f5ae1e274152512f"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "2272d575bb3893c271258bfc466105b70e4827f13682ca986ba15098f82e036f"
     },
     "waikapu-80-home-workforce-project-subsidy-and-deadline.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "1a03b607071de1c613d72c8de75915df975ab32f7ad559dd5b5217bfbd42115b"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "a629c7da4a2b370dc774ca2919eec3adcf3c0917b2c7e5bf0b79c335fc647956"
     },
     "west-maui-affordable-housing-project-water-condition.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "48252095a0608ec633f100ef333cb10b86a64a1885eaa149f20865307735c8b1"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "0f271f7af25896b65dbd9ccdbe274415ea8c4227f4f5630e024617e48df05b0d"
     },
     "wildfire-after-action-report-from-emergency-agency.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "4130ae8f06c5d72a67cf71d3b519bc893bd7d93cf14da3285547c1359e3b037c"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "a66c68eea4815952e08bb266190bbffc7ef75e6c9f7a0010d70253ecae71ac5e"
     },
     "wildfire-survivor-health-study-findings.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "ba57a55ff1e33d2e4598a1131ed277e47981ae343534cd8ab9ab1624d1ccd8fa"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "1f80777d0cfe145fd157aa9a21f89f668196eef76050049baee3ab32429ba0e2"
     },
     "yearly-usgs-water-monitoring-agreement.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "60ab4622f964e1b85b797a9a1fca5333e358323e32243d5ab9e1c3dbca0e3b85"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "413fa18d338d9b179c7e3706964e9bf40f9520ed605ea25492c7dddc5ee4db44"
     },
     "liquor-rules-for-nonprofit-fundraising-auctions.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "2b6264bc8a5f112c74e6ff96fa9f8ca7ec614d374a0a04e0e3d4b67b46541cea"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "04a1db2287f6013de6adf572e5aa2d7a5db1f350e375cf8b7cb1b9a88b1e043d"
     },
     "village-association-plan-to-stop-using-injection-wells.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "93b9e71ecd9eda24857e465dd12dbcdcffafb9d9f48575eaf066aa29614fdd5e"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "0bbbbd2bc4604046c5326384fd2fc4739aca8da1a43ded0119e04b6a9f69254c"
     },
     "water-system-development-fee-based-on-daily-use.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "e5df48e191d906413939453f0def155a5dbe8ad9f8a8e7c3f14dcd0b4d393c01"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "05ada934d9dc0f2679ef048ae3d7319bd0051ce44aa9b2b50aca5b29e31becc6"
     },
     "county-funding-for-lahaina-community-land-trust.json": {
-      "updatedAt": "2026-11-15T08:18:15.994Z",
-      "sha256": "f61346bf46b6dcaba5635887b000483eddf169a92f09b0d02c9c108bef83bc0e"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "02cecb63a5662a7f856d8772ecdbfa1bfcc227bc322f80963e4a739328d92779"
     },
     "lower-waiehu-beach-road-land-purchase-and-title-dispute.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "55ffa8a15a05c087bd2963a7a27073fe4c775db6af68fbd145945de465983e17"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "649c9f794331557c70a4824ec3e862109bfe8cae18421d1788ce972d0ac1bb10"
     },
     "voluntary-deed-restriction-program-for-homeowners.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "36d78a35b9c11cfcd7ab4cfcb278cabf35c9db91893f019bee5b0b77594c8c8c"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "861ed124884e86c5d50995e913deec837d8d7f005f458dd0b54bac715914c0cf"
     },
     "water-rate-increases-and-19-80-top-tier.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "5497a20efbfd7cd8e8ad79129dbd0a6217fe7ac78ed9ce3bdceaf7723016669c"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "92d29d2c30831da2d5c497b051e6c40f91a60c0103127dde060a3b8990462dd5"
     },
     "bill-105-rebuilding-nonconforming-structures-after-disasters.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "1f9180ba489dac657f95dcf6e1ff14135953791b7355ca9854f12300e66c8c1f"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "29b4fff92a283be8a23a652d8623f837a4a09bd4610ba982a03beda430946207"
     },
     "bill-110-street-improvement-exemption-for-front-street-rebui.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "45cdccf51fc466048a97da4854a4182ff6955d990abe11e7e92c09307e15371b"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "4d0168dd38d8bbc873886f1b31b46351c57a2d837005210b38ff33f4ef2fa4fa"
     },
     "bill-87-extending-temporary-structure-permits-to-five-years.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "6275cdebff7b9f88502efdb823a6fd1681707d6f814201029f7b63d171ed5c4c"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "3d2b3838847ea5ff7d4e363a4cfc86b23798487a977fd72139e3a923ca5b4529"
     },
     "countys-wildfire-lawsuits-and-global-settlement.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "09bcbdcafa3652cef7ada694ff7387b9dabd71e3c3d5e90b1b669e52da570c35"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "7f4210682d7ca1cebb9c53cd1503ec3145e110067e43ef083093e6d92b6adabe"
     },
     "yearly-9-percent-sewer-rate-increases.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "b5bdc75abfa0ae211526ceda213adb78bbabb143dc8ea34cfa09c573d1a2c4b1"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "ff4af02ad2d44b65b68a92fecbdcb87c8426e0944575c2042b03b5cec354de4f"
     },
     "building-permit-exemption-for-storage-shipping-containers.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "9cd799925cf79b47f7184cf8a0b326f3a09a649cb61cd5a68ab0528351fc2aac"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "5678c669dea9fe0468bae08c798df203a96c4ed476d6e6144666e175552f2944"
     },
     "emergency-fund-money-for-march-2026-storm-damage.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "bd6f24c4a1482648b86608bc586932ad52687d82e6b56bf46e85f667f1dc3d12"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "a5e3c2e5fdab1d04092b0d9a594a6fe6f87a7bc631ce079398b23d3d1dfe5bad"
     },
     "airborne-mapping-of-mauis-underground-fresh-water.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "6c89490efc0a963822f3794807f414ff3f775fd328aa29457c192865ab20e1c6"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "2baf721d4b45e00aa6c7787fad461c328421cd8cc2aca8cfed2e7431d3d425b9"
     },
     "climate-action-revolving-fund-from-hotel-tax.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "b4ce8dfc1318a4319db39975491b6e067a93d4d1598cfdc7a15e04e91f1a3ed6"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "5e6ef4c3f560c4b66fba2e0cea9df29c972902860329af5e0d46c76df15683ee"
     },
     "bill-77-setting-aside-housing-fund-for-houseless-residents.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "357698a862067c092392a39844864703dbb08e4acebd55a163c753b7396b01d2"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "89d387dc7cf7586dc508c6f639640708081a53dbe223df52a56150f1eb61de69"
     },
     "off-street-parking-based-on-bedroom-count.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "4a293ef78b42308bc04330dc191a21cf260dfe179ed3447bc29615273b875521"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "3ff272099e7dd615969cc119a9b61aa93ff1366d7a47b4f85304faf94bd8f664"
     },
     "appointments-to-the-east-maui-water-board.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "d67b9fb13dda13cd8d0ca7f6c45357922656bee4a5631d82099c8d5f5d5c0f7e"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "c126c45fb6f94515fce0517ed2edaa142df848a4d5fe875885d7acdb0b010916"
     },
     "lahaina-wastewater-plant-upgrade-loan.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "1bc51431b304677d5e7255326f378bbaf59d3c372e6a7f6ff03e39f3a09d9074"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "f370012ad310d4c8cff56e768b369f4349aadced6cab44e65501681cfeafd1e2"
     },
     "reviving-the-cloud-bridge-from-leeward-haleakala.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "4b226f8df41e6f8db7f03b35fb4d2beba8cd2d40f91301a3bc2ae6065a984f7e"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "f0ba20aec588c9ae83c1305360fbcd30036b9d24450beed266ee1d7fe52a9a5d"
     },
     "special-committee-on-property-tax-reform.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "3b15125eb0b728c30b8380941f19749f404233cb782a3c60ef78bb77d9bc482f"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "ab2653a23fb3a3bce6a2afe71df5b1c98210080af6342588286602fd7b322ea5"
     },
     "contractors-taking-lahaina-rebuilders-money.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "ef7281b09e3203acbc50c4427c3859a5ac565386bef20c787abb650eb148e30f"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "4923fc2d31b2f5eceff84be376f819c903e69c5632db960652165a4f718b00ca"
     },
     "lahaina-residential-condo-rebuild-grant.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "472acad0d064152e316eb51fe92490242a615c20c487c9f13d1a887c132945d1"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "f04436b7e3d7f064efbe3a25df422e7b3e2c6bc9f14b6b801345177928f9a6c9"
     },
     "temporary-and-permanent-lahaina-wildfire-debris-disposal-sit.json": {
-      "updatedAt": "2026-11-15T08:18:15.994Z",
-      "sha256": "28724327a495de171585a5eafcd71e979a94849e4afdaf36ae4adce808998d26"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "c21c4ac1948c4a29b250f2a21c915d8decc8c476276e063187a82619f9c1d14b"
     },
     "discounted-preservation-water-rate-for-habitat-restoration.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "97927e2d3244b4516481f840d08808741e3128a49bf3f5cbd189081f3c905ce1"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "05c8a078c78ff175a6f93c27c6023276546865e81c4cf0f1abcc6b845ad7505a"
     },
     "kihei-former-institute-property-housing-redevelopment.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "242297cf87f8ce652f096e34bd37db05ea2d8940da0b79403b7fb0e24ad77ba5"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "5c04e2f8babdfd0b37feef4f5bd7d9f4f10544954539efb833617d2c364bfaab"
     },
     "meo-farmer-microgrant-program.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "2cfc5ac17ea8d6dfe6278cf2e179c48042950fc334bc4112d84c5556b54ffc0a"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "ec55857ad86548dbc0e112f527156508a9a86d50de9af9401102a876e701cb0c"
     },
     "30-million-bonds-for-molokai-land-purchases.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "06369ea5995f8b450eb97d5cd3608eff9498e62512b1d2e5fd7d6f34a7fe2d3e"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "3d95bc5f62e8aefcae582a77cc2385688ea90527d9347ca1f4faa467f7d5b002"
     },
     "east-maui-ditch-system-ownership-and-county-takeover-bid.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "ad8d5f56a2b4cead8e90fdf44d8729d3e84c46413a7f90faab57f964f9b6b884"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "aacc6854e8df1a49185e96190b4e82c84e4ef33cca117d88fc529555bb64ad93"
     },
     "board-of-ethics-full-time-staff.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "d0f563fdcf4a01573c2864125aaedda91fcf5574292758d5c729a4e8d8108363"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "73bebb5519c330160cf30e330d7d557801e0d110eaab97ec2b825b4f5c98984c"
     },
     "board-of-water-supply-opposes-bill-1.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "576ef53915d40517dd0a3e3b2072cfe8643818c7b4180706ccef73b171389004"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "224b013c440696970b7fd9852e9aa2b6718e8f1c89ba112ea7d92b3aeb9bbc49"
     },
     "county-worker-vacancies-and-hr-consultant-review.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "12c1c56ae71f88e0b56b317c30470e2034803dce9d782d0ac2217a613c0d71b8"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "3ff0d063ca19a4bcc8e40526afdfc8adafd870d3456d914012be2c314d17d31b"
     },
     "east-maui-water-authority-grant-program-funding.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "d422751a2065a4099440fbb4cb109fcd9444b960c20f0f8e91a23086646d0577"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "f56a51286bc683efd40c62141e29b240a325aa3c5bba1764da1bdb4424a321e8"
     },
     "haiku-fire-station-awaits-county-council-approval.json": {
-      "updatedAt": "2026-11-14T12:26:13.251Z",
-      "sha256": "7734cf460c12ecec2946864427e5e5993ff07168edeaa9aaf1a4cb506162ead5"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "218d55a0347439c761a6ff549a03086833af6501e04d2ba5736284cd56b54771"
     },
     "east-maui-water-board-budget-and-staffing-requests.json": {
-      "updatedAt": "2026-11-15T08:18:15.994Z",
-      "sha256": "be6606b035d6844b6849bd65fc2be491fe8d212eeb06c3beef6bca96835dfb21"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "2e289ad3b8866c32a58ed4c57d821befe5ccafd44b7999ed6f62af34664b8506"
     },
     "fire-department-equipment-repair-and-replacement.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "fc0c2f55268ecfb90117800ffc300a7a9664a744ec30364e0d41c3839a5c3dae"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "cde49011dc21641ad69d8ea5767df68fc5c468d8386b8b49983a518c395705e1"
     },
     "fire-department-input-on-housing-density-bills.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "9b6069c510ca66eace10c2a9dd04e98bc0890c667738f7ff3db76c1c76d43ce8"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "0e1dea4a0d3cf35f7a65543e5ad17fa695372c1bc29e534b4773dc2055dbaf96"
     },
     "fixes-to-workforce-housing-law-chapter-2-96.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "0addd8478ce54fc35b18b199d0b1e3b2f11fc713984e44e36342bbee49e3e59b"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "c933712efef001a014e171470151a3d7e3b70f9d5cafbd652103651031e026d3"
     },
     "haiku-stream-water-testing-funding.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "67a3e48652eb6f2d55fa82e141dc14eb0c1328bc1d6278fc459d242d2a969306"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "a90f68e07bce6c458c92a88adc60de73a35c660f281c0788a1fc31781d493bf5"
     },
     "lanai-city-parking-code-change.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "7bf05966d6de161c09b02a9ed9a1d7b0198b8c6d72f53a6a49a7da6e95363705"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "fd3afb00ec7910a69835bed274f816d78d372f59648451b96ec4742a93057651"
     },
     "new-west-maui-wells-timeline.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "43f50c58132fca772f936526c291a3193a037e84b3b691f001ab7099470e9af8"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "214a2e2bc4a2ccabccf08e0954418f81e175bab8ee8e43eca1050c9427d0f866"
     },
     "ocean-safety-officers-arbitration-award-payments.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "73175b94422c337470aed0bfcb74cc5659175a5456e25581da31ef282bbd6d6e"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "ff19f19c7090d7a48e3d2ec82925ad125dd4bbc139f2113a10e3bbeeedbb9094"
     },
     "county-food-and-nutrition-security-plan-law.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "838dc20835337f87a05a180972d4f72e0ee7e64bcfdf59f7c693c6e36d88361f"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "da40aaf461605b358cfa95cc4a7d2bb2a33c42e559cd8d39496b3c6bad0fb512"
     },
     "ohana-assistance-program-for-building-family-units.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "8b1f5c92cd6a079c9d66f2b8989fb1c2af2c90e3ec061a7e41a996cb4c421bbf"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "5b5a2392dd88204563f5041791fc9927e1fc22ef329d23ccefe90a40a7237658"
     },
     "proposed-west-maui-critical-access-hospital.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "4ed99985f14745304a1614ebd399aa3461ba1e1f70a238156335ca5a57f43141"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "8f7e739b51d591957948baa44533b8c7cfd7979275be2fe45cb761ee063f756f"
     },
     "upcountry-water-meter-waiting-list.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "2299f1f5fa5a87166a3de799d903cd4265e0b3bfbfa1550cbbafb3c820918ef0"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "0ed471413ebc9c8629f123100b1ae61b782da6ce27d3c66188424b1eb499f911"
     },
     "water-department-engineer-shortage.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "d5b39213f4164c87415282f2a9d83171acd42c3428d84874106d706904165c5a"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "df07f40b4f1f0e60d6c3e83aa5b01074b75642e7691c0628b1b4464232acdf65"
     },
     "firefighter-pay-contract-arbitration-and-mediation.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "36029e21f6ed0b6a4360a6a77e49007ebdc20ce3809794ff36abd06f0b9a73e1"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "9bfe4e7bb8f3cea3cd046955ac1777f1f3b3f678d04a23ce0214773942e20447"
     },
     "hoonani-village-housing-and-well-funding.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "1e02b6e38475b24aa64e286a4b0a1dce8100879cd919f1a1f38c8368a065ceb6"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "4d93e732db8da5b33596ca76cd66b45f1455e50c8a2c7b91857b7b6e570b1c97"
     },
     "voter-service-centers-and-election-use-of-council-chambers.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "3bfb2ed16b27ab3faf9dee51f28e5caa0ab2e16e352c6ea33425ee4d1382cdf1"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "21df8758e2d64dcd9364770afddbcc5e17bc9e44c8ccf3bd11fdcc28900b75f8"
     },
     "drownings-at-unguarded-beaches.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "dce6c652d8b0bab21c77c9d581200baabaa1a64b5b5d95a9e7fe0c4f31528537"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "329c66c0418e16138a7c14d3efbe31707bb1d2d64cc98e6ffa4d6772f83d9d20"
     },
     "lanai-planning-commission-return-to-in-person-meetings.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "79cc32e7116500a091dca0d37e7c688c57df52a15871b4892db21b41d2e12489"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "554c113715ed1829dbc0d76a8cabe94f59ae01b0daf450e1bc6643e7ffb89e61"
     },
     "coconut-rhinoceros-beetle-detections-on-maui.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "590f07d2e2b6528d84acd576edcdbd2f2ac49356465d68109b60cc744f9181ce"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "636f6f85963679baba1408608c4be514a428cd8cec199ebf0d51593e9f3b2408"
     },
     "kanaha-beach-park-graywater-reuse-project.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "d0670636a97643e9f6279ce8c117ec6dea1547fa2d8603bec6ed557e90ef2891"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "f0207628fb184852170ea37dd49be18ec9e009b9805ae8817b42e80b6db61047"
     },
     "new-countywide-water-conservation-ordinance.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "7a52385eb0611c364f25b6f82432bdcb8c77b50e0871265cd833363553dabc57"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "61939ab527dda0b7a42e6c99f995e74ecf209d4dc02991b4dc72808a622a5b14"
     },
     "release-of-an-updated-west-maui-water-plan.json": {
-      "updatedAt": "2026-11-14T12:26:13.251Z",
-      "sha256": "ee1f28be5863a896e95bf519fff35218e15b4d21edfb6d2250f2703a0ce24b0e"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "b24593ccec6beb143705359a4257427b20f0e7305198e76d110694224fda6aeb"
     },
     "setting-yearly-property-tax-rates.json": {
-      "updatedAt": "2026-11-15T08:18:15.994Z",
-      "sha256": "6302dee3e9f575e0f993229548b2c60161b8880141aeefa4374f47a6b97c80fd"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "93437f7cd0a886d9b2e695f8d813366d478909569199705ed8924abf763c6406"
     },
     "lanai-fifth-street-affordable-housing-project.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "202b3d9d091476baa557ab186cccb59093750cf75a968086d6fcfeff911d7205"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "fbd66498b9e838061f741e8f02920d3165b4a9bcef8e1eb19f1fb8643914f948"
     },
     "half-percent-general-excise-tax-surcharge.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "0b67d2448a78f1a5c6ef78e0259af9a18198fff5a37df2b11c4d236213fa7200"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "4d901a4a18dcdf0e1aef7411770c5dbc74cf8364589696705e8a34bce9c6db94"
     },
     "axis-deer-damage-and-control-programs.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "f641079fdd3c87085032c8353f6f6f83573b1a9a9c1690514bdd12a7d9446b79"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "127cf0cacc92f9a9813fb26875267b1b0f1e9fa08690f5facab6ac440d52854e"
     },
     "malama-kula-green-waste-and-fire-fuel-work.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "6f291bd3a4012c2d632361995d8329a6c0f992f4309f87ad21186271d79a1951"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "a02f15626a843cadf125ed378ab57cb2cbf6573b75f83383654c2006f8860723"
     },
     "kula-ag-park-expansion-and-new-farm-reservoir.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "9fb7167f2a9a5300f2f81c664df7108e73cd3021f222871c7f300a028545f914"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "e8585b05c6bdc27d7fd261de5853f434da48d9aaf22a1dfa4e913f087363379c"
     },
     "planning-commission-appointment-fight-and-lawsuit.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "13893dc5e9c356901503841ba20d22b6c1f19d1ecd72b18f2c8d082343883c53"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "09aec96ed0beea91f7eedc7d52c8ff5d95bb655b3eda8c2fc13a115f5373765c"
     },
     "central-maui-landfill-land-taking-by-eminent-domain.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "b9d525e81859e480fd4f0fdbff3721523d1b32d72536fa6e12ba20bf10fd4c17"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "8b49a53c6741aa3c3773354d9084d3b06e00d7dafbfe224999800164b6404e04"
     },
     "countywide-fraud-risk-assessment-and-hotline.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "737d1d7a0464cd1c684198ba68be1a67b5bfb10a53a4b6340a699f0d30d785c0"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "616bca553aa545ed56f7b4889a7487efc68e618f517d1ede0f7a1b09abdd187e"
     },
     "enterprise-zones-including-proposed-napili-zone.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "299c073a49f685029593780b5c8a7ff1188d9555df4fc43e2cdb12e5e85c3cc5"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "5bf393bea83cf7fd941ee6679780e2593cbb4c4ca00367efc2dda922c03815cb"
     },
     "fees-at-county-electric-vehicle-chargers.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "759bb624af5b16f6acb2bb9156f38235eef97c1629ce2a4899c32a25d443800c"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "7b392b1fe7ff07adb1240725f370ab7ce5df51c6a3542b71c5ea9b6bfef43262"
     },
     "hazardous-fuel-removal-on-10-high-risk-parcels.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "c0f5f2ada29d3b835832d6ae7b91386bdbc8a2fc89fb710e8a5cfcecec0b82a3"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "e95f8df92c9bb8da78b239ff60e057b96065e0bdf8cfd659f8f1f0e5faecbea8"
     },
     "lighting-and-music-at-lanai-hotel-events.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "e2f664dba474256dd4fe1196485fb6f6582479a80069eef458c4049a267af1c9"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "6f214bb96bc84586c5f0f384201936d022be68d0631d915a41714518011dd41f"
     },
     "rebuilding-lahaina-small-boat-harbor.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "55368b9ec1e454afb92aed2fec36ffb7750eabd274d2dcd60b284d4f88cd3c2b"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "299f8faf07e432fd6b613f0cfac28c2525d4eaa5ca0b1af8a8a0b8d0d7b6ce18"
     },
     "rebuilding-the-west-maui-senior-center.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "f9ceeb0ecd9bd59504b13493647d57ec181b6c9d6b60c71ec5b363150c32edb0"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "ace67bff2ff4f64d8e753cb8688081dc681af99618d368383a94a7709872c50d"
     },
     "waikapu-country-town-development-approvals.json": {
-      "updatedAt": "2026-11-14T10:28:16.208Z",
-      "sha256": "912de033ae7fe7d34c2931c28d788424e384067f21dbc8109b2f72cd66238883"
+      "updatedAt": "2026-11-15T10:26:12.325Z",
+      "sha256": "ce348d915cfa2833f27401bbe94b597e3daca2cd22d1e8ac377d81d4f27a70fe"
     }
   }
 }
