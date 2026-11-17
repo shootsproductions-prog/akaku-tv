@@ -1,14 +1,14 @@
 {
   "slug": "county-one-water-coordination-effort",
   "title": "County One Water coordination effort",
-  "summary": "The director said the effort is just getting off the ground and that its head could come present it to the board. The One Water idea coordinates county water supply, wastewater and storm water efforts.",
+  "summary": "The One Water effort is just getting off the ground, and the director said its head could come present it to the board. It coordinates county water supply, wastewater and storm water work. One Water Lahaina is an internal county effort to plan water as one connected system.",
   "topics": [
     "water",
     "government"
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-07-16",
+  "firstSeenISO": "2025-12-05",
   "lastSeenISO": "2026-07-16",
   "signals": {
     "meetingsLast30d": 0,
@@ -24,9 +24,16 @@
       "short": [
         "BWS"
       ]
+    },
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
     }
   ],
-  "bills": [],
+  "bills": [
+    "Bill 160 (2025)"
+  ],
   "timeline": [
     {
       "dateISO": "2026-07-16",
@@ -66,6 +73,32 @@
         "endTs": "0:20:06"
       },
       "body": "Board of Water Supply"
+    },
+    {
+      "dateISO": "2025-12-05",
+      "text": "A council member said the initiative strengthens Hawaiʻi's long-term water security by coordinating freshwater, stormwater, wastewater and recycled water.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "__VVMnSS-8Y",
+        "ts": "1:05:21",
+        "retrievedISO": "2026-10-19T16:24:09.258Z",
+        "endTs": "1:05:52"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-12-05",
+      "text": "Bill 160 lets the mayor enter an agreement with government agencies on Oʻahu, Kauaʻi and Hawaiʻi Island for a freshwater initiative.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "__VVMnSS-8Y",
+        "ts": "1:04:38",
+        "retrievedISO": "2026-10-19T16:24:09.258Z",
+        "endTs": "1:05:08"
+      },
+      "body": "County Council Meeting"
     }
   ],
   "sourceTypes": [

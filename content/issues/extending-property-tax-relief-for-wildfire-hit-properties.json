@@ -1,7 +1,7 @@
 {
   "slug": "extending-property-tax-relief-for-wildfire-hit-properties",
   "title": "Extending property tax relief for wildfire-hit properties",
-  "summary": "On August 25, 2026, Bill 103 changed the budget tied to the real property tax expiry date for wildfire-impacted properties. The bill would extend the exemption to June 30, 2028, and the budget director said this lines the end date up with Ordinance 5913. It builds on earlier relief for properties hit by the August 2023 Maui wildfires.",
+  "summary": "On August 25, 2026, Bill 103 changed the budget tied to the real property tax expiry date for wildfire-impacted properties. The bill would move the exemption's end date from December 31, 2026, to June 30, 2028, which the budget director said lines up with Ordinance 5913. Earlier ordinances and bills extended the relief, and Bill 171 also set June 30, 2028.",
   "topics": [
     "disaster-recovery",
     "economy"
@@ -43,7 +43,9 @@
   "bills": [
     "Bill 103 (2026)",
     "Bill 115 (2024)",
-    "Bill 147 (2024)"
+    "Bill 147 (2024)",
+    "Bill 171 (2025)",
+    "Bill 171 (2026)"
   ],
   "timeline": [
     {
@@ -97,6 +99,71 @@
         "endTs": "0:20:19"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-12-05",
+      "text": "The finance director agreed to give the council quarterly updates on how the tax relief is going.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "__VVMnSS-8Y",
+        "ts": "0:59:24",
+        "retrievedISO": "2026-10-19T16:24:09.258Z",
+        "endTs": "0:59:56"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-12-05",
+      "text": "The finance director said the relief should be left as is this year and monitored.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "__VVMnSS-8Y",
+        "ts": "0:58:20",
+        "retrievedISO": "2026-10-19T16:24:09.258Z",
+        "endTs": "0:58:50"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-12-05",
+      "text": "Bill 171 extends the Lahaina wildfire property tax exemption from June 30, 2026, to June 30, 2028.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "__VVMnSS-8Y",
+        "ts": "0:53:42",
+        "retrievedISO": "2026-10-19T16:24:09.258Z",
+        "endTs": "0:54:12"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-12-05",
+      "text": "A testifier said Bill 171 recognizes the ongoing hardship and slow recovery after the August 2023 wildfires.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "__VVMnSS-8Y",
+        "ts": "0:30:07",
+        "retrievedISO": "2026-10-19T16:24:09.258Z",
+        "endTs": "0:30:37"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-12-05",
+      "text": "The finance director testified for Bill 171, which continues tax relief for properties hurt by the 2023 wildfires.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "__VVMnSS-8Y",
+        "ts": "0:20:43",
+        "retrievedISO": "2026-10-19T16:24:09.258Z",
+        "endTs": "0:21:25"
+      },
+      "body": "County Council Meeting"
     },
     {
       "dateISO": "2024-11-26",
