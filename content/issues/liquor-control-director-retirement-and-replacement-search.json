@@ -9,11 +9,11 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-09-09",
-  "lastSeenISO": "2026-09-21",
+  "lastSeenISO": "2026-11-12",
   "signals": {
-    "meetingsLast30d": 0,
-    "meetingsLast90d": 2,
-    "mentionsLast30d": 0,
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 3,
+    "mentionsLast30d": 2,
     "upcomingEvent": {
       "dateISO": "2026-11-23",
       "what": "possible special meeting to prepare for interviews",
@@ -35,6 +35,32 @@
   ],
   "bills": [],
   "timeline": [
+    {
+      "dateISO": "2026-11-12",
+      "text": "The department will send the proposal scores to finance to finish the selection process.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "-_32YWWsXRA",
+        "ts": "3:02:55",
+        "retrievedISO": "2026-11-17T07:30:07.868Z",
+        "endTs": "3:03:25"
+      },
+      "body": "Liquor Control Commission"
+    },
+    {
+      "dateISO": "2026-11-12",
+      "text": "The director said he is preparing a transition memo for the commission.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "-_32YWWsXRA",
+        "ts": "2:56:41",
+        "retrievedISO": "2026-11-17T07:30:07.868Z",
+        "endTs": "2:57:11"
+      },
+      "body": "Liquor Control Commission"
+    },
     {
       "dateISO": "2026-09-21",
       "text": "Director hiring is a standing item on the regular agenda and can be discussed at the October meeting.",

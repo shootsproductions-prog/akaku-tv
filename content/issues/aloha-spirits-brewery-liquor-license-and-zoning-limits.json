@@ -1,7 +1,7 @@
 {
   "slug": "aloha-spirits-brewery-liquor-license-and-zoning-limits",
   "title": "Aloha Spirits brewery liquor license and zoning limits",
-  "summary": "The commission accepted the Aloha Spirits Brewing and Distilling liquor license application on September 9, but no license will be issued until the brewery meets zoning clearance requirements. The department is waiting for the planning department to confirm in writing what the brewery may do at its location. Staff and the applicant's attorney said zoning may not allow selling kegs or cases to wholesalers, restaurants, stores or bars.",
+  "summary": "On November 12, the commission unanimously approved a small craft producer pub license for a brewery on South Kīhei Road. The license bars liquor made there from being taken off the property and sold elsewhere. In September, the commission accepted the application, but zoning questions arose over selling kegs or cases to stores, restaurants or bars, and no license could issue until zoning clearance was met.",
   "topics": [
     "economy",
     "land-use"
@@ -9,11 +9,11 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-09-09",
-  "lastSeenISO": "2026-09-09",
+  "lastSeenISO": "2026-11-12",
   "signals": {
-    "meetingsLast30d": 0,
-    "meetingsLast90d": 1,
-    "mentionsLast30d": 0,
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 2,
+    "mentionsLast30d": 3,
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-16",
@@ -26,6 +26,45 @@
   ],
   "bills": [],
   "timeline": [
+    {
+      "dateISO": "2026-11-12",
+      "text": "The commission approved the brewery license in a unanimous roll call vote.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "-_32YWWsXRA",
+        "ts": "1:04:42",
+        "retrievedISO": "2026-11-17T07:30:07.868Z",
+        "endTs": "1:05:21"
+      },
+      "body": "Liquor Control Commission"
+    },
+    {
+      "dateISO": "2026-11-12",
+      "text": "The motion for that license barred liquor made there from being taken off the property and sold elsewhere.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "-_32YWWsXRA",
+        "ts": "1:02:34",
+        "retrievedISO": "2026-11-17T07:30:07.868Z",
+        "endTs": "1:03:20"
+      },
+      "body": "Liquor Control Commission"
+    },
+    {
+      "dateISO": "2026-11-12",
+      "text": "A brewery on South Kīhei Road applied for a small craft producer pub license.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "-_32YWWsXRA",
+        "ts": "0:38:07",
+        "retrievedISO": "2026-11-17T07:30:07.868Z",
+        "endTs": "0:38:38"
+      },
+      "body": "Liquor Control Commission"
+    },
     {
       "dateISO": "2026-09-09",
       "text": "New liquor license application number seven (Aloha Spirits Brewing and Distilling): The commission accepted the Aloha Spirits Brewing and Distilling application, with zoning among the requirements still to be met.",
