@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T20:56:14.663Z",
+  "updatedAt": "2026-11-17T22:26:14.175Z",
   "count": 228,
   "issues": [
     {
@@ -18326,7 +18326,16 @@
         "meetingsLast30d": 0,
         "meetingsLast90d": 1,
         "mentionsLast30d": 0,
-        "upcomingEvent": null
+        "upcomingEvent": {
+          "dateISO": "2039-01-01",
+          "what": "State R1 reuse water standard starts",
+          "source": {
+            "type": "meeting",
+            "videoId": "wsmKjAn914w",
+            "ts": "1:11:44",
+            "retrievedISO": "2026-10-22T17:22:15.304Z"
+          }
+        }
       },
       "asOfISO": "2026-11-17",
       "boards": [
@@ -41114,7 +41123,16 @@
         "meetingsLast30d": 0,
         "meetingsLast90d": 0,
         "mentionsLast30d": 0,
-        "upcomingEvent": null
+        "upcomingEvent": {
+          "dateISO": "2029-09-07",
+          "what": "Waikapū housing project completion (September 7, 2029)",
+          "source": {
+            "type": "meeting",
+            "videoId": "mHF14MCnPW0",
+            "ts": "4:18:37",
+            "retrievedISO": "2026-10-22T02:30:10.341Z"
+          }
+        }
       },
       "asOfISO": "2026-11-17",
       "boards": [

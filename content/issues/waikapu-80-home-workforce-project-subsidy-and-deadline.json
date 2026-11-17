@@ -13,7 +13,16 @@
     "meetingsLast30d": 0,
     "meetingsLast90d": 0,
     "mentionsLast30d": 0,
-    "upcomingEvent": null
+    "upcomingEvent": {
+      "dateISO": "2029-09-07",
+      "what": "Waikapū housing project completion (September 7, 2029)",
+      "source": {
+        "type": "meeting",
+        "videoId": "mHF14MCnPW0",
+        "ts": "4:18:37",
+        "retrievedISO": "2026-10-22T02:30:10.341Z"
+      }
+    }
   },
   "asOfISO": "2026-11-17",
   "boards": [
