@@ -12,7 +12,7 @@
   "lastSeenISO": "2026-08-19",
   "signals": {
     "meetingsLast30d": 0,
-    "meetingsLast90d": 1,
+    "meetingsLast90d": 0,
     "mentionsLast30d": 0,
     "upcomingEvent": {
       "dateISO": "2027-03-31",
@@ -25,7 +25,7 @@
       }
     }
   },
-  "asOfISO": "2026-11-16",
+  "asOfISO": "2026-11-17",
   "boards": [
     {
       "name": "Lānaʻi Planning Commission",
