@@ -58,7 +58,16 @@
       }
     ],
     "bodyType": "council",
-    "trackerIssues": [],
+    "trackerIssues": [
+      {
+        "slug": "call-for-a-new-state-dam-and-reservoir-safety-law",
+        "title": "Call for a new state dam and reservoir safety law"
+      },
+      {
+        "slug": "gulch-and-stream-sediment-removal-for-flood-control",
+        "title": "Gulch and stream sediment removal for flood control"
+      }
+    ],
     "boards": [
       {
         "name": "Budget, Finance, and Economic Development Committee",

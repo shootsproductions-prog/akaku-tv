@@ -1,0 +1,61 @@
+{
+  "slug": "allowing-larger-private-rain-catchment-tanks",
+  "title": "Allowing larger private rain catchment tanks",
+  "summary": "Bill 153, the private water catchment bill, was sent to the Water and Infrastructure Committee on October 25, 2024. At that meeting, a water tank contractor said rainfall at his home had fallen from 160 to 80 inches a year.",
+  "topics": [
+    "water"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2024-10-25",
+  "lastSeenISO": "2024-10-25",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-17",
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [
+    "Bill 153 (2024)"
+  ],
+  "timeline": [
+    {
+      "dateISO": "2024-10-25",
+      "text": "Bill 153, referral: The private water catchment bill was sent to the Water and Infrastructure Committee.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PanLlKqrVO8",
+        "ts": "3:30:38",
+        "retrievedISO": "2026-10-21T21:48:16.506Z",
+        "endTs": "3:31:08"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2024-10-25",
+      "text": "A water tank contractor said rainfall at his home fell from 160 to 80 inches a year.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PanLlKqrVO8",
+        "ts": "0:26:55",
+        "retrievedISO": "2026-10-21T21:48:16.506Z",
+        "endTs": "0:27:25"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

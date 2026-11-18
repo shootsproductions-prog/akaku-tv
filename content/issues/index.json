@@ -227,12 +227,49 @@
     "lighting-and-music-at-lanai-hotel-events.json",
     "rebuilding-lahaina-small-boat-harbor.json",
     "rebuilding-the-west-maui-senior-center.json",
-    "waikapu-country-town-development-approvals.json"
+    "waikapu-country-town-development-approvals.json",
+    "1-7-million-lahaina-parcel-for-evacuation-route.json",
+    "64-million-state-loan-for-lahaina-water-projects.json",
+    "allowing-larger-private-rain-catchment-tanks.json",
+    "bill-160-statewide-freshwater-initiative-agreement.json",
+    "bill-75-agricultural-tourism-on-working-farms.json",
+    "buying-24-north-church-street-for-the-prosecutor.json",
+    "buying-kihei-wetland-parcels-for-flood-control.json",
+    "call-for-a-new-state-dam-and-reservoir-safety-law.json",
+    "changes-to-the-hawaiian-cultural-restoration-revolving-fund.json",
+    "christopher-salem-whistleblower-lawsuit-and-legal-fees.json",
+    "council-oversight-of-special-counsel-bills-and-settlements.json",
+    "county-condo-purchases-for-fire-displaced-kupuna.json",
+    "county-pension-costs-and-the-state-retirement-shortfall.json",
+    "cultural-resources-commission-short-on-members.json",
+    "developing-county-owned-land-for-affordable-housing.json",
+    "disaster-case-management-for-fire-survivors.json",
+    "disclosing-fund-restrictions-on-county-land.json",
+    "election-year-reserve-on-mayors-office-budget.json",
+    "expedited-permits-for-lahaina-and-kula-rebuilds.json",
+    "filling-liquor-control-adjudication-board-seats.json",
+    "fire-station-bills-tied-to-methodist-church-rezoning.json",
+    "funding-a-feasibility-study-for-east-maui-water-authority.json",
+    "gulch-and-stream-sediment-removal-for-flood-control.json",
+    "hana-habitat-for-humanity-homes-stalled.json",
+    "homestead-nonprofit-buying-homes-for-permanent-rentals.json",
+    "kihei-water-main-break-damage-settlements.json",
+    "permanent-west-maui-transit-center.json",
+    "police-department-helicopter.json",
+    "rebuilding-the-lahaina-aquatic-center.json",
+    "repairing-fire-damaged-west-maui-water-lines.json",
+    "state-midwifery-law-and-birth-attendant-exemption.json",
+    "temporary-wastewater-service-for-new-waikapu-school.json",
+    "upcountry-wildfire-rebuild-program.json",
+    "upper-kula-water-transmission-line-improvements.json",
+    "wailea-golf-course-redevelopment-of-about-900-homes.json",
+    "water-department-watershed-protection-grants.json",
+    "youth-mental-health-crisis-support-in-schools.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-11-17T22:26:14.175Z",
-  "etag": "fd15074072a7dbeef6e28debb5fcd17915131a98bb3746b2ac1c81b863e9188b",
+  "updatedAt": "2026-11-18T05:05:25.341Z",
+  "etag": "3a470324a02bcdb63f4d7080236d48c15bddc0c842b15af085b25af76acf33cb",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-11-17T20:56:14.663Z",
@@ -1145,6 +1182,154 @@
     "waikapu-country-town-development-approvals.json": {
       "updatedAt": "2026-11-17T20:56:14.663Z",
       "sha256": "8ce7016218cdf90d701fa7fe26e69c94a6931ccabcf1fd22cb7835a5d0287309"
+    },
+    "1-7-million-lahaina-parcel-for-evacuation-route.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "9b3e9f8c9ccfb4b3ba7dda02aecac29993e0a166b55747549ca01c940f5a4422"
+    },
+    "64-million-state-loan-for-lahaina-water-projects.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "9c2e080585b3d271752869f332336fc94eecb4a8876769cf787260b796b8b8b4"
+    },
+    "allowing-larger-private-rain-catchment-tanks.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "0fd37e15c5d2b189a5c65e3261127e9370c09b92ba65ad43e580c10dd6bcaf2e"
+    },
+    "bill-160-statewide-freshwater-initiative-agreement.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "02819373c9894dbc04119b8885cd2d4b79ddfa3db3acfb0059e04c613928a459"
+    },
+    "bill-75-agricultural-tourism-on-working-farms.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "85b069be15b3462de718fd346e502f81042527966cfe0ccbb88fd1ebf1061825"
+    },
+    "buying-24-north-church-street-for-the-prosecutor.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "5d39e127c24c3194d08ea7d38efa8acbf415b1d6b28305bcb25ccb4456450619"
+    },
+    "buying-kihei-wetland-parcels-for-flood-control.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "e6b7267a9e57493d92ec9c044c2d52ea6b889981e444f696ba5f0c7964fdae52"
+    },
+    "call-for-a-new-state-dam-and-reservoir-safety-law.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "d69ba025ed31c01fc0f8326d1a3cd74df4eb0a10fb56e6ffbaaecca7afe95419"
+    },
+    "changes-to-the-hawaiian-cultural-restoration-revolving-fund.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "2be256836f0f16412b728ccf4f5c7287b3a6c73e636f599ffc3b944054a56687"
+    },
+    "christopher-salem-whistleblower-lawsuit-and-legal-fees.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "2cba1e59a28943bf8e0cdab18ee98673888b263f3045abca657f2894af1eb5ea"
+    },
+    "council-oversight-of-special-counsel-bills-and-settlements.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "be51b759a5e692f838cc44380a6cd06f86373bc038c194ee2aa8cbb8d271634a"
+    },
+    "county-condo-purchases-for-fire-displaced-kupuna.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "677b7c5afa4b2fa8ebc276a6ceb628de45c6405bf7854cd51f50bbbfebfe6027"
+    },
+    "county-pension-costs-and-the-state-retirement-shortfall.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "4891f5df4bbbfb455fe5253c811122bda8882e14be69a06d5d0115f18524100c"
+    },
+    "cultural-resources-commission-short-on-members.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "f2d82c82c3db5ea77935f4a14dc7f8d5d296fd50843945117f4a5f0a055c646d"
+    },
+    "developing-county-owned-land-for-affordable-housing.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "b8bfe0694815002556e72f90fa88a33df89be626ffddc762b39bb9349ec9c051"
+    },
+    "disaster-case-management-for-fire-survivors.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "6b78612c4cafd59d3a0c2a7104566f4cf4ac9add0c8d7ffdde2cb57c17185a88"
+    },
+    "disclosing-fund-restrictions-on-county-land.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "22fbd4840e9d6a4d0b160554be8fa4a3100edb3a8d54fab57a5748dd0ec02659"
+    },
+    "election-year-reserve-on-mayors-office-budget.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "a050a453a38d447431aa1c0b0b275f95baed04ae317bf5c1290bba3b097d8063"
+    },
+    "expedited-permits-for-lahaina-and-kula-rebuilds.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "e3790d2c4d39382caa249d1feaafb2324e4f389b0934f2bdeaf541b09a97885a"
+    },
+    "filling-liquor-control-adjudication-board-seats.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "a314f1c884ce0a3d6560f60e2c7e3aa9b78b4d3810e847b449b4edec0d50001d"
+    },
+    "fire-station-bills-tied-to-methodist-church-rezoning.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "e4297cb3cf416a781430aba75885defcbcf89b8569e5f47397050430956ef4b2"
+    },
+    "funding-a-feasibility-study-for-east-maui-water-authority.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "9731b62205d8c5cc3a5f175724e9bc87e84ece92a2b20b52d314f7a3291fd895"
+    },
+    "gulch-and-stream-sediment-removal-for-flood-control.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "ba2f7962e84cc68ab11ebe4589ed437ca04b5fa784bbe05ef0d6800fb6f26a4b"
+    },
+    "hana-habitat-for-humanity-homes-stalled.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "88c077a77e0973efa679bf0d7916840fe3ac8fa9158eed70f920b5cc9f24b8af"
+    },
+    "homestead-nonprofit-buying-homes-for-permanent-rentals.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "bcc6e2189bcc696ab443f31090d9c44616ca6a469e90081f8be904edc660c5be"
+    },
+    "kihei-water-main-break-damage-settlements.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "0e77490d9084af73af1ab6748927babc86f28709b26f04038f2f2581ce6bdfb9"
+    },
+    "permanent-west-maui-transit-center.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "90aab5aacd9d063e36d8e5310e80175cf9458207e4556bf010b3371d514d0e91"
+    },
+    "police-department-helicopter.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "45773a7d4da0037ea96ae0c8a38b8f153bbbbdd2a239c2a6a034c2268ac7174d"
+    },
+    "rebuilding-the-lahaina-aquatic-center.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "fe1cd19e4870aefaf80ac500b62c56366d093cbaad3fb50d2d3e2de6aa331dfd"
+    },
+    "repairing-fire-damaged-west-maui-water-lines.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "fbf0af3fe36c1360493fb8c1d46893b15f014cff672d362961836986392f3cd0"
+    },
+    "state-midwifery-law-and-birth-attendant-exemption.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "f9432b482aefe4ee9d4e87ea533211818096e76fd8ecab45fc9b4e09b46e8134"
+    },
+    "temporary-wastewater-service-for-new-waikapu-school.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "7c672d81c252f5e81136b83a0a92e45cb41179c9399d4652d84f00cdd8e97b19"
+    },
+    "upcountry-wildfire-rebuild-program.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "f5f531c87b71e02bda2b31fe61e74c1059198ebc0c8e8cb7a7fd4583cea3a77e"
+    },
+    "upper-kula-water-transmission-line-improvements.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "b8bb5891f3b0d951b6d0f2cedb45f85e93137fe4b8b975c973ea36e035a5b560"
+    },
+    "wailea-golf-course-redevelopment-of-about-900-homes.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "8050d30be59bd1f4c99689cbdb8052abb68c21c0eb4d5f1c7ba41ae85d803158"
+    },
+    "water-department-watershed-protection-grants.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "1010a8fc68ecf40b1bc6e0e863d8d03f3bba7483f97d95a2614b549d34cf4a88"
+    },
+    "youth-mental-health-crisis-support-in-schools.json": {
+      "updatedAt": "2026-11-18T05:05:25.341Z",
+      "sha256": "719af17893f9aa118b4aedfee18026d6248e919fc2eb25f43be7d69cb5beec04"
     }
   }
 }

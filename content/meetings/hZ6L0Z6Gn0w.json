@@ -43,7 +43,12 @@
       }
     ],
     "bodyType": "board",
-    "trackerIssues": [],
+    "trackerIssues": [
+      {
+        "slug": "state-midwifery-law-and-birth-attendant-exemption",
+        "title": "State midwifery law and birth attendant exemption"
+      }
+    ],
     "boards": [
       {
         "name": "Committee on the Status of Women",

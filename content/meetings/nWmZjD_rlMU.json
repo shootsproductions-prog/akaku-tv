@@ -42,7 +42,12 @@
       }
     ],
     "bodyType": "council",
-    "trackerIssues": [],
+    "trackerIssues": [
+      {
+        "slug": "hana-habitat-for-humanity-homes-stalled",
+        "title": "Hāna Habitat for Humanity homes stalled"
+      }
+    ],
     "boards": [
       {
         "name": "Budget, Finance, and Economic Development Committee",

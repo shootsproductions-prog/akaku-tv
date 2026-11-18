@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-17T22:26:14.175Z",
-  "count": 228,
+  "updatedAt": "2026-11-18T05:05:25.341Z",
+  "count": 265,
   "issues": [
     {
       "slug": "2027-mass-nominations-for-county-boards",
@@ -53732,6 +53732,3808 @@
             "endTs": "2:29:12"
           },
           "body": "County Council Meeting"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "1-7-million-lahaina-parcel-for-evacuation-route",
+      "title": "$1.7 million Lahaina parcel for evacuation route",
+      "summary": "On February 19, 2025, the committee voted eight to zero, with one member excused, to recommend adopting Resolution 25-49 in a revised CD1 version that corrects the property owner's names. The resolution would let the County buy a Lahaina parcel the Office of Recovery wants for a community corridor project. The managing director cited roadway evacuation routes, but one member called the $1.7 million price excessive for an undeveloped half acre, and the chair said this parcel alone would not create an evacuation route.",
+      "topics": [
+        "disaster-recovery",
+        "transportation",
+        "public-safety"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2025-02-19",
+      "lastSeenISO": "2025-02-19",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Disaster Recovery, International Affairs, and Planning Committee",
+          "group": "council",
+          "short": [
+            "DRIP"
+          ]
+        }
+      ],
+      "bills": [
+        "Resolution 25-49"
+      ],
+      "timeline": [
+        {
+          "dateISO": "2025-02-19",
+          "text": "The committee voted eight to zero to recommend adopting the resolution, with one member excused.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Rn2tS9VtKOk",
+            "ts": "0:26:14",
+            "retrievedISO": "2026-10-21T19:49:05.300Z",
+            "endTs": "0:26:44"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2025-02-19",
+          "text": "Motion to substitute Resolution 25-49 with the proposed CD1 version: The committee replaced the resolution with a revised version (CD1) that corrects the property owner's names.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Rn2tS9VtKOk",
+            "ts": "0:25:31",
+            "retrievedISO": "2026-10-21T19:49:05.300Z",
+            "endTs": "0:26:29"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2025-02-19",
+          "text": "The managing director said the main reason for buying the land is roadway evacuation routes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Rn2tS9VtKOk",
+            "ts": "0:22:35",
+            "retrievedISO": "2026-10-21T19:49:05.300Z",
+            "endTs": "0:23:05"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2025-02-19",
+          "text": "A council member called the $1.7 million price excessive for an undeveloped half acre.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Rn2tS9VtKOk",
+            "ts": "0:18:56",
+            "retrievedISO": "2026-10-21T19:49:05.300Z",
+            "endTs": "0:19:28"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2025-02-19",
+          "text": "The managing director said he believed the purchase would use bond money approved for roadway evacuation routes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Rn2tS9VtKOk",
+            "ts": "0:17:29",
+            "retrievedISO": "2026-10-21T19:49:05.300Z",
+            "endTs": "0:17:59"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2025-02-19",
+          "text": "The chair said this parcel alone would not be enough to create an emergency evacuation route.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Rn2tS9VtKOk",
+            "ts": "0:15:57",
+            "retrievedISO": "2026-10-21T19:49:05.300Z",
+            "endTs": "0:16:45"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2025-02-19",
+          "text": "The managing director said other buyers were interested in the property.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Rn2tS9VtKOk",
+            "ts": "0:13:18",
+            "retrievedISO": "2026-10-21T19:49:05.300Z",
+            "endTs": "0:13:48"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2025-02-19",
+          "text": "The Office of Recovery asked to buy land in Lahaina for a community corridor project in the Lahaina long-term recovery plan.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Rn2tS9VtKOk",
+            "ts": "0:07:31",
+            "retrievedISO": "2026-10-21T19:49:05.300Z",
+            "endTs": "0:08:03"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2025-02-19",
+          "text": "Resolution 25-49 would let the County buy a parcel of land in Lahaina.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Rn2tS9VtKOk",
+            "ts": "0:06:13",
+            "retrievedISO": "2026-10-21T19:49:05.300Z",
+            "endTs": "0:06:43"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "64-million-state-loan-for-lahaina-water-projects",
+      "title": "$64 million state loan for Lahaina water projects",
+      "summary": "Bill 151 would authorize an agreement for a loan from the state Drinking Water State Revolving Fund. The money would pay for countywide wildfire disaster relief projects.",
+      "topics": [
+        "water",
+        "disaster-recovery"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2025-12-05",
+      "lastSeenISO": "2025-12-05",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        }
+      ],
+      "bills": [
+        "Bill 151 (2025)"
+      ],
+      "timeline": [
+        {
+          "dateISO": "2025-12-05",
+          "text": "Bill 151 authorizes an agreement for a loan from the state Drinking Water State Revolving Fund for countywide wildfire disaster relief projects.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "__VVMnSS-8Y",
+            "ts": "1:25:21",
+            "retrievedISO": "2026-10-19T16:24:09.258Z",
+            "endTs": "1:25:59"
+          },
+          "body": "County Council Meeting"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "allowing-larger-private-rain-catchment-tanks",
+      "title": "Allowing larger private rain catchment tanks",
+      "summary": "Bill 153, the private water catchment bill, was sent to the Water and Infrastructure Committee on October 25, 2024. At that meeting, a water tank contractor said rainfall at his home had fallen from 160 to 80 inches a year.",
+      "topics": [
+        "water"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2024-10-25",
+      "lastSeenISO": "2024-10-25",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        }
+      ],
+      "bills": [
+        "Bill 153 (2024)"
+      ],
+      "timeline": [
+        {
+          "dateISO": "2024-10-25",
+          "text": "Bill 153, referral: The private water catchment bill was sent to the Water and Infrastructure Committee.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "PanLlKqrVO8",
+            "ts": "3:30:38",
+            "retrievedISO": "2026-10-21T21:48:16.506Z",
+            "endTs": "3:31:08"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2024-10-25",
+          "text": "A water tank contractor said rainfall at his home fell from 160 to 80 inches a year.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "PanLlKqrVO8",
+            "ts": "0:26:55",
+            "retrievedISO": "2026-10-21T21:48:16.506Z",
+            "endTs": "0:27:25"
+          },
+          "body": "County Council Meeting"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "bill-160-statewide-freshwater-initiative-agreement",
+      "title": "Bill 160 statewide freshwater initiative agreement",
+      "summary": "The council passed Bill 160, on a freshwater initiative, on first reading with seven ayes on December 5. The bill lets the mayor enter an agreement with government agencies on Oʻahu, Kauaʻi and Hawaiʻi Island. A council member said it strengthens Hawaiʻi's long-term water security by coordinating freshwater, stormwater, wastewater and recycled water.",
+      "topics": [
+        "water",
+        "government"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2025-12-05",
+      "lastSeenISO": "2025-12-05",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        }
+      ],
+      "bills": [
+        "Bill 160 (2025)"
+      ],
+      "timeline": [
+        {
+          "dateISO": "2025-12-05",
+          "text": "The council passed Bill 160, on a freshwater initiative, on first reading with seven ayes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "__VVMnSS-8Y",
+            "ts": "1:05:47",
+            "retrievedISO": "2026-10-19T16:24:09.258Z",
+            "endTs": "1:06:32"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2025-12-05",
+          "text": "A council member said the initiative strengthens Hawaiʻi's long-term water security by coordinating freshwater, stormwater, wastewater and recycled water.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "__VVMnSS-8Y",
+            "ts": "1:05:21",
+            "retrievedISO": "2026-10-19T16:24:09.258Z",
+            "endTs": "1:05:52"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2025-12-05",
+          "text": "Bill 160 lets the mayor enter an agreement with government agencies on Oʻahu, Kauaʻi and Hawaiʻi Island for a freshwater initiative.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "__VVMnSS-8Y",
+            "ts": "1:04:38",
+            "retrievedISO": "2026-10-19T16:24:09.258Z",
+            "endTs": "1:05:08"
+          },
+          "body": "County Council Meeting"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "bill-75-agricultural-tourism-on-working-farms",
+      "title": "Bill 75 agricultural tourism on working farms",
+      "summary": "The council passed Bill 75 on second and final reading with seven ayes on July 25, 2025. The final version had only non-substantive changes and County legal approval. The bill allows agricultural tourism as an accessory use on working farms in the County agriculture district, and its sponsor said it gives farmers more options and will increase food security.",
+      "topics": [
+        "food-security",
+        "land-use",
+        "culture"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2025-07-25",
+      "lastSeenISO": "2025-07-25",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        }
+      ],
+      "bills": [
+        "Bill 75 (2025)"
+      ],
+      "timeline": [
+        {
+          "dateISO": "2025-07-25",
+          "text": "The council passed the bill on second and final reading with seven ayes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "IdiAmc4W5Zo",
+            "ts": "3:06:50",
+            "retrievedISO": "2026-10-21T22:24:51.067Z",
+            "endTs": "3:07:27"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2025-07-25",
+          "text": "The final version had non-substantive changes and County legal approval.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "IdiAmc4W5Zo",
+            "ts": "3:04:58",
+            "retrievedISO": "2026-10-21T22:24:51.067Z",
+            "endTs": "3:05:32"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2025-07-25",
+          "text": "The bill's sponsor said it gives farmers more options and will increase food security.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "IdiAmc4W5Zo",
+            "ts": "3:04:00",
+            "retrievedISO": "2026-10-21T22:24:51.067Z",
+            "endTs": "3:04:30"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2025-07-25",
+          "text": "Bill 75 allows agricultural tourism as an accessory use on working farms in the County agriculture district.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "IdiAmc4W5Zo",
+            "ts": "3:03:52",
+            "retrievedISO": "2026-10-21T22:24:51.067Z",
+            "endTs": "3:04:22"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2025-07-25",
+          "text": "County Communication 25-16, proposed amendment to Bill 75: Members agreed to postpone the proposed amendment until Bill 75 was taken up.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "IdiAmc4W5Zo",
+            "ts": "1:24:43",
+            "retrievedISO": "2026-10-21T22:24:51.067Z",
+            "endTs": "1:25:28"
+          },
+          "body": "County Council Meeting"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "buying-24-north-church-street-for-the-prosecutor",
+      "title": "Buying 24 North Church Street for the prosecutor",
+      "summary": "On April 21, 2026, members were called to vote on adding $3.35 million in bond money for 24 North Church Street and updating its Appendix C description. No vote count or result was stated.",
+      "topics": [
+        "government",
+        "economy"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2026-04-21",
+      "lastSeenISO": "2026-04-21",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-04-21",
+          "text": "Increase bond fund for 24 North Church Street by $3.35 million and update its Appendix C description: Members were called to vote on adding $3.35 million in bond money for 24 North Church Street, but no count or result was stated.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Adpx8IMDk1I",
+            "ts": "0:56:57",
+            "retrievedISO": "2026-10-17T02:22:55.289Z",
+            "endTs": "0:58:36"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "buying-kihei-wetland-parcels-for-flood-control",
+      "title": "Buying Kīhei wetland parcels for flood control",
+      "summary": "As of April 14, 2026, an official asked for $5 million more to buy back wetlands to help with flooding.",
+      "topics": [
+        "environment",
+        "land-use"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2026-04-14",
+      "lastSeenISO": "2026-04-14",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-04-14",
+          "text": "He asked for $5 million more to buy back wetlands to help with flooding.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ovi31J36l8U",
+            "ts": "0:41:27",
+            "retrievedISO": "2026-10-17T03:27:26.812Z",
+            "endTs": "0:42:36"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "call-for-a-new-state-dam-and-reservoir-safety-law",
+      "title": "Call for a new state dam and reservoir safety law",
+      "summary": "A member said on October 20, 2026, that state lawmakers need to write a new dam and reservoir safety bill next term.",
+      "topics": [
+        "water",
+        "public-safety"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-10-20",
+      "lastSeenISO": "2026-10-20",
+      "signals": {
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 1,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-10-20",
+          "text": "A member said state lawmakers need to write a new dam and reservoir safety bill next term.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HbaR9Nl6ScI",
+            "ts": "1:07:43",
+            "retrievedISO": "2026-10-20T23:08:41.878Z",
+            "endTs": "1:08:16"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "changes-to-the-hawaiian-cultural-restoration-revolving-fund",
+      "title": "Changes to the Hawaiian Cultural Restoration Revolving Fund",
+      "summary": "On April 13, 2026, the committee discussed Bill 63, which would rename the Hawaiian Cultural Restoration Revolving Fund and widen where its money can be used. It will be voted on when the committee votes on all the bills, and the title needs a small fix to put Lahaina before Royal. The fund holds $1.1 million, and the department will confirm in writing that nothing is funded twice and whether canoes can be paid from it.",
+      "topics": [
+        "culture",
+        "government"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2026-04-13",
+      "lastSeenISO": "2026-04-13",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [
+        "Bill 63 (2026)"
+      ],
+      "timeline": [
+        {
+          "dateISO": "2026-04-13",
+          "text": "The budget director said the bill's title needs a small fix to put Lahaina before Royal.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "h6x_AzBZuxc",
+            "ts": "1:51:45",
+            "retrievedISO": "2026-10-17T04:02:12.824Z",
+            "endTs": "1:52:15"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-13",
+          "text": "The chair said Bill 63 will be voted on when the committee takes up all the bills.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "h6x_AzBZuxc",
+            "ts": "1:45:00",
+            "retrievedISO": "2026-10-17T04:02:12.824Z",
+            "endTs": "1:45:30"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-13",
+          "text": "The chair said the Hawaiian Cultural Restoration Revolving Fund holds $1.1 million.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "h6x_AzBZuxc",
+            "ts": "1:27:34",
+            "retrievedISO": "2026-10-17T04:02:12.824Z",
+            "endTs": "1:28:04"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "christopher-salem-whistleblower-lawsuit-and-legal-fees",
+      "title": "Christopher Salem whistleblower lawsuit and legal fees",
+      "summary": "On August 18, the committee voted 7 to 0 to recommend adopting Resolution 26-132. A deputy corporation counsel said July billings exceeded the available funds, and that the court dismissed all of Mr. Salem's claims against the county. One testifier opposed more legal fees, saying a developer was responsible for unfinished permit requirements.",
+      "topics": [
+        "government"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-08-18",
+      "lastSeenISO": "2026-08-18",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Government Relations, Ethics, and Transparency Committee",
+          "group": "council",
+          "short": [
+            "GREAT"
+          ]
+        }
+      ],
+      "bills": [
+        "Resolution 26-132"
+      ],
+      "timeline": [
+        {
+          "dateISO": "2026-08-18",
+          "text": "The committee voted 7 to 0 to recommend adopting Resolution 26-132.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "h-ed5db7tE4",
+            "ts": "1:32:15",
+            "retrievedISO": "2026-10-16T06:45:12.146Z",
+            "endTs": "1:32:54"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        },
+        {
+          "dateISO": "2026-08-18",
+          "text": "A deputy corporation counsel said billings received in July exceeded the funds available.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "h-ed5db7tE4",
+            "ts": "1:26:28",
+            "retrievedISO": "2026-10-16T06:45:12.146Z",
+            "endTs": "1:26:58"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        },
+        {
+          "dateISO": "2026-08-18",
+          "text": "One testifier opposed more legal fees, saying a developer was responsible for unfinished permit requirements.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "h-ed5db7tE4",
+            "ts": "1:07:48",
+            "retrievedISO": "2026-10-16T06:45:12.146Z",
+            "endTs": "1:09:22"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        },
+        {
+          "dateISO": "2026-08-18",
+          "text": "A deputy corporation counsel said the court dismissed all of Mr. Salem's claims against the county.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "h-ed5db7tE4",
+            "ts": "1:03:26",
+            "retrievedISO": "2026-10-16T06:45:12.146Z",
+            "endTs": "1:03:56"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "council-oversight-of-special-counsel-bills-and-settlements",
+      "title": "Council oversight of special counsel bills and settlements",
+      "summary": "A council committee voted on June 22 to recommend that the full council adopt a resolution on lawsuit settlements, and the measure now moves to the full council. It would send all settlement offers to the council and have Council Services attorneys review special counsel's bills. A staff attorney confirmed it is approved as to form and legality, and one public testifier said the council must approve settlements.",
+      "topics": [
+        "government"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-06-22",
+      "lastSeenISO": "2026-06-22",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Government Relations, Ethics, and Transparency Committee",
+          "group": "council",
+          "short": [
+            "GREAT"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-06-22",
+          "text": "The resolution will move on to the full council for consideration.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "lVzPO8RLOV4",
+            "ts": "1:21:10",
+            "retrievedISO": "2026-10-16T17:46:34.541Z",
+            "endTs": "1:21:40"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        },
+        {
+          "dateISO": "2026-06-22",
+          "text": "Motion to recommend adoption of the resolution, including any non-substantive revisions: The committee voted to recommend that the full council adopt the resolution.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "lVzPO8RLOV4",
+            "ts": "1:20:35",
+            "retrievedISO": "2026-10-16T17:46:34.541Z",
+            "endTs": "1:21:18"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        },
+        {
+          "dateISO": "2026-06-22",
+          "text": "A council staff attorney confirmed the resolution is approved as to form and legality.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "lVzPO8RLOV4",
+            "ts": "1:04:27",
+            "retrievedISO": "2026-10-16T17:46:34.541Z",
+            "endTs": "1:04:57"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        },
+        {
+          "dateISO": "2026-06-22",
+          "text": "The chair said the resolution would send all settlement offers to the council and have Council Services attorneys review special counsel's bills.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "lVzPO8RLOV4",
+            "ts": "0:42:39",
+            "retrievedISO": "2026-10-16T17:46:34.541Z",
+            "endTs": "0:43:11"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        },
+        {
+          "dateISO": "2026-06-22",
+          "text": "One public testifier said the council must approve settlements.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "lVzPO8RLOV4",
+            "ts": "0:13:34",
+            "retrievedISO": "2026-10-16T17:46:34.541Z",
+            "endTs": "0:14:15"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        },
+        {
+          "dateISO": "2026-06-22",
+          "text": "The chair said the meeting would give an update on a lawsuit against the County and sort out conflicts of interest.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "lVzPO8RLOV4",
+            "ts": "0:03:57",
+            "retrievedISO": "2026-10-16T17:46:34.541Z",
+            "endTs": "0:04:56"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "county-condo-purchases-for-fire-displaced-kupuna",
+      "title": "County condo purchases for fire-displaced kūpuna",
+      "summary": "An amendment has added the unit's appraisal report to a resolution that authorizes buying a Lahaina condo unit for up to $278,000. A county housing testifier said federal Community Development Block Grant funds would pay for it. The unit would serve a county housing program for kūpuna, which houses 10 people in 8 units, while over half of its 41 waitlisted households are still in FEMA housing.",
+      "topics": [
+        "housing",
+        "disaster-recovery"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-07-07",
+      "lastSeenISO": "2026-07-07",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-07-07",
+          "text": "An amendment added the unit's appraisal report to the resolution.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "NJzgJmRuAug",
+            "ts": "3:39:07",
+            "retrievedISO": "2026-10-16T20:08:41.455Z",
+            "endTs": "3:39:37"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-07-07",
+          "text": "A resolution authorizes buying a condo unit in Lahaina for up to $278,000.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "NJzgJmRuAug",
+            "ts": "3:37:44",
+            "retrievedISO": "2026-10-16T20:08:41.455Z",
+            "endTs": "3:38:14"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-07-07",
+          "text": "A county housing testifier said the unit would be bought with federal Community Development Block Grant (CDBG) funds.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "NJzgJmRuAug",
+            "ts": "0:51:04",
+            "retrievedISO": "2026-10-16T20:08:41.455Z",
+            "endTs": "0:51:34"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-07-07",
+          "text": "A testifier said over half of the program's 41 waitlisted households are still in FEMA housing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "NJzgJmRuAug",
+            "ts": "0:43:48",
+            "retrievedISO": "2026-10-16T20:08:41.455Z",
+            "endTs": "0:44:18"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-07-07",
+          "text": "A testifier said a county housing program for kūpuna (elders) now houses 10 people in 8 units.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "NJzgJmRuAug",
+            "ts": "0:43:00",
+            "retrievedISO": "2026-10-16T20:08:41.455Z",
+            "endTs": "0:43:31"
+          },
+          "body": "County Council Meeting"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "county-pension-costs-and-the-state-retirement-shortfall",
+      "title": "County pension costs and the state retirement shortfall",
+      "summary": "The chair proposed in October 2026 moving other items, including a pension fund deficit inquiry, to the next meeting. At a March 2024 meeting, the retirement system leader said Maui County paid $5.8 million for pension spiking, or sharp pay jumps before retirement. The health fund leader said the County is projected to fully fund retiree health costs in 2031.",
+      "topics": [
+        "government",
+        "economy"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2024-03-05",
+      "lastSeenISO": "2026-10-08",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-10-08",
+          "text": "The chair proposed moving other items, including a pension fund deficit inquiry, to the next meeting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Y-qSflW1MSA",
+            "ts": "1:24:53",
+            "retrievedISO": "2026-10-13T06:35:03.145Z",
+            "endTs": "1:25:42"
+          }
+        },
+        {
+          "dateISO": "2024-03-05",
+          "text": "The health fund leader said the County is projected to fully fund retiree health costs in 2031.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "b_vOxQNivqQ",
+            "ts": "0:44:23",
+            "retrievedISO": "2026-10-22T12:11:52.484Z",
+            "endTs": "0:44:53"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2024-03-05",
+          "text": "The retirement system leader said Maui County paid $5.8 million for pension spiking, or sharp pay jumps before retirement.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "b_vOxQNivqQ",
+            "ts": "0:21:48",
+            "retrievedISO": "2026-10-22T12:11:52.484Z",
+            "endTs": "0:22:52"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2024-03-05",
+          "text": "The committee heard updates from the state retirement system and employee health benefits fund.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "b_vOxQNivqQ",
+            "ts": "0:08:18",
+            "retrievedISO": "2026-10-22T12:11:52.484Z",
+            "endTs": "0:08:48"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "cultural-resources-commission-short-on-members",
+      "title": "Cultural Resources Commission short on members",
+      "summary": "As of August 6, 2026, the county's boards and commissions liaison said she thinks no one is currently on the applicant list for this commission.",
+      "topics": [
+        "government",
+        "culture",
+        "disaster-recovery"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-08-06",
+      "lastSeenISO": "2026-08-06",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Cultural Resources Commission",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-08-06",
+          "text": "The county's boards and commissions liaison said she thinks no one is on the applicant list for this commission right now.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "1EOFZJD_EGw",
+            "ts": "2:04:14",
+            "retrievedISO": "2026-10-13T06:35:07.755Z",
+            "endTs": "2:04:44"
+          },
+          "body": "Cultural Resources Commission"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "developing-county-owned-land-for-affordable-housing",
+      "title": "Developing county-owned land for affordable housing",
+      "summary": "On June 15, 2025's meeting record shows the housing department plans to study a South Kīhei parcel of over 100 acres, called the Kīhei Police Station parcel, and will share its list of county properties targeted for housing. In April, planning sought consultant money to get county land approved for housing, working with the Department of Housing, after last year's funded work was not done. Housing has said a large Kīhei county parcel is high on its affordable housing priority list.",
+      "topics": [
+        "housing",
+        "land-use"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2025-04-07",
+      "lastSeenISO": "2026-06-15",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Water Authority, Social Services, and Parks Committee",
+          "group": "council",
+          "short": [
+            "WASSP"
+          ]
+        },
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-06-15",
+          "text": "The director said the department has a list of county properties it is targeting for development.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "aGVu5petQPA",
+            "ts": "1:21:51",
+            "retrievedISO": "2026-10-16T20:27:24.013Z",
+            "endTs": "1:22:21"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-06-15",
+          "text": "The housing director said the department will share its list of county properties that could be developed for housing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "6WVDJO1LxXM",
+            "ts": "0:29:47",
+            "retrievedISO": "2026-10-16T20:45:46.557Z",
+            "endTs": "0:30:17"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-06-15",
+          "text": "The department plans to study a South Kīhei parcel of over 100 acres, called the Kīhei Police Station parcel.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "6WVDJO1LxXM",
+            "ts": "0:26:19",
+            "retrievedISO": "2026-10-16T20:45:46.557Z",
+            "endTs": "0:27:06"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2025-04-07",
+          "text": "Planning said work on county-owned land approvals funded last year was not done.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "TuF5fAqpWVU",
+            "ts": "2:30:32",
+            "retrievedISO": "2026-10-21T21:24:01.342Z",
+            "endTs": "2:31:02"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2025-04-07",
+          "text": "Housing will help pick a parcel, and planning will work with a consultant on the approvals.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "TuF5fAqpWVU",
+            "ts": "2:18:17",
+            "retrievedISO": "2026-10-21T21:24:01.342Z",
+            "endTs": "2:18:48"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2025-04-07",
+          "text": "Planning said the effort is a joint project with the Department of Housing, modeled on a County of Kauaʻi project.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "TuF5fAqpWVU",
+            "ts": "2:17:59",
+            "retrievedISO": "2026-10-21T21:24:01.342Z",
+            "endTs": "2:18:29"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2025-04-07",
+          "text": "Planning is asking for consultant money to get county-owned land approved for housing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "TuF5fAqpWVU",
+            "ts": "2:17:39",
+            "retrievedISO": "2026-10-21T21:24:01.342Z",
+            "endTs": "2:18:11"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "disaster-case-management-for-fire-survivors",
+      "title": "Disaster case management for fire survivors",
+      "summary": "The county will take over the disaster case management program from the state in August, and survivors' case managers will stay the same. The program has made over 19,000 referrals, leading to over $173 million in services, and has closed 898 cases where households reached their recovery goals. The long-term recovery group now serves all disasters without funding for that and plans to ask the Council for help.",
+      "topics": [
+        "disaster-recovery",
+        "housing"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-04-14",
+      "lastSeenISO": "2026-08-05",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Disaster Recovery, International Affairs, and Planning Committee",
+          "group": "council",
+          "short": [
+            "DRIP"
+          ]
+        },
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-08-05",
+          "text": "The state said survivors' case managers will stay the same after the county takes over.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "VgE2vefgTzg",
+            "ts": "0:47:02",
+            "retrievedISO": "2026-10-16T07:27:27.980Z",
+            "endTs": "0:47:35"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-08-05",
+          "text": "The program has made over 19,000 referrals, resulting in over $173 million in services.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "VgE2vefgTzg",
+            "ts": "0:42:35",
+            "retrievedISO": "2026-10-16T07:27:27.980Z",
+            "endTs": "0:43:05"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-08-05",
+          "text": "The state said the case management program has closed 898 cases, meaning those households reached their recovery goals.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "VgE2vefgTzg",
+            "ts": "0:41:40",
+            "retrievedISO": "2026-10-16T07:27:27.980Z",
+            "endTs": "0:42:10"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-08-05",
+          "text": "The county will take over the disaster case management program from the state in August.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "VgE2vefgTzg",
+            "ts": "0:19:16",
+            "retrievedISO": "2026-10-16T07:27:27.980Z",
+            "endTs": "0:19:46"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-04-14",
+          "text": "The disaster case manager said the recovery group will ask the Council for help funding its work on all disasters.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ovi31J36l8U",
+            "ts": "2:05:24",
+            "retrievedISO": "2026-10-17T03:27:26.812Z",
+            "endTs": "2:05:54"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-14",
+          "text": "A disaster case manager said a long-term recovery group now serves all disasters but has no funds for that.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ovi31J36l8U",
+            "ts": "2:05:15",
+            "retrievedISO": "2026-10-17T03:27:26.812Z",
+            "endTs": "2:05:45"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-14",
+          "text": "The group's disaster case management program works directly with homeowners to help them rebuild.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ovi31J36l8U",
+            "ts": "2:04:18",
+            "retrievedISO": "2026-10-17T03:27:26.812Z",
+            "endTs": "2:04:57"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-14",
+          "text": "The disaster case manager said the group helped complete two homes (hale) in Lahaina.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ovi31J36l8U",
+            "ts": "2:03:32",
+            "retrievedISO": "2026-10-17T03:27:26.812Z",
+            "endTs": "2:04:02"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "disclosing-fund-restrictions-on-county-land",
+      "title": "Disclosing fund restrictions on county land",
+      "summary": "On July 28, a motion to recommend passing Bill 81 (2025) on first reading carried with nine ayes. The bill would require the County to disclose fund restrictions when it budgets money to develop County-owned land. The administration had no objection to providing the extra information.",
+      "topics": [
+        "land-use",
+        "government"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-05-01",
+      "lastSeenISO": "2026-07-28",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        },
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        }
+      ],
+      "bills": [
+        "Bill 81 (2025)",
+        "Bill 81 (2026)"
+      ],
+      "timeline": [
+        {
+          "dateISO": "2026-07-28",
+          "text": "The motion carried with nine ayes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8nj7m33nXeI",
+            "ts": "0:56:57",
+            "retrievedISO": "2026-10-16T16:22:10.673Z",
+            "endTs": "0:57:27"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-07-28",
+          "text": "A motion was made to recommend passing the bill on first reading.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8nj7m33nXeI",
+            "ts": "0:50:02",
+            "retrievedISO": "2026-10-16T16:22:10.673Z",
+            "endTs": "0:50:35"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-07-28",
+          "text": "The budget director said the property was first bought as open space, but West Maui's need for affordable housing made it a possible housing site.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8nj7m33nXeI",
+            "ts": "0:35:22",
+            "retrievedISO": "2026-10-16T16:22:10.673Z",
+            "endTs": "0:35:52"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-07-28",
+          "text": "The administration said it had no objection to giving the extra information.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8nj7m33nXeI",
+            "ts": "0:12:40",
+            "retrievedISO": "2026-10-16T16:22:10.673Z",
+            "endTs": "0:13:10"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-07-28",
+          "text": "The first item was Bill 81 (2025), which would require the County to disclose fund restrictions when it budgets money to develop County-owned land.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8nj7m33nXeI",
+            "ts": "0:11:17",
+            "retrievedISO": "2026-10-16T16:22:10.673Z",
+            "endTs": "0:11:56"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-05-01",
+          "text": "It was stated that the intention is for the group to keep receiving funding.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "7eJyblKPm2w",
+            "ts": "2:21:44",
+            "retrievedISO": "2026-10-17T01:13:59.013Z",
+            "endTs": "2:22:14"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-05-01",
+          "text": "Motion to file a bill (bill number not heard in recording): The council voted to file a bill tied to the stewardship group's funding.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "7eJyblKPm2w",
+            "ts": "2:21:39",
+            "retrievedISO": "2026-10-17T01:13:59.013Z",
+            "endTs": "2:23:24"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-05-01",
+          "text": "A stewardship group officer testified against Bill 81, asking why the group was being deleted.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "7eJyblKPm2w",
+            "ts": "1:27:48",
+            "retrievedISO": "2026-10-17T01:13:59.013Z",
+            "endTs": "1:28:29"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-05-01",
+          "text": "The budget director said caring for county-owned land fits a contract better than a grant.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "7eJyblKPm2w",
+            "ts": "1:20:10",
+            "retrievedISO": "2026-10-17T01:13:59.013Z",
+            "endTs": "1:20:40"
+          },
+          "body": "County Council Meeting"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "election-year-reserve-on-mayors-office-budget",
+      "title": "Election-year reserve on mayor's office budget",
+      "summary": "On May 15, 2026, the council voted five to four to reserve part of some mayor's office budgets during the election year.",
+      "topics": [
+        "elections",
+        "government"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2026-05-15",
+      "lastSeenISO": "2026-05-15",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": {
+          "dateISO": "2027-01-02",
+          "what": "End of the election-year reserve on some Office of the Mayor funds",
+          "source": {
+            "type": "meeting",
+            "videoId": "WmlNgIDoTf0",
+            "ts": "2:10:24",
+            "retrievedISO": "2026-10-19T23:24:26.848Z"
+          }
+        }
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-05-15",
+          "text": "The council voted five to four to reserve part of some mayor's office budgets during the election year.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "WmlNgIDoTf0",
+            "ts": "2:22:23",
+            "retrievedISO": "2026-10-19T23:24:26.848Z",
+            "endTs": "2:22:55"
+          },
+          "body": "County Council Notice of Public Hearing"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "expedited-permits-for-lahaina-and-kula-rebuilds",
+      "title": "Expedited permits for Lahaina and Kula rebuilds",
+      "summary": "At the latest meeting, a testifier urged using fiscal year 2028 and rainy day funds to speed permits in Lahaina town and to put utilities underground. Earlier, in April 2025, a contractor working through Public Works was helping planning review West Maui building permits. The planning director said the department reviews each Lahaina building permit and looks closely at shoreline projects.",
+      "topics": [
+        "disaster-recovery",
+        "housing"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2025-04-07",
+      "lastSeenISO": "2026-09-29",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        },
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-09-29",
+          "text": "The testifier urged using fiscal year 2028 and rainy day funds to speed permits in Lahaina town and put utilities underground.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "osd2kNYTO0c",
+            "ts": "1:42:05",
+            "retrievedISO": "2026-10-16T18:23:02.372Z",
+            "endTs": "1:42:49"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2025-04-07",
+          "text": "A contractor working through Public Works is helping planning review building permits for West Maui.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "TuF5fAqpWVU",
+            "ts": "2:44:23",
+            "retrievedISO": "2026-10-21T21:24:01.342Z",
+            "endTs": "2:45:31"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2025-04-07",
+          "text": "The planning director said the department reviews each Lahaina building permit and does a close review of shoreline projects.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "TuF5fAqpWVU",
+            "ts": "0:08:19",
+            "retrievedISO": "2026-10-21T21:24:01.342Z",
+            "endTs": "0:08:49"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "filling-liquor-control-adjudication-board-seats",
+      "title": "Filling Liquor Control Adjudication Board seats",
+      "summary": "Resignations have hit the Liquor Control Adjudication Board, the Board of Water Supply and the Independent Nomination Board itself, staff reported on September 23, 2026.",
+      "topics": [
+        "government"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-09-23",
+      "lastSeenISO": "2026-09-23",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-09-23",
+          "text": "Staff reported resignations from the Liquor Control Adjudication Board, the Board of Water Supply and the Independent Nomination Board itself.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "3Jc9Mp68Wcs",
+            "ts": "0:02:26",
+            "retrievedISO": "2026-10-07T23:03:48.406Z",
+            "endTs": "0:03:41"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "fire-station-bills-tied-to-methodist-church-rezoning",
+      "title": "Fire station bills tied to Methodist church rezoning",
+      "summary": "A committee voted nine to zero to recommend Bill 94-2026 as amended, which would rezone Lahaina United Methodist Church land from residential to public/quasi-public use. A land use zoning map and a committee report are still needed before first reading. The church burned down in August 2023 and wants to rebuild.",
+      "topics": [
+        "disaster-recovery",
+        "land-use"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-07-01",
+      "lastSeenISO": "2026-07-01",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Disaster Recovery, International Affairs, and Planning Committee",
+          "group": "council",
+          "short": [
+            "DRIP"
+          ]
+        }
+      ],
+      "bills": [
+        "Bill 94 (2026)"
+      ],
+      "timeline": [
+        {
+          "dateISO": "2026-07-01",
+          "text": "A land use zoning map and a committee report are needed before the bill moves to first reading.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HcVR4cPjolg",
+            "ts": "0:55:09",
+            "retrievedISO": "2026-10-16T17:24:56.009Z",
+            "endTs": "0:55:39"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-01",
+          "text": "The committee voted nine to zero to recommend the bill as amended.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HcVR4cPjolg",
+            "ts": "0:55:00",
+            "retrievedISO": "2026-10-16T17:24:56.009Z",
+            "endTs": "0:55:30"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-01",
+          "text": "The main motion, recommending the bill as amended, passed with nine ayes and zero noes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HcVR4cPjolg",
+            "ts": "0:54:53",
+            "retrievedISO": "2026-10-16T17:24:56.009Z",
+            "endTs": "0:55:23"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-01",
+          "text": "The amendments passed with nine ayes and zero noes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HcVR4cPjolg",
+            "ts": "0:53:40",
+            "retrievedISO": "2026-10-16T17:24:56.009Z",
+            "endTs": "0:54:10"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-01",
+          "text": "Friendly amendment to include a land zoning map: Members agreed without objection to add a land zoning map to the motion in time for first reading.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HcVR4cPjolg",
+            "ts": "0:52:37",
+            "retrievedISO": "2026-10-16T17:24:56.009Z",
+            "endTs": "0:53:07"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-01",
+          "text": "Amendments changed the acreage to 3.26 acres and used the deed's property description.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HcVR4cPjolg",
+            "ts": "0:50:32",
+            "retrievedISO": "2026-10-16T17:24:56.009Z",
+            "endTs": "0:51:11"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-01",
+          "text": "The pastor said the church would likely be interested in combining the lots, pending its church council's approval.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HcVR4cPjolg",
+            "ts": "0:36:48",
+            "retrievedISO": "2026-10-16T17:24:56.009Z",
+            "endTs": "0:37:18"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-01",
+          "text": "The public works director said combining the two lots could cost about $5,000 to $10,000.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HcVR4cPjolg",
+            "ts": "0:36:07",
+            "retrievedISO": "2026-10-16T17:24:56.009Z",
+            "endTs": "0:36:37"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-01",
+          "text": "The pastor said a parsonage and a duplex housing two families are on the property.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HcVR4cPjolg",
+            "ts": "0:29:04",
+            "retrievedISO": "2026-10-16T17:24:56.009Z",
+            "endTs": "0:29:34"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-01",
+          "text": "The planning department supports the rezoning because it matches past uses and the community plan.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HcVR4cPjolg",
+            "ts": "0:25:35",
+            "retrievedISO": "2026-10-16T17:24:56.009Z",
+            "endTs": "0:26:05"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-01",
+          "text": "The planning director had concerns about the bill's conditions of zoning, which are extra rules tied to a rezoning.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HcVR4cPjolg",
+            "ts": "0:22:34",
+            "retrievedISO": "2026-10-16T17:24:56.009Z",
+            "endTs": "0:23:04"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-01",
+          "text": "No one signed up for public testimony.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HcVR4cPjolg",
+            "ts": "0:17:26",
+            "retrievedISO": "2026-10-16T17:24:56.009Z",
+            "endTs": "0:17:59"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-01",
+          "text": "The Office of Recovery said required improvements can be handled at the building permit stage.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HcVR4cPjolg",
+            "ts": "0:15:00",
+            "retrievedISO": "2026-10-16T17:24:56.009Z",
+            "endTs": "0:15:30"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-01",
+          "text": "The pastor said the church is holding services on the property again.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HcVR4cPjolg",
+            "ts": "0:10:33",
+            "retrievedISO": "2026-10-16T17:24:56.009Z",
+            "endTs": "0:11:03"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-01",
+          "text": "The pastor said the church wants to use the property to benefit the community.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HcVR4cPjolg",
+            "ts": "0:10:27",
+            "retrievedISO": "2026-10-16T17:24:56.009Z",
+            "endTs": "0:10:57"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-01",
+          "text": "The church's deed shows the land is about 3.26 acres, so the bill needed an amendment.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HcVR4cPjolg",
+            "ts": "0:09:16",
+            "retrievedISO": "2026-10-16T17:24:56.009Z",
+            "endTs": "0:09:50"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-01",
+          "text": "Lahaina United Methodist Church, which burned down in August 2023, is seeking a rezoning so it can rebuild.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HcVR4cPjolg",
+            "ts": "0:07:22",
+            "retrievedISO": "2026-10-16T17:24:56.009Z",
+            "endTs": "0:07:58"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-01",
+          "text": "The committee took up Bill 94-2026, to rezone Lahaina United Methodist Church land from residential to public/quasi-public use.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HcVR4cPjolg",
+            "ts": "0:06:38",
+            "retrievedISO": "2026-10-16T17:24:56.009Z",
+            "endTs": "0:07:12"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "funding-a-feasibility-study-for-east-maui-water-authority",
+      "title": "Funding a feasibility study for East Maui Water Authority",
+      "summary": "On September 24, 2024, the committee voted eight ayes, with one member excused, to file Bill 122 (2024) and Bill 134 (2024), setting both bills aside. The draft contract tied to the matter was for analysis of a possible purchase of the East Maui irrigation system.",
+      "topics": [
+        "water",
+        "government"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2024-09-24",
+      "lastSeenISO": "2024-09-24",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [
+        "Bill 122 (2024)",
+        "Bill 134 (2024)"
+      ],
+      "timeline": [
+        {
+          "dateISO": "2024-09-24",
+          "text": "The committee voted to file, or set aside, both bills with eight ayes and one member excused.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "moLMa3wtcAQ",
+            "ts": "2:23:50",
+            "retrievedISO": "2026-10-21T13:48:47.884Z",
+            "endTs": "2:24:20"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2024-09-24",
+          "text": "Recommendation to file Bill 122 (2024) and Bill 134 (2024): The committee voted to file Bills 122 and 134 (2024).",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "moLMa3wtcAQ",
+            "ts": "2:23:03",
+            "retrievedISO": "2026-10-21T13:48:47.884Z",
+            "endTs": "2:24:20"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2024-09-24",
+          "text": "The draft contract was for analysis of a possible purchase of the East Maui irrigation system.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "moLMa3wtcAQ",
+            "ts": "1:23:56",
+            "retrievedISO": "2026-10-21T13:48:47.884Z",
+            "endTs": "1:24:26"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "gulch-and-stream-sediment-removal-for-flood-control",
+      "title": "Gulch and stream sediment removal for flood control",
+      "summary": "Soil washed down from Kīhei will be reused as cover material at the landfill. About 300,000 cubic yards of sediment in the Kīhei gulches needs to be removed, and a request for more than $20 million to clear three gulches is with the USDA. In April, the committee cut $1 million in expected revenue from a revolving fund to offset $1 million for Kīhei Drainage Master Plan work.",
+      "topics": [
+        "environment",
+        "disaster-recovery"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-04-24",
+      "lastSeenISO": "2026-10-20",
+      "signals": {
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 1,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        },
+        {
+          "name": "Disaster Recovery, International Affairs, and Planning Committee",
+          "group": "council",
+          "short": [
+            "DRIP"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-10-20",
+          "text": "Soil washed down from Kīhei will be reused as cover material at the landfill.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HbaR9Nl6ScI",
+            "ts": "0:38:45",
+            "retrievedISO": "2026-10-20T23:08:41.878Z",
+            "endTs": "0:39:15"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-06-17",
+          "text": "A request for more than $20 million to clear three gulches is with the USDA.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "e2VurwUrZvg",
+            "ts": "0:52:20",
+            "retrievedISO": "2026-10-16T19:25:29.862Z",
+            "endTs": "0:53:14"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-06-17",
+          "text": "About 300,000 cubic yards of sediment in the Kīhei gulches needs to be removed.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "e2VurwUrZvg",
+            "ts": "0:28:43",
+            "retrievedISO": "2026-10-16T19:25:29.862Z",
+            "endTs": "0:29:22"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-04-24",
+          "text": "Reduce anticipated revenues for a revolving fund by $1 million to offset Kīhei Drainage Master Plan work: The committee cut $1 million in expected revenue from a revolving fund to offset $1 million for Kīhei Drainage Master Plan work.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "KhrHZUeNlAw",
+            "ts": "0:39:44",
+            "retrievedISO": "2026-10-17T01:27:46.895Z",
+            "endTs": "0:41:13"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "hana-habitat-for-humanity-homes-stalled",
+      "title": "Hāna Habitat for Humanity homes stalled",
+      "summary": "A council member said on April 7 that one affordable housing project expects about 330 days to get its permits. A day earlier he said a building permit that takes about three months in Lahaina is taking 330 days. The group plans 25 homes, built five a year for five years, and a testifier said the streets and water meters are in while the project waits on electric poles.",
+      "topics": [
+        "housing",
+        "land-use"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2026-04-06",
+      "lastSeenISO": "2026-04-07",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-04-07",
+          "text": "A council member said one affordable housing project expects about 330 days to get its permits.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "d1ORjxdGLPQ",
+            "ts": "3:51:54",
+            "retrievedISO": "2026-10-17T04:42:18.221Z",
+            "endTs": "3:52:37"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-06",
+          "text": "He said a building permit that takes about three months in Lahaina is taking 330 days.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "nWmZjD_rlMU",
+            "ts": "0:43:03",
+            "retrievedISO": "2026-10-17T04:44:34.244Z",
+            "endTs": "0:43:33"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-06",
+          "text": "He said the group plans 25 homes, built five a year for five years.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "nWmZjD_rlMU",
+            "ts": "0:42:13",
+            "retrievedISO": "2026-10-17T04:44:34.244Z",
+            "endTs": "0:42:43"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-06",
+          "text": "A testifier said the streets and water meters are in and the project is waiting on electric poles.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "nWmZjD_rlMU",
+            "ts": "0:14:08",
+            "retrievedISO": "2026-10-17T04:44:34.244Z",
+            "endTs": "0:14:40"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "homestead-nonprofit-buying-homes-for-permanent-rentals",
+      "title": "Homestead nonprofit buying homes for permanent rentals",
+      "summary": "On April 22, the committee considered a grant of up to $3 million to Homestead Community Development Corporation to buy homes for permanently affordable rentals. The member who made the motion said staff will ask the group for more details. The group aims to add two to three units with $2 million, and all seven homes it now has occupied house Maui wildfire households.",
+      "topics": [
+        "housing",
+        "disaster-recovery"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2026-04-21",
+      "lastSeenISO": "2026-04-22",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-04-22",
+          "text": "The member who made the motion said staff will ask the group for more details.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "IxdQajY2dxI",
+            "ts": "1:08:02",
+            "retrievedISO": "2026-10-19T23:28:29.964Z",
+            "endTs": "1:08:32"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-22",
+          "text": "The committee considered a grant of up to $3 million to Homestead Community Development Corporation to buy homes for permanently affordable rentals.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "IxdQajY2dxI",
+            "ts": "0:59:54",
+            "retrievedISO": "2026-10-19T23:28:29.964Z",
+            "endTs": "1:00:31"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-22",
+          "text": "The group said its goal is to add two to three units with $2 million.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "IxdQajY2dxI",
+            "ts": "0:43:09",
+            "retrievedISO": "2026-10-19T23:28:29.964Z",
+            "endTs": "0:43:39"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-22",
+          "text": "The group said all seven occupied homes in its program house Maui wildfire households.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "IxdQajY2dxI",
+            "ts": "0:41:10",
+            "retrievedISO": "2026-10-19T23:28:29.964Z",
+            "endTs": "0:41:40"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-21",
+          "text": "The housing director said 13 to 15 applications came in and readiness is the first priority.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "dybLwXF__KI",
+            "ts": "0:50:25",
+            "retrievedISO": "2026-10-17T01:47:01.859Z",
+            "endTs": "0:50:55"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-21",
+          "text": "Staff said a grant of a little over 1 million dollars to that program was executed on April 6.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "dybLwXF__KI",
+            "ts": "0:45:12",
+            "retrievedISO": "2026-10-17T01:47:01.859Z",
+            "endTs": "0:45:42"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-21",
+          "text": "Department staff said the PARIS rental program received 3 million dollars in FY25.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "dybLwXF__KI",
+            "ts": "0:45:00",
+            "retrievedISO": "2026-10-17T01:47:01.859Z",
+            "endTs": "0:45:30"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "kihei-water-main-break-damage-settlements",
+      "title": "Kīhei water main break damage settlements",
+      "summary": "The County is settling claims for home damage caused by water main breaks, including one for $13,593.87 over a break at a Kīhei property. A county attorney said three of the claims before the committee involved flooding, and the County pays them itself because it is self-insured. The Water Department said a condition assessment of the whole water system will show where repairs or replacement are needed.",
+      "topics": [
+        "water",
+        "government"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2023-03-21",
+      "lastSeenISO": "2023-03-21",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Government Relations, Ethics, and Transparency Committee",
+          "group": "council",
+          "short": [
+            "GREAT"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2023-03-21",
+          "text": "Members were told the County is self-insured, so it pays these claims itself.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "hszpCXOEVuY",
+            "ts": "1:46:17",
+            "retrievedISO": "2026-10-23T04:07:05.805Z",
+            "endTs": "1:46:47"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        },
+        {
+          "dateISO": "2023-03-21",
+          "text": "The Water Department said a condition assessment of the whole water system will show where repairs or replacement are needed.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "hszpCXOEVuY",
+            "ts": "1:44:13",
+            "retrievedISO": "2026-10-23T04:07:05.805Z",
+            "endTs": "1:44:49"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        },
+        {
+          "dateISO": "2023-03-21",
+          "text": "A council member said the damage was substantial and was not the residents' doing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "hszpCXOEVuY",
+            "ts": "1:40:00",
+            "retrievedISO": "2026-10-23T04:07:05.805Z",
+            "endTs": "1:40:56"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        },
+        {
+          "dateISO": "2023-03-21",
+          "text": "The County is settling claims for damage to homes from water main breaks.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "hszpCXOEVuY",
+            "ts": "1:39:36",
+            "retrievedISO": "2026-10-23T04:07:05.805Z",
+            "endTs": "1:40:18"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        },
+        {
+          "dateISO": "2023-03-21",
+          "text": "A county attorney said three of the claims before the committee involved flooding.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "hszpCXOEVuY",
+            "ts": "1:37:37",
+            "retrievedISO": "2026-10-23T04:07:05.805Z",
+            "endTs": "1:38:07"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        },
+        {
+          "dateISO": "2023-03-21",
+          "text": "One claim, for $13,593.87, involved a water main break at a Kīhei property.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "hszpCXOEVuY",
+            "ts": "1:29:46",
+            "retrievedISO": "2026-10-23T04:07:05.805Z",
+            "endTs": "1:30:24"
+          },
+          "body": "County Council Government Relations, Ethics, and Transparency Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "permanent-west-maui-transit-center",
+      "title": "Permanent West Maui Transit Center",
+      "summary": "The Department of Transportation is considering a site near the Pioneer Mill smokestack area for a West Maui Transit Center. It is seeking a permanent hub to replace the one lost in the August 2023 wildfires.",
+      "topics": [
+        "transportation",
+        "disaster-recovery"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2026-04-07",
+      "lastSeenISO": "2026-04-07",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-04-07",
+          "text": "Transportation is considering a West Maui Transit Center near the Pioneer Mill smokestack area.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "d1ORjxdGLPQ",
+            "ts": "3:30:00",
+            "retrievedISO": "2026-10-17T04:42:18.221Z",
+            "endTs": "3:30:30"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-07",
+          "text": "Transportation is seeking a permanent West Maui Transit Center to replace the hub lost in the August 2023 wildfires.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "d1ORjxdGLPQ",
+            "ts": "0:23:22",
+            "retrievedISO": "2026-10-17T04:42:18.221Z",
+            "endTs": "0:23:55"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "police-department-helicopter",
+      "title": "Police department helicopter",
+      "summary": "On October 25, 2024, the council voted 9 to 0 to move $350,000 in the police budget for a helicopter hoist.",
+      "topics": [
+        "public-safety"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2024-10-25",
+      "lastSeenISO": "2024-10-25",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2024-10-25",
+          "text": "The council voted 9 to 0 to move $350,000 in the police budget for a helicopter hoist.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "PanLlKqrVO8",
+            "ts": "2:58:09",
+            "retrievedISO": "2026-10-21T21:48:16.506Z",
+            "endTs": "2:58:55"
+          },
+          "body": "County Council Meeting"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "rebuilding-the-lahaina-aquatic-center",
+      "title": "Rebuilding the Lahaina Aquatic Center",
+      "summary": "Parks officials have proposed spending $5 million to rehabilitate the Lahaina Aquatic Center. The proposal was made at the April 7, 2026 meeting.",
+      "topics": [
+        "disaster-recovery",
+        "culture"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2026-04-07",
+      "lastSeenISO": "2026-04-07",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-04-07",
+          "text": "Parks proposed $5 million to rehabilitate the Lahaina Aquatic Center.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "d1ORjxdGLPQ",
+            "ts": "0:17:18",
+            "retrievedISO": "2026-10-17T04:42:18.221Z",
+            "endTs": "0:17:48"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "repairing-fire-damaged-west-maui-water-lines",
+      "title": "Repairing fire-damaged West Maui water lines",
+      "summary": "On October 25, 2024, the council voted 9 to 0 to use $1.7 million in Water Fund savings for West Maui water line repairs. Meters will be returned at no cost as damaged laterals are fixed, and single-family homes that had meters before will get free ones back. A council member said misinformation about water meters is causing a big problem in the community.",
+      "topics": [
+        "water",
+        "disaster-recovery"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2024-10-25",
+      "lastSeenISO": "2024-10-25",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2024-10-25",
+          "text": "The council voted 9 to 0 to use $1.7 million in Water Fund savings for West Maui water line repairs.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "PanLlKqrVO8",
+            "ts": "2:09:13",
+            "retrievedISO": "2026-10-21T21:48:16.506Z",
+            "endTs": "2:10:05"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2024-10-25",
+          "text": "A testifier whose daughter lost her house in the fire zone thanked the council for the correction.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "PanLlKqrVO8",
+            "ts": "1:26:46",
+            "retrievedISO": "2026-10-21T21:48:16.506Z",
+            "endTs": "1:27:16"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2024-10-25",
+          "text": "The member said misinformation about water meters is causing a big problem in the community.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "PanLlKqrVO8",
+            "ts": "1:19:36",
+            "retrievedISO": "2026-10-21T21:48:16.506Z",
+            "endTs": "1:20:06"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2024-10-25",
+          "text": "Meters will be returned at no cost as damaged laterals are fixed.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "PanLlKqrVO8",
+            "ts": "1:19:30",
+            "retrievedISO": "2026-10-21T21:48:16.506Z",
+            "endTs": "1:20:00"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2024-10-25",
+          "text": "A council member said single-family homes that had water meters before will get free meters back.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "PanLlKqrVO8",
+            "ts": "1:18:23",
+            "retrievedISO": "2026-10-21T21:48:16.506Z",
+            "endTs": "1:18:54"
+          },
+          "body": "County Council Meeting"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "state-midwifery-law-and-birth-attendant-exemption",
+      "title": "State midwifery law and birth attendant exemption",
+      "summary": "On October 15, members voted unanimously to send the committee's letter backing midwifery legislation to legislators toward the end of November and to the women's caucus as soon as possible. The bill and the committee's past letters will be attached, and the vice chair will supply the women's caucus contact. Testifiers urged that the letter reach every state representative and senator after the November election and back three changes to midwifery law.",
+      "topics": [
+        "health"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2024-10-15",
+      "lastSeenISO": "2024-10-15",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Committee on the Status of Women",
+          "group": "council",
+          "short": []
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2024-10-15",
+          "text": "Motion on when and to whom to send the letter: Members voted unanimously to send the letter to legislators toward the end of November and to the women's caucus as soon as possible.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "hZ6L0Z6Gn0w",
+            "ts": "1:26:02",
+            "retrievedISO": "2026-11-04T07:35:10.258Z",
+            "endTs": "1:27:16"
+          },
+          "body": "Committee on the Status of Women"
+        },
+        {
+          "dateISO": "2024-10-15",
+          "text": "A member agreed to help the chair build the list of legislators after the election.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "hZ6L0Z6Gn0w",
+            "ts": "1:25:26",
+            "retrievedISO": "2026-11-04T07:35:10.258Z",
+            "endTs": "1:26:06"
+          },
+          "body": "Committee on the Status of Women"
+        },
+        {
+          "dateISO": "2024-10-15",
+          "text": "The vice chair will provide the women's caucus contact so the letter can be sent as soon as possible.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "hZ6L0Z6Gn0w",
+            "ts": "1:25:16",
+            "retrievedISO": "2026-11-04T07:35:10.258Z",
+            "endTs": "1:25:46"
+          },
+          "body": "Committee on the Status of Women"
+        },
+        {
+          "dateISO": "2024-10-15",
+          "text": "Motion to attach the bill and past committee letters: Members voted unanimously to attach the bill and the committee's past letters to the letter.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "hZ6L0Z6Gn0w",
+            "ts": "1:18:53",
+            "retrievedISO": "2026-11-04T07:35:10.258Z",
+            "endTs": "1:19:58"
+          },
+          "body": "Committee on the Status of Women"
+        },
+        {
+          "dateISO": "2024-10-15",
+          "text": "Members took a voice vote on accepting the draft letter as written.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "hZ6L0Z6Gn0w",
+            "ts": "1:16:36",
+            "retrievedISO": "2026-11-04T07:35:10.258Z",
+            "endTs": "1:18:03"
+          },
+          "body": "Committee on the Status of Women"
+        },
+        {
+          "dateISO": "2024-10-15",
+          "text": "An apprentice Hawaiian birth keeper testified in support of the committee's letter backing midwifery legislation.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "hZ6L0Z6Gn0w",
+            "ts": "0:51:44",
+            "retrievedISO": "2026-11-04T07:35:10.258Z",
+            "endTs": "0:52:29"
+          },
+          "body": "Committee on the Status of Women"
+        },
+        {
+          "dateISO": "2024-10-15",
+          "text": "She asked that the letter go to every state representative and senator after the November election.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "hZ6L0Z6Gn0w",
+            "ts": "0:05:26",
+            "retrievedISO": "2026-11-04T07:35:10.258Z",
+            "endTs": "0:05:56"
+          },
+          "body": "Committee on the Status of Women"
+        },
+        {
+          "dateISO": "2024-10-15",
+          "text": "A home birth task force chair asked that the letter to legislators back three changes to midwifery law.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "hZ6L0Z6Gn0w",
+            "ts": "0:04:38",
+            "retrievedISO": "2026-11-04T07:35:10.258Z",
+            "endTs": "0:05:27"
+          },
+          "body": "Committee on the Status of Women"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "temporary-wastewater-service-for-new-waikapu-school",
+      "title": "Temporary wastewater service for new Waikapū school",
+      "summary": "A committee voted 9–0 on October 19 to recommend passing Bill 116 on first reading. The bill is an agreement for temporary wastewater service to a new Central Maui school, expected to open in 2031. If the county's new wastewater plant is not running by then, the existing Wailuku-Kahului plant would take up to 14,500 gallons a day, which the director called a Plan B.",
+      "topics": [
+        "education",
+        "environment"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-10-19",
+      "lastSeenISO": "2026-10-19",
+      "signals": {
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 3,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Water and Infrastructure Committee",
+          "group": "council",
+          "short": [
+            "WAI"
+          ]
+        }
+      ],
+      "bills": [
+        "Bill 116 (2026)"
+      ],
+      "timeline": [
+        {
+          "dateISO": "2026-10-19",
+          "text": "Members voted 9–0 to recommend passing the bill on first reading.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bAmgey8HdV0",
+            "ts": "0:28:13",
+            "retrievedISO": "2026-10-23T00:02:05.685Z",
+            "endTs": "0:28:43"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-10-19",
+          "text": "The director called the agreement a Plan B in case the county's new wastewater plant is not running when the school opens.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bAmgey8HdV0",
+            "ts": "0:20:39",
+            "retrievedISO": "2026-10-23T00:02:05.685Z",
+            "endTs": "0:21:18"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-10-19",
+          "text": "If the county's new wastewater plant is not running by then, the existing Wailuku-Kahului plant would take up to 14,500 gallons a day.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bAmgey8HdV0",
+            "ts": "0:06:28",
+            "retrievedISO": "2026-10-23T00:02:05.685Z",
+            "endTs": "0:06:58"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-10-19",
+          "text": "The school is expected to open in 2031.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bAmgey8HdV0",
+            "ts": "0:06:15",
+            "retrievedISO": "2026-10-23T00:02:05.685Z",
+            "endTs": "0:06:45"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-10-19",
+          "text": "The committee took up Bill 116, an agreement for temporary wastewater service to a new Central Maui school.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bAmgey8HdV0",
+            "ts": "0:06:02",
+            "retrievedISO": "2026-10-23T00:02:05.685Z",
+            "endTs": "0:06:36"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "upcountry-wildfire-rebuild-program",
+      "title": "Upcountry wildfire rebuild program",
+      "summary": "On June 5, a budget amendment passed with eight ayes and one recusal, directing up to $3 million to Maui Economic Opportunity Inc. for an Upcountry wildfire rebuild pilot program. The county expects to partner with a local nonprofit to run the grant program. The money was first approved in committee in April, and the plan aims to help upcountry residents on a fixed income, uninsured, or underinsured.",
+      "topics": [
+        "disaster-recovery",
+        "housing"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-04-22",
+      "lastSeenISO": "2026-06-05",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        },
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-06-05",
+          "text": "That amendment passed with eight ayes and one member recused.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "r35y6R967gY",
+            "ts": "4:10:01",
+            "retrievedISO": "2026-10-16T23:32:54.179Z",
+            "endTs": "4:10:31"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-06-05",
+          "text": "A budget amendment directs up to $3 million to Maui Economic Opportunity Inc. for an Upcountry wildfire rebuild pilot program.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "r35y6R967gY",
+            "ts": "4:06:19",
+            "retrievedISO": "2026-10-16T23:32:54.179Z",
+            "endTs": "4:06:49"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-06-05",
+          "text": "The county expects to partner with a local nonprofit to run the grant program.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "r35y6R967gY",
+            "ts": "3:19:52",
+            "retrievedISO": "2026-10-16T23:32:54.179Z",
+            "endTs": "3:20:22"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-05-15",
+          "text": "The vice chair said her office has already asked to meet with John Smith.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "WmlNgIDoTf0",
+            "ts": "5:07:18",
+            "retrievedISO": "2026-10-19T23:24:26.848Z",
+            "endTs": "5:07:48"
+          },
+          "body": "County Council Notice of Public Hearing"
+        },
+        {
+          "dateISO": "2026-05-15",
+          "text": "Motion to reconsider amendments on the upcountry wildfire recovery program: The council voted to reconsider the upcountry recovery program changes, which were then withdrawn.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "WmlNgIDoTf0",
+            "ts": "4:48:45",
+            "retrievedISO": "2026-10-19T23:24:26.848Z",
+            "endTs": "4:49:18"
+          },
+          "body": "County Council Notice of Public Hearing"
+        },
+        {
+          "dateISO": "2026-05-15",
+          "text": "Council members reconsidered and withdrew changes to an upcountry wildfire recovery program.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "WmlNgIDoTf0",
+            "ts": "4:48:05",
+            "retrievedISO": "2026-10-19T23:24:26.848Z",
+            "endTs": "4:49:27"
+          },
+          "body": "County Council Notice of Public Hearing"
+        },
+        {
+          "dateISO": "2026-05-15",
+          "text": "The vice chair will review the upcountry recovery plan with John Smith and bring a revised version at second reading.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "WmlNgIDoTf0",
+            "ts": "4:47:26",
+            "retrievedISO": "2026-10-19T23:24:26.848Z",
+            "endTs": "4:48:00"
+          },
+          "body": "County Council Notice of Public Hearing"
+        },
+        {
+          "dateISO": "2026-05-15",
+          "text": "The budget sets aside up to $3 million for an upcountry wildfire rebuild, recovery and mitigation program.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "WmlNgIDoTf0",
+            "ts": "4:42:20",
+            "retrievedISO": "2026-10-19T23:24:26.848Z",
+            "endTs": "4:43:02"
+          },
+          "body": "County Council Notice of Public Hearing"
+        },
+        {
+          "dateISO": "2026-05-15",
+          "text": "The vice chair said residents at community meetings describe needs greater than $50,000 per household.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "WmlNgIDoTf0",
+            "ts": "4:32:26",
+            "retrievedISO": "2026-10-19T23:24:26.848Z",
+            "endTs": "4:32:56"
+          },
+          "body": "County Council Notice of Public Hearing"
+        },
+        {
+          "dateISO": "2026-05-15",
+          "text": "The plan describes help for upcountry residents who are on a fixed income, uninsured, or underinsured.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "WmlNgIDoTf0",
+            "ts": "4:30:00",
+            "retrievedISO": "2026-10-19T23:24:26.848Z",
+            "endTs": "4:30:30"
+          },
+          "body": "County Council Notice of Public Hearing"
+        },
+        {
+          "dateISO": "2026-05-15",
+          "text": "The vice chair said a philanthropic partner may cover the program's administrative costs.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "WmlNgIDoTf0",
+            "ts": "4:28:32",
+            "retrievedISO": "2026-10-19T23:24:26.848Z",
+            "endTs": "4:29:02"
+          },
+          "body": "County Council Notice of Public Hearing"
+        },
+        {
+          "dateISO": "2026-04-22",
+          "text": "Up to $3 million for upcountry wildfire rebuild, recovery, and mitigation: The condition passed on a roll call vote.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "IxdQajY2dxI",
+            "ts": "3:26:04",
+            "retrievedISO": "2026-10-19T23:28:29.964Z",
+            "endTs": "3:27:27"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-22",
+          "text": "The committee chair said she will find a nonprofit to run the upcountry rebuild funds and bring paperwork before first reading.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "IxdQajY2dxI",
+            "ts": "3:23:59",
+            "retrievedISO": "2026-10-19T23:28:29.964Z",
+            "endTs": "3:25:08"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-22",
+          "text": "The committee chair said upcountry residents and rentals were affected by the wildfire.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "IxdQajY2dxI",
+            "ts": "3:10:53",
+            "retrievedISO": "2026-10-19T23:28:29.964Z",
+            "endTs": "3:11:23"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "upper-kula-water-transmission-line-improvements",
+      "title": "Upper Kula water transmission line improvements",
+      "summary": "Bill 166 would add $350,000 for upper Kula water transmission improvements. The money comes from estimated revenues from licenses and permits for the Department of Water Supply. A council member noted that two diversions were destroyed in 2018 by Hurricane Olivia.",
+      "topics": [
+        "water"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2025-11-07",
+      "lastSeenISO": "2025-11-07",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        }
+      ],
+      "bills": [
+        "Bill 166 (2025)"
+      ],
+      "timeline": [
+        {
+          "dateISO": "2025-11-07",
+          "text": "A council member said two diversions were destroyed in 2018 by Hurricane Olivia.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MJiHCk91Gwo",
+            "ts": "2:33:52",
+            "retrievedISO": "2026-10-21T18:26:44.447Z",
+            "endTs": "2:34:22"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2025-11-07",
+          "text": "The $350,000 comes from estimated revenues from licenses and permits for the Department of Water Supply.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MJiHCk91Gwo",
+            "ts": "2:31:12",
+            "retrievedISO": "2026-10-21T18:26:44.447Z",
+            "endTs": "2:31:42"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2025-11-07",
+          "text": "Bill 166 adds $350,000 for upper Kula water transmission improvements.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "MJiHCk91Gwo",
+            "ts": "2:29:49",
+            "retrievedISO": "2026-10-21T18:26:44.447Z",
+            "endTs": "2:30:33"
+          },
+          "body": "County Council Meeting"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "wailea-golf-course-redevelopment-of-about-900-homes",
+      "title": "Wailea golf course redevelopment of about 900 homes",
+      "summary": "On October 7, a testifier asked the County to study infrastructure, safety and costs before approving a golf course redevelopment of about 900 homes, noting about 8,000 more homes are projected in South Maui and that open space would be lost. Earlier, a golf representative said 225 acres could hold 600 to 1,000 homes with no number set, and promised 30% in excess of the requirement. The golf representative and the community association president agreed to work together on traffic.",
+      "topics": [
+        "land-use",
+        "housing"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-09-30",
+      "lastSeenISO": "2026-10-07",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 2,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Disaster Recovery, International Affairs, and Planning Committee",
+          "group": "council",
+          "short": [
+            "DRIP"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-10-07",
+          "text": "The testifier said workforce housing depends on safe access, reliable infrastructure and long-term affordability.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "5C73aQDRPR4",
+            "ts": "0:12:59",
+            "retrievedISO": "2026-10-16T22:24:10.229Z",
+            "endTs": "0:13:29"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-10-07",
+          "text": "The testifier said the redevelopment would remove golf course open space.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "5C73aQDRPR4",
+            "ts": "0:11:52",
+            "retrievedISO": "2026-10-16T22:24:10.229Z",
+            "endTs": "0:12:22"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-10-07",
+          "text": "The testifier said about 8,000 more homes are projected in South Maui.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "5C73aQDRPR4",
+            "ts": "0:11:11",
+            "retrievedISO": "2026-10-16T22:24:10.229Z",
+            "endTs": "0:11:41"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-10-07",
+          "text": "A testifier asked the County to study infrastructure, safety and costs before approving a golf course redevelopment of about 900 homes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "5C73aQDRPR4",
+            "ts": "0:10:52",
+            "retrievedISO": "2026-10-16T22:24:10.229Z",
+            "endTs": "0:12:11"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-10-05",
+          "text": "The golf representative and the community association president agreed to work together on traffic.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ddTYKdPxK9g",
+            "ts": "3:49:46",
+            "retrievedISO": "2026-10-16T23:15:18.634Z",
+            "endTs": "3:50:42"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-10-05",
+          "text": "The representative said they have committed to doing \"30% in excess of the requirement.\"",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ddTYKdPxK9g",
+            "ts": "3:25:48",
+            "retrievedISO": "2026-10-16T23:15:18.634Z",
+            "endTs": "3:26:18"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-10-05",
+          "text": "The representative said 225 acres could hold 600 to 1,000 homes, but no number is set.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ddTYKdPxK9g",
+            "ts": "3:14:02",
+            "retrievedISO": "2026-10-16T23:15:18.634Z",
+            "endTs": "3:14:32"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-10-05",
+          "text": "Another testifier backed a Wailea Community Association compromise that keeps the Blue Course.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ddTYKdPxK9g",
+            "ts": "0:20:01",
+            "retrievedISO": "2026-10-16T23:15:18.634Z",
+            "endTs": "0:21:15"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-09-30",
+          "text": "A community group's president asked the county not to designate Wailea Golf land for redevelopment until the applicant shows it can be served safely.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "OHRQy0hAcVU",
+            "ts": "0:43:02",
+            "retrievedISO": "2026-10-16T22:27:14.855Z",
+            "endTs": "0:43:35"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "water-department-watershed-protection-grants",
+      "title": "Water department watershed protection grants",
+      "summary": "As of April 2026, watershed grants remain at the 4% level the county requires. Staff said in February 2025 that grants can use up to 4% of the department's operating revenue, and that most grant work is above 3,000 feet in the upper watershed. Staff also said rainfall data shows less rain overall but more intense storms.",
+      "topics": [
+        "water",
+        "environment"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2025-02-20",
+      "lastSeenISO": "2026-04-08",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        },
+        {
+          "name": "Agriculture, Diversification, Environment, and Public Transportation Committee",
+          "group": "council",
+          "short": [
+            "ADEPT"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-04-08",
+          "text": "Watershed grants stay at the 4% level required by the county.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "4QEyWDNRkiY",
+            "ts": "0:12:58",
+            "retrievedISO": "2026-10-17T04:27:03.392Z",
+            "endTs": "0:13:28"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2025-02-20",
+          "text": "Staff said grants can use up to 4% of the department's operating revenue.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "1wzlTecIqTE",
+            "ts": "2:43:19",
+            "retrievedISO": "2026-10-22T06:26:10.023Z",
+            "endTs": "2:43:49"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+        },
+        {
+          "dateISO": "2025-02-20",
+          "text": "Staff said grant work in the wildland-urban interface (where wild land meets homes) will likely be better defined in FY25 and FY26.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "1wzlTecIqTE",
+            "ts": "2:38:42",
+            "retrievedISO": "2026-10-22T06:26:10.023Z",
+            "endTs": "2:39:12"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+        },
+        {
+          "dateISO": "2025-02-20",
+          "text": "Staff said rainfall data shows less rain overall but more intense storms.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "1wzlTecIqTE",
+            "ts": "2:32:44",
+            "retrievedISO": "2026-10-22T06:26:10.023Z",
+            "endTs": "2:33:22"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+        },
+        {
+          "dateISO": "2025-02-20",
+          "text": "One long-time grantee could not take its final year of grant money because of a management change.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "1wzlTecIqTE",
+            "ts": "2:14:41",
+            "retrievedISO": "2026-10-22T06:26:10.023Z",
+            "endTs": "2:15:12"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+        },
+        {
+          "dateISO": "2025-02-20",
+          "text": "Staff said most grant work is above 3,000 feet in the upper watershed.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "1wzlTecIqTE",
+            "ts": "2:13:36",
+            "retrievedISO": "2026-10-22T06:26:10.023Z",
+            "endTs": "2:14:06"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+        },
+        {
+          "dateISO": "2025-02-20",
+          "text": "The chair said these grants help keep water sources clean, healthy and sustainable.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "1wzlTecIqTE",
+            "ts": "2:09:12",
+            "retrievedISO": "2026-10-22T06:26:10.023Z",
+            "endTs": "2:09:42"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, & Public Transportation Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "youth-mental-health-crisis-support-in-schools",
+      "title": "Youth mental health crisis support in schools",
+      "summary": "On October 9, a vote was called on a resolution encouraging state departments to name representatives to build an implementation plan with the County, but the result is not in the meeting video. The resolution cites a study of how the 2023 Maui wildfires affect survivors' health, child development, and recovery. YouthLine, a free peer-to-peer crisis line for ages 10 to 24, said it gets no County funding and relies on grants.",
+      "topics": [
+        "health",
+        "education"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-06-01",
+      "lastSeenISO": "2026-10-09",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 2,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-17",
+      "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        },
+        {
+          "name": "Maui Children & Youth Commission",
+          "group": "board",
+          "short": []
+        },
+        {
+          "name": "Water Authority, Social Services, and Parks Committee",
+          "group": "council",
+          "short": [
+            "WASSP"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-10-09",
+          "text": "A vote was called on the resolution, but the result is not in the meeting video.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mmnN74BJwhw",
+            "ts": "1:06:12",
+            "retrievedISO": "2026-10-16T10:06:23.221Z",
+            "endTs": "1:06:42"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-10-09",
+          "text": "The resolution encourages the state departments to name representatives to build an implementation plan with the County.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mmnN74BJwhw",
+            "ts": "1:03:04",
+            "retrievedISO": "2026-10-16T10:06:23.221Z",
+            "endTs": "1:03:34"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-10-09",
+          "text": "The resolution says the study examines how the 2023 Maui wildfires affect survivors' physical and mental health, child development, and recovery.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mmnN74BJwhw",
+            "ts": "1:01:13",
+            "retrievedISO": "2026-10-16T10:06:23.221Z",
+            "endTs": "1:01:43"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-10-09",
+          "text": "A testifier cited a 2023 state study finding 27% of middle schoolers statewide seriously considered suicide.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "mmnN74BJwhw",
+            "ts": "0:46:40",
+            "retrievedISO": "2026-10-16T10:06:23.221Z",
+            "endTs": "0:47:29"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-09-21",
+          "text": "Members described Youthline, a mental health line run by youth for youth, with adult oversight.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "R72ep6UsQvk",
+            "ts": "0:13:43",
+            "retrievedISO": "2026-10-07T23:03:53.466Z",
+            "endTs": "0:14:16"
+          },
+          "body": "Maui Children & Youth Commission"
+        },
+        {
+          "dateISO": "2026-06-01",
+          "text": "Defer the youth mental health crisis intervention and support item: The committee deferred the youth mental health crisis support item with no objections stated.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tgrcJwPj39Y",
+            "ts": "1:10:39",
+            "retrievedISO": "2026-10-16T21:27:19.698Z",
+            "endTs": "1:11:09"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-06-01",
+          "text": "YouthLine said it does not get any County funding right now.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tgrcJwPj39Y",
+            "ts": "1:02:30",
+            "retrievedISO": "2026-10-16T21:27:19.698Z",
+            "endTs": "1:03:00"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-06-01",
+          "text": "YouthLine said it is funded through grants, including one federal and one state grant.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tgrcJwPj39Y",
+            "ts": "0:47:18",
+            "retrievedISO": "2026-10-16T21:27:19.698Z",
+            "endTs": "0:47:57"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-06-01",
+          "text": "Close public testimony on the youth mental health crisis support item: The committee closed public testimony on the youth mental health item with no objections stated.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tgrcJwPj39Y",
+            "ts": "0:42:38",
+            "retrievedISO": "2026-10-16T21:27:19.698Z",
+            "endTs": "0:43:10"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-06-01",
+          "text": "YouthLine said the service is free, confidential, and needs no parental consent.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tgrcJwPj39Y",
+            "ts": "0:41:11",
+            "retrievedISO": "2026-10-16T21:27:19.698Z",
+            "endTs": "0:41:41"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-06-01",
+          "text": "YouthLine said Molokaʻi and Lānaʻi schools will be its outreach focus this coming school year.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tgrcJwPj39Y",
+            "ts": "0:22:26",
+            "retrievedISO": "2026-10-16T21:27:19.698Z",
+            "endTs": "0:22:56"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-06-01",
+          "text": "YouthLine said it started running its call center on Maui in January.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tgrcJwPj39Y",
+            "ts": "0:21:34",
+            "retrievedISO": "2026-10-16T21:27:19.698Z",
+            "endTs": "0:22:04"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-06-01",
+          "text": "YouthLine Hawaiʻi said it is a peer-to-peer help and crisis line for young people ages 10 to 24.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tgrcJwPj39Y",
+            "ts": "0:09:32",
+            "retrievedISO": "2026-10-16T21:27:19.698Z",
+            "endTs": "0:10:02"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
+        },
+        {
+          "dateISO": "2026-06-01",
+          "text": "The committee had two items: youth mental health crisis support, and a proposed community resilience and youth development campus.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "tgrcJwPj39Y",
+            "ts": "0:03:00",
+            "retrievedISO": "2026-10-16T21:27:19.698Z",
+            "endTs": "0:03:31"
+          },
+          "body": "County Council Water Authority, Social Services, and Parks Committee"
         }
       ],
       "sourceTypes": [

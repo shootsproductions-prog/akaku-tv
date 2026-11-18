@@ -43,7 +43,12 @@
       }
     ],
     "bodyType": "council",
-    "trackerIssues": [],
+    "trackerIssues": [
+      {
+        "slug": "fire-station-bills-tied-to-methodist-church-rezoning",
+        "title": "Fire station bills tied to Methodist church rezoning"
+      }
+    ],
     "boards": [
       {
         "name": "Disaster Recovery, International Affairs, and Planning Committee",

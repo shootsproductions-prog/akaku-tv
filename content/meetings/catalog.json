@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-15T07:52:14.671Z",
-  "etag": "623d9f2ff58ba84e3fce6f26a7cd259afaddf11f7755a12a008488ab35625b2b",
+  "updatedAt": "2026-11-18T05:05:25.383Z",
+  "etag": "134915e21995cd160eaf6b85afc451aa9dad3b3c2be86e76790dfb4308788995",
   "count": 366,
   "meetings": [
     {
@@ -213,9 +213,12 @@
       "dur": "1 h 15 m",
       "voteCount": 1,
       "momentCount": 7,
-      "issues": [],
-      "updatedAt": "2026-11-06T03:28:57.377Z",
-      "sha256": "020b837d4916b700ff9d63456fced73a3a980f38399122ae1bb573fbb2958272"
+      "issues": [
+        "call-for-a-new-state-dam-and-reservoir-safety-law",
+        "gulch-and-stream-sediment-removal-for-flood-control"
+      ],
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "b4bfab44ec5401252b581191f8e09a417909eecb4b06e354de13df77bf05634d"
     },
     {
       "videoId": "hTPfc9OiJm8",
@@ -302,10 +305,11 @@
       "issues": [
         "fukuyama-sister-city-delegation-and-follow-up",
         "emergency-fund-money-for-march-2026-storm-damage",
-        "sister-city-ties-with-ilocos-norte-capital"
+        "sister-city-ties-with-ilocos-norte-capital",
+        "call-for-a-new-state-dam-and-reservoir-safety-law"
       ],
-      "updatedAt": "2026-11-06T03:28:57.377Z",
-      "sha256": "f398403d49790b99c5f32f03d5b8a6dabfcbdb8a511547f4c559fff7e3aae9e4"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "eda3495cfcca54ffea5f405a3ac7e7a796c60a78696622b2ef41d44fc682ebfd"
     },
     {
       "videoId": "81AagZf0euk",
@@ -355,10 +359,11 @@
       "issues": [
         "disinfecting-wastewater-that-reaches-the-ocean",
         "central-maui-wastewater-reclamation-facility-funding",
-        "harbor-triangle-rezoning-including-maui-ocean-center"
+        "harbor-triangle-rezoning-including-maui-ocean-center",
+        "temporary-wastewater-service-for-new-waikapu-school"
       ],
-      "updatedAt": "2026-10-31T10:02:18.959Z",
-      "sha256": "05d56098a9f5d4cf65e060c44215180ab632100fd2cd9a70c353c612d179d28e"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "5b20f1f10860087b267cc464fc1f7a77d4f36526b01656a2b0905f8bd5da7d60"
     },
     {
       "videoId": "FylynoI1kKk",
@@ -529,10 +534,11 @@
       "issues": [
         "wildfire-survivor-health-study-findings",
         "safe-parking-sites-for-people-living-in-cars",
-        "yearly-usgs-water-monitoring-agreement"
+        "yearly-usgs-water-monitoring-agreement",
+        "youth-mental-health-crisis-support-in-schools"
       ],
-      "updatedAt": "2026-11-06T03:28:57.377Z",
-      "sha256": "bf60da8e9bbd97f375a94c84d0b6bc1207562b0a5e54c6424b91bc9753f146b2"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "ef01aecb91ea83214eacecfa015e9375b4efd7061114841f3682ed62a3f025aa"
     },
     {
       "videoId": "fp9VVcEIuJo",
@@ -581,10 +587,11 @@
       "voteCount": 0,
       "momentCount": 4,
       "issues": [
-        "county-cyber-security-after-malware-disruption"
+        "county-cyber-security-after-malware-disruption",
+        "county-pension-costs-and-the-state-retirement-shortfall"
       ],
-      "updatedAt": "2026-10-30T06:16:26.131Z",
-      "sha256": "df1224367d8163f5e9926798936675773abd9469d3231cd528755c54d994ba84"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "be10c8a9ae29c53ad8ce87b68e33d7e990269dd4613c46759ad97581a233bd78"
     },
     {
       "videoId": "5C73aQDRPR4",
@@ -599,10 +606,11 @@
       "momentCount": 3,
       "issues": [
         "south-maui-community-plan-review",
-        "disinfecting-wastewater-that-reaches-the-ocean"
+        "disinfecting-wastewater-that-reaches-the-ocean",
+        "wailea-golf-course-redevelopment-of-about-900-homes"
       ],
-      "updatedAt": "2026-10-30T06:16:26.131Z",
-      "sha256": "85065e59b85a51d121d39cedd857bf027505de9413b2f04d018d9465c11b8a36"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "8f4a1daadd6b1cdce0b48eace56b6e338d2ffff2a9f9f37401dfd71e40c58e69"
     },
     {
       "videoId": "JURbN1Cr2OE",
@@ -700,10 +708,11 @@
       "voteCount": 2,
       "momentCount": 3,
       "issues": [
-        "south-maui-community-plan-review"
+        "south-maui-community-plan-review",
+        "wailea-golf-course-redevelopment-of-about-900-homes"
       ],
-      "updatedAt": "2026-11-06T03:28:57.377Z",
-      "sha256": "40303fd1697d19e75f507cb1be03232db2beade13618403c02e274a1caf0212f"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "dd69dea832f34f66a18a98cb8ab5d1ce19089189108e7c4c93d0a97f6d824e81"
     },
     {
       "videoId": "TVUUhoCXIvQ",
@@ -734,10 +743,11 @@
       "voteCount": 0,
       "momentCount": 3,
       "issues": [
-        "south-maui-community-plan-review"
+        "south-maui-community-plan-review",
+        "wailea-golf-course-redevelopment-of-about-900-homes"
       ],
-      "updatedAt": "2026-10-31T10:02:02.744Z",
-      "sha256": "467a49c1caa951e360a7ec3cfb764e4aa8480633452ebacd177520bc696ca0fd"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "15113fa173c4ea5391cb581a395206682103c261fec22caba95d5a1338a3c9be"
     },
     {
       "videoId": "oZNc2fyyOPE",
@@ -870,10 +880,11 @@
         "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p",
         "three-dhhl-wells-on-hawaiian-home-lands",
         "fukuyama-sister-city-delegation-and-follow-up",
-        "sister-city-ties-with-ilocos-norte-capital"
+        "sister-city-ties-with-ilocos-norte-capital",
+        "expedited-permits-for-lahaina-and-kula-rebuilds"
       ],
-      "updatedAt": "2026-10-31T10:02:18.959Z",
-      "sha256": "2fa5bc88cc2d948744d335ca7bf376074975a8390e5d01fa9cc8ad687876a7fd"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "9e14a33f09cc4f4e6925bf60e94e8c96844ccaec01f67e2167c2c3c26aa05197"
     },
     {
       "videoId": "H9lx2zorcDM",
@@ -1006,10 +1017,11 @@
       "momentCount": 3,
       "issues": [
         "filling-a-vacant-board-of-water-supply-seat",
-        "2027-mass-nominations-for-county-boards"
+        "2027-mass-nominations-for-county-boards",
+        "filling-liquor-control-adjudication-board-seats"
       ],
-      "updatedAt": "2026-10-30T06:16:26.131Z",
-      "sha256": "a2d9f97af7bad0f78764decd4f79fde4f20a8f85a6789e6506896547fb6057cc"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "0cdcd7e136a9c00560369968d6cc983798a46dd3af4895c4d24a6a586d9e54e5"
     },
     {
       "videoId": "dAuJTyzIo2A",
@@ -1127,10 +1139,11 @@
       "issues": [
         "children-and-youth-commission-family-survey-findings",
         "new-youth-advisory-group-launch",
-        "youth-commission-list-of-county-funded-youth-programs"
+        "youth-commission-list-of-county-funded-youth-programs",
+        "youth-mental-health-crisis-support-in-schools"
       ],
-      "updatedAt": "2026-10-30T06:16:26.131Z",
-      "sha256": "32121bf79219add83dc0380ed7d3ff450cd36ccb3210b628101fbcc1e4fafec1"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "1485f53b9e5afe44a2c7df38c8ca481254d6f00c649e30e5f4ea2f8057cdd762"
     },
     {
       "videoId": "jggU3kzKFQI",
@@ -1547,10 +1560,11 @@
       "momentCount": 3,
       "issues": [
         "filling-a-vacant-board-of-water-supply-seat",
-        "2027-mass-nominations-for-county-boards"
+        "2027-mass-nominations-for-county-boards",
+        "filling-liquor-control-adjudication-board-seats"
       ],
-      "updatedAt": "2026-10-30T06:16:26.131Z",
-      "sha256": "b72779ea028bcb5e9a7f9c726aeeba7ac299e6c5a83fbc6906ca09fa781fdb35"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "e4f94de6e4ad2fe89c9691864d928d1376d58b8298e66682142092510fe67f2d"
     },
     {
       "videoId": "ZLDuSozt67Y",
@@ -2413,10 +2427,11 @@
       "voteCount": 0,
       "momentCount": 3,
       "issues": [
-        "special-counsel-costs-defending-a-fire-captain"
+        "special-counsel-costs-defending-a-fire-captain",
+        "christopher-salem-whistleblower-lawsuit-and-legal-fees"
       ],
-      "updatedAt": "2026-10-31T10:02:18.959Z",
-      "sha256": "fc5bd104701fb3fa83178da03b7e0f9061d927a5e7a69b2c6c28438ef139670d"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "cede2049aac76914583c18d393e0be5a1d18f040c83d2043d91ca38190ad6c89"
     },
     {
       "videoId": "ZI16NC6wq_w",
@@ -2584,10 +2599,11 @@
       "issues": [
         "staff-approvals-of-lahaina-historic-district-rebuilds",
         "proposed-federal-section-106-historic-review-changes",
-        "cost-of-government-review-of-county-boards"
+        "cost-of-government-review-of-county-boards",
+        "cultural-resources-commission-short-on-members"
       ],
-      "updatedAt": "2026-10-31T10:02:02.744Z",
-      "sha256": "7bfd8f2b35dae4ed0ccf5af6bd0bfec920343dc6f6a19520e99302d3269ba058"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "0164c85ef8cf683080240951b9f615270a0747d4105767f2fe0c510e210e423c"
     },
     {
       "videoId": "1uy2xHeCM-A",
@@ -2755,10 +2771,11 @@
         "county-buying-private-west-maui-water-systems",
         "moving-fire-survivors-off-fema-interim-housing",
         "possible-county-purchase-of-maui-land-and-pine-water-assets",
-        "spending-the-1-6-billion-federal-recovery-grant"
+        "spending-the-1-6-billion-federal-recovery-grant",
+        "disaster-case-management-for-fire-survivors"
       ],
-      "updatedAt": "2026-10-31T10:02:02.744Z",
-      "sha256": "239ee78dabe9bf4230d0b51ee06bb8a93d85e7aefe90d0c991018c06a5f467f6"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "f647901c62c3958f142a96de5771428b8ad28a127e61b1a13f29f4ec4442a813"
     },
     {
       "videoId": "6EMR2aWneBw",
@@ -2973,9 +2990,11 @@
       "dur": "1 h 57 m",
       "voteCount": 0,
       "momentCount": 4,
-      "issues": [],
-      "updatedAt": "2026-10-31T10:02:02.744Z",
-      "sha256": "b9ea0c36f9dc11e3abaacd0cba560209010055c954e72dee33ee5c988c590e23"
+      "issues": [
+        "disclosing-fund-restrictions-on-county-land"
+      ],
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "57933f77662fc5a52cb792a264e103397f0f7791cd96f50ad3d64727da2e0cd4"
     },
     {
       "videoId": "G8BjVaIQGNw",
@@ -3374,10 +3393,11 @@
         "park-maui-paid-and-resident-parking-rules",
         "higher-fines-for-loud-vehicle-sound-systems",
         "johnson-controls-energy-savings-contract-phase-3",
-        "cap-on-bed-and-breakfast-homes-on-molokai"
+        "cap-on-bed-and-breakfast-homes-on-molokai",
+        "county-condo-purchases-for-fire-displaced-kupuna"
       ],
-      "updatedAt": "2026-11-06T03:28:57.377Z",
-      "sha256": "bdc41cafa33c8eb30a5902a2ec55578a4bdbb831b2e2958c989dc2f109e4e742"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "8ce923e4c3c4787d7a9784144b12f11d05bf7198175c8226ac50d86b5a63eed5"
     },
     {
       "videoId": "Q2s_7Nsckqw",
@@ -3472,9 +3492,11 @@
       "dur": "56 m",
       "voteCount": 1,
       "momentCount": 3,
-      "issues": [],
-      "updatedAt": "2026-10-31T10:02:02.744Z",
-      "sha256": "0c5b634dec16dd1368cfdeb415b8200550d809de636ec6c3cf49ec3a646cc98f"
+      "issues": [
+        "fire-station-bills-tied-to-methodist-church-rezoning"
+      ],
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "bef6acf7aa6470a082df20bcaca6c2d3e287cd013f7fc72f2052eeabd9a9d3eb"
     },
     {
       "videoId": "i3rjszlLse8",
@@ -3627,10 +3649,11 @@
       "momentCount": 5,
       "issues": [
         "ethics-bills-on-nepotism-lobbyists-and-ex-employees",
-        "countywide-fraud-risk-assessment-and-hotline"
+        "countywide-fraud-risk-assessment-and-hotline",
+        "council-oversight-of-special-counsel-bills-and-settlements"
       ],
-      "updatedAt": "2026-11-12T09:08:18.811Z",
-      "sha256": "d3553751a707c6ab2410bea29bc9fde8e2c1cbf085b2f2afe589bbe786519c6c"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "0f93b46751ab53920d3eb7458b7db46815c556c1b3b859898d8fe6c735840863"
     },
     {
       "videoId": "lLsXXrEBmuw",
@@ -3774,10 +3797,11 @@
       "momentCount": 3,
       "issues": [
         "emergency-fund-money-for-march-2026-storm-damage",
-        "storm-damaged-parks-and-closed-kula-gym"
+        "storm-damaged-parks-and-closed-kula-gym",
+        "gulch-and-stream-sediment-removal-for-flood-control"
       ],
-      "updatedAt": "2026-11-01T03:04:02.390Z",
-      "sha256": "8de21b734d1ed4273a679cd9d623cdb7619f0936b908515279ac36642c4eb321"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "a4b84420672019c755351dd97f72ebc86f6eb1097ace863f6fef8c8dbe5fdd4a"
     },
     {
       "videoId": "IDdA2PEpsxc",
@@ -3828,10 +3852,11 @@
       "momentCount": 3,
       "issues": [
         "safe-parking-sites-for-people-living-in-cars",
-        "bill-77-setting-aside-housing-fund-for-houseless-residents"
+        "bill-77-setting-aside-housing-fund-for-houseless-residents",
+        "developing-county-owned-land-for-affordable-housing"
       ],
-      "updatedAt": "2026-11-01T03:04:22.033Z",
-      "sha256": "d8b81949c3cdb5e6a81e9cf14f14a1e1a2c9f5b104a58612bf1b9d2e8ddbef37"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "c20d41e02044f8562f7824e7629061e46dbdf1b42dd55d2301894941c5ddd67b"
     },
     {
       "videoId": "aGVu5petQPA",
@@ -3845,10 +3870,11 @@
       "voteCount": 1,
       "momentCount": 4,
       "issues": [
-        "bill-77-setting-aside-housing-fund-for-houseless-residents"
+        "bill-77-setting-aside-housing-fund-for-houseless-residents",
+        "developing-county-owned-land-for-affordable-housing"
       ],
-      "updatedAt": "2026-11-06T03:28:57.377Z",
-      "sha256": "4124b270a4953c677612943b8cb094612a14fff0b8c6f811654d24b8d326593a"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "1faf7a177538005952b35461006285bedc1dcf8115e85b8e18a3422032ccb976"
     },
     {
       "videoId": "v2siMsfjOX4",
@@ -3915,10 +3941,11 @@
       "issues": [
         "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p",
         "water-system-development-fee-based-on-daily-use",
-        "lower-waiehu-beach-road-land-purchase-and-title-dispute"
+        "lower-waiehu-beach-road-land-purchase-and-title-dispute",
+        "upcountry-wildfire-rebuild-program"
       ],
-      "updatedAt": "2026-11-06T03:28:57.377Z",
-      "sha256": "ecb61b1c1dffaa40e4383ccfc847ee07c6db72c2637cd1830c7aa7ace753e5dd"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "75c344b7834dbff5534c796620c56c24d15b1d7079fe9e674a957a33671d5b6b"
     },
     {
       "videoId": "qaTIlozbYYE",
@@ -4060,9 +4087,11 @@
       "dur": "1 h 59 m",
       "voteCount": 3,
       "momentCount": 3,
-      "issues": [],
-      "updatedAt": "2026-10-31T10:02:18.959Z",
-      "sha256": "56d8071c2c864a7efcc919f658ab0d686b467a813af33e99c16d9bcd9738e49a"
+      "issues": [
+        "youth-mental-health-crisis-support-in-schools"
+      ],
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "1a662f61b389b128473c1e1f733b32f52162a1c35ace9255cb63e5fd077c562e"
     },
     {
       "videoId": "mVuGcb3aGEI",
@@ -4343,10 +4372,12 @@
       "issues": [
         "setting-yearly-property-tax-rates",
         "meo-farmer-microgrant-program",
-        "fees-at-county-electric-vehicle-chargers"
+        "upcountry-wildfire-rebuild-program",
+        "fees-at-county-electric-vehicle-chargers",
+        "election-year-reserve-on-mayors-office-budget"
       ],
-      "updatedAt": "2026-11-12T04:26:11.759Z",
-      "sha256": "70ef2206486ea6813a2821449915f43644f5807965f7774ba8462bde2b4a0a38"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "110f34a4919b4c060015724c5c3357ee928073205810da463a771c26208cee7e"
     },
     {
       "videoId": "Z_F_E5XxQT8",
@@ -4378,10 +4409,11 @@
         "maui-research-and-technology-park-land-designation",
         "bill-77-setting-aside-housing-fund-for-houseless-residents",
         "lahaina-residential-condo-rebuild-grant",
-        "countys-wildfire-lawsuits-and-global-settlement"
+        "countys-wildfire-lawsuits-and-global-settlement",
+        "disclosing-fund-restrictions-on-county-land"
       ],
-      "updatedAt": "2026-11-06T03:28:57.377Z",
-      "sha256": "f6a8b44d020440173d450499e8aaf4cf6d3e52dbee0beb6a4a00bb2a61cdaa24"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "c1a8c6f596538a8d435bd5d304429ea2e9cee70ba6f9b097bf3f69e88ae69a76"
     },
     {
       "videoId": "SY7ceHt82eM",
@@ -4416,10 +4448,11 @@
         "water-rate-increases-and-19-80-top-tier",
         "climate-action-revolving-fund-from-hotel-tax",
         "hoonani-village-housing-and-well-funding",
-        "fees-at-county-electric-vehicle-chargers"
+        "fees-at-county-electric-vehicle-chargers",
+        "gulch-and-stream-sediment-removal-for-flood-control"
       ],
-      "updatedAt": "2026-11-12T04:26:11.759Z",
-      "sha256": "adb8001e16183a4f4423d690fab03bf8108807c0f2656a27732e366678b10850"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "6894e7bcdf16b10aa999a8c73489b54960d09d53f608a39f47d96039907ff829"
     },
     {
       "videoId": "AYcQ3sdhHaI",
@@ -4456,10 +4489,12 @@
       "issues": [
         "emergency-fund-money-for-march-2026-storm-damage",
         "airborne-mapping-of-mauis-underground-fresh-water",
-        "lanai-fifth-street-affordable-housing-project"
+        "lanai-fifth-street-affordable-housing-project",
+        "homestead-nonprofit-buying-homes-for-permanent-rentals",
+        "upcountry-wildfire-rebuild-program"
       ],
-      "updatedAt": "2026-11-06T03:28:57.377Z",
-      "sha256": "1dd8dfc35a87b692e0ae4fc2956d1f90f673dbcde60cc33a7830b7af52a73f8a"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "d0bec6c7b520ed18fe2c02acae00f92d15d7c4ba3eca800147f55a4d0238e577"
     },
     {
       "videoId": "0nwyDrMaDbE",
@@ -4508,10 +4543,11 @@
       "voteCount": 6,
       "momentCount": 3,
       "issues": [
-        "ohana-assistance-program-for-building-family-units"
+        "ohana-assistance-program-for-building-family-units",
+        "buying-24-north-church-street-for-the-prosecutor"
       ],
-      "updatedAt": "2026-11-06T03:30:13.932Z",
-      "sha256": "23628e739037c2ee12cc7e0e9c4891af0604ba803cff0990d2da695e642e4e29"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "a8dd36c4ef76f46b315095169399fa648a144ddfaade58eb70988eec1567bf68"
     },
     {
       "videoId": "d9P72k1KGO4",
@@ -4544,10 +4580,11 @@
       "momentCount": 3,
       "issues": [
         "wildfire-survivor-health-study-findings",
-        "water-rate-increases-and-19-80-top-tier"
+        "water-rate-increases-and-19-80-top-tier",
+        "homestead-nonprofit-buying-homes-for-permanent-rentals"
       ],
-      "updatedAt": "2026-10-31T10:02:18.959Z",
-      "sha256": "1d612928b514ebf6e1420328288d2cd612a718c9e86b8275ff082e3045c30429"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "9fdc8b167cfb78aa895e3ae8753cb1f43d67bf543ecf626ac898ae3c3676e377"
     },
     {
       "videoId": "Gt9NKmS2tPQ",
@@ -4824,10 +4861,12 @@
       "momentCount": 5,
       "issues": [
         "central-maui-desalination-study-and-report-release",
-        "contractors-taking-lahaina-rebuilders-money"
+        "contractors-taking-lahaina-rebuilders-money",
+        "buying-kihei-wetland-parcels-for-flood-control",
+        "disaster-case-management-for-fire-survivors"
       ],
-      "updatedAt": "2026-11-06T03:30:13.932Z",
-      "sha256": "c177cc74899b529c4374203f8a8f8a320ba27d0e9c24abd4eba0330f25b2b347"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "f377df4730305ce4c1edb241f9f486f16177abf3401aa80923c70bdef3b42f15"
     },
     {
       "videoId": "g1_1HGnWNlg",
@@ -4861,10 +4900,11 @@
       "issues": [
         "mema-community-resiliency-hub-network-plan",
         "new-county-emergency-operations-center",
-        "hazardous-fuel-removal-on-10-high-risk-parcels"
+        "hazardous-fuel-removal-on-10-high-risk-parcels",
+        "changes-to-the-hawaiian-cultural-restoration-revolving-fund"
       ],
-      "updatedAt": "2026-11-12T07:08:13.305Z",
-      "sha256": "faeef733602cae7fcf27bbc94b82ca3d970079a1680d32468683465d57b122ac"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "c8040da47e85727794a65e8fc929fe67192a2a6fa4d2e0fa9d5067a933a3585b"
     },
     {
       "videoId": "WnYd3YxEigE",
@@ -4897,10 +4937,11 @@
         "county-buying-private-west-maui-water-systems",
         "moving-fire-survivors-off-fema-interim-housing",
         "airborne-mapping-of-mauis-underground-fresh-water",
-        "spending-the-1-6-billion-federal-recovery-grant"
+        "spending-the-1-6-billion-federal-recovery-grant",
+        "water-department-watershed-protection-grants"
       ],
-      "updatedAt": "2026-11-12T08:58:17.565Z",
-      "sha256": "7f176ba0278602c991de053a200ce5377f08f0a5c81663828f9fd678eca26e87"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "b04c83f5730dc12d413cc317b98c50fd3d9d9f549e0bc2a14ddaf024dad303d4"
     },
     {
       "videoId": "d1ORjxdGLPQ",
@@ -4915,10 +4956,13 @@
       "momentCount": 2,
       "issues": [
         "workforce-housing-fee-waivers-and-repayment-bill",
-        "rebuilding-the-west-maui-senior-center"
+        "rebuilding-the-west-maui-senior-center",
+        "hana-habitat-for-humanity-homes-stalled",
+        "rebuilding-the-lahaina-aquatic-center",
+        "permanent-west-maui-transit-center"
       ],
-      "updatedAt": "2026-11-12T07:08:13.305Z",
-      "sha256": "6d660d96ee62711b0ba0c349eb98855458e4bcd31f238aa870ffb490b46cf401"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "e2f8b31b741d08e986cbd6bc9940a8f83b82b9c9bcc1f9686149136100d56e36"
     },
     {
       "videoId": "nWmZjD_rlMU",
@@ -4931,9 +4975,11 @@
       "dur": "2 h 13 m",
       "voteCount": 0,
       "momentCount": 3,
-      "issues": [],
-      "updatedAt": "2026-11-12T07:08:13.305Z",
-      "sha256": "b60fbe06d3f0a6adef699018ca14fa0dabd50f69770e1fb754f7cb1ff0d6e4f0"
+      "issues": [
+        "hana-habitat-for-humanity-homes-stalled"
+      ],
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "395c735ae0eb415a4642853f6a6f97f7b126af8d6feeaf5e8671f1d7a61508ef"
     },
     {
       "videoId": "YGuzDd85eAQ",
@@ -5050,10 +5096,11 @@
         "allowing-two-accessory-homes-per-residential-lot",
         "waikapu-country-town-development-approvals",
         "bill-110-street-improvement-exemption-for-front-street-rebui",
-        "enterprise-zones-including-proposed-napili-zone"
+        "enterprise-zones-including-proposed-napili-zone",
+        "upper-kula-water-transmission-line-improvements"
       ],
-      "updatedAt": "2026-11-12T07:06:30.909Z",
-      "sha256": "4500c2867464e3eabafc02e1f954f99ba88119d5e7510e2abdd04dab365749f5"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "ab24983d3df63ccfea8156b86c8fc948014d5a3d6754e0d9d8f8277320294cfa"
     },
     {
       "videoId": "utyxTwSGIas",
@@ -5105,10 +5152,11 @@
         "off-street-parking-based-on-bedroom-count",
         "county-funding-for-lahaina-community-land-trust",
         "special-committee-on-property-tax-reform",
-        "discounted-preservation-water-rate-for-habitat-restoration"
+        "discounted-preservation-water-rate-for-habitat-restoration",
+        "bill-75-agricultural-tourism-on-working-farms"
       ],
-      "updatedAt": "2026-11-06T03:28:57.377Z",
-      "sha256": "b386a3f301150c92ae872273d7410bb43b6abc8c6ec9ce82a843cb7cb1e042cf"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "ecf247b6d4961a7dda805b4e8fbcfba755b4dac87b7a37723685a4366b5d5506"
     },
     {
       "videoId": "sT3Zhgq1u2o",
@@ -5158,10 +5206,12 @@
       "momentCount": 3,
       "issues": [
         "haiku-fire-station-awaits-county-council-approval",
-        "special-management-area-boundary-assessment"
+        "special-management-area-boundary-assessment",
+        "expedited-permits-for-lahaina-and-kula-rebuilds",
+        "developing-county-owned-land-for-affordable-housing"
       ],
-      "updatedAt": "2026-11-01T03:10:01.373Z",
-      "sha256": "a041f032b082aecad08982153b8c3a3eb39c5bc189721d01eddffa0a4d961614"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "c8b2df40a7b113d1760dc63b675cfa12b5bfea9b1eec763915b20a7cb8a1924e"
     },
     {
       "videoId": "ZdlzVeIy0Lw",
@@ -5251,10 +5301,11 @@
         "proposed-maui-county-passenger-ferry-to-molokai-and-lanai",
         "kula-burn-scar-fencing-and-native-replanting",
         "county-food-and-nutrition-security-plan-law",
-        "kula-ag-park-expansion-and-new-farm-reservoir"
+        "kula-ag-park-expansion-and-new-farm-reservoir",
+        "water-department-watershed-protection-grants"
       ],
-      "updatedAt": "2026-11-06T03:30:13.932Z",
-      "sha256": "76ca94acf661e8861d715e9a8bf1f1bdee0c486506438f4624ddd9f314227b97"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "a11482190c1e470b861d7f8b901f251d6df7022752f4d5fb04f96463d8b7d839"
     },
     {
       "videoId": "Rn2tS9VtKOk",
@@ -5269,10 +5320,11 @@
       "momentCount": 4,
       "issues": [
         "bill-104-kitchenettes-for-rebuilding-homes",
-        "fire-department-input-on-housing-density-bills"
+        "fire-department-input-on-housing-density-bills",
+        "1-7-million-lahaina-parcel-for-evacuation-route"
       ],
-      "updatedAt": "2026-11-06T03:28:57.377Z",
-      "sha256": "e36d17feafe5885262b098680a56196b8c2dcdc76715a0828ca4c50c295e53e6"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "3b23369f18ff4c302150b095c448a8b6a702a4d5dda98b84fd4fda54a8acb13f"
     },
     {
       "videoId": "rbKgVXsn0AA",
@@ -6033,11 +6085,14 @@
       "issues": [
         "west-maui-affordable-housing-project-water-condition",
         "using-recycled-r1-water-for-irrigation-and-firefighting",
+        "allowing-larger-private-rain-catchment-tanks",
+        "repairing-fire-damaged-west-maui-water-lines",
         "voter-service-centers-and-election-use-of-council-chambers",
+        "police-department-helicopter",
         "proposed-west-maui-critical-access-hospital"
       ],
-      "updatedAt": "2026-11-12T07:08:13.305Z",
-      "sha256": "187194a8a5d1051bbef924ad233a9a2f1204f68fd80fa8955db35993f48c0e04"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "73a15ad71753517ad1f4f257de6bd53ee0996a2092096cee36813c1a07156979"
     },
     {
       "videoId": "bRKoNKr07JM",
@@ -6175,9 +6230,11 @@
       "dur": "1 h 44 m",
       "voteCount": 0,
       "momentCount": 3,
-      "issues": [],
-      "updatedAt": "2026-11-06T03:28:57.377Z",
-      "sha256": "03999af9d3bade4c1cc2c132aae990e6ada4d1469c92edc6dc4fb863acaca16f"
+      "issues": [
+        "state-midwifery-law-and-birth-attendant-exemption"
+      ],
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "ae26e35700b1cce32a2ba757572ec60cc7d5b19dca47031a35a5caa42641feb3"
     },
     {
       "videoId": "pIAO9bdqwOE",
@@ -6346,10 +6403,11 @@
       "momentCount": 3,
       "issues": [
         "east-maui-ditch-system-ownership-and-county-takeover-bid",
-        "extending-property-tax-relief-for-wildfire-hit-properties"
+        "extending-property-tax-relief-for-wildfire-hit-properties",
+        "funding-a-feasibility-study-for-east-maui-water-authority"
       ],
-      "updatedAt": "2026-11-06T03:28:57.377Z",
-      "sha256": "46f474f3040f2ddb04518d21844caa346be142e477564372c2a7679251ed86a6"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "d0cf661413eec7e5fad5e3ff5c461f183c4b776b0dded324521053d101d9d3a2"
     },
     {
       "videoId": "tN6J49Yjn0s",
@@ -6406,10 +6464,11 @@
       "momentCount": 3,
       "issues": [
         "temporary-and-permanent-lahaina-wildfire-debris-disposal-sit",
-        "kihei-former-institute-property-housing-redevelopment"
+        "kihei-former-institute-property-housing-redevelopment",
+        "county-pension-costs-and-the-state-retirement-shortfall"
       ],
-      "updatedAt": "2026-11-06T03:30:13.932Z",
-      "sha256": "4484e0907f1fe85ab0caffaa8f1a3f104584203afb8bbfea1590d5984f0fffe5"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "a1065856f48ecedf9aaac9bdc161309e48d8037292039093421f8bc450547d18"
     },
     {
       "videoId": "Qk0CE0sVrAw",
@@ -6460,10 +6519,11 @@
       "voteCount": 0,
       "momentCount": 5,
       "issues": [
-        "new-west-maui-wells-timeline"
+        "new-west-maui-wells-timeline",
+        "kihei-water-main-break-damage-settlements"
       ],
-      "updatedAt": "2026-11-06T03:28:57.377Z",
-      "sha256": "0165102eb41359e910ccabc705f9d4ffc84d4ec5afd2300e13aec652fcc234b2"
+      "updatedAt": "2026-11-18T05:05:25.383Z",
+      "sha256": "bfd0e6319342e54e8f55fbe2f6d1259c21e12ae7f95c22f0ff8af951394107da"
     },
     {
       "videoId": "_06Lk0CC6Dc",
