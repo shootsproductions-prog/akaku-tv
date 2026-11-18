@@ -1,0 +1,111 @@
+{
+  "slug": "kihei-water-main-break-damage-settlements",
+  "title": "Kīhei water main break damage settlements",
+  "summary": "The County is settling claims for home damage caused by water main breaks, including one for $13,593.87 over a break at a Kīhei property. A county attorney said three of the claims before the committee involved flooding, and the County pays them itself because it is self-insured. The Water Department said a condition assessment of the whole water system will show where repairs or replacement are needed.",
+  "topics": [
+    "water",
+    "government"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2023-03-21",
+  "lastSeenISO": "2023-03-21",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-17",
+  "timeline": [
+    {
+      "dateISO": "2023-03-21",
+      "text": "Members were told the County is self-insured, so it pays these claims itself.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "hszpCXOEVuY",
+        "ts": "1:46:17",
+        "endTs": "1:46:47",
+        "retrievedISO": "2026-10-23T04:07:05.805Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2023-03-21",
+      "text": "The Water Department said a condition assessment of the whole water system will show where repairs or replacement are needed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "hszpCXOEVuY",
+        "ts": "1:44:13",
+        "endTs": "1:44:49",
+        "retrievedISO": "2026-10-23T04:07:05.805Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2023-03-21",
+      "text": "A council member said the damage was substantial and was not the residents' doing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "hszpCXOEVuY",
+        "ts": "1:40:00",
+        "endTs": "1:40:56",
+        "retrievedISO": "2026-10-23T04:07:05.805Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2023-03-21",
+      "text": "The County is settling claims for damage to homes from water main breaks.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "hszpCXOEVuY",
+        "ts": "1:39:36",
+        "endTs": "1:40:18",
+        "retrievedISO": "2026-10-23T04:07:05.805Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2023-03-21",
+      "text": "A county attorney said three of the claims before the committee involved flooding.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "hszpCXOEVuY",
+        "ts": "1:37:37",
+        "endTs": "1:38:07",
+        "retrievedISO": "2026-10-23T04:07:05.805Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2023-03-21",
+      "text": "One claim, for $13,593.87, involved a water main break at a Kīhei property.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "hszpCXOEVuY",
+        "ts": "1:29:46",
+        "endTs": "1:30:24",
+        "retrievedISO": "2026-10-23T04:07:05.805Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Government Relations, Ethics, and Transparency Committee",
+      "group": "council",
+      "short": [
+        "GREAT"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
