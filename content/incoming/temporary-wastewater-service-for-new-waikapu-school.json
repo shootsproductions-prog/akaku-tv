@@ -1,0 +1,100 @@
+{
+  "slug": "temporary-wastewater-service-for-new-waikapu-school",
+  "title": "Temporary wastewater service for new Waikapū school",
+  "summary": "A committee voted 9–0 on October 19 to recommend passing Bill 116 on first reading. The bill is an agreement for temporary wastewater service to a new Central Maui school, expected to open in 2031. If the county's new wastewater plant is not running by then, the existing Wailuku-Kahului plant would take up to 14,500 gallons a day, which the director called a Plan B.",
+  "topics": [
+    "education",
+    "environment"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-10-19",
+  "lastSeenISO": "2026-10-19",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 3,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-18",
+  "timeline": [
+    {
+      "dateISO": "2026-10-19",
+      "text": "Members voted 9–0 to recommend passing the bill on first reading.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bAmgey8HdV0",
+        "ts": "0:28:13",
+        "endTs": "0:28:43",
+        "retrievedISO": "2026-10-23T00:02:05.685Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "The director called the agreement a Plan B in case the county's new wastewater plant is not running when the school opens.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bAmgey8HdV0",
+        "ts": "0:20:39",
+        "endTs": "0:21:18",
+        "retrievedISO": "2026-10-23T00:02:05.685Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "If the county's new wastewater plant is not running by then, the existing Wailuku-Kahului plant would take up to 14,500 gallons a day.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bAmgey8HdV0",
+        "ts": "0:06:28",
+        "endTs": "0:06:58",
+        "retrievedISO": "2026-10-23T00:02:05.685Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "The school is expected to open in 2031.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bAmgey8HdV0",
+        "ts": "0:06:15",
+        "endTs": "0:06:45",
+        "retrievedISO": "2026-10-23T00:02:05.685Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-10-19",
+      "text": "The committee took up Bill 116, an agreement for temporary wastewater service to a new Central Maui school.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "bAmgey8HdV0",
+        "ts": "0:06:02",
+        "endTs": "0:06:36",
+        "retrievedISO": "2026-10-23T00:02:05.685Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Water and Infrastructure Committee",
+      "group": "council",
+      "short": [
+        "WAI"
+      ]
+    }
+  ],
+  "bills": [
+    "Bill 116 (2026)"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

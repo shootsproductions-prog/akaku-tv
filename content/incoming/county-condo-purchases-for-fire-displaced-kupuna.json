@@ -1,0 +1,96 @@
+{
+  "slug": "county-condo-purchases-for-fire-displaced-kupuna",
+  "title": "County condo purchases for fire-displaced kūpuna",
+  "summary": "An amendment has added the unit's appraisal report to a resolution that authorizes buying a Lahaina condo unit for up to $278,000. A county housing testifier said federal Community Development Block Grant funds would pay for it. The unit would serve a county housing program for kūpuna, which houses 10 people in 8 units, while over half of its 41 waitlisted households are still in FEMA housing.",
+  "topics": [
+    "housing",
+    "disaster-recovery"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-07-07",
+  "lastSeenISO": "2026-07-07",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-18",
+  "timeline": [
+    {
+      "dateISO": "2026-07-07",
+      "text": "An amendment added the unit's appraisal report to the resolution.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "NJzgJmRuAug",
+        "ts": "3:39:07",
+        "endTs": "3:39:37",
+        "retrievedISO": "2026-10-16T20:08:41.455Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-07-07",
+      "text": "A resolution authorizes buying a condo unit in Lahaina for up to $278,000.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "NJzgJmRuAug",
+        "ts": "3:37:44",
+        "endTs": "3:38:14",
+        "retrievedISO": "2026-10-16T20:08:41.455Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-07-07",
+      "text": "A county housing testifier said the unit would be bought with federal Community Development Block Grant (CDBG) funds.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "NJzgJmRuAug",
+        "ts": "0:51:04",
+        "endTs": "0:51:34",
+        "retrievedISO": "2026-10-16T20:08:41.455Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-07-07",
+      "text": "A testifier said over half of the program's 41 waitlisted households are still in FEMA housing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "NJzgJmRuAug",
+        "ts": "0:43:48",
+        "endTs": "0:44:18",
+        "retrievedISO": "2026-10-16T20:08:41.455Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-07-07",
+      "text": "A testifier said a county housing program for kūpuna (elders) now houses 10 people in 8 units.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "NJzgJmRuAug",
+        "ts": "0:43:00",
+        "endTs": "0:43:31",
+        "retrievedISO": "2026-10-16T20:08:41.455Z"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
