@@ -13,16 +13,7 @@
     "meetingsLast30d": 2,
     "meetingsLast90d": 2,
     "mentionsLast30d": 4,
-    "upcomingEvent": {
-      "dateISO": "2027-01-31",
-      "what": "First report due",
-      "source": {
-        "type": "meeting",
-        "videoId": "jfUhZLX4zT8",
-        "ts": "0:41:44",
-        "retrievedISO": "2026-10-22T07:23:23.649Z"
-      }
-    }
+    "upcomingEvent": null
   },
   "asOfISO": "2026-11-17",
   "boards": [

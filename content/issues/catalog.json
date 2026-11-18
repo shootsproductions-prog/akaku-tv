@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T06:26:09.279Z",
+  "updatedAt": "2026-11-18T07:42:09.551Z",
   "count": 265,
   "issues": [
     {
@@ -32009,16 +32009,7 @@
         "meetingsLast30d": 2,
         "meetingsLast90d": 2,
         "mentionsLast30d": 4,
-        "upcomingEvent": {
-          "dateISO": "2027-01-31",
-          "what": "First report due",
-          "source": {
-            "type": "meeting",
-            "videoId": "jfUhZLX4zT8",
-            "ts": "0:41:44",
-            "retrievedISO": "2026-10-22T07:23:23.649Z"
-          }
-        }
+        "upcomingEvent": null
       },
       "asOfISO": "2026-11-17",
       "boards": [
@@ -37651,7 +37642,7 @@
     {
       "slug": "safe-parking-sites-for-people-living-in-cars",
       "title": "Safe parking sites for people living in cars",
-      "summary": "As of Oct. 23, Bill 133 has not been voted on; the meeting video ends at a ten-minute recess. It would let vehicles that are not fully registered join the safe parking pilot and expand the county properties that can be used. An amendment lets the county approve cooking at sites, such as with food trucks.",
+      "summary": "Bill 133 had no vote yet on Oct. 23, when the meeting broke for a ten-minute recess; it is set for second and final reading on Friday. It would let vehicles that are not fully registered join the safe parking pilot, expand the county properties that can be used, and remove some entry requirements. The county plans a temporary site for 50 to 60 people living in vehicles along the road, with 24-hour security and a six-month initial pilot.",
       "topics": [
         "housing",
         "public-safety"
@@ -46738,7 +46729,7 @@
     {
       "slug": "temporary-and-permanent-lahaina-wildfire-debris-disposal-sit",
       "title": "Temporary and permanent Lahaina wildfire debris disposal sites",
-      "summary": "On April 16, 2026, the department said fees paid by the Army Corps covered the cost of hauling fire debris to the landfill, and it will get the exact cost for the council. Hauling to the permanent Central Maui site was set to begin June 16, 2025, with up to 50 trucks making four trips daily. The site's two building phases cost about $5.2 million and $14.4 million.",
+      "summary": "On April 16, 2026, the department said fees paid by the Army Corps covered the cost of hauling fire debris to the landfill, and it will get the exact hauling cost for the council. Permanent hauling in West Maui began in June 2025, at about 50 truck round trips a day. A budget bill moved $8 million for the permanent disposal site to construction to cover higher costs.",
       "topics": [
         "disaster-recovery",
         "environment"
@@ -51534,7 +51525,7 @@
     {
       "slug": "ohana-assistance-program-for-building-family-units",
       "title": "ʻOhana assistance program for building family units",
-      "summary": "As of April 21, 2026, council members were discussing the ʻohana assistance program, whose grants can reach $100,000 per qualified Maui County resident, and whether one property can get more than one grant. The department says 40% of ADUs funded so far have two bedrooms. In December 2024, the council advanced bills to move funds to direct homeowner grants, and in early 2025 a resident asked for fixes to long delays.",
+      "summary": "On April 21, 2026, a council member said they could ask the housing department whether one property can receive more than one grant under the program's rules. Grants may reach $100,000 for each qualified Maui County resident in the ʻohana assistance program. The department said 40% of the ADUs it has funded have two bedrooms.",
       "topics": [
         "housing",
         "disaster-recovery"
@@ -52399,7 +52390,7 @@
     {
       "slug": "coconut-rhinoceros-beetle-detections-on-maui",
       "title": "Coconut rhinoceros beetle detections on Maui",
-      "summary": "On April 1, an invasive species program found a dead coconut rhinoceros beetle in one of its traps. The chair said that if the budget cannot cover an invasive species increase, the program can come back to the administration later. In February 2024 the director recalled about $650,000 for beetle control, and in December 2023 the committee deferred the matter after hearing that an arborist found 17 larvae in Kīhei.",
+      "summary": "On April 16, 2026, an invasive species program reported finding a dead coconut rhinoceros beetle in one of its traps on April 1st. The chair said that if the budget cannot cover an increase for invasive species work, the program can come back to the administration later. In December 2023, the committee deferred the beetle item after hearing that the state would give Maui some funding and was organizing an incident command system.",
       "topics": [
         "environment",
         "food-security"
@@ -53320,7 +53311,7 @@
     {
       "slug": "malama-kula-green-waste-and-fire-fuel-work",
       "title": "Mālama Kula green waste and fire fuel work",
-      "summary": "On April 1, 2026, a director said Mālama Kula, founded after the 2023 Kula fire, has removed nearly 2 million pounds of dead and downed trees. In December 2024, the group's leader asked the County committee for $250,000 a year to run its green waste bins, which had removed over 950 cubic yards, and the item was deferred. The County expected to finalize its own bin contract in January 2025 and might start a program around fiscal year 27.",
+      "summary": "As of April 2026, the director says Mālama Kula, founded after the 2023 Kula fire, has removed nearly 2 million pounds of dead and downed trees. In December 2024, the group's Kula green waste bins had removed over 950 cubic yards, and its leader said $250,000 would fund a year of the program, or $300,000 at aspirational levels. The County planned to finalize its own bin contract in January 2025, gather data, then seek budget support for an in-house program.",
       "topics": [
         "public-safety",
         "environment",
@@ -54614,7 +54605,7 @@
     {
       "slug": "allowing-larger-private-rain-catchment-tanks",
       "title": "Allowing larger private rain catchment tanks",
-      "summary": "Bill 180 would allow private rain catchment tanks of up to 30,000 gallons in agricultural, residential and rural districts, and it passed first reading on December 23. The Department of Water Supply supports it, saying it will help cut peak summer demand and strain on the county supply. The committee had voted 6–0 on December 5 for a revised version adding residential districts.",
+      "summary": "Bill 180 would allow private rain catchment tanks of up to 30,000 gallons in agricultural, residential and rural districts. Earlier, in October 2024, the private water catchment bill, listed as Bill 153, was sent to the Water and Infrastructure Committee. A water tank contractor said rainfall at his home fell from 160 to 80 inches a year.",
       "topics": [
         "water"
       ],
@@ -54638,6 +54629,7 @@
       ],
       "bills": [
         "Bill 153 (2024)",
+        "Bill 153 (2025)",
         "Bill 180 (2025)"
       ],
       "timeline": [
@@ -56979,7 +56971,7 @@
     {
       "slug": "police-department-helicopter",
       "title": "Police department helicopter",
-      "summary": "The police chief said on August 5, 2025 that the police helicopter helped fight fires three times in the past week. In January 2025 the council passed Bill 4 on first reading, adding $450,000 for helicopter operations, after voting 9 to 0 in October 2024 to move $350,000 for a helicopter hoist. The police chief has said an RFP would be used and the helicopter could arrive a year to a year and a half after a contract is awarded.",
+      "summary": "On January 17, 2025, the council passed Bill 4 (2025) on first reading, adding $450,000 for police helicopter operations. The bill concerns the police asset forfeiture program budget. Earlier, on October 25, 2024, the council voted 9 to 0 to move $350,000 in the police budget for a helicopter hoist.",
       "topics": [
         "public-safety"
       ],
@@ -57651,7 +57643,7 @@
     {
       "slug": "upper-kula-water-transmission-line-improvements",
       "title": "Upper Kula water transmission line improvements",
-      "summary": "Bill 166, which adds $350,000 for Department of Water Supply upper Kula water transmission improvements, passed final reading on November 21, seven to zero, with one member excused. The money comes from estimated license and permit revenues for the department. In December 2024, a Mālama Kula leader warned that large tree trunks in a gulch lay within about an eighth of a mile of the transmission line.",
+      "summary": "Bill 166 would add $350,000 for upper Kula water transmission improvements, funded from estimated Department of Water Supply license and permit revenues. A council member noted two diversions were destroyed in 2018 by Hurricane Olivia. Earlier, in December 2024, the Mālama Kula leader said large tree trunks lie in a Kula gulch near the transmission line, and a council member said preventing main line damage costs far less than recovery.",
       "topics": [
         "water"
       ],
