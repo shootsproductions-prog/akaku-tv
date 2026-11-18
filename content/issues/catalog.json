@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T05:16:13.871Z",
+  "updatedAt": "2026-11-18T06:26:09.279Z",
   "count": 265,
   "issues": [
     {
@@ -45600,7 +45600,7 @@
     {
       "slug": "off-street-parking-based-on-bedroom-count",
       "title": "Off-street parking based on bedroom count",
-      "summary": "At the April 17, 2026 meeting, the deputy housing director said ADUs with two or more bedrooms would need two or more parking stalls under Bill 47, which changes off-street parking requirements for housing. The department said 40% of ADUs funded by its ʻohana assistance program have two bedrooms. In July 2025, the council substituted a corrected Bill 47 and sent the parking bill to the Lānaʻi, Maui, and Molokaʻi Planning Commissions.",
+      "summary": "On April 17, the council discussed Bill 47, which changes off-street parking rules for housing; the deputy housing director said ADUs with two or more bedrooms would need two or more stalls, and 40% of ADUs funded by the ʻohana program have two bedrooms. A committee report on April 2 recommended the bill, which bases required parking on bedrooms instead of square footage. In March the committee dropped the wet bar parking rule and added an exception for homes with four or more bedrooms on wide roads.",
       "topics": [
         "housing",
         "land-use"
@@ -45621,6 +45621,13 @@
           "name": "Maui County Council",
           "group": "council",
           "short": []
+        },
+        {
+          "name": "Disaster Recovery, International Affairs, and Planning Committee",
+          "group": "council",
+          "short": [
+            "DRIP"
+          ]
         }
       ],
       "bills": [
@@ -45667,6 +45674,110 @@
             "endTs": "1:09:24"
           },
           "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-03-11",
+          "text": "Motion to strike the accessory dwelling units cell on page four and move the words to page three after single-family dwelling: The committee moved the words accessory dwelling to follow single-family dwelling under housing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "_LenDy4cCL8",
+            "ts": "2:17:53",
+            "retrievedISO": "2026-10-17T06:42:02.060Z",
+            "endTs": "2:18:52"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-03-11",
+          "text": "Motion to amend the CD1 by striking the cell for dwelling units with a wet bar: The committee removed the extra parking requirement for homes with a wet bar.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "_LenDy4cCL8",
+            "ts": "2:17:22",
+            "retrievedISO": "2026-10-17T06:42:02.060Z",
+            "endTs": "2:18:03"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-03-11",
+          "text": "The committee voted 8 to 0, with one excused, to use a revised version of the bill.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "_LenDy4cCL8",
+            "ts": "2:16:57",
+            "retrievedISO": "2026-10-17T06:42:02.060Z",
+            "endTs": "2:17:27"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-03-11",
+          "text": "The revised version adds a parking exception for homes with four or more bedrooms on roads wide enough for two lanes and parking on both sides.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "_LenDy4cCL8",
+            "ts": "2:11:21",
+            "retrievedISO": "2026-10-17T06:42:02.060Z",
+            "endTs": "2:11:51"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-03-11",
+          "text": "The chair said changes to garage setbacks should be a separate bill so people know what is changing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "_LenDy4cCL8",
+            "ts": "1:56:04",
+            "retrievedISO": "2026-10-17T06:42:02.060Z",
+            "endTs": "1:56:34"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-03-11",
+          "text": "A testifier said the extra parking rule for wet bars was not needed.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "_LenDy4cCL8",
+            "ts": "1:28:22",
+            "retrievedISO": "2026-10-17T06:42:02.060Z",
+            "endTs": "1:28:52"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-03-11",
+          "text": "The fire department said it needs a road 20 feet wide so it can operate.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "_LenDy4cCL8",
+            "ts": "1:19:14",
+            "retrievedISO": "2026-10-17T06:42:02.060Z",
+            "endTs": "1:19:44"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-03-11",
+          "text": "Bill 47 would set required off-street parking for homes by number of bedrooms instead of square footage.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "_LenDy4cCL8",
+            "ts": "1:04:49",
+            "retrievedISO": "2026-10-17T06:42:02.060Z",
+            "endTs": "1:05:19"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
         },
         {
           "dateISO": "2025-07-25",
@@ -52288,14 +52399,14 @@
     {
       "slug": "coconut-rhinoceros-beetle-detections-on-maui",
       "title": "Coconut rhinoceros beetle detections on Maui",
-      "summary": "The chair said that if the budget cannot cover an increase for invasive species work, the program can return to the administration later. The program reported finding a dead coconut rhinoceros beetle in one of its traps on April 1.",
+      "summary": "On April 1, an invasive species program found a dead coconut rhinoceros beetle in one of its traps. The chair said that if the budget cannot cover an invasive species increase, the program can come back to the administration later. In February 2024 the director recalled about $650,000 for beetle control, and in December 2023 the committee deferred the matter after hearing that an arborist found 17 larvae in Kīhei.",
       "topics": [
         "environment",
         "food-security"
       ],
       "status": "quiet",
       "pinned": false,
-      "firstSeenISO": "2026-04-16",
+      "firstSeenISO": "2023-12-14",
       "lastSeenISO": "2026-04-16",
       "signals": {
         "meetingsLast30d": 0,
@@ -52309,6 +52420,13 @@
           "name": "Maui County Council",
           "group": "council",
           "short": []
+        },
+        {
+          "name": "Agriculture, Diversification, Environment, and Public Transportation Committee",
+          "group": "council",
+          "short": [
+            "ADEPT"
+          ]
         }
       ],
       "bills": [],
@@ -52338,6 +52456,214 @@
             "endTs": "1:25:11"
           },
           "body": "County Council Public Hearing"
+        },
+        {
+          "dateISO": "2023-12-14",
+          "text": "Defer the coconut rhinoceros beetle item: The committee deferred the beetle item with no objections.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yu60ouC9n3Q",
+            "ts": "1:39:21",
+            "retrievedISO": "2026-10-22T16:07:18.937Z",
+            "endTs": "1:41:03"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2023-12-14",
+          "text": "The Office of the Mayor said it is helping the Maui Department of Agriculture look for grants.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yu60ouC9n3Q",
+            "ts": "1:32:59",
+            "retrievedISO": "2026-10-22T16:07:18.937Z",
+            "endTs": "1:33:29"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2023-12-14",
+          "text": "The chair asked staff to send the administration a written question about its beetle plan and share the answer with members.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yu60ouC9n3Q",
+            "ts": "1:24:02",
+            "retrievedISO": "2026-10-22T16:07:18.937Z",
+            "endTs": "1:24:32"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2023-12-14",
+          "text": "A state agriculture official said the state is working on giving the counties funding for green waste management.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yu60ouC9n3Q",
+            "ts": "1:20:04",
+            "retrievedISO": "2026-10-22T16:07:18.937Z",
+            "endTs": "1:20:34"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2023-12-14",
+          "text": "A state agriculture official said the state will allocate some funding to Maui for treatment, training and support.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yu60ouC9n3Q",
+            "ts": "1:19:56",
+            "retrievedISO": "2026-10-22T16:07:18.937Z",
+            "endTs": "1:20:26"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2023-12-14",
+          "text": "Close oral testimony on the coconut rhinoceros beetle item: The committee closed public testimony on the beetle item with no objections.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yu60ouC9n3Q",
+            "ts": "1:15:48",
+            "retrievedISO": "2026-10-22T16:07:18.937Z",
+            "endTs": "1:16:18"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2023-12-14",
+          "text": "A county recycling official said composting at Central Maui Landfill could restart in about six months, not a year.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yu60ouC9n3Q",
+            "ts": "1:01:20",
+            "retrievedISO": "2026-10-22T16:07:18.937Z",
+            "endTs": "1:01:55"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2023-12-14",
+          "text": "A county environmental management official said restarting county composting could supply local compost and reduce the need for off-island product.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yu60ouC9n3Q",
+            "ts": "0:52:22",
+            "retrievedISO": "2026-10-22T16:07:18.937Z",
+            "endTs": "0:52:52"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2023-12-14",
+          "text": "A state agriculture official said the state is putting together an incident command system to organize the response.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yu60ouC9n3Q",
+            "ts": "0:45:27",
+            "retrievedISO": "2026-10-22T16:07:18.937Z",
+            "endTs": "0:45:57"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2023-12-14",
+          "text": "Designate presenters as resource personnel under Council Rule 18A: The committee named invasive species experts as resource personnel (outside experts who can answer questions) with no objections.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yu60ouC9n3Q",
+            "ts": "0:17:21",
+            "retrievedISO": "2026-10-22T16:07:18.937Z",
+            "endTs": "0:18:19"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2023-12-14",
+          "text": "The chair said imports of mulch, compost and plants are likely to rise as residents rebuild and replant.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yu60ouC9n3Q",
+            "ts": "0:16:47",
+            "retrievedISO": "2026-10-22T16:07:18.937Z",
+            "endTs": "0:17:17"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2023-12-14",
+          "text": "The chair said compost and mulch are needed for fire recovery, but beetles nest and breed in green waste.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yu60ouC9n3Q",
+            "ts": "0:16:39",
+            "retrievedISO": "2026-10-22T16:07:18.937Z",
+            "endTs": "0:17:09"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2023-12-14",
+          "text": "The chair said the beetle creates an added barrier to restoring land damaged in the August fires.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yu60ouC9n3Q",
+            "ts": "0:16:26",
+            "retrievedISO": "2026-10-22T16:07:18.937Z",
+            "endTs": "0:16:56"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2023-12-14",
+          "text": "The chair said an arborist found 17 beetle larvae last month while cutting coconut palms in Kīhei.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yu60ouC9n3Q",
+            "ts": "0:16:20",
+            "retrievedISO": "2026-10-22T16:07:18.937Z",
+            "endTs": "0:16:50"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2023-12-14",
+          "text": "One testifier said she does not think the Maui Invasive Species Committee should lead the beetle response.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yu60ouC9n3Q",
+            "ts": "0:07:04",
+            "retrievedISO": "2026-10-22T16:07:18.937Z",
+            "endTs": "0:07:34"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2023-12-14",
+          "text": "The first item, about coconut rhinoceros beetles, was for information only, with no vote.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yu60ouC9n3Q",
+            "ts": "0:03:05",
+            "retrievedISO": "2026-10-22T16:07:18.937Z",
+            "endTs": "0:03:35"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
         }
       ],
       "sourceTypes": [
