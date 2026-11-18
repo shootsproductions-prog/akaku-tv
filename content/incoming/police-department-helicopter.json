@@ -1,0 +1,58 @@
+{
+  "slug": "police-department-helicopter",
+  "title": "Police department helicopter",
+  "summary": "On January 17, 2025, the council passed Bill 4 (2025) on first reading, adding $450,000 for police helicopter operations. The bill concerns the police asset forfeiture program budget. Earlier, on October 25, 2024, the council voted 9 to 0 to move $350,000 in the police budget for a helicopter hoist.",
+  "topics": [
+    "public-safety"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2024-10-25",
+  "lastSeenISO": "2025-01-17",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-17",
+  "timeline": [
+    {
+      "dateISO": "2025-01-17",
+      "text": "Bill 4 (2025): police asset forfeiture program budget increase: The council passed Bill 4 on first reading, adding $450,000 for police helicopter operations.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ELlALdAo-Xc",
+        "ts": "3:25:32",
+        "endTs": "3:26:23",
+        "retrievedISO": "2026-10-22T03:48:56.054Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2024-10-25",
+      "text": "The council voted 9 to 0 to move $350,000 in the police budget for a helicopter hoist.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PanLlKqrVO8",
+        "ts": "2:58:09",
+        "endTs": "2:58:55",
+        "retrievedISO": "2026-10-21T21:48:16.506Z"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [
+    "Bill 4 (2025)"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
