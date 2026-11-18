@@ -8,7 +8,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-04-17",
+  "firstSeenISO": "2025-03-21",
   "lastSeenISO": "2026-10-19",
   "signals": {
     "meetingsLast30d": 1,
@@ -39,6 +39,7 @@
     }
   ],
   "bills": [
+    "Bill 30 (2025)",
     "Bill 30 (2026)"
   ],
   "timeline": [
@@ -221,6 +222,19 @@
         "ts": "3:07:20",
         "retrievedISO": "2026-10-17T02:49:45.529Z",
         "endTs": "3:08:03"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-03-21",
+      "text": "Bill 30 passed seven to two on a separate roll call vote.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1b1Dym9ghNQ",
+        "ts": "1:24:30",
+        "retrievedISO": "2026-10-19T18:10:53.980Z",
+        "endTs": "1:25:39"
       },
       "body": "County Council Meeting"
     }

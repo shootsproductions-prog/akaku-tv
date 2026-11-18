@@ -1,14 +1,14 @@
 {
   "slug": "ohana-assistance-program-for-building-family-units",
   "title": "ʻOhana assistance program for building family units",
-  "summary": "A council member said on April 21 they could ask the housing department whether one property can receive more than one grant under the rules. Grants in the ʻohana assistance program may reach $100,000 for each qualified Maui County resident. The department said on April 17 that 40% of the ADUs the program has funded have two bedrooms.",
+  "summary": "As of April 21, 2026, council members were discussing the ʻohana assistance program, whose grants can reach $100,000 per qualified Maui County resident, and whether one property can get more than one grant. The department says 40% of ADUs funded so far have two bedrooms. In December 2024, the council advanced bills to move funds to direct homeowner grants, and in early 2025 a resident asked for fixes to long delays.",
   "topics": [
     "housing",
     "disaster-recovery"
   ],
   "status": "quiet",
   "pinned": false,
-  "firstSeenISO": "2026-04-17",
+  "firstSeenISO": "2025-01-17",
   "lastSeenISO": "2026-04-21",
   "signals": {
     "meetingsLast30d": 0,
@@ -69,6 +69,19 @@
         "ts": "1:09:24",
         "retrievedISO": "2026-10-17T02:49:45.529Z",
         "endTs": "1:09:54"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-01-17",
+      "text": "A resident housing Lahaina fire survivors asked the council to fix long delays in the ʻOhana Assistance Program.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ELlALdAo-Xc",
+        "ts": "0:14:16",
+        "retrievedISO": "2026-10-22T03:48:56.054Z",
+        "endTs": "0:15:39"
       },
       "body": "County Council Meeting"
     }

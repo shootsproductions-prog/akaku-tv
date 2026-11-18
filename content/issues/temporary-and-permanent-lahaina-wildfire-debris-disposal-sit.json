@@ -1,7 +1,7 @@
 {
   "slug": "temporary-and-permanent-lahaina-wildfire-debris-disposal-sit",
   "title": "Temporary and permanent Lahaina wildfire debris disposal sites",
-  "summary": "On April 16, 2026, a council member asked whether moving fire debris to the new landfill stayed within budget. The department said fees paid by the Army Corps covered the hauling cost and promised the exact figure. Permanent hauling in West Maui was set to start in June 2025, with about 50 truck round trips a day, after the county sought $4 million in December 2024 to buy two parcels for the permanent site.",
+  "summary": "On April 16, 2026, the department said fees paid by the Army Corps covered the cost of hauling fire debris to the landfill, and it will get the exact cost for the council. Hauling to the permanent Central Maui site was set to begin June 16, 2025, with up to 50 trucks making four trips daily. The site's two building phases cost about $5.2 million and $14.4 million.",
   "topics": [
     "disaster-recovery",
     "environment"
@@ -24,6 +24,11 @@
       "short": [
         "BFED"
       ]
+    },
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
     }
   ],
   "bills": [
@@ -94,6 +99,19 @@
         "endTs": "0:17:48"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-03-21",
+      "text": "A budget bill moves $8 million for the wildfire permanent disposal site from operations to construction to cover higher costs.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1b1Dym9ghNQ",
+        "ts": "0:48:46",
+        "retrievedISO": "2026-10-19T18:10:53.980Z",
+        "endTs": "0:49:20"
+      },
+      "body": "County Council Meeting"
     },
     {
       "dateISO": "2024-12-03",

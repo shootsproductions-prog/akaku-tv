@@ -9,7 +9,7 @@
   "status": "quiet",
   "pinned": false,
   "firstSeenISO": "2024-07-19",
-  "lastSeenISO": "2024-07-19",
+  "lastSeenISO": "2025-03-21",
   "signals": {
     "meetingsLast30d": 0,
     "meetingsLast90d": 0,
@@ -35,10 +35,130 @@
   ],
   "bills": [
     "Bill 87 (2024)",
+    "Bill 87 (2025)",
     "Bill 105 (2024)",
-    "Bill 110 (2024)"
+    "Bill 105 (2025)",
+    "Bill 110 (2024)",
+    "Bill 110 (2025)"
   ],
   "timeline": [
+    {
+      "dateISO": "2025-03-21",
+      "text": "Bill 105 passed final reading nine to zero.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1b1Dym9ghNQ",
+        "ts": "1:39:55",
+        "retrievedISO": "2026-10-19T18:10:53.980Z",
+        "endTs": "1:40:26"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-03-21",
+      "text": "The vice chair withdrew the proposed change after the discussion.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1b1Dym9ghNQ",
+        "ts": "1:39:19",
+        "retrievedISO": "2026-10-19T18:10:53.980Z",
+        "endTs": "1:39:49"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-03-21",
+      "text": "The attorney said vacation rentals will not get the extra time, except owner-occupied units.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1b1Dym9ghNQ",
+        "ts": "1:32:31",
+        "retrievedISO": "2026-10-19T18:10:53.980Z",
+        "endTs": "1:33:02"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-03-21",
+      "text": "An attorney said that under current law, a nonconforming use is lost after 12 straight months without it.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1b1Dym9ghNQ",
+        "ts": "1:32:14",
+        "retrievedISO": "2026-10-19T18:10:53.980Z",
+        "endTs": "1:32:44"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-03-21",
+      "text": "A county attorney said the change would likely not be a taking but was unsure why that date was chosen.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1b1Dym9ghNQ",
+        "ts": "1:30:50",
+        "retrievedISO": "2026-10-19T18:10:53.980Z",
+        "endTs": "1:31:20"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-03-21",
+      "text": "A member said hundreds of people lack places to live and the eviction moratorium has been lifted.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1b1Dym9ghNQ",
+        "ts": "1:26:57",
+        "retrievedISO": "2026-10-19T18:10:53.980Z",
+        "endTs": "1:27:27"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-03-21",
+      "text": "A member said the need is for housing for residents, not vacation rentals.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1b1Dym9ghNQ",
+        "ts": "1:26:48",
+        "retrievedISO": "2026-10-19T18:10:53.980Z",
+        "endTs": "1:27:18"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-03-21",
+      "text": "The vice chair proposed changing Bill 105 to protect uses the county had confirmed in writing as nonconforming before a date in 2015.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1b1Dym9ghNQ",
+        "ts": "1:25:35",
+        "retrievedISO": "2026-10-19T18:10:53.980Z",
+        "endTs": "1:26:14"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-03-21",
+      "text": "A sponsor said the bill will let people with permits waiting at the Planning Department move forward and help the community rebuild.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1b1Dym9ghNQ",
+        "ts": "1:05:12",
+        "retrievedISO": "2026-10-19T18:10:53.980Z",
+        "endTs": "1:05:50"
+      },
+      "body": "County Council Meeting"
+    },
     {
       "dateISO": "2024-07-19",
       "text": "Referral of Bill 105 (nonconformities): The council sent Bill 105 to the Housing and Land Use Committee.",
