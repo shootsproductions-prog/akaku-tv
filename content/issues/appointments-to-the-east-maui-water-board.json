@@ -14,9 +14,18 @@
     "meetingsLast30d": 0,
     "meetingsLast90d": 0,
     "mentionsLast30d": 0,
-    "upcomingEvent": null
+    "upcomingEvent": {
+      "dateISO": "2028-03-31",
+      "what": "Board seat's term expires",
+      "source": {
+        "type": "meeting",
+        "videoId": "5x0U8s_y9sI",
+        "ts": "0:07:51",
+        "retrievedISO": "2026-10-18T00:21:09.201Z"
+      }
+    }
   },
-  "asOfISO": "2026-11-17",
+  "asOfISO": "2026-11-18",
   "boards": [
     {
       "name": "Water Authority, Social Services, and Parks Committee",

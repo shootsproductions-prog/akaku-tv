@@ -14,18 +14,9 @@
     "meetingsLast30d": 0,
     "meetingsLast90d": 12,
     "mentionsLast30d": 0,
-    "upcomingEvent": {
-      "dateISO": "2026-11-18",
-      "what": "Plan discussion will continue",
-      "source": {
-        "type": "meeting",
-        "videoId": "fp9VVcEIuJo",
-        "ts": "3:32:26",
-        "retrievedISO": "2026-10-16T20:23:40.314Z"
-      }
-    }
+    "upcomingEvent": null
   },
-  "asOfISO": "2026-11-17",
+  "asOfISO": "2026-11-18",
   "boards": [
     {
       "name": "Disaster Recovery, International Affairs, and Planning Committee",
