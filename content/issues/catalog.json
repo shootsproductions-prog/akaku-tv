@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T16:55:56.779Z",
+  "updatedAt": "2026-11-19T20:55:07.822Z",
   "count": 265,
   "issues": [
     {
@@ -21761,7 +21761,7 @@
     {
       "slug": "paia-40-acre-housing-project-rezoning",
       "title": "Pāʻia 40-acre housing project rezoning",
-      "summary": "At the November 18 council meeting, members and the project team discussed why the project's water-use numbers differ from the county water department's, whose letter assumes all homes have three bedrooms and two bathrooms; a consultant said that is not likely and that added single-family units raised expected drinking-water use. The Planning Commission had recommended approval in September of the change for 40.392 acres, with about 170 homes, including at least 34 workforce rentals kept affordable forever. The planning director said approving it as the commission recommended would need five votes.",
+      "summary": "On Nov. 18, council members added conditions to the EC Pāʻia Town project: no bed and breakfast or timeshare use, permanent owner-occupancy for gap-group homes, and vegetation management for fire. Members also questioned why the project's water-use numbers differ from the county water department's. The Planning Commission recommended approval in September for the 40.392-acre rezoning, which covers about 170 homes, including at least 34 permanently affordable workforce rentals.",
       "topics": [
         "housing",
         "land-use",
@@ -21772,9 +21772,9 @@
       "firstSeenISO": "2026-05-20",
       "lastSeenISO": "2026-11-18",
       "signals": {
-        "meetingsLast30d": 1,
-        "meetingsLast90d": 2,
-        "mentionsLast30d": 3,
+        "meetingsLast30d": 2,
+        "meetingsLast90d": 3,
+        "mentionsLast30d": 6,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-19",
@@ -21899,6 +21899,45 @@
         },
         {
           "dateISO": "2026-11-18",
+          "text": "That member said online posts wrongly suggested the project would bring stores like Target.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "la_jCNMB42Y",
+            "ts": "0:29:13",
+            "retrievedISO": "2026-11-19T20:27:15.095Z",
+            "endTs": "0:29:57"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-11-18",
+          "text": "A member said Pāʻia has not had any affordable housing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "la_jCNMB42Y",
+            "ts": "0:29:00",
+            "retrievedISO": "2026-11-19T20:27:15.095Z",
+            "endTs": "0:29:30"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-11-18",
+          "text": "A member said buying in Pāʻia can mean a $1.6 million fixer-upper.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "la_jCNMB42Y",
+            "ts": "0:28:54",
+            "retrievedISO": "2026-11-19T20:27:15.095Z",
+            "endTs": "0:29:24"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-11-18",
           "text": "A speaker for the attorneys said it would be safer to wait for the state's district boundary amendment.",
           "basis": "said-at-meeting",
           "source": {
@@ -22003,6 +22042,32 @@
         },
         {
           "dateISO": "2026-11-18",
+          "text": "Staff confirmed this means the day the Land Use Commission votes to approve that change.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "la_jCNMB42Y",
+            "ts": "0:09:40",
+            "retrievedISO": "2026-11-19T20:27:15.095Z",
+            "endTs": "0:10:10"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-11-18",
+          "text": "The chair raised a final condition about the project's 34 affordable rental units.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "la_jCNMB42Y",
+            "ts": "0:05:51",
+            "retrievedISO": "2026-11-19T20:27:15.095Z",
+            "endTs": "0:06:21"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-11-18",
           "text": "The developer said the planned parking lot will come at the end of the entitlement (approval) period.",
           "basis": "said-at-meeting",
           "source": {
@@ -22011,6 +22076,19 @@
             "ts": "0:05:49",
             "retrievedISO": "2026-11-19T16:55:02.188Z",
             "endTs": "0:06:24"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-11-18",
+          "text": "A new condition says the owner will manage vegetation on the parcels being rezoned, because of fire concerns.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "la_jCNMB42Y",
+            "ts": "0:03:22",
+            "retrievedISO": "2026-11-19T20:27:15.095Z",
+            "endTs": "0:04:32"
           },
           "body": "County Council Housing and Land Use Committee"
         },
@@ -22029,6 +22107,32 @@
         },
         {
           "dateISO": "2026-11-18",
+          "text": "Staff will send a letter to confirm the housing director will take on the role given in the owner-occupancy condition.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "la_jCNMB42Y",
+            "ts": "0:02:25",
+            "retrievedISO": "2026-11-19T20:27:15.095Z",
+            "endTs": "0:02:59"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-11-18",
+          "text": "A new condition says GAP group housing units must stay owner-occupied forever, with exceptions such as a job or military transfer or serious illness.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "la_jCNMB42Y",
+            "ts": "0:02:00",
+            "retrievedISO": "2026-11-19T20:27:15.095Z",
+            "endTs": "0:02:32"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-11-18",
           "text": "The developer said its gap housing will be for sale, so people can buy multi-family or single-family homes.",
           "basis": "said-at-meeting",
           "source": {
@@ -22037,6 +22141,19 @@
             "ts": "0:00:47",
             "retrievedISO": "2026-11-19T16:55:02.188Z",
             "endTs": "0:01:17"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-11-18",
+          "text": "A new condition says homes in the project may not be used as bed and breakfast homes or timeshare units.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "la_jCNMB42Y",
+            "ts": "0:00:12",
+            "retrievedISO": "2026-11-19T20:27:15.095Z",
+            "endTs": "0:00:42"
           },
           "body": "County Council Housing and Land Use Committee"
         },
