@@ -13,7 +13,16 @@
     "meetingsLast30d": 2,
     "meetingsLast90d": 2,
     "mentionsLast30d": 4,
-    "upcomingEvent": null
+    "upcomingEvent": {
+      "dateISO": "2027-01-04",
+      "what": "Ordinance takes effect",
+      "source": {
+        "type": "meeting",
+        "videoId": "_CQv4ET9pR4",
+        "ts": "1:50:28",
+        "retrievedISO": "2026-11-18T03:21:46.823Z"
+      }
+    }
   },
   "asOfISO": "2026-11-18",
   "boards": [

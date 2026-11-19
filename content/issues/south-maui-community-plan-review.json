@@ -14,7 +14,16 @@
     "meetingsLast30d": 0,
     "meetingsLast90d": 12,
     "mentionsLast30d": 0,
-    "upcomingEvent": null
+    "upcomingEvent": {
+      "dateISO": "2026-12-02",
+      "what": "Draft must be ready to send to the next council",
+      "source": {
+        "type": "meeting",
+        "videoId": "fp9VVcEIuJo",
+        "ts": "3:32:42",
+        "retrievedISO": "2026-10-16T20:23:40.314Z"
+      }
+    }
   },
   "asOfISO": "2026-11-18",
   "boards": [

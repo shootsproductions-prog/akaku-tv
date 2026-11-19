@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T20:48:10.977Z",
+  "updatedAt": "2026-11-19T07:36:10.533Z",
   "count": 265,
   "issues": [
     {
@@ -2369,7 +2369,16 @@
         "meetingsLast30d": 0,
         "meetingsLast90d": 12,
         "mentionsLast30d": 0,
-        "upcomingEvent": null
+        "upcomingEvent": {
+          "dateISO": "2026-12-02",
+          "what": "Draft must be ready to send to the next council",
+          "source": {
+            "type": "meeting",
+            "videoId": "fp9VVcEIuJo",
+            "ts": "3:32:42",
+            "retrievedISO": "2026-10-16T20:23:40.314Z"
+          }
+        }
       },
       "asOfISO": "2026-11-18",
       "boards": [
@@ -32000,7 +32009,16 @@
         "meetingsLast30d": 2,
         "meetingsLast90d": 2,
         "mentionsLast30d": 4,
-        "upcomingEvent": null
+        "upcomingEvent": {
+          "dateISO": "2027-01-04",
+          "what": "Ordinance takes effect",
+          "source": {
+            "type": "meeting",
+            "videoId": "_CQv4ET9pR4",
+            "ts": "1:50:28",
+            "retrievedISO": "2026-11-18T03:21:46.823Z"
+          }
+        }
       },
       "asOfISO": "2026-11-18",
       "boards": [
@@ -35560,7 +35578,16 @@
         "meetingsLast30d": 0,
         "meetingsLast90d": 1,
         "mentionsLast30d": 0,
-        "upcomingEvent": null
+        "upcomingEvent": {
+          "dateISO": "2030-12-31",
+          "what": "A bill would pause new private swimming pools in the West Maui Community Plan Area until December 31, 2030.",
+          "source": {
+            "type": "meeting",
+            "videoId": "3S90aI2m3-k",
+            "ts": "0:08:56",
+            "retrievedISO": "2026-10-19T11:21:58.937Z"
+          }
+        }
       },
       "asOfISO": "2026-11-18",
       "boards": [
@@ -41121,7 +41148,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": {
           "dateISO": "2029-09-07",
-          "what": "Waikapū housing project completion (September 7, 2029)",
+          "what": "The project now has until September 7, 2029 to be finished.",
           "source": {
             "type": "meeting",
             "videoId": "mHF14MCnPW0",
