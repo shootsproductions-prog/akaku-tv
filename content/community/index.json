@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T09:44:36.934Z",
+  "generatedAt": "2026-11-19T17:16:13.627Z",
   "areas": [
     {
       "id": "west-maui",
@@ -494,38 +494,6 @@
         "state-fire-code-adoption-with-brush-clearing-fines"
       ],
       "moments": 6
-    },
-    {
-      "videoId": "eiqG5W7BGpY",
-      "slug": "2024-02-24-molokai-history-project-mid-nite-inn-talk-story-with-john",
-      "accent": "#0f6cbd",
-      "thumbnail": "https://i.ytimg.com/vi/eiqG5W7BGpY/hqdefault.jpg",
-      "status": "reviewed",
-      "format": "meeting",
-      "title": "Molokai History Project - Mid Nite Inn: Talk Story with John & Philip Kikukawa",
-      "dateISO": "2024-02-24",
-      "headline": "Molokaʻi talk story recalls the Midnight Inn and plantation-era island life",
-      "in60": "The Molokaʻi History Project hosted a recorded talk story with two brothers whose family ran the Midnight Inn restaurant in Kaunakakai. They shared memories of growing up in the restaurant, their grandmother's start with a saimin stand, their father's service in the 442nd, and plantation-era jobs and businesses. About seven people spoke, including audience members who worked at the inn or grew up nearby. Speakers raised concerns about newcomers who do not connect with the community, youth fights between parts of the island, development pressure and whether ferry service will return. No decisions were made, and participants said they would like to hold more sessions like this.",
-      "minutes": 115,
-      "parts": 9,
-      "speakers": 10,
-      "participation": {
-        "residents": 7,
-        "organizations": 0,
-        "officials": 0,
-        "committee_members": 0
-      },
-      "votes": 0,
-      "roomReadings": 0,
-      "openQuestions": 1,
-      "answered": 0,
-      "areas": [
-        "molokai"
-      ],
-      "issues": [
-        "proposed-maui-county-passenger-ferry-to-molokai-and-lanai"
-      ],
-      "moments": 0
     },
     {
       "videoId": "_VbAKrfK5-s",
@@ -1369,7 +1337,7 @@
   ],
   "askedAgain": [
     {
-      "label": "Sewer service for Wahikuli homes",
+      "label": "Wahikuli sewer service for rebuilding homes",
       "meetings": [
         "2023-11-15-disaster-recovery-community-update-2-at-lahaina-civic-center",
         "2023-12-06-lahaina-disaster-recovery-update",
@@ -1394,18 +1362,7 @@
       "to": "2024-02-21"
     },
     {
-      "label": "When Lahaina owners can rebuild and get permits",
-      "meetings": [
-        "2023-12-18-debris-disposal-at-lahaina-civic-center",
-        "2024-01-24-lahaina-disaster-recovery-update",
-        "2024-02-21-lahaina-disaster-recovery-update",
-        "2024-03-13-lahaina-disaster-recovery-update"
-      ],
-      "from": "2023-12-18",
-      "to": "2024-03-13"
-    },
-    {
-      "label": "Testing and cleanup help for neighbors of burned Kula lots",
+      "label": "Help and testing for Kula properties next to burned lots",
       "meetings": [
         "2023-11-16-kula-disaster-recovery-update",
         "2023-12-05-kula-disaster-recovery-update",
@@ -1416,7 +1373,7 @@
       "to": "2023-12-19"
     },
     {
-      "label": "Blood and exposure testing for Kula residents",
+      "label": "Blood, urine and lead testing for exposed Kula residents",
       "meetings": [
         "2023-11-16-kula-disaster-recovery-update",
         "2023-12-05-kula-disaster-recovery-update",
@@ -1427,7 +1384,7 @@
       "to": "2023-12-19"
     },
     {
-      "label": "Backup generators for Upcountry water pumps",
+      "label": "Backup generators for Upcountry water pumps during outages",
       "meetings": [
         "2023-11-16-kula-disaster-recovery-update",
         "2024-02-29-upcountry-community-on-hazard-mitigation-and-recovery",
@@ -1437,17 +1394,27 @@
       "to": "2024-07-23"
     },
     {
-      "label": "Community mental health after disasters",
+      "label": "When Lahaina owners can rebuild after debris removal",
       "meetings": [
+        "2023-12-18-debris-disposal-at-lahaina-civic-center",
         "2024-02-21-lahaina-disaster-recovery-update",
-        "2024-02-29-upcountry-community-on-hazard-mitigation-and-recovery",
-        "2024-03-06-lahaina-disaster-recovery-update"
+        "2024-03-13-lahaina-disaster-recovery-update"
       ],
-      "from": "2024-02-21",
-      "to": "2024-03-06"
+      "from": "2023-12-18",
+      "to": "2024-03-13"
     },
     {
-      "label": "Insurance additional living expense coverage for fire survivors",
+      "label": "Homeowner insurance debris removal money and government cleanup",
+      "meetings": [
+        "2023-11-15-disaster-recovery-community-update-2-at-lahaina-civic-center",
+        "2023-12-18-debris-disposal-at-lahaina-civic-center",
+        "2024-01-31-kula-disaster-recovery-update"
+      ],
+      "from": "2023-11-15",
+      "to": "2024-01-31"
+    },
+    {
+      "label": "Extension of insurance additional living expenses for fire survivors",
       "meetings": [
         "2023-12-12-kula-disaster-recovery-update",
         "2023-12-19-kula-disaster-recovery-update",
@@ -1457,17 +1424,7 @@
       "to": "2024-01-23"
     },
     {
-      "label": "Extending the South Maui plan review deadline",
-      "meetings": [
-        "2023-09-20-cpac",
-        "2023-10-16-we-are-south-maui-cpac",
-        "2023-10-23-we-are-south-maui-cpac"
-      ],
-      "from": "2023-09-20",
-      "to": "2023-10-23"
-    },
-    {
-      "label": "Water conservation in South Maui",
+      "label": "South Maui water conservation requirements",
       "meetings": [
         "2023-01-25-we-are-south-maui-community-plan-advisory-committee",
         "2023-04-26-we-are-south-maui-community-plan-advisory-committee",
@@ -1477,7 +1434,17 @@
       "to": "2023-10-23"
     },
     {
-      "label": "Virtual or live-streamed South Maui committee meetings",
+      "label": "Extending the South Maui CPAC review deadline",
+      "meetings": [
+        "2023-09-20-cpac",
+        "2023-10-16-we-are-south-maui-cpac",
+        "2023-10-23-we-are-south-maui-cpac"
+      ],
+      "from": "2023-09-20",
+      "to": "2023-10-23"
+    },
+    {
+      "label": "Virtual or hybrid access to South Maui CPAC meetings",
       "meetings": [
         "2023-01-25-we-are-south-maui-community-plan-advisory-committee",
         "2023-03-08-we-are-south-maui-community-plan-advisory-committee",
@@ -1497,7 +1464,7 @@
       "to": "2023-03-08"
     },
     {
-      "label": "Fencing feral ungulates and restoring riparian areas",
+      "label": "Ungulate fencing and riparian restoration mauka",
       "meetings": [
         "2023-01-25-we-are-south-maui-community-plan-advisory-committee",
         "2023-02-22-we-are-south-maui-community-plan-advisory-committee",
@@ -1507,16 +1474,7 @@
       "to": "2023-03-08"
     },
     {
-      "label": "Ferry service for Molokaʻi",
-      "meetings": [
-        "2024-02-24-molokai-history-project-mid-nite-inn-talk-story-with-john",
-        "2024-12-03-dept-of-health-molokai-town-hall"
-      ],
-      "from": "2024-02-24",
-      "to": "2024-12-03"
-    },
-    {
-      "label": "Overgrown vacant or absentee-owned land as fire hazard",
+      "label": "Overgrown absentee-owned land as Upcountry fire hazard",
       "meetings": [
         "2024-02-29-upcountry-community-on-hazard-mitigation-and-recovery",
         "2024-07-23-kula-community-fire-preparedness"
@@ -1525,16 +1483,7 @@
       "to": "2024-07-23"
     },
     {
-      "label": "MEMA leadership and staffing",
-      "meetings": [
-        "2023-12-13-lahaina-disaster-recovery-update",
-        "2024-07-23-kula-community-fire-preparedness"
-      ],
-      "from": "2023-12-13",
-      "to": "2024-07-23"
-    },
-    {
-      "label": "Lahaina water testing and service clearance delays",
+      "label": "Lahaina water testing and clearance delays",
       "meetings": [
         "2024-03-06-lahaina-disaster-recovery-update",
         "2024-03-13-lahaina-disaster-recovery-update"
@@ -1543,7 +1492,7 @@
       "to": "2024-03-13"
     },
     {
-      "label": "Restoring sewer service to Lahaina burn zone homes",
+      "label": "Restoring sewer service to standing Lahaina homes",
       "meetings": [
         "2023-12-06-lahaina-disaster-recovery-update",
         "2024-03-13-lahaina-disaster-recovery-update"
@@ -1552,7 +1501,16 @@
       "to": "2024-03-13"
     },
     {
-      "label": "Green waste drop-off site for Kula and Upcountry",
+      "label": "Community mental health planning after disasters",
+      "meetings": [
+        "2024-02-29-upcountry-community-on-hazard-mitigation-and-recovery",
+        "2024-03-06-lahaina-disaster-recovery-update"
+      ],
+      "from": "2024-02-29",
+      "to": "2024-03-06"
+    },
+    {
+      "label": "Green waste drop-off site for Upcountry and Kula",
       "meetings": [
         "2024-01-31-kula-disaster-recovery-update",
         "2024-02-29-upcountry-community-on-hazard-mitigation-and-recovery"
@@ -1561,7 +1519,7 @@
       "to": "2024-02-29"
     },
     {
-      "label": "Order and queue of Lahaina debris removal",
+      "label": "Order of debris removal and checking a property's place",
       "meetings": [
         "2023-12-18-debris-disposal-at-lahaina-civic-center",
         "2024-02-21-lahaina-disaster-recovery-update"
@@ -1570,7 +1528,7 @@
       "to": "2024-02-21"
     },
     {
-      "label": "Bioremediation and alternatives for fire ash",
+      "label": "Biochar, pyrolysis or bioremediation for fire ash",
       "meetings": [
         "2023-12-18-debris-disposal-at-lahaina-civic-center",
         "2024-02-21-lahaina-disaster-recovery-update"
@@ -1579,7 +1537,7 @@
       "to": "2024-02-21"
     },
     {
-      "label": "Kula debris outside home footprints and on vacant lots",
+      "label": "Kula debris outside home footprints and a phase three cleanup",
       "meetings": [
         "2024-01-23-kula-disaster-recovery-update",
         "2024-01-31-kula-disaster-recovery-update"
@@ -1588,16 +1546,7 @@
       "to": "2024-01-31"
     },
     {
-      "label": "Homeowner insurance debris removal payments to government",
-      "meetings": [
-        "2023-11-15-disaster-recovery-community-update-2-at-lahaina-civic-center",
-        "2024-01-31-kula-disaster-recovery-update"
-      ],
-      "from": "2023-11-15",
-      "to": "2024-01-31"
-    },
-    {
-      "label": "Access to Kula soil sample results",
+      "label": "Public access to Kula soil sample results",
       "meetings": [
         "2023-12-05-kula-disaster-recovery-update",
         "2024-01-31-kula-disaster-recovery-update"
@@ -1606,7 +1555,7 @@
       "to": "2024-01-31"
     },
     {
-      "label": "Approval-by-default emergency building permit provision",
+      "label": "Approval-by-default emergency permit provision for fire rebuilds",
       "meetings": [
         "2023-12-12-kula-disaster-recovery-update",
         "2024-01-24-lahaina-disaster-recovery-update"
@@ -1615,7 +1564,7 @@
       "to": "2024-01-24"
     },
     {
-      "label": "Landlords ending tenant leases for FEMA rentals",
+      "label": "Landlords displacing tenants to lease to FEMA",
       "meetings": [
         "2024-01-17-lahaina-disaster-recovery-update",
         "2024-01-24-lahaina-disaster-recovery-update"
@@ -1624,7 +1573,7 @@
       "to": "2024-01-24"
     },
     {
-      "label": "Public air quality monitoring and posting of results",
+      "label": "Kula air quality monitoring and public release of results",
       "meetings": [
         "2023-11-16-kula-disaster-recovery-update",
         "2023-12-05-kula-disaster-recovery-update"
@@ -1642,7 +1591,7 @@
       "to": "2023-12-05"
     },
     {
-      "label": "Mauka road parallel to Pi’ilani Highway",
+      "label": "Mauka road or bypass parallel to Pi’ilani Highway",
       "meetings": [
         "2023-09-20-cpac",
         "2023-10-16-we-are-south-maui-cpac"
@@ -1651,7 +1600,7 @@
       "to": "2023-10-16"
     },
     {
-      "label": "Kīhei compost and recycling site future and expansion",
+      "label": "Future of Kīhei Compost and recycling site",
       "meetings": [
         "2023-04-12-we-are-south-maui-community-plan-advisory-committee",
         "2023-10-16-we-are-south-maui-cpac"
@@ -1660,7 +1609,7 @@
       "to": "2023-10-16"
     },
     {
-      "label": "Opening gated private roads for emergency evacuation",
+      "label": "Opening gated or private roads for emergency evacuation",
       "meetings": [
         "2023-03-15-we-are-south-maui-community-plan-advisory-committee",
         "2023-09-20-cpac"
@@ -1669,7 +1618,7 @@
       "to": "2023-09-20"
     },
     {
-      "label": "Funding a Māʻalaea wastewater plant",
+      "label": "Funding the Māʻalaea regional wastewater plant",
       "meetings": [
         "2023-03-08-we-are-south-maui-community-plan-advisory-committee",
         "2023-04-26-we-are-south-maui-community-plan-advisory-committee"
@@ -1678,7 +1627,7 @@
       "to": "2023-04-26"
     },
     {
-      "label": "Protecting, mapping and acquiring South Maui wetlands",
+      "label": "Mapping, protection and acquisition of Kīhei wetlands",
       "meetings": [
         "2023-01-25-we-are-south-maui-community-plan-advisory-committee",
         "2023-03-15-we-are-south-maui-community-plan-advisory-committee"
@@ -1687,7 +1636,7 @@
       "to": "2023-03-15"
     },
     {
-      "label": "Flooding at Kūlanihākoʻi and Waipuʻilani gulches",
+      "label": "Flooding along Waipuʻilani and Kūlanihākoʻi gulches",
       "meetings": [
         "2023-02-22-we-are-south-maui-community-plan-advisory-committee",
         "2023-03-08-we-are-south-maui-community-plan-advisory-committee"
