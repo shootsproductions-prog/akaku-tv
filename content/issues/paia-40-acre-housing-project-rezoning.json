@@ -1,7 +1,7 @@
 {
   "slug": "paia-40-acre-housing-project-rezoning",
   "title": "Pāʻia 40-acre housing project rezoning",
-  "summary": "On Sept. 8, the Maui Planning Commission voted to recommend the County Council approve the zoning change for 40.392 acres in Pāʻia, with conditions including free parking for Maui residents at the public lot and more community engagement. It also unanimously backed the community plan amendment. The project is about 170 homes, with at least 34 workforce rentals affordable forever, and the council will now review the recommendations.",
+  "summary": "At the November 18 council meeting, members and the project team discussed why the project's water-use numbers differ from the county water department's, whose letter assumes all homes have three bedrooms and two bathrooms; a consultant said that is not likely and that added single-family units raised expected drinking-water use. The Planning Commission had recommended approval in September of the change for 40.392 acres, with about 170 homes, including at least 34 workforce rentals kept affordable forever. The planning director said approving it as the commission recommended would need five votes.",
   "topics": [
     "housing",
     "land-use",
@@ -10,15 +10,22 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-05-20",
-  "lastSeenISO": "2026-09-08",
+  "lastSeenISO": "2026-11-18",
   "signals": {
-    "meetingsLast30d": 0,
-    "meetingsLast90d": 1,
-    "mentionsLast30d": 0,
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 2,
+    "mentionsLast30d": 3,
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-19",
   "boards": [
+    {
+      "name": "Housing and Land Use Committee",
+      "group": "council",
+      "short": [
+        "HLU"
+      ]
+    },
     {
       "name": "Maui Planning Commission",
       "group": "board",
@@ -33,19 +40,246 @@
       "name": "Maui County Council",
       "group": "council",
       "short": []
-    },
-    {
-      "name": "Housing and Land Use Committee",
-      "group": "council",
-      "short": [
-        "HLU"
-      ]
     }
   ],
   "bills": [
     "Resolution 26-84"
   ],
   "timeline": [
+    {
+      "dateISO": "2026-11-18",
+      "text": "The consultant said all homes being three bedrooms and two bathrooms is not likely.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "VUGsuTe-gGk",
+        "ts": "0:38:48",
+        "retrievedISO": "2026-11-19T16:55:02.188Z",
+        "endTs": "0:39:18"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-11-18",
+      "text": "A council member said the water department's letter assumes all homes have three bedrooms and two bathrooms.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "VUGsuTe-gGk",
+        "ts": "0:38:33",
+        "retrievedISO": "2026-11-19T16:55:02.188Z",
+        "endTs": "0:39:03"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-11-18",
+      "text": "A water consultant said more single-family units were added, which raised expected drinking-water use.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "VUGsuTe-gGk",
+        "ts": "0:37:45",
+        "retrievedISO": "2026-11-19T16:55:02.188Z",
+        "endTs": "0:38:16"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-11-18",
+      "text": "Members and the project team discussed why the project's water-use numbers differ from the county water department's numbers.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "VUGsuTe-gGk",
+        "ts": "0:36:42",
+        "retrievedISO": "2026-11-19T16:55:02.188Z",
+        "endTs": "0:37:33"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-11-18",
+      "text": "The market consultant said 40 percent of Pāʻia homes are not lived in by their owners.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "VUGsuTe-gGk",
+        "ts": "0:32:38",
+        "retrievedISO": "2026-11-19T16:55:02.188Z",
+        "endTs": "0:33:08"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-11-18",
+      "text": "A market consultant said the lack of affordable units underscores the need.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "VUGsuTe-gGk",
+        "ts": "0:31:24",
+        "retrievedISO": "2026-11-19T16:55:02.188Z",
+        "endTs": "0:31:55"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-11-18",
+      "text": "The chair said Pāʻia town has zero affordable units right now.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "VUGsuTe-gGk",
+        "ts": "0:30:50",
+        "retrievedISO": "2026-11-19T16:55:02.188Z",
+        "endTs": "0:31:20"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-11-18",
+      "text": "A speaker for the attorneys said it would be safer to wait for the state's district boundary amendment.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "VUGsuTe-gGk",
+        "ts": "0:25:48",
+        "retrievedISO": "2026-11-19T16:55:02.188Z",
+        "endTs": "0:26:19"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-11-18",
+      "text": "The planning director said approving it as the Planning Commission recommended would need five votes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "VUGsuTe-gGk",
+        "ts": "0:24:43",
+        "retrievedISO": "2026-11-19T16:55:02.188Z",
+        "endTs": "0:25:29"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-11-18",
+      "text": "The developer said the parking lot will be privately operated.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "VUGsuTe-gGk",
+        "ts": "0:21:43",
+        "retrievedISO": "2026-11-19T16:55:02.188Z",
+        "endTs": "0:22:13"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-11-18",
+      "text": "The chair said Condition 6 was the chair's own proposal, meant to keep Pāʻia unique.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "VUGsuTe-gGk",
+        "ts": "0:19:42",
+        "retrievedISO": "2026-11-19T16:55:02.188Z",
+        "endTs": "0:20:13"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-11-18",
+      "text": "The developer said it does not object to Condition 6 but wants an exception for a preschool.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "VUGsuTe-gGk",
+        "ts": "0:16:53",
+        "retrievedISO": "2026-11-19T16:55:02.188Z",
+        "endTs": "0:17:23"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-11-18",
+      "text": "A project representative said they will work with the county on a bus shelter, which the county asked for along the bypass.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "VUGsuTe-gGk",
+        "ts": "0:13:21",
+        "retrievedISO": "2026-11-19T16:55:02.188Z",
+        "endTs": "0:13:56"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-11-18",
+      "text": "The developer said it will keep talking with the existing heritage hall's operator.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "VUGsuTe-gGk",
+        "ts": "0:11:56",
+        "retrievedISO": "2026-11-19T16:55:02.188Z",
+        "endTs": "0:12:26"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-11-18",
+      "text": "The developer said meeting with the MPO will be part of ongoing talks about the bypass as plans are finalized.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "VUGsuTe-gGk",
+        "ts": "0:11:46",
+        "retrievedISO": "2026-11-19T16:55:02.188Z",
+        "endTs": "0:12:16"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-11-18",
+      "text": "The developer said the planned parking lot will come at the end of the entitlement (approval) period.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "VUGsuTe-gGk",
+        "ts": "0:05:49",
+        "retrievedISO": "2026-11-19T16:55:02.188Z",
+        "endTs": "0:06:24"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-11-18",
+      "text": "A council member asked if keeping units affordable forever would cover added fees like internet, laundry, and parking.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "VUGsuTe-gGk",
+        "ts": "0:03:01",
+        "retrievedISO": "2026-11-19T16:55:02.188Z",
+        "endTs": "0:03:59"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-11-18",
+      "text": "The developer said its gap housing will be for sale, so people can buy multi-family or single-family homes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "VUGsuTe-gGk",
+        "ts": "0:00:47",
+        "retrievedISO": "2026-11-19T16:55:02.188Z",
+        "endTs": "0:01:17"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
     {
       "dateISO": "2026-09-08",
       "text": "Motion to recommend approval of the change in zoning with the council's three conditions, the owner's build order (infrastructure, parking lot, then workforce and gap-group housing) and added gap-group housing, as amended: The commission voted to recommend that the council approve the change in zoning with conditions, as amended.",

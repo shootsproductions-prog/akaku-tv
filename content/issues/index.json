@@ -268,8 +268,8 @@
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-11-19T13:14:11.686Z",
-  "etag": "a9e774e7216096dafde0f71da0ebe31a76a04d490c0e7a4a2323b163972274b9",
+  "updatedAt": "2026-11-19T16:55:56.779Z",
+  "etag": "d99c4986e285e483fa06b287bbb98c8e080ff5ced1e460d66294a897cfb28f49",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-11-19T10:26:16.793Z",
@@ -640,8 +640,8 @@
       "sha256": "1080ac38cada05c06f0bec6af1ac33c092458f4c487b2e7701d801ad871e3400"
     },
     "paia-40-acre-housing-project-rezoning.json": {
-      "updatedAt": "2026-11-19T10:26:16.793Z",
-      "sha256": "caf7fedcd4ff4eb3eb28b5763dbd19099c5db8502a6d6cf45dc86d0c2bf85e7a"
+      "updatedAt": "2026-11-19T16:55:56.779Z",
+      "sha256": "4b275ee9b48a7cf9301a90cefa4bcddb72d594dfb9b4e0ee47a6f1f219568bae"
     },
     "paia-sugar-mill-light-industrial-rezoning.json": {
       "updatedAt": "2026-11-19T10:26:16.793Z",
