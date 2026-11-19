@@ -1,46 +1,6 @@
 {
  "videos": [
   {
-   "id": "9Qn8uXAUEl0",
-   "title": "Maui Commission on Children & Youth: Safe Spaces, Mandated Reporting & Youth Advisory Group",
-   "publishedISO": "2026-07-21T05:52:01Z",
-   "durationSeconds": 5254,
-   "kind": "vod",
-   "series": "boards",
-   "meetingId": "9Qn8uXAUEl0"
-  },
-  {
-   "id": "otvvT8RQuEo",
-   "title": "Lahaina Homecoming Brings 103 Residents Back & Anti-ICE Rally | Maui Daily",
-   "publishedISO": "2026-07-21T05:50:49Z",
-   "durationSeconds": 1115,
-   "kind": "vod",
-   "series": "maui-daily",
-   "episodeId": "260720"
-  },
-  {
-   "id": "qSJeEnCxOok",
-   "title": "Jill Tokuda (D) U.S. Representative Dist II",
-   "publishedISO": "2026-07-21T05:46:18Z",
-   "durationSeconds": 176,
-   "kind": "vod"
-  },
-  {
-   "id": "db72PKQgXRg",
-   "title": "Lahaina Homecoming: Bringing Residents Back After the Fire | Maui Daily",
-   "publishedISO": "2026-07-21T05:43:40Z",
-   "durationSeconds": 132,
-   "kind": "vod",
-   "series": "maui-daily"
-  },
-  {
-   "id": "ToYw0ujBHaA",
-   "title": "Stop Repeating Yourself! Mastering Your Dog Training Tone",
-   "publishedISO": "2026-07-21T04:11:06Z",
-   "durationSeconds": 273,
-   "kind": "vod"
-  },
-  {
    "id": "Tc7trjaSghw",
    "title": "Exercise, Discipline, Affection: The Secret Order to a Balanced Dog",
    "publishedISO": "2026-07-21T04:10:44Z",
@@ -3457,6 +3417,13 @@
    "kind": "vod"
   },
   {
+   "id": "lzA86Vv93Vo",
+   "title": "The Maui Daily Report Week in Review October 20-24, 2025",
+   "publishedISO": "2025-10-26T06:00:40Z",
+   "durationSeconds": 1581,
+   "kind": "vod"
+  },
+  {
    "id": "tRDBR9pLUmM",
    "title": "The Maui Daily Report Week in Review October 13-17, 2025",
    "publishedISO": "2025-10-19T06:00:55Z",
@@ -3707,6 +3674,34 @@
    "title": "Haiku Water Planning Meeting, June 18, 2025",
    "publishedISO": "2025-07-02T23:48:06Z",
    "durationSeconds": 6919,
+   "kind": "vod"
+  },
+  {
+   "id": "o6gQ0_oixQs",
+   "title": "Keanae Water Planning Meeting, June 16, 2025",
+   "publishedISO": "2025-07-02T04:58:26Z",
+   "durationSeconds": 6652,
+   "kind": "vod"
+  },
+  {
+   "id": "L6v9S7TnqCI",
+   "title": "57th Makawao Parade. June 28, 2025",
+   "publishedISO": "2025-07-02T04:13:38Z",
+   "durationSeconds": 5599,
+   "kind": "vod"
+  },
+  {
+   "id": "j28xv-JfLCw",
+   "title": "Download the MauiStream app to watch The Maui Daily Report for June 25th free at 7PM!",
+   "publishedISO": "2025-06-26T05:27:58Z",
+   "durationSeconds": 66,
+   "kind": "vod"
+  },
+  {
+   "id": "eRY9lwqs8Mo",
+   "title": "Download the MauiStream app to watch The Maui Daily Report for June 24th, free at 7PM!",
+   "publishedISO": "2025-06-25T03:37:34Z",
+   "durationSeconds": 80,
    "kind": "vod"
   }
  ]
