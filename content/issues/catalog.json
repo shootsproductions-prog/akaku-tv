@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T10:26:16.793Z",
+  "updatedAt": "2026-11-19T13:14:11.686Z",
   "count": 265,
   "issues": [
     {
@@ -21032,9 +21032,9 @@
       "firstSeenISO": "2026-10-20",
       "lastSeenISO": "2026-10-20",
       "signals": {
-        "meetingsLast30d": 1,
+        "meetingsLast30d": 0,
         "meetingsLast90d": 1,
-        "mentionsLast30d": 3,
+        "mentionsLast30d": 0,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-19",
@@ -23286,9 +23286,9 @@
       "firstSeenISO": "2026-09-29",
       "lastSeenISO": "2026-10-20",
       "signals": {
-        "meetingsLast30d": 1,
+        "meetingsLast30d": 0,
         "meetingsLast90d": 2,
-        "mentionsLast30d": 3,
+        "mentionsLast30d": 0,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-19",
@@ -25675,9 +25675,9 @@
       "firstSeenISO": "2026-09-01",
       "lastSeenISO": "2026-10-20",
       "signals": {
-        "meetingsLast30d": 1,
+        "meetingsLast30d": 0,
         "meetingsLast90d": 2,
-        "mentionsLast30d": 3,
+        "mentionsLast30d": 0,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-19",
@@ -26530,9 +26530,9 @@
       "firstSeenISO": "2024-10-10",
       "lastSeenISO": "2026-10-20",
       "signals": {
-        "meetingsLast30d": 1,
+        "meetingsLast30d": 0,
         "meetingsLast90d": 1,
-        "mentionsLast30d": 3,
+        "mentionsLast30d": 0,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-19",
@@ -32006,9 +32006,9 @@
       "firstSeenISO": "2026-06-22",
       "lastSeenISO": "2026-10-23",
       "signals": {
-        "meetingsLast30d": 2,
+        "meetingsLast30d": 1,
         "meetingsLast90d": 2,
-        "mentionsLast30d": 4,
+        "mentionsLast30d": 1,
         "upcomingEvent": {
           "dateISO": "2027-01-04",
           "what": "Ordinance takes effect",
@@ -33390,9 +33390,9 @@
       "firstSeenISO": "2026-06-04",
       "lastSeenISO": "2026-10-20",
       "signals": {
-        "meetingsLast30d": 1,
+        "meetingsLast30d": 0,
         "meetingsLast90d": 4,
-        "mentionsLast30d": 1,
+        "mentionsLast30d": 0,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-19",
@@ -44710,9 +44710,9 @@
       "firstSeenISO": "2026-04-17",
       "lastSeenISO": "2026-10-20",
       "signals": {
-        "meetingsLast30d": 1,
+        "meetingsLast30d": 0,
         "meetingsLast90d": 1,
-        "mentionsLast30d": 3,
+        "mentionsLast30d": 0,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-19",
@@ -54993,9 +54993,9 @@
       "firstSeenISO": "2026-10-20",
       "lastSeenISO": "2026-10-20",
       "signals": {
-        "meetingsLast30d": 1,
+        "meetingsLast30d": 0,
         "meetingsLast90d": 1,
-        "mentionsLast30d": 1,
+        "mentionsLast30d": 0,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-19",
@@ -56522,9 +56522,9 @@
       "firstSeenISO": "2026-04-24",
       "lastSeenISO": "2026-10-20",
       "signals": {
-        "meetingsLast30d": 1,
+        "meetingsLast30d": 0,
         "meetingsLast90d": 1,
-        "mentionsLast30d": 1,
+        "mentionsLast30d": 0,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-19",
