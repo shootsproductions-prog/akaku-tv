@@ -1,0 +1,59 @@
+{
+  "slug": "permanent-west-maui-transit-center",
+  "title": "Permanent West Maui Transit Center",
+  "summary": "The Department of Transportation is considering a site near the Pioneer Mill smokestack area for a West Maui Transit Center. It is seeking a permanent hub to replace the one lost in the August 2023 wildfires.",
+  "topics": [
+    "transportation",
+    "disaster-recovery"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2026-04-07",
+  "lastSeenISO": "2026-04-07",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-20",
+  "timeline": [
+    {
+      "dateISO": "2026-04-07",
+      "text": "Transportation is considering a West Maui Transit Center near the Pioneer Mill smokestack area.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "d1ORjxdGLPQ",
+        "ts": "3:30:00",
+        "endTs": "3:30:30",
+        "retrievedISO": "2026-10-17T04:42:18.221Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-07",
+      "text": "Transportation is seeking a permanent West Maui Transit Center to replace the hub lost in the August 2023 wildfires.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "d1ORjxdGLPQ",
+        "ts": "0:23:22",
+        "endTs": "0:23:55",
+        "retrievedISO": "2026-10-17T04:42:18.221Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
