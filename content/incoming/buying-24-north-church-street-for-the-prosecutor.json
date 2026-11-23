@@ -1,0 +1,46 @@
+{
+  "slug": "buying-24-north-church-street-for-the-prosecutor",
+  "title": "Buying 24 North Church Street for the prosecutor",
+  "summary": "On April 21, 2026, members were called to vote on adding $3.35 million in bond money for 24 North Church Street and updating its Appendix C description. No vote count or result was stated.",
+  "topics": [
+    "government",
+    "economy"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2026-04-21",
+  "lastSeenISO": "2026-04-21",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-22",
+  "timeline": [
+    {
+      "dateISO": "2026-04-21",
+      "text": "Increase bond fund for 24 North Church Street by $3.35 million and update its Appendix C description: Members were called to vote on adding $3.35 million in bond money for 24 North Church Street, but no count or result was stated.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Adpx8IMDk1I",
+        "ts": "0:56:57",
+        "endTs": "0:58:36",
+        "retrievedISO": "2026-10-17T02:22:55.289Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
