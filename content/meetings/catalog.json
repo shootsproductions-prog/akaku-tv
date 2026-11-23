@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-23T03:44:19.545Z",
-  "etag": "e30c356c4d6c366af1a42ac4d063ff939e80f717700c2a732fd5dc434141f5c1",
+  "updatedAt": "2026-11-23T03:55:24.562Z",
+  "etag": "ded3afba5f44dec0d7c79082ea9db4e0929d2a24839e4fcd653f26c13ba58bc3",
   "count": 366,
   "meetings": [
     {
@@ -3448,10 +3448,11 @@
       "momentCount": 4,
       "issues": [
         "seven-new-homes-in-lahaina-historic-district",
-        "highway-realignment-crossing-17-archaeological-sites"
+        "highway-realignment-crossing-17-archaeological-sites",
+        "cultural-resources-commission-short-on-members"
       ],
-      "updatedAt": "2026-10-31T10:02:02.744Z",
-      "sha256": "bea4feac92cd8aee6fa39206799e14f62e2ad9b338015e1480096e2f9618e08c"
+      "updatedAt": "2026-11-23T03:55:24.562Z",
+      "sha256": "f769169c6e1ddf70f50c346de833780e62590d93501ce02fc26b8f1f02289dc8"
     },
     {
       "videoId": "xKztqre69Yg",
