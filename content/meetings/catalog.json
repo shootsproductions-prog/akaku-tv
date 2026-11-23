@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-23T02:06:17.621Z",
-  "etag": "ba0b4fb0331692c5ac35bb27ec4a141bcabec87fcbc1457f61ba2461d2c1f341",
+  "updatedAt": "2026-11-23T02:06:33.225Z",
+  "etag": "4cf15b8c8f4bd51ba2e8288b9ce611ecfc2eb9732feca12cc0992ce2eaf82b87",
   "count": 366,
   "meetings": [
     {
@@ -3259,10 +3259,11 @@
       "voteCount": 0,
       "momentCount": 4,
       "issues": [
-        "council-on-aging-four-year-plan"
+        "council-on-aging-four-year-plan",
+        "kupuna-service-funding-and-office-on-aging-vacancies"
       ],
-      "updatedAt": "2026-10-31T10:02:02.744Z",
-      "sha256": "2d92d6a93127af659ecf5e67899ededaff55cdecabb76d28e94d490c07f9d3fc"
+      "updatedAt": "2026-11-23T02:06:33.225Z",
+      "sha256": "f6a71412d78081ffcf5ef80c998af93c66d810ae51b93b30bbd9383a179bff47"
     },
     {
       "videoId": "Ail920zTE4c",
@@ -4884,10 +4885,11 @@
       "momentCount": 4,
       "issues": [
         "mema-community-resiliency-hub-network-plan",
-        "hazardous-fuel-removal-on-10-high-risk-parcels"
+        "hazardous-fuel-removal-on-10-high-risk-parcels",
+        "disposal-of-electric-vehicle-batteries"
       ],
-      "updatedAt": "2026-11-12T04:28:11.769Z",
-      "sha256": "48a7504d622c79882168fbd2d899fe158c8733337f409b0f4b1992ce4f28dbda"
+      "updatedAt": "2026-11-23T02:06:33.225Z",
+      "sha256": "b7a78be166b10d10c73e5cb53d1f6ea97e096faa7948794c12e32367db1f41f5"
     },
     {
       "videoId": "h6x_AzBZuxc",
@@ -4904,10 +4906,11 @@
         "mema-community-resiliency-hub-network-plan",
         "new-county-emergency-operations-center",
         "hazardous-fuel-removal-on-10-high-risk-parcels",
-        "changes-to-the-hawaiian-cultural-restoration-revolving-fund"
+        "changes-to-the-hawaiian-cultural-restoration-revolving-fund",
+        "disposal-of-electric-vehicle-batteries"
       ],
-      "updatedAt": "2026-11-18T05:05:25.383Z",
-      "sha256": "c8040da47e85727794a65e8fc929fe67192a2a6fa4d2e0fa9d5067a933a3585b"
+      "updatedAt": "2026-11-23T02:06:33.225Z",
+      "sha256": "df6bf333fc0ec48ef881b2647d3e30cf2fc7d8ceb5de78e55366f84f74293d9d"
     },
     {
       "videoId": "WnYd3YxEigE",
