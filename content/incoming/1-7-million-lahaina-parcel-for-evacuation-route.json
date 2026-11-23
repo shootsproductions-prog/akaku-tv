@@ -1,0 +1,153 @@
+{
+  "slug": "1-7-million-lahaina-parcel-for-evacuation-route",
+  "title": "$1.7 million Lahaina parcel for evacuation route",
+  "summary": "On February 19, 2025, the committee voted eight to zero, with one member excused, to recommend adopting Resolution 25-49 in a revised CD1 version that corrects the property owner's names. The resolution would let the County buy a Lahaina parcel the Office of Recovery wants for a community corridor project. The managing director cited roadway evacuation routes, but one member called the $1.7 million price excessive for an undeveloped half acre, and the chair said this parcel alone would not create an evacuation route.",
+  "topics": [
+    "disaster-recovery",
+    "transportation",
+    "public-safety"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2025-02-19",
+  "lastSeenISO": "2025-02-19",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-23",
+  "timeline": [
+    {
+      "dateISO": "2025-02-19",
+      "text": "The committee voted eight to zero to recommend adopting the resolution, with one member excused.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Rn2tS9VtKOk",
+        "ts": "0:26:14",
+        "endTs": "0:26:44",
+        "retrievedISO": "2026-10-21T19:49:05.300Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2025-02-19",
+      "text": "Motion to substitute Resolution 25-49 with the proposed CD1 version: The committee replaced the resolution with a revised version (CD1) that corrects the property owner's names.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Rn2tS9VtKOk",
+        "ts": "0:25:31",
+        "endTs": "0:26:29",
+        "retrievedISO": "2026-10-21T19:49:05.300Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2025-02-19",
+      "text": "The managing director said the main reason for buying the land is roadway evacuation routes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Rn2tS9VtKOk",
+        "ts": "0:22:35",
+        "endTs": "0:23:05",
+        "retrievedISO": "2026-10-21T19:49:05.300Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2025-02-19",
+      "text": "A council member called the $1.7 million price excessive for an undeveloped half acre.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Rn2tS9VtKOk",
+        "ts": "0:18:56",
+        "endTs": "0:19:28",
+        "retrievedISO": "2026-10-21T19:49:05.300Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2025-02-19",
+      "text": "The managing director said he believed the purchase would use bond money approved for roadway evacuation routes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Rn2tS9VtKOk",
+        "ts": "0:17:29",
+        "endTs": "0:17:59",
+        "retrievedISO": "2026-10-21T19:49:05.300Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2025-02-19",
+      "text": "The chair said this parcel alone would not be enough to create an emergency evacuation route.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Rn2tS9VtKOk",
+        "ts": "0:15:57",
+        "endTs": "0:16:45",
+        "retrievedISO": "2026-10-21T19:49:05.300Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2025-02-19",
+      "text": "The managing director said other buyers were interested in the property.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Rn2tS9VtKOk",
+        "ts": "0:13:18",
+        "endTs": "0:13:48",
+        "retrievedISO": "2026-10-21T19:49:05.300Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2025-02-19",
+      "text": "The Office of Recovery asked to buy land in Lahaina for a community corridor project in the Lahaina long-term recovery plan.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Rn2tS9VtKOk",
+        "ts": "0:07:31",
+        "endTs": "0:08:03",
+        "retrievedISO": "2026-10-21T19:49:05.300Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2025-02-19",
+      "text": "Resolution 25-49 would let the County buy a parcel of land in Lahaina.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "Rn2tS9VtKOk",
+        "ts": "0:06:13",
+        "endTs": "0:06:43",
+        "retrievedISO": "2026-10-21T19:49:05.300Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Disaster Recovery, International Affairs, and Planning Committee",
+      "group": "council",
+      "short": [
+        "DRIP"
+      ]
+    }
+  ],
+  "bills": [
+    "Resolution 25-49"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

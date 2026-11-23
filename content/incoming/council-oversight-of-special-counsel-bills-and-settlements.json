@@ -1,0 +1,110 @@
+{
+  "slug": "council-oversight-of-special-counsel-bills-and-settlements",
+  "title": "Council oversight of special counsel bills and settlements",
+  "summary": "A council committee voted on June 22 to recommend that the full council adopt a resolution on lawsuit settlements, and the measure now moves to the full council. It would send all settlement offers to the council and have Council Services attorneys review special counsel's bills. A staff attorney confirmed it is approved as to form and legality, and one public testifier said the council must approve settlements.",
+  "topics": [
+    "government"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-06-22",
+  "lastSeenISO": "2026-06-22",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-23",
+  "timeline": [
+    {
+      "dateISO": "2026-06-22",
+      "text": "The resolution will move on to the full council for consideration.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lVzPO8RLOV4",
+        "ts": "1:21:10",
+        "endTs": "1:21:40",
+        "retrievedISO": "2026-10-16T17:46:34.541Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-06-22",
+      "text": "Motion to recommend adoption of the resolution, including any non-substantive revisions: The committee voted to recommend that the full council adopt the resolution.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lVzPO8RLOV4",
+        "ts": "1:20:35",
+        "endTs": "1:21:18",
+        "retrievedISO": "2026-10-16T17:46:34.541Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-06-22",
+      "text": "A council staff attorney confirmed the resolution is approved as to form and legality.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lVzPO8RLOV4",
+        "ts": "1:04:27",
+        "endTs": "1:04:57",
+        "retrievedISO": "2026-10-16T17:46:34.541Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-06-22",
+      "text": "The chair said the resolution would send all settlement offers to the council and have Council Services attorneys review special counsel's bills.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lVzPO8RLOV4",
+        "ts": "0:42:39",
+        "endTs": "0:43:11",
+        "retrievedISO": "2026-10-16T17:46:34.541Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-06-22",
+      "text": "One public testifier said the council must approve settlements.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lVzPO8RLOV4",
+        "ts": "0:13:34",
+        "endTs": "0:14:15",
+        "retrievedISO": "2026-10-16T17:46:34.541Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-06-22",
+      "text": "The chair said the meeting would give an update on a lawsuit against the County and sort out conflicts of interest.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lVzPO8RLOV4",
+        "ts": "0:03:57",
+        "endTs": "0:04:56",
+        "retrievedISO": "2026-10-16T17:46:34.541Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Government Relations, Ethics, and Transparency Committee",
+      "group": "council",
+      "short": [
+        "GREAT"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "cultural-resources-commission-short-on-members",
+  "title": "Cultural Resources Commission short on members",
+  "summary": "The county's boards and commissions liaison said in early August that she believes no one is currently on the applicant list for this commission. A July 2 meeting ended for lack of a quorum before the director's report could be given.",
+  "topics": [
+    "government",
+    "culture",
+    "disaster-recovery"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-07-02",
+  "lastSeenISO": "2026-08-06",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-23",
+  "timeline": [
+    {
+      "dateISO": "2026-08-06",
+      "text": "The county's boards and commissions liaison said she thinks no one is on the applicant list for this commission right now.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1EOFZJD_EGw",
+        "ts": "2:04:14",
+        "endTs": "2:04:44",
+        "retrievedISO": "2026-10-13T06:35:07.755Z"
+      },
+      "body": "Cultural Resources Commission"
+    },
+    {
+      "dateISO": "2026-07-02",
+      "text": "The meeting ended for lack of a quorum before the director's report.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "F1fUs_ROA_Q",
+        "ts": "4:20:50",
+        "endTs": "4:21:20",
+        "retrievedISO": "2026-10-13T06:35:22.251Z"
+      },
+      "body": "Maui Cultural Resources Commission"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Cultural Resources Commission",
+      "group": "board",
+      "short": []
+    },
+    {
+      "name": "Maui Cultural Resources Commission",
+      "group": "board",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

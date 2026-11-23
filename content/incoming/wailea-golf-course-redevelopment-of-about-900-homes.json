@@ -1,0 +1,150 @@
+{
+  "slug": "wailea-golf-course-redevelopment-of-about-900-homes",
+  "title": "Wailea golf course redevelopment of about 900 homes",
+  "summary": "On October 7, a testifier asked the County to study infrastructure, safety and costs before approving a golf course redevelopment of about 900 homes, noting about 8,000 more homes are projected in South Maui and that open space would be lost. Earlier, a golf representative said 225 acres could hold 600 to 1,000 homes with no number set, and promised 30% in excess of the requirement. The golf representative and the community association president agreed to work together on traffic.",
+  "topics": [
+    "land-use",
+    "housing"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-09-30",
+  "lastSeenISO": "2026-10-07",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 2,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-23",
+  "timeline": [
+    {
+      "dateISO": "2026-10-07",
+      "text": "The testifier said workforce housing depends on safe access, reliable infrastructure and long-term affordability.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5C73aQDRPR4",
+        "ts": "0:12:59",
+        "endTs": "0:13:29",
+        "retrievedISO": "2026-10-16T22:24:10.229Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-07",
+      "text": "The testifier said the redevelopment would remove golf course open space.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5C73aQDRPR4",
+        "ts": "0:11:52",
+        "endTs": "0:12:22",
+        "retrievedISO": "2026-10-16T22:24:10.229Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-07",
+      "text": "The testifier said about 8,000 more homes are projected in South Maui.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5C73aQDRPR4",
+        "ts": "0:11:11",
+        "endTs": "0:11:41",
+        "retrievedISO": "2026-10-16T22:24:10.229Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-07",
+      "text": "A testifier asked the County to study infrastructure, safety and costs before approving a golf course redevelopment of about 900 homes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5C73aQDRPR4",
+        "ts": "0:10:52",
+        "endTs": "0:12:11",
+        "retrievedISO": "2026-10-16T22:24:10.229Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-05",
+      "text": "The golf representative and the community association president agreed to work together on traffic.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ddTYKdPxK9g",
+        "ts": "3:49:46",
+        "endTs": "3:50:42",
+        "retrievedISO": "2026-10-16T23:15:18.634Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-05",
+      "text": "The representative said they have committed to doing \"30% in excess of the requirement.\"",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ddTYKdPxK9g",
+        "ts": "3:25:48",
+        "endTs": "3:26:18",
+        "retrievedISO": "2026-10-16T23:15:18.634Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-05",
+      "text": "The representative said 225 acres could hold 600 to 1,000 homes, but no number is set.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ddTYKdPxK9g",
+        "ts": "3:14:02",
+        "endTs": "3:14:32",
+        "retrievedISO": "2026-10-16T23:15:18.634Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-05",
+      "text": "Another testifier backed a Wailea Community Association compromise that keeps the Blue Course.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ddTYKdPxK9g",
+        "ts": "0:20:01",
+        "endTs": "0:21:15",
+        "retrievedISO": "2026-10-16T23:15:18.634Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-09-30",
+      "text": "A community group's president asked the county not to designate Wailea Golf land for redevelopment until the applicant shows it can be served safely.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "OHRQy0hAcVU",
+        "ts": "0:43:02",
+        "endTs": "0:43:35",
+        "retrievedISO": "2026-10-16T22:27:14.855Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Disaster Recovery, International Affairs, and Planning Committee",
+      "group": "council",
+      "short": [
+        "DRIP"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

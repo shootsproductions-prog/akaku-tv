@@ -1,0 +1,46 @@
+{
+  "slug": "buying-kihei-wetland-parcels-for-flood-control",
+  "title": "Buying Kīhei wetland parcels for flood control",
+  "summary": "As of April 14, 2026, an official asked for $5 million more to buy back wetlands to help with flooding.",
+  "topics": [
+    "environment",
+    "land-use"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2026-04-14",
+  "lastSeenISO": "2026-04-14",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-23",
+  "timeline": [
+    {
+      "dateISO": "2026-04-14",
+      "text": "He asked for $5 million more to buy back wetlands to help with flooding.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ovi31J36l8U",
+        "ts": "0:41:27",
+        "endTs": "0:42:36",
+        "retrievedISO": "2026-10-17T03:27:26.812Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

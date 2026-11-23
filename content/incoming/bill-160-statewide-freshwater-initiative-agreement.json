@@ -1,0 +1,72 @@
+{
+  "slug": "bill-160-statewide-freshwater-initiative-agreement",
+  "title": "Bill 160 statewide freshwater initiative agreement",
+  "summary": "The council passed Bill 160, on a freshwater initiative, on first reading with seven ayes on December 5. The bill lets the mayor enter an agreement with government agencies on Oʻahu, Kauaʻi and Hawaiʻi Island. A council member said it strengthens Hawaiʻi's long-term water security by coordinating freshwater, stormwater, wastewater and recycled water.",
+  "topics": [
+    "water",
+    "government"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2025-12-05",
+  "lastSeenISO": "2025-12-05",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-23",
+  "timeline": [
+    {
+      "dateISO": "2025-12-05",
+      "text": "The council passed Bill 160, on a freshwater initiative, on first reading with seven ayes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "__VVMnSS-8Y",
+        "ts": "1:05:47",
+        "endTs": "1:06:32",
+        "retrievedISO": "2026-10-19T16:24:09.258Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-12-05",
+      "text": "A council member said the initiative strengthens Hawaiʻi's long-term water security by coordinating freshwater, stormwater, wastewater and recycled water.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "__VVMnSS-8Y",
+        "ts": "1:05:21",
+        "endTs": "1:05:52",
+        "retrievedISO": "2026-10-19T16:24:09.258Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-12-05",
+      "text": "Bill 160 lets the mayor enter an agreement with government agencies on Oʻahu, Kauaʻi and Hawaiʻi Island for a freshwater initiative.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "__VVMnSS-8Y",
+        "ts": "1:04:38",
+        "endTs": "1:05:08",
+        "retrievedISO": "2026-10-19T16:24:09.258Z"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [
+    "Bill 160 (2025)"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
