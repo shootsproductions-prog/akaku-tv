@@ -17,164 +17,6 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-22",
-  "timeline": [
-    {
-      "dateISO": "2025-03-21",
-      "text": "A member said buying the land under the county water tank will help maintain essential water infrastructure.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "1b1Dym9ghNQ",
-        "ts": "0:52:52",
-        "endTs": "0:53:22",
-        "retrievedISO": "2026-10-19T18:10:53.980Z"
-      },
-      "body": "County Council Meeting"
-    },
-    {
-      "dateISO": "2025-03-21",
-      "text": "The county built the water tank on Haleakalā Ranch's property and has run it under a right-of-entry agreement.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "1b1Dym9ghNQ",
-        "ts": "0:52:35",
-        "endTs": "0:53:07",
-        "retrievedISO": "2026-10-19T18:10:53.980Z"
-      },
-      "body": "County Council Meeting"
-    },
-    {
-      "dateISO": "2025-03-21",
-      "text": "The county is buying 1.811 acres for $451,561.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "1b1Dym9ghNQ",
-        "ts": "0:52:02",
-        "endTs": "0:52:43",
-        "retrievedISO": "2026-10-19T18:10:53.980Z"
-      },
-      "body": "County Council Meeting"
-    },
-    {
-      "dateISO": "2025-02-25",
-      "text": "The resolution goes to the full council for its consideration.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "FEekYhXkYtQ",
-        "ts": "0:26:20",
-        "endTs": "0:26:50",
-        "retrievedISO": "2026-10-21T13:25:25.845Z"
-      },
-      "body": "County Council Water and Infrastructure Committee"
-    },
-    {
-      "dateISO": "2025-02-25",
-      "text": "The committee voted 7–0 to send the amended resolution to the full council.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "FEekYhXkYtQ",
-        "ts": "0:26:09",
-        "endTs": "0:26:39",
-        "retrievedISO": "2026-10-21T13:25:25.845Z"
-      },
-      "body": "County Council Water and Infrastructure Committee"
-    },
-    {
-      "dateISO": "2025-02-25",
-      "text": "The committee voted 7–0 to replace the resolution with a revised draft.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "FEekYhXkYtQ",
-        "ts": "0:25:24",
-        "endTs": "0:25:59",
-        "retrievedISO": "2026-10-21T13:25:25.845Z"
-      },
-      "body": "County Council Water and Infrastructure Committee"
-    },
-    {
-      "dateISO": "2025-02-25",
-      "text": "The revised draft confirms appraised values of $450,000 for the land and $1,561 for the easement.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "FEekYhXkYtQ",
-        "ts": "0:24:59",
-        "endTs": "0:25:29",
-        "retrievedISO": "2026-10-21T13:25:25.845Z"
-      },
-      "body": "County Council Water and Infrastructure Committee"
-    },
-    {
-      "dateISO": "2025-02-25",
-      "text": "The department said the tank sits on Haleakalā Ranch land through the ranch's kindness, with no sale yet.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "FEekYhXkYtQ",
-        "ts": "0:19:13",
-        "endTs": "0:19:56",
-        "retrievedISO": "2026-10-21T13:25:25.845Z"
-      },
-      "body": "County Council Water and Infrastructure Committee"
-    },
-    {
-      "dateISO": "2025-02-25",
-      "text": "Owning the land would let the department make legal changes there without asking the ranch for permission.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "FEekYhXkYtQ",
-        "ts": "0:18:25",
-        "endTs": "0:18:55",
-        "retrievedISO": "2026-10-21T13:25:25.845Z"
-      },
-      "body": "County Council Water and Infrastructure Committee"
-    },
-    {
-      "dateISO": "2025-02-25",
-      "text": "The Water Department said the land holds the main water tank for upper Kula residents.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "FEekYhXkYtQ",
-        "ts": "0:14:34",
-        "endTs": "0:15:07",
-        "retrievedISO": "2026-10-21T13:25:25.845Z"
-      },
-      "body": "County Council Water and Infrastructure Committee"
-    },
-    {
-      "dateISO": "2025-02-25",
-      "text": "The committee took up Resolution 25-21 to buy 1.811 acres in Kula for $451,561.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "FEekYhXkYtQ",
-        "ts": "0:13:26",
-        "endTs": "0:14:18",
-        "retrievedISO": "2026-10-21T13:25:25.845Z"
-      },
-      "body": "County Council Water and Infrastructure Committee"
-    },
-    {
-      "dateISO": "2025-01-17",
-      "text": "Resolution 25-21: buying 1.811 acres in Kula for up to $451,561: Resolution 25-21 was sent to the Water and Infrastructure Committee without objection.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "ELlALdAo-Xc",
-        "ts": "2:19:51",
-        "endTs": "2:20:29",
-        "retrievedISO": "2026-10-22T03:48:56.054Z"
-      },
-      "body": "County Council Meeting"
-    }
-  ],
   "boards": [
     {
       "name": "Maui County Council",
@@ -191,6 +33,167 @@
   ],
   "bills": [
     "Resolution 25-21"
+  ],
+  "timeline": [
+    {
+      "dateISO": "2025-03-21",
+      "text": "A member said buying the land under the county water tank will help maintain essential water infrastructure.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1b1Dym9ghNQ",
+        "ts": "0:52:52",
+        "retrievedISO": "2026-10-19T18:10:53.980Z",
+        "endTs": "0:53:22"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-03-21",
+      "text": "The county built the water tank on Haleakalā Ranch's property and has run it under a right-of-entry agreement.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1b1Dym9ghNQ",
+        "ts": "0:52:35",
+        "retrievedISO": "2026-10-19T18:10:53.980Z",
+        "endTs": "0:53:07"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-03-21",
+      "text": "The county is buying 1.811 acres for $451,561.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "1b1Dym9ghNQ",
+        "ts": "0:52:02",
+        "retrievedISO": "2026-10-19T18:10:53.980Z",
+        "endTs": "0:52:43"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-02-25",
+      "text": "The resolution goes to the full council for its consideration.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "FEekYhXkYtQ",
+        "ts": "0:26:20",
+        "retrievedISO": "2026-10-21T13:25:25.845Z",
+        "endTs": "0:26:50"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2025-02-25",
+      "text": "The committee voted 7–0 to send the amended resolution to the full council.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "FEekYhXkYtQ",
+        "ts": "0:26:09",
+        "retrievedISO": "2026-10-21T13:25:25.845Z",
+        "endTs": "0:26:39"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2025-02-25",
+      "text": "The committee voted 7–0 to replace the resolution with a revised draft.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "FEekYhXkYtQ",
+        "ts": "0:25:24",
+        "retrievedISO": "2026-10-21T13:25:25.845Z",
+        "endTs": "0:25:59"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2025-02-25",
+      "text": "The revised draft confirms appraised values of $450,000 for the land and $1,561 for the easement.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "FEekYhXkYtQ",
+        "ts": "0:24:59",
+        "retrievedISO": "2026-10-21T13:25:25.845Z",
+        "endTs": "0:25:29"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2025-02-25",
+      "text": "The department said the tank sits on Haleakalā Ranch land through the ranch's kindness, with no sale yet.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "FEekYhXkYtQ",
+        "ts": "0:19:13",
+        "retrievedISO": "2026-10-21T13:25:25.845Z",
+        "endTs": "0:19:56"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2025-02-25",
+      "text": "Owning the land would let the department make legal changes there without asking the ranch for permission.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "FEekYhXkYtQ",
+        "ts": "0:18:25",
+        "retrievedISO": "2026-10-21T13:25:25.845Z",
+        "endTs": "0:18:55"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2025-02-25",
+      "text": "The Water Department said the land holds the main water tank for upper Kula residents.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "FEekYhXkYtQ",
+        "ts": "0:14:34",
+        "retrievedISO": "2026-10-21T13:25:25.845Z",
+        "endTs": "0:15:07"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2025-02-25",
+      "text": "The committee took up Resolution 25-21 to buy 1.811 acres in Kula for $451,561.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "FEekYhXkYtQ",
+        "ts": "0:13:26",
+        "retrievedISO": "2026-10-21T13:25:25.845Z",
+        "endTs": "0:14:18"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2025-01-17",
+      "text": "Resolution 25-21: buying 1.811 acres in Kula for up to $451,561: Resolution 25-21 was sent to the Water and Infrastructure Committee without objection.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ELlALdAo-Xc",
+        "ts": "2:19:51",
+        "retrievedISO": "2026-10-22T03:48:56.054Z",
+        "endTs": "2:20:29"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

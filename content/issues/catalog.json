@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-23T02:05:27.143Z",
-  "count": 269,
+  "updatedAt": "2026-11-23T02:06:17.582Z",
+  "count": 274,
   "issues": [
     {
       "slug": "2027-mass-nominations-for-county-boards",
@@ -59075,6 +59075,548 @@
             "endTs": "0:52:52"
           },
           "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "county-purchase-of-land-under-main-kula-water-tank",
+      "title": "County purchase of land under main Kula water tank",
+      "summary": "On March 21, the county moved to buy 1.811 acres in Kula for $451,561, the land under its water tank, and a member said the purchase will help maintain essential water infrastructure. The tank serves upper Kula and sits on Haleakalā Ranch land under a right-of-entry agreement. Owning it would let the Water Department make legal changes there without asking the ranch.",
+      "topics": [
+        "water",
+        "land-use"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2025-01-17",
+      "lastSeenISO": "2025-03-21",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-22",
+      "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        },
+        {
+          "name": "Water and Infrastructure Committee",
+          "group": "council",
+          "short": [
+            "WAI"
+          ]
+        }
+      ],
+      "bills": [
+        "Resolution 25-21"
+      ],
+      "timeline": [
+        {
+          "dateISO": "2025-03-21",
+          "text": "A member said buying the land under the county water tank will help maintain essential water infrastructure.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "1b1Dym9ghNQ",
+            "ts": "0:52:52",
+            "retrievedISO": "2026-10-19T18:10:53.980Z",
+            "endTs": "0:53:22"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2025-03-21",
+          "text": "The county built the water tank on Haleakalā Ranch's property and has run it under a right-of-entry agreement.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "1b1Dym9ghNQ",
+            "ts": "0:52:35",
+            "retrievedISO": "2026-10-19T18:10:53.980Z",
+            "endTs": "0:53:07"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2025-03-21",
+          "text": "The county is buying 1.811 acres for $451,561.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "1b1Dym9ghNQ",
+            "ts": "0:52:02",
+            "retrievedISO": "2026-10-19T18:10:53.980Z",
+            "endTs": "0:52:43"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2025-02-25",
+          "text": "The resolution goes to the full council for its consideration.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "FEekYhXkYtQ",
+            "ts": "0:26:20",
+            "retrievedISO": "2026-10-21T13:25:25.845Z",
+            "endTs": "0:26:50"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2025-02-25",
+          "text": "The committee voted 7–0 to send the amended resolution to the full council.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "FEekYhXkYtQ",
+            "ts": "0:26:09",
+            "retrievedISO": "2026-10-21T13:25:25.845Z",
+            "endTs": "0:26:39"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2025-02-25",
+          "text": "The committee voted 7–0 to replace the resolution with a revised draft.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "FEekYhXkYtQ",
+            "ts": "0:25:24",
+            "retrievedISO": "2026-10-21T13:25:25.845Z",
+            "endTs": "0:25:59"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2025-02-25",
+          "text": "The revised draft confirms appraised values of $450,000 for the land and $1,561 for the easement.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "FEekYhXkYtQ",
+            "ts": "0:24:59",
+            "retrievedISO": "2026-10-21T13:25:25.845Z",
+            "endTs": "0:25:29"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2025-02-25",
+          "text": "The department said the tank sits on Haleakalā Ranch land through the ranch's kindness, with no sale yet.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "FEekYhXkYtQ",
+            "ts": "0:19:13",
+            "retrievedISO": "2026-10-21T13:25:25.845Z",
+            "endTs": "0:19:56"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2025-02-25",
+          "text": "Owning the land would let the department make legal changes there without asking the ranch for permission.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "FEekYhXkYtQ",
+            "ts": "0:18:25",
+            "retrievedISO": "2026-10-21T13:25:25.845Z",
+            "endTs": "0:18:55"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2025-02-25",
+          "text": "The Water Department said the land holds the main water tank for upper Kula residents.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "FEekYhXkYtQ",
+            "ts": "0:14:34",
+            "retrievedISO": "2026-10-21T13:25:25.845Z",
+            "endTs": "0:15:07"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2025-02-25",
+          "text": "The committee took up Resolution 25-21 to buy 1.811 acres in Kula for $451,561.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "FEekYhXkYtQ",
+            "ts": "0:13:26",
+            "retrievedISO": "2026-10-21T13:25:25.845Z",
+            "endTs": "0:14:18"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2025-01-17",
+          "text": "Resolution 25-21: buying 1.811 acres in Kula for up to $451,561: Resolution 25-21 was sent to the Water and Infrastructure Committee without objection.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ELlALdAo-Xc",
+            "ts": "2:19:51",
+            "retrievedISO": "2026-10-22T03:48:56.054Z",
+            "endTs": "2:20:29"
+          },
+          "body": "County Council Meeting"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "disposal-of-electric-vehicle-batteries",
+      "title": "Disposal of electric vehicle batteries",
+      "summary": "The emergency management administrator said the county has deconstructed 30,000 pounds of electric vehicle batteries for disposal and is setting up an end-of-life program. Earlier, a member raised loose EV batteries left by the road, and an official said Maui is leading in neutralizing batteries.",
+      "topics": [
+        "environment",
+        "public-safety"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2026-04-13",
+      "lastSeenISO": "2026-04-13",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-22",
+      "boards": [
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-04-13",
+          "text": "The agency is working to set up an end-of-life program for electric vehicle batteries.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "g1_1HGnWNlg",
+            "ts": "1:28:05",
+            "retrievedISO": "2026-10-17T04:04:19.765Z",
+            "endTs": "1:28:35"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-13",
+          "text": "The administrator said the County has deconstructed 30,000 pounds of electric vehicle batteries for disposal.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "g1_1HGnWNlg",
+            "ts": "1:27:46",
+            "retrievedISO": "2026-10-17T04:04:19.765Z",
+            "endTs": "1:28:16"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "kupuna-service-funding-and-office-on-aging-vacancies",
+      "title": "Kūpuna service funding and Office on Aging vacancies",
+      "summary": "In July 2026 a member said a budget freeze left many seniors on wait lists and the office reported seven staff vacancies. In November the office asked to raise kūpuna service contracts from $2.5 million to at least $3 million for fiscal 2028, a request that goes to the human concerns director, mayor and council.",
+      "topics": [
+        "health",
+        "government"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-07-14",
+      "lastSeenISO": "2026-11-10",
+      "signals": {
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 3,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-22",
+      "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-11-10",
+          "text": "In October, the county spent close to $172,000 on direct services for kūpuna.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "u7UZ1_uGDcE",
+            "ts": "1:09:51",
+            "retrievedISO": "2026-11-14T07:30:04.283Z",
+            "endTs": "1:10:21"
+          },
+          "body": "Maui County Council"
+        },
+        {
+          "dateISO": "2026-11-10",
+          "text": "The budget request goes to the director of human concerns, then the mayor, then the county council.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "u7UZ1_uGDcE",
+            "ts": "1:02:41",
+            "retrievedISO": "2026-11-14T07:30:04.283Z",
+            "endTs": "1:03:12"
+          },
+          "body": "Maui County Council"
+        },
+        {
+          "dateISO": "2026-11-10",
+          "text": "The office asked to raise kūpuna service contract funds from $2.5 million to at least $3 million for fiscal year 2028.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "u7UZ1_uGDcE",
+            "ts": "1:02:13",
+            "retrievedISO": "2026-11-14T07:30:04.283Z",
+            "endTs": "1:02:56"
+          },
+          "body": "Maui County Council"
+        },
+        {
+          "dateISO": "2026-07-14",
+          "text": "The office hopes recruitment for three positions goes out within the next couple weeks.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2gk5j4-mY5U",
+            "ts": "1:36:43",
+            "retrievedISO": "2026-10-13T06:35:11.668Z",
+            "endTs": "1:37:20"
+          }
+        },
+        {
+          "dateISO": "2026-07-14",
+          "text": "The office reported seven staff vacancies.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2gk5j4-mY5U",
+            "ts": "1:35:40",
+            "retrievedISO": "2026-10-13T06:35:11.668Z",
+            "endTs": "1:36:10"
+          }
+        },
+        {
+          "dateISO": "2026-07-14",
+          "text": "A member said a budget freeze left many seniors on wait lists.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "2gk5j4-mY5U",
+            "ts": "1:27:35",
+            "retrievedISO": "2026-10-13T06:35:11.668Z",
+            "endTs": "1:28:05"
+          }
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "recovery-help-for-lahaina-commercial-property-owners",
+      "title": "Recovery help for Lahaina commercial property owners",
+      "summary": "Testifiers said Lahaina commercial property owners have not been offered recovery grants and that no commercial property has been rebuilt and occupied since the fire, while officials said commercial recovery programs would begin in January 2026. In 2026 a property owner said hundreds of Lahaina businesses still need places to reopen and sought a land change for a building for displaced businesses, and a testifier said Lahaina town remains largely unbuilt.",
+      "topics": [
+        "disaster-recovery",
+        "economy"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2025-12-05",
+      "lastSeenISO": "2026-09-29",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 2,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-22",
+      "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-09-29",
+          "text": "The testifier said people need jobs and it is time to rebuild downtown Lahaina.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "osd2kNYTO0c",
+            "ts": "1:40:50",
+            "retrievedISO": "2026-10-16T18:23:02.372Z",
+            "endTs": "1:41:36"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-09-29",
+          "text": "A testifier said Lahaina town remains largely unbuilt since the August 2023 fires.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "lg4miTbnuz0",
+            "ts": "1:38:02",
+            "retrievedISO": "2026-10-23T00:06:40.815Z",
+            "endTs": "1:38:34"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-08-25",
+          "text": "He said he plans an 18,000-square-foot building for businesses that lost their places in the fire.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pRcBgWNK6vM",
+            "ts": "0:35:21",
+            "retrievedISO": "2026-10-16T15:11:48.128Z",
+            "endTs": "0:35:51"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-08-25",
+          "text": "The owner confirmed the parcel is part heavy industrial and part agricultural, and the change is needed for parking space.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pRcBgWNK6vM",
+            "ts": "0:34:12",
+            "retrievedISO": "2026-10-16T15:11:48.128Z",
+            "endTs": "0:34:45"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-08-25",
+          "text": "The property owner said hundreds of Lahaina businesses still need places to reopen.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "pRcBgWNK6vM",
+            "ts": "0:32:50",
+            "retrievedISO": "2026-10-16T15:11:48.128Z",
+            "endTs": "0:33:20"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2025-12-05",
+          "text": "A commercial property owner said no commercial property in Lahaina has been rebuilt and occupied since the fire.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "__VVMnSS-8Y",
+            "ts": "0:30:29",
+            "retrievedISO": "2026-10-19T16:24:09.258Z",
+            "endTs": "0:30:59"
+          },
+          "body": "County Council Meeting"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "saving-the-spring-house-at-666-front-street",
+      "title": "Saving the Spring House at 666 Front Street",
+      "summary": "A council member has asked the administration and county lawyers to look into eminent domain, the government buying private land for public use, for the Spring House portion before second reading. A county official said that without the agreement, the building would still be torn down and its stones would not be protected.",
+      "topics": [
+        "culture",
+        "disaster-recovery"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2025-01-17",
+      "lastSeenISO": "2025-01-17",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-22",
+      "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2025-01-17",
+          "text": "A council member asked the administration and county lawyers to look into eminent domain, the government buying private land for public use, for the Spring House portion before second reading.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ELlALdAo-Xc",
+            "ts": "2:59:29",
+            "retrievedISO": "2026-10-22T03:48:56.054Z",
+            "endTs": "2:59:59"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2025-01-17",
+          "text": "A county official said that without the agreement, the building would still be torn down and its stones would not be protected.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ELlALdAo-Xc",
+            "ts": "1:17:16",
+            "retrievedISO": "2026-10-22T03:48:56.054Z",
+            "endTs": "1:18:07"
+          },
+          "body": "County Council Meeting"
         }
       ],
       "sourceTypes": [

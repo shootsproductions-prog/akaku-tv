@@ -17,6 +17,14 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-22",
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-11-10",
@@ -26,8 +34,8 @@
         "type": "meeting",
         "videoId": "u7UZ1_uGDcE",
         "ts": "1:09:51",
-        "endTs": "1:10:21",
-        "retrievedISO": "2026-11-14T07:30:04.283Z"
+        "retrievedISO": "2026-11-14T07:30:04.283Z",
+        "endTs": "1:10:21"
       },
       "body": "Maui County Council"
     },
@@ -39,8 +47,8 @@
         "type": "meeting",
         "videoId": "u7UZ1_uGDcE",
         "ts": "1:02:41",
-        "endTs": "1:03:12",
-        "retrievedISO": "2026-11-14T07:30:04.283Z"
+        "retrievedISO": "2026-11-14T07:30:04.283Z",
+        "endTs": "1:03:12"
       },
       "body": "Maui County Council"
     },
@@ -52,8 +60,8 @@
         "type": "meeting",
         "videoId": "u7UZ1_uGDcE",
         "ts": "1:02:13",
-        "endTs": "1:02:56",
-        "retrievedISO": "2026-11-14T07:30:04.283Z"
+        "retrievedISO": "2026-11-14T07:30:04.283Z",
+        "endTs": "1:02:56"
       },
       "body": "Maui County Council"
     },
@@ -65,8 +73,8 @@
         "type": "meeting",
         "videoId": "2gk5j4-mY5U",
         "ts": "1:36:43",
-        "endTs": "1:37:20",
-        "retrievedISO": "2026-10-13T06:35:11.668Z"
+        "retrievedISO": "2026-10-13T06:35:11.668Z",
+        "endTs": "1:37:20"
       }
     },
     {
@@ -77,8 +85,8 @@
         "type": "meeting",
         "videoId": "2gk5j4-mY5U",
         "ts": "1:35:40",
-        "endTs": "1:36:10",
-        "retrievedISO": "2026-10-13T06:35:11.668Z"
+        "retrievedISO": "2026-10-13T06:35:11.668Z",
+        "endTs": "1:36:10"
       }
     },
     {
@@ -89,18 +97,13 @@
         "type": "meeting",
         "videoId": "2gk5j4-mY5U",
         "ts": "1:27:35",
-        "endTs": "1:28:05",
-        "retrievedISO": "2026-10-13T06:35:11.668Z"
+        "retrievedISO": "2026-10-13T06:35:11.668Z",
+        "endTs": "1:28:05"
       }
     }
   ],
-  "boards": [
-    {
-      "name": "Maui County Council",
-      "group": "council",
-      "short": []
-    }
+  "sourceTypes": [
+    "meeting"
   ],
-  "bills": [],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

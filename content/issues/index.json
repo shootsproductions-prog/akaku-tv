@@ -268,12 +268,17 @@
     "bill-90-requiring-underground-utility-lines.json",
     "climate-action-and-resiliency-plan-adoption-and-update.json",
     "kapalua-airport-emergency-night-operations-zoning.json",
-    "restarting-composting-at-the-central-maui-landfill.json"
+    "restarting-composting-at-the-central-maui-landfill.json",
+    "county-purchase-of-land-under-main-kula-water-tank.json",
+    "disposal-of-electric-vehicle-batteries.json",
+    "kupuna-service-funding-and-office-on-aging-vacancies.json",
+    "recovery-help-for-lahaina-commercial-property-owners.json",
+    "saving-the-spring-house-at-666-front-street.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-11-23T02:05:27.143Z",
-  "etag": "9eee621604272de5ceb485402d157410b4c2a49b8fae3d0d8b0d18a85ff2ec64",
+  "updatedAt": "2026-11-23T02:06:17.582Z",
+  "etag": "0c7f85389d5f2765753e58f8e4884e158b76d664ffe205e68a963118b847233b",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-11-23T01:46:13.372Z",
@@ -1350,6 +1355,26 @@
     "restarting-composting-at-the-central-maui-landfill.json": {
       "updatedAt": "2026-11-23T02:05:27.143Z",
       "sha256": "60894c4543013fa7f21090768d870fb2a1c9f5a1a65f5f23b8a625e6b2e1695f"
+    },
+    "county-purchase-of-land-under-main-kula-water-tank.json": {
+      "updatedAt": "2026-11-23T02:06:17.582Z",
+      "sha256": "84441a4f455eeddbbeefd94487f958163cbee3ccaca0cd41cf67c0fcfdb17a9a"
+    },
+    "disposal-of-electric-vehicle-batteries.json": {
+      "updatedAt": "2026-11-23T02:06:17.582Z",
+      "sha256": "e56ff8289a631d57df67107967b33e0cd533b79bb3753b410c29aab6c871800d"
+    },
+    "kupuna-service-funding-and-office-on-aging-vacancies.json": {
+      "updatedAt": "2026-11-23T02:06:17.582Z",
+      "sha256": "a3de4ee4beacd3b977fab9da1efb793cb4786908d710746720d7fe2db152dae1"
+    },
+    "recovery-help-for-lahaina-commercial-property-owners.json": {
+      "updatedAt": "2026-11-23T02:06:17.582Z",
+      "sha256": "e7fefa86241e800d78977a15381ee28c4263d06e8d00190f10a27fafbbff9095"
+    },
+    "saving-the-spring-house-at-666-front-street.json": {
+      "updatedAt": "2026-11-23T02:06:17.582Z",
+      "sha256": "7ad0e8667e9dc3a9109795ad586303140642832d6cd45a1afdb160786292b26d"
     }
   }
 }
