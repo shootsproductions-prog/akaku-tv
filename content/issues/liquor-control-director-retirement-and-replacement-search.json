@@ -14,18 +14,9 @@
     "meetingsLast30d": 1,
     "meetingsLast90d": 3,
     "mentionsLast30d": 2,
-    "upcomingEvent": {
-      "dateISO": "2026-11-23",
-      "what": "possible special meeting to prepare for interviews",
-      "source": {
-        "type": "meeting",
-        "videoId": "0NdqPwWtF4o",
-        "ts": "1:31:37",
-        "retrievedISO": "2026-10-07T23:03:50.760Z"
-      }
-    }
+    "upcomingEvent": null
   },
-  "asOfISO": "2026-11-22",
+  "asOfISO": "2026-11-23",
   "boards": [
     {
       "name": "Liquor Control Commission",
