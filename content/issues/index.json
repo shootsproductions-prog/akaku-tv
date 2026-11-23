@@ -264,12 +264,16 @@
     "upper-kula-water-transmission-line-improvements.json",
     "wailea-golf-course-redevelopment-of-about-900-homes.json",
     "water-department-watershed-protection-grants.json",
-    "youth-mental-health-crisis-support-in-schools.json"
+    "youth-mental-health-crisis-support-in-schools.json",
+    "bill-90-requiring-underground-utility-lines.json",
+    "climate-action-and-resiliency-plan-adoption-and-update.json",
+    "kapalua-airport-emergency-night-operations-zoning.json",
+    "restarting-composting-at-the-central-maui-landfill.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-11-23T01:46:13.372Z",
-  "etag": "7f6c85bf6523976161ec7855e0b1cb64a304a7562db7e9773b098748daafa074",
+  "updatedAt": "2026-11-23T02:05:27.143Z",
+  "etag": "9eee621604272de5ceb485402d157410b4c2a49b8fae3d0d8b0d18a85ff2ec64",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-11-23T01:46:13.372Z",
@@ -1330,6 +1334,22 @@
     "youth-mental-health-crisis-support-in-schools.json": {
       "updatedAt": "2026-11-23T01:46:13.372Z",
       "sha256": "04f33074108d6599e87918ca1fc1420c79df8fe819303ddffe48d2d0eb273b40"
+    },
+    "bill-90-requiring-underground-utility-lines.json": {
+      "updatedAt": "2026-11-23T02:05:27.143Z",
+      "sha256": "3e45c372b3852872bc1b14210d7729efc77682e5bce8a26342d9eafc7674a997"
+    },
+    "climate-action-and-resiliency-plan-adoption-and-update.json": {
+      "updatedAt": "2026-11-23T02:05:27.143Z",
+      "sha256": "69387c70054fcc3dd9f234ea1d7ee2cbc7f159d719fe20501df167ab7551a5d8"
+    },
+    "kapalua-airport-emergency-night-operations-zoning.json": {
+      "updatedAt": "2026-11-23T02:05:27.143Z",
+      "sha256": "dcc792f7bdca50ff83a6566da537e70daeadc98d5874d9633fc7945fb1bd54f7"
+    },
+    "restarting-composting-at-the-central-maui-landfill.json": {
+      "updatedAt": "2026-11-23T02:05:27.143Z",
+      "sha256": "60894c4543013fa7f21090768d870fb2a1c9f5a1a65f5f23b8a625e6b2e1695f"
     }
   }
 }

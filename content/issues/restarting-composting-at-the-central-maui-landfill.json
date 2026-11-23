@@ -17,6 +17,16 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-22",
+  "boards": [
+    {
+      "name": "Agriculture, Diversification, Environment, and Public Transportation Committee",
+      "group": "council",
+      "short": [
+        "ADEPT"
+      ]
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2023-12-14",
@@ -26,8 +36,8 @@
         "type": "meeting",
         "videoId": "yu60ouC9n3Q",
         "ts": "1:01:20",
-        "endTs": "1:01:55",
-        "retrievedISO": "2026-10-22T16:07:18.937Z"
+        "retrievedISO": "2026-10-22T16:07:18.937Z",
+        "endTs": "1:01:55"
       },
       "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
     },
@@ -39,21 +49,14 @@
         "type": "meeting",
         "videoId": "yu60ouC9n3Q",
         "ts": "0:52:22",
-        "endTs": "0:52:52",
-        "retrievedISO": "2026-10-22T16:07:18.937Z"
+        "retrievedISO": "2026-10-22T16:07:18.937Z",
+        "endTs": "0:52:52"
       },
       "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
     }
   ],
-  "boards": [
-    {
-      "name": "Agriculture, Diversification, Environment, and Public Transportation Committee",
-      "group": "council",
-      "short": [
-        "ADEPT"
-      ]
-    }
+  "sourceTypes": [
+    "meeting"
   ],
-  "bills": [],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

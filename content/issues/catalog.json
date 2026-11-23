@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-23T01:46:13.372Z",
-  "count": 265,
+  "updatedAt": "2026-11-23T02:05:27.143Z",
+  "count": 269,
   "issues": [
     {
       "slug": "2027-mass-nominations-for-county-boards",
@@ -58642,6 +58642,439 @@
             "endTs": "0:03:31"
           },
           "body": "County Council Water Authority, Social Services, and Parks Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "bill-90-requiring-underground-utility-lines",
+      "title": "Bill 90 requiring underground utility lines",
+      "summary": "Bill 90, which would amend the county subdivision law to require more utility lines underground, remains in committee after no motion passed on 25 February 2025. The committee voted 8–0 to amend it, changing a housing component to \"workforce housing,\" and will bring in the Housing department. Members worry about costs: undergrounding for a 161-lot Department of Hawaiian Home Lands (DHHL) project would run $21,000 per lot versus $700 to $800 overhead.",
+      "topics": [
+        "public-safety",
+        "housing",
+        "land-use"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2025-02-25",
+      "lastSeenISO": "2025-02-25",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-22",
+      "boards": [
+        {
+          "name": "Water and Infrastructure Committee",
+          "group": "council",
+          "short": [
+            "WAI"
+          ]
+        }
+      ],
+      "bills": [
+        "Bill 90 (2025)"
+      ],
+      "timeline": [
+        {
+          "dateISO": "2025-02-25",
+          "text": "The chair said the committee will bring in the Housing department and keep working on the bill.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "FEekYhXkYtQ",
+            "ts": "2:23:04",
+            "retrievedISO": "2026-10-21T13:25:25.845Z",
+            "endTs": "2:23:34"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2025-02-25",
+          "text": "The committee's legislative attorney said the bill stays in the committee by default because no motion passed.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "FEekYhXkYtQ",
+            "ts": "2:16:29",
+            "retrievedISO": "2026-10-21T13:25:25.845Z",
+            "endTs": "2:17:02"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2025-02-25",
+          "text": "The committee voted 8–0 to amend the bill.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "FEekYhXkYtQ",
+            "ts": "2:14:12",
+            "retrievedISO": "2026-10-21T13:25:25.845Z",
+            "endTs": "2:14:44"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2025-02-25",
+          "text": "Members agreed to change the amendment's wording from an \"affordable housing component\" to a \"workforce housing component.\"",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "FEekYhXkYtQ",
+            "ts": "2:10:16",
+            "retrievedISO": "2026-10-21T13:25:25.845Z",
+            "endTs": "2:10:56"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2025-02-25",
+          "text": "A member asked that the Department of Housing be present the next time the bill comes up.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "FEekYhXkYtQ",
+            "ts": "1:55:24",
+            "retrievedISO": "2026-10-21T13:25:25.845Z",
+            "endTs": "1:55:54"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2025-02-25",
+          "text": "Underground lines for a recent Department of Hawaiian Home Lands (DHHL) project of 161 lots would have cost $21,000 per lot, versus about $700 to $800 overhead.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "FEekYhXkYtQ",
+            "ts": "0:55:46",
+            "retrievedISO": "2026-10-21T13:25:25.845Z",
+            "endTs": "0:56:24"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2025-02-25",
+          "text": "A member said added costs could lead affordable housing developers to ask the Council for more money.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "FEekYhXkYtQ",
+            "ts": "0:55:20",
+            "retrievedISO": "2026-10-21T13:25:25.845Z",
+            "endTs": "0:55:53"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2025-02-25",
+          "text": "Members asked how requiring underground lines in new subdivisions would affect affordable housing costs.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "FEekYhXkYtQ",
+            "ts": "0:55:14",
+            "retrievedISO": "2026-10-21T13:25:25.845Z",
+            "endTs": "0:55:53"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2025-02-25",
+          "text": "The bill's introducer said 85% of people in a Lahaina survey supported underground power lines.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "FEekYhXkYtQ",
+            "ts": "0:30:43",
+            "retrievedISO": "2026-10-21T13:25:25.845Z",
+            "endTs": "0:31:13"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2025-02-25",
+          "text": "Bill 90 would change the county subdivision law to require more utility lines to go underground.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "FEekYhXkYtQ",
+            "ts": "0:27:41",
+            "retrievedISO": "2026-10-21T13:25:25.845Z",
+            "endTs": "0:28:11"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "climate-action-and-resiliency-plan-adoption-and-update",
+      "title": "Climate Action and Resiliency Plan adoption and update",
+      "summary": "A council member said on December 5, 2024, that a climate action plan the Council takes up the next day overlaps with this work.",
+      "topics": [
+        "environment"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2024-12-05",
+      "lastSeenISO": "2024-12-05",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-22",
+      "boards": [
+        {
+          "name": "Agriculture, Diversification, Environment, and Public Transportation Committee",
+          "group": "council",
+          "short": [
+            "ADEPT"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2024-12-05",
+          "text": "A council member said a climate action plan the Council takes up the next day overlaps with this work.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "wbG87dJJHcQ",
+            "ts": "1:02:00",
+            "retrievedISO": "2026-10-19T08:22:29.696Z",
+            "endTs": "1:03:01"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "kapalua-airport-emergency-night-operations-zoning",
+      "title": "Kapalua Airport emergency night operations zoning",
+      "summary": "The committee deferred the Kapalua Airport zoning change for emergency airstrip operations on March 11. The chair said both sides will keep talking and hope to reach first reading again, and the item can move forward if the state signs the county's first unilateral agreement. The state says the county would pay for the lights and it will discuss amendments, while the county calls the state's changes beyond its scope.",
+      "topics": [
+        "transportation",
+        "public-safety",
+        "land-use"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2026-03-11",
+      "lastSeenISO": "2026-03-11",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-22",
+      "boards": [
+        {
+          "name": "Disaster Recovery, International Affairs, and Planning Committee",
+          "group": "council",
+          "short": [
+            "DRIP"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-03-11",
+          "text": "The committee deferred the airport item.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "_LenDy4cCL8",
+            "ts": "1:04:04",
+            "retrievedISO": "2026-10-17T06:42:02.060Z",
+            "endTs": "1:04:34"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-03-11",
+          "text": "The chair said both sides would keep talking outside the meeting and hope to reach first reading again.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "_LenDy4cCL8",
+            "ts": "1:03:51",
+            "retrievedISO": "2026-10-17T06:42:02.060Z",
+            "endTs": "1:04:21"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-03-11",
+          "text": "The chair said if the state will sign the first unilateral agreement sent, the airport item can move forward.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "_LenDy4cCL8",
+            "ts": "1:03:37",
+            "retrievedISO": "2026-10-17T06:42:02.060Z",
+            "endTs": "1:04:07"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-03-11",
+          "text": "The state said it would discuss any amendments the county sends on the unilateral agreement.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "_LenDy4cCL8",
+            "ts": "1:00:47",
+            "retrievedISO": "2026-10-17T06:42:02.060Z",
+            "endTs": "1:01:23"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-03-11",
+          "text": "The state said the county would pay to buy and install the lights.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "_LenDy4cCL8",
+            "ts": "0:58:49",
+            "retrievedISO": "2026-10-17T06:42:02.060Z",
+            "endTs": "0:59:19"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-03-11",
+          "text": "They offered battery-powered lights as a lower-cost option.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "_LenDy4cCL8",
+            "ts": "0:54:40",
+            "retrievedISO": "2026-10-17T06:42:02.060Z",
+            "endTs": "0:55:10"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-03-11",
+          "text": "He said the state's changes to the unilateral agreement (a required landowner document) were beyond its scope.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "_LenDy4cCL8",
+            "ts": "0:50:30",
+            "retrievedISO": "2026-10-17T06:42:02.060Z",
+            "endTs": "0:51:05"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-03-11",
+          "text": "A county attorney said current zoning limits airport operations to 6:30 p.m.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "_LenDy4cCL8",
+            "ts": "0:15:00",
+            "retrievedISO": "2026-10-17T06:42:02.060Z",
+            "endTs": "0:15:30"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-03-11",
+          "text": "The first item was a zoning change for emergency airstrip operations at Kapalua Airport.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "_LenDy4cCL8",
+            "ts": "0:06:03",
+            "retrievedISO": "2026-10-17T06:42:02.060Z",
+            "endTs": "0:06:33"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "restarting-composting-at-the-central-maui-landfill",
+      "title": "Restarting composting at the Central Maui Landfill",
+      "summary": "Composting at Central Maui Landfill could restart in about six months rather than a year, a county recycling official said on December 14, 2023. A county environmental management official said restarting county composting could supply local compost and reduce the need for off-island product.",
+      "topics": [
+        "environment",
+        "food-security"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2023-12-14",
+      "lastSeenISO": "2023-12-14",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-22",
+      "boards": [
+        {
+          "name": "Agriculture, Diversification, Environment, and Public Transportation Committee",
+          "group": "council",
+          "short": [
+            "ADEPT"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2023-12-14",
+          "text": "A county recycling official said composting at Central Maui Landfill could restart in about six months, not a year.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yu60ouC9n3Q",
+            "ts": "1:01:20",
+            "retrievedISO": "2026-10-22T16:07:18.937Z",
+            "endTs": "1:01:55"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2023-12-14",
+          "text": "A county environmental management official said restarting county composting could supply local compost and reduce the need for off-island product.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yu60ouC9n3Q",
+            "ts": "0:52:22",
+            "retrievedISO": "2026-10-22T16:07:18.937Z",
+            "endTs": "0:52:52"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
         }
       ],
       "sourceTypes": [
