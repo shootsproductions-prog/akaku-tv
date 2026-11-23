@@ -1,7 +1,7 @@
 {
   "slug": "paia-40-acre-housing-project-rezoning",
   "title": "Pāʻia 40-acre housing project rezoning",
-  "summary": "On Nov. 18, council members added conditions to the EC Pāʻia Town project: no bed and breakfast or timeshare use, permanent owner-occupancy for gap-group homes, and vegetation management for fire. Members also questioned why the project's water-use numbers differ from the county water department's. The Planning Commission recommended approval in September for the 40.392-acre rezoning, which covers about 170 homes, including at least 34 permanently affordable workforce rentals.",
+  "summary": "On November 18, the council took up Bills 167 and 168 for the EC Pāʻia town project, with water supply the main concern. The developer's roughly 75,000 gallons a day differs from the water department's 85,700 figure, and the developer agreed to confirm its number. The Planning Commission recommended approval 5 to 3 on September 8; the plan has about 170 homes, including at least 34 permanent workforce rentals and 26 gap units, and would then go to the Land Use Commission.",
   "topics": [
     "housing",
     "land-use",
@@ -43,6 +43,8 @@
     }
   ],
   "bills": [
+    "Bill 167 (2026)",
+    "Bill 168 (2026)",
     "Resolution 26-84"
   ],
   "timeline": [
@@ -243,6 +245,19 @@
     },
     {
       "dateISO": "2026-11-18",
+      "text": "A member said they still had concerns about water availability.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "la_jCNMB42Y",
+        "ts": "0:16:13",
+        "retrievedISO": "2026-11-19T20:27:15.095Z",
+        "endTs": "0:16:43"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-11-18",
       "text": "A project representative said they will work with the county on a bus shelter, which the county asked for along the bypass.",
       "basis": "said-at-meeting",
       "source": {
@@ -251,6 +266,19 @@
         "ts": "0:13:21",
         "retrievedISO": "2026-11-19T16:55:02.188Z",
         "endTs": "0:13:56"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-11-18",
+      "text": "A member urged the community to support housing projects like this one.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "la_jCNMB42Y",
+        "ts": "0:12:49",
+        "retrievedISO": "2026-11-19T20:27:15.095Z",
+        "endTs": "0:13:19"
       },
       "body": "County Council Housing and Land Use Committee"
     },

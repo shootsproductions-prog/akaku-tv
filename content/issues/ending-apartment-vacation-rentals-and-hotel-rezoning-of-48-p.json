@@ -9,11 +9,11 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2025-07-24",
-  "lastSeenISO": "2026-10-23",
+  "lastSeenISO": "2026-11-10",
   "signals": {
-    "meetingsLast30d": 0,
-    "meetingsLast90d": 8,
-    "mentionsLast30d": 0,
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 9,
+    "mentionsLast30d": 1,
     "upcomingEvent": {
       "dateISO": "2026-11-24",
       "what": "Commission must report to the council",
@@ -28,13 +28,13 @@
   "asOfISO": "2026-11-22",
   "boards": [
     {
-      "name": "Maui County Council",
-      "group": "council",
+      "name": "Maui Planning Commission",
+      "group": "board",
       "short": []
     },
     {
-      "name": "Maui Planning Commission",
-      "group": "board",
+      "name": "Maui County Council",
+      "group": "council",
       "short": []
     },
     {
@@ -58,6 +58,19 @@
     "Resolution 26-161"
   ],
   "timeline": [
+    {
+      "dateISO": "2026-11-10",
+      "text": "Staff said the November 24th meeting will cover a hotel item for a new batch of properties.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "LhsRYNUJqFI",
+        "ts": "5:03:08",
+        "retrievedISO": "2026-11-18T07:30:30.679Z",
+        "endTs": "5:03:47"
+      },
+      "body": "Maui Planning Commission"
+    },
     {
       "dateISO": "2026-10-23",
       "text": "The Council voted down sending condo properties to the Maui Planning Commission for hotel zoning review.",
@@ -3244,6 +3257,19 @@
     },
     {
       "dateISO": "2025-07-24",
+      "text": "A member said the mayor's presentation estimated it would take 73 years to build 2,200 homes in Lahaina.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "sT3Zhgq1u2o",
+        "ts": "1:28:43",
+        "retrievedISO": "2026-10-21T17:03:31.973Z",
+        "endTs": "1:29:26"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2025-07-24",
       "text": "A member said the Maui Planning Commission recommended a shorter period for West Maui.",
       "basis": "said-at-meeting",
       "source": {
@@ -3252,6 +3278,19 @@
         "ts": "1:27:43",
         "retrievedISO": "2026-10-21T17:03:31.973Z",
         "endTs": "1:28:13"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2025-07-24",
+      "text": "A member said some people who live and work in West Maui may sit in traffic four or more hours a day.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "sT3Zhgq1u2o",
+        "ts": "1:25:50",
+        "retrievedISO": "2026-10-21T17:03:31.973Z",
+        "endTs": "1:26:20"
       },
       "body": "County Council Housing and Land Use Committee"
     },

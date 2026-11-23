@@ -109,6 +109,19 @@
     },
     {
       "dateISO": "2026-06-17",
+      "text": "The County counts 92 damaged sites, adding up to around $100 million in damages.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "e2VurwUrZvg",
+        "ts": "1:24:41",
+        "retrievedISO": "2026-10-16T19:25:29.862Z",
+        "endTs": "1:25:11"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-06-17",
       "text": "Officials expect to come back sometime in fiscal 27 with a budget amendment to cover the funding need.",
       "basis": "said-at-meeting",
       "source": {
@@ -117,6 +130,19 @@
         "ts": "1:19:45",
         "retrievedISO": "2026-10-16T19:25:29.862Z",
         "endTs": "1:20:20"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-06-17",
+      "text": "Officials said about $100 million in storm projects are coming that the County must pay for up front, and that cost was not really budgeted.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "e2VurwUrZvg",
+        "ts": "0:38:09",
+        "retrievedISO": "2026-10-16T19:25:29.862Z",
+        "endTs": "0:38:39"
       },
       "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
     },

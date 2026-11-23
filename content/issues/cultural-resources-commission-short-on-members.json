@@ -1,7 +1,7 @@
 {
   "slug": "cultural-resources-commission-short-on-members",
   "title": "Cultural Resources Commission short on members",
-  "summary": "As of August 6, 2026, the county's boards and commissions liaison said she thinks no one is currently on the applicant list for this commission.",
+  "summary": "As of August 2026, the county's boards and commissions liaison believes no one is on the applicant list for the Cultural Resources Commission. The commission has a heavy role in the Lahaina historic district rebuild. It has struggled with vacancies, with only five of nine seats filled in 2025 and many meetings missing quorum.",
   "topics": [
     "government",
     "culture",
@@ -9,7 +9,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-08-06",
+  "firstSeenISO": "2026-07-02",
   "lastSeenISO": "2026-08-06",
   "signals": {
     "meetingsLast30d": 0,
@@ -21,6 +21,11 @@
   "boards": [
     {
       "name": "Cultural Resources Commission",
+      "group": "board",
+      "short": []
+    },
+    {
+      "name": "Maui Cultural Resources Commission",
       "group": "board",
       "short": []
     }
@@ -39,6 +44,19 @@
         "endTs": "2:04:44"
       },
       "body": "Cultural Resources Commission"
+    },
+    {
+      "dateISO": "2026-07-02",
+      "text": "The meeting ended for lack of a quorum before the director's report.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "F1fUs_ROA_Q",
+        "ts": "4:20:50",
+        "retrievedISO": "2026-10-13T06:35:22.251Z",
+        "endTs": "4:21:20"
+      },
+      "body": "Maui Cultural Resources Commission"
     }
   ],
   "sourceTypes": [

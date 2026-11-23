@@ -1,14 +1,14 @@
 {
   "slug": "county-condo-purchases-for-fire-displaced-kupuna",
   "title": "County condo purchases for fire-displaced kūpuna",
-  "summary": "An amendment has added the unit's appraisal report to a resolution that authorizes buying a Lahaina condo unit for up to $278,000. A county housing testifier said federal Community Development Block Grant funds would pay for it. The unit would serve a county housing program for kūpuna, which houses 10 people in 8 units, while over half of its 41 waitlisted households are still in FEMA housing.",
+  "summary": "On November 13, the Council tabled Resolutions 26-187 and 26-188 until its November 25 meeting, 9–0. They would buy two condo units with CDBG grant money as affordable rentals for kūpuna displaced by the Maui wildfires. The Department of Housing wanted quick approval because of the seller's closing deadlines, and the Water and Infrastructure Committee will discuss the land purchases first.",
   "topics": [
     "housing",
     "disaster-recovery"
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-07-07",
+  "firstSeenISO": "2024-11-14",
   "lastSeenISO": "2026-07-07",
   "signals": {
     "meetingsLast30d": 0,
@@ -22,9 +22,17 @@
       "name": "Maui County Council",
       "group": "council",
       "short": []
+    },
+    {
+      "name": "Committee on Persons with Disabilities",
+      "group": "council",
+      "short": []
     }
   ],
-  "bills": [],
+  "bills": [
+    "Resolution 26-187",
+    "Resolution 26-188"
+  ],
   "timeline": [
     {
       "dateISO": "2026-07-07",
@@ -90,6 +98,19 @@
         "endTs": "0:43:31"
       },
       "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2024-11-14",
+      "text": "The Cameron Center is offering affordable rentals for kūpuna (elders) affected by the wildfires.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "lh7UtxNLLFU",
+        "ts": "1:04:27",
+        "retrievedISO": "2026-10-12T06:30:29.333Z",
+        "endTs": "1:04:57"
+      },
+      "body": "Committee on Persons with Disabilities"
     }
   ],
   "sourceTypes": [

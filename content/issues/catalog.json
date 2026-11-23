@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T02:06:17.582Z",
+  "updatedAt": "2026-11-23T04:26:18.262Z",
   "count": 274,
   "issues": [
     {
@@ -21761,7 +21761,7 @@
     {
       "slug": "paia-40-acre-housing-project-rezoning",
       "title": "Pāʻia 40-acre housing project rezoning",
-      "summary": "On Nov. 18, council members added conditions to the EC Pāʻia Town project: no bed and breakfast or timeshare use, permanent owner-occupancy for gap-group homes, and vegetation management for fire. Members also questioned why the project's water-use numbers differ from the county water department's. The Planning Commission recommended approval in September for the 40.392-acre rezoning, which covers about 170 homes, including at least 34 permanently affordable workforce rentals.",
+      "summary": "On November 18, the council took up Bills 167 and 168 for the EC Pāʻia town project, with water supply the main concern. The developer's roughly 75,000 gallons a day differs from the water department's 85,700 figure, and the developer agreed to confirm its number. The Planning Commission recommended approval 5 to 3 on September 8; the plan has about 170 homes, including at least 34 permanent workforce rentals and 26 gap units, and would then go to the Land Use Commission.",
       "topics": [
         "housing",
         "land-use",
@@ -21803,6 +21803,8 @@
         }
       ],
       "bills": [
+        "Bill 167 (2026)",
+        "Bill 168 (2026)",
         "Resolution 26-84"
       ],
       "timeline": [
@@ -22003,6 +22005,19 @@
         },
         {
           "dateISO": "2026-11-18",
+          "text": "A member said they still had concerns about water availability.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "la_jCNMB42Y",
+            "ts": "0:16:13",
+            "retrievedISO": "2026-11-19T20:27:15.095Z",
+            "endTs": "0:16:43"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-11-18",
           "text": "A project representative said they will work with the county on a bus shelter, which the county asked for along the bypass.",
           "basis": "said-at-meeting",
           "source": {
@@ -22011,6 +22026,19 @@
             "ts": "0:13:21",
             "retrievedISO": "2026-11-19T16:55:02.188Z",
             "endTs": "0:13:56"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-11-18",
+          "text": "A member urged the community to support housing projects like this one.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "la_jCNMB42Y",
+            "ts": "0:12:49",
+            "retrievedISO": "2026-11-19T20:27:15.095Z",
+            "endTs": "0:13:19"
           },
           "body": "County Council Housing and Land Use Committee"
         },
@@ -26524,15 +26552,20 @@
       "status": "active",
       "pinned": false,
       "firstSeenISO": "2025-03-21",
-      "lastSeenISO": "2026-10-19",
+      "lastSeenISO": "2026-11-10",
       "signals": {
-        "meetingsLast30d": 0,
-        "meetingsLast90d": 1,
-        "mentionsLast30d": 0,
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 2,
+        "mentionsLast30d": 3,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-22",
       "boards": [
+        {
+          "name": "Maui Planning Commission",
+          "group": "board",
+          "short": []
+        },
         {
           "name": "Water and Infrastructure Committee",
           "group": "council",
@@ -26558,6 +26591,188 @@
         "Bill 30 (2026)"
       ],
       "timeline": [
+        {
+          "dateISO": "2026-11-10",
+          "text": "The motion passed with six yes votes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "LhsRYNUJqFI",
+            "ts": "3:00:22",
+            "retrievedISO": "2026-11-18T07:30:30.679Z",
+            "endTs": "3:01:11"
+          },
+          "body": "Maui Planning Commission"
+        },
+        {
+          "dateISO": "2026-11-10",
+          "text": "Comments to be sent to the Council include designing the soil treatment system for maximum nitrogen removal.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "LhsRYNUJqFI",
+            "ts": "2:56:44",
+            "retrievedISO": "2026-11-18T07:30:30.679Z",
+            "endTs": "2:57:16"
+          },
+          "body": "Maui Planning Commission"
+        },
+        {
+          "dateISO": "2026-11-10",
+          "text": "Staff will send the Council the commission's recommendation along with commissioners' comments.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "LhsRYNUJqFI",
+            "ts": "2:52:10",
+            "retrievedISO": "2026-11-18T07:30:30.679Z",
+            "endTs": "2:52:49"
+          },
+          "body": "Maui Planning Commission"
+        },
+        {
+          "dateISO": "2026-11-10",
+          "text": "A commissioner moved to support the Planning Department's recommendation, which goes to the County Council.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "LhsRYNUJqFI",
+            "ts": "2:36:58",
+            "retrievedISO": "2026-11-18T07:30:30.679Z",
+            "endTs": "2:37:53"
+          },
+          "body": "Maui Planning Commission"
+        },
+        {
+          "dateISO": "2026-11-10",
+          "text": "A wastewater official said the new plant would take about 1.5 million of the 5.5 million gallons per day now going to the existing plant.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "LhsRYNUJqFI",
+            "ts": "2:12:39",
+            "retrievedISO": "2026-11-18T07:30:30.679Z",
+            "endTs": "2:13:09"
+          },
+          "body": "Maui Planning Commission"
+        },
+        {
+          "dateISO": "2026-11-10",
+          "text": "A second testifier supported the project.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "LhsRYNUJqFI",
+            "ts": "1:08:52",
+            "retrievedISO": "2026-11-18T07:30:30.679Z",
+            "endTs": "1:09:22"
+          },
+          "body": "Maui Planning Commission"
+        },
+        {
+          "dateISO": "2026-11-10",
+          "text": "One testifier asked the commission to delay action until several issues are resolved.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "LhsRYNUJqFI",
+            "ts": "0:46:33",
+            "retrievedISO": "2026-11-18T07:30:30.679Z",
+            "endTs": "0:47:03"
+          },
+          "body": "Maui Planning Commission"
+        },
+        {
+          "dateISO": "2026-11-10",
+          "text": "The project team said the requests go next to the Maui County Council, then construction permits and construction.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "LhsRYNUJqFI",
+            "ts": "0:43:59",
+            "retrievedISO": "2026-11-18T07:30:30.679Z",
+            "endTs": "0:44:29"
+          },
+          "body": "Maui Planning Commission"
+        },
+        {
+          "dateISO": "2026-11-10",
+          "text": "The plant is designed to treat up to 4 million gallons per day.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "LhsRYNUJqFI",
+            "ts": "0:40:58",
+            "retrievedISO": "2026-11-18T07:30:30.679Z",
+            "endTs": "0:41:28"
+          },
+          "body": "Maui Planning Commission"
+        },
+        {
+          "dateISO": "2026-11-10",
+          "text": "A soil aquifer treatment system will be the backup disposal system the health department requires.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "LhsRYNUJqFI",
+            "ts": "0:30:03",
+            "retrievedISO": "2026-11-18T07:30:30.679Z",
+            "endTs": "0:30:37"
+          },
+          "body": "Maui Planning Commission"
+        },
+        {
+          "dateISO": "2026-11-10",
+          "text": "All treated water is meant to be R1 recycled water, which the engineer called the highest quality.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "LhsRYNUJqFI",
+            "ts": "0:27:52",
+            "retrievedISO": "2026-11-18T07:30:30.679Z",
+            "endTs": "0:28:31"
+          },
+          "body": "Maui Planning Commission"
+        },
+        {
+          "dateISO": "2026-11-10",
+          "text": "The project team said the inland site protects against tsunamis, shoreline erosion and sea level rise.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "LhsRYNUJqFI",
+            "ts": "0:20:04",
+            "retrievedISO": "2026-11-18T07:30:30.679Z",
+            "endTs": "0:20:34"
+          },
+          "body": "Maui Planning Commission"
+        },
+        {
+          "dateISO": "2026-11-10",
+          "text": "The facility would add treatment capacity and make recycled water for farming and other non-drinking uses.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "LhsRYNUJqFI",
+            "ts": "0:05:29",
+            "retrievedISO": "2026-11-18T07:30:30.679Z",
+            "endTs": "0:05:59"
+          },
+          "body": "Maui Planning Commission"
+        },
+        {
+          "dateISO": "2026-11-10",
+          "text": "The county wants land use changes on about 14.9 acres to build a new Central Maui wastewater reclamation facility.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "LhsRYNUJqFI",
+            "ts": "0:04:16",
+            "retrievedISO": "2026-11-18T07:30:30.679Z",
+            "endTs": "0:05:10"
+          },
+          "body": "Maui Planning Commission"
+        },
         {
           "dateISO": "2026-10-19",
           "text": "The director confirmed the 14.9-acre plant site does not need the Land Use Commission because it is under 15 acres.",
@@ -29053,11 +29268,11 @@
       "status": "active",
       "pinned": false,
       "firstSeenISO": "2025-07-24",
-      "lastSeenISO": "2026-10-23",
+      "lastSeenISO": "2026-11-10",
       "signals": {
-        "meetingsLast30d": 0,
-        "meetingsLast90d": 8,
-        "mentionsLast30d": 0,
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 9,
+        "mentionsLast30d": 1,
         "upcomingEvent": {
           "dateISO": "2026-11-24",
           "what": "Commission must report to the council",
@@ -29072,13 +29287,13 @@
       "asOfISO": "2026-11-22",
       "boards": [
         {
-          "name": "Maui County Council",
-          "group": "council",
+          "name": "Maui Planning Commission",
+          "group": "board",
           "short": []
         },
         {
-          "name": "Maui Planning Commission",
-          "group": "board",
+          "name": "Maui County Council",
+          "group": "council",
           "short": []
         },
         {
@@ -29102,6 +29317,19 @@
         "Resolution 26-161"
       ],
       "timeline": [
+        {
+          "dateISO": "2026-11-10",
+          "text": "Staff said the November 24th meeting will cover a hotel item for a new batch of properties.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "LhsRYNUJqFI",
+            "ts": "5:03:08",
+            "retrievedISO": "2026-11-18T07:30:30.679Z",
+            "endTs": "5:03:47"
+          },
+          "body": "Maui Planning Commission"
+        },
         {
           "dateISO": "2026-10-23",
           "text": "The Council voted down sending condo properties to the Maui Planning Commission for hotel zoning review.",
@@ -32288,6 +32516,19 @@
         },
         {
           "dateISO": "2025-07-24",
+          "text": "A member said the mayor's presentation estimated it would take 73 years to build 2,200 homes in Lahaina.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "sT3Zhgq1u2o",
+            "ts": "1:28:43",
+            "retrievedISO": "2026-10-21T17:03:31.973Z",
+            "endTs": "1:29:26"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2025-07-24",
           "text": "A member said the Maui Planning Commission recommended a shorter period for West Maui.",
           "basis": "said-at-meeting",
           "source": {
@@ -32296,6 +32537,19 @@
             "ts": "1:27:43",
             "retrievedISO": "2026-10-21T17:03:31.973Z",
             "endTs": "1:28:13"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2025-07-24",
+          "text": "A member said some people who live and work in West Maui may sit in traffic four or more hours a day.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "sT3Zhgq1u2o",
+            "ts": "1:25:50",
+            "retrievedISO": "2026-10-21T17:03:31.973Z",
+            "endTs": "1:26:20"
           },
           "body": "County Council Housing and Land Use Committee"
         },
@@ -36385,6 +36639,19 @@
         },
         {
           "dateISO": "2024-10-23",
+          "text": "A commissioner asked to see the actual letters from the State Historic Preservation office.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "KqjXsXpthgE",
+            "ts": "0:17:43",
+            "retrievedISO": "2026-10-15T06:35:35.805Z",
+            "endTs": "0:18:25"
+          },
+          "body": "Molokaʻi Planning Commission"
+        },
+        {
+          "dateISO": "2024-10-23",
           "text": "The planning department said it will try to do more outreach to Environmental Management on future demolition permits.",
           "basis": "said-at-meeting",
           "source": {
@@ -39626,7 +39893,7 @@
       ],
       "status": "active",
       "pinned": false,
-      "firstSeenISO": "2026-06-05",
+      "firstSeenISO": "2026-04-14",
       "lastSeenISO": "2026-10-08",
       "signals": {
         "meetingsLast30d": 0,
@@ -39640,6 +39907,13 @@
           "name": "Civil Service Commission",
           "group": "board",
           "short": []
+        },
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
         }
       ],
       "bills": [],
@@ -41086,6 +41360,19 @@
             "endTs": "0:03:15"
           },
           "body": "Civil Service Commission"
+        },
+        {
+          "dateISO": "2026-04-14",
+          "text": "The chief proposed a five-year pilot to break away from Department of Personnel Services (DPS) and run the department's own hiring.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "3DFEGks7SE8",
+            "ts": "1:23:32",
+            "retrievedISO": "2026-10-17T03:44:10.620Z",
+            "endTs": "1:24:09"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
         }
       ],
       "sourceTypes": [
@@ -41361,6 +41648,19 @@
         },
         {
           "dateISO": "2026-09-01",
+          "text": "The committee will wait for the new draft and the general budget provision changes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "x6KG7KwLCAY",
+            "ts": "0:41:55",
+            "retrievedISO": "2026-10-16T12:24:33.830Z",
+            "endTs": "0:42:25"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-09-01",
           "text": "The official said the fund already pays to remove abandoned vehicles from County property.",
           "basis": "said-at-meeting",
           "source": {
@@ -41499,7 +41799,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": {
           "dateISO": "2029-09-07",
-          "what": "Waikapū housing project completion (September 7, 2029)",
+          "what": "The project now has until September 7, 2029 to be finished.",
           "source": {
             "type": "meeting",
             "videoId": "mHF14MCnPW0",
@@ -45159,6 +45459,19 @@
         },
         {
           "dateISO": "2026-06-17",
+          "text": "The County counts 92 damaged sites, adding up to around $100 million in damages.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "e2VurwUrZvg",
+            "ts": "1:24:41",
+            "retrievedISO": "2026-10-16T19:25:29.862Z",
+            "endTs": "1:25:11"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-06-17",
           "text": "Officials expect to come back sometime in fiscal 27 with a budget amendment to cover the funding need.",
           "basis": "said-at-meeting",
           "source": {
@@ -45167,6 +45480,19 @@
             "ts": "1:19:45",
             "retrievedISO": "2026-10-16T19:25:29.862Z",
             "endTs": "1:20:20"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-06-17",
+          "text": "Officials said about $100 million in storm projects are coming that the County must pay for up front, and that cost was not really budgeted.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "e2VurwUrZvg",
+            "ts": "0:38:09",
+            "retrievedISO": "2026-10-16T19:25:29.862Z",
+            "endTs": "0:38:39"
           },
           "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
         },
@@ -53565,16 +53891,7 @@
         "meetingsLast30d": 0,
         "meetingsLast90d": 0,
         "mentionsLast30d": 0,
-        "upcomingEvent": {
-          "dateISO": "2030-12-31",
-          "what": "A council member moved to require that the surcharge end no later than December 31, 2030.",
-          "source": {
-            "type": "meeting",
-            "videoId": "FYv2UpG9_0g",
-            "ts": "1:09:54",
-            "retrievedISO": "2026-10-22T21:43:10.527Z"
-          }
-        }
+        "upcomingEvent": null
       },
       "asOfISO": "2026-11-22",
       "boards": [
@@ -55671,14 +55988,14 @@
     {
       "slug": "county-condo-purchases-for-fire-displaced-kupuna",
       "title": "County condo purchases for fire-displaced kūpuna",
-      "summary": "An amendment has added the unit's appraisal report to a resolution that authorizes buying a Lahaina condo unit for up to $278,000. A county housing testifier said federal Community Development Block Grant funds would pay for it. The unit would serve a county housing program for kūpuna, which houses 10 people in 8 units, while over half of its 41 waitlisted households are still in FEMA housing.",
+      "summary": "On November 13, the Council tabled Resolutions 26-187 and 26-188 until its November 25 meeting, 9–0. They would buy two condo units with CDBG grant money as affordable rentals for kūpuna displaced by the Maui wildfires. The Department of Housing wanted quick approval because of the seller's closing deadlines, and the Water and Infrastructure Committee will discuss the land purchases first.",
       "topics": [
         "housing",
         "disaster-recovery"
       ],
       "status": "active",
       "pinned": false,
-      "firstSeenISO": "2026-07-07",
+      "firstSeenISO": "2024-11-14",
       "lastSeenISO": "2026-07-07",
       "signals": {
         "meetingsLast30d": 0,
@@ -55692,9 +56009,17 @@
           "name": "Maui County Council",
           "group": "council",
           "short": []
+        },
+        {
+          "name": "Committee on Persons with Disabilities",
+          "group": "council",
+          "short": []
         }
       ],
-      "bills": [],
+      "bills": [
+        "Resolution 26-187",
+        "Resolution 26-188"
+      ],
       "timeline": [
         {
           "dateISO": "2026-07-07",
@@ -55760,6 +56085,19 @@
             "endTs": "0:43:31"
           },
           "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2024-11-14",
+          "text": "The Cameron Center is offering affordable rentals for kūpuna (elders) affected by the wildfires.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "lh7UtxNLLFU",
+            "ts": "1:04:27",
+            "retrievedISO": "2026-10-12T06:30:29.333Z",
+            "endTs": "1:04:57"
+          },
+          "body": "Committee on Persons with Disabilities"
         }
       ],
       "sourceTypes": [
@@ -55857,7 +56195,7 @@
     {
       "slug": "cultural-resources-commission-short-on-members",
       "title": "Cultural Resources Commission short on members",
-      "summary": "As of August 6, 2026, the county's boards and commissions liaison said she thinks no one is currently on the applicant list for this commission.",
+      "summary": "As of August 2026, the county's boards and commissions liaison believes no one is on the applicant list for the Cultural Resources Commission. The commission has a heavy role in the Lahaina historic district rebuild. It has struggled with vacancies, with only five of nine seats filled in 2025 and many meetings missing quorum.",
       "topics": [
         "government",
         "culture",
@@ -55865,7 +56203,7 @@
       ],
       "status": "active",
       "pinned": false,
-      "firstSeenISO": "2026-08-06",
+      "firstSeenISO": "2026-07-02",
       "lastSeenISO": "2026-08-06",
       "signals": {
         "meetingsLast30d": 0,
@@ -55877,6 +56215,11 @@
       "boards": [
         {
           "name": "Cultural Resources Commission",
+          "group": "board",
+          "short": []
+        },
+        {
+          "name": "Maui Cultural Resources Commission",
           "group": "board",
           "short": []
         }
@@ -55895,6 +56238,19 @@
             "endTs": "2:04:44"
           },
           "body": "Cultural Resources Commission"
+        },
+        {
+          "dateISO": "2026-07-02",
+          "text": "The meeting ended for lack of a quorum before the director's report.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "F1fUs_ROA_Q",
+            "ts": "4:20:50",
+            "retrievedISO": "2026-10-13T06:35:22.251Z",
+            "endTs": "4:21:20"
+          },
+          "body": "Maui Cultural Resources Commission"
         }
       ],
       "sourceTypes": [
