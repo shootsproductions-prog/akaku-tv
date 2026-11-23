@@ -11,12 +11,12 @@
   "firstSeenISO": "2025-08-18",
   "lastSeenISO": "2026-10-23",
   "signals": {
-    "meetingsLast30d": 1,
+    "meetingsLast30d": 0,
     "meetingsLast90d": 2,
-    "mentionsLast30d": 3,
+    "mentionsLast30d": 0,
     "upcomingEvent": null
   },
-  "asOfISO": "2026-11-20",
+  "asOfISO": "2026-11-22",
   "boards": [
     {
       "name": "Maui County Council",
