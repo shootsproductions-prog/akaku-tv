@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T02:28:20.750Z",
+  "updatedAt": "2026-11-24T07:42:11.118Z",
   "count": 282,
   "issues": [
     {
@@ -13238,7 +13238,16 @@
         "meetingsLast30d": 1,
         "meetingsLast90d": 3,
         "mentionsLast30d": 2,
-        "upcomingEvent": null
+        "upcomingEvent": {
+          "dateISO": "2026-12-31",
+          "what": "The department director said he will retire, with December 31 as his last day.",
+          "source": {
+            "type": "meeting",
+            "videoId": "vp8RrdPVBC0",
+            "ts": "1:37:11",
+            "retrievedISO": "2026-10-07T23:03:59.641Z"
+          }
+        }
       },
       "asOfISO": "2026-11-23",
       "boards": [
@@ -21903,7 +21912,7 @@
     {
       "slug": "paia-40-acre-housing-project-rezoning",
       "title": "Pāʻia 40-acre housing project rezoning",
-      "summary": "On November 18, council members worked through Bills 167 and 168 for the EC Pāʻia town project, adding conditions barring bed and breakfast and timeshare use, requiring permanent owner-occupancy of gap housing, and requiring vegetation management; a final condition on the 34 rental units was raised. Water supply remains a concern, with the developer to confirm its figure against the county's 85,700. The Planning Commission recommended approval 5 to 3 on September 8; if adopted, the project goes to the Land Use Commission.",
+      "summary": "On November 18, 2026, a County Council committee passed Bill 167, 8 ayes with one excused, for the EC Pāʻia Town Project, after adding conditions. These ban short-term rentals, require at least 26 gap homes to be owner-occupied permanently, and delay zoning until the State Land Use Commission reclassifies the land. The project would have about 170 homes, including 34 permanent workforce rentals; water supply remains a concern.",
       "topics": [
         "housing",
         "land-use",
@@ -21945,8 +21954,8 @@
         }
       ],
       "bills": [
+        "Bill 8 (2026)",
         "Bill 167 (2026)",
-        "Bill 168 (2026)",
         "Resolution 26-84"
       ],
       "timeline": [
@@ -29108,7 +29117,7 @@
     {
       "slug": "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p",
       "title": "Ending apartment vacation rentals and hotel rezoning of 48 properties",
-      "summary": "On November 20, a council member asked for time to review the property list and decide which to keep in or remove from the bills. The committee heard testimony November 19 on Bills 169-176, which would move some apartment-zoned vacation rental properties into H3 and H4 hotel zoning. The Planning Commission backed five properties and recommended denying single-ownership, mixed, and leasehold ones; the chair said the committee will keep moving units with vacation rentals into H3 and H4.",
+      "summary": "On November 20, the committee passed the main motion as amended, removing four properties from Bills 73 and 74 after a member argued they are homes locals could live in. The bills would move some apartment-zoned vacation rentals into H3 and H4 hotel zoning, and need six votes at first and second reading. The Planning Commission had backed only five properties and recommended denying others for lack of information.",
       "topics": [
         "housing",
         "land-use"
@@ -29116,11 +29125,11 @@
       "status": "active",
       "pinned": false,
       "firstSeenISO": "2025-07-24",
-      "lastSeenISO": "2026-11-10",
+      "lastSeenISO": "2026-11-20",
       "signals": {
-        "meetingsLast30d": 1,
-        "meetingsLast90d": 9,
-        "mentionsLast30d": 1,
+        "meetingsLast30d": 2,
+        "meetingsLast90d": 10,
+        "mentionsLast30d": 2,
         "upcomingEvent": {
           "dateISO": "2026-11-24",
           "what": "Commission must report to the council",
@@ -29135,6 +29144,13 @@
       "asOfISO": "2026-11-23",
       "boards": [
         {
+          "name": "Housing and Land Use Committee",
+          "group": "council",
+          "short": [
+            "HLU"
+          ]
+        },
+        {
           "name": "Maui Planning Commission",
           "group": "board",
           "short": []
@@ -29143,20 +29159,14 @@
           "name": "Maui County Council",
           "group": "council",
           "short": []
-        },
-        {
-          "name": "Housing and Land Use Committee",
-          "group": "council",
-          "short": [
-            "HLU"
-          ]
         }
       ],
       "bills": [
         "Bill 9 (2025)",
         "Bill 9 (2026)",
+        "Bill 73 (2026)",
+        "Bill 74 (2026)",
         "Bill 88 (2026)",
-        "Bill 169 (2026)",
         "Resolution 25-230",
         "Resolution 26-110",
         "Resolution 26-111",
@@ -29166,6 +29176,19 @@
         "Resolution 26-161"
       ],
       "timeline": [
+        {
+          "dateISO": "2026-11-20",
+          "text": "A councilmember said converting single-family homes to hotel zoning works against efforts to provide housing for locals.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "g-fqL2qZeIo",
+            "ts": "0:13:12",
+            "retrievedISO": "2026-11-23T22:21:58.730Z",
+            "endTs": "0:14:23"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
         {
           "dateISO": "2026-11-10",
           "text": "Staff said the November 24th meeting will cover a hotel item for a new batch of properties.",
@@ -34437,7 +34460,7 @@
     {
       "slug": "investigation-of-police-criminal-intelligence-unit-oversight",
       "title": "Investigation of police criminal intelligence unit oversight",
-      "summary": "On October 13, a motion was made to place Chief John Pelletier on paid administrative leave, effective that day, while the commission's independent investigation into his oversight of the criminal intelligence unit is pending. The commission had first put him on paid leave October 7 and made the deputy chief acting chief. In August, it approved hiring an investigator.",
+      "summary": "On November 18, commissioners added the chief's supervision of a lieutenant to the independent investigation, which Honolulu law firm Littler Mendelson is conducting. The commission hopes it will finish within six months. Chief John Pelletier has been on paid administrative leave since October, and the deputy chief is acting chief.",
       "topics": [
         "public-safety",
         "government"
@@ -34445,11 +34468,11 @@
       "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-08-19",
-      "lastSeenISO": "2026-10-13",
+      "lastSeenISO": "2026-11-18",
       "signals": {
-        "meetingsLast30d": 0,
-        "meetingsLast90d": 2,
-        "mentionsLast30d": 0,
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 3,
+        "mentionsLast30d": 3,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-23",
@@ -34462,6 +34485,45 @@
       ],
       "bills": [],
       "timeline": [
+        {
+          "dateISO": "2026-11-18",
+          "text": "Commissioners voted to add the chief's supervision of a lieutenant to that investigation.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "TJBeV86sfVM",
+            "ts": "4:22:20",
+            "retrievedISO": "2026-11-24T00:32:44.140Z",
+            "endTs": "4:23:57"
+          },
+          "body": "Police Commission"
+        },
+        {
+          "dateISO": "2026-11-18",
+          "text": "The commission hopes it will be finished within six months.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "TJBeV86sfVM",
+            "ts": "4:17:59",
+            "retrievedISO": "2026-11-24T00:32:44.140Z",
+            "endTs": "4:18:29"
+          },
+          "body": "Police Commission"
+        },
+        {
+          "dateISO": "2026-11-18",
+          "text": "A Honolulu law firm, Littler Mendelson, is doing the commission's independent investigation.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "TJBeV86sfVM",
+            "ts": "4:17:34",
+            "retrievedISO": "2026-11-24T00:32:44.140Z",
+            "endTs": "4:18:04"
+          },
+          "body": "Police Commission"
+        },
         {
           "dateISO": "2026-10-13",
           "text": "The deputy chief said the previous commission did not place Chief Pelletier on leave for the CIU (criminal intelligence unit) investigation.",
@@ -36083,16 +36145,7 @@
         "meetingsLast30d": 0,
         "meetingsLast90d": 1,
         "mentionsLast30d": 0,
-        "upcomingEvent": {
-          "dateISO": "2030-12-31",
-          "what": "A bill would pause new private swimming pools in the West Maui Community Plan Area until December 31, 2030.",
-          "source": {
-            "type": "meeting",
-            "videoId": "3S90aI2m3-k",
-            "ts": "0:08:56",
-            "retrievedISO": "2026-10-19T11:21:58.937Z"
-          }
-        }
+        "upcomingEvent": null
       },
       "asOfISO": "2026-11-23",
       "boards": [
@@ -54179,7 +54232,16 @@
         "meetingsLast30d": 0,
         "meetingsLast90d": 0,
         "mentionsLast30d": 0,
-        "upcomingEvent": null
+        "upcomingEvent": {
+          "dateISO": "2030-12-31",
+          "what": "A council member moved to require that the surcharge end no later than December 31, 2030.",
+          "source": {
+            "type": "meeting",
+            "videoId": "FYv2UpG9_0g",
+            "ts": "1:09:54",
+            "retrievedISO": "2026-10-22T21:43:10.527Z"
+          }
+        }
       },
       "asOfISO": "2026-11-23",
       "boards": [

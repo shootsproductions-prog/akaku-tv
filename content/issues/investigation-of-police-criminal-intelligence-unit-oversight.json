@@ -1,7 +1,7 @@
 {
   "slug": "investigation-of-police-criminal-intelligence-unit-oversight",
   "title": "Investigation of police criminal intelligence unit oversight",
-  "summary": "On October 13, a motion was made to place Chief John Pelletier on paid administrative leave, effective that day, while the commission's independent investigation into his oversight of the criminal intelligence unit is pending. The commission had first put him on paid leave October 7 and made the deputy chief acting chief. In August, it approved hiring an investigator.",
+  "summary": "On November 18, commissioners added the chief's supervision of a lieutenant to the independent investigation, which Honolulu law firm Littler Mendelson is conducting. The commission hopes it will finish within six months. Chief John Pelletier has been on paid administrative leave since October, and the deputy chief is acting chief.",
   "topics": [
     "public-safety",
     "government"
@@ -9,11 +9,11 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-08-19",
-  "lastSeenISO": "2026-10-13",
+  "lastSeenISO": "2026-11-18",
   "signals": {
-    "meetingsLast30d": 0,
-    "meetingsLast90d": 2,
-    "mentionsLast30d": 0,
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 3,
+    "mentionsLast30d": 3,
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-23",
@@ -26,6 +26,45 @@
   ],
   "bills": [],
   "timeline": [
+    {
+      "dateISO": "2026-11-18",
+      "text": "Commissioners voted to add the chief's supervision of a lieutenant to that investigation.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TJBeV86sfVM",
+        "ts": "4:22:20",
+        "retrievedISO": "2026-11-24T00:32:44.140Z",
+        "endTs": "4:23:57"
+      },
+      "body": "Police Commission"
+    },
+    {
+      "dateISO": "2026-11-18",
+      "text": "The commission hopes it will be finished within six months.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TJBeV86sfVM",
+        "ts": "4:17:59",
+        "retrievedISO": "2026-11-24T00:32:44.140Z",
+        "endTs": "4:18:29"
+      },
+      "body": "Police Commission"
+    },
+    {
+      "dateISO": "2026-11-18",
+      "text": "A Honolulu law firm, Littler Mendelson, is doing the commission's independent investigation.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TJBeV86sfVM",
+        "ts": "4:17:34",
+        "retrievedISO": "2026-11-24T00:32:44.140Z",
+        "endTs": "4:18:04"
+      },
+      "body": "Police Commission"
+    },
     {
       "dateISO": "2026-10-13",
       "text": "The deputy chief said the previous commission did not place Chief Pelletier on leave for the CIU (criminal intelligence unit) investigation.",

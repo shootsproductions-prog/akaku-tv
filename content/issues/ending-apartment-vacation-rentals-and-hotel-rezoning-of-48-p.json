@@ -1,7 +1,7 @@
 {
   "slug": "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p",
   "title": "Ending apartment vacation rentals and hotel rezoning of 48 properties",
-  "summary": "On November 20, a council member asked for time to review the property list and decide which to keep in or remove from the bills. The committee heard testimony November 19 on Bills 169-176, which would move some apartment-zoned vacation rental properties into H3 and H4 hotel zoning. The Planning Commission backed five properties and recommended denying single-ownership, mixed, and leasehold ones; the chair said the committee will keep moving units with vacation rentals into H3 and H4.",
+  "summary": "On November 20, the committee passed the main motion as amended, removing four properties from Bills 73 and 74 after a member argued they are homes locals could live in. The bills would move some apartment-zoned vacation rentals into H3 and H4 hotel zoning, and need six votes at first and second reading. The Planning Commission had backed only five properties and recommended denying others for lack of information.",
   "topics": [
     "housing",
     "land-use"
@@ -9,11 +9,11 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2025-07-24",
-  "lastSeenISO": "2026-11-10",
+  "lastSeenISO": "2026-11-20",
   "signals": {
-    "meetingsLast30d": 1,
-    "meetingsLast90d": 9,
-    "mentionsLast30d": 1,
+    "meetingsLast30d": 2,
+    "meetingsLast90d": 10,
+    "mentionsLast30d": 2,
     "upcomingEvent": {
       "dateISO": "2026-11-24",
       "what": "Commission must report to the council",
@@ -28,6 +28,13 @@
   "asOfISO": "2026-11-23",
   "boards": [
     {
+      "name": "Housing and Land Use Committee",
+      "group": "council",
+      "short": [
+        "HLU"
+      ]
+    },
+    {
       "name": "Maui Planning Commission",
       "group": "board",
       "short": []
@@ -36,20 +43,14 @@
       "name": "Maui County Council",
       "group": "council",
       "short": []
-    },
-    {
-      "name": "Housing and Land Use Committee",
-      "group": "council",
-      "short": [
-        "HLU"
-      ]
     }
   ],
   "bills": [
     "Bill 9 (2025)",
     "Bill 9 (2026)",
+    "Bill 73 (2026)",
+    "Bill 74 (2026)",
     "Bill 88 (2026)",
-    "Bill 169 (2026)",
     "Resolution 25-230",
     "Resolution 26-110",
     "Resolution 26-111",
@@ -59,6 +60,19 @@
     "Resolution 26-161"
   ],
   "timeline": [
+    {
+      "dateISO": "2026-11-20",
+      "text": "A councilmember said converting single-family homes to hotel zoning works against efforts to provide housing for locals.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "g-fqL2qZeIo",
+        "ts": "0:13:12",
+        "retrievedISO": "2026-11-23T22:21:58.730Z",
+        "endTs": "0:14:23"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
     {
       "dateISO": "2026-11-10",
       "text": "Staff said the November 24th meeting will cover a hotel item for a new batch of properties.",
