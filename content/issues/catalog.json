@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T10:26:18.467Z",
+  "updatedAt": "2026-11-24T12:26:20.728Z",
   "count": 282,
   "issues": [
     {
@@ -20216,7 +20216,7 @@
       "lastSeenISO": "2026-08-26",
       "signals": {
         "meetingsLast30d": 0,
-        "meetingsLast90d": 1,
+        "meetingsLast90d": 0,
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
@@ -39890,7 +39890,7 @@
       "lastSeenISO": "2026-10-08",
       "signals": {
         "meetingsLast30d": 0,
-        "meetingsLast90d": 5,
+        "meetingsLast90d": 4,
         "mentionsLast30d": 0,
         "upcomingEvent": null
       },
