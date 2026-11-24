@@ -1,0 +1,111 @@
+{
+  "slug": "factory-built-housing-rules-for-lahaina-rebuild",
+  "title": "Factory-built housing rules for Lahaina rebuild",
+  "summary": "On February 6, 2026, the council took up Bill 15, which sets rules for factory-built housing in the Lahaina burn zone, and amended it. One amendment requires approved factories to be in Hawaiʻi, and another uses county inspectors instead of third-party inspectors. The sponsor said survivors might have to order up to 200 of the same home from an off-island factory, and a testifier said some families won't rebuild unless costs drop and timelines speed up.",
+  "topics": [
+    "housing",
+    "disaster-recovery"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2026-02-06",
+  "lastSeenISO": "2026-02-06",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-24",
+  "timeline": [
+    {
+      "dateISO": "2026-02-06",
+      "text": "A second amendment uses county inspectors instead of third-party inspectors.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HSRuDsy799k",
+        "ts": "2:32:34",
+        "endTs": "2:33:04",
+        "retrievedISO": "2026-10-17T09:43:58.708Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-02-06",
+      "text": "The bill's sponsor said survivors might have to order up to 200 of the same home from an off-island factory.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HSRuDsy799k",
+        "ts": "2:26:09",
+        "endTs": "2:26:51",
+        "retrievedISO": "2026-10-17T09:43:58.708Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-02-06",
+      "text": "An amendment to Bill 15 requires the approved factories for these homes to be located in Hawaiʻi.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HSRuDsy799k",
+        "ts": "2:23:57",
+        "endTs": "2:25:09",
+        "retrievedISO": "2026-10-17T09:43:58.708Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-02-06",
+      "text": "Bill 15 sets rules for factory-built housing in the Lahaina burn zone.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HSRuDsy799k",
+        "ts": "2:23:12",
+        "endTs": "2:23:42",
+        "retrievedISO": "2026-10-17T09:43:58.708Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-02-06",
+      "text": "County Communication 26-3, a proposed amendment to Bill 15: The council postponed County Communication 26-3 until Bill 15 was taken up.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HSRuDsy799k",
+        "ts": "1:26:19",
+        "endTs": "1:26:49",
+        "retrievedISO": "2026-10-17T09:43:58.708Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-02-06",
+      "text": "A testifier said some families will not rebuild unless costs drop and timelines speed up.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HSRuDsy799k",
+        "ts": "1:08:04",
+        "endTs": "1:08:34",
+        "retrievedISO": "2026-10-17T09:43:58.708Z"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [
+    "Bill 15 (2026)"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

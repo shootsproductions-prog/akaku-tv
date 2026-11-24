@@ -1,0 +1,85 @@
+{
+  "slug": "new-transient-accommodations-tax-collection-software",
+  "title": "New transient accommodations tax collection software",
+  "summary": "Finance plans an all-counties meeting with the state Department of Taxation next month. The deputy director said the new software for collecting the transient accommodation tax (TAT), a tax on short-term lodging, is on schedule and a week ahead. It is set to go live in October.",
+  "topics": [
+    "economy",
+    "government"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-07-28",
+  "lastSeenISO": "2026-07-28",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-24",
+  "timeline": [
+    {
+      "dateISO": "2026-07-28",
+      "text": "Finance said an all-counties meeting with the state Department of Taxation is planned for next month.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "8nj7m33nXeI",
+        "ts": "1:32:20",
+        "endTs": "1:32:50",
+        "retrievedISO": "2026-10-16T16:22:10.673Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-07-28",
+      "text": "The new software is set to go live in October.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "8nj7m33nXeI",
+        "ts": "1:25:11",
+        "endTs": "1:25:41",
+        "retrievedISO": "2026-10-16T16:22:10.673Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-07-28",
+      "text": "The finance deputy director said the new TAT software project is on schedule and a week ahead.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "8nj7m33nXeI",
+        "ts": "0:58:20",
+        "endTs": "0:58:50",
+        "retrievedISO": "2026-10-16T16:22:10.673Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-07-28",
+      "text": "The second item was an update on collecting the transient accommodation tax (TAT, a tax on short-term lodging), with no vote planned.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "8nj7m33nXeI",
+        "ts": "0:57:38",
+        "endTs": "0:58:08",
+        "retrievedISO": "2026-10-16T16:22:10.673Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

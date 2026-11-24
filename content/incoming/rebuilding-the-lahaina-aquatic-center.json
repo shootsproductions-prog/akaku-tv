@@ -1,0 +1,46 @@
+{
+  "slug": "rebuilding-the-lahaina-aquatic-center",
+  "title": "Rebuilding the Lahaina Aquatic Center",
+  "summary": "Parks officials have proposed spending $5 million to rehabilitate the Lahaina Aquatic Center. The proposal was made at the April 7, 2026 meeting.",
+  "topics": [
+    "disaster-recovery",
+    "culture"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2026-04-07",
+  "lastSeenISO": "2026-04-07",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-24",
+  "timeline": [
+    {
+      "dateISO": "2026-04-07",
+      "text": "Parks proposed $5 million to rehabilitate the Lahaina Aquatic Center.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "d1ORjxdGLPQ",
+        "ts": "0:17:18",
+        "endTs": "0:17:48",
+        "retrievedISO": "2026-10-17T04:42:18.221Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

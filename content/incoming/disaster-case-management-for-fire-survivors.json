@@ -1,0 +1,144 @@
+{
+  "slug": "disaster-case-management-for-fire-survivors",
+  "title": "Disaster case management for fire survivors",
+  "summary": "The county will take over the disaster case management program from the state in August, and survivors' case managers will stay the same. The program has made over 19,000 referrals, leading to over $173 million in services, and has closed 898 cases where households reached their recovery goals. The long-term recovery group now serves all disasters without funding for that and plans to ask the Council for help.",
+  "topics": [
+    "disaster-recovery",
+    "housing"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-04-14",
+  "lastSeenISO": "2026-08-05",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-24",
+  "timeline": [
+    {
+      "dateISO": "2026-08-05",
+      "text": "The state said survivors' case managers will stay the same after the county takes over.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "VgE2vefgTzg",
+        "ts": "0:47:02",
+        "endTs": "0:47:35",
+        "retrievedISO": "2026-10-16T07:27:27.980Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-08-05",
+      "text": "The program has made over 19,000 referrals, resulting in over $173 million in services.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "VgE2vefgTzg",
+        "ts": "0:42:35",
+        "endTs": "0:43:05",
+        "retrievedISO": "2026-10-16T07:27:27.980Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-08-05",
+      "text": "The state said the case management program has closed 898 cases, meaning those households reached their recovery goals.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "VgE2vefgTzg",
+        "ts": "0:41:40",
+        "endTs": "0:42:10",
+        "retrievedISO": "2026-10-16T07:27:27.980Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-08-05",
+      "text": "The county will take over the disaster case management program from the state in August.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "VgE2vefgTzg",
+        "ts": "0:19:16",
+        "endTs": "0:19:46",
+        "retrievedISO": "2026-10-16T07:27:27.980Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-04-14",
+      "text": "The disaster case manager said the recovery group will ask the Council for help funding its work on all disasters.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ovi31J36l8U",
+        "ts": "2:05:24",
+        "endTs": "2:05:54",
+        "retrievedISO": "2026-10-17T03:27:26.812Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-14",
+      "text": "A disaster case manager said a long-term recovery group now serves all disasters but has no funds for that.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ovi31J36l8U",
+        "ts": "2:05:15",
+        "endTs": "2:05:45",
+        "retrievedISO": "2026-10-17T03:27:26.812Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-14",
+      "text": "The group's disaster case management program works directly with homeowners to help them rebuild.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ovi31J36l8U",
+        "ts": "2:04:18",
+        "endTs": "2:04:57",
+        "retrievedISO": "2026-10-17T03:27:26.812Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-14",
+      "text": "The disaster case manager said the group helped complete two homes (hale) in Lahaina.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ovi31J36l8U",
+        "ts": "2:03:32",
+        "endTs": "2:04:02",
+        "retrievedISO": "2026-10-17T03:27:26.812Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Disaster Recovery, International Affairs, and Planning Committee",
+      "group": "council",
+      "short": [
+        "DRIP"
+      ]
+    },
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

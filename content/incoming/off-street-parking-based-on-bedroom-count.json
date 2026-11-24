@@ -1,0 +1,224 @@
+{
+  "slug": "off-street-parking-based-on-bedroom-count",
+  "title": "Off-street parking based on bedroom count",
+  "summary": "On April 17, the council discussed Bill 47, which changes off-street parking rules for housing; the deputy housing director said ADUs with two or more bedrooms would need two or more stalls, and 40% of ADUs funded by the ʻohana program have two bedrooms. A committee report on April 2 recommended the bill, which bases required parking on bedrooms instead of square footage. In March the committee dropped the wet bar parking rule and added an exception for homes with four or more bedrooms on wide roads.",
+  "topics": [
+    "housing",
+    "land-use"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2025-07-25",
+  "lastSeenISO": "2026-04-17",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-24",
+  "timeline": [
+    {
+      "dateISO": "2026-04-17",
+      "text": "Bill 47 changes off-street parking requirements for housing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "cWThkDX_iTA",
+        "ts": "2:59:30",
+        "endTs": "3:00:00",
+        "retrievedISO": "2026-10-17T02:49:45.529Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-04-17",
+      "text": "The department said 40% of the ADUs funded by its ʻohana assistance program have two bedrooms.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "cWThkDX_iTA",
+        "ts": "1:09:24",
+        "endTs": "1:09:54",
+        "retrievedISO": "2026-10-17T02:49:45.529Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-04-17",
+      "text": "The deputy housing director said ADUs (accessory dwelling units, small extra homes on a lot) with two or more bedrooms would need two or more parking stalls.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "cWThkDX_iTA",
+        "ts": "1:08:54",
+        "endTs": "1:09:24",
+        "retrievedISO": "2026-10-17T02:49:45.529Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-03-11",
+      "text": "Motion to strike the accessory dwelling units cell on page four and move the words to page three after single-family dwelling: The committee moved the words accessory dwelling to follow single-family dwelling under housing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "_LenDy4cCL8",
+        "ts": "2:17:53",
+        "endTs": "2:18:52",
+        "retrievedISO": "2026-10-17T06:42:02.060Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-03-11",
+      "text": "Motion to amend the CD1 by striking the cell for dwelling units with a wet bar: The committee removed the extra parking requirement for homes with a wet bar.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "_LenDy4cCL8",
+        "ts": "2:17:22",
+        "endTs": "2:18:03",
+        "retrievedISO": "2026-10-17T06:42:02.060Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-03-11",
+      "text": "The committee voted 8 to 0, with one excused, to use a revised version of the bill.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "_LenDy4cCL8",
+        "ts": "2:16:57",
+        "endTs": "2:17:27",
+        "retrievedISO": "2026-10-17T06:42:02.060Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-03-11",
+      "text": "The revised version adds a parking exception for homes with four or more bedrooms on roads wide enough for two lanes and parking on both sides.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "_LenDy4cCL8",
+        "ts": "2:11:21",
+        "endTs": "2:11:51",
+        "retrievedISO": "2026-10-17T06:42:02.060Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-03-11",
+      "text": "The chair said changes to garage setbacks should be a separate bill so people know what is changing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "_LenDy4cCL8",
+        "ts": "1:56:04",
+        "endTs": "1:56:34",
+        "retrievedISO": "2026-10-17T06:42:02.060Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-03-11",
+      "text": "A testifier said the extra parking rule for wet bars was not needed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "_LenDy4cCL8",
+        "ts": "1:28:22",
+        "endTs": "1:28:52",
+        "retrievedISO": "2026-10-17T06:42:02.060Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-03-11",
+      "text": "The fire department said it needs a road 20 feet wide so it can operate.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "_LenDy4cCL8",
+        "ts": "1:19:14",
+        "endTs": "1:19:44",
+        "retrievedISO": "2026-10-17T06:42:02.060Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-03-11",
+      "text": "Bill 47 would set required off-street parking for homes by number of bedrooms instead of square footage.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "_LenDy4cCL8",
+        "ts": "1:04:49",
+        "endTs": "1:05:19",
+        "retrievedISO": "2026-10-17T06:42:02.060Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2025-07-25",
+      "text": "Motion to substitute Bill 47 and file County Communication 25-15: The council swapped in a corrected version of Bill 47.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "IdiAmc4W5Zo",
+        "ts": "3:01:31",
+        "endTs": "3:03:01",
+        "retrievedISO": "2026-10-21T22:24:51.067Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-07-25",
+      "text": "Resolution 25-152, referring a parking bill to the Lānaʻi, Maui, and Molokaʻi Planning Commissions: The council sent a proposed bill on off-street parking for housing to the planning commissions.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "IdiAmc4W5Zo",
+        "ts": "2:21:05",
+        "endTs": "2:22:30",
+        "retrievedISO": "2026-10-21T22:24:51.067Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-07-25",
+      "text": "County Communication 25-15, proposed amendment to Bill 47: Members agreed to hold the proposed amendment until Bill 47 was taken up.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "IdiAmc4W5Zo",
+        "ts": "1:24:09",
+        "endTs": "1:24:58",
+        "retrievedISO": "2026-10-21T22:24:51.067Z"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    },
+    {
+      "name": "Disaster Recovery, International Affairs, and Planning Committee",
+      "group": "council",
+      "short": [
+        "DRIP"
+      ]
+    }
+  ],
+  "bills": [
+    "Bill 47 (2025)",
+    "Bill 47 (2026)",
+    "Resolution 25-152"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

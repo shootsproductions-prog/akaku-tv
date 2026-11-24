@@ -1,0 +1,106 @@
+{
+  "slug": "kupuna-service-funding-and-office-on-aging-vacancies",
+  "title": "Kūpuna service funding and Office on Aging vacancies",
+  "summary": "The office has asked to raise kūpuna service contract funds from $2.5 million to at least $3 million for fiscal year 2028. The request goes to the director of human concerns, then the mayor, then the county council. In October the county spent close to $172,000 on direct services for kūpuna.",
+  "topics": [
+    "health",
+    "government"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-07-14",
+  "lastSeenISO": "2026-11-10",
+  "signals": {
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 3,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-24",
+  "timeline": [
+    {
+      "dateISO": "2026-11-10",
+      "text": "In October, the county spent close to $172,000 on direct services for kūpuna.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "u7UZ1_uGDcE",
+        "ts": "1:09:51",
+        "endTs": "1:10:21",
+        "retrievedISO": "2026-11-14T07:30:04.283Z"
+      },
+      "body": "Maui County Council"
+    },
+    {
+      "dateISO": "2026-11-10",
+      "text": "The budget request goes to the director of human concerns, then the mayor, then the county council.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "u7UZ1_uGDcE",
+        "ts": "1:02:41",
+        "endTs": "1:03:12",
+        "retrievedISO": "2026-11-14T07:30:04.283Z"
+      },
+      "body": "Maui County Council"
+    },
+    {
+      "dateISO": "2026-11-10",
+      "text": "The office asked to raise kūpuna service contract funds from $2.5 million to at least $3 million for fiscal year 2028.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "u7UZ1_uGDcE",
+        "ts": "1:02:13",
+        "endTs": "1:02:56",
+        "retrievedISO": "2026-11-14T07:30:04.283Z"
+      },
+      "body": "Maui County Council"
+    },
+    {
+      "dateISO": "2026-07-14",
+      "text": "The office hopes recruitment for three positions goes out within the next couple weeks.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "2gk5j4-mY5U",
+        "ts": "1:36:43",
+        "endTs": "1:37:20",
+        "retrievedISO": "2026-10-13T06:35:11.668Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-14",
+      "text": "The office reported seven staff vacancies.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "2gk5j4-mY5U",
+        "ts": "1:35:40",
+        "endTs": "1:36:10",
+        "retrievedISO": "2026-10-13T06:35:11.668Z"
+      }
+    },
+    {
+      "dateISO": "2026-07-14",
+      "text": "A member said a budget freeze left many seniors on wait lists.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "2gk5j4-mY5U",
+        "ts": "1:27:35",
+        "endTs": "1:28:05",
+        "retrievedISO": "2026-10-13T06:35:11.668Z"
+      }
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

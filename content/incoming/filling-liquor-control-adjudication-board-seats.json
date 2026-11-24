@@ -1,0 +1,36 @@
+{
+  "slug": "filling-liquor-control-adjudication-board-seats",
+  "title": "Filling Liquor Control Adjudication Board seats",
+  "summary": "Resignations have hit the Liquor Control Adjudication Board, the Board of Water Supply and the Independent Nomination Board itself, staff reported on September 23, 2026.",
+  "topics": [
+    "government"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-09-23",
+  "lastSeenISO": "2026-09-23",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-24",
+  "timeline": [
+    {
+      "dateISO": "2026-09-23",
+      "text": "Staff reported resignations from the Liquor Control Adjudication Board, the Board of Water Supply and the Independent Nomination Board itself.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3Jc9Mp68Wcs",
+        "ts": "0:02:26",
+        "endTs": "0:03:41",
+        "retrievedISO": "2026-10-07T23:03:48.406Z"
+      }
+    }
+  ],
+  "boards": [],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
