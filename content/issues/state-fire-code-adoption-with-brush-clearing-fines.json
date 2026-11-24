@@ -8,7 +8,7 @@
   ],
   "status": "quiet",
   "pinned": false,
-  "firstSeenISO": "2024-11-21",
+  "firstSeenISO": "2024-06-17",
   "lastSeenISO": "2024-11-21",
   "signals": {
     "meetingsLast30d": 0,
@@ -21,6 +21,11 @@
     {
       "name": "Fire and Public Safety Commission",
       "group": "board",
+      "short": []
+    },
+    {
+      "name": "County Council Disaster, Resilience, International Affairs, and Planning Committee",
+      "group": "council",
       "short": []
     }
   ],
@@ -38,6 +43,32 @@
         "endTs": "0:34:47"
       },
       "body": "Fire and Public Safety Commission"
+    },
+    {
+      "dateISO": "2024-06-17",
+      "text": "Fire code changes will go to the fire chiefs and committees, and the council will get a chance to comment.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "LZ3nNnF0KBo",
+        "ts": "1:36:39",
+        "retrievedISO": "2026-10-21T09:43:56.070Z",
+        "endTs": "1:37:09"
+      },
+      "body": "County Council Disaster, Resilience, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2024-06-17",
+      "text": "A fire official said a state bill awaiting the governor's signature raises the maximum charge to $2,500 per day.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "LZ3nNnF0KBo",
+        "ts": "1:33:12",
+        "retrievedISO": "2026-10-21T09:43:56.070Z",
+        "endTs": "1:33:44"
+      },
+      "body": "County Council Disaster, Resilience, International Affairs, and Planning Committee"
     }
   ],
   "sourceTypes": [
