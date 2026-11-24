@@ -9,15 +9,20 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2024-10-09",
-  "lastSeenISO": "2026-10-21",
+  "lastSeenISO": "2026-11-19",
   "signals": {
-    "meetingsLast30d": 0,
-    "meetingsLast90d": 0,
-    "mentionsLast30d": 0,
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 2,
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-23",
   "boards": [
+    {
+      "name": "Maui Board of Water Supply",
+      "group": "board",
+      "short": []
+    },
     {
       "name": "Commission on Water Resource Management",
       "group": "board",
@@ -40,6 +45,32 @@
   ],
   "bills": [],
   "timeline": [
+    {
+      "dateISO": "2026-11-19",
+      "text": "Motion to form a Temporary Investigative Group (TIG) with the scope read by a member: The board voted to form a TIG to review the water use permit applications and related planning steps.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "CbfC0FY-mww",
+        "ts": "0:23:33",
+        "retrievedISO": "2026-11-24T07:30:05.102Z",
+        "endTs": "0:24:14"
+      },
+      "body": "Maui Board of Water Supply"
+    },
+    {
+      "dateISO": "2026-11-19",
+      "text": "A member said the Temporary Investigative Group (TIG) should look at where the permit applications fit in the whole water management process.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "CbfC0FY-mww",
+        "ts": "0:12:10",
+        "retrievedISO": "2026-11-24T07:30:05.102Z",
+        "endTs": "0:12:40"
+      },
+      "body": "Maui Board of Water Supply"
+    },
     {
       "dateISO": "2026-10-21",
       "text": "CWRM posted a notice prioritizing Lahaina Water Management Area permit work and a public notice covering ground and surface water permit applications.",
@@ -494,8 +525,8 @@
     }
   ],
   "sourceTypes": [
-    "county-page",
-    "meeting"
+    "meeting",
+    "county-page"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }
