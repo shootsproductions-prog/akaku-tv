@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T01:52:07.458Z",
+  "updatedAt": "2026-11-24T02:28:20.750Z",
   "count": 282,
   "issues": [
     {
@@ -51271,7 +51271,9 @@
         }
       ],
       "bills": [
+        "Bill 14 (2026)",
         "Bill 40 (2025)",
+        "Bill 40 (2026)",
         "Bill 88 (2026)"
       ],
       "timeline": [
@@ -51430,6 +51432,71 @@
             "endTs": "0:10:36"
           },
           "body": "Housing Advisory Board"
+        },
+        {
+          "dateISO": "2026-02-11",
+          "text": "The Director of Housing said his department is fine with the bill's language.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "g4e6yt03J_U",
+            "ts": "0:07:46",
+            "retrievedISO": "2026-10-17T08:47:57.486Z",
+            "endTs": "0:08:16"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-02-11",
+          "text": "Bill 14 also restores rules for documents verifying workforce housing sales, which were left out of Ordinance 5875 by mistake.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "g4e6yt03J_U",
+            "ts": "0:03:37",
+            "retrievedISO": "2026-10-17T08:47:57.486Z",
+            "endTs": "0:04:07"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-02-11",
+          "text": "The chair said earlier attempts to amend the buyer order on the council floor created confusion that this bill aims to fix.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "g4e6yt03J_U",
+            "ts": "0:03:21",
+            "retrievedISO": "2026-10-17T08:47:57.486Z",
+            "endTs": "0:03:51"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-02-11",
+          "text": "One change gave the county second priority to buy units after the waitlist of residents runs out.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "g4e6yt03J_U",
+            "ts": "0:03:05",
+            "retrievedISO": "2026-10-17T08:47:57.486Z",
+            "endTs": "0:03:35"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-02-11",
+          "text": "Last year the council passed Bill 40, now Ordinance 5875, to change the county's residential workforce housing policy.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "g4e6yt03J_U",
+            "ts": "0:02:54",
+            "retrievedISO": "2026-10-17T08:47:57.486Z",
+            "endTs": "0:03:24"
+          },
+          "body": "County Council Housing and Land Use Committee"
         },
         {
           "dateISO": "2025-05-14",
@@ -60593,7 +60660,7 @@
       "status": "quiet",
       "pinned": false,
       "firstSeenISO": "2025-02-19",
-      "lastSeenISO": "2025-02-19",
+      "lastSeenISO": "2026-02-11",
       "signals": {
         "meetingsLast30d": 0,
         "meetingsLast90d": 0,
@@ -60612,6 +60679,58 @@
       ],
       "bills": [],
       "timeline": [
+        {
+          "dateISO": "2026-02-11",
+          "text": "The director said he would love to work with the council member on a possible future bill requiring this tracking.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "g4e6yt03J_U",
+            "ts": "0:15:28",
+            "retrievedISO": "2026-10-17T08:47:57.486Z",
+            "endTs": "0:16:06"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-02-11",
+          "text": "He said future databases would track credit transfers and residential workforce housing agreements.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "g4e6yt03J_U",
+            "ts": "0:13:37",
+            "retrievedISO": "2026-10-17T08:47:57.486Z",
+            "endTs": "0:14:07"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-02-11",
+          "text": "The director said the department has soft-launched a housing tracking website that lists ongoing projects.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "g4e6yt03J_U",
+            "ts": "0:13:15",
+            "retrievedISO": "2026-10-17T08:47:57.486Z",
+            "endTs": "0:13:47"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2026-02-11",
+          "text": "A council member said the public should know when the county uses its right to buy back properties.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "g4e6yt03J_U",
+            "ts": "0:11:05",
+            "retrievedISO": "2026-10-17T08:47:57.486Z",
+            "endTs": "0:11:35"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
         {
           "dateISO": "2025-02-19",
           "text": "The Director plans to post a list of all tracked housing projects on the department's website.",

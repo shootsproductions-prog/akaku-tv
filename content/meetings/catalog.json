@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-23T03:55:24.562Z",
-  "etag": "ded3afba5f44dec0d7c79082ea9db4e0929d2a24839e4fcd653f26c13ba58bc3",
+  "updatedAt": "2026-11-24T02:28:20.786Z",
+  "etag": "c5a1687440f37692434712eed0b7a152db1cd12aebd4b61a2fe2db74a28cb98b",
   "count": 366,
   "meetings": [
     {
@@ -2994,10 +2994,11 @@
       "voteCount": 0,
       "momentCount": 4,
       "issues": [
-        "disclosing-fund-restrictions-on-county-land"
+        "disclosing-fund-restrictions-on-county-land",
+        "new-transient-accommodations-tax-collection-software"
       ],
-      "updatedAt": "2026-11-18T05:05:25.383Z",
-      "sha256": "57933f77662fc5a52cb792a264e103397f0f7791cd96f50ad3d64727da2e0cd4"
+      "updatedAt": "2026-11-24T02:28:20.786Z",
+      "sha256": "6f54057a842e943d8828d8ad0feaec2e1e045aca81fda935b635831593ddaa15"
     },
     {
       "videoId": "G8BjVaIQGNw",
@@ -4198,10 +4199,11 @@
       "voteCount": 0,
       "momentCount": 5,
       "issues": [
-        "police-commission-rule-on-rapid-adjudication-complaints"
+        "police-commission-rule-on-rapid-adjudication-complaints",
+        "police-department-strategic-plan"
       ],
-      "updatedAt": "2026-10-31T10:02:02.744Z",
-      "sha256": "cd5df502f7e083f6d736798468a4752402478509d7733b29be4ec904f8d707cc"
+      "updatedAt": "2026-11-24T02:28:20.786Z",
+      "sha256": "7dcded1eafaee0cdaeecd3ffd26c746b44141043e5eec2715e5637235d13f91a"
     },
     {
       "videoId": "gmpZbZbCHi4",
@@ -4415,10 +4417,11 @@
         "bill-77-setting-aside-housing-fund-for-houseless-residents",
         "lahaina-residential-condo-rebuild-grant",
         "countys-wildfire-lawsuits-and-global-settlement",
-        "disclosing-fund-restrictions-on-county-land"
+        "disclosing-fund-restrictions-on-county-land",
+        "housing-and-services-for-domestic-violence-survivors"
       ],
-      "updatedAt": "2026-11-18T05:05:25.383Z",
-      "sha256": "c1a8c6f596538a8d435bd5d304429ea2e9cee70ba6f9b097bf3f69e88ae69a76"
+      "updatedAt": "2026-11-24T02:28:20.786Z",
+      "sha256": "c6e2f160747a34c5f5fa4c46dab4945c05542e4de6098c516b0d2af1c7ec9ed9"
     },
     {
       "videoId": "SY7ceHt82eM",
@@ -4549,10 +4552,11 @@
       "momentCount": 3,
       "issues": [
         "ohana-assistance-program-for-building-family-units",
-        "buying-24-north-church-street-for-the-prosecutor"
+        "buying-24-north-church-street-for-the-prosecutor",
+        "central-maui-transit-hub-construction-and-security"
       ],
-      "updatedAt": "2026-11-18T05:05:25.383Z",
-      "sha256": "a8dd36c4ef76f46b315095169399fa648a144ddfaade58eb70988eec1567bf68"
+      "updatedAt": "2026-11-24T02:28:20.786Z",
+      "sha256": "80a3e5d2a57d4c7b0e0173e74fbafe2d9e619e55666d2b8a0f6be481400212e1"
     },
     {
       "videoId": "d9P72k1KGO4",
@@ -4628,10 +4632,11 @@
         "workforce-housing-fee-waivers-and-repayment-bill",
         "county-funding-for-lahaina-community-land-trust",
         "voluntary-deed-restriction-program-for-homeowners",
-        "yearly-9-percent-sewer-rate-increases"
+        "yearly-9-percent-sewer-rate-increases",
+        "housing-and-services-for-domestic-violence-survivors"
       ],
-      "updatedAt": "2026-11-01T03:10:46.801Z",
-      "sha256": "dd5702ad8260964f93605a4a623ead4f6b556052ea78d2b8cc4bde78ae23fbd4"
+      "updatedAt": "2026-11-24T02:28:20.786Z",
+      "sha256": "a04830c5b921e3a29e3fdeddd7a3c0f5ca1451770caf8087fda13f14f95cd0e4"
     },
     {
       "videoId": "jIfAqFmxQNg",
@@ -4645,10 +4650,11 @@
       "voteCount": 2,
       "momentCount": 2,
       "issues": [
-        "expanding-fare-free-bus-passes"
+        "expanding-fare-free-bus-passes",
+        "central-maui-transit-hub-construction-and-security"
       ],
-      "updatedAt": "2026-11-06T03:28:57.377Z",
-      "sha256": "c24c0cb24e0177187f2a4daa91e32a363b2774a04e5f798eb8ebfffee18d50f9"
+      "updatedAt": "2026-11-24T02:28:20.786Z",
+      "sha256": "6d2cc94c0a0d2f40cbe48dd909e00258354934e9bd02fc1c030c4ee540ba593f"
     },
     {
       "videoId": "MioJdveXG-s",
@@ -4813,10 +4819,12 @@
       "momentCount": 3,
       "issues": [
         "lanai-planning-commission-return-to-in-person-meetings",
-        "county-food-and-nutrition-security-plan-law"
+        "county-food-and-nutrition-security-plan-law",
+        "finishing-the-lanai-field-house",
+        "emergency-shelter-for-lanai"
       ],
-      "updatedAt": "2026-11-06T03:30:13.932Z",
-      "sha256": "a0effc81103b5b6640c9b58d67265250da07efd8cf8d18f70e75705b224bfb84"
+      "updatedAt": "2026-11-24T02:28:20.786Z",
+      "sha256": "5c06b5535b2fbcbecb2fe4cfddb31d7f8af38c41597d6b241e458aedf7c1e377"
     },
     {
       "videoId": "3DFEGks7SE8",

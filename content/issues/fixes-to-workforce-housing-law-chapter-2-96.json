@@ -32,7 +32,9 @@
     }
   ],
   "bills": [
+    "Bill 14 (2026)",
     "Bill 40 (2025)",
+    "Bill 40 (2026)",
     "Bill 88 (2026)"
   ],
   "timeline": [
@@ -191,6 +193,71 @@
         "endTs": "0:10:36"
       },
       "body": "Housing Advisory Board"
+    },
+    {
+      "dateISO": "2026-02-11",
+      "text": "The Director of Housing said his department is fine with the bill's language.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "g4e6yt03J_U",
+        "ts": "0:07:46",
+        "retrievedISO": "2026-10-17T08:47:57.486Z",
+        "endTs": "0:08:16"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-02-11",
+      "text": "Bill 14 also restores rules for documents verifying workforce housing sales, which were left out of Ordinance 5875 by mistake.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "g4e6yt03J_U",
+        "ts": "0:03:37",
+        "retrievedISO": "2026-10-17T08:47:57.486Z",
+        "endTs": "0:04:07"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-02-11",
+      "text": "The chair said earlier attempts to amend the buyer order on the council floor created confusion that this bill aims to fix.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "g4e6yt03J_U",
+        "ts": "0:03:21",
+        "retrievedISO": "2026-10-17T08:47:57.486Z",
+        "endTs": "0:03:51"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-02-11",
+      "text": "One change gave the county second priority to buy units after the waitlist of residents runs out.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "g4e6yt03J_U",
+        "ts": "0:03:05",
+        "retrievedISO": "2026-10-17T08:47:57.486Z",
+        "endTs": "0:03:35"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-02-11",
+      "text": "Last year the council passed Bill 40, now Ordinance 5875, to change the county's residential workforce housing policy.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "g4e6yt03J_U",
+        "ts": "0:02:54",
+        "retrievedISO": "2026-10-17T08:47:57.486Z",
+        "endTs": "0:03:24"
+      },
+      "body": "County Council Housing and Land Use Committee"
     },
     {
       "dateISO": "2025-05-14",
