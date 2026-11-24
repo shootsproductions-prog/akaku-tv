@@ -1,0 +1,59 @@
+{
+  "slug": "county-housing-project-tracking-website",
+  "title": "County housing project tracking website",
+  "summary": "The housing department has soft-launched a tracking website listing ongoing housing projects. The director said future databases would track credit transfers and residential workforce housing agreements, and he would work with a council member on a possible bill requiring tracking. A council member said the public should know when the county uses its right to buy back properties.",
+  "topics": [
+    "housing",
+    "government"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2025-02-19",
+  "lastSeenISO": "2025-02-19",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-23",
+  "timeline": [
+    {
+      "dateISO": "2025-02-19",
+      "text": "The Director plans to post a list of all tracked housing projects on the department's website.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "QahAEZG2GF8",
+        "ts": "0:22:15",
+        "endTs": "0:22:45",
+        "retrievedISO": "2026-10-21T16:41:47.383Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2025-02-19",
+      "text": "The Director said a letter to a council member lists 97 housing projects.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "QahAEZG2GF8",
+        "ts": "0:15:19",
+        "endTs": "0:15:49",
+        "retrievedISO": "2026-10-21T16:41:47.383Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Housing and Land Use Committee",
+      "group": "council",
+      "short": [
+        "HLU"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
