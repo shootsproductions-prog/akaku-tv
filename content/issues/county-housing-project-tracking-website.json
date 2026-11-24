@@ -17,6 +17,16 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-23",
+  "boards": [
+    {
+      "name": "Housing and Land Use Committee",
+      "group": "council",
+      "short": [
+        "HLU"
+      ]
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2025-02-19",
@@ -26,8 +36,8 @@
         "type": "meeting",
         "videoId": "QahAEZG2GF8",
         "ts": "0:22:15",
-        "endTs": "0:22:45",
-        "retrievedISO": "2026-10-21T16:41:47.383Z"
+        "retrievedISO": "2026-10-21T16:41:47.383Z",
+        "endTs": "0:22:45"
       },
       "body": "County Council Housing and Land Use Committee"
     },
@@ -39,21 +49,14 @@
         "type": "meeting",
         "videoId": "QahAEZG2GF8",
         "ts": "0:15:19",
-        "endTs": "0:15:49",
-        "retrievedISO": "2026-10-21T16:41:47.383Z"
+        "retrievedISO": "2026-10-21T16:41:47.383Z",
+        "endTs": "0:15:49"
       },
       "body": "County Council Housing and Land Use Committee"
     }
   ],
-  "boards": [
-    {
-      "name": "Housing and Land Use Committee",
-      "group": "council",
-      "short": [
-        "HLU"
-      ]
-    }
+  "sourceTypes": [
+    "meeting"
   ],
-  "bills": [],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

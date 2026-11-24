@@ -17,60 +17,6 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-23",
-  "timeline": [
-    {
-      "dateISO": "2026-05-01",
-      "text": "Resolution 26-80, lease of county property to Women Helping Women: A motion was made to approve a new county land lease for Women Helping Women at $1 rent, but no vote is heard in the meeting video.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "7eJyblKPm2w",
-        "ts": "2:09:37",
-        "endTs": "2:10:28",
-        "retrievedISO": "2026-10-17T01:13:59.013Z"
-      },
-      "body": "County Council Meeting"
-    },
-    {
-      "dateISO": "2026-04-21",
-      "text": "That motion passed with nine ayes.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "iRjah0zHtLw",
-        "ts": "4:48:17",
-        "endTs": "4:48:47",
-        "retrievedISO": "2026-10-17T01:44:37.372Z"
-      },
-      "body": "County Council Budget, Finance, and Economic Development Committee"
-    },
-    {
-      "dateISO": "2026-04-21",
-      "text": "A council member said domestic violence hotline calls doubled after the fires while rents rose.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "iRjah0zHtLw",
-        "ts": "4:37:34",
-        "endTs": "4:38:04",
-        "retrievedISO": "2026-10-17T01:44:37.372Z"
-      },
-      "body": "County Council Budget, Finance, and Economic Development Committee"
-    },
-    {
-      "dateISO": "2026-04-21",
-      "text": "A council member moved $4.5 million in bonds to buy homes to lease to domestic violence victims.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "iRjah0zHtLw",
-        "ts": "4:36:44",
-        "endTs": "4:37:21",
-        "retrievedISO": "2026-10-17T01:44:37.372Z"
-      },
-      "body": "County Council Budget, Finance, and Economic Development Committee"
-    }
-  ],
   "boards": [
     {
       "name": "Maui County Council",
@@ -87,6 +33,63 @@
   ],
   "bills": [
     "Resolution 26-80"
+  ],
+  "timeline": [
+    {
+      "dateISO": "2026-05-01",
+      "text": "Resolution 26-80, lease of county property to Women Helping Women: A motion was made to approve a new county land lease for Women Helping Women at $1 rent, but no vote is heard in the meeting video.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "7eJyblKPm2w",
+        "ts": "2:09:37",
+        "retrievedISO": "2026-10-17T01:13:59.013Z",
+        "endTs": "2:10:28"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "That motion passed with nine ayes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iRjah0zHtLw",
+        "ts": "4:48:17",
+        "retrievedISO": "2026-10-17T01:44:37.372Z",
+        "endTs": "4:48:47"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "A council member said domestic violence hotline calls doubled after the fires while rents rose.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iRjah0zHtLw",
+        "ts": "4:37:34",
+        "retrievedISO": "2026-10-17T01:44:37.372Z",
+        "endTs": "4:38:04"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-21",
+      "text": "A council member moved $4.5 million in bonds to buy homes to lease to domestic violence victims.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iRjah0zHtLw",
+        "ts": "4:36:44",
+        "retrievedISO": "2026-10-17T01:44:37.372Z",
+        "endTs": "4:37:21"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    }
+  ],
+  "sourceTypes": [
+    "meeting"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

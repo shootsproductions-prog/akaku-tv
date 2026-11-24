@@ -273,12 +273,20 @@
     "disposal-of-electric-vehicle-batteries.json",
     "kupuna-service-funding-and-office-on-aging-vacancies.json",
     "recovery-help-for-lahaina-commercial-property-owners.json",
-    "saving-the-spring-house-at-666-front-street.json"
+    "saving-the-spring-house-at-666-front-street.json",
+    "central-maui-transit-hub-construction-and-security.json",
+    "county-housing-project-tracking-website.json",
+    "emergency-shelter-for-lanai.json",
+    "factory-built-housing-rules-for-lahaina-rebuild.json",
+    "finishing-the-lanai-field-house.json",
+    "housing-and-services-for-domestic-violence-survivors.json",
+    "new-transient-accommodations-tax-collection-software.json",
+    "police-department-strategic-plan.json"
   ],
   "aliases": {},
   "defaultFollows": [],
-  "updatedAt": "2026-11-24T01:26:11.645Z",
-  "etag": "79b5ca23a089414cf8c3ab94cb79d6bc5ae32072cbd93d932a6c220ac293f300",
+  "updatedAt": "2026-11-24T01:52:07.458Z",
+  "etag": "526704a6f510152dcd3d8e13df773cd0f7d11b6931b5213806e232d964cc10fa",
   "files": {
     "2027-mass-nominations-for-county-boards.json": {
       "updatedAt": "2026-11-23T10:26:14.288Z",
@@ -1375,6 +1383,38 @@
     "saving-the-spring-house-at-666-front-street.json": {
       "updatedAt": "2026-11-23T10:26:14.288Z",
       "sha256": "c78673c3cb7909d2a41dfeef893debda4e34d1ba4a56ed771a5e176382451722"
+    },
+    "central-maui-transit-hub-construction-and-security.json": {
+      "updatedAt": "2026-11-24T01:52:07.458Z",
+      "sha256": "01f9d4087d1950572c0f168d15d2c6378ec543d1c97c8715e06be43bd9f8757a"
+    },
+    "county-housing-project-tracking-website.json": {
+      "updatedAt": "2026-11-24T01:52:07.458Z",
+      "sha256": "c0acf2b03a452fcaaf43850dae8a13a2d63d98b4503173e5a8693a8e5b9e495e"
+    },
+    "emergency-shelter-for-lanai.json": {
+      "updatedAt": "2026-11-24T01:52:07.458Z",
+      "sha256": "bc9e067781c595b76acadaaf65aac6768ab8e5e51eb205b8440d75057f952675"
+    },
+    "factory-built-housing-rules-for-lahaina-rebuild.json": {
+      "updatedAt": "2026-11-24T01:52:07.458Z",
+      "sha256": "d4b0502ab9b922e4e4bd6e0a0a079bad4f8d24344760957391be0c251c80303f"
+    },
+    "finishing-the-lanai-field-house.json": {
+      "updatedAt": "2026-11-24T01:52:07.458Z",
+      "sha256": "fcf9d562ceb66cbe154fecbd5e8e7d93433f8c80f1afa57ddd880aae20888c5c"
+    },
+    "housing-and-services-for-domestic-violence-survivors.json": {
+      "updatedAt": "2026-11-24T01:52:07.458Z",
+      "sha256": "32421641b5bdddd746c6448a913a6d29b487c1ef1f3b66e98d205d1bb92ce21e"
+    },
+    "new-transient-accommodations-tax-collection-software.json": {
+      "updatedAt": "2026-11-24T01:52:07.458Z",
+      "sha256": "dc435f98ebee2a1dbe75046d3ff88e022f1f285badcffa4a7e50b9911662f915"
+    },
+    "police-department-strategic-plan.json": {
+      "updatedAt": "2026-11-24T01:52:07.458Z",
+      "sha256": "5bc966569c7bb32e65e0b2c6b659ad08faf5e8db3dc38656038f6e9849ccfa64"
     }
   }
 }

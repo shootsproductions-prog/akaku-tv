@@ -17,6 +17,16 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-23",
+  "boards": [
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    }
+  ],
+  "bills": [],
   "timeline": [
     {
       "dateISO": "2026-04-15",
@@ -26,8 +36,8 @@
         "type": "meeting",
         "videoId": "ov8uxTErSC8",
         "ts": "0:40:52",
-        "endTs": "0:41:22",
-        "retrievedISO": "2026-10-17T03:24:30.016Z"
+        "retrievedISO": "2026-10-17T03:24:30.016Z",
+        "endTs": "0:41:22"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
     },
@@ -39,8 +49,8 @@
         "type": "meeting",
         "videoId": "ov8uxTErSC8",
         "ts": "0:40:31",
-        "endTs": "0:41:03",
-        "retrievedISO": "2026-10-17T03:24:30.016Z"
+        "retrievedISO": "2026-10-17T03:24:30.016Z",
+        "endTs": "0:41:03"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
     },
@@ -52,8 +62,8 @@
         "type": "meeting",
         "videoId": "ov8uxTErSC8",
         "ts": "0:38:06",
-        "endTs": "0:38:38",
-        "retrievedISO": "2026-10-17T03:24:30.016Z"
+        "retrievedISO": "2026-10-17T03:24:30.016Z",
+        "endTs": "0:38:38"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
     },
@@ -65,21 +75,14 @@
         "type": "meeting",
         "videoId": "-j6Mg9qbEDg",
         "ts": "0:09:32",
-        "endTs": "0:10:49",
-        "retrievedISO": "2026-10-19T17:41:37.881Z"
+        "retrievedISO": "2026-10-19T17:41:37.881Z",
+        "endTs": "0:10:49"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
     }
   ],
-  "boards": [
-    {
-      "name": "Budget, Finance, and Economic Development Committee",
-      "group": "council",
-      "short": [
-        "BFED"
-      ]
-    }
+  "sourceTypes": [
+    "meeting"
   ],
-  "bills": [],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

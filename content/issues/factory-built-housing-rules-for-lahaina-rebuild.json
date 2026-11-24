@@ -17,6 +17,16 @@
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-23",
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [
+    "Bill 15 (2026)"
+  ],
   "timeline": [
     {
       "dateISO": "2026-02-06",
@@ -26,8 +36,8 @@
         "type": "meeting",
         "videoId": "HSRuDsy799k",
         "ts": "2:32:34",
-        "endTs": "2:33:04",
-        "retrievedISO": "2026-10-17T09:43:58.708Z"
+        "retrievedISO": "2026-10-17T09:43:58.708Z",
+        "endTs": "2:33:04"
       },
       "body": "County Council Meeting"
     },
@@ -39,8 +49,8 @@
         "type": "meeting",
         "videoId": "HSRuDsy799k",
         "ts": "2:26:09",
-        "endTs": "2:26:51",
-        "retrievedISO": "2026-10-17T09:43:58.708Z"
+        "retrievedISO": "2026-10-17T09:43:58.708Z",
+        "endTs": "2:26:51"
       },
       "body": "County Council Meeting"
     },
@@ -52,8 +62,8 @@
         "type": "meeting",
         "videoId": "HSRuDsy799k",
         "ts": "2:23:57",
-        "endTs": "2:25:09",
-        "retrievedISO": "2026-10-17T09:43:58.708Z"
+        "retrievedISO": "2026-10-17T09:43:58.708Z",
+        "endTs": "2:25:09"
       },
       "body": "County Council Meeting"
     },
@@ -65,8 +75,8 @@
         "type": "meeting",
         "videoId": "HSRuDsy799k",
         "ts": "2:23:12",
-        "endTs": "2:23:42",
-        "retrievedISO": "2026-10-17T09:43:58.708Z"
+        "retrievedISO": "2026-10-17T09:43:58.708Z",
+        "endTs": "2:23:42"
       },
       "body": "County Council Meeting"
     },
@@ -78,8 +88,8 @@
         "type": "meeting",
         "videoId": "HSRuDsy799k",
         "ts": "1:26:19",
-        "endTs": "1:26:49",
-        "retrievedISO": "2026-10-17T09:43:58.708Z"
+        "retrievedISO": "2026-10-17T09:43:58.708Z",
+        "endTs": "1:26:49"
       },
       "body": "County Council Meeting"
     },
@@ -91,21 +101,14 @@
         "type": "meeting",
         "videoId": "HSRuDsy799k",
         "ts": "1:08:04",
-        "endTs": "1:08:34",
-        "retrievedISO": "2026-10-17T09:43:58.708Z"
+        "retrievedISO": "2026-10-17T09:43:58.708Z",
+        "endTs": "1:08:34"
       },
       "body": "County Council Meeting"
     }
   ],
-  "boards": [
-    {
-      "name": "Maui County Council",
-      "group": "council",
-      "short": []
-    }
-  ],
-  "bills": [
-    "Bill 15 (2026)"
+  "sourceTypes": [
+    "meeting"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }

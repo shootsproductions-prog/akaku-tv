@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-24T01:26:11.645Z",
-  "count": 274,
+  "updatedAt": "2026-11-24T01:52:07.458Z",
+  "count": 282,
   "issues": [
     {
       "slug": "2027-mass-nominations-for-county-boards",
@@ -60468,6 +60468,667 @@
             "endTs": "1:18:07"
           },
           "body": "County Council Meeting"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "central-maui-transit-hub-construction-and-security",
+      "title": "Central Maui Transit Hub construction and security",
+      "summary": "On April 21, 2026, members added $170,000 for security at the bus hub, with nine ayes. Back in December 2023, the transportation director said he hoped the hub would open early in the new year. He also said it would connect to a planned state mixed-use project next door that is expected to include affordable rental housing.",
+      "topics": [
+        "transportation"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2023-12-14",
+      "lastSeenISO": "2026-04-21",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-23",
+      "boards": [
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        },
+        {
+          "name": "Agriculture, Diversification, Environment, and Public Transportation Committee",
+          "group": "council",
+          "short": [
+            "ADEPT"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-04-21",
+          "text": "Members added $170,000 for security at the bus hub, with nine ayes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "Adpx8IMDk1I",
+            "ts": "0:48:37",
+            "retrievedISO": "2026-10-17T02:22:55.289Z",
+            "endTs": "0:49:08"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-21",
+          "text": "Add $170,000 for security at the bus hub: A vote was called on adding $170,000 for bus hub security, but the result is not in the meeting video.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jIfAqFmxQNg",
+            "ts": "0:43:17",
+            "retrievedISO": "2026-10-17T02:25:28.375Z",
+            "endTs": "0:43:51"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2023-12-14",
+          "text": "The transportation director said he hopes the hub opens early in the new year.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yu60ouC9n3Q",
+            "ts": "1:49:58",
+            "retrievedISO": "2026-10-22T16:07:18.937Z",
+            "endTs": "1:50:29"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2023-12-14",
+          "text": "The director said the new bus hub would connect to the planned state project, which is expected to include affordable rental housing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yu60ouC9n3Q",
+            "ts": "1:45:39",
+            "retrievedISO": "2026-10-22T16:07:18.937Z",
+            "endTs": "1:46:09"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        },
+        {
+          "dateISO": "2023-12-14",
+          "text": "The transportation director said the state is working on a mixed-use project next to the bus hub that would include affordable rental housing.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "yu60ouC9n3Q",
+            "ts": "1:44:44",
+            "retrievedISO": "2026-10-22T16:07:18.937Z",
+            "endTs": "1:45:14"
+          },
+          "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "county-housing-project-tracking-website",
+      "title": "County housing project tracking website",
+      "summary": "The housing department has soft-launched a tracking website listing ongoing housing projects. The director said future databases would track credit transfers and residential workforce housing agreements, and he would work with a council member on a possible bill requiring tracking. A council member said the public should know when the county uses its right to buy back properties.",
+      "topics": [
+        "housing",
+        "government"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2025-02-19",
+      "lastSeenISO": "2025-02-19",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-23",
+      "boards": [
+        {
+          "name": "Housing and Land Use Committee",
+          "group": "council",
+          "short": [
+            "HLU"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2025-02-19",
+          "text": "The Director plans to post a list of all tracked housing projects on the department's website.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "QahAEZG2GF8",
+            "ts": "0:22:15",
+            "retrievedISO": "2026-10-21T16:41:47.383Z",
+            "endTs": "0:22:45"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        },
+        {
+          "dateISO": "2025-02-19",
+          "text": "The Director said a letter to a council member lists 97 housing projects.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "QahAEZG2GF8",
+            "ts": "0:15:19",
+            "retrievedISO": "2026-10-21T16:41:47.383Z",
+            "endTs": "0:15:49"
+          },
+          "body": "County Council Housing and Land Use Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "emergency-shelter-for-lanai",
+      "title": "Emergency shelter for Lānaʻi",
+      "summary": "At an April 15, 2026 meeting, another testifier asked for a community center that could also serve as an emergency shelter. A council member said the military is looking at county land for a category five shelter, like a bunker, and that a new affordable housing project includes a community center open to everyone. A lifetime Lānaʻi resident made a similar call in April 2025.",
+      "topics": [
+        "public-safety",
+        "disaster-recovery"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2025-04-08",
+      "lastSeenISO": "2026-04-15",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-23",
+      "boards": [
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-04-15",
+          "text": "The council member said a new affordable housing project includes a community center open to everyone.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ov8uxTErSC8",
+            "ts": "0:40:52",
+            "retrievedISO": "2026-10-17T03:24:30.016Z",
+            "endTs": "0:41:22"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-15",
+          "text": "A council member said the military is looking at county land for a category five shelter, which is like a bunker.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ov8uxTErSC8",
+            "ts": "0:40:31",
+            "retrievedISO": "2026-10-17T03:24:30.016Z",
+            "endTs": "0:41:03"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-15",
+          "text": "Another testifier asked for a community center that could also serve as an emergency shelter.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ov8uxTErSC8",
+            "ts": "0:38:06",
+            "retrievedISO": "2026-10-17T03:24:30.016Z",
+            "endTs": "0:38:38"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2025-04-08",
+          "text": "A lifetime Lānaʻi resident said the island needs an emergency shelter combined with a community center.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "-j6Mg9qbEDg",
+            "ts": "0:09:32",
+            "retrievedISO": "2026-10-19T17:41:37.881Z",
+            "endTs": "0:10:49"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "factory-built-housing-rules-for-lahaina-rebuild",
+      "title": "Factory-built housing rules for Lahaina rebuild",
+      "summary": "On February 6, 2026, the council took up Bill 15, which sets rules for factory-built housing in the Lahaina burn zone, and amended it. One amendment requires approved factories to be in Hawaiʻi, and another uses county inspectors instead of third-party inspectors. The sponsor said survivors might have to order up to 200 of the same home from an off-island factory, and a testifier said some families won't rebuild unless costs drop and timelines speed up.",
+      "topics": [
+        "housing",
+        "disaster-recovery"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2026-02-06",
+      "lastSeenISO": "2026-02-06",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-23",
+      "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        }
+      ],
+      "bills": [
+        "Bill 15 (2026)"
+      ],
+      "timeline": [
+        {
+          "dateISO": "2026-02-06",
+          "text": "A second amendment uses county inspectors instead of third-party inspectors.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HSRuDsy799k",
+            "ts": "2:32:34",
+            "retrievedISO": "2026-10-17T09:43:58.708Z",
+            "endTs": "2:33:04"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-02-06",
+          "text": "The bill's sponsor said survivors might have to order up to 200 of the same home from an off-island factory.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HSRuDsy799k",
+            "ts": "2:26:09",
+            "retrievedISO": "2026-10-17T09:43:58.708Z",
+            "endTs": "2:26:51"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-02-06",
+          "text": "An amendment to Bill 15 requires the approved factories for these homes to be located in Hawaiʻi.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HSRuDsy799k",
+            "ts": "2:23:57",
+            "retrievedISO": "2026-10-17T09:43:58.708Z",
+            "endTs": "2:25:09"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-02-06",
+          "text": "Bill 15 sets rules for factory-built housing in the Lahaina burn zone.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HSRuDsy799k",
+            "ts": "2:23:12",
+            "retrievedISO": "2026-10-17T09:43:58.708Z",
+            "endTs": "2:23:42"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-02-06",
+          "text": "County Communication 26-3, a proposed amendment to Bill 15: The council postponed County Communication 26-3 until Bill 15 was taken up.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HSRuDsy799k",
+            "ts": "1:26:19",
+            "retrievedISO": "2026-10-17T09:43:58.708Z",
+            "endTs": "1:26:49"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-02-06",
+          "text": "A testifier said some families will not rebuild unless costs drop and timelines speed up.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "HSRuDsy799k",
+            "ts": "1:08:04",
+            "retrievedISO": "2026-10-17T09:43:58.708Z",
+            "endTs": "1:08:34"
+          },
+          "body": "County Council Meeting"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "finishing-the-lanai-field-house",
+      "title": "Finishing the Lānaʻi field house",
+      "summary": "At the April 15 meeting, the chair said she will share the field house sports programs proposal with staff so members can have a copy. The proposal follows a request from a speaker for local coaches, who asked for money to add an extended roof and gutters to the Lānaʻi Field House.",
+      "topics": [
+        "culture"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2026-04-15",
+      "lastSeenISO": "2026-04-15",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-23",
+      "boards": [
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-04-15",
+          "text": "The chair said she will share the field house sports programs proposal with staff so members can have a copy.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ov8uxTErSC8",
+            "ts": "0:05:46",
+            "retrievedISO": "2026-10-17T03:24:30.016Z",
+            "endTs": "0:06:16"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-15",
+          "text": "A speaker for local coaches asked for money to add an extended roof and gutters to the Lānaʻi Field House.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "ov8uxTErSC8",
+            "ts": "0:03:41",
+            "retrievedISO": "2026-10-17T03:24:30.016Z",
+            "endTs": "0:04:29"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "housing-and-services-for-domestic-violence-survivors",
+      "title": "Housing and services for domestic violence survivors",
+      "summary": "On May 1, a motion was made to approve a new county land lease to Women Helping Women at $1 rent under Resolution 26-80, but no vote is heard in the meeting video. On April 21, council passed a motion with nine ayes on a proposal to use $4.5 million in bonds to buy homes to lease to domestic violence victims. A council member noted that hotline calls doubled after the fires while rents rose.",
+      "topics": [
+        "housing",
+        "public-safety"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2026-04-21",
+      "lastSeenISO": "2026-05-01",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-23",
+      "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        },
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [
+        "Resolution 26-80"
+      ],
+      "timeline": [
+        {
+          "dateISO": "2026-05-01",
+          "text": "Resolution 26-80, lease of county property to Women Helping Women: A motion was made to approve a new county land lease for Women Helping Women at $1 rent, but no vote is heard in the meeting video.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "7eJyblKPm2w",
+            "ts": "2:09:37",
+            "retrievedISO": "2026-10-17T01:13:59.013Z",
+            "endTs": "2:10:28"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2026-04-21",
+          "text": "That motion passed with nine ayes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iRjah0zHtLw",
+            "ts": "4:48:17",
+            "retrievedISO": "2026-10-17T01:44:37.372Z",
+            "endTs": "4:48:47"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-21",
+          "text": "A council member said domestic violence hotline calls doubled after the fires while rents rose.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iRjah0zHtLw",
+            "ts": "4:37:34",
+            "retrievedISO": "2026-10-17T01:44:37.372Z",
+            "endTs": "4:38:04"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-04-21",
+          "text": "A council member moved $4.5 million in bonds to buy homes to lease to domestic violence victims.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iRjah0zHtLw",
+            "ts": "4:36:44",
+            "retrievedISO": "2026-10-17T01:44:37.372Z",
+            "endTs": "4:37:21"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "new-transient-accommodations-tax-collection-software",
+      "title": "New transient accommodations tax collection software",
+      "summary": "Finance plans an all-counties meeting with the state Department of Taxation next month. The deputy director said the new software for collecting the transient accommodation tax (TAT), a tax on short-term lodging, is on schedule and a week ahead. It is set to go live in October.",
+      "topics": [
+        "economy",
+        "government"
+      ],
+      "status": "active",
+      "pinned": false,
+      "firstSeenISO": "2026-07-28",
+      "lastSeenISO": "2026-07-28",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-23",
+      "boards": [
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-07-28",
+          "text": "Finance said an all-counties meeting with the state Department of Taxation is planned for next month.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8nj7m33nXeI",
+            "ts": "1:32:20",
+            "retrievedISO": "2026-10-16T16:22:10.673Z",
+            "endTs": "1:32:50"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-07-28",
+          "text": "The new software is set to go live in October.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8nj7m33nXeI",
+            "ts": "1:25:11",
+            "retrievedISO": "2026-10-16T16:22:10.673Z",
+            "endTs": "1:25:41"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-07-28",
+          "text": "The finance deputy director said the new TAT software project is on schedule and a week ahead.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8nj7m33nXeI",
+            "ts": "0:58:20",
+            "retrievedISO": "2026-10-16T16:22:10.673Z",
+            "endTs": "0:58:50"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2026-07-28",
+          "text": "The second item was an update on collecting the transient accommodation tax (TAT, a tax on short-term lodging), with no vote planned.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "8nj7m33nXeI",
+            "ts": "0:57:38",
+            "retrievedISO": "2026-10-16T16:22:10.673Z",
+            "endTs": "0:58:08"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        }
+      ],
+      "sourceTypes": [
+        "meeting"
+      ],
+      "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+    },
+    {
+      "slug": "police-department-strategic-plan",
+      "title": "Police department strategic plan",
+      "summary": "The chief plans to present a strategic plan update in next month's chief's report, according to the most recent meeting on May 20, 2026.",
+      "topics": [
+        "public-safety"
+      ],
+      "status": "quiet",
+      "pinned": false,
+      "firstSeenISO": "2026-05-20",
+      "lastSeenISO": "2026-05-20",
+      "signals": {
+        "meetingsLast30d": 0,
+        "meetingsLast90d": 0,
+        "mentionsLast30d": 0,
+        "upcomingEvent": null
+      },
+      "asOfISO": "2026-11-23",
+      "boards": [
+        {
+          "name": "Police Commission",
+          "group": "board",
+          "short": []
+        }
+      ],
+      "bills": [],
+      "timeline": [
+        {
+          "dateISO": "2026-05-20",
+          "text": "The chief plans a strategic plan update in next month's chief's report.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "7U6qV2DXCW8",
+            "ts": "0:44:55",
+            "retrievedISO": "2026-10-14T06:40:13.308Z",
+            "endTs": "0:45:25"
+          },
+          "body": "Police Commission"
         }
       ],
       "sourceTypes": [
