@@ -38,6 +38,13 @@
       "short": [
         "HLU"
       ]
+    },
+    {
+      "name": "Disaster Recovery, International Affairs, and Planning Committee",
+      "group": "council",
+      "short": [
+        "DRIP"
+      ]
     }
   ],
   "bills": [
@@ -213,6 +220,19 @@
         "endTs": "2:43:30"
       },
       "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2026-02-11",
+      "text": "A speaker said a bill to carry out Act 39, a state law requiring two accessory dwellings per residential lot, goes to planning commissions this month.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ctuYMxLerZk",
+        "ts": "0:25:03",
+        "retrievedISO": "2026-10-17T08:46:31.365Z",
+        "endTs": "0:25:43"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
     },
     {
       "dateISO": "2025-11-07",

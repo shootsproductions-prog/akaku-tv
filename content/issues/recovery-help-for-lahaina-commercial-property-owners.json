@@ -103,6 +103,19 @@
         "endTs": "0:30:59"
       },
       "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-12-05",
+      "text": "A testifier said Lahaina commercial property owners have not been offered recovery grants.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "9jeJ-ObL5IE",
+        "ts": "0:23:12",
+        "retrievedISO": "2026-10-19T11:25:40.856Z",
+        "endTs": "0:24:38"
+      },
+      "body": "County Council Meeting"
     }
   ],
   "sourceTypes": [

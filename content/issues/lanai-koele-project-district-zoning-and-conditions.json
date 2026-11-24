@@ -8,7 +8,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-10-21",
+  "firstSeenISO": "2024-08-27",
   "lastSeenISO": "2026-10-21",
   "signals": {
     "meetingsLast30d": 0,
@@ -24,9 +24,15 @@
       "short": [
         "HLU"
       ]
+    },
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
     }
   ],
   "bills": [
+    "Bill 23 (2024)",
     "Bill 24 (2026)",
     "Bill 25 (2024)"
   ],
@@ -277,6 +283,32 @@
         "endTs": "0:18:21"
       },
       "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2024-08-27",
+      "text": "It passed eight to one.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0hO2MHwFaDE",
+        "ts": "1:16:32",
+        "retrievedISO": "2026-10-21T20:44:34.789Z",
+        "endTs": "1:17:30"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2024-08-27",
+      "text": "A committee report recommended advancing Bill 23, a Lānaʻi Community Plan change.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "0hO2MHwFaDE",
+        "ts": "1:04:49",
+        "retrievedISO": "2026-10-21T20:44:34.789Z",
+        "endTs": "1:05:44"
+      },
+      "body": "County Council Meeting"
     }
   ],
   "sourceTypes": [

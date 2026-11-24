@@ -1,14 +1,14 @@
 {
   "slug": "lanai-fifth-street-affordable-housing-project",
   "title": "Lānaʻi Fifth Street affordable housing project",
-  "summary": "A council member said on April 22 that the Lānaʻi project with the Department of Hawaiian Home Lands (DHHL) would clear the island's housing list. On January 7 the council approved Resolution 26-4, a ground lease for a long-term affordable housing project on Lānaʻi, and filed the older lease resolution it replaced. The developer said a state funding application process starts in February, and land control is a key part of it.",
+  "summary": "In April 2026 a member said the Lānaʻi project with Department of Hawaiian Home Lands (DHHL) would clear the island's housing list. In January 2026 the council voted 9–0 to approve a ground lease for the long-term affordable housing project, and the developer said a state funding application starts in February. The county has set aside money, including $17 million in the budget, for what would be Lānaʻi's first affordable housing project in over 30 years.",
   "topics": [
     "housing",
     "land-use"
   ],
   "status": "quiet",
   "pinned": false,
-  "firstSeenISO": "2026-01-07",
+  "firstSeenISO": "2023-04-25",
   "lastSeenISO": "2026-04-22",
   "signals": {
     "meetingsLast30d": 0,
@@ -100,6 +100,45 @@
         "endTs": "1:12:28"
       },
       "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2023-04-25",
+      "text": "A council member asked that the Lānaʻi study also look at keeping homes owner-occupied for good, and the sponsor agreed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "uel6Nf01Moo",
+        "ts": "0:55:52",
+        "retrievedISO": "2026-10-23T01:27:51.250Z",
+        "endTs": "0:56:43"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2023-04-25",
+      "text": "A council member said Lānaʻi has not had an affordable housing project in 30 years.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "uel6Nf01Moo",
+        "ts": "0:49:05",
+        "retrievedISO": "2026-10-23T01:27:51.250Z",
+        "endTs": "0:49:35"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2023-04-25",
+      "text": "A council member proposed $250,000 for a master plan and feasibility study for Fifth Street in Lānaʻi City.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "uel6Nf01Moo",
+        "ts": "0:48:00",
+        "retrievedISO": "2026-10-23T01:27:51.250Z",
+        "endTs": "0:48:30"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
     }
   ],
   "sourceTypes": [

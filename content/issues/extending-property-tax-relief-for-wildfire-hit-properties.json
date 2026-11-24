@@ -8,7 +8,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2024-09-24",
+  "firstSeenISO": "2024-09-10",
   "lastSeenISO": "2026-08-25",
   "signals": {
     "meetingsLast30d": 0,
@@ -140,6 +140,19 @@
     },
     {
       "dateISO": "2025-12-05",
+      "text": "A council member proposed that people who bought property after the fire not get the exemption.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "9jeJ-ObL5IE",
+        "ts": "0:49:34",
+        "retrievedISO": "2026-10-19T11:25:40.856Z",
+        "endTs": "0:50:04"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-12-05",
       "text": "A testifier said Bill 171 recognizes the ongoing hardship and slow recovery after the August 2023 wildfires.",
       "basis": "said-at-meeting",
       "source": {
@@ -161,6 +174,19 @@
         "ts": "0:20:43",
         "retrievedISO": "2026-10-19T16:24:09.258Z",
         "endTs": "0:21:25"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-12-05",
+      "text": "The Director of Finance asked the council to pass Bill 171, on wildfire property tax relief, without changes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "9jeJ-ObL5IE",
+        "ts": "0:14:02",
+        "retrievedISO": "2026-10-19T11:25:40.856Z",
+        "endTs": "0:14:47"
       },
       "body": "County Council Meeting"
     },
@@ -226,6 +252,32 @@
         "ts": "0:08:13",
         "retrievedISO": "2026-10-21T13:48:47.884Z",
         "endTs": "0:08:43"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2024-09-10",
+      "text": "A finance official said extending wildfire survivor tax relief past fiscal year 25 would need a separate bill.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UWEhCkCFer4",
+        "ts": "1:33:08",
+        "retrievedISO": "2026-10-19T07:46:56.109Z",
+        "endTs": "1:33:46"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2024-09-10",
+      "text": "The finance department said the application deadline for this tax relief is December 31, 2024.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UWEhCkCFer4",
+        "ts": "1:28:05",
+        "retrievedISO": "2026-10-19T07:46:56.109Z",
+        "endTs": "1:28:35"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
     }

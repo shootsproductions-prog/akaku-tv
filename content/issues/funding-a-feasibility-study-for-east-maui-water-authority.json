@@ -1,14 +1,14 @@
 {
   "slug": "funding-a-feasibility-study-for-east-maui-water-authority",
   "title": "Funding a feasibility study for East Maui Water Authority",
-  "summary": "On September 24, 2024, the committee voted eight ayes, with one member excused, to file Bill 122 (2024) and Bill 134 (2024), setting both bills aside. The draft contract tied to the matter was for analysis of a possible purchase of the East Maui irrigation system.",
+  "summary": "On October 11, 2024, the council voted nine to zero to file Bills 122 and 134, which would have spent $250,000 on a feasibility study and business plan for the East Maui Water Authority. The Director of Water Supply opposed using the Water Fund and recommended an engineering study of the East Maui Irrigation (EMI) water system, and the administration is to develop a new study proposal. The money was first added to the budget in 2023.",
   "topics": [
     "water",
     "government"
   ],
   "status": "quiet",
   "pinned": false,
-  "firstSeenISO": "2024-09-24",
+  "firstSeenISO": "2024-08-13",
   "lastSeenISO": "2024-09-24",
   "signals": {
     "meetingsLast30d": 0,
@@ -24,6 +24,11 @@
       "short": [
         "BFED"
       ]
+    },
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
     }
   ],
   "bills": [
@@ -69,6 +74,19 @@
         "endTs": "1:24:26"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2024-08-13",
+      "text": "Bill 122, a budget change for an East Maui Water Authority study, was referred to the budget committee.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "t8zehwxq3_I",
+        "ts": "3:26:05",
+        "retrievedISO": "2026-10-22T02:53:46.712Z",
+        "endTs": "3:26:50"
+      },
+      "body": "County Council Meeting"
     }
   ],
   "sourceTypes": [

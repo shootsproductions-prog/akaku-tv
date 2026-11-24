@@ -9,7 +9,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-04-21",
+  "firstSeenISO": "2025-08-19",
   "lastSeenISO": "2026-10-09",
   "signals": {
     "meetingsLast30d": 0,
@@ -36,6 +36,13 @@
       "group": "council",
       "short": [
         "BFED"
+      ]
+    },
+    {
+      "name": "Government Relations, Ethics, and Transparency Committee",
+      "group": "council",
+      "short": [
+        "GREAT"
       ]
     }
   ],
@@ -677,6 +684,32 @@
         "endTs": "0:16:32"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-08-19",
+      "text": "The report found 4.2% of Maui West adults seriously considered suicide in the past month, up from a baseline of 0.8%.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "VN0Aq0yVnLg",
+        "ts": "0:22:25",
+        "retrievedISO": "2026-10-18T08:04:08.825Z",
+        "endTs": "0:22:55"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2025-08-19",
+      "text": "A member cited a report finding 26% of Maui West participants had moderate to severe anxiety after the wildfires.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "VN0Aq0yVnLg",
+        "ts": "0:20:18",
+        "retrievedISO": "2026-10-18T08:04:08.825Z",
+        "endTs": "0:21:37"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
     }
   ],
   "sourceTypes": [

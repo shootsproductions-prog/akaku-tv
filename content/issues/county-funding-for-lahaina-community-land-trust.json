@@ -1,14 +1,14 @@
 {
   "slug": "county-funding-for-lahaina-community-land-trust",
   "title": "County funding for Lahaina Community Land Trust",
-  "summary": "On April 21, a council member proposed a $6 million grant to the Lahaina Community Land Trust to help wildfire survivors and homeowners with a gap in rebuilding money. She said the trust raised over $9.5 million using the County's first $6 million. Earlier, the council backed using $5 million in managed retreat funds for the trust's land purchases, and Bill 4 would move $5 million from the Open Space Fund.",
+  "summary": "On April 21, a council member proposed a new $6 million grant to the Lahaina Community Land Trust to help wildfire survivors with a rebuilding money gap. She said the trust raised over $9.5 million using the County's first $6 million. Earlier, the council approved $5 million from the Open Space Fund (Bill 4) and a managed retreat allocation, and the trust says it bought 20% of post-fire Lahaina parcel sales.",
   "topics": [
     "housing",
     "disaster-recovery"
   ],
   "status": "quiet",
   "pinned": false,
-  "firstSeenISO": "2025-02-21",
+  "firstSeenISO": "2024-08-19",
   "lastSeenISO": "2026-04-21",
   "signals": {
     "meetingsLast30d": 0,
@@ -27,6 +27,11 @@
     },
     {
       "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    },
+    {
+      "name": "County Council Efficiency Solutions and Circular Systems Committee",
       "group": "council",
       "short": []
     }
@@ -257,6 +262,19 @@
       "body": "County Council Meeting"
     },
     {
+      "dateISO": "2025-04-10",
+      "text": "The Housing Department listed a $3 million grant subsidy for the Lahaina Community Land Trust.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "UvNUu0jri6M",
+        "ts": "0:12:37",
+        "retrievedISO": "2026-10-22T06:22:36.084Z",
+        "endTs": "0:13:07"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
       "dateISO": "2025-02-21",
       "text": "The council approved the exceptions 8-0, with one member excused.",
       "basis": "said-at-meeting",
@@ -424,6 +442,32 @@
         "endTs": "1:45:36"
       },
       "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2024-08-19",
+      "text": "The land trust is discussing internally whether to make an offer on a fourth property.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "-P_2dqdm8Sw",
+        "ts": "0:17:17",
+        "retrievedISO": "2026-10-21T16:44:14.972Z",
+        "endTs": "0:17:47"
+      },
+      "body": "County Council Efficiency Solutions and Circular Systems Committee"
+    },
+    {
+      "dateISO": "2024-08-19",
+      "text": "The testifier said the land trust made three offers, and one was accepted.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "-P_2dqdm8Sw",
+        "ts": "0:17:03",
+        "retrievedISO": "2026-10-21T16:44:14.972Z",
+        "endTs": "0:17:33"
+      },
+      "body": "County Council Efficiency Solutions and Circular Systems Committee"
     }
   ],
   "sourceTypes": [

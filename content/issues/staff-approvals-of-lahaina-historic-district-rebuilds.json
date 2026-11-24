@@ -9,7 +9,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-08-06",
+  "firstSeenISO": "2026-03-10",
   "lastSeenISO": "2026-10-12",
   "signals": {
     "meetingsLast30d": 0,
@@ -23,6 +23,13 @@
       "name": "Cultural Resources Commission",
       "group": "board",
       "short": []
+    },
+    {
+      "name": "Government Relations, Ethics, and Transparency Committee",
+      "group": "council",
+      "short": [
+        "GREAT"
+      ]
     }
   ],
   "bills": [],
@@ -154,6 +161,32 @@
         "endTs": "2:54:32"
       },
       "body": "Cultural Resources Commission"
+    },
+    {
+      "dateISO": "2026-03-10",
+      "text": "The nominee said projects outside what was there before will still go to the commission.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TkHgEq0mPU4",
+        "ts": "0:38:03",
+        "retrievedISO": "2026-10-17T07:05:38.684Z",
+        "endTs": "0:38:33"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2026-03-10",
+      "text": "Historic district permits that would have gone to the Cultural Resources Commission can now be approved by staff.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TkHgEq0mPU4",
+        "ts": "0:37:42",
+        "retrievedISO": "2026-10-17T07:05:38.684Z",
+        "endTs": "0:38:14"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
     }
   ],
   "sourceTypes": [

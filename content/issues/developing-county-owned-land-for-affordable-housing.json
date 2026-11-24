@@ -8,7 +8,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2025-04-07",
+  "firstSeenISO": "2024-10-09",
   "lastSeenISO": "2026-06-15",
   "signals": {
     "meetingsLast30d": 0,
@@ -30,6 +30,13 @@
       "group": "council",
       "short": [
         "BFED"
+      ]
+    },
+    {
+      "name": "Housing and Land Use Committee",
+      "group": "council",
+      "short": [
+        "HLU"
       ]
     }
   ],
@@ -125,6 +132,45 @@
         "endTs": "2:18:11"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2024-10-09",
+      "text": "The housing director said he will provide in writing the zoning and estimated entitlement timing for the plan's parcels.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3bSmU4_SmWE",
+        "ts": "1:50:35",
+        "retrievedISO": "2026-10-21T20:05:03.969Z",
+        "endTs": "1:51:14"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2024-10-09",
+      "text": "He said his department is updating its list of county land for housing, including parking lots.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3bSmU4_SmWE",
+        "ts": "0:19:08",
+        "retrievedISO": "2026-10-21T20:05:03.969Z",
+        "endTs": "0:19:39"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2024-10-09",
+      "text": "He said developing county parcels named in the plan would yield about 1,300 affordable units.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3bSmU4_SmWE",
+        "ts": "0:12:54",
+        "retrievedISO": "2026-10-21T20:05:03.969Z",
+        "endTs": "0:13:39"
+      },
+      "body": "County Council Housing and Land Use Committee"
     }
   ],
   "sourceTypes": [

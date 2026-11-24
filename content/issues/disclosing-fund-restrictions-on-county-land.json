@@ -1,14 +1,14 @@
 {
   "slug": "disclosing-fund-restrictions-on-county-land",
   "title": "Disclosing fund restrictions on county land",
-  "summary": "On July 28, a motion to recommend passing Bill 81 (2025) on first reading carried with nine ayes. The bill would require the County to disclose fund restrictions when it budgets money to develop County-owned land. The administration had no objection to providing the extra information.",
+  "summary": "On July 28, 2026, a committee voted 9–0 to recommend passing Bill 81 (2025) on first reading. It would require the County to disclose fund restrictions when budgeting money to develop County-owned land. The administration had no objection.",
   "topics": [
     "land-use",
     "government"
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-05-01",
+  "firstSeenISO": "2025-04-01",
   "lastSeenISO": "2026-07-28",
   "signals": {
     "meetingsLast30d": 0,
@@ -32,6 +32,7 @@
     }
   ],
   "bills": [
+    "Bill 33 (2025)",
     "Bill 81 (2025)",
     "Bill 81 (2026)"
   ],
@@ -152,6 +153,58 @@
         "endTs": "1:20:40"
       },
       "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-04-01",
+      "text": "The chair said Bill 33 started the conversation.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "w08yuwxn_UI",
+        "ts": "1:49:39",
+        "retrievedISO": "2026-10-21T22:26:57.691Z",
+        "endTs": "1:50:09"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-04-01",
+      "text": "The chair said using open space land for housing without repaying the fund is wrong.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "w08yuwxn_UI",
+        "ts": "1:49:25",
+        "retrievedISO": "2026-10-21T22:26:57.691Z",
+        "endTs": "1:49:55"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-04-01",
+      "text": "The chair said she will develop an ordinance so this does not happen again.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "w08yuwxn_UI",
+        "ts": "1:48:40",
+        "retrievedISO": "2026-10-21T22:26:57.691Z",
+        "endTs": "1:49:10"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-04-01",
+      "text": "The committee chair said land bought or given for open space must repay the open space fund before being used for housing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "w08yuwxn_UI",
+        "ts": "1:48:29",
+        "retrievedISO": "2026-10-21T22:26:57.691Z",
+        "endTs": "1:48:59"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
     }
   ],
   "sourceTypes": [

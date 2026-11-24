@@ -8,7 +8,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2025-03-11",
+  "firstSeenISO": "2025-02-19",
   "lastSeenISO": "2026-10-20",
   "signals": {
     "meetingsLast30d": 0,
@@ -35,6 +35,13 @@
       "group": "council",
       "short": [
         "DRIP"
+      ]
+    },
+    {
+      "name": "Housing and Land Use Committee",
+      "group": "council",
+      "short": [
+        "HLU"
       ]
     }
   ],
@@ -467,6 +474,32 @@
         "endTs": "0:09:17"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-02-19",
+      "text": "A council member said the Office of Recovery plans to invest the most of that money on housing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "QahAEZG2GF8",
+        "ts": "1:24:19",
+        "retrievedISO": "2026-10-21T16:41:47.383Z",
+        "endTs": "1:24:49"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2025-02-19",
+      "text": "A council member said federal disaster recovery money could total about $1.1 billion if received, with the Office of Recovery taking the lead.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "QahAEZG2GF8",
+        "ts": "1:24:02",
+        "retrievedISO": "2026-10-21T16:41:47.383Z",
+        "endTs": "1:24:34"
+      },
+      "body": "County Council Housing and Land Use Committee"
     }
   ],
   "sourceTypes": [

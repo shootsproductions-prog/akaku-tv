@@ -8,7 +8,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-07-01",
+  "firstSeenISO": "2025-04-01",
   "lastSeenISO": "2026-10-08",
   "signals": {
     "meetingsLast30d": 0,
@@ -27,6 +27,13 @@
       "name": "Kōmike Aloha ʻĀina",
       "group": "council",
       "short": []
+    },
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
     }
   ],
   "bills": [],
@@ -342,6 +349,32 @@
         "endTs": "0:16:04"
       },
       "body": "Civil Service Commission"
+    },
+    {
+      "dateISO": "2025-04-01",
+      "text": "The Personnel Services director said the County has 667 vacancies.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "w08yuwxn_UI",
+        "ts": "2:33:33",
+        "retrievedISO": "2026-10-21T22:26:57.691Z",
+        "endTs": "2:34:03"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-04-01",
+      "text": "That includes $300,000 for a consultant to review the department's rules.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "w08yuwxn_UI",
+        "ts": "0:14:12",
+        "retrievedISO": "2026-10-21T22:26:57.691Z",
+        "endTs": "0:14:46"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
     }
   ],
   "sourceTypes": [

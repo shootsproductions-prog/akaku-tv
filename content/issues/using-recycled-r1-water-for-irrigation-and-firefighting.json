@@ -1,14 +1,14 @@
 {
   "slug": "using-recycled-r1-water-for-irrigation-and-firefighting",
   "title": "Using recycled R1 water for irrigation and firefighting",
-  "summary": "At the latest meeting, a council member said reclaimed water use fell from 5 million to about 3 million gallons a day after the fire, and the County needs to build pipes to deliver it. The council voted 9 to 0 on October 25, 2024 to adopt the resolution urging more R1 recycled water to save drinking water for housing. The amended version asks the administration to invest in R1 production at the Kahului, Molokaʻi and Lānaʻi plants.",
+  "summary": "On September 30, 2026, a member said reclaimed water use fell from 5 million to about 3 million gallons a day after the fire. The County wants all its reclaimed water used for irrigation, and a council member said it must build pipes to deliver it. In March, the Kāʻanapali Resort R1 distribution system was 80 percent built, expected to use 200,000 to 300,000 gallons a day.",
   "topics": [
     "water",
     "environment"
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2024-10-10",
+  "firstSeenISO": "2023-02-21",
   "lastSeenISO": "2026-09-30",
   "signals": {
     "meetingsLast30d": 0,
@@ -37,6 +37,13 @@
       "group": "council",
       "short": [
         "WAI"
+      ]
+    },
+    {
+      "name": "Government Relations, Ethics, and Transparency Committee",
+      "group": "council",
+      "short": [
+        "GREAT"
       ]
     }
   ],
@@ -290,6 +297,32 @@
         "endTs": "0:05:57"
       },
       "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2023-02-21",
+      "text": "He said every gallon of R1 (treated wastewater) that is reused saves a gallon of drinking water.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "qHMzbZ6lfFQ",
+        "ts": "0:33:09",
+        "retrievedISO": "2026-10-23T05:07:42.341Z",
+        "endTs": "0:33:39"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2023-02-21",
+      "text": "The nominee said reusing treated wastewater can save drinking water.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "qHMzbZ6lfFQ",
+        "ts": "0:09:30",
+        "retrievedISO": "2026-10-23T05:07:42.341Z",
+        "endTs": "0:10:00"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
     }
   ],
   "sourceTypes": [

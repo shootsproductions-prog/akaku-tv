@@ -8,7 +8,7 @@
   "status": "quiet",
   "pinned": false,
   "firstSeenISO": "2024-12-04",
-  "lastSeenISO": "2024-12-04",
+  "lastSeenISO": "2025-02-13",
   "signals": {
     "meetingsLast30d": 0,
     "meetingsLast90d": 0,
@@ -18,6 +18,13 @@
   "asOfISO": "2026-11-23",
   "boards": [
     {
+      "name": "Government Relations, Ethics, and Transparency Committee",
+      "group": "council",
+      "short": [
+        "GREAT"
+      ]
+    },
+    {
       "name": "Independent Nomination Board",
       "group": "board",
       "short": []
@@ -25,6 +32,19 @@
   ],
   "bills": [],
   "timeline": [
+    {
+      "dateISO": "2025-02-13",
+      "text": "Members were told an ordinance is being drafted so empty seats would not have to wait to be filled.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "i1memqu-3o0",
+        "ts": "3:55:45",
+        "retrievedISO": "2026-10-22T02:48:44.683Z",
+        "endTs": "3:56:27"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
     {
       "dateISO": "2024-12-04",
       "text": "Staff said all council members supported the proposal.",

@@ -1,7 +1,7 @@
 {
   "slug": "kihei-former-institute-property-housing-redevelopment",
   "title": "Kīhei former institute property housing redevelopment",
-  "summary": "The county is now choosing a developer to receive a sublease to redevelop the interim housing property, after the housing department issued an RFP in March. County money would keep the interim program, which first housed wildfire survivors, running through February of next year. In 2024, the state bought the Kīhei former hotel for $45 million to become teacher housing, workforce rentals and pre-kindergarten classrooms.",
+  "summary": "The county has issued an RFP in March to pick a developer who will get a sublease to redevelop the Kīhei interim housing property, with proposals due May 4, 2026. County money would keep the interim program, which first housed wildfire survivors, running through February of next year. The state-bought former hotel is under a 75-year county ground lease beginning May 2025, and the state expected to start collecting rent in March 2026.",
   "topics": [
     "housing"
   ],
@@ -22,6 +22,13 @@
       "group": "council",
       "short": [
         "BFED"
+      ]
+    },
+    {
+      "name": "Housing and Land Use Committee",
+      "group": "council",
+      "short": [
+        "HLU"
       ]
     }
   ],
@@ -78,6 +85,45 @@
         "endTs": "2:56:56"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-04-11",
+      "text": "He said he cannot commit the county to paying for the state's program.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "VTv3fGzkpOA",
+        "ts": "2:13:18",
+        "retrievedISO": "2026-10-21T13:02:08.450Z",
+        "endTs": "2:13:48"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-04-11",
+      "text": "The director proposed taking over a state housing site's ground lease on May 31, if the state ends its program by August 2028 and pays for it.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "VTv3fGzkpOA",
+        "ts": "2:12:35",
+        "retrievedISO": "2026-10-21T13:02:08.450Z",
+        "endTs": "2:13:13"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2024-10-09",
+      "text": "He said the county got an extension to seek proposals to redevelop a former institute building.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3bSmU4_SmWE",
+        "ts": "2:28:27",
+        "retrievedISO": "2026-10-21T20:05:03.969Z",
+        "endTs": "2:29:11"
+      },
+      "body": "County Council Housing and Land Use Committee"
     },
     {
       "dateISO": "2024-03-05",

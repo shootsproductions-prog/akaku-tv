@@ -1,14 +1,14 @@
 {
   "slug": "lower-waiehu-beach-road-land-purchase-and-title-dispute",
   "title": "Lower Waiehu Beach Road land purchase and title dispute",
-  "summary": "On June 5, the council voted 9–0 to file, or set aside, Bill 102, which would have funded the County's purchase of a Wailuku property. Before that, on May 19, the chair said the church may put the land on the open market if the County does not act. A council member's office was also to contact the family before first reading.",
+  "summary": "On June 5, a council member moved to file Bill 102, which would have added $500,000 to buy land on Lower Waiehu Beach Road in Wailuku, and the motion passed 9–0. Family members had asked in May to defer the bill, and the chair said the church may sell on the open market if the County does not act. Testifiers have disputed whether the church holds clear title.",
   "topics": [
     "land-use",
     "culture"
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-05-19",
+  "firstSeenISO": "2025-02-18",
   "lastSeenISO": "2026-06-05",
   "signals": {
     "meetingsLast30d": 0,
@@ -84,6 +84,32 @@
         "ts": "2:06:06",
         "retrievedISO": "2026-10-17T00:26:25.587Z",
         "endTs": "2:07:00"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-02-18",
+      "text": "A testifier said the church selling the land has no title.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5YSnnPQctbk",
+        "ts": "2:22:03",
+        "retrievedISO": "2026-10-21T20:02:47.698Z",
+        "endTs": "2:22:33"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-02-18",
+      "text": "The administration wants to buy that land and keep it as open space.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5YSnnPQctbk",
+        "ts": "2:21:16",
+        "retrievedISO": "2026-10-21T20:02:47.698Z",
+        "endTs": "2:21:46"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
     }

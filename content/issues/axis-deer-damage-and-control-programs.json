@@ -1,14 +1,14 @@
 {
   "slug": "axis-deer-damage-and-control-programs",
   "title": "Axis deer damage and control programs",
-  "summary": "Maui ranchers say deer are hurting agriculture on the island. A ranching group leader said ranchers have cut their herds by more than 50 percent because deer compete with cattle for grass. Local calves are now kept and processed on Maui to feed residents.",
+  "summary": "At the April 2026 meeting, a ranching group leader said Maui ranchers have cut herds by over 50 percent because deer compete for grass, and a testifier asked for county support for farmers and ranchers. In 2025, a researcher said the axis deer herd grows over 20% a year and removing 30% a year would begin shrinking it. A deer and feral animal grant was set at $2.5 million, with up to $100,000 per grantee.",
   "topics": [
     "food-security",
     "environment"
   ],
   "status": "quiet",
   "pinned": false,
-  "firstSeenISO": "2026-04-01",
+  "firstSeenISO": "2025-04-08",
   "lastSeenISO": "2026-04-01",
   "signals": {
     "meetingsLast30d": 0,
@@ -64,6 +64,19 @@
         "ts": "1:29:23",
         "retrievedISO": "2026-10-17T05:09:02.315Z",
         "endTs": "1:29:54"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-04-08",
+      "text": "A culture center leader said its hunting program has removed over 3,400 invasive hoofed animals like deer.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "-j6Mg9qbEDg",
+        "ts": "0:50:38",
+        "retrievedISO": "2026-10-19T17:41:37.881Z",
+        "endTs": "0:51:28"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
     }

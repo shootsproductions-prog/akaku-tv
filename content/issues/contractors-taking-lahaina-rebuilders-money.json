@@ -9,7 +9,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-04-14",
+  "firstSeenISO": "2026-02-06",
   "lastSeenISO": "2026-10-23",
   "signals": {
     "meetingsLast30d": 0,
@@ -124,6 +124,19 @@
         "endTs": "2:06:58"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-02-06",
+      "text": "A testifier said some contractors are taking hundreds of thousands of dollars from families and not rebuilding.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HSRuDsy799k",
+        "ts": "1:10:07",
+        "retrievedISO": "2026-10-17T09:43:58.708Z",
+        "endTs": "1:10:37"
+      },
+      "body": "County Council Meeting"
     }
   ],
   "sourceTypes": [

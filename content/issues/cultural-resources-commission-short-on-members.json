@@ -1,7 +1,7 @@
 {
   "slug": "cultural-resources-commission-short-on-members",
   "title": "Cultural Resources Commission short on members",
-  "summary": "The county's boards and commissions liaison said in early August that she believes no one is currently on the applicant list for this commission. A July 2 meeting ended for lack of a quorum before the director's report could be given.",
+  "summary": "The county's boards and commissions liaison said in August she thinks no one is currently on the applicant list for the Cultural Resources Commission. The commission's July 2 meeting ended for lack of a quorum. Members have said since early 2025 that only five of nine seats are filled and that quorum is often missed, even as the commission has a heavy role in the Lahaina historic district rebuild.",
   "topics": [
     "government",
     "culture",
@@ -9,7 +9,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-07-02",
+  "firstSeenISO": "2025-02-13",
   "lastSeenISO": "2026-08-06",
   "signals": {
     "meetingsLast30d": 0,
@@ -28,6 +28,13 @@
       "name": "Maui Cultural Resources Commission",
       "group": "board",
       "short": []
+    },
+    {
+      "name": "Government Relations, Ethics, and Transparency Committee",
+      "group": "council",
+      "short": [
+        "GREAT"
+      ]
     }
   ],
   "bills": [],
@@ -57,6 +64,19 @@
         "endTs": "4:21:20"
       },
       "body": "Maui Cultural Resources Commission"
+    },
+    {
+      "dateISO": "2025-02-13",
+      "text": "The vice chair said the commission is not making quorum for many meetings while a whole historic district hopes to be rebuilt.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "i1memqu-3o0",
+        "ts": "3:30:42",
+        "retrievedISO": "2026-10-22T02:48:44.683Z",
+        "endTs": "3:31:12"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
     }
   ],
   "sourceTypes": [

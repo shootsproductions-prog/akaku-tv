@@ -31,6 +31,13 @@
       "name": "Maui County Council",
       "group": "council",
       "short": []
+    },
+    {
+      "name": "Housing and Land Use Committee",
+      "group": "council",
+      "short": [
+        "HLU"
+      ]
     }
   ],
   "bills": [
@@ -158,6 +165,19 @@
         "endTs": "1:05:50"
       },
       "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2024-10-09",
+      "text": "Committee staff said they are waiting for the Planning Department to answer questions about Bill 105.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3bSmU4_SmWE",
+        "ts": "2:47:38",
+        "retrievedISO": "2026-10-21T20:05:03.969Z",
+        "endTs": "2:48:08"
+      },
+      "body": "County Council Housing and Land Use Committee"
     },
     {
       "dateISO": "2024-07-19",
