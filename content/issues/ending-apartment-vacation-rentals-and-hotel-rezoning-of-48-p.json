@@ -14,18 +14,9 @@
     "meetingsLast30d": 2,
     "meetingsLast90d": 10,
     "mentionsLast30d": 2,
-    "upcomingEvent": {
-      "dateISO": "2026-11-24",
-      "what": "Commission must report to the council",
-      "source": {
-        "type": "meeting",
-        "videoId": "bNmkTTI2aL0",
-        "ts": "0:16:23",
-        "retrievedISO": "2026-10-07T23:03:49.316Z"
-      }
-    }
+    "upcomingEvent": null
   },
-  "asOfISO": "2026-11-23",
+  "asOfISO": "2026-11-24",
   "boards": [
     {
       "name": "Housing and Land Use Committee",
