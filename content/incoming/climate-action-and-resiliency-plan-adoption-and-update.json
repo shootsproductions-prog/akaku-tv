@@ -1,0 +1,45 @@
+{
+  "slug": "climate-action-and-resiliency-plan-adoption-and-update",
+  "title": "Climate Action and Resiliency Plan adoption and update",
+  "summary": "A council member said on December 5, 2024, that a climate action plan the Council takes up the next day overlaps with this work.",
+  "topics": [
+    "environment"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2024-12-05",
+  "lastSeenISO": "2024-12-05",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-25",
+  "timeline": [
+    {
+      "dateISO": "2024-12-05",
+      "text": "A council member said a climate action plan the Council takes up the next day overlaps with this work.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "wbG87dJJHcQ",
+        "ts": "1:02:00",
+        "endTs": "1:03:01",
+        "retrievedISO": "2026-10-19T08:22:29.696Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Agriculture, Diversification, Environment, and Public Transportation Committee",
+      "group": "council",
+      "short": [
+        "ADEPT"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

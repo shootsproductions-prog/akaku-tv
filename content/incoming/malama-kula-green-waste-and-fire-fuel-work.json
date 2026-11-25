@@ -1,0 +1,236 @@
+{
+  "slug": "malama-kula-green-waste-and-fire-fuel-work",
+  "title": "Mālama Kula green waste and fire fuel work",
+  "summary": "As of April 2026, the director says Mālama Kula, founded after the 2023 Kula fire, has removed nearly 2 million pounds of dead and downed trees. In December 2024, the group's Kula green waste bins had removed over 950 cubic yards, and its leader said $250,000 would fund a year of the program, or $300,000 at aspirational levels. The County planned to finalize its own bin contract in January 2025, gather data, then seek budget support for an in-house program.",
+  "topics": [
+    "public-safety",
+    "environment",
+    "disaster-recovery"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2024-12-05",
+  "lastSeenISO": "2026-04-01",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-25",
+  "timeline": [
+    {
+      "dateISO": "2026-04-01",
+      "text": "The director said the group has removed nearly 2 million pounds of dead and downed trees.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "-YeXuiAzmiU",
+        "ts": "1:37:42",
+        "endTs": "1:38:12",
+        "retrievedISO": "2026-10-17T05:09:02.315Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-01",
+      "text": "The director said Mālama Kula was founded after the 2023 Kula fire.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "-YeXuiAzmiU",
+        "ts": "1:37:24",
+        "endTs": "1:37:54",
+        "retrievedISO": "2026-10-17T05:09:02.315Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2024-12-05",
+      "text": "A council member said preventing damage to a main line costs far less than recovering from it.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "wbG87dJJHcQ",
+        "ts": "1:06:14",
+        "endTs": "1:06:44",
+        "retrievedISO": "2026-10-19T08:22:29.696Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+    },
+    {
+      "dateISO": "2024-12-05",
+      "text": "Large tree trunks in a Kula gulch lie near the upper Kula water transmission line, the Mālama Kula leader said.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "wbG87dJJHcQ",
+        "ts": "1:05:34",
+        "endTs": "1:06:04",
+        "retrievedISO": "2026-10-19T08:22:29.696Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+    },
+    {
+      "dateISO": "2024-12-05",
+      "text": "The leader said gulches full of debris can wash out culverts and bridges in a flood.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "wbG87dJJHcQ",
+        "ts": "1:05:23",
+        "endTs": "1:05:53",
+        "retrievedISO": "2026-10-19T08:22:29.696Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+    },
+    {
+      "dateISO": "2024-12-05",
+      "text": "The leader said $300,000 a year would fund the green waste and wood chip program at aspirational levels.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "wbG87dJJHcQ",
+        "ts": "0:54:45",
+        "endTs": "0:55:19",
+        "retrievedISO": "2026-10-19T08:22:29.696Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+    },
+    {
+      "dateISO": "2024-12-05",
+      "text": "Asked for a budget figure, the leader said $250,000 would cover a year and $300,000 would fund the program at aspirational levels.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "wbG87dJJHcQ",
+        "ts": "0:54:05",
+        "endTs": "0:55:19",
+        "retrievedISO": "2026-10-19T08:22:29.696Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+    },
+    {
+      "dateISO": "2024-12-05",
+      "text": "The director said the County will gather data from the contracted bin program and then seek budget support for an in-house program.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "wbG87dJJHcQ",
+        "ts": "0:38:24",
+        "endTs": "0:38:54",
+        "retrievedISO": "2026-10-19T08:22:29.696Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+    },
+    {
+      "dateISO": "2024-12-05",
+      "text": "The director said the County's own green waste bin contract should be finalized in January 2025.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "wbG87dJJHcQ",
+        "ts": "0:38:15",
+        "endTs": "0:38:45",
+        "retrievedISO": "2026-10-19T08:22:29.696Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+    },
+    {
+      "dateISO": "2024-12-05",
+      "text": "The leader said Kula is overgrown and is a sitting duck to be Hawaiʻi's next preventable mega fire.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "wbG87dJJHcQ",
+        "ts": "0:30:13",
+        "endTs": "0:30:43",
+        "retrievedISO": "2026-10-19T08:22:29.696Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+    },
+    {
+      "dateISO": "2024-12-05",
+      "text": "The group has covered about five and a half acres of burned soil with wood chips.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "wbG87dJJHcQ",
+        "ts": "0:23:37",
+        "endTs": "0:24:07",
+        "retrievedISO": "2026-10-19T08:22:29.696Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+    },
+    {
+      "dateISO": "2024-12-05",
+      "text": "The group's green waste bins in Kula have removed over 950 cubic yards of green waste.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "wbG87dJJHcQ",
+        "ts": "0:20:23",
+        "endTs": "0:20:53",
+        "retrievedISO": "2026-10-19T08:22:29.696Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+    },
+    {
+      "dateISO": "2024-12-05",
+      "text": "The leader cited a 2016 community wildfire plan where 82% of respondents named vegetative fuels management as their top priority.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "wbG87dJJHcQ",
+        "ts": "0:14:28",
+        "endTs": "0:15:30",
+        "retrievedISO": "2026-10-19T08:22:29.696Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+    },
+    {
+      "dateISO": "2024-12-05",
+      "text": "Designate the Mālama Kula leader as a resource person under Council rule 18A: The committee agreed, with no objections, to name the Mālama Kula leader a resource person for this item.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "wbG87dJJHcQ",
+        "ts": "0:05:02",
+        "endTs": "0:05:39",
+        "retrievedISO": "2026-10-19T08:22:29.696Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+    },
+    {
+      "dateISO": "2024-12-05",
+      "text": "The committee's only item was an informational item on resilient landscapes and sustainable fuel management.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "wbG87dJJHcQ",
+        "ts": "0:03:16",
+        "endTs": "0:03:46",
+        "retrievedISO": "2026-10-19T08:22:29.696Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    },
+    {
+      "name": "Agriculture, Diversification, Environment, and Public Transportation Committee",
+      "group": "council",
+      "short": [
+        "ADEPT"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
