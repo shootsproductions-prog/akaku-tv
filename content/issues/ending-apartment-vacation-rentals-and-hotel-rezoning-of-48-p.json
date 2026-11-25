@@ -14,7 +14,16 @@
     "meetingsLast30d": 2,
     "meetingsLast90d": 10,
     "mentionsLast30d": 2,
-    "upcomingEvent": null
+    "upcomingEvent": {
+      "dateISO": "2028-12-31",
+      "what": "Bill 9 ends vacation rentals in West Maui apartment districts",
+      "source": {
+        "type": "meeting",
+        "videoId": "bNmkTTI2aL0",
+        "ts": "0:06:09",
+        "retrievedISO": "2026-10-07T23:03:49.316Z"
+      }
+    }
   },
   "asOfISO": "2026-11-24",
   "boards": [
