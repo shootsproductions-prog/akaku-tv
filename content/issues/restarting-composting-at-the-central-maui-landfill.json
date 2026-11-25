@@ -1,7 +1,7 @@
 {
   "slug": "restarting-composting-at-the-central-maui-landfill",
   "title": "Restarting composting at the Central Maui Landfill",
-  "summary": "Composting at Central Maui Landfill could restart in about six months rather than a year, a county recycling official said on December 14, 2023. A county environmental management official said restarting county composting could supply local compost and reduce the need for off-island product.",
+  "summary": "As of March 2026, the department says it expects to submit a permit for its compost program shortly. It calls keeping green waste out of the landfill a priority, and it needs green waste to mix with sewage sludge so the sludge can be landfilled. Composting stopped in 2023 for lack of space, and a $200,000 state grant now pays to haul Central Maui green waste to the landfill for compost.",
   "topics": [
     "environment",
     "food-security"
@@ -9,7 +9,7 @@
   "status": "quiet",
   "pinned": false,
   "firstSeenISO": "2023-12-14",
-  "lastSeenISO": "2023-12-14",
+  "lastSeenISO": "2026-03-09",
   "signals": {
     "meetingsLast30d": 0,
     "meetingsLast90d": 0,
@@ -18,6 +18,13 @@
   },
   "asOfISO": "2026-11-25",
   "boards": [
+    {
+      "name": "Water and Infrastructure Committee",
+      "group": "council",
+      "short": [
+        "WAI"
+      ]
+    },
     {
       "name": "Agriculture, Diversification, Environment, and Public Transportation Committee",
       "group": "council",
@@ -28,6 +35,45 @@
   ],
   "bills": [],
   "timeline": [
+    {
+      "dateISO": "2026-03-09",
+      "text": "The department said the green waste it receives is needed to mix with sewage sludge so the sludge can be landfilled.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "zDzOGWp2_ms",
+        "ts": "1:21:12",
+        "retrievedISO": "2026-10-17T07:43:32.185Z",
+        "endTs": "1:22:05"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-03-09",
+      "text": "The department said keeping green waste out of the landfill is a priority.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "zDzOGWp2_ms",
+        "ts": "0:43:42",
+        "retrievedISO": "2026-10-17T07:43:32.185Z",
+        "endTs": "0:44:12"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-03-09",
+      "text": "The department is looking to submit a permit for its compost program shortly.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "zDzOGWp2_ms",
+        "ts": "0:43:15",
+        "retrievedISO": "2026-10-17T07:43:32.185Z",
+        "endTs": "0:43:45"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
     {
       "dateISO": "2023-12-14",
       "text": "A county recycling official said composting at Central Maui Landfill could restart in about six months, not a year.",

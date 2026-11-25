@@ -1,14 +1,14 @@
 {
   "slug": "temporary-and-permanent-lahaina-wildfire-debris-disposal-sit",
   "title": "Temporary and permanent Lahaina wildfire debris disposal sites",
-  "summary": "On April 16, 2026, the department said fees paid by the Army Corps covered the cost of hauling fire debris to the landfill, and it will get the exact hauling cost for the council. Permanent hauling in West Maui began in June 2025, at about 50 truck round trips a day. A budget bill moved $8 million for the permanent disposal site to construction to cover higher costs.",
+  "summary": "On April 16, 2026, the department said fees paid by the Army Corps covered the cost of hauling fire debris to the landfill, and it will get the exact cost for the council. Hauling to the permanent Central Maui site was set to begin June 16, 2025, with up to 50 trucks making four trips daily. The site's two building phases cost about $5.2 million and $14.4 million.",
   "topics": [
     "disaster-recovery",
     "environment"
   ],
   "status": "quiet",
   "pinned": false,
-  "firstSeenISO": "2024-03-05",
+  "firstSeenISO": "2023-11-27",
   "lastSeenISO": "2026-04-16",
   "signals": {
     "meetingsLast30d": 0,
@@ -29,10 +29,19 @@
       "name": "Maui County Council",
       "group": "council",
       "short": []
+    },
+    {
+      "name": "Water and Infrastructure Committee",
+      "group": "council",
+      "short": [
+        "WAI"
+      ]
     }
   ],
   "bills": [
-    "Bill 40 (2024)"
+    "Bill 40 (2024)",
+    "Bill 120 (2023)",
+    "Bill 2023 (2023)"
   ],
   "timeline": [
     {
@@ -294,6 +303,136 @@
         "endTs": "3:52:13"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2023-11-27",
+      "text": "Recommend passage of Bill 120, 2023 on first reading: The committee recommended passing Bill 120 on first reading.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PTqRX2LQMh4",
+        "ts": "2:26:43",
+        "retrievedISO": "2026-10-22T17:46:01.564Z",
+        "endTs": "2:27:50"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2023-11-27",
+      "text": "The director said a memorial at the site is not part of the $65 million cost.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PTqRX2LQMh4",
+        "ts": "2:22:50",
+        "retrievedISO": "2026-10-22T17:46:01.564Z",
+        "endTs": "2:23:23"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2023-11-27",
+      "text": "Staff will send a council member's list of questions about the landfill to the director for written answers.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PTqRX2LQMh4",
+        "ts": "2:19:50",
+        "retrievedISO": "2026-10-22T17:46:01.564Z",
+        "endTs": "2:20:23"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2023-11-27",
+      "text": "The director estimated the total cost at about $65 million.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PTqRX2LQMh4",
+        "ts": "2:13:54",
+        "retrievedISO": "2026-10-22T17:46:01.564Z",
+        "endTs": "2:14:24"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2023-11-27",
+      "text": "The director said the county intends to monitor the site in perpetuity, beyond the 30 years state rules require.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PTqRX2LQMh4",
+        "ts": "2:11:10",
+        "retrievedISO": "2026-10-22T17:46:01.564Z",
+        "endTs": "2:11:44"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2023-11-27",
+      "text": "Startup funding of $5.2 million comes from a budget amendment for the Office of Recovery.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PTqRX2LQMh4",
+        "ts": "2:09:54",
+        "retrievedISO": "2026-10-22T17:46:01.564Z",
+        "endTs": "2:10:24"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2023-11-27",
+      "text": "The director said the temporary debris site is right next to the final disposal site.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PTqRX2LQMh4",
+        "ts": "2:08:38",
+        "retrievedISO": "2026-10-22T17:46:01.564Z",
+        "endTs": "2:09:08"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2023-11-27",
+      "text": "A testifier asked how toxic ash at the site could affect reefs and whales.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PTqRX2LQMh4",
+        "ts": "2:01:33",
+        "retrievedISO": "2026-10-22T17:46:01.564Z",
+        "endTs": "2:02:06"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2023-11-27",
+      "text": "Bill 120 would let the mayor sign a state agreement to use land for a wildfire debris landfill.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PTqRX2LQMh4",
+        "ts": "1:58:07",
+        "retrievedISO": "2026-10-22T17:46:01.564Z",
+        "endTs": "1:58:51"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2023-11-27",
+      "text": "The chair said archaeological work on county parcels in Lahaina can't begin until the council grants right of entry.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PTqRX2LQMh4",
+        "ts": "1:33:11",
+        "retrievedISO": "2026-10-22T17:46:01.564Z",
+        "endTs": "1:33:43"
+      },
+      "body": "County Council Water and Infrastructure Committee"
     }
   ],
   "sourceTypes": [

@@ -8,7 +8,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2025-08-18",
+  "firstSeenISO": "2025-08-12",
   "lastSeenISO": "2026-10-23",
   "signals": {
     "meetingsLast30d": 0,
@@ -32,6 +32,7 @@
     }
   ],
   "bills": [
+    "Bill 108 (2025)",
     "Bill 134 (2026)"
   ],
   "timeline": [
@@ -242,6 +243,71 @@
         "endTs": "0:07:00"
       },
       "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2025-08-12",
+      "text": "A council member plans a discussion on the water studies at the next Water and Infrastructure Committee meeting.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "WeBZ0EbfDEw",
+        "ts": "1:22:11",
+        "retrievedISO": "2026-10-19T12:23:22.778Z",
+        "endTs": "1:22:41"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-08-12",
+      "text": "The bill's sponsor said the studies inform water planning, watershed restoration and drought resilience.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "WeBZ0EbfDEw",
+        "ts": "1:22:02",
+        "retrievedISO": "2026-10-19T12:23:22.778Z",
+        "endTs": "1:22:32"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-08-12",
+      "text": "Pass Bill 108 on first reading: Bill 108, an agreement with the U.S. Geological Survey for water studies, passed first reading.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "WeBZ0EbfDEw",
+        "ts": "1:21:36",
+        "retrievedISO": "2026-10-19T12:23:22.778Z",
+        "endTs": "1:22:52"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-08-12",
+      "text": "This year's agreement adds a rain gauge at Honomanu Stream in East Maui.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "WeBZ0EbfDEw",
+        "ts": "0:15:24",
+        "retrievedISO": "2026-10-19T12:23:22.778Z",
+        "endTs": "0:15:54"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-08-12",
+      "text": "The Department of Water Supply testified for Bill 108, a water monitoring agreement with the U.S. Geological Survey.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "WeBZ0EbfDEw",
+        "ts": "0:15:00",
+        "retrievedISO": "2026-10-19T12:23:22.778Z",
+        "endTs": "0:15:30"
+      },
+      "body": "County Council Meeting"
     }
   ],
   "sourceTypes": [

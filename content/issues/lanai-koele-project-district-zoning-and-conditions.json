@@ -8,7 +8,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2024-08-27",
+  "firstSeenISO": "2024-08-07",
   "lastSeenISO": "2026-10-21",
   "signals": {
     "meetingsLast30d": 0,
@@ -33,6 +33,7 @@
   ],
   "bills": [
     "Bill 23 (2024)",
+    "Bill 24 (2024)",
     "Bill 24 (2026)",
     "Bill 25 (2024)"
   ],
@@ -309,6 +310,149 @@
         "endTs": "1:05:44"
       },
       "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2024-08-07",
+      "text": "Bills 24 and 25 remain pending before the committee.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "cKpVnGJN8nM",
+        "ts": "1:41:36",
+        "retrievedISO": "2026-10-19T06:44:13.667Z",
+        "endTs": "1:42:06"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2024-08-07",
+      "text": "Bill 23 CD1 moves on to the Council with the committee's recommendation to approve it.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "cKpVnGJN8nM",
+        "ts": "1:41:28",
+        "retrievedISO": "2026-10-19T06:44:13.667Z",
+        "endTs": "1:41:58"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2024-08-07",
+      "text": "Members voted 8–0, with one member excused, to recommend the community plan amendment to the Council.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "cKpVnGJN8nM",
+        "ts": "1:40:43",
+        "retrievedISO": "2026-10-19T06:44:13.667Z",
+        "endTs": "1:41:30"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2024-08-07",
+      "text": "The applicant's president said his thought would be to move the two homes closer to the stables if the resort expansion is approved.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "cKpVnGJN8nM",
+        "ts": "1:12:51",
+        "retrievedISO": "2026-10-19T06:44:13.667Z",
+        "endTs": "1:13:22"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2024-08-07",
+      "text": "Another resident asked that two old ranching-era homes in the resort expansion area be taken care of.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "cKpVnGJN8nM",
+        "ts": "0:59:42",
+        "retrievedISO": "2026-10-19T06:44:13.667Z",
+        "endTs": "1:00:28"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2024-08-07",
+      "text": "A Lānaʻi resident testified in support, saying the changes could bring more jobs.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "cKpVnGJN8nM",
+        "ts": "0:55:16",
+        "retrievedISO": "2026-10-19T06:44:13.667Z",
+        "endTs": "0:55:49"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2024-08-07",
+      "text": "The applicant's lawyer said an old bypass road requirement is out of balance with the smaller project.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "cKpVnGJN8nM",
+        "ts": "0:51:08",
+        "retrievedISO": "2026-10-19T06:44:13.667Z",
+        "endTs": "0:51:38"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2024-08-07",
+      "text": "The applicant said the plan cuts total acreage by 8 percent, with less golf course and more park and open space.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "cKpVnGJN8nM",
+        "ts": "0:35:00",
+        "retrievedISO": "2026-10-19T06:44:13.667Z",
+        "endTs": "0:35:32"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2024-08-07",
+      "text": "The applicant said the State Land Use Commission will not accept its district boundary amendment (a state land use district change) petition until the community plan amendment is approved.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "cKpVnGJN8nM",
+        "ts": "0:32:30",
+        "retrievedISO": "2026-10-19T06:44:13.667Z",
+        "endTs": "0:33:00"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2024-08-07",
+      "text": "Only one, a community plan amendment (a map change), could be voted on today.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "cKpVnGJN8nM",
+        "ts": "0:25:51",
+        "retrievedISO": "2026-10-19T06:44:13.667Z",
+        "endTs": "0:26:21"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2024-08-07",
+      "text": "The applicant said it will sign its unilateral agreement once the committee recommends the CD2 version.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "cKpVnGJN8nM",
+        "ts": "0:24:10",
+        "retrievedISO": "2026-10-19T06:44:13.667Z",
+        "endTs": "0:24:43"
+      },
+      "body": "County Council Housing and Land Use Committee"
     }
   ],
   "sourceTypes": [

@@ -1,7 +1,7 @@
 {
   "slug": "disinfecting-wastewater-that-reaches-the-ocean",
   "title": "Disinfecting wastewater that reaches the ocean",
-  "summary": "At the October 19 meeting, a testifier asked members to advance $1.8 million for design work on UV disinfection and urged against adding flow to the existing plant until it has effective disinfection. Testifiers say the Kahului plant stopped all disinfection in 2018. Earlier, on October 7, another testifier asked for $4 million for UV disinfection in South Maui, and in April a testifier said he believes people are getting sick and limits are being exceeded in the water.",
+  "summary": "On October 19, testifiers asked members to advance $1.8 million for design of UV disinfection and urged against adding flow to the existing Kahului plant until it disinfects effectively; earlier, another testifier asked for $4 million for South Maui UV. Testifiers say Kahului stopped all disinfection in 2018. The Kīhei UV upgrade was at 5% design in March, and the department said water sent to injection wells need not be R1 quality.",
   "topics": [
     "water",
     "environment",
@@ -9,7 +9,7 @@
   ],
   "status": "active",
   "pinned": false,
-  "firstSeenISO": "2026-04-06",
+  "firstSeenISO": "2026-03-09",
   "lastSeenISO": "2026-10-19",
   "signals": {
     "meetingsLast30d": 0,
@@ -120,6 +120,45 @@
         "endTs": "1:04:49"
       },
       "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-03-09",
+      "text": "The department said water sent to injection wells is not required to be R1 quality.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "zDzOGWp2_ms",
+        "ts": "1:17:26",
+        "retrievedISO": "2026-10-17T07:43:32.185Z",
+        "endTs": "1:17:56"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-03-09",
+      "text": "A testifier proposed a nonprofit that would collect donations to speed up county wastewater disinfection projects.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "zDzOGWp2_ms",
+        "ts": "0:27:58",
+        "retrievedISO": "2026-10-17T07:43:32.185Z",
+        "endTs": "0:28:53"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-03-09",
+      "text": "The Kīhei UV system upgrade is at 5% design.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "zDzOGWp2_ms",
+        "ts": "0:13:51",
+        "retrievedISO": "2026-10-17T07:43:32.185Z",
+        "endTs": "0:14:21"
+      },
+      "body": "County Council Water and Infrastructure Committee"
     }
   ],
   "sourceTypes": [

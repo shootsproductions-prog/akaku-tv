@@ -9,7 +9,7 @@
   ],
   "status": "quiet",
   "pinned": false,
-  "firstSeenISO": "2026-04-21",
+  "firstSeenISO": "2025-06-03",
   "lastSeenISO": "2026-05-15",
   "signals": {
     "meetingsLast30d": 0,
@@ -25,7 +25,9 @@
       "short": []
     }
   ],
-  "bills": [],
+  "bills": [
+    "Resolution 25-88"
+  ],
   "timeline": [
     {
       "dateISO": "2026-05-15",
@@ -128,6 +130,149 @@
         "ts": "0:01:05",
         "retrievedISO": "2026-10-17T02:26:41.224Z",
         "endTs": "0:01:35"
+      },
+      "body": "County Council Public Meeting"
+    },
+    {
+      "dateISO": "2025-06-03",
+      "text": "Resolution 25-88, FD2, adopting the real property tax rates for the County of Maui effective July 1, 2025: The Council adopted the resolution eight to zero, with one member excused.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "V2ih4OS-cHM",
+        "ts": "0:30:21",
+        "retrievedISO": "2026-10-18T08:21:13.916Z",
+        "endTs": "0:31:35"
+      },
+      "body": "County Council Public Meeting"
+    },
+    {
+      "dateISO": "2025-06-03",
+      "text": "He asked the Council to investigate the county's software model for assessing property.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "V2ih4OS-cHM",
+        "ts": "0:29:23",
+        "retrievedISO": "2026-10-18T08:21:13.916Z",
+        "endTs": "0:29:58"
+      },
+      "body": "County Council Public Meeting"
+    },
+    {
+      "dateISO": "2025-06-03",
+      "text": "A condo owner said taxes on one-bedroom condos at his complex rose from $10,435 in 2023 to an estimated $23,000 in 2025.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "V2ih4OS-cHM",
+        "ts": "0:27:47",
+        "retrievedISO": "2026-10-18T08:21:13.916Z",
+        "endTs": "0:28:17"
+      },
+      "body": "County Council Public Meeting"
+    },
+    {
+      "dateISO": "2025-06-03",
+      "text": "During questions, it was said people whose property taxes exceed 2% of income may qualify for a tax credit.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "V2ih4OS-cHM",
+        "ts": "0:25:06",
+        "retrievedISO": "2026-10-18T08:21:13.916Z",
+        "endTs": "0:26:00"
+      },
+      "body": "County Council Public Meeting"
+    },
+    {
+      "dateISO": "2025-06-03",
+      "text": "She said she was told she did not qualify for the circuit breaker tax credit.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "V2ih4OS-cHM",
+        "ts": "0:22:58",
+        "retrievedISO": "2026-10-18T08:21:13.916Z",
+        "endTs": "0:23:34"
+      },
+      "body": "County Council Public Meeting"
+    },
+    {
+      "dateISO": "2025-06-03",
+      "text": "A senior homeowner said the tax office told her to move out of her house.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "V2ih4OS-cHM",
+        "ts": "0:21:40",
+        "retrievedISO": "2026-10-18T08:21:13.916Z",
+        "endTs": "0:22:10"
+      },
+      "body": "County Council Public Meeting"
+    },
+    {
+      "dateISO": "2025-06-03",
+      "text": "Another testifier said churches are not carrying their fair share.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "V2ih4OS-cHM",
+        "ts": "0:14:45",
+        "retrievedISO": "2026-10-18T08:21:13.916Z",
+        "endTs": "0:15:15"
+      },
+      "body": "County Council Public Meeting"
+    },
+    {
+      "dateISO": "2025-06-03",
+      "text": "A licensed realtor said rising property taxes are hard for seniors on fixed incomes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "V2ih4OS-cHM",
+        "ts": "0:09:03",
+        "retrievedISO": "2026-10-18T08:21:13.916Z",
+        "endTs": "0:10:20"
+      },
+      "body": "County Council Public Meeting"
+    },
+    {
+      "dateISO": "2025-06-03",
+      "text": "Public testimony was limited to Resolution 25-88.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "V2ih4OS-cHM",
+        "ts": "0:03:38",
+        "retrievedISO": "2026-10-18T08:21:13.916Z",
+        "endTs": "0:04:08"
+      },
+      "body": "County Council Public Meeting"
+    },
+    {
+      "dateISO": "2025-06-03",
+      "text": "The chair reopened that meeting to set the tax rates for fiscal year 2026.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "V2ih4OS-cHM",
+        "ts": "0:03:29",
+        "retrievedISO": "2026-10-18T08:21:13.916Z",
+        "endTs": "0:03:59"
+      },
+      "body": "County Council Public Meeting"
+    },
+    {
+      "dateISO": "2025-06-03",
+      "text": "On May 27, the Council held a public meeting on proposed real property tax rates.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "V2ih4OS-cHM",
+        "ts": "0:03:17",
+        "retrievedISO": "2026-10-18T08:21:13.916Z",
+        "endTs": "0:03:47"
       },
       "body": "County Council Public Meeting"
     }

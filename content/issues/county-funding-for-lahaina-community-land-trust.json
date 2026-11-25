@@ -1,7 +1,7 @@
 {
   "slug": "county-funding-for-lahaina-community-land-trust",
   "title": "County funding for Lahaina Community Land Trust",
-  "summary": "On April 21, a council member proposed a $6 million grant to the Lahaina Community Land Trust to help wildfire survivors and homeowners with a gap in rebuilding money. She said the trust raised over $9.5 million using the County's first $6 million. Earlier, Bill 4 would move $5 million from the Open Space Fund to the trust, and a testifier on April 17 asked the council to restore $6 million in unrestricted funding.",
+  "summary": "On April 21, a council member proposed a new $6 million grant to the Lahaina Community Land Trust to help wildfire survivors with a rebuilding money gap. She said the trust raised over $9.5 million using the County's first $6 million. Earlier, the council approved $5 million from the Open Space Fund (Bill 4) and a managed retreat allocation, and the trust says it bought 20% of post-fire Lahaina parcel sales.",
   "topics": [
     "housing",
     "disaster-recovery"
@@ -260,6 +260,84 @@
         "endTs": "0:17:56"
       },
       "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2025-04-23",
+      "text": "The grant increase passed with nine ayes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "w90QupH8FPw",
+        "ts": "2:07:40",
+        "retrievedISO": "2026-10-22T11:24:07.072Z",
+        "endTs": "2:08:10"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-04-23",
+      "text": "Staff said the motion would raise the Lahaina Community Land Trust grant from $3 million to $6 million.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "w90QupH8FPw",
+        "ts": "2:04:31",
+        "retrievedISO": "2026-10-22T11:24:07.072Z",
+        "endTs": "2:05:03"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-04-23",
+      "text": "She said $3 million more would help another 10 to 12 families.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "w90QupH8FPw",
+        "ts": "1:15:56",
+        "retrievedISO": "2026-10-22T11:24:07.072Z",
+        "endTs": "1:16:26"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-04-23",
+      "text": "The testifier said the average insurance gap is between $300,000 and $400,000 per family.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "w90QupH8FPw",
+        "ts": "1:15:50",
+        "retrievedISO": "2026-10-22T11:24:07.072Z",
+        "endTs": "1:16:20"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-04-23",
+      "text": "A testifier said about 300 Lahaina families face insurance gaps that make it impossible to rebuild on their own.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "w90QupH8FPw",
+        "ts": "1:15:37",
+        "retrievedISO": "2026-10-22T11:24:07.072Z",
+        "endTs": "1:16:07"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-04-23",
+      "text": "A testifier asked for $3 million more to help about 300 Lahaina families facing insurance gaps rebuild.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "w90QupH8FPw",
+        "ts": "1:15:23",
+        "retrievedISO": "2026-10-22T11:24:07.072Z",
+        "endTs": "1:15:59"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
     },
     {
       "dateISO": "2025-04-10",
