@@ -1,0 +1,53 @@
+{
+  "slug": "waikapu-country-town-development-approvals",
+  "title": "Waikapū Country Town development approvals",
+  "summary": "The council backed a $17 million infrastructure loan request for the Waikapū Country Town project, voting eight to zero on November 7, 2025.",
+  "topics": [
+    "housing",
+    "land-use"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2025-11-07",
+  "lastSeenISO": "2025-11-07",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-25",
+  "timeline": [
+    {
+      "dateISO": "2025-11-07",
+      "text": "The council backed a $17 million infrastructure loan request for the Waikapū Country Town project, eight to zero.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "MJiHCk91Gwo",
+        "ts": "2:27:34",
+        "endTs": "2:29:12",
+        "retrievedISO": "2026-10-21T18:26:44.447Z"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
+  "takePart": {
+    "nextMeeting": {
+      "dateISO": "2026-11-25",
+      "time": "9:00 AM",
+      "body": "County Council Meeting",
+      "item": "COUNCILMEMBER UʻU-HODGINS, transmitting a proposed amendment to Resolution 26‑159, entitled \"AUTHORIZING AN ADJUSTMENT ON TIMING OF COMPLETION REQUIREMENTS OF THE RESIDENTIAL WORKFORCE HOUSING UNITS FOR THE WAIKAPU COUNTRY TOWN DISTRICT PROJECT UNDER SUBSECTION 2.96.060(A), MAUI COUNTY CODE\".",
+      "testimonyUrl": "https://mauicounty.portal.civicclerk.com/"
+    }
+  }
+}
