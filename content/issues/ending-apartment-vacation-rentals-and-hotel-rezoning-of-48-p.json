@@ -9,11 +9,11 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2025-07-24",
-  "lastSeenISO": "2026-11-20",
+  "lastSeenISO": "2026-11-10",
   "signals": {
-    "meetingsLast30d": 2,
-    "meetingsLast90d": 8,
-    "mentionsLast30d": 2,
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 7,
+    "mentionsLast30d": 1,
     "upcomingEvent": {
       "dateISO": "2028-12-31",
       "what": "Bill 9 ends vacation rentals in West Maui apartment districts",
@@ -28,13 +28,6 @@
   "asOfISO": "2026-11-25",
   "boards": [
     {
-      "name": "Housing and Land Use Committee",
-      "group": "council",
-      "short": [
-        "HLU"
-      ]
-    },
-    {
       "name": "Maui Planning Commission",
       "group": "board",
       "short": []
@@ -43,6 +36,13 @@
       "name": "Maui County Council",
       "group": "council",
       "short": []
+    },
+    {
+      "name": "Housing and Land Use Committee",
+      "group": "council",
+      "short": [
+        "HLU"
+      ]
     }
   ],
   "bills": [
@@ -60,19 +60,6 @@
     "Resolution 26-161"
   ],
   "timeline": [
-    {
-      "dateISO": "2026-11-20",
-      "text": "A councilmember said converting single-family homes to hotel zoning works against efforts to provide housing for locals.",
-      "basis": "said-at-meeting",
-      "source": {
-        "type": "meeting",
-        "videoId": "g-fqL2qZeIo",
-        "ts": "0:13:12",
-        "retrievedISO": "2026-11-23T22:21:58.730Z",
-        "endTs": "0:14:23"
-      },
-      "body": "County Council Housing and Land Use Committee"
-    },
     {
       "dateISO": "2026-11-10",
       "text": "Staff said the November 24th meeting will cover a hotel item for a new batch of properties.",
