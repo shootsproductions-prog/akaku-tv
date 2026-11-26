@@ -1,0 +1,46 @@
+{
+  "slug": "call-for-a-new-state-dam-and-reservoir-safety-law",
+  "title": "Call for a new state dam and reservoir safety law",
+  "summary": "A member said on October 20, 2026, that state lawmakers need to write a new dam and reservoir safety bill next term.",
+  "topics": [
+    "water",
+    "public-safety"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-10-20",
+  "lastSeenISO": "2026-10-20",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-26",
+  "timeline": [
+    {
+      "dateISO": "2026-10-20",
+      "text": "A member said state lawmakers need to write a new dam and reservoir safety bill next term.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HbaR9Nl6ScI",
+        "ts": "1:07:43",
+        "endTs": "1:08:16",
+        "retrievedISO": "2026-10-20T23:08:41.878Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
