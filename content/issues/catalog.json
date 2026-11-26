@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-26T03:26:10.387Z",
+  "updatedAt": "2026-11-26T07:40:12.737Z",
   "count": 282,
   "issues": [
     {
       "slug": "2027-mass-nominations-for-county-boards",
       "title": "2027 mass nominations and the vote on dissolving the nomination board",
-      "summary": "Voters will decide in November on a charter change that would dissolve the Independent Nomination Board. Meanwhile, on September 23 the board set November 11 as the deadline for 2027 mass nomination applications, with 64 of 77 seats open, and planned recruiting at the county fair and the November 21 senior fair. A single small group will interview, score and recommend applicants.",
+      "summary": "On November 23, members heard the board's Temporary Investigative Group (TIG) reviewed 54 applications, with four candidates listed for the Board of Water Supply and eight for the Housing Advisory Board. The board will vote at its next meeting on sending recommended candidates to the appointing authority, the application cutoff moved to December 9th, and members agreed to meet December 2nd and 16th. Voters decide in November on a charter change that would dissolve the board.",
       "topics": [
         "government"
       ],
@@ -993,7 +993,7 @@
     {
       "slug": "proposed-maui-county-passenger-ferry-to-molokai-and-lanai",
       "title": "Proposed Maui County passenger ferry to Molokaʻi and Lānaʻi",
-      "summary": "On November 13, Bill 152, which would establish a County ferry system, was tabled with no objections. At a September 17 community meeting, staff said the project is \"not a done deal\": a private company would run a passenger-only ferry under a bid contract, with Molokaʻi service hoped for by early 2029. Lānaʻi service is estimated to cost about $5 million a year, with tickets covering about $3 million, and a draft environmental assessment will be released for comment.",
+      "summary": "On November 13, 2026, the council tabled Bill 152, which would have set up a county ferry system, with no objections; the chair said whoever handles it will take it up in a 7B discussion. The county's ferry project continues separately: a September meeting said it is \"not a done deal,\" with a draft environmental assessment coming and Molokaʻi service hoped for by early 2029. The ferry would carry passengers only, run by a private operator under a county contract.",
       "topics": [
         "transportation"
       ],
@@ -8776,7 +8776,7 @@
     {
       "slug": "children-and-youth-commission-family-survey-findings",
       "title": "Children and Youth Commission family survey findings",
-      "summary": "At its September 21 meeting, the commission agreed to focus on building awareness of available behavioral health resources for youth and families, after a commissioner suggested the gap may be lack of awareness rather than lack of resources. The chair proposed an agenda item on annual survey reporting and a response goal. In August, the family survey ranked stable housing first, then mental health support and safe youth spaces.",
+      "summary": "The commission's family needs survey has 36 responses so far, and respondents rated safe and stable housing and access to healthy food close to an urgent need. A commissioner will update the survey slideshow and send it to the commission. Earlier, housing ranked as the top priority, and members agreed to focus on building awareness of available resources.",
       "topics": [
         "health",
         "housing",
@@ -8785,11 +8785,11 @@
       "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-08-24",
-      "lastSeenISO": "2026-09-21",
+      "lastSeenISO": "2026-11-16",
       "signals": {
-        "meetingsLast30d": 0,
-        "meetingsLast90d": 1,
-        "mentionsLast30d": 0,
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 2,
+        "mentionsLast30d": 3,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-25",
@@ -8807,6 +8807,42 @@
       ],
       "bills": [],
       "timeline": [
+        {
+          "dateISO": "2026-11-16",
+          "text": "A commissioner will update the survey slideshow and send it to the commission.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iH_-JmPdjUM",
+            "ts": "0:52:01",
+            "retrievedISO": "2026-11-25T21:12:34.946Z",
+            "endTs": "0:52:31"
+          }
+        },
+        {
+          "dateISO": "2026-11-16",
+          "text": "Respondents rated safe and stable housing close to an urgent need.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iH_-JmPdjUM",
+            "ts": "0:41:51",
+            "retrievedISO": "2026-11-25T21:12:34.946Z",
+            "endTs": "0:42:21"
+          }
+        },
+        {
+          "dateISO": "2026-11-16",
+          "text": "The family needs survey has 36 responses so far.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iH_-JmPdjUM",
+            "ts": "0:39:10",
+            "retrievedISO": "2026-11-25T21:12:34.946Z",
+            "endTs": "0:39:40"
+          }
+        },
         {
           "dateISO": "2026-09-21",
           "text": "The chair proposed an agenda item at the next meeting on annual survey reporting and a response goal.",
@@ -19301,11 +19337,11 @@
       "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-09-21",
-      "lastSeenISO": "2026-09-21",
+      "lastSeenISO": "2026-11-16",
       "signals": {
-        "meetingsLast30d": 0,
-        "meetingsLast90d": 1,
-        "mentionsLast30d": 0,
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 2,
+        "mentionsLast30d": 2,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-25",
@@ -19318,6 +19354,30 @@
       ],
       "bills": [],
       "timeline": [
+        {
+          "dateISO": "2026-11-16",
+          "text": "The vice chair will add locations, ages and access points to the list of funded youth programs.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iH_-JmPdjUM",
+            "ts": "0:34:04",
+            "retrievedISO": "2026-11-25T21:12:34.946Z",
+            "endTs": "0:34:34"
+          }
+        },
+        {
+          "dateISO": "2026-11-16",
+          "text": "The vice chair shared a list of youth programs funded by the Department of Human Concerns.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "iH_-JmPdjUM",
+            "ts": "0:09:58",
+            "retrievedISO": "2026-11-25T21:12:34.946Z",
+            "endTs": "0:10:28"
+          }
+        },
         {
           "dateISO": "2026-09-21",
           "text": "The chair hopes the program list arrives before the next meeting so it can go out with the meeting packet.",
@@ -29597,7 +29657,7 @@
     {
       "slug": "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p",
       "title": "Ending apartment vacation rentals and hotel rezoning of 48 properties",
-      "summary": "On November 20, the committee passed the main motion as amended, removing four properties from Bills 73 and 74 after a member argued they are homes locals could live in. The bills would move some apartment-zoned vacation rentals into H3 and H4 hotel zoning, and need six votes at first and second reading. The Planning Commission had backed only five properties and recommended denying others for lack of information.",
+      "summary": "On November 20, the committee passed the main motion as amended, removing four properties, including 2216 South Kīhei Road, from Bills 73 and 74. Supporters said the change keeps single-family homes that working locals could own, while one member called choosing by value too arbitrary. The bills rezone apartment-zoned vacation rental properties to H3 and H4 hotel zoning and need six votes at first and second reading.",
       "topics": [
         "housing",
         "land-use"
@@ -35312,7 +35372,7 @@
     {
       "slug": "kalaupapa-transition-to-maui-county-under-act-171",
       "title": "Kalaupapa transition to Maui County under Act 171",
-      "summary": "At the August 20, 2026 meeting, the chair said SB 1432 became Act 171 on June 26, 2026. Maui County takes over the Kalaupapa area one year after the last patient leaves, and only four patients remain on the registry. The chair has formed a community advisory group, or hui, and the committee deferred the transition item; Department of Hawaiian Home Lands (DHHL) expects beneficiary consultations in early 2027.",
+      "summary": "On August 20, 2026, the committee deferred the item on moving Kalaupapa to Maui County, with no objection. The chair said Senate Bill 1432 became Act 171 on June 26, 2026; the law starts after the last patient leaves, and Maui County takes over one year later. The Department of Hawaiian Home Lands expects its first of three beneficiary meetings in February or March 2027, and a committee member asked staff to send the managing director a written question on the county's preparation.",
       "topics": [
         "government",
         "culture",
@@ -44589,7 +44649,7 @@
     {
       "slug": "county-funding-for-lahaina-community-land-trust",
       "title": "County funding for Lahaina Community Land Trust",
-      "summary": "On April 21, a council member proposed a new $6 million grant to the Lahaina Community Land Trust to help wildfire survivors with a rebuilding money gap. She said the trust raised over $9.5 million using the County's first $6 million. Earlier, the council approved $5 million from the Open Space Fund (Bill 4) and a managed retreat allocation, and the trust says it bought 20% of post-fire Lahaina parcel sales.",
+      "summary": "On April 21, 2026, a council member proposed a $6 million grant to the Lahaina Community Land Trust to help wildfire survivors with a gap in rebuilding money. She said the trust raised over $9.5 million using the County's first $6 million. Earlier, the council raised the grant from $3 million to $6 million (April 2025) and let the trust use up to $5 million in managed retreat funds to buy land.",
       "topics": [
         "housing",
         "disaster-recovery"
@@ -47734,7 +47794,7 @@
     {
       "slug": "appointments-to-the-east-maui-water-board",
       "title": "Appointments to the East Maui water board",
-      "summary": "On August 13, 2025, the council voted 8-0, with the vice chair excused, to appoint a nominee to the East Maui Regional Community Board, acting ahead of an August 17 deadline. The nominee meets the charter's water resource management requirement, and the seat's term ends March 31, 2028. Voters created the board in 2022 to manage the watershed in East Maui's four license areas, and the council first filled its seats in June 2023.",
+      "summary": "On August 4, 2025, the committee heard from a farmer applying for a council-appointed East Maui board seat; a resolution approving him is to be posted on the August 12 council meeting agenda. In February 2025 the committee voted six to two to recommend the Hawaiian Homes Commission's representative under Resolution 25-50. The council had left that seat blank in June 2023 while awaiting the commission's response.",
       "topics": [
         "water",
         "government"
@@ -48442,7 +48502,7 @@
     {
       "slug": "special-committee-on-property-tax-reform",
       "title": "Special committee on property tax reform",
-      "summary": "On March 23, 2026, the Special Committee on Real Property Tax Reform wound down as its term ends this week. The chair recommended sending all pending bills that did not pass to the BFED committee, which can take up or file each one. The committee, which began work September 16, passed eight of 16 items, including measures like Bill 170, CD1's circuit breaker credit of up to $10,000.",
+      "summary": "The special committee on real property tax reform recessed on September 16 until the next day because of a problem with the agenda's Teams link, which staff said OIP advised could be a Sunshine Law violation if someone complained; the vice chair disagreed. Testifiers that day asked for bigger tax breaks for severely disabled people, said Bill 113 needs more study, and noted a property's tax class can lag its use by up to 18 months. The council created the committee on July 25 by a seven-aye vote.",
       "topics": [
         "economy",
         "government",
@@ -48472,8 +48532,7 @@
         }
       ],
       "bills": [
-        "Bill 113 (2025)",
-        "Bill 170 (2025)"
+        "Bill 113 (2025)"
       ],
       "timeline": [
         {
@@ -48953,7 +49012,7 @@
     {
       "slug": "temporary-and-permanent-lahaina-wildfire-debris-disposal-sit",
       "title": "Temporary and permanent Lahaina wildfire debris disposal sites",
-      "summary": "On April 16, 2026, the department said fees paid by the Army Corps covered the cost of hauling fire debris to the landfill, and it will get the exact cost for the council. Hauling to the permanent Central Maui site was set to begin June 16, 2025, with up to 50 trucks making four trips daily. The site's two building phases cost about $5.2 million and $14.4 million.",
+      "summary": "On April 16, 2026, the department said fees paid by the Army Corps covered the cost of hauling fire debris to the landfill, and it will get the exact hauling cost for the council. A council member had asked whether the move to the new landfill stayed within budget. Permanent hauling in West Maui began in June 2025, at about 50 truck round trips a day, and an $8 million budget shift to construction covered higher site costs.",
       "topics": [
         "disaster-recovery",
         "environment"
@@ -49395,7 +49454,7 @@
     {
       "slug": "discounted-preservation-water-rate-for-habitat-restoration",
       "title": "Discounted preservation water rate for habitat restoration",
-      "summary": "On Sept. 5, the committee voted to use the administration's revised Bill 99, which sets a \"preservation rate\" for native species habitat, and approved a change to match the agricultural rates, with eight ayes. The rate was first proposed at $4.98 per 1,000 gallons, against an $8.34 general rate and about $7 delivery cost. The water director said a lower rate would barely affect revenue.",
+      "summary": "Bill 56 CD1, which allows discounted water rates for habitat restoration, passed second and final reading on August 12, 2025. The sponsor said Bill 99 sets that rate in the budget. The bill would discount water rates for customers using water to conserve or restore native Hawaiian species habitat.",
       "topics": [
         "water",
         "environment"
@@ -55792,7 +55851,7 @@
     {
       "slug": "lanai-fifth-street-affordable-housing-project",
       "title": "Lānaʻi Fifth Street affordable housing project",
-      "summary": "In April 2026 a member said the Lānaʻi project with Department of Hawaiian Home Lands (DHHL) would clear the island's housing list. In January 2026 the council voted 9–0 to approve a ground lease for the long-term affordable housing project, and the developer said a state funding application starts in February. The county has set aside money, including $17 million in the budget, for what would be Lānaʻi's first affordable housing project in over 30 years.",
+      "summary": "At an April 2026 meeting, a member said the Lānaʻi project with the Department of Hawaiian Home Lands would clear the island's housing list. In January 2026 the council approved Resolution 26-4, a ground lease for a long-term affordable housing project, replacing an older lease resolution. The developer said a state funding application starts in February, and land control is key to it.",
       "topics": [
         "housing",
         "land-use"
@@ -61753,7 +61812,7 @@
     {
       "slug": "restarting-composting-at-the-central-maui-landfill",
       "title": "Restarting composting at the Central Maui Landfill",
-      "summary": "As of March 2026, the department says it expects to submit a permit for its compost program shortly. It calls keeping green waste out of the landfill a priority, and it needs green waste to mix with sewage sludge so the sludge can be landfilled. Composting stopped in 2023 for lack of space, and a $200,000 state grant now pays to haul Central Maui green waste to the landfill for compost.",
+      "summary": "As of March 2026, the department plans to submit a permit for its compost program shortly. It says keeping green waste out of the landfill is a priority, and the green waste it receives is needed to mix with sewage sludge so the sludge can be landfilled. In December 2023, a county recycling official said composting at Central Maui Landfill could restart in about six months, and county officials said it could supply local compost and cut off-island purchases.",
       "topics": [
         "environment",
         "food-security"

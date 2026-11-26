@@ -9,11 +9,11 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-09-21",
-  "lastSeenISO": "2026-09-21",
+  "lastSeenISO": "2026-11-16",
   "signals": {
-    "meetingsLast30d": 0,
-    "meetingsLast90d": 1,
-    "mentionsLast30d": 0,
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 2,
+    "mentionsLast30d": 2,
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-25",
@@ -26,6 +26,30 @@
   ],
   "bills": [],
   "timeline": [
+    {
+      "dateISO": "2026-11-16",
+      "text": "The vice chair will add locations, ages and access points to the list of funded youth programs.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iH_-JmPdjUM",
+        "ts": "0:34:04",
+        "retrievedISO": "2026-11-25T21:12:34.946Z",
+        "endTs": "0:34:34"
+      }
+    },
+    {
+      "dateISO": "2026-11-16",
+      "text": "The vice chair shared a list of youth programs funded by the Department of Human Concerns.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iH_-JmPdjUM",
+        "ts": "0:09:58",
+        "retrievedISO": "2026-11-25T21:12:34.946Z",
+        "endTs": "0:10:28"
+      }
+    },
     {
       "dateISO": "2026-09-21",
       "text": "The chair hopes the program list arrives before the next meeting so it can go out with the meeting packet.",

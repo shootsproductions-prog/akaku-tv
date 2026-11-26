@@ -1,7 +1,7 @@
 {
   "slug": "children-and-youth-commission-family-survey-findings",
   "title": "Children and Youth Commission family survey findings",
-  "summary": "At its September 21 meeting, the commission agreed to focus on building awareness of available behavioral health resources for youth and families, after a commissioner suggested the gap may be lack of awareness rather than lack of resources. The chair proposed an agenda item on annual survey reporting and a response goal. In August, the family survey ranked stable housing first, then mental health support and safe youth spaces.",
+  "summary": "The commission's family needs survey has 36 responses so far, and respondents rated safe and stable housing and access to healthy food close to an urgent need. A commissioner will update the survey slideshow and send it to the commission. Earlier, housing ranked as the top priority, and members agreed to focus on building awareness of available resources.",
   "topics": [
     "health",
     "housing",
@@ -10,11 +10,11 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-08-24",
-  "lastSeenISO": "2026-09-21",
+  "lastSeenISO": "2026-11-16",
   "signals": {
-    "meetingsLast30d": 0,
-    "meetingsLast90d": 1,
-    "mentionsLast30d": 0,
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 2,
+    "mentionsLast30d": 3,
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-25",
@@ -32,6 +32,42 @@
   ],
   "bills": [],
   "timeline": [
+    {
+      "dateISO": "2026-11-16",
+      "text": "A commissioner will update the survey slideshow and send it to the commission.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iH_-JmPdjUM",
+        "ts": "0:52:01",
+        "retrievedISO": "2026-11-25T21:12:34.946Z",
+        "endTs": "0:52:31"
+      }
+    },
+    {
+      "dateISO": "2026-11-16",
+      "text": "Respondents rated safe and stable housing close to an urgent need.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iH_-JmPdjUM",
+        "ts": "0:41:51",
+        "retrievedISO": "2026-11-25T21:12:34.946Z",
+        "endTs": "0:42:21"
+      }
+    },
+    {
+      "dateISO": "2026-11-16",
+      "text": "The family needs survey has 36 responses so far.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "iH_-JmPdjUM",
+        "ts": "0:39:10",
+        "retrievedISO": "2026-11-25T21:12:34.946Z",
+        "endTs": "0:39:40"
+      }
+    },
     {
       "dateISO": "2026-09-21",
       "text": "The chair proposed an agenda item at the next meeting on annual survey reporting and a response goal.",
