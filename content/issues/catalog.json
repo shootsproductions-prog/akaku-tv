@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T07:40:12.737Z",
+  "updatedAt": "2026-11-26T08:26:10.466Z",
   "count": 282,
   "issues": [
     {
@@ -12,15 +12,20 @@
       "status": "active",
       "pinned": false,
       "firstSeenISO": "2024-11-06",
-      "lastSeenISO": "2026-10-08",
+      "lastSeenISO": "2026-11-23",
       "signals": {
-        "meetingsLast30d": 0,
-        "meetingsLast90d": 2,
-        "mentionsLast30d": 0,
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 3,
+        "mentionsLast30d": 3,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-25",
       "boards": [
+        {
+          "name": "Boards & Commissions Nominating Board",
+          "group": "board",
+          "short": []
+        },
         {
           "name": "Independent Nomination Board",
           "group": "board",
@@ -55,6 +60,97 @@
         "Resolution 26-93"
       ],
       "timeline": [
+        {
+          "dateISO": "2026-11-23",
+          "text": "Meeting schedule for remaining mass nomination work: Members agreed to meet December 2nd at 3 p.m. and December 16th, with no formal vote.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "wjQD2OzGHTk",
+            "ts": "0:31:48",
+            "retrievedISO": "2026-11-26T07:30:08.465Z",
+            "endTs": "0:32:18"
+          },
+          "body": "Boards & Commissions Nominating Board"
+        },
+        {
+          "dateISO": "2026-11-23",
+          "text": "Interviews will be scheduled for the next meeting with the four applicants received after posting.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "wjQD2OzGHTk",
+            "ts": "0:24:21",
+            "retrievedISO": "2026-11-26T07:30:08.465Z",
+            "endTs": "0:25:12"
+          },
+          "body": "Boards & Commissions Nominating Board"
+        },
+        {
+          "dateISO": "2026-11-23",
+          "text": "Members were told the cutoff for receiving applications was changed to December 9th.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "wjQD2OzGHTk",
+            "ts": "0:22:42",
+            "retrievedISO": "2026-11-26T07:30:08.465Z",
+            "endTs": "0:23:12"
+          },
+          "body": "Boards & Commissions Nominating Board"
+        },
+        {
+          "dateISO": "2026-11-23",
+          "text": "The board will vote at its next meeting on sending the recommended candidates to the appointing authority.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "wjQD2OzGHTk",
+            "ts": "0:18:21",
+            "retrievedISO": "2026-11-26T07:30:08.465Z",
+            "endTs": "0:18:56"
+          },
+          "body": "Boards & Commissions Nominating Board"
+        },
+        {
+          "dateISO": "2026-11-23",
+          "text": "Eight candidates were listed for the Housing Advisory Board.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "wjQD2OzGHTk",
+            "ts": "0:17:40",
+            "retrievedISO": "2026-11-26T07:30:08.465Z",
+            "endTs": "0:18:10"
+          },
+          "body": "Boards & Commissions Nominating Board"
+        },
+        {
+          "dateISO": "2026-11-23",
+          "text": "Four candidates were listed for the Board of Water Supply.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "wjQD2OzGHTk",
+            "ts": "0:16:56",
+            "retrievedISO": "2026-11-26T07:30:08.465Z",
+            "endTs": "0:17:26"
+          },
+          "body": "Boards & Commissions Nominating Board"
+        },
+        {
+          "dateISO": "2026-11-23",
+          "text": "Members were told the board's Temporary Investigative Group (TIG) reviewed 54 applications.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "wjQD2OzGHTk",
+            "ts": "0:16:07",
+            "retrievedISO": "2026-11-26T07:30:08.465Z",
+            "endTs": "0:16:42"
+          },
+          "body": "Boards & Commissions Nominating Board"
+        },
         {
           "dateISO": "2026-10-08",
           "text": "The County issued a news release seeking volunteers for 77 board and commission seats, with a November 11 application deadline.",
@@ -361,8 +457,8 @@
         }
       ],
       "sourceTypes": [
-        "county-release",
-        "meeting"
+        "meeting",
+        "county-release"
       ],
       "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
     },
