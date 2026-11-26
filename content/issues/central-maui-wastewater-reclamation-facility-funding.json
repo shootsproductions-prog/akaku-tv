@@ -1,7 +1,7 @@
 {
   "slug": "central-maui-wastewater-reclamation-facility-funding",
   "title": "Central Maui wastewater reclamation facility funding",
-  "summary": "On Nov. 10, the commission voted 6-0 to back the Planning Department's land use recommendation for about 14.9 acres for the Central Maui wastewater reclamation facility, sending it to the County Council with comments such as maximizing nitrogen removal. The plant would treat up to 4 million gallons a day, all as R1 recycled water. Officials expect it to run in late 2029 or later, ahead of a school's July 2031 need.",
+  "summary": "On Nov. 25, Bill 180 was introduced to add a $10.5 million state grant for the Central Maui Regional Wastewater Reclamation Facility in Waikapū. On Nov. 10 the commission voted six to support land use changes on about 14.9 acres, sending its recommendation and comments to the County Council. The plant, designed for 4 million gallons a day, is projected to start in late 2029 or later.",
   "topics": [
     "land-use",
     "housing"
@@ -9,15 +9,20 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2025-03-21",
-  "lastSeenISO": "2026-11-10",
+  "lastSeenISO": "2026-11-25",
   "signals": {
-    "meetingsLast30d": 1,
-    "meetingsLast90d": 2,
-    "mentionsLast30d": 3,
+    "meetingsLast30d": 2,
+    "meetingsLast90d": 3,
+    "mentionsLast30d": 4,
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-26",
   "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    },
     {
       "name": "Maui Planning Commission",
       "group": "board",
@@ -36,18 +41,27 @@
       "short": [
         "BFED"
       ]
-    },
-    {
-      "name": "Maui County Council",
-      "group": "council",
-      "short": []
     }
   ],
   "bills": [
     "Bill 30 (2025)",
-    "Bill 30 (2026)"
+    "Bill 30 (2026)",
+    "Bill 180 (2026)"
   ],
   "timeline": [
+    {
+      "dateISO": "2026-11-25",
+      "text": "Bill 180 would add a $10.5 million state grant for the Central Maui Regional Wastewater Reclamation Facility in Waikapū.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xltpleEW67I",
+        "ts": "0:14:14",
+        "retrievedISO": "2026-11-26T20:29:09.881Z",
+        "endTs": "0:14:46"
+      },
+      "body": "County Council Meeting"
+    },
     {
       "dateISO": "2026-11-10",
       "text": "The motion passed with six yes votes.",

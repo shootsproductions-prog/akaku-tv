@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T10:26:15.461Z",
+  "updatedAt": "2026-11-26T20:30:11.856Z",
   "count": 282,
   "issues": [
     {
@@ -1089,22 +1089,27 @@
     {
       "slug": "proposed-maui-county-passenger-ferry-to-molokai-and-lanai",
       "title": "Proposed Maui County passenger ferry to Molokaʻi and Lānaʻi",
-      "summary": "On November 13, 2026, the council tabled Bill 152, which would have set up a county ferry system, with no objections; the chair said whoever handles it will take it up in a 7B discussion. The county's ferry project continues separately: a September meeting said it is \"not a done deal,\" with a draft environmental assessment coming and Molokaʻi service hoped for by early 2029. The ferry would carry passengers only, run by a private operator under a county contract.",
+      "summary": "On November 13, the council tabled Bill 152, which would create a county ferry system, with no objections; the chair said whoever handles it will take it up in a 7B discussion. The ferry would carry passengers only, run by a private operator under county contract, with Molokaʻi service hoped for by early 2029.",
       "topics": [
         "transportation"
       ],
       "status": "active",
       "pinned": false,
       "firstSeenISO": "2024-08-22",
-      "lastSeenISO": "2026-10-09",
+      "lastSeenISO": "2026-11-25",
       "signals": {
-        "meetingsLast30d": 0,
-        "meetingsLast90d": 2,
-        "mentionsLast30d": 0,
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 3,
+        "mentionsLast30d": 1,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-26",
       "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        },
         {
           "name": "Department of Transportation",
           "group": "county",
@@ -1127,6 +1132,19 @@
         "Bill 152 (2026)"
       ],
       "timeline": [
+        {
+          "dateISO": "2026-11-25",
+          "text": "Bill 152 would create a county ferry system.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xltpleEW67I",
+            "ts": "0:49:08",
+            "retrievedISO": "2026-11-26T20:29:09.881Z",
+            "endTs": "0:49:38"
+          },
+          "body": "County Council Meeting"
+        },
         {
           "dateISO": "2026-10-09",
           "text": "The Maui County Council's ADEPT Committee listed the Maui County Ferry Feasibility Study on its master agenda.",
@@ -1671,10 +1689,10 @@
         }
       ],
       "sourceTypes": [
+        "meeting",
         "county-page",
         "county-release",
-        "other",
-        "meeting"
+        "other"
       ],
       "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
     },
@@ -23085,7 +23103,7 @@
     {
       "slug": "paia-sugar-mill-light-industrial-rezoning",
       "title": "Pāʻia Sugar Mill light industrial rezoning",
-      "summary": "On September 2, the committee moved to recommend passing Bills 109 and 115 on first reading, with amendments adopted by seven ayes. Bill 109 changes one 2.5-acre parcel from Heavy to Light Industrial, and Bill 115 rezones the land to M1. Conditions include water-saving practices, an evacuation route, at least 20% open space, and no bed-and-breakfasts.",
+      "summary": "On November 25, the council passed Bills 109 and 115 for the Pāʻia Sugar Mill redevelopment project, 9-0. Bill 109 changes the community plan use for a 2.5-acre parcel from Heavy Industrial to Light Industrial, and Bill 115 rezones the land from Urban Reserve to M1 Light Industrial. On September 2, the committee added conditions on water-saving practices, an evacuation route and chain businesses, and a 20% open space requirement, and it removed uses such as bed-and-breakfasts.",
       "topics": [
         "land-use",
         "economy"
@@ -23093,26 +23111,26 @@
       "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-08-25",
-      "lastSeenISO": "2026-09-02",
+      "lastSeenISO": "2026-11-25",
       "signals": {
-        "meetingsLast30d": 0,
-        "meetingsLast90d": 1,
-        "mentionsLast30d": 0,
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 2,
+        "mentionsLast30d": 1,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-26",
       "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        },
         {
           "name": "Housing and Land Use Committee",
           "group": "council",
           "short": [
             "HLU"
           ]
-        },
-        {
-          "name": "Maui County Council",
-          "group": "council",
-          "short": []
         }
       ],
       "bills": [
@@ -23120,6 +23138,19 @@
         "Bill 115 (2026)"
       ],
       "timeline": [
+        {
+          "dateISO": "2026-11-25",
+          "text": "Bills 109 and 115 for the Pāʻia Sugar Mill redevelopment project passed 9-0.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xltpleEW67I",
+            "ts": "0:27:44",
+            "retrievedISO": "2026-11-26T20:29:09.881Z",
+            "endTs": "0:28:46"
+          },
+          "body": "County Council Meeting"
+        },
         {
           "dateISO": "2026-09-02",
           "text": "Members took a roll call vote on counting the evacuation route as open space.",
@@ -26920,7 +26951,7 @@
     {
       "slug": "central-maui-wastewater-reclamation-facility-funding",
       "title": "Central Maui wastewater reclamation facility funding",
-      "summary": "On Nov. 10, the commission voted 6-0 to back the Planning Department's land use recommendation for about 14.9 acres for the Central Maui wastewater reclamation facility, sending it to the County Council with comments such as maximizing nitrogen removal. The plant would treat up to 4 million gallons a day, all as R1 recycled water. Officials expect it to run in late 2029 or later, ahead of a school's July 2031 need.",
+      "summary": "On Nov. 25, Bill 180 was introduced to add a $10.5 million state grant for the Central Maui Regional Wastewater Reclamation Facility in Waikapū. On Nov. 10 the commission voted six to support land use changes on about 14.9 acres, sending its recommendation and comments to the County Council. The plant, designed for 4 million gallons a day, is projected to start in late 2029 or later.",
       "topics": [
         "land-use",
         "housing"
@@ -26928,15 +26959,20 @@
       "status": "active",
       "pinned": false,
       "firstSeenISO": "2025-03-21",
-      "lastSeenISO": "2026-11-10",
+      "lastSeenISO": "2026-11-25",
       "signals": {
-        "meetingsLast30d": 1,
-        "meetingsLast90d": 2,
-        "mentionsLast30d": 3,
+        "meetingsLast30d": 2,
+        "meetingsLast90d": 3,
+        "mentionsLast30d": 4,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-26",
       "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        },
         {
           "name": "Maui Planning Commission",
           "group": "board",
@@ -26955,18 +26991,27 @@
           "short": [
             "BFED"
           ]
-        },
-        {
-          "name": "Maui County Council",
-          "group": "council",
-          "short": []
         }
       ],
       "bills": [
         "Bill 30 (2025)",
-        "Bill 30 (2026)"
+        "Bill 30 (2026)",
+        "Bill 180 (2026)"
       ],
       "timeline": [
+        {
+          "dateISO": "2026-11-25",
+          "text": "Bill 180 would add a $10.5 million state grant for the Central Maui Regional Wastewater Reclamation Facility in Waikapū.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xltpleEW67I",
+            "ts": "0:14:14",
+            "retrievedISO": "2026-11-26T20:29:09.881Z",
+            "endTs": "0:14:46"
+          },
+          "body": "County Council Meeting"
+        },
         {
           "dateISO": "2026-11-10",
           "text": "The motion passed with six yes votes.",
@@ -59389,7 +59434,7 @@
     {
       "slug": "fire-station-bills-tied-to-methodist-church-rezoning",
       "title": "Fire station bills tied to Methodist church rezoning",
-      "summary": "A committee voted nine to zero to recommend Bill 94-2026 as amended, which would rezone Lahaina United Methodist Church land from residential to public/quasi-public use. A land use zoning map and a committee report are still needed before first reading. The church burned down in August 2023 and wants to rebuild.",
+      "summary": "The Council passed Bill 94 on November 25, rezoning about 3.26 acres in Lahaina for Lahaina United Methodist Church. The church, its school and other buildings were destroyed in the August 2023 wildfires, and the zoning change will help it rebuild. A committee earlier voted nine to zero to recommend the bill, changing the land from R2 Residential to P1 Public/Quasi-Public, and later removed the zoning conditions.",
       "topics": [
         "disaster-recovery",
         "land-use"
@@ -59397,15 +59442,20 @@
       "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-07-01",
-      "lastSeenISO": "2026-07-01",
+      "lastSeenISO": "2026-11-25",
       "signals": {
-        "meetingsLast30d": 0,
-        "meetingsLast90d": 0,
-        "mentionsLast30d": 0,
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 1,
+        "mentionsLast30d": 1,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-26",
       "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        },
         {
           "name": "Disaster Recovery, International Affairs, and Planning Committee",
           "group": "council",
@@ -59418,6 +59468,19 @@
         "Bill 94 (2026)"
       ],
       "timeline": [
+        {
+          "dateISO": "2026-11-25",
+          "text": "The Council passed Bill 94, rezoning land in Lahaina for Lahaina United Methodist Church.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xltpleEW67I",
+            "ts": "0:20:14",
+            "retrievedISO": "2026-11-26T20:29:09.881Z",
+            "endTs": "0:21:46"
+          },
+          "body": "County Council Meeting"
+        },
         {
           "dateISO": "2026-07-01",
           "text": "A land use zoning map and a committee report are needed before the bill moves to first reading.",
@@ -60589,7 +60652,7 @@
     {
       "slug": "temporary-wastewater-service-for-new-waikapu-school",
       "title": "Temporary wastewater service for new Waikapū school",
-      "summary": "A committee voted 9–0 on October 19 to recommend passing Bill 116 on first reading. The bill is an agreement for temporary wastewater service to a new Central Maui school, expected to open in 2031. If the county's new wastewater plant is not running by then, the existing Wailuku-Kahului plant would take up to 14,500 gallons a day, which the director called a Plan B.",
+      "summary": "Bill 116, an agreement for temporary wastewater service to a new Central Maui school, passed 9-0 on November 25 after members voted 9-0 in October to recommend it. If the county's new wastewater plant is not running when the school opens, expected in 2031, the existing Wailuku-Kahului plant would take up to 14,500 gallons a day. The director called it a Plan B.",
       "topics": [
         "education",
         "environment"
@@ -60597,15 +60660,20 @@
       "status": "active",
       "pinned": false,
       "firstSeenISO": "2026-10-19",
-      "lastSeenISO": "2026-10-19",
+      "lastSeenISO": "2026-11-25",
       "signals": {
-        "meetingsLast30d": 0,
-        "meetingsLast90d": 1,
-        "mentionsLast30d": 0,
+        "meetingsLast30d": 1,
+        "meetingsLast90d": 2,
+        "mentionsLast30d": 1,
         "upcomingEvent": null
       },
       "asOfISO": "2026-11-26",
       "boards": [
+        {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        },
         {
           "name": "Water and Infrastructure Committee",
           "group": "council",
@@ -60618,6 +60686,19 @@
         "Bill 116 (2026)"
       ],
       "timeline": [
+        {
+          "dateISO": "2026-11-25",
+          "text": "Bill 116, for temporary wastewater service to a new Central Maui school, passed 9-0.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "xltpleEW67I",
+            "ts": "0:29:23",
+            "retrievedISO": "2026-11-26T20:29:09.881Z",
+            "endTs": "0:30:25"
+          },
+          "body": "County Council Meeting"
+        },
         {
           "dateISO": "2026-10-19",
           "text": "Members voted 9–0 to recommend passing the bill on first reading.",

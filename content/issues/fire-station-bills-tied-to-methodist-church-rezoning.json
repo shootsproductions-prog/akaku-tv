@@ -1,7 +1,7 @@
 {
   "slug": "fire-station-bills-tied-to-methodist-church-rezoning",
   "title": "Fire station bills tied to Methodist church rezoning",
-  "summary": "A committee voted nine to zero to recommend Bill 94-2026 as amended, which would rezone Lahaina United Methodist Church land from residential to public/quasi-public use. A land use zoning map and a committee report are still needed before first reading. The church burned down in August 2023 and wants to rebuild.",
+  "summary": "The Council passed Bill 94 on November 25, rezoning about 3.26 acres in Lahaina for Lahaina United Methodist Church. The church, its school and other buildings were destroyed in the August 2023 wildfires, and the zoning change will help it rebuild. A committee earlier voted nine to zero to recommend the bill, changing the land from R2 Residential to P1 Public/Quasi-Public, and later removed the zoning conditions.",
   "topics": [
     "disaster-recovery",
     "land-use"
@@ -9,15 +9,20 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-07-01",
-  "lastSeenISO": "2026-07-01",
+  "lastSeenISO": "2026-11-25",
   "signals": {
-    "meetingsLast30d": 0,
-    "meetingsLast90d": 0,
-    "mentionsLast30d": 0,
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 1,
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-26",
   "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    },
     {
       "name": "Disaster Recovery, International Affairs, and Planning Committee",
       "group": "council",
@@ -30,6 +35,19 @@
     "Bill 94 (2026)"
   ],
   "timeline": [
+    {
+      "dateISO": "2026-11-25",
+      "text": "The Council passed Bill 94, rezoning land in Lahaina for Lahaina United Methodist Church.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xltpleEW67I",
+        "ts": "0:20:14",
+        "retrievedISO": "2026-11-26T20:29:09.881Z",
+        "endTs": "0:21:46"
+      },
+      "body": "County Council Meeting"
+    },
     {
       "dateISO": "2026-07-01",
       "text": "A land use zoning map and a committee report are needed before the bill moves to first reading.",

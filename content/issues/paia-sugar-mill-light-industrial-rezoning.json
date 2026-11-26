@@ -1,7 +1,7 @@
 {
   "slug": "paia-sugar-mill-light-industrial-rezoning",
   "title": "Pāʻia Sugar Mill light industrial rezoning",
-  "summary": "On September 2, the committee moved to recommend passing Bills 109 and 115 on first reading, with amendments adopted by seven ayes. Bill 109 changes one 2.5-acre parcel from Heavy to Light Industrial, and Bill 115 rezones the land to M1. Conditions include water-saving practices, an evacuation route, at least 20% open space, and no bed-and-breakfasts.",
+  "summary": "On November 25, the council passed Bills 109 and 115 for the Pāʻia Sugar Mill redevelopment project, 9-0. Bill 109 changes the community plan use for a 2.5-acre parcel from Heavy Industrial to Light Industrial, and Bill 115 rezones the land from Urban Reserve to M1 Light Industrial. On September 2, the committee added conditions on water-saving practices, an evacuation route and chain businesses, and a 20% open space requirement, and it removed uses such as bed-and-breakfasts.",
   "topics": [
     "land-use",
     "economy"
@@ -9,26 +9,26 @@
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2026-08-25",
-  "lastSeenISO": "2026-09-02",
+  "lastSeenISO": "2026-11-25",
   "signals": {
-    "meetingsLast30d": 0,
-    "meetingsLast90d": 1,
-    "mentionsLast30d": 0,
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 2,
+    "mentionsLast30d": 1,
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-26",
   "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    },
     {
       "name": "Housing and Land Use Committee",
       "group": "council",
       "short": [
         "HLU"
       ]
-    },
-    {
-      "name": "Maui County Council",
-      "group": "council",
-      "short": []
     }
   ],
   "bills": [
@@ -36,6 +36,19 @@
     "Bill 115 (2026)"
   ],
   "timeline": [
+    {
+      "dateISO": "2026-11-25",
+      "text": "Bills 109 and 115 for the Pāʻia Sugar Mill redevelopment project passed 9-0.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xltpleEW67I",
+        "ts": "0:27:44",
+        "retrievedISO": "2026-11-26T20:29:09.881Z",
+        "endTs": "0:28:46"
+      },
+      "body": "County Council Meeting"
+    },
     {
       "dateISO": "2026-09-02",
       "text": "Members took a roll call vote on counting the evacuation route as open space.",

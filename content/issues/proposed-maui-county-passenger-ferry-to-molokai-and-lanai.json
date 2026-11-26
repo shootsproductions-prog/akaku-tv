@@ -1,22 +1,27 @@
 {
   "slug": "proposed-maui-county-passenger-ferry-to-molokai-and-lanai",
   "title": "Proposed Maui County passenger ferry to Molokaʻi and Lānaʻi",
-  "summary": "On November 13, 2026, the council tabled Bill 152, which would have set up a county ferry system, with no objections; the chair said whoever handles it will take it up in a 7B discussion. The county's ferry project continues separately: a September meeting said it is \"not a done deal,\" with a draft environmental assessment coming and Molokaʻi service hoped for by early 2029. The ferry would carry passengers only, run by a private operator under a county contract.",
+  "summary": "On November 13, the council tabled Bill 152, which would create a county ferry system, with no objections; the chair said whoever handles it will take it up in a 7B discussion. The ferry would carry passengers only, run by a private operator under county contract, with Molokaʻi service hoped for by early 2029.",
   "topics": [
     "transportation"
   ],
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2024-08-22",
-  "lastSeenISO": "2026-10-09",
+  "lastSeenISO": "2026-11-25",
   "signals": {
-    "meetingsLast30d": 0,
-    "meetingsLast90d": 2,
-    "mentionsLast30d": 0,
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 3,
+    "mentionsLast30d": 1,
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-26",
   "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    },
     {
       "name": "Department of Transportation",
       "group": "county",
@@ -39,6 +44,19 @@
     "Bill 152 (2026)"
   ],
   "timeline": [
+    {
+      "dateISO": "2026-11-25",
+      "text": "Bill 152 would create a county ferry system.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "xltpleEW67I",
+        "ts": "0:49:08",
+        "retrievedISO": "2026-11-26T20:29:09.881Z",
+        "endTs": "0:49:38"
+      },
+      "body": "County Council Meeting"
+    },
     {
       "dateISO": "2026-10-09",
       "text": "The Maui County Council's ADEPT Committee listed the Maui County Ferry Feasibility Study on its master agenda.",
@@ -583,10 +601,10 @@
     }
   ],
   "sourceTypes": [
+    "meeting",
     "county-page",
     "county-release",
-    "other",
-    "meeting"
+    "other"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }
