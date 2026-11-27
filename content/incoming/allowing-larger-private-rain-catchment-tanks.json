@@ -1,0 +1,84 @@
+{
+  "slug": "allowing-larger-private-rain-catchment-tanks",
+  "title": "Allowing larger private rain catchment tanks",
+  "summary": "Bill 180 would allow private rain catchment tanks of up to 30,000 gallons in agricultural, residential and rural districts. Earlier, in October 2024, the private water catchment bill, listed as Bill 153, was sent to the Water and Infrastructure Committee. A water tank contractor said rainfall at his home fell from 160 to 80 inches a year.",
+  "topics": [
+    "water"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2024-10-25",
+  "lastSeenISO": "2025-01-17",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-27",
+  "timeline": [
+    {
+      "dateISO": "2025-01-17",
+      "text": "Bill 180 would allow private rain catchment tanks of up to 30,000 gallons in agricultural, residential and rural districts.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ELlALdAo-Xc",
+        "ts": "4:08:58",
+        "endTs": "4:09:28",
+        "retrievedISO": "2026-10-22T03:48:56.054Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2024-10-25",
+      "text": "Bill 153, referral: The private water catchment bill was sent to the Water and Infrastructure Committee.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PanLlKqrVO8",
+        "ts": "3:30:38",
+        "endTs": "3:31:08",
+        "retrievedISO": "2026-10-21T21:48:16.506Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2024-10-25",
+      "text": "A water tank contractor said rainfall at his home fell from 160 to 80 inches a year.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PanLlKqrVO8",
+        "ts": "0:26:55",
+        "endTs": "0:27:25",
+        "retrievedISO": "2026-10-21T21:48:16.506Z"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [
+    "Bill 153 (2024)",
+    "Bill 153 (2025)",
+    "Bill 180 (2025)"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
+  "takePart": {
+    "nextMeeting": {
+      "dateISO": "2026-12-02",
+      "time": "9:00 AM",
+      "body": "Budget, Finance, and Economic Development Committee",
+      "where": "Online via Teams: http://tinyurl.com/BFED-Committee Remote oral testimony is also available online via the same Teams link. In-person testimony and viewing: Council Chamber, Kalana O Maui Building, 8t",
+      "item": "DISCUSSION ON BILL 180 (2026), AMENDING FISCAL YEAR 2027 BUDGET: CENTRAL MAUI REGIONAL WASTEWATER RECLAMATION FACILITY (WAIKAPŪ) (BFED-20(36))",
+      "agendaUrl": "https://mauicounty.legistar1.com/mauicounty/meetings/2026/12/4967_A_Budget%2C_Finance%2C_and_Economic_Development_Committee_%282025-2027%29_26-12-02_Committee_Agenda.pdf",
+      "testimonyUrl": "https://mauicounty.legistar.com/MeetingDetail.aspx?LEGID=4967&GID=632&G=E71DEF67-B5BD-48E0-B187-94BEDF37B05F"
+    }
+  }
+}

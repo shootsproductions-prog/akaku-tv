@@ -1,0 +1,92 @@
+{
+  "slug": "gulch-and-stream-sediment-removal-for-flood-control",
+  "title": "Gulch and stream sediment removal for flood control",
+  "summary": "Soil washed down from Kīhei will be reused as cover material at the landfill. About 300,000 cubic yards of sediment in the Kīhei gulches needs to be removed, and a request for more than $20 million to clear three gulches is with the USDA. In April, the committee cut $1 million in expected revenue from a revolving fund to offset $1 million for Kīhei Drainage Master Plan work.",
+  "topics": [
+    "environment",
+    "disaster-recovery"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2026-04-24",
+  "lastSeenISO": "2026-10-20",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-27",
+  "timeline": [
+    {
+      "dateISO": "2026-10-20",
+      "text": "Soil washed down from Kīhei will be reused as cover material at the landfill.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "HbaR9Nl6ScI",
+        "ts": "0:38:45",
+        "endTs": "0:39:15",
+        "retrievedISO": "2026-10-20T23:08:41.878Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-06-17",
+      "text": "A request for more than $20 million to clear three gulches is with the USDA.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "e2VurwUrZvg",
+        "ts": "0:52:20",
+        "endTs": "0:53:14",
+        "retrievedISO": "2026-10-16T19:25:29.862Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-06-17",
+      "text": "About 300,000 cubic yards of sediment in the Kīhei gulches needs to be removed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "e2VurwUrZvg",
+        "ts": "0:28:43",
+        "endTs": "0:29:22",
+        "retrievedISO": "2026-10-16T19:25:29.862Z"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-04-24",
+      "text": "Reduce anticipated revenues for a revolving fund by $1 million to offset Kīhei Drainage Master Plan work: The committee cut $1 million in expected revenue from a revolving fund to offset $1 million for Kīhei Drainage Master Plan work.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "KhrHZUeNlAw",
+        "ts": "0:39:44",
+        "endTs": "0:41:13",
+        "retrievedISO": "2026-10-17T01:27:46.895Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    },
+    {
+      "name": "Disaster Recovery, International Affairs, and Planning Committee",
+      "group": "council",
+      "short": [
+        "DRIP"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

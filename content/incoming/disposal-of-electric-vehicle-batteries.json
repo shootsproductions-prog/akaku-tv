@@ -1,0 +1,59 @@
+{
+  "slug": "disposal-of-electric-vehicle-batteries",
+  "title": "Disposal of electric vehicle batteries",
+  "summary": "As of April 2026, the County has deconstructed 30,000 pounds of electric vehicle batteries for disposal, according to the administrator. The agency is working to set up an end-of-life program for these batteries. The issue arose from loose electric vehicle batteries being left by the road.",
+  "topics": [
+    "environment",
+    "public-safety"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2026-04-13",
+  "lastSeenISO": "2026-04-13",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-27",
+  "timeline": [
+    {
+      "dateISO": "2026-04-13",
+      "text": "The agency is working to set up an end-of-life program for electric vehicle batteries.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "g1_1HGnWNlg",
+        "ts": "1:28:05",
+        "endTs": "1:28:35",
+        "retrievedISO": "2026-10-17T04:04:19.765Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-13",
+      "text": "The administrator said the County has deconstructed 30,000 pounds of electric vehicle batteries for disposal.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "g1_1HGnWNlg",
+        "ts": "1:27:46",
+        "endTs": "1:28:16",
+        "retrievedISO": "2026-10-17T04:04:19.765Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

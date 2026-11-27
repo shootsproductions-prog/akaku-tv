@@ -1,0 +1,96 @@
+{
+  "slug": "repairing-fire-damaged-west-maui-water-lines",
+  "title": "Repairing fire-damaged West Maui water lines",
+  "summary": "On October 25, 2024, the council voted 9 to 0 to use $1.7 million in Water Fund savings for West Maui water line repairs. Meters will be returned at no cost as damaged laterals are fixed, and single-family homes that had meters before will get free ones back. A council member said misinformation about water meters is causing a big problem in the community.",
+  "topics": [
+    "water",
+    "disaster-recovery"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2024-10-25",
+  "lastSeenISO": "2024-10-25",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-27",
+  "timeline": [
+    {
+      "dateISO": "2024-10-25",
+      "text": "The council voted 9 to 0 to use $1.7 million in Water Fund savings for West Maui water line repairs.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PanLlKqrVO8",
+        "ts": "2:09:13",
+        "endTs": "2:10:05",
+        "retrievedISO": "2026-10-21T21:48:16.506Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2024-10-25",
+      "text": "A testifier whose daughter lost her house in the fire zone thanked the council for the correction.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PanLlKqrVO8",
+        "ts": "1:26:46",
+        "endTs": "1:27:16",
+        "retrievedISO": "2026-10-21T21:48:16.506Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2024-10-25",
+      "text": "The member said misinformation about water meters is causing a big problem in the community.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PanLlKqrVO8",
+        "ts": "1:19:36",
+        "endTs": "1:20:06",
+        "retrievedISO": "2026-10-21T21:48:16.506Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2024-10-25",
+      "text": "Meters will be returned at no cost as damaged laterals are fixed.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PanLlKqrVO8",
+        "ts": "1:19:30",
+        "endTs": "1:20:00",
+        "retrievedISO": "2026-10-21T21:48:16.506Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2024-10-25",
+      "text": "A council member said single-family homes that had water meters before will get free meters back.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PanLlKqrVO8",
+        "ts": "1:18:23",
+        "endTs": "1:18:54",
+        "retrievedISO": "2026-10-21T21:48:16.506Z"
+      },
+      "body": "County Council Meeting"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}
