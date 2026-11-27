@@ -1,22 +1,27 @@
 {
   "slug": "haiku-fire-station-awaits-county-council-approval",
   "title": "Haʻikū fire station awaits County Council approval",
-  "summary": "The Haʻikū Fire Station still awaits County Council approval; as of mid-October it was waiting to be placed on a council agenda, and on November 13 testimony both supported and opposed the Kuiaha site. In August a committee recommended Bills 90 and 91 on first reading, requiring the parcel's remaining farm land to be used for subsistence agriculture. Disputes over land title and burials continue, and one resource person said he may seek a court order to delay the project.",
+  "summary": "As of late November 2026, the proposed Haʻikū fire station drew both support and opposition at testimony: the Maui Fire Department union chair and a firefighter backed it, while testifiers objected over noise and the Kuiaha site. A council committee recommended Bills 90 and 91 on first reading in August, requiring the parcel's remaining farm land be used for subsistence agriculture, but final approval still awaits a council agenda. The station would use about 6.1 acres of a 27.9-acre county-owned property, and title and burial concerns have been raised.",
   "topics": [
     "public-safety"
   ],
   "status": "active",
   "pinned": false,
   "firstSeenISO": "2025-04-07",
-  "lastSeenISO": "2026-10-30",
+  "lastSeenISO": "2026-11-25",
   "signals": {
-    "meetingsLast30d": 0,
-    "meetingsLast90d": 1,
-    "mentionsLast30d": 0,
+    "meetingsLast30d": 1,
+    "meetingsLast90d": 2,
+    "mentionsLast30d": 2,
     "upcomingEvent": null
   },
   "asOfISO": "2026-11-26",
   "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    },
     {
       "name": "Fire Commission",
       "group": "board",
@@ -48,6 +53,32 @@
     "Bill 91 (2026)"
   ],
   "timeline": [
+    {
+      "dateISO": "2026-11-25",
+      "text": "The Maui Fire Department union chair supported the Haʻikū fire station, saying response time saves lives.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jB2ySenu18U",
+        "ts": "1:41:05",
+        "retrievedISO": "2026-11-27T00:27:07.205Z",
+        "endTs": "1:42:12"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2026-11-25",
+      "text": "A testifier opposed the proposed Haʻikū fire station, citing noise in a quiet, rural area.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "jB2ySenu18U",
+        "ts": "1:15:29",
+        "retrievedISO": "2026-11-27T00:27:07.205Z",
+        "endTs": "1:16:30"
+      },
+      "body": "County Council Meeting"
+    },
     {
       "dateISO": "2026-10-30",
       "text": "Bill 151 (2026), introduced at the Mayor's request, amends Ordinance 5994 on County general obligation bonds. It includes a $4,250,000 appropriation for the Haʻikū Fire Station.",
@@ -608,8 +639,8 @@
     }
   ],
   "sourceTypes": [
-    "county-page",
-    "meeting"
+    "meeting",
+    "county-page"
   ],
   "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
 }
