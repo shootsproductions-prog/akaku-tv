@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-28T01:16:17.505Z",
-  "etag": "67e36ac3ac072da3f6e11b9844ebf04e9bba652a7a022d4bf3210aa688d322a7",
+  "updatedAt": "2026-11-28T08:12:14.310Z",
+  "etag": "bcc4e192733d2fbfcb624560c01666414d94ec644e3af2c03257a5af833ff9f2",
   "count": 366,
   "meetings": [
     {
@@ -5651,14 +5651,15 @@
       "voteCount": 4,
       "momentCount": 4,
       "issues": [
+        "bill-145-property-tax-exemption-for-child-care",
         "three-dhhl-wells-on-hawaiian-home-lands",
         "extending-property-tax-relief-for-wildfire-hit-properties",
         "bill-130-extending-water-meter-reservations",
         "waikapu-80-home-workforce-project-subsidy-and-deadline",
         "replacing-leaking-250-000-gallon-haiku-water-tank"
       ],
-      "updatedAt": "2026-11-28T01:16:17.505Z",
-      "sha256": "61b98bb5c2378d1d9bb11a0e36059a8408c4c372fb772a0e8d4a078c1ec50515"
+      "updatedAt": "2026-11-28T08:12:14.310Z",
+      "sha256": "e5116f28d8b75c603e9c6364b3758cd420830d74db20c8fa4f180804e98ea541"
     },
     {
       "videoId": "lZr-bds8cyM",
