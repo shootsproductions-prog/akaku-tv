@@ -1,0 +1,58 @@
+{
+  "slug": "finishing-the-lanai-field-house",
+  "title": "Finishing the Lānaʻi field house",
+  "summary": "At the April 15 meeting, the chair said she will share the field house sports programs proposal with staff so members can have a copy. The proposal follows a request from a speaker for local coaches, who asked for money to add an extended roof and gutters to the Lānaʻi Field House.",
+  "topics": [
+    "culture"
+  ],
+  "status": "quiet",
+  "pinned": false,
+  "firstSeenISO": "2026-04-15",
+  "lastSeenISO": "2026-04-15",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-28",
+  "timeline": [
+    {
+      "dateISO": "2026-04-15",
+      "text": "The chair said she will share the field house sports programs proposal with staff so members can have a copy.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ov8uxTErSC8",
+        "ts": "0:05:46",
+        "endTs": "0:06:16",
+        "retrievedISO": "2026-10-17T03:24:30.016Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2026-04-15",
+      "text": "A speaker for local coaches asked for money to add an extended roof and gutters to the Lānaʻi Field House.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ov8uxTErSC8",
+        "ts": "0:03:41",
+        "endTs": "0:04:29",
+        "retrievedISO": "2026-10-17T03:24:30.016Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes."
+}

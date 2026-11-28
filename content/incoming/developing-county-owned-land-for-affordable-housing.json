@@ -1,0 +1,214 @@
+{
+  "slug": "developing-county-owned-land-for-affordable-housing",
+  "title": "Developing county-owned land for affordable housing",
+  "summary": "On June 15, 2025's meeting record shows the housing department plans to study a South Kīhei parcel of over 100 acres, called the Kīhei Police Station parcel, and will share its list of county properties targeted for housing. In April, planning sought consultant money to get county land approved for housing, working with the Department of Housing, after last year's funded work was not done. Housing has said a large Kīhei county parcel is high on its affordable housing priority list.",
+  "topics": [
+    "housing",
+    "land-use"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2024-10-09",
+  "lastSeenISO": "2026-06-15",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 0,
+    "mentionsLast30d": 0,
+    "upcomingEvent": null
+  },
+  "asOfISO": "2026-11-28",
+  "timeline": [
+    {
+      "dateISO": "2026-06-15",
+      "text": "The director said the department has a list of county properties it is targeting for development.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "aGVu5petQPA",
+        "ts": "1:21:51",
+        "endTs": "1:22:21",
+        "retrievedISO": "2026-10-16T20:27:24.013Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "The housing director said the department will share its list of county properties that could be developed for housing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6WVDJO1LxXM",
+        "ts": "0:29:47",
+        "endTs": "0:30:17",
+        "retrievedISO": "2026-10-16T20:45:46.557Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2026-06-15",
+      "text": "The department plans to study a South Kīhei parcel of over 100 acres, called the Kīhei Police Station parcel.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "6WVDJO1LxXM",
+        "ts": "0:26:19",
+        "endTs": "0:27:06",
+        "retrievedISO": "2026-10-16T20:45:46.557Z"
+      },
+      "body": "County Council Water Authority, Social Services, and Parks Committee"
+    },
+    {
+      "dateISO": "2025-04-07",
+      "text": "Planning said work on county-owned land approvals funded last year was not done.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TuF5fAqpWVU",
+        "ts": "2:30:32",
+        "endTs": "2:31:02",
+        "retrievedISO": "2026-10-21T21:24:01.342Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-04-07",
+      "text": "Housing will help pick a parcel, and planning will work with a consultant on the approvals.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TuF5fAqpWVU",
+        "ts": "2:18:17",
+        "endTs": "2:18:48",
+        "retrievedISO": "2026-10-21T21:24:01.342Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-04-07",
+      "text": "Planning said the effort is a joint project with the Department of Housing, modeled on a County of Kauaʻi project.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TuF5fAqpWVU",
+        "ts": "2:17:59",
+        "endTs": "2:18:29",
+        "retrievedISO": "2026-10-21T21:24:01.342Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-04-07",
+      "text": "Planning is asking for consultant money to get county-owned land approved for housing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "TuF5fAqpWVU",
+        "ts": "2:17:39",
+        "endTs": "2:18:11",
+        "retrievedISO": "2026-10-21T21:24:01.342Z"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2024-10-23",
+      "text": "The housing director said he is working through three lists of county-owned properties.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ujhadD60GAQ",
+        "ts": "4:08:45",
+        "endTs": "4:10:01",
+        "retrievedISO": "2026-10-22T00:01:57.993Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2024-10-23",
+      "text": "The housing director said a large county parcel in Kīhei is high on the priority list for affordable housing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "ujhadD60GAQ",
+        "ts": "3:59:03",
+        "endTs": "4:00:15",
+        "retrievedISO": "2026-10-22T00:01:57.993Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2024-10-09",
+      "text": "The housing director said he will provide in writing the zoning and estimated entitlement timing for the plan's parcels.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3bSmU4_SmWE",
+        "ts": "1:50:35",
+        "endTs": "1:51:14",
+        "retrievedISO": "2026-10-21T20:05:03.969Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2024-10-09",
+      "text": "He said his department is updating its list of county land for housing, including parking lots.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3bSmU4_SmWE",
+        "ts": "0:19:08",
+        "endTs": "0:19:39",
+        "retrievedISO": "2026-10-21T20:05:03.969Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    },
+    {
+      "dateISO": "2024-10-09",
+      "text": "He said developing county parcels named in the plan would yield about 1,300 affordable units.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "3bSmU4_SmWE",
+        "ts": "0:12:54",
+        "endTs": "0:13:39",
+        "retrievedISO": "2026-10-21T20:05:03.969Z"
+      },
+      "body": "County Council Housing and Land Use Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Water Authority, Social Services, and Parks Committee",
+      "group": "council",
+      "short": [
+        "WASSP"
+      ]
+    },
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    },
+    {
+      "name": "Housing and Land Use Committee",
+      "group": "council",
+      "short": [
+        "HLU"
+      ]
+    }
+  ],
+  "bills": [],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
+  "takePart": {
+    "nextMeeting": {
+      "dateISO": "2026-12-01",
+      "time": "9:00 AM",
+      "body": "Housing and Land Use Committee",
+      "where": "Online via Teams: http://tinyurl.com/HLU-Committee Remote oral testimony is also available online via the same Teams link. In-person testimony and viewing: Council Chamber, Kalana O Maui Building, 8th",
+      "item": "RESOLUTION 26-194, REFERRING TO THE MAUI PLANNING COMMISSION PROPOSED BILLS TO AMEND THE KIHEI-MAKENA COMMUNITY PLAN AND WEST MAUI COMMUNITY PLAN AND TO CHANGE THE ZONING TO THE H-3 AND H-4 HOTEL DISTRICTS FOR CERTAIN PROPERTIES WITH HIGH MEDIAN ASSESSED UNIT VALUES (HLU-29)",
+      "agendaUrl": "https://mauicounty.legistar1.com/mauicounty/meetings/2026/12/4971_A_Housing_and_Land_Use_Committee_%282025-2027%29_26-12-01_Committee_Agenda.pdf",
+      "testimonyUrl": "https://mauicounty.legistar.com/MeetingDetail.aspx?LEGID=4971&GID=632&G=E71DEF67-B5BD-48E0-B187-94BEDF37B05F"
+    }
+  }
+}

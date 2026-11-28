@@ -1,0 +1,534 @@
+{
+  "slug": "using-recycled-r1-water-for-irrigation-and-firefighting",
+  "title": "Using recycled R1 water for irrigation and firefighting",
+  "summary": "On September 30, 2026, a member said reclaimed water use fell from 5 million to about 3 million gallons a day after the fire. The County wants all its reclaimed water used for irrigation, and a council member said it must build pipes to deliver it. In March, the Kāʻanapali Resort R1 distribution system was 80 percent built, expected to use 200,000 to 300,000 gallons a day.",
+  "topics": [
+    "water",
+    "environment"
+  ],
+  "status": "active",
+  "pinned": false,
+  "firstSeenISO": "2023-02-21",
+  "lastSeenISO": "2026-09-30",
+  "signals": {
+    "meetingsLast30d": 0,
+    "meetingsLast90d": 1,
+    "mentionsLast30d": 0,
+    "upcomingEvent": {
+      "dateISO": "2039-01-01",
+      "what": "State R1 reuse water standard starts",
+      "source": {
+        "type": "meeting",
+        "videoId": "wsmKjAn914w",
+        "ts": "1:11:44",
+        "retrievedISO": "2026-10-22T17:22:15.304Z"
+      }
+    }
+  },
+  "asOfISO": "2026-11-28",
+  "timeline": [
+    {
+      "dateISO": "2026-09-30",
+      "text": "A council member said the County needs to build out pipes to deliver this reclaimed water.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oZNc2fyyOPE",
+        "ts": "0:23:35",
+        "endTs": "0:24:05",
+        "retrievedISO": "2026-10-16T03:41:33.571Z"
+      },
+      "body": "County Council Special Meeting"
+    },
+    {
+      "dateISO": "2026-09-30",
+      "text": "The member said reclaimed water use fell from 5 million to about 3 million gallons a day after the fire.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "oZNc2fyyOPE",
+        "ts": "0:23:05",
+        "endTs": "0:23:44",
+        "retrievedISO": "2026-10-16T03:41:33.571Z"
+      },
+      "body": "County Council Special Meeting"
+    },
+    {
+      "dateISO": "2026-03-09",
+      "text": "The department expects the Kāʻanapali Resort R1 recycled water system to use about 200,000 to 300,000 gallons a day.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "zDzOGWp2_ms",
+        "ts": "0:45:29",
+        "endTs": "0:45:59",
+        "retrievedISO": "2026-10-17T07:43:32.185Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-03-09",
+      "text": "A testifier said South Maui badly needs irrigation water while treated water is being pumped into the kai (ocean).",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "zDzOGWp2_ms",
+        "ts": "0:32:54",
+        "endTs": "0:33:24",
+        "retrievedISO": "2026-10-17T07:43:32.185Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-03-09",
+      "text": "The committee reviewed the status of the Central Maui Wastewater Reclamation Facility and R1 recycled water expansion in West and South Maui.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "zDzOGWp2_ms",
+        "ts": "0:08:36",
+        "endTs": "0:09:08",
+        "retrievedISO": "2026-10-17T07:43:32.185Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2024-10-25",
+      "text": "The council voted 9 to 0 to adopt a resolution on using more R1 recycled water.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "PanLlKqrVO8",
+        "ts": "2:23:01",
+        "endTs": "2:23:47",
+        "retrievedISO": "2026-10-21T21:48:16.506Z"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2024-10-10",
+      "text": "The chair said the resolution will move on.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pIAO9bdqwOE",
+        "ts": "2:27:08",
+        "endTs": "2:27:38",
+        "retrievedISO": "2026-10-21T14:29:00.917Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2024-10-10",
+      "text": "The committee voted seven ayes to recommend adoption of the amended resolution, with one member excused.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pIAO9bdqwOE",
+        "ts": "2:26:56",
+        "endTs": "2:27:26",
+        "retrievedISO": "2026-10-21T14:29:00.917Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2024-10-10",
+      "text": "One council member voted no in the roll call.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pIAO9bdqwOE",
+        "ts": "2:26:28",
+        "endTs": "2:26:58",
+        "retrievedISO": "2026-10-21T14:29:00.917Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2024-10-10",
+      "text": "Amendment to item number three of the revised resolution: The committee approved a change asking the administration to invest in R1 production at the Kahului, Molokaʻi and Lānaʻi plants.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pIAO9bdqwOE",
+        "ts": "2:24:14",
+        "endTs": "2:25:53",
+        "retrievedISO": "2026-10-21T14:29:00.917Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2024-10-10",
+      "text": "That change, with cultural uses added, passed eight to zero, with one member excused.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pIAO9bdqwOE",
+        "ts": "2:23:10",
+        "endTs": "2:24:02",
+        "retrievedISO": "2026-10-21T14:29:00.917Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2024-10-10",
+      "text": "A council member raised concern that the resolution did not specify affordable housing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pIAO9bdqwOE",
+        "ts": "1:40:37",
+        "endTs": "1:41:13",
+        "retrievedISO": "2026-10-21T14:29:00.917Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2024-10-10",
+      "text": "The director said West Maui reuses about 50 percent.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pIAO9bdqwOE",
+        "ts": "1:31:30",
+        "endTs": "1:32:00",
+        "retrievedISO": "2026-10-21T14:29:00.917Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2024-10-10",
+      "text": "The environmental management director said South Maui reuses about 62 to 63 percent of its treated wastewater.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pIAO9bdqwOE",
+        "ts": "1:31:13",
+        "endTs": "1:31:45",
+        "retrievedISO": "2026-10-21T14:29:00.917Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2024-10-10",
+      "text": "The environmental management director said R1 water costs less than drinking water, but its price does not fully cover operating costs.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pIAO9bdqwOE",
+        "ts": "1:16:26",
+        "endTs": "1:16:56",
+        "retrievedISO": "2026-10-21T14:29:00.917Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2024-10-10",
+      "text": "The environmental management director offered to give another R1 presentation to the council and community if asked.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pIAO9bdqwOE",
+        "ts": "1:01:48",
+        "endTs": "1:02:18",
+        "retrievedISO": "2026-10-21T14:29:00.917Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2024-10-10",
+      "text": "The environmental management director said the next West Maui phase takes R1 water up to a county-owned reservoir at the 700-foot level.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pIAO9bdqwOE",
+        "ts": "0:49:32",
+        "endTs": "0:50:02",
+        "retrievedISO": "2026-10-21T14:29:00.917Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2024-10-10",
+      "text": "Another testifier said private users of R1 water should pay for its pipes and operations, with public uses served first.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pIAO9bdqwOE",
+        "ts": "0:30:00",
+        "endTs": "0:30:30",
+        "retrievedISO": "2026-10-21T14:29:00.917Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2024-10-10",
+      "text": "A testifier said she lost her home in the fire and called the item a priority.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pIAO9bdqwOE",
+        "ts": "0:13:21",
+        "endTs": "0:13:51",
+        "retrievedISO": "2026-10-21T14:29:00.917Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2024-10-10",
+      "text": "The Department of Water Supply director said the department strongly supports the item.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pIAO9bdqwOE",
+        "ts": "0:08:37",
+        "endTs": "0:09:09",
+        "retrievedISO": "2026-10-21T14:29:00.917Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2024-10-10",
+      "text": "The chair said drought and water shortages have put West Maui affordable housing projects in limbo.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pIAO9bdqwOE",
+        "ts": "0:06:02",
+        "endTs": "0:06:32",
+        "retrievedISO": "2026-10-21T14:29:00.917Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2024-10-10",
+      "text": "Resolution 24-161 urges the administration to make and deliver more recycled R1 water to save drinking water for housing.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "pIAO9bdqwOE",
+        "ts": "0:05:24",
+        "endTs": "0:05:57",
+        "retrievedISO": "2026-10-21T14:29:00.917Z"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2023-10-19",
+      "text": "The director said that, with the disaster on the west side, the County must decide how to split limited funds between reuse upgrades and basic sewer service.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "eq4TN0l0pqc",
+        "ts": "2:16:18",
+        "endTs": "2:17:01",
+        "retrievedISO": "2026-10-22T19:28:07.281Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+    },
+    {
+      "dateISO": "2023-10-19",
+      "text": "The director said a UV disinfection upgrade at the Kīhei plant is built but still needs certification.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "eq4TN0l0pqc",
+        "ts": "2:11:12",
+        "endTs": "2:12:18",
+        "retrievedISO": "2026-10-22T19:28:07.281Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+    },
+    {
+      "dateISO": "2023-10-19",
+      "text": "The director said Kīhei reuses about half of its treated wastewater.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "eq4TN0l0pqc",
+        "ts": "2:09:46",
+        "endTs": "2:10:21",
+        "retrievedISO": "2026-10-22T19:28:07.281Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+    },
+    {
+      "dateISO": "2023-10-19",
+      "text": "The chair said he plans to return with an amended version of the bill.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "eq4TN0l0pqc",
+        "ts": "2:04:01",
+        "endTs": "2:04:31",
+        "retrievedISO": "2026-10-22T19:28:07.281Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+    },
+    {
+      "dateISO": "2023-10-19",
+      "text": "The director said over $80 million is planned for reuse expansion over the next six years.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "eq4TN0l0pqc",
+        "ts": "1:55:57",
+        "endTs": "1:56:27",
+        "retrievedISO": "2026-10-22T19:28:07.281Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+    },
+    {
+      "dateISO": "2023-10-19",
+      "text": "The chair read Bill 52, which requires discharged County wastewater to meet state R1 standards and reused wastewater to meet EPA drinking water standards.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "eq4TN0l0pqc",
+        "ts": "1:51:31",
+        "endTs": "1:52:04",
+        "retrievedISO": "2026-10-22T19:28:07.281Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+    },
+    {
+      "dateISO": "2023-10-19",
+      "text": "The chair said drier landscapes raise fire risk and he wants discharge standards in law so the water can be used safely to irrigate land.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "eq4TN0l0pqc",
+        "ts": "1:34:06",
+        "endTs": "1:34:40",
+        "retrievedISO": "2026-10-22T19:28:07.281Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+    },
+    {
+      "dateISO": "2023-10-19",
+      "text": "The director offered to give an updated presentation on recycled water reuse.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "eq4TN0l0pqc",
+        "ts": "1:17:43",
+        "endTs": "1:18:13",
+        "retrievedISO": "2026-10-22T19:28:07.281Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+    },
+    {
+      "dateISO": "2023-10-19",
+      "text": "A researcher described a garden park in Oregon that runs on recycled water.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "eq4TN0l0pqc",
+        "ts": "0:58:43",
+        "endTs": "0:59:55",
+        "retrievedISO": "2026-10-22T19:28:07.281Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+    },
+    {
+      "dateISO": "2023-10-19",
+      "text": "An environmental consultant said 2.6 million gallons a day of R1 water (treated wastewater fit for reuse) in Kīhei goes into injection wells unused.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "eq4TN0l0pqc",
+        "ts": "0:29:28",
+        "endTs": "0:29:58",
+        "retrievedISO": "2026-10-22T19:28:07.281Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+    },
+    {
+      "dateISO": "2023-10-19",
+      "text": "A wastewater association director described a plan to water a native-plant fire break with treated wastewater.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "eq4TN0l0pqc",
+        "ts": "0:14:44",
+        "endTs": "0:15:14",
+        "retrievedISO": "2026-10-22T19:28:07.281Z"
+      },
+      "body": "County Council Agriculture, Diversification, Environment, and Public Transportation Committee"
+    },
+    {
+      "dateISO": "2023-02-21",
+      "text": "He said every gallon of R1 (treated wastewater) that is reused saves a gallon of drinking water.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "qHMzbZ6lfFQ",
+        "ts": "0:33:09",
+        "endTs": "0:33:39",
+        "retrievedISO": "2026-10-23T05:07:42.341Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    },
+    {
+      "dateISO": "2023-02-21",
+      "text": "The nominee said reusing treated wastewater can save drinking water.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "qHMzbZ6lfFQ",
+        "ts": "0:09:30",
+        "endTs": "0:10:00",
+        "retrievedISO": "2026-10-23T05:07:42.341Z"
+      },
+      "body": "County Council Government Relations, Ethics, and Transparency Committee"
+    }
+  ],
+  "boards": [
+    {
+      "name": "Maui County Council",
+      "group": "council",
+      "short": []
+    },
+    {
+      "name": "Water and Infrastructure Committee",
+      "group": "council",
+      "short": [
+        "WAI"
+      ]
+    },
+    {
+      "name": "Agriculture, Diversification, Environment, and Public Transportation Committee",
+      "group": "council",
+      "short": [
+        "ADEPT"
+      ]
+    },
+    {
+      "name": "Government Relations, Ethics, and Transparency Committee",
+      "group": "council",
+      "short": [
+        "GREAT"
+      ]
+    }
+  ],
+  "bills": [
+    "Bill 52 (2023)",
+    "Resolution 24-161"
+  ],
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
+  "fromCommunityMeetings": [
+    {
+      "dateISO": "2023-03-08",
+      "kind": "official",
+      "who": "a South Maui Community Plan Advisory Committee member",
+      "quote": "This basically just takes the treated water to the largest water user in the county so that they aren't using potable water for irrigation.",
+      "about": "Explains a proposed recycled water line from the Kīhei treatment plant to Wailea resorts so that irrigation would use reclaimed water instead of drinking water.",
+      "source": {
+        "type": "community-meeting",
+        "title": "We Are South Maui: Community Plan Advisory Committee Meeting of March 8, 2023",
+        "videoId": "IZirMMY0G7o",
+        "ts": 7808
+      }
+    }
+  ]
+}
