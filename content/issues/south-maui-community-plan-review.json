@@ -560,6 +560,19 @@
     },
     {
       "dateISO": "2026-10-07",
+      "text": "The emergency management agency said it will likely have a wildfire specialist by January 1st.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5C73aQDRPR4",
+        "ts": "1:06:09",
+        "retrievedISO": "2026-10-16T22:24:10.229Z",
+        "endTs": "1:06:39"
+      },
+      "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-10-07",
       "text": "The committee's one agenda item was Bill 108 (2026), the South Maui Community Plan update.",
       "basis": "said-at-meeting",
       "source": {

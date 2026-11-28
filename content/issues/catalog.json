@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T08:26:18.008Z",
+  "updatedAt": "2026-11-28T09:20:14.127Z",
   "count": 282,
   "issues": [
     {
@@ -3055,6 +3055,19 @@
             "ts": "1:20:45",
             "retrievedISO": "2026-10-16T22:24:10.229Z",
             "endTs": "1:21:15"
+          },
+          "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-10-07",
+          "text": "The emergency management agency said it will likely have a wildfire specialist by January 1st.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "5C73aQDRPR4",
+            "ts": "1:06:09",
+            "retrievedISO": "2026-10-16T22:24:10.229Z",
+            "endTs": "1:06:39"
           },
           "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
         },
@@ -17647,7 +17660,7 @@
     {
       "slug": "three-dhhl-wells-on-hawaiian-home-lands",
       "title": "Three DHHL wells on Hawaiian Home Lands",
-      "summary": "On November 13, Bill 97 drew testimony questioning whether the wells agreement fits the Upcountry community plan. It covers an agreement with the Department of Hawaiian Homelands to develop three wells and dedicate them to the Department of Water Supply. Testifiers said it would pipe water out of the Upcountry district to South Maui and asked for a written legal opinion, which a council member said the county does not provide.",
+      "summary": "At the November 13 meeting, Bill 97 drew testimony over whether its agreement with the Department of Hawaiian Homelands (DHHL) fits the Upcountry Community Plan. The agreement covers three wells dedicated to the Department of Water Supply. A County attorney said the deal may not comply with the plan but is lawful because Hawaiian Home Lands takes priority.",
       "topics": [
         "water",
         "housing"
@@ -29878,7 +29891,7 @@
     {
       "slug": "ending-apartment-vacation-rentals-and-hotel-rezoning-of-48-p",
       "title": "Ending apartment vacation rentals and hotel rezoning of 48 properties",
-      "summary": "On November 20, the committee passed the main motion as amended, removing four properties, including 2216 South Kīhei Road, from Bills 73 and 74. Supporters said the change keeps single-family homes that working locals could own, while one member called choosing by value too arbitrary. The bills rezone apartment-zoned vacation rental properties to H3 and H4 hotel zoning and need six votes at first and second reading.",
+      "summary": "On November 20, the committee passed the main motion as amended, removing four properties, including 2216 South Kīhei Road, from Bills 73 and 74 after the mover called it \"take it or leave it.\" The bills would rezone apartment-district properties with vacation rentals to H3 and H4 hotel zoning. The Planning Commission backed only five properties, and the Office of Hawaiian Affairs opposed the bills. They need six votes at first and second reading.",
       "topics": [
         "housing",
         "land-use"
@@ -34150,7 +34163,7 @@
     {
       "slug": "extending-property-tax-relief-for-wildfire-hit-properties",
       "title": "Extending property tax relief for wildfire-hit properties",
-      "summary": "On August 25, 2026, Bill 103 changed the budget tied to the real property tax expiry date for wildfire-impacted properties. The bill would extend the exemption's end date from December 31, 2026, to June 30, 2028, which the budget director said lines it up with Ordinance 5913. Earlier bills had already moved to extend wildfire tax relief through June 30, 2028.",
+      "summary": "On August 25, 2026, Bill 103 changed the budget tied to the real property tax expiry date for wildfire-impacted properties. Bill 103 would extend the exemption from December 31, 2026, to June 30, 2028, and the budget director said this lines it up with Ordinance 5913. Earlier, Bill 171 proposed the same June 30, 2028 end date, and the finance director asked for quarterly updates to the council.",
       "topics": [
         "disaster-recovery",
         "economy"
@@ -34193,7 +34206,8 @@
         "Bill 103 (2026)",
         "Bill 115 (2024)",
         "Bill 147 (2024)",
-        "Bill 171 (2025)"
+        "Bill 171 (2025)",
+        "Bill 171 (2026)"
       ],
       "timeline": [
         {
@@ -38046,7 +38060,7 @@
     {
       "slug": "possible-county-purchase-of-maui-land-and-pine-water-assets",
       "title": "Possible county purchase of Maui Land and Pine water assets",
-      "summary": "On August 19, the committee voted 7–0 to go into closed session on buying an irrigation company's non-potable water assets, after the chair deferred the open item. The county wants the system, with two stream diversions, three reservoirs and three wells, and plans about $2.9 million in improvements after closing. This follows the May 18 MOU with Maui Land and Pineapple, and the council must approve any final purchase.",
+      "summary": "On August 19, the committee voted 7–0 to meet in closed session on buying an irrigation company's non-potable water assets, but the chair deferred the item because the committee had to leave the room. The county wants the system, which has two stream diversions, wells and three reservoirs, plus about $2.9 million in improvements. It is also in talks with Maui Land and Pineapple, and the council must approve any final purchase.",
       "topics": [
         "water",
         "land-use"
@@ -38077,6 +38091,13 @@
           "group": "council",
           "short": [
             "DRIP"
+          ]
+        },
+        {
+          "name": "Water and Infrastructure Committee",
+          "group": "council",
+          "short": [
+            "WAI"
           ]
         },
         {
@@ -38608,6 +38629,84 @@
             "endTs": "0:06:04"
           },
           "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+        },
+        {
+          "dateISO": "2026-07-27",
+          "text": "The chair asked to defer, or postpone, the item if no one objected.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "D1-_Szk5R0k",
+            "ts": "1:09:04",
+            "retrievedISO": "2026-10-22T07:42:27.434Z",
+            "endTs": "1:09:34"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-07-27",
+          "text": "After council approval, the department will move forward with the Public Utilities Commission (PUC) process.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "D1-_Szk5R0k",
+            "ts": "1:08:05",
+            "retrievedISO": "2026-10-22T07:42:27.434Z",
+            "endTs": "1:08:35"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-07-27",
+          "text": "If approved there, it goes to the council for final approval.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "D1-_Szk5R0k",
+            "ts": "1:07:54",
+            "retrievedISO": "2026-10-22T07:42:27.434Z",
+            "endTs": "1:08:24"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-07-27",
+          "text": "The department said Council Member Sugimura's committee will take up the purchase August 4th.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "D1-_Szk5R0k",
+            "ts": "1:07:27",
+            "retrievedISO": "2026-10-22T07:42:27.434Z",
+            "endTs": "1:07:57"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-07-27",
+          "text": "Staff said only the Public Utilities Commission (PUC) must approve the purchase itself.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "D1-_Szk5R0k",
+            "ts": "0:50:42",
+            "retrievedISO": "2026-10-22T07:42:27.434Z",
+            "endTs": "0:51:12"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-07-27",
+          "text": "Staff said using this water for existing County needs would still require a water use permit.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "D1-_Szk5R0k",
+            "ts": "0:47:14",
+            "retrievedISO": "2026-10-22T07:42:27.434Z",
+            "endTs": "0:47:53"
+          },
+          "body": "County Council Water and Infrastructure Committee"
         },
         {
           "dateISO": "2026-07-07",
@@ -39288,7 +39387,7 @@
     {
       "slug": "safe-parking-sites-for-people-living-in-cars",
       "title": "Safe parking sites for people living in cars",
-      "summary": "Bill 133 had no vote yet on Oct. 23, when the meeting broke for a ten-minute recess; it is set for second and final reading on Friday. It would let vehicles that are not fully registered join the safe parking pilot, expand the county properties that can be used, and remove some entry requirements. The county plans a temporary site for 50 to 60 people living in vehicles along the road, with 24-hour security and a six-month initial pilot.",
+      "summary": "On October 23, the meeting video ended at a ten-minute recess with no vote yet on Bill 133, which would let vehicles that are not fully registered join the safe parking pilot and expand the county properties where people may temporarily live in vehicles. The county plans a temporary site for 50 to 60 people now living in vehicles along the road, with round-the-clock security, and the pilot is expected to run six months at first. A separate permanent site in Kahului is still moving forward.",
       "topics": [
         "housing",
         "public-safety"
@@ -39859,7 +39958,7 @@
         },
         {
           "dateISO": "2026-10-19",
-          "text": "The director said the department will work with the Office of Communications to clarify the site plans for the public.",
+          "text": "The department director said the permanent site in Kahului, chosen through the request for proposals, is still moving forward.",
           "basis": "said-at-meeting",
           "source": {
             "type": "meeting",
@@ -42809,7 +42908,7 @@
         "mentionsLast30d": 0,
         "upcomingEvent": {
           "dateISO": "2029-09-07",
-          "what": "The project now has until September 7, 2029 to be finished.",
+          "what": "Waikapū housing project completion (September 7, 2029)",
           "source": {
             "type": "meeting",
             "videoId": "mHF14MCnPW0",
@@ -59587,7 +59686,7 @@
     {
       "slug": "fire-station-bills-tied-to-methodist-church-rezoning",
       "title": "Fire station bills tied to Methodist church rezoning",
-      "summary": "The Council passed Bill 94 on November 25, rezoning about 3.26 acres in Lahaina for Lahaina United Methodist Church. The church, its school and other buildings were destroyed in the August 2023 wildfires, and the zoning change will help it rebuild. A committee earlier voted nine to zero to recommend the bill, changing the land from R2 Residential to P1 Public/Quasi-Public, and later removed the zoning conditions.",
+      "summary": "The Council passed Bill 94 on November 25, rezoning about 3.26 acres in Lahaina for Lahaina United Methodist Church. The church, its school and other buildings burned in the August 2023 wildfires, and the change from R2 Residential to P1 Public/Quasi-Public will help it rebuild. A committee earlier voted nine to zero to recommend the bill, with the acreage corrected to match the deed and the zoning conditions removed.",
       "topics": [
         "disaster-recovery",
         "land-use"
@@ -60805,7 +60904,7 @@
     {
       "slug": "temporary-wastewater-service-for-new-waikapu-school",
       "title": "Temporary wastewater service for new Waikapū school",
-      "summary": "Bill 116, an agreement for temporary wastewater service to a new Central Maui school, passed 9-0 on November 25 after members voted 9-0 in October to recommend it. If the county's new wastewater plant is not running when the school opens, expected in 2031, the existing Wailuku-Kahului plant would take up to 14,500 gallons a day. The director called it a Plan B.",
+      "summary": "Bill 116, an agreement for temporary wastewater service to a new Central Maui school, passed 9-0 on November 25. It is a backup in case the county's new wastewater plant, projected to start in late 2029 or later, is not running when the school opens in 2031. Then the existing Wailuku-Kahului plant would take up to 14,500 gallons a day, subject to capacity.",
       "topics": [
         "education",
         "environment"
@@ -60854,6 +60953,19 @@
         },
         {
           "dateISO": "2026-10-19",
+          "text": "The bill moves to the full Council.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bAmgey8HdV0",
+            "ts": "0:28:16",
+            "retrievedISO": "2026-10-23T00:02:05.685Z",
+            "endTs": "0:28:46"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-10-19",
           "text": "Members voted 9–0 to recommend passing the bill on first reading.",
           "basis": "said-at-meeting",
           "source": {
@@ -60862,6 +60974,19 @@
             "ts": "0:28:13",
             "retrievedISO": "2026-10-23T00:02:05.685Z",
             "endTs": "0:28:43"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-10-19",
+          "text": "The director said the county has environmental permits for the new plant and is working through land approvals.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bAmgey8HdV0",
+            "ts": "0:22:55",
+            "retrievedISO": "2026-10-23T00:02:05.685Z",
+            "endTs": "0:23:38"
           },
           "body": "County Council Water and Infrastructure Committee"
         },
@@ -60880,6 +61005,45 @@
         },
         {
           "dateISO": "2026-10-19",
+          "text": "The environmental management director said the new plant should be running before the school needs service in July 2031.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bAmgey8HdV0",
+            "ts": "0:18:44",
+            "retrievedISO": "2026-10-23T00:02:05.685Z",
+            "endTs": "0:19:14"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-10-19",
+          "text": "A testifier urged against adding flow to the existing plant until it has effective disinfection.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bAmgey8HdV0",
+            "ts": "0:15:53",
+            "retrievedISO": "2026-10-23T00:02:05.685Z",
+            "endTs": "0:16:23"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-10-19",
+          "text": "The temporary service at the existing plant would be up to 14,500 gallons a day, subject to available capacity.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bAmgey8HdV0",
+            "ts": "0:06:34",
+            "retrievedISO": "2026-10-23T00:02:05.685Z",
+            "endTs": "0:07:04"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-10-19",
           "text": "If the county's new wastewater plant is not running by then, the existing Wailuku-Kahului plant would take up to 14,500 gallons a day.",
           "basis": "said-at-meeting",
           "source": {
@@ -60888,6 +61052,19 @@
             "ts": "0:06:28",
             "retrievedISO": "2026-10-23T00:02:05.685Z",
             "endTs": "0:06:58"
+          },
+          "body": "County Council Water and Infrastructure Committee"
+        },
+        {
+          "dateISO": "2026-10-19",
+          "text": "The new Central Maui wastewater plant is projected to begin operating in late 2029 or later.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "bAmgey8HdV0",
+            "ts": "0:06:21",
+            "retrievedISO": "2026-10-23T00:02:05.685Z",
+            "endTs": "0:06:51"
           },
           "body": "County Council Water and Infrastructure Committee"
         },

@@ -1,7 +1,7 @@
 {
   "slug": "possible-county-purchase-of-maui-land-and-pine-water-assets",
   "title": "Possible county purchase of Maui Land and Pine water assets",
-  "summary": "On August 19, the committee voted 7–0 to go into closed session on buying an irrigation company's non-potable water assets, after the chair deferred the open item. The county wants the system, with two stream diversions, three reservoirs and three wells, and plans about $2.9 million in improvements after closing. This follows the May 18 MOU with Maui Land and Pineapple, and the council must approve any final purchase.",
+  "summary": "On August 19, the committee voted 7–0 to meet in closed session on buying an irrigation company's non-potable water assets, but the chair deferred the item because the committee had to leave the room. The county wants the system, which has two stream diversions, wells and three reservoirs, plus about $2.9 million in improvements. It is also in talks with Maui Land and Pineapple, and the council must approve any final purchase.",
   "topics": [
     "water",
     "land-use"
@@ -32,6 +32,13 @@
       "group": "council",
       "short": [
         "DRIP"
+      ]
+    },
+    {
+      "name": "Water and Infrastructure Committee",
+      "group": "council",
+      "short": [
+        "WAI"
       ]
     },
     {
@@ -563,6 +570,84 @@
         "endTs": "0:06:04"
       },
       "body": "County Council Disaster Recovery, International Affairs, and Planning Committee"
+    },
+    {
+      "dateISO": "2026-07-27",
+      "text": "The chair asked to defer, or postpone, the item if no one objected.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "D1-_Szk5R0k",
+        "ts": "1:09:04",
+        "retrievedISO": "2026-10-22T07:42:27.434Z",
+        "endTs": "1:09:34"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-07-27",
+      "text": "After council approval, the department will move forward with the Public Utilities Commission (PUC) process.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "D1-_Szk5R0k",
+        "ts": "1:08:05",
+        "retrievedISO": "2026-10-22T07:42:27.434Z",
+        "endTs": "1:08:35"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-07-27",
+      "text": "If approved there, it goes to the council for final approval.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "D1-_Szk5R0k",
+        "ts": "1:07:54",
+        "retrievedISO": "2026-10-22T07:42:27.434Z",
+        "endTs": "1:08:24"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-07-27",
+      "text": "The department said Council Member Sugimura's committee will take up the purchase August 4th.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "D1-_Szk5R0k",
+        "ts": "1:07:27",
+        "retrievedISO": "2026-10-22T07:42:27.434Z",
+        "endTs": "1:07:57"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-07-27",
+      "text": "Staff said only the Public Utilities Commission (PUC) must approve the purchase itself.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "D1-_Szk5R0k",
+        "ts": "0:50:42",
+        "retrievedISO": "2026-10-22T07:42:27.434Z",
+        "endTs": "0:51:12"
+      },
+      "body": "County Council Water and Infrastructure Committee"
+    },
+    {
+      "dateISO": "2026-07-27",
+      "text": "Staff said using this water for existing County needs would still require a water use permit.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "D1-_Szk5R0k",
+        "ts": "0:47:14",
+        "retrievedISO": "2026-10-22T07:42:27.434Z",
+        "endTs": "0:47:53"
+      },
+      "body": "County Council Water and Infrastructure Committee"
     },
     {
       "dateISO": "2026-07-07",
