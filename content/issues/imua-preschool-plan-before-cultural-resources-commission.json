@@ -182,6 +182,32 @@
         "endTs": "4:02:18"
       },
       "body": "Cultural Resources Commission"
+    },
+    {
+      "dateISO": "2024-11-07",
+      "text": "The applicant agreed to the delay.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "zTUHCwY7IvY",
+        "ts": "3:12:29",
+        "retrievedISO": "2026-10-15T06:35:30.589Z",
+        "endTs": "3:13:02"
+      },
+      "body": "Cultural Resources Commission"
+    },
+    {
+      "dateISO": "2024-11-07",
+      "text": "A parent urged the commission to approve the application.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "zTUHCwY7IvY",
+        "ts": "2:15:57",
+        "retrievedISO": "2026-10-15T06:35:30.589Z",
+        "endTs": "2:16:27"
+      },
+      "body": "Cultural Resources Commission"
     }
   ],
   "sourceTypes": [

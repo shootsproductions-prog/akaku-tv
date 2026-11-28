@@ -9,7 +9,7 @@
   "status": "quiet",
   "pinned": false,
   "firstSeenISO": "2024-11-20",
-  "lastSeenISO": "2024-11-21",
+  "lastSeenISO": "2025-02-18",
   "signals": {
     "meetingsLast30d": 0,
     "meetingsLast90d": 0,
@@ -18,6 +18,13 @@
   },
   "asOfISO": "2026-11-27",
   "boards": [
+    {
+      "name": "Budget, Finance, and Economic Development Committee",
+      "group": "council",
+      "short": [
+        "BFED"
+      ]
+    },
     {
       "name": "Fire and Public Safety Commission",
       "group": "board",
@@ -31,6 +38,32 @@
   ],
   "bills": [],
   "timeline": [
+    {
+      "dateISO": "2025-02-18",
+      "text": "The managing director said full closeout of these repayments may take three to five years.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5YSnnPQctbk",
+        "ts": "1:53:17",
+        "retrievedISO": "2026-10-21T20:02:47.698Z",
+        "endTs": "1:53:47"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
+    {
+      "dateISO": "2025-02-18",
+      "text": "The managing director said about $2 to $3 million in public assistance (federal repayment for disaster damage) has already come to the county.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "5YSnnPQctbk",
+        "ts": "1:52:52",
+        "retrievedISO": "2026-10-21T20:02:47.698Z",
+        "endTs": "1:53:22"
+      },
+      "body": "County Council Budget, Finance, and Economic Development Committee"
+    },
     {
       "dateISO": "2024-11-21",
       "text": "FEMA gives the money to the state emergency agency, which then passes it to the county.",

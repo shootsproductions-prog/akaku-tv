@@ -149,6 +149,19 @@
     },
     {
       "dateISO": "2024-07-19",
+      "text": "The testifier warned the bills could be used by developers to create second homes.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "CNrEmWu8GiM",
+        "ts": "1:21:04",
+        "retrievedISO": "2026-10-19T19:45:48.233Z",
+        "endTs": "1:21:34"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2024-07-19",
       "text": "A testifier said Bill 104 could turn single-family homes into three-family dwellings.",
       "basis": "said-at-meeting",
       "source": {
@@ -157,6 +170,19 @@
         "ts": "1:19:41",
         "retrievedISO": "2026-10-19T19:45:48.233Z",
         "endTs": "1:20:11"
+      },
+      "body": "County Council Meeting"
+    },
+    {
+      "dateISO": "2024-07-19",
+      "text": "The testifier asked that water, wastewater, public works and fire agencies comment on the bills before they return to committee.",
+      "basis": "said-at-meeting",
+      "source": {
+        "type": "meeting",
+        "videoId": "CNrEmWu8GiM",
+        "ts": "1:19:23",
+        "retrievedISO": "2026-10-19T19:45:48.233Z",
+        "endTs": "1:19:56"
       },
       "body": "County Council Meeting"
     }

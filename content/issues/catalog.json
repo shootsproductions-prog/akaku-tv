@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T10:26:24.337Z",
+  "updatedAt": "2026-11-28T08:26:18.008Z",
   "count": 282,
   "issues": [
     {
@@ -11913,6 +11913,32 @@
             "ts": "4:00:55",
             "retrievedISO": "2026-10-15T06:35:30.589Z",
             "endTs": "4:02:18"
+          },
+          "body": "Cultural Resources Commission"
+        },
+        {
+          "dateISO": "2024-11-07",
+          "text": "The applicant agreed to the delay.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "zTUHCwY7IvY",
+            "ts": "3:12:29",
+            "retrievedISO": "2026-10-15T06:35:30.589Z",
+            "endTs": "3:13:02"
+          },
+          "body": "Cultural Resources Commission"
+        },
+        {
+          "dateISO": "2024-11-07",
+          "text": "A parent urged the commission to approve the application.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "zTUHCwY7IvY",
+            "ts": "2:15:57",
+            "retrievedISO": "2026-10-15T06:35:30.589Z",
+            "endTs": "2:16:27"
           },
           "body": "Cultural Resources Commission"
         }
@@ -25904,6 +25930,19 @@
         },
         {
           "dateISO": "2024-07-19",
+          "text": "The testifier warned the bills could be used by developers to create second homes.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "CNrEmWu8GiM",
+            "ts": "1:21:04",
+            "retrievedISO": "2026-10-19T19:45:48.233Z",
+            "endTs": "1:21:34"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2024-07-19",
           "text": "A testifier said Bill 104 could turn single-family homes into three-family dwellings.",
           "basis": "said-at-meeting",
           "source": {
@@ -25912,6 +25951,19 @@
             "ts": "1:19:41",
             "retrievedISO": "2026-10-19T19:45:48.233Z",
             "endTs": "1:20:11"
+          },
+          "body": "County Council Meeting"
+        },
+        {
+          "dateISO": "2024-07-19",
+          "text": "The testifier asked that water, wastewater, public works and fire agencies comment on the bills before they return to committee.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "CNrEmWu8GiM",
+            "ts": "1:19:23",
+            "retrievedISO": "2026-10-19T19:45:48.233Z",
+            "endTs": "1:19:56"
           },
           "body": "County Council Meeting"
         }
@@ -26384,7 +26436,7 @@
       "status": "quiet",
       "pinned": false,
       "firstSeenISO": "2024-11-18",
-      "lastSeenISO": "2024-11-18",
+      "lastSeenISO": "2024-11-26",
       "signals": {
         "meetingsLast30d": 0,
         "meetingsLast90d": 0,
@@ -26394,15 +26446,43 @@
       "asOfISO": "2026-11-27",
       "boards": [
         {
+          "name": "Maui County Council",
+          "group": "council",
+          "short": []
+        },
+        {
           "name": "Commission on Children and Youth",
           "group": "board",
           "short": []
         }
       ],
       "bills": [
-        "Bill 145 (2024)"
+        "Bill 140 (2024)",
+        "Bill 141 (2024)",
+        "Bill 145 (2024)",
+        "Bill 147 (2024)",
+        "Bill 153 (2024)",
+        "Bill 161 (2024)",
+        "Bill 163 (2024)",
+        "Bill 164 (2024)",
+        "Bill 165 (2024)",
+        "Bill 168 (2024)",
+        "Bill 169 (2024)"
       ],
       "timeline": [
+        {
+          "dateISO": "2024-11-26",
+          "text": "Group of bills on second and final reading: Bills 140, 141, 145, 147, 153, 161, 163, 164, 165, 168 and 169 passed second and final reading together.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "jUG5zrO3VCw",
+            "ts": "2:31:36",
+            "retrievedISO": "2026-10-21T18:04:36.529Z",
+            "endTs": "2:33:21"
+          },
+          "body": "County Council Meeting"
+        },
         {
           "dateISO": "2024-11-18",
           "text": "The chair asked commissioners to read about Bill 145 and discuss it at the next meeting.",
@@ -34367,7 +34447,7 @@
       "status": "quiet",
       "pinned": false,
       "firstSeenISO": "2024-11-20",
-      "lastSeenISO": "2024-11-21",
+      "lastSeenISO": "2025-02-18",
       "signals": {
         "meetingsLast30d": 0,
         "meetingsLast90d": 0,
@@ -34376,6 +34456,13 @@
       },
       "asOfISO": "2026-11-27",
       "boards": [
+        {
+          "name": "Budget, Finance, and Economic Development Committee",
+          "group": "council",
+          "short": [
+            "BFED"
+          ]
+        },
         {
           "name": "Fire and Public Safety Commission",
           "group": "board",
@@ -34389,6 +34476,32 @@
       ],
       "bills": [],
       "timeline": [
+        {
+          "dateISO": "2025-02-18",
+          "text": "The managing director said full closeout of these repayments may take three to five years.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "5YSnnPQctbk",
+            "ts": "1:53:17",
+            "retrievedISO": "2026-10-21T20:02:47.698Z",
+            "endTs": "1:53:47"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
+        {
+          "dateISO": "2025-02-18",
+          "text": "The managing director said about $2 to $3 million in public assistance (federal repayment for disaster damage) has already come to the county.",
+          "basis": "said-at-meeting",
+          "source": {
+            "type": "meeting",
+            "videoId": "5YSnnPQctbk",
+            "ts": "1:52:52",
+            "retrievedISO": "2026-10-21T20:02:47.698Z",
+            "endTs": "1:53:22"
+          },
+          "body": "County Council Budget, Finance, and Economic Development Committee"
+        },
         {
           "dateISO": "2024-11-21",
           "text": "FEMA gives the money to the state emergency agency, which then passes it to the county.",
