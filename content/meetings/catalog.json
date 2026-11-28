@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-28T08:12:14.310Z",
-  "etag": "bcc4e192733d2fbfcb624560c01666414d94ec644e3af2c03257a5af833ff9f2",
+  "updatedAt": "2026-11-28T08:50:14.092Z",
+  "etag": "af8feceefb0ea92f56db38f4bbb658157c1b850dcb145e64738f4601e1e201a6",
   "count": 366,
   "meetings": [
     {
@@ -3064,10 +3064,11 @@
       "voteCount": 0,
       "momentCount": 4,
       "issues": [
-        "county-buying-private-west-maui-water-systems"
+        "county-buying-private-west-maui-water-systems",
+        "possible-county-purchase-of-maui-land-and-pine-water-assets"
       ],
-      "updatedAt": "2026-11-28T01:16:17.505Z",
-      "sha256": "347981f5810b9fd50b471ac3e77153df233f48a917434ec252bfccabdb11cdff"
+      "updatedAt": "2026-11-28T08:50:14.092Z",
+      "sha256": "d2a95a3310b8e2a1781bd2bf22d900e82317deb83c18f01ee968cfbad58d2915"
     },
     {
       "videoId": "HcCfOPCnxRU",
