@@ -1,0 +1,136 @@
+{
+  "videoId": "K4_o2IHqfEc",
+  "status": "reviewed",
+  "disclaimer": "Summarized by Akakū Intelligence. It can make mistakes.",
+  "generatedAt": "2026-10-20T00:03:48.844Z",
+  "meetingDateISO": "2026-10-19",
+  "source": {
+    "youtubeUrl": "https://youtu.be/K4_o2IHqfEc"
+  },
+  "headline": "Maui County Council Water Authority, Social Services, and Parks Committee",
+  "topics": [
+    "Housing"
+  ],
+  "meeting": {
+    "id": "K4_o2IHqfEc",
+    "mon": "Oct",
+    "day": "19",
+    "date": "Mon, Oct 19, 2026",
+    "body": "Maui County Council Water Authority, Social Services, and Parks Committee",
+    "dur": "44 m",
+    "voteCount": 0,
+    "voteItem": "",
+    "ayes": null,
+    "noes": null,
+    "summary": "The committee discussed Bill 133, which would expand where houseless people can stay in vehicles; no vote was taken.",
+    "recap": "The committee discussed Bill 133 (2026), which changes Maui County Code Chapter 10.76 on parking lots.[[0:07:14]] The chair said a 2022 law created a pilot project letting houseless people stay in their vehicles at certain county parking lots.[[0:08:44]] The bill would expand which county properties can be used and lower barriers to joining.[[0:09:53]] No vote was taken because this was a Rule 7B discussion only.[[0:10:20]] Possible changes will be weighed before second and final reading on Friday.[[0:10:29]] A county lawyer said administrative rules (written procedures) take time and cannot be ready before the pilot programs start.[[0:20:44]] One testifier asked the County to consider county parks, which already have toilets and water.[[0:25:03]] A Hawaiʻi Public Housing Authority board member said the bill removes transparency.[[0:35:04]] She asked the Council to slow down and include the people who will use the program.[[0:38:01]] Another testifier asked about liability if insurance and safety checks are waived.[[0:43:15]]",
+    "decided": [
+      "The chair designated the administration staff present as resource personnel under Rule 18A, without objection."
+    ],
+    "next": "A county lawyer said the Council will have to re-examine the pilot project within 12 months. A county lawyer said her office would be happy to work on draft rules as the pilot project moves forward.",
+    "votes": [],
+    "moments": [
+      {
+        "t": "0:10:20",
+        "q": "Chair explains no legislative action today"
+      },
+      {
+        "t": "0:22:29",
+        "q": "Public testimony begins"
+      },
+      {
+        "t": "0:38:01",
+        "q": "Testifier asks the Council to slow down"
+      }
+    ],
+    "bodyType": "council",
+    "trackerIssues": [
+      {
+        "slug": "safe-parking-sites-for-people-living-in-cars",
+        "title": "Safe parking sites for people living in cars"
+      }
+    ],
+    "boards": [
+      {
+        "name": "Water Authority, Social Services, and Parks Committee",
+        "group": "council",
+        "short": [
+          "WASSP"
+        ]
+      }
+    ],
+    "bills": [
+      "Bill 133 (2026)"
+    ]
+  },
+  "issues": [
+    {
+      "issue": "Housing",
+      "since": "Oct 19, 2026",
+      "oneLine": "A bill would expand where people living in vehicles can stay on county property and remove some entry requirements.",
+      "why": "The chair said there is an urgent need to address houselessness while keeping the public safe.",
+      "deadlines": [],
+      "next": "Possible amendments are to be considered before second and final reading on Friday.",
+      "brief": "A county lawyer said the bill would allow other county-owned or managed parcels to be used, not just parking lots.[[#1]] The director said the temporary site would check people's ties to Maui County using a homeless data system and police records.[[#2]] The director said removing the old rules language is enough, without writing a separate exemption.[[#3]] A testifier said he met a woman with three small children living in a vehicle.[[#4]]",
+      "timeline": [
+        {
+          "mon": "Oct",
+          "day": "19",
+          "source": "Maui County Council Water Authority, Social Services, and Parks Committee",
+          "kind": "tv",
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee",
+          "note": "A bill would expand where people living in vehicles can stay on county property and remove some entry requirements.",
+          "proof": "0:18:38",
+          "view": {
+            "type": "meeting",
+            "id": "K4_o2IHqfEc"
+          },
+          "seek": "0:18:38"
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Oct 19",
+          "where": "Meeting video at 0:18:38",
+          "view": {
+            "type": "meeting",
+            "id": "K4_o2IHqfEc"
+          },
+          "seek": "0:18:38"
+        },
+        {
+          "n": 2,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Oct 19",
+          "where": "Meeting video at 0:14:44",
+          "view": {
+            "type": "meeting",
+            "id": "K4_o2IHqfEc"
+          },
+          "seek": "0:14:44"
+        },
+        {
+          "n": 3,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Oct 19",
+          "where": "Meeting video at 0:16:33",
+          "view": {
+            "type": "meeting",
+            "id": "K4_o2IHqfEc"
+          },
+          "seek": "0:16:33"
+        },
+        {
+          "n": 4,
+          "title": "Maui County Council Water Authority, Social Services, and Parks Committee · Oct 19",
+          "where": "Meeting video at 0:30:51",
+          "view": {
+            "type": "meeting",
+            "id": "K4_o2IHqfEc"
+          },
+          "seek": "0:30:51"
+        }
+      ]
+    }
+  ],
+  "bodyType": "council"
+}
